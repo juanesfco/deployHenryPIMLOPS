@@ -1,0 +1,381 @@
+item_id,item_name,playtime_forever,playtime_2weeks
+10,Counter-Strike,1,0
+20,Team Fortress Classic,0,0
+30,Day of Defeat,0,0
+40,Deathmatch Classic,0,0
+50,Half-Life: Opposing Force,0,0
+60,Ricochet,0,0
+70,Half-Life,124,0
+130,Half-Life: Blue Shift,2,0
+220,Half-Life 2,120,0
+240,Counter-Strike: Source,205,0
+320,Half-Life 2: Deathmatch,0,0
+340,Half-Life 2: Lost Coast,0,0
+80,Counter-Strike: Condition Zero,172,0
+100,Counter-Strike: Condition Zero Deleted Scenes,19,0
+280,Half-Life: Source,5,0
+360,Half-Life Deathmatch: Source,0,0
+1200,Red Orchestra: Ostfront 41-45,10,0
+1230,Mare Nostrum,0,0
+1280,Darkest Hour: Europe '44-'45,0,0
+1300,SiN Episodes: Emergence,33,0
+1309,SiN Multiplayer,0,0
+1313,SiN,0,0
+380,Half-Life 2: Episode One,0,0
+2100,Dark Messiah of Might & Magic Single Player,153,0
+2130,Dark Messiah of Might & Magic Multi-Player,0,0
+3830,Psychonauts,188,0
+3970,Prey,0,0
+7110,Jade Empire: Special Edition,88,0
+6900,Hitman: Codename 47,0,0
+6850,Hitman 2: Silent Assassin,3,0
+6860,Hitman: Blood Money,0,0
+2600,Vampire: The Masquerade - Bloodlines,93,0
+6910,Deus Ex: Game of the Year Edition,68,0
+6920,Deus Ex: Invisible War,0,0
+7650,X-COM: Terror from the Deep,2,0
+8200,Sam & Max 101: Culture Shock,4,0
+8210,Sam & Max 102: Situation: Comedy,0,0
+8220,"Sam & Max 103: The Mole, the Mob and the Meatball",0,0
+8400,Geometry Wars: Retro Evolved,1,0
+2200,Quake III Arena,22,0
+2270,Wolfenstein 3D,7,0
+2280,The Ultimate DOOM,5,0
+2290,Final DOOM,0,0
+2300,DOOM II: Hell on Earth,0,0
+2310,Quake,67,0
+2320,Quake II,32,0
+2330,Quake II: The Reckoning,0,0
+2340,Quake II: Ground Zero,0,0
+2350,Quake III: Team Arena,0,0
+2360,HeXen: Beyond Heretic,1,0
+2370,HeXen: Deathkings of the Dark Citadel,0,0
+2390,Heretic: Shadow of the Serpent Riders,1,0
+9000,Wolfenstein 3D: Spear of Destiny,0,0
+9010,Return to Castle Wolfenstein,11,0
+9030,Quake Mission Pack 2: Dissolution of Eternity,0,0
+9040,Quake Mission Pack 1: Scourge of Armagon,0,0
+9050,DOOM 3,39,0
+9060,HeXen II,15,0
+9070,DOOM 3: Resurrection of Evil,0,0
+9160,Master Levels for DOOM II,0,0
+9180,Commander Keen Complete Pack,2,0
+4760,Rome: Total War,6,0
+400,Portal,134,0
+420,Half-Life 2: Episode Two,0,0
+1920,Two Worlds,0,0
+1930,Two Worlds: Epic Edition,29,0
+3020,Call of Juarez,53,0
+12140,Max Payne,5,0
+12150,Max Payne 2: The Fall of Max Payne,86,0
+12100,Grand Theft Auto III,0,0
+12110,Grand Theft Auto: Vice City,3,0
+12120,Grand Theft Auto: San Andreas,10,0
+12170,Grand Theft Auto,7,0
+12180,Grand Theft Auto 2,1,0
+12230,Grand Theft Auto III,97,0
+12240,Grand Theft Auto: Vice City,5,0
+12250,Grand Theft Auto: San Andreas,4,0
+9740,Indigo Prophecy,62,0
+13560,Tom Clancy's Splinter Cell,76,0
+15700,Oddworld: Abe's Oddysee,58,0
+15710,Oddworld: Abe's Exoddus,1,0
+7660,X-COM: Apocalypse,0,0
+7730,X-COM: Interceptor,0,0
+7760,X-COM: UFO Defense,2,0
+7770,X-COM: Enforcer,0,0
+12900,Audiosurf,0,0
+12200,Bully: Scholarship Edition,104,0
+4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,44,0
+12210,Grand Theft Auto IV,197,0
+17470,Dead Space,7,0
+24740,Burnout Paradise: The Ultimate Box,0,0
+22330,The Elder Scrolls IV: Oblivion ,26,0
+22320,The Elder Scrolls III: Morrowind,21,0
+6090,Armed and Dangerous,10,0
+6040,The Dig,38,0
+6060,STAR WARS™ Battlefront™ II,289,0
+6010,Indiana Jones and the Fate of Atlantis,209,0
+32310,Indiana Jones and the Last Crusade,60,0
+32340,Loom,62,0
+6000,STAR WARS™ Republic Commando,9,0
+32350,STAR WARS™ Starfighter™,192,0
+15190,Brothers in Arms: Road to Hill 30,48,0
+15390,Brothers in Arms: Hell's Highway,0,0
+19800,Brothers in Arms: Earned in Blood,0,0
+18480,Mata Hari,0,0
+20530,Red Faction,45,0
+20550,Red Faction II,13,0
+32370,STAR WARS™: Knights of the Old Republic™,394,0
+6020,STAR WARS™ Jedi Knight: Jedi Academy™,23,0
+6030,STAR WARS™ Jedi Knight II: Jedi Outcast™,314,0
+32380,STAR WARS™ Jedi Knight: Dark Forces II,482,0
+32390,STAR WARS™ Jedi Knight: Mysteries of the Sith™,19,0
+32400,STAR WARS™: Dark Forces,452,13
+20500,Red Faction: Guerrilla Steam Edition,2,0
+24860,Battlefield 2,13,0
+24800,Command and Conquer: Red Alert 3 - Uprising,7,0
+24840,Medal of Honor: Airborne,34,0
+32420,STAR WARS™: The Clone Wars - Republic Heroes™,48,0
+10180,Call of Duty: Modern Warfare 2,70,0
+10190,Call of Duty: Modern Warfare 2 - Multiplayer,0,0
+10170,Wolfenstein,14,0
+41500,Torchlight,14,0
+17450,Dragon Age: Origins,0,0
+23490,Tropico 3 - Steam Special Edition,0,0
+41900,The Bard's Tale,40,0
+32430,STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,338,0
+32440,LEGO® Star Wars™: The Complete Saga,0,0
+22370,Fallout 3 - Game of the Year Edition,0,0
+3730,Aliens versus Predator Classic 2000,23,0
+24980,Mass Effect 2,0,0
+13520,Far Cry,23,0
+19900,Far Cry 2,21,0
+33230,Assassin's Creed II,102,0
+21090,F.E.A.R.,38,0
+21110,F.E.A.R.: Extraction Point,0,0
+21120,F.E.A.R.: Perseus Mandate,0,0
+32470,STAR WARS™ Empire at War: Gold Pack,0,0
+39670,Chaser,15,0
+17410,Mirror's Edge,9,0
+50620,Darksiders,16,0
+34270,SEGA Mega Drive & Genesis Classics,5,0
+40990,Mafia,18,0
+32360,The Secret of Monkey Island: Special Edition,16,0
+32460,Monkey Island 2: Special Edition,9,0
+70100,Hacker Evolution,0,0
+70110,Hacker Evolution - Untold,0,0
+8980,Borderlands,190,0
+22380,Fallout: New Vegas,20,0
+33600,Broken Sword 2 - the Smoking Mirror: Remastered,27,0
+33610,Broken Sword 3 - the Sleeping Dragon,11,0
+57640,Broken Sword 1 - Shadow of the Templars: Director's Cut,15,0
+32500,STAR WARS™: The Force Unleashed™ II,31,0
+31280,Poker Night at the Inventory,335,0
+78000,Bejeweled 3,52,0
+21100,F.E.A.R. 3,0,0
+7940,Call of Duty 4: Modern Warfare,20,0
+620,Portal 2,27,0
+55110,Red Faction: Armageddon,0,0
+57900,Duke Nukem Forever,337,4
+7600,Sid Meier's Railroads!,0,0
+16450,F.E.A.R. 2: Project Origin,0,0
+70120,Hacker Evolution Duality,0,0
+105700,Tobe's Vertical Adventure,0,0
+50130,Mafia II,326,0
+107300,Breath of Death VII ,1,0
+107310,Cthulhu Saves the World ,8,0
+35450,Rising Storm/Red Orchestra 2 Multiplayer,0,0
+236830,Red Orchestra 2: Heroes of Stalingrad - Single Player,0,0
+48000,LIMBO,50,0
+2210,Quake 4,24,0
+32800,The Lord of the Rings: War in the North,7,0
+9200,RAGE,12,0
+28050,Deus Ex: Human Revolution,373,0
+42680,Call of Duty: Modern Warfare 3,115,0
+42690,Call of Duty: Modern Warfare 3 - Multiplayer,0,0
+24010,Train Simulator,43,0
+200910,Before the Echo,21,0
+39160,Dungeon Siege III,0,0
+39190,Dungeon Siege,16,0
+39200,Dungeon Siege 2,0,0
+204030,Fable - The Lost Chapters,40,0
+110800,L.A. Noire,149,0
+108710,Alan Wake,92,0
+50300,Spec Ops: The Line,14,0
+205350,Mortal Kombat Kollection,10,0
+3900,Sid Meier's Civilization IV,68,0
+3990,Sid Meier's Civilization IV: Warlords,0,0
+8800,Sid Meier's Civilization IV: Beyond the Sword,0,0
+16810,Sid Meier's Civilization IV: Colonization,0,0
+34440,Sid Meier's Civilization IV,435,0
+34450,Sid Meier's Civilization IV: Warlords,0,0
+34460,Sid Meier's Civilization IV: Beyond the Sword,0,0
+4560,Company of Heroes,0,0
+228200,Company of Heroes (New Steam Version),0,0
+200260,Batman: Arkham City GOTY,0,0
+202750,Alan Wake's American Nightmare,0,0
+108800,Crysis 2 Maximum Edition,9,0
+204100,Max Payne 3,59,0
+50650,Darksiders II,0,0
+7670,BioShock,460,0
+8850,BioShock 2,16,0
+409710,BioShock Remastered,0,0
+409720,BioShock 2 Remastered,0,0
+35140,Batman: Arkham Asylum GOTY Edition,72,0
+31220,Sam & Max 301: The Penal Zone,0,0
+31230,Sam & Max 302: The Tomb of Sammun-Mak,0,0
+31240,Sam & Max 303: They Stole Max's Brain!,0,0
+31250,Sam & Max 304: Beyond the Alley of the Dolls,0,0
+31260,Sam & Max 305: The City that Dares not Sleep,0,0
+202170,Sleeping Dogs™,118,0
+208580,STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™,508,0
+200510,XCOM: Enemy Unknown,0,0
+218510,Planets Under Attack,0,0
+215790,Dream Pinball 3D,0,0
+10100,King's Quest Collection,0,0
+10110,Space Quest Collection,0,0
+219150,Hotline Miami,94,0
+218680,Scribblenauts Unlimited,8,0
+1900,Earth 2160,0,0
+220240,Far Cry® 3,62,0
+43110,Metro 2033,10,0
+203140,Hitman: Absolution,20,0
+205930,Hitman: Sniper Challenge,0,0
+7000,Tomb Raider: Legend,0,0
+8000,Tomb Raider: Anniversary,0,0
+8140,Tomb Raider: Underworld,0,0
+224960,Tomb Raider I,70,0
+224980,Tomb Raider: The Last Revelation,0,0
+225000,Tomb Raider: Chronicles,0,0
+225020,Tomb Raider (VI): The Angel of Darkness,0,0
+225300,Tomb Raider II,0,0
+225320,Tomb Raider III: Adventures of Lara Croft,0,0
+228280,Baldur's Gate: Enhanced Edition,1491,0
+8870,BioShock Infinite,0,0
+225260,Brütal Legend,19,0
+231910,Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded,275,0
+232790,Broken Age,105,0
+203250,Star Trek,30,0
+39140,FINAL FANTASY VII,269,0
+10130,TimeShift,0,0
+230050,DLC Quest,101,0
+225140,Duke Nukem 3D: Megaton Edition,81,0
+1250,Killing Floor,0,0
+35420,Killing Floor Mod: Defence Alliance 2,0,0
+115100,Costume Quest,9,0
+115110,Stacking,0,0
+3910,Sid Meier's Civilization III: Complete,0,0
+204450,Call of Juarez Gunslinger,0,0
+234710,Poker Night 2,9,0
+72850,The Elder Scrolls V: Skyrim,485,0
+217140,Rise of the Triad,238,0
+238050,The Apogee Throwback Pack,649,0
+213850,Magic 2014 ,797,0
+9480,Saints Row 2,0,0
+40390,Risen 2 - Dark Waters,0,0
+55230,Saints Row: The Third,0,0
+225640,Sacred 2 Gold,0,0
+91310,Dead Island,13,0
+40300,Risen,0,0
+207930,Sacred Citadel,0,0
+244070,Sid Meier's Ace Patrol,0,0
+47790,Medal of Honor(TM) Single Player,266,0
+47830,Medal of Honor(TM) Multiplayer,0,0
+245280,ENSLAVED™: Odyssey to the West™ Premium Edition,0,0
+111900,Guardians of Middle-earth,0,0
+253900,Knights and Merchants,0,0
+253960,Jack Orlando Director's Cut,0,0
+254040,Pirates of Black Cove Gold,0,0
+254060,KnightShift,0,0
+254100,World War II: Panzer Claws,0,0
+227600,Castle of Illusion,8,0
+245410,Wizardry 6: Bane of the Cosmic Forge,2,0
+245430,Wizardry 7: Crusaders of the Dark Savant,0,0
+209160,Call of Duty: Ghosts,46,0
+209170,Call of Duty: Ghosts - Multiplayer,0,0
+247430,Hitman: Contracts,0,0
+257350,Baldur's Gate II: Enhanced Edition,185,0
+213670,South Park™: The Stick of Truth™,29,0
+221910,The Stanley Parable,16,0
+244090,Sid Meier's Ace Patrol: Pacific Skies,0,0
+252730,YOU DON'T KNOW JACK Vol. 1 XL,10,0
+259940,YOU DON'T KNOW JACK Vol. 2,0,0
+259960,YOU DON'T KNOW JACK Vol. 3,47,0
+259980,YOU DON'T KNOW JACK Vol. 4 The Ride,0,0
+260000,YOU DON'T KNOW JACK MOVIES,15,0
+260020,YOU DON'T KNOW JACK SPORTS,0,0
+260040,YOU DON'T KNOW JACK TELEVISION,0,0
+260060,YOU DON'T KNOW JACK HEADRUSH,0,0
+262940,Broken Sword 5 - the Serpent's Curse,0,0
+263320,Saturday Morning RPG,3,0
+264540,Platformines,0,0
+39150,FINAL FANTASY VIII,3,0
+267340,Beware Planet Earth,0,0
+269110,Super Motherload,0,0
+8930,Sid Meier's Civilization V,2709,0
+550,Left 4 Dead 2,0,0
+223530,Left 4 Dead 2 Beta,0,0
+271640,Humanity Asset,0,0
+244430,realMyst: Masterpiece Edition,21,0
+282030,Carmageddon 2: Carpocalypse Now,0,0
+283290,Nosferatu: The Wrath of Malachi,0,0
+284460,DeadCore,0,0
+284950,Pixel Puzzles: Japan,0,0
+228400,ACE COMBAT™ ASSAULT HORIZON Enhanced Edition,0,0
+291170,Royal Defense,0,0
+202310,Ridge Racer™ Unbounded,6,0
+295930,Swipecart,1,0
+246070,Hack 'n' Slash,37,0
+65790,Arma: Cold War Assault,0,0
+63380,Sniper Elite V2,0,0
+310790,Geometry Wars 3: Dimensions Evolved,0,0
+9900,Star Trek Online,18,0
+255420,Magic 2015,78,0
+312840,Fahrenheit: Indigo Prophecy Remastered,8,0
+314160,Microsoft Flight Simulator X: Steam Edition,2,0
+317040,Strife: Veteran Edition,6,0
+320840,Wings! Remastered Edition,0,0
+211420,Dark Souls: Prepare to Die Edition,7,0
+337180,Velocity 2X,0,0
+345390,King's Quest,0,0
+240160,Duke Nukem,0,0
+240180,Duke Nukem 2,1,0
+240200,Duke Nukem: Manhattan Project,0,0
+358170,Arctic Adventure,4,0
+358180,Bio Menace,193,0
+358190,Blake Stone: Aliens of Gold,8,0
+358200,Math Rescue,0,0
+358210,Monster Bash,13,0
+358220,Mystic Towers,0,0
+358230,Paganitzu,0,0
+358240,Monuments of Mars,0,0
+358250,Cosmo's Cosmic Adventure,0,0
+358260,Crystal Caves,0,0
+358270,Death Rally (Classic),401,0
+358280,Alien Carnage / Halloween Harry,9,0
+358290,Hocus Pocus,0,0
+358300,Major Stryker,4,0
+358310,Blake Stone: Planet Strike,0,0
+358320,Realms of Chaos,0,0
+358330,Pharaoh's Tomb,2,0
+358340,Word Rescue,12,0
+358350,Secret Agent,0,0
+358360,Raptor: Call of the Shadows (1994 Classic Edition),3,0
+358370,Terminal Velocity,0,0
+358380,Wacky Wheels,0,0
+358390,Stargunner,0,0
+358400,Shadow Warrior (Classic),0,0
+358410,Rise of the Triad: Dark War,1,0
+358420,Xenophage,1,0
+358430,Balls of Steel,10,0
+358440,Dark Ages,0,0
+359850,Duke Nukem 3D,0,0
+310810,Shiftlings,0,0
+351820,Z.A.R.,0,0
+354430,STAR WARS™: X-Wing Special Edition,0,0
+355250,STAR WARS™: TIE Fighter Special Edition,0,0
+356500,STAR WARS™ Galactic Battlegrounds Saga,0,0
+236450,PAC-MAN Championship Edition DX+,7,0
+361670,STAR WARS™: X-Wing Alliance™,0,0
+361690,STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™,0,0
+47780,Dead Space 2,0,0
+316790,Grim Fandango Remastered,0,0
+371900,Pillar,0,0
+373390,Contradiction - the all-video murder mystery adventure,421,0
+397430,Zoombinis,142,0
+57300,Amnesia: The Dark Descent,0,0
+441550,STAR WARS™ Rebellion,0,0
+205230,Hell Yeah!,0,0
+205950,Jet Set Radio,0,0
+494740,Police Quest Collection,0,0
+495700,Gabriel Knight: Sins of the Fathers,0,0
+496760,Gabriel Knight 2: The Beast Within,0,0
+497360,"Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",0,0
+500810,Arcanum,0,0
+501970,Phantasmagoria 2,0,0
+501990,Phantasmagoria,0,0
+502750,Quest for Glory Collection,0,0
+319630,Life Is Strange™,0,0
+517790,Caesar 3,0,0
+517810,Caesar 4,0,0

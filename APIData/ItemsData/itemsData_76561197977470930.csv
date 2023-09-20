@@ -1,0 +1,464 @@
+item_id,item_name,playtime_forever,playtime_2weeks
+10,Counter-Strike,31,0
+20,Team Fortress Classic,1,0
+30,Day of Defeat,1393,0
+40,Deathmatch Classic,3,0
+50,Half-Life: Opposing Force,43,0
+60,Ricochet,0,0
+70,Half-Life,19,0
+130,Half-Life: Blue Shift,19,0
+220,Half-Life 2,606,0
+240,Counter-Strike: Source,208,0
+320,Half-Life 2: Deathmatch,41,0
+340,Half-Life 2: Lost Coast,0,0
+300,Day of Defeat: Source,433,0
+1500,Darwinia,19,0
+1200,Red Orchestra: Ostfront 41-45,23,0
+1230,Mare Nostrum,7,0
+1280,Darkest Hour: Europe '44-'45,33,0
+2800,X2: The Threat,20,0
+2810,X3: Reunion,50,0
+3830,Psychonauts,3,0
+4000,Garry's Mod,37,0
+360,Half-Life Deathmatch: Source,0,0
+380,Half-Life 2: Episode One,99,0
+400,Portal,35,0
+420,Half-Life 2: Episode Two,37,0
+2500,Shadowgrounds,0,0
+11200,Shadowgrounds: Survivor,19,0
+12900,Audiosurf,12,0
+9450,"Warhammer 40,000: Dawn of War – Soulstorm",155,0
+15130,Beyond Good & Evil,62,0
+19500,Eternity's Child,4,0
+500,Left 4 Dead,1350,0
+4570,"Warhammer 40,000: Dawn of War - Game of the Year Edition",0,0
+4580,"Warhammer 40,000: Dawn of War – Dark Crusade",0,0
+9310,"Warhammer 40,000: Dawn of War – Winter Assault",1,0
+18500,Defense Grid: The Awakening,176,0
+10500,Empire: Total War,0,0
+17470,Dead Space,0,0
+22120,Penumbra: Black Plague,0,0
+22140,Penumbra: Requiem,0,0
+15400,Harvest: Massive Encounter,6,0
+22180,Penumbra: Overture,7,0
+24740,Burnout Paradise: The Ultimate Box,19,0
+29800,Caster,7,0
+3710,Judge Dredd: Dredd vs Death,121,0
+9870,Ghostbusters: The Video Game,7,0
+1250,Killing Floor,4949,0
+35420,Killing Floor Mod: Defence Alliance 2,112,0
+6060,STAR WARS™ Battlefront™ II,211,0
+3700,Sniper Elite,0,0
+20530,Red Faction,0,0
+32370,STAR WARS™: Knights of the Old Republic™,55,0
+12830,Operation Flashpoint: Dragon Rising,120,0
+24800,Command and Conquer: Red Alert 3 - Uprising,0,0
+32410,Lucidity,8,0
+41500,Torchlight,390,0
+41000,Serious Sam HD: The First Encounter,0,0
+550,Left 4 Dead 2,314,0
+223530,Left 4 Dead 2 Beta,21,0
+22370,Fallout 3 - Game of the Year Edition,18,0
+8850,BioShock 2,123,0
+409720,BioShock 2 Remastered,0,0
+44200,Galcon Fusion,2,0
+40100,Supreme Commander 2,2636,0
+24960,Battlefield: Bad Company 2,122,0
+33680,Eversion ,3,0
+33910,Arma 2,1,0
+33930,Arma 2: Operation Arrowhead,3,0
+219540,Arma 2: Operation Arrowhead Beta (Obsolete),0,0
+17410,Mirror's Edge,0,0
+39800,Nation Red,131,0
+42500,DogFighter,67,0
+40300,Risen,0,0
+50620,Darksiders,159,0
+8980,Borderlands,150,0
+67000,The Polynomial,3,0
+22380,Fallout: New Vegas,227,0
+12210,Grand Theft Auto IV,96,0
+12220,Grand Theft Auto: Episodes from Liberty City,0,0
+47870,Need for Speed: Hot Pursuit,13,0
+26800,Braid,1,0
+29180,Osmos,0,0
+40700,Machinarium,8,0
+93200,Revenge of the Titans,14,0
+6330,Age of Conan: Hyborian Adventures,15,0
+6850,Hitman 2: Silent Assassin,0,0
+6860,Hitman: Blood Money,0,0
+6870,Battlestations: Midway,0,0
+6880,Just Cause,8,0
+6900,Hitman: Codename 47,0,0
+6910,Deus Ex: Game of the Year Edition,45,0
+6920,Deus Ex: Invisible War,5,0
+6980,Thief: Deadly Shadows,4,0
+7000,Tomb Raider: Legend,0,0
+7010,Project: Snowblind,5,0
+7020,Rogue Trooper,41,0
+7060,Infernal,0,0
+8000,Tomb Raider: Anniversary,0,0
+8080,Kane & Lynch: Dead Men,0,0
+8100,Conflict: Denied Ops,10,0
+8140,Tomb Raider: Underworld,0,0
+8160,Shellshock 2: Blood Trails,13,0
+8170,Battlestations: Pacific,6,0
+8190,Just Cause 2,56,0
+23300,Yosumin!,0,0
+23310,The Last Remnant,9,0
+23360,FINAL FANTASY XI,0,0
+23380,Gyromancer,3,0
+28000,Kane & Lynch 2: Dog Days,18,0
+34600,Order of War,0,0
+35000,Mini Ninjas,0,0
+35070,Flora's Fruit Farm,0,0
+35130,Lara Croft and the Guardian of Light,0,0
+35140,Batman: Arkham Asylum GOTY Edition,214,0
+39110,Season of Mystery : The Cherry Blossom Murders,0,0
+43000,Front Mission Evolved,188,0
+15700,Oddworld: Abe's Oddysee,0,0
+15710,Oddworld: Abe's Exoddus,0,0
+15740,Oddworld: Munch's Oddysee,5,0
+15750,Oddworld: Stranger's Wrath HD,5,0
+31290,Back to the Future: Ep 1 - It's About Time,22,0
+94500,Back to the Future: Ep 2 - Get Tannen!,0,0
+94510,Back to the Future: Ep 3 - Citizen Brown,0,0
+94520,Back to the Future: Ep 4 - Double Visions,0,0
+94530,Back to the Future: Ep 5 - OUTATIME,0,0
+47780,Dead Space 2,0,0
+4540,Titan Quest,0,0
+475150,Titan Quest Anniversary Edition,0,0
+63200,Monday Night Combat,17,0
+42910,Magicka,267,0
+35700,Trine,19,0
+56400,"Warhammer® 40,000™: Dawn of War® II – Retribution™",477,0
+71230,Crazy Taxi,0,0
+71240,SEGA Bass Fishing,0,0
+71250,Sonic Adventure DX,3,0
+71260,Space Channel 5: Part 2,0,0
+39120,RIFT,5992,0
+91900,Post Apocalyptic Mayhem,20,0
+44320,DiRT 3,0,0
+321040,DiRT 3 Complete Edition,91,0
+91600,Sanctum,89,0
+95300,Capsized,5,0
+97100,Section 8: Prejudice,496,0
+39160,Dungeon Siege III,12,0
+99400,Garshasp: The Monster Slayer,0,0
+35480,Dwarfs!?,9,0
+105600,Terraria,48,0
+105400,Fable III,98,0
+91700,E.Y.E: Divine Cybermancy,228,0
+97000,Solar 2,0,0
+49600,Beat Hazard,0,0
+19680,Alice: Madness Returns,23,0
+98800,Dungeons of Dredmor,5,0
+18700,And Yet It Moves,0,0
+26500,Cogs,0,0
+26900,Crayon Physics Deluxe,0,0
+41100,Hammerfight,0,0
+55040,Atom Zombie Smasher ,1,0
+70300,VVVVVV,0,0
+96200,Steel Storm: Burning Retribution,24,0
+9500,Gish,0,0
+111600,Serious Sam Double D XXL,0,0
+55150,"Warhammer 40,000 Space Marine",143,0
+91310,Dead Island,539,0
+111400,Bunch Of Heroes,31,0
+24240,PAYDAY: The Heist,351,0
+98100,TRAUMA,0,0
+98200,Frozen Synapse,0,0
+102840,Shank 2,17,0
+55230,Saints Row: The Third,204,0
+92800,SpaceChem,0,0
+65800,Dungeon Defenders,276,0
+201480,Serious Sam: The Random Encounter,1,0
+111800,Blocks That Matter,0,0
+113200,The Binding of Isaac,1,0
+71340,Sonic Generations,24,0
+99700,NightSky,0,0
+72850,The Elder Scrolls V: Skyrim,1710,0
+41050,Serious Sam Classic: The First Encounter,0,0
+41060,Serious Sam Classic: The Second Encounter,0,0
+41070,Serious Sam 3: BFE,543,0
+200330,Serious Sam 3 Bonus Content,0,0
+227780,Serious Sam Classics: Revolution,10,0
+16450,F.E.A.R. 2: Project Origin,0,0
+21090,F.E.A.R.,15,0
+21100,F.E.A.R. 3,0,0
+21110,F.E.A.R.: Extraction Point,0,0
+21120,F.E.A.R.: Perseus Mandate,0,0
+203810,Dear Esther,0,0
+99300,Renegade Ops,16,0
+23530,Earth Defense Force: Insect Armageddon,705,0
+204030,Fable - The Lost Chapters,3,0
+204340,Serious Sam 2,0,0
+102500,Kingdoms of Amalur: Reckoning™,92,0
+205730,Insanely Twisted Shadow Planet,0,0
+207170,Legend of Grimrock,0,0
+207570,English Country Tune,0,0
+207650,A Virus Named TOM,0,0
+207250,Cubemen,7,0
+201700,DiRT Showdown,8,0
+204880,Sins of a Solar Empire: Rebellion,185,0
+207610,The Walking Dead,35,0
+200710,Torchlight II,1362,0
+206370,Tales from Space: Mutant Blobs Attack,0,0
+104900,ORION: Prelude,65,0
+202730,Dynamite Jack,3,0
+211360,Offspring Fling!,16,0
+200260,Batman: Arkham City GOTY,0,0
+212680,FTL: Faster Than Light,5,0
+48000,LIMBO,13,0
+57300,Amnesia: The Dark Descent,19,0
+204060,Superbrothers: Sword & Sworcery EP,3,0
+107100,Bastion,50,0
+200390,Oil Rush,0,0
+40800,Super Meat Boy,2,0
+209830,Lone Survivor: The Director's Cut,10,0
+205910,Tiny and Big: Grandpa's Leftovers,4,0
+28050,Deus Ex: Human Revolution,148,0
+201280,Deus Ex: Human Revolution - The Missing Link,0,0
+50300,Spec Ops: The Line,28,0
+215160,The Book of Unwritten Tales,0,0
+212010,Galaxy on Fire 2™ Full HD,4,0
+108710,Alan Wake,86,0
+202750,Alan Wake's American Nightmare,0,0
+98400,Hard Reset,87,0
+17300,Crysis,445,0
+17330,Crysis Warhead,0,0
+17340,Crysis Wars,0,0
+108800,Crysis 2 Maximum Edition,483,0
+204300,Awesomenauts,15,0
+215280,The Secret World,1112,0
+1510,Uplink,0,0
+63700,BIT.TRIP BEAT,3,0
+209690,Fieldrunners,0,0
+210170,Spirits,0,0
+22000,World of Goo,0,0
+38740,EDGE,0,0
+91200,Anomaly Warzone Earth,0,0
+205100,Dishonored,48,0
+730,Counter-Strike: Global Offensive,122,0
+214790,The Basement Collection,0,0
+215670,Home,22,0
+72000,Closure,0,0
+200510,XCOM: Enemy Unknown,55,0
+214250,I Am Alive,24,0
+20820,Shatter,11,0
+107200,Space Pirates and Zombies,7,0
+107800,Rochard,0,0
+108500,Vessel,8,0
+65300,Dustforce,60,0
+41800,Gratuitous Space Battles,0,0
+63710,BIT.TRIP RUNNER,31,0
+94200,Jamestown,75,0
+207420,Wizorb,0,0
+214970,Intrusion 2,26,0
+214560,Mark of the Ninja,20,0
+220780,Thomas Was Alone,0,0
+49520,Borderlands 2,1033,0
+214360,Tower Wars,14,0
+234740,Tower Wars Editor,0,0
+221260,Little Inferno,0,0
+7510,X-Blades,11,0
+204630,Retro City Rampage™ DX,0,0
+211160,Viking: Battle for Asgard,1,0
+205790,Dota 2 Test,0,0
+215510,Rocketbirds: Hardboiled Chicken,30,0
+219640,Chivalry: Medieval Warfare,235,0
+232210,Patch testing for Chivalry,0,0
+96300,Ravaged Zombie Apocalypse,4,0
+219150,Hotline Miami,17,0
+220460,Cargo Commander,0,0
+218740,Pid ,0,0
+4920,Natural Selection 2,56,0
+219950,NiGHTS into Dreams...,0,0
+221020,Towns,9,0
+207040,Sine Mora,29,0
+220240,Far Cry® 3,413,0
+1930,Two Worlds: Epic Edition,3,0
+7520,Two Worlds II,29,0
+7530,Two Worlds II Castle Defense,0,0
+4560,Company of Heroes,50,0
+9340,Company of Heroes: Opposing Fronts,27,0
+20540,Company of Heroes: Tales of Valor,0,0
+43110,Metro 2033,161,0
+55110,Red Faction: Armageddon,18,0
+228200,Company of Heroes (New Steam Version),9,0
+17460,Mass Effect,217,0
+24980,Mass Effect 2,0,0
+221640,Super Hexagon,1,0
+227200,Waking Mars,0,0
+227320,You Need A Budget 4 (YNAB),347,0
+49540,Aliens: Colonial Marines,41,0
+223390,Forge,75,0
+219680,Proteus,21,0
+200900,Cave Story+,15,0
+35720,Trine 2,0,0
+220090,The Journey Down: Chapter One,17,0
+203160,Tomb Raider,246,0
+212480,Sonic & All-Stars Racing Transformed,290,0
+229520,Dungeon Hearts,179,0
+209540,Strike Suit Zero,93,0
+218130,Dungeonland,304,0
+212070,Star Conflict,13,0
+230410,Warframe,99,0
+236390,War Thunder,0,0
+223710,Cry of Fear,366,0
+265630,Fistful of Frags,7,0
+224260,No More Room in Hell,17,0
+227220,Sang-Froid - Tales of Werewolves,5,0
+225260,Brütal Legend,120,0
+227260,DisplayFusion,53,10
+221380,Age of Empires II: HD Edition,486,0
+227860,Castle Story,21,0
+8870,BioShock Infinite,345,0
+227680,StarForge,314,0
+227480,God Mode,616,0
+228440,Cubemen 2,69,0
+115100,Costume Quest,40,0
+115110,Stacking,0,0
+224760,FEZ,5,0
+204450,Call of Juarez Gunslinger,0,0
+234650,Shadowrun Returns,82,0
+233270,Far Cry® 3 Blood Dragon,427,0
+31100,Wallace & Gromit Ep 1: Fright of the Bumblebees,0,0
+31110,Wallace & Gromit Ep 2: The Last Resort,0,0
+31120,Wallace & Gromit Ep 3: Muzzled!,0,0
+31130,Wallace & Gromit Ep 4: The Bogey Man,0,0
+31220,Sam & Max 301: The Penal Zone,0,0
+31230,Sam & Max 302: The Tomb of Sammun-Mak,0,0
+31240,Sam & Max 303: They Stole Max's Brain!,0,0
+31250,Sam & Max 304: Beyond the Alley of the Dolls,0,0
+31260,Sam & Max 305: The City that Dares not Sleep,0,0
+31270,Puzzle Agent,0,0
+31280,Poker Night at the Inventory,0,0
+94590,Puzzle Agent 2,0,0
+94600,Hector: Ep 1,0,0
+94610,Hector: Ep 2,0,0
+94620,Hector: Ep 3,0,0
+238210,System Shock 2,31,0
+35450,Rising Storm/Red Orchestra 2 Multiplayer,40,0
+233980,Unepic,7,0
+230820,The Night of the Rabbit,0,0
+242760,The Forest,272,0
+242880,"Sir, You Are Being Hunted",42,0
+233250,Planetary Annihilation,421,0
+242110,Joe Danger 2: The Movie,2,0
+217140,Rise of the Triad,38,0
+236370,Interstellar Marines,302,0
+39140,FINAL FANTASY VII,10,0
+245150,The Novelist,0,0
+224540,Ace of Spades,70,0
+218820,Mercenary Kings,15,0
+234390,Teleglitch: Die More Edition,0,0
+225080,Brothers - A Tale of Two Sons,10,0
+234080,Castlevania: Lords of Shadow - Ultimate Edition,45,0
+237630,DuckTales Remastered,81,0
+231040,Beatbuddy: Tale of the Guardians,7,0
+239070,Hammerwatch,27,0
+248310,Freedom Planet,12,0
+248390,Craft The World,21,0
+248820,Risk of Rain,10,0
+218620,PAYDAY 2,0,0
+47790,Medal of Honor(TM) Single Player,388,0
+47830,Medal of Honor(TM) Multiplayer,0,0
+238280,Legend of Dungeon,12,0
+245280,ENSLAVED™: Odyssey to the West™ Premium Edition,22,0
+238320,Outlast,13,0
+239200,Amnesia: A Machine for Pigs,0,0
+250260,Jazzpunk,0,0
+214550,Eets Munchies,0,0
+251570,7 Days to Die,194,0
+251770,Shadow Man,0,0
+252030,Valdis Story: Abyssal City,9,0
+252630,Eldritch,1,0
+254020,Commander: Conquest of the Americas Gold,0,0
+254040,Pirates of Black Cove Gold,0,0
+254060,KnightShift,0,0
+243450,Urban Trial Freestyle,0,0
+245410,Wizardry 6: Bane of the Cosmic Forge,0,0
+245430,Wizardry 7: Crusaders of the Dark Savant,0,0
+245450,Wizardry 8,0,0
+241540,State of Decay,5,0
+243000,Omikron - The Nomad Soul,587,0
+223220,Giana Sisters: Twisted Dreams,20,0
+246960,Giana Sisters: Twisted Dreams - Rise of the Owlverlord,0,0
+255920,The 7th Guest,0,0
+255940,The 11th Hour,0,0
+256350,WRC Powerslide,4,0
+245620,Tropico 5,3,0
+9350,Supreme Commander,0,0
+9420,Supreme Commander: Forged Alliance,0,0
+39650,The Guild II,4,0
+39690,ArcaniA,18,0
+50650,Darksiders II,0,0
+65530,SpellForce 2 - Faith in Destiny,0,0
+214870,Painkiller Hell & Damnation,9,0
+245390,"I Have No Mouth, and I Must Scream",32,0
+259300,Earth 2150: Lost Souls,0,0
+219830,King Arthur's Gold,0,0
+39210,FINAL FANTASY XIV: A Realm Reborn,346,0
+238430,Contagion,590,0
+266110,Tower of Guns,149,0
+269210,Hero Siege,113,0
+8930,Sid Meier's Civilization V,28,0
+237950,UFO: Afterlight,0,0
+232790,Broken Age,1,0
+274250,OlliOlli,0,0
+222880,Insurgency,1087,0
+274900,Murder Miners,12,0
+244850,Space Engineers,0,0
+280220,Creeper World 3: Arc Eternal,2,0
+283290,Nosferatu: The Wrath of Malachi,0,0
+283310,Soulbringer,0,0
+43160,Metro: Last Light,35,0
+287020,Harvester,0,0
+287100,Chaos Domain,0,0
+231430,Company of Heroes 2,42,0
+290930,Half-Life 2: Update,5,0
+250560,Fight The Dragon,41,0
+292390,Realms of the Haunting,0,0
+296650,The Great Jitters: Pudding Panic,0,0
+237930,Transistor,15,0
+253470,Real World Racing,0,0
+244160,Homeworld Remastered Collection,0,0
+18400,Crazy Machines 2,0,0
+39660,The Guild II - Pirates of the European Seas,0,0
+39680,The Guild II: Renaissance,0,0
+250400,How to Survive,11,0
+306660,Ultimate General: Gettysburg,0,0
+224600,Defiance,384,0
+214190,Minimum,30,0
+227700,Firefall,68,0
+310700,Super Win the Game,0,0
+312840,Fahrenheit: Indigo Prophecy Remastered,0,0
+312990,The Expendabros,0,0
+316790,Grim Fandango Remastered,10,0
+233720,Surgeon Simulator,11,0
+323320,Grow Home,2,0
+323370,TERA,189,0
+330820,Read Only Memories,0,0
+332500,GRAV,15,0
+336610,Outcast 1.1,21,0
+346110,ARK: Survival Evolved,0,0
+407530,ARK: Survival Of The Fittest,0,0
+234920,Dyscourse,0,0
+358960,Canabalt,0,0
+232090,Killing Floor 2,1249,0
+232150,Killing Floor 2 - SDK,0,0
+346680,Black Mesa Dedicated Server,0,0
+362890,Black Mesa,18,0
+368370,Her Story,0,0
+376570,WildStar,667,0
+377160,Fallout 4,1297,0
+381780,80 Days,0,0
+345180,Victor Vran,12,0
+386360,SMITE,44,0
+407840,ORION,36,0
+408120,Cibele,0,0
+247730,Nether,0,0
+411000,Sorcery! Parts 1 & 2,0,0
+294000,Knight Squad,0,0
+432150,They Came From The Moon,0,0
+264240,CONSORTIUM,0,0

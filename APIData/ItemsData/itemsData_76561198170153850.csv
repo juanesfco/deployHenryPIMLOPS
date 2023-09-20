@@ -1,0 +1,116 @@
+item_id,item_name,playtime_forever,playtime_2weeks
+3480,Peggle Deluxe,0,0
+400,Portal,136,0
+2700,RollerCoaster Tycoon 3: Platinum!,627,0
+17410,Mirror's Edge,10,0
+22330,The Elder Scrolls IV: Oblivion ,30,0
+22370,Fallout 3 - Game of the Year Edition,11151,51
+24780,SimCity 4 Deluxe,49,0
+8930,Sid Meier's Civilization V,4802,0
+47890,The Sims(TM) 3,14356,200
+620,Portal 2,146,0
+102820,The Sims(TM) Medieval,22,0
+17430,Need for Speed: Undercover,68,0
+24740,Burnout Paradise: The Ultimate Box,3562,0
+24870,Need for Speed: SHIFT,1,0
+47870,Need for Speed: Hot Pursuit,87,0
+47920,Shift 2 Unleashed,7,0
+91310,Dead Island,1973,0
+42680,Call of Duty: Modern Warfare 3,251,0
+42690,Call of Duty: Modern Warfare 3 - Multiplayer,49,0
+72850,The Elder Scrolls V: Skyrim,13610,0
+22380,Fallout: New Vegas,13264,2
+207610,The Walking Dead,623,0
+57690,Tropico 4,0,0
+216250,Dead Island Riptide,805,0
+73010,Cities in Motion,6,0
+261030,The Walking Dead: Season Two,580,0
+270880,American Truck Simulator,2021,3
+246620,Plague Inc: Evolved,635,0
+287980,Mini Metro,544,0
+301640,Zombie Army Trilogy,0,0
+306040,The Howler,201,0
+38400,Fallout,5,0
+38410,Fallout 2,1,0
+38420,Fallout Tactics,1,0
+313010,Cities XXL,222,222
+321040,DiRT 3 Complete Edition,0,0
+250460,Bridge Constructor,275,0
+279990,Bridge Constructor Playground,3,0
+319850,Bridge Constructor Medieval,0,0
+419080,Bridge Constructor Stunts,0,0
+233610,Distance,626,0
+226560,Escape Dead Island,295,0
+239140,Dying Light,1956,46
+241560,The Crew,237,0
+305620,The Long Dark,0,0
+337360,Dead Island Retro Revenge,0,0
+346110,ARK: Survival Evolved,104,0
+407530,ARK: Survival Of The Fittest,0,0
+348200,Nimble Writer,17,0
+352400,LEGO® Jurassic World,87,0
+255710,Cities: Skylines,18451,707
+360940,The Mean Greens - Plastic Warfare,565,0
+365670,Blender 2.77,86,0
+369290,Airport Madness: World Edition,388,0
+373020,Blender Game Asset Creation,1,0
+373021,Blender: 1.2 UI Basics - Navigation,0,0
+373022,Blender: 1.3 UI Basics - Layout Customization,0,0
+373023,Blender: 1.4 UI Basics - User Preferences,0,0
+374700,"Blender: 2.1 3D View - Menus, Modes and Display",0,0
+374701,"Blender: 2.2 3D View - Pivot Point, 3D Manipulator",0,0
+374702,Blender: 2.3 3D View - Layers and Snapping,0,0
+374703,Blender: 3.01 Modeling - Mesh and Object Data,0,0
+374704,Blender: 3.02 Modeling - Object Tools,0,0
+374705,Blender: 3.03 Modeling - Mesh - Extrude,0,0
+374706,Blender: 3.04 Modeling - Mesh - Bevel,0,0
+374707,Blender: 3.05 Modeling - Mesh - Subdivide,0,0
+374708,Blender: 3.06 Modeling - Mesh - Loops,0,0
+374709,Blender: 3.07 Modeling - Mesh - Vertex Connect,0,0
+374710,Blender: 3.08 Modeling - Mesh - Inset,0,0
+374711,Blender: 3.09 Modeling - Mesh - Merging,0,0
+374712,Blender: 3.10 Modeling - Mesh - Knife,0,0
+374713,"Blender: 4.01 Assets - Ref Images, Blockout",0,0
+374714,Blender: 4.02 Assets - Traffic Cone Modeling,0,0
+374715,Blender: 4.03 Assets - Normals - Smooth/Hard Edges,0,0
+374716,Blender: 4.04 Assets - High Res Traffic Cone,0,0
+374717,Blender: 4.05 Assets - Camera Modeling,0,0
+374718,Blender: 4.06 Assets - Modeling With Curves,0,0
+374719,Blender: 4.07 Assets - Finishing Camera Model,0,0
+374720,Blender: 4.08 Assets - Removing NGons,0,0
+374721,Blender: 4.09 Assets - Lens And Ribbed Cable,0,0
+374722,Blender: 4.10 Assets - Organizing Objects,0,0
+374723,Blender: 5.1 UVs - Overview,0,0
+374724,Blender: 5.2 UVs - Mirror Modifier,0,0
+374725,Blender: 5.3 UVs - Unwrapping The Base,0,0
+374726,Blender: 5.4 UVs - Unwrapping The Cable,0,0
+374727,Blender: 5.5 UVs - Unwrapping The Cone,0,0
+374728,Blender: 5.6 UVs - Final Layout,0,0
+374729,Blender: 6.1 Baking - Setup and Images,0,0
+374730,Blender: 6.2 Baking - Ambient Occlusion,0,0
+374731,Blender: 6.3 Baking - Normal Maps,0,0
+374732,Blender: 6.4 Baking - Creating Base Materials,0,0
+374733,Blender: 6.5 Baking - Baking Base Color,0,0
+374734,Blender: 6.6 Baking - Setting Up Material,0,0
+374735,"Blender: 6.7 Baking - Cord, Multiple UV Sets",0,0
+374736,Blender: 6.8 Baking - Baking Camera Lens,0,0
+374737,Blender: 7.1 3D Paint - Setup,0,0
+374738,Blender: 7.2 3D Paint - Vertical Gradient,0,0
+374739,Blender: 7.3 3D Paint - Multi Layered,0,0
+374740,"Blender: 7.4 3D Paint - Worn Edges, Cavity Masking",0,0
+374741,Blender: 7.5 3D Paint - Baking All Layers To 1,0,0
+374742,Blender: 8.1 Im/Export - Import TF2 Character,0,0
+374743,Blender: 8.2 Im/Export - Rigging And Placing The Asset,0,0
+374744,Blender: 8.3 Im/Export - LOD Creation,0,0
+374745,Blender: 8.4 Im/Export - Exporting As OBJ,0,0
+374746,Blender: 8.5 Im/Export - Importing Into TF2,0,0
+377160,Fallout 4,17476,882
+383150,Dead Island Definitive Edition,0,0
+383180,Dead Island Riptide Definitive Edition,0,0
+252950,Rocket League,5788,0
+243470,Watch_Dogs,1261,64
+429570,The Walking Dead: Michonne,1,0
+433800,XSplit,21,0
+438270,Learn Japanese To Survive - Hiragana Battle,39,0
+437220,The Culling,387,0
+493340,Planet Coaster,0,0
