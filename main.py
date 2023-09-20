@@ -11,7 +11,7 @@ async def root():
     return {"message": "Hello World"}
 
 @app.get("/userdata/{user_id}")
-def userdata(user_id: str):
+async def userdata(user_id: str):
 
     ## Step 1. Import General User Items dataframe and filter using user id input
     path = 'APIData/'
@@ -76,7 +76,7 @@ def userdata(user_id: str):
     return {"cantidad":cantidad,"items":cantidadItems,"recper":r}
 
 @app.get("/genre/{genre_i}")
-def genre(genre_i: str):
+async def genre(genre_i: str):
     path = 'APIData/'
     fn_genresRank = path + 'genresRank.csv'
     df_genresRank = pd.read_csv(fn_genresRank)
@@ -88,7 +88,7 @@ def genre(genre_i: str):
         return {"rank": genreRow.index[0] + 1}
 
 @app.get("/userforgenre/{genre}")
-def userforgenre(genre: str):
+async def userforgenre(genre: str):
     path = 'APIData/GenresData/'
     fn_genreRank = path + 'genreData_' + genre + '.csv'
     try:
@@ -107,7 +107,7 @@ def userforgenre(genre: str):
         return('Not a genre (case sensitive)')
 
 @app.get("/developer/{dev}")
-def developer(dev:str):
+async def developer(dev:str):
     fn_steamGames = 'APIData/df_steamGames.csv'
     df_steamGames = pd.read_csv(fn_steamGames)
     df_steamGames_dev = df_steamGames[df_steamGames['developer'] == dev]
