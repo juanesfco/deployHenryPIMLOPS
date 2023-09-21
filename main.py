@@ -75,6 +75,35 @@ async def userdata(user_id: str):
     
     return {"cantidad":cantidad,"items":cantidadItems,"recper":r}
 
+@app.get("/countreviews/")
+async def countreviews(date1: str, date2: str):
+    date1 = pd.to_datetime(date1)
+    date2 = pd.to_datetime(date2)
+
+    fn_reviews = 'APIData/df_reviews.csv'
+    df_reviews = pd.read_csv(fn_reviews)
+    SIDs = df_reviews['steam_id'].values
+
+    userCount = 0
+    rr = 0
+    rt = 0
+    for s in SIDs:
+        fn_reviews_i = 'APIData/ReviewsData/revData_' + str(s) + '.csv'
+        try:
+            df_reviews_i = pd.read_csv(fn_reviews_i)
+            df_reviews_i_betweenDates = df_reviews_i[pd.to_datetime(df_reviews_i['posted']).between(date1,date2)]
+            n = len(df_reviews_i_betweenDates)
+            if n > 0:
+                userCount += 1
+                rt += n
+                rr += sum(df_reviews_i_betweenDates['recommend'])
+        except:
+            pass
+    if rt == 0:
+        rt = 1
+
+    return {"UserCount":userCount,"RecPercentage":rr/rt*100}
+
 @app.get("/genre/{genre_i}")
 async def genre(genre_i: str):
     path = 'APIData/'
