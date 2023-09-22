@@ -147,12 +147,12 @@ async def developer(dev:str):
         return('No games found of this developer')
     else:
         df_steamGames_dev.loc[:,'release_date'] = pd.to_datetime(df_steamGames_dev['release_date']).dt.year
-        year = list(df_steamGames_dev.groupby('release_date').count().index.values)
+        year = df_steamGames_dev.groupby('release_date').count().index.values
         count  = df_steamGames_dev.groupby('release_date').count()['price'].values
         df_steamGames_dev.loc[:,'price'] = (df_steamGames_dev['price'] == 0)
-        free = list(df_steamGames_dev.groupby('release_date').sum()['price'].values)
-        per = list((free/count*100).astype(str))
-        df_ret = pd.DataFrame({'year':year,'count':count,'free_content':per})
+        free = df_steamGames_dev.groupby('release_date').sum()['price'].values
+        per = (free/count*100).astype(str)
+        df_ret = pd.DataFrame({'year':list(year),'count':list(count),'free_content':list(per)})
         df_ret['free_content']= df_ret['free_content'].str.slice(0,4)
         df_ret['free_content'] = df_ret['free_content'].values + '%'
         return {dev:df_ret}
