@@ -177,3 +177,20 @@ async def sentiment_analysis(year:int):
         rdic[sa_index[i]] = sa_count[i]
     
     return rdic
+
+@app.get('/recomendacion_juego/{item_id}')
+async def recomendacion_juego(item_id:int):
+    fn_steamGames = 'APIData/df_steamGames.csv'
+    df_steamGames = pd.read_csv(fn_steamGames)
+
+    df_gamesNameId = df_steamGames[['id','app_name']]
+    i = df_gamesNameId[df_gamesNameId['id'] == float(item_id)].index[0]
+    name = df_gamesNameId[df_gamesNameId['id'] == float(item_id)]['app_name'].values[0]
+
+    fn_top5 = 'APIData/MLData/df_top5.csv'
+    df_top5 = pd.read_csv(fn_top5)
+    df_top5_i = df_top5.loc[:,str(i)].values
+
+    rec_names = df_gamesNameId.loc[df_top5_i,'app_name'].values
+
+    return {"Based on game:":name,"We recommend:":list(rec_names)}
