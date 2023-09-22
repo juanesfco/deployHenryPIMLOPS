@@ -154,3 +154,26 @@ async def developer(dev:str):
         df_ret['free_content']= df_ret['free_content'].str.slice(0,4)
         df_ret['free_content'] = df_ret['free_content'].values + '%'
         return {dev:df_ret}
+
+@app.get('/sentiment_analysis/{year}')
+async def sentiment_analysis(year:int):
+    fn_steamGames = 'APIData/df_steamGames.csv'
+    df_steamGames = pd.read_csv(fn_steamGames)
+    df_steamGames['release_date'] = pd.to_datetime(df_steamGames['release_date']).dt.year
+    ids = df_steamGames[df_steamGames['release_date']==year]['id'].values
+
+    fn_reviews_r = 'APIData/df_reviews_r.csv'
+    df_reviews_r = pd.read_csv(fn_reviews_r)
+    df_reviews_r_ids = df_reviews_r[df_reviews_r['item_id'].isin(ids)]
+    sa_count = df_reviews_r_ids.groupby('sentiment_analysis').count()['item_id'].values
+    sa_index = df_reviews_r_ids.groupby('sentiment_analysis').count().index.values
+
+    try: 
+        sa_index = np.char.replace(np.char.replace(np.char.replace(sa_index.astype(str),'0','Negative'),'1','Neutral'),'2','Positive')
+    except:
+        pass
+    rdic = {'Negative':0,'Neutral':0,'Positive':0}
+    for i in range(len(sa_index)):
+        rdic[sa_index[i]] = sa_count[i]
+    
+    return rdic
