@@ -1,0 +1,66 @@
+Hi! Welcome to the Henry Individial Project - Machine Learning Operations
+
+The objective of this API is to make available some information of the Steam Games Datasets. The Raw Data, alongside with all the 
+processes can be found in: https://github.com/juanesfco/HENRY .
+
+This API contains 7 functions detailed below. The possible inputs of this functions can be seen in: 
+https://docs.google.com/spreadsheets/d/19IMiej3Szoyzq_6HgnWCDMkMJXnDuslixw4clA_e804/edit?usp=sharing
+
+1. User Data Function: This function takes as input the user id and returns the amount of money spent by the user, the 
+                        recommendation percentage and the number of games bought.
+
+How to use it?
+If you want to know information about user_id="Riot-Punch". The request will be: 
+
+henryplmlops.onrender.com/userdata/?user_id=Riot-Punch
+
+2. Count Reviews Function: This function takes as input two dates and returns the amount of users that made reviews 
+                            within those dates and recommendation percentage. Note: date format is yyyy-mm-dd.
+
+How to use it?
+If you want to know information within date1="2014-03-05" and date2="2014-04-05". The request will be: 
+
+henryplmlops.onrender.com/countreviews/?date1=2014-03-05&date2=2014-04-05
+
+3. Genre Function: This function takes as input the genre and returns the rank based on `PlayTimeForever` column.
+
+How to use it?
+If you want to know information about genre="Action". The request will be: 
+
+henryplmlops.onrender.com/genre/?genre=Action
+
+4. User for Genre Function: This function takes as input the genre and returns the top 5 user rank based on `PlayTimeForever` 
+                    column, with his URL and user_id.
+
+How to use it?
+If you want to know information about genre="Dark". The request will be: 
+
+henryplmlops.onrender.com/userforgenre/?genre=Dark
+
+5. Developer Function: This function takes as input the developer and returns the amount of items and the percentage of free 
+                        content by the developer.
+
+How to use it?
+If you want to know information about dev="Sacada". The request will be: 
+
+henryplmlops.onrender.com/developer/?dev=Sacada
+
+6. Sentiment Analysis Function: This function takes as input a year and returns a list of sentiment analysis of reviews of games.
+
+How to use it?
+If you want to know information about year="2016". The request will be: 
+
+henryplmlops.onrender.com/sentiment_analysis/?year=2016
+
+7. Game Recommendation Function: This function takes as input a game id and returns 5 similar games based on a machine learning model.
+
+How to use it?
+If you want to know recommendations about item_id="643980". The request will be: 
+
+henryplmlops.onrender.com/recomendacion_juego/?item_id=643980
+
+
+Thanks for using my API, any concerns can be directed to my email juan.florez@upr.edu .
+
+AUTHOR: Juan Esteban Flórez Coronel (DATAPT03)
+DATE: September 22, 2023

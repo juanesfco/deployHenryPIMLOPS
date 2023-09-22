@@ -8,7 +8,8 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    f = open("APIData/welcome.txt", "r")
+    return print(f.read())
 
 @app.get("/userdata/")
 async def userdata(user_id: str):
