@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-06-25,291550,True,Vikings!
-2015-04-21,440,True,"This is a wonderful F2P FPS, it has a wonderful texture and it is outragously enjoying.i have alot of fun playing this, and the i know the develepers can and will make the game alot better and more enjoyable in the future."
-2016-01-27,346110,True,"The things i like about this game, are its Open World, Theres freedom to create and destroy wondeful creations/bases, you can tame almost ALL dinos in the list of many. You can upgrade weapons, armour, building matrials, and there is an infinite ammount of fun and enjoyable gameplay. there is little to none that i hate about the game, and i would recommend this game to people who like, openworld, freebuild, tameable/rideable dinos, and dinos in general."
-2016-05-14,236390,True,I love it <3 Its a war based game where i can fly planes :3
-2016-06-25,346900,True,Money Money MONEYYY!
-2016-03-27,270880,True,"I Love it... And i Hope Others Will To. Its Very Much Like ETS2, But I Like ATS MUCH MUCH More. Mainly Because Of The Trucks. #Kenworth! <3"
+posted,item_id,recommend,sentiment_analysis
+2016-06-25,291550,True,1
+2015-04-21,440,True,2
+2016-01-27,346110,True,0
+2016-05-14,236390,True,2
+2016-06-25,346900,True,1
+2016-03-27,270880,True,2

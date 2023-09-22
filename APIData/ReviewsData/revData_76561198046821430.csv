@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-14,211820,True,"Great game! Love the concept, i realise that it is still in Beta but i would appreciate it if they could optimize more graphic cards because my Nvidia doesn't run well with Starbound..."
-2013-12-21,232050,False,"I bought this game because it looked like a nice turn based stratergy rpg and because the game play looked fluid and smooth...But looks can be deceiving because it is really hard to get into it, and i find the gameplay is really difficult to enjoy properly."
-2014-06-12,730,True,Amazing game! Game play is smooth and well-designed. Would recomend this to anyone who loves semi-releastic first person shooters.
-2013-12-20,440,True,Very great game! Love it so much. Once you start playing you'll never stop! :)
+posted,item_id,recommend,sentiment_analysis
+2014-01-14,211820,True,2
+2013-12-21,232050,False,1
+2014-06-12,730,True,1
+2013-12-20,440,True,2

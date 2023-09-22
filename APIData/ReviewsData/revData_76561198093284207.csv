@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-08-14,730,True,"Pretty good game, requires a lot of traning and practice to become good though"
+posted,item_id,recommend,sentiment_analysis
+2015-08-14,730,True,2

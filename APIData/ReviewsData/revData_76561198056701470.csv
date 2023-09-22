@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-13,242680,True,i have put 83 hours into this game and i still haven't reach the 'end.' is there an end? doesn't matter. buy the game
-2015-09-10,250900,True,i havent played it much but it's alright
-2015-07-01,319630,True,neat
-2015-06-02,346010,True,"In my 12 hours of playing this, I have built a death machine that is incredibly fast, has saws, spikes and a catapult, able to demolish the final castle in Ipsilon.It is impossible to steer."
+posted,item_id,recommend,sentiment_analysis
+2016-03-13,242680,True,0
+2015-09-10,250900,True,2
+2015-07-01,319630,True,1
+2015-06-02,346010,True,1

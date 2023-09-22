@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-08,4000,True,"You could probably say that this is the worlds greatest sandbox game and a rather simple one. Play on your own, Play with friends or just hang around in a lobby."
-2014-01-16,630,True,a pretty good eagle vision shooter game
-2014-01-12,17410,True,Mirror's Edge is the most fast pased parkour/shooter game i have ever played
-2013-12-03,17080,True,It is a very fun First/Third Person Shooter with a few different classes with a LOT of weapons and with the best gadget ever: you can lower friction and slide down mountians with incredable speed you have no idea. SO STOP READING THIS AND DON'T LOOK AT THE TRALIER AND GET THE GAME ITS FREE!!!
-2011-01-15,400,True,its a very good game short but good
+posted,item_id,recommend,sentiment_analysis
+2014-10-08,4000,True,2
+2014-01-16,630,True,2
+2014-01-12,17410,True,1
+2013-12-03,17080,True,2
+2011-01-15,400,True,2

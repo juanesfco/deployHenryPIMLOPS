@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-01-10,262750,True,Very technical and it just blew my mind playing with keyboard and mouse. And I actually rekindled my love for gaming playing this game.
-2014-11-06,220820,True,Highly addictive action/racing
-2014-12-01,236390,True,I went to bed with a big smile on my face.
-2014-11-29,35450,True,Best game.
-2014-11-08,730,True,The best gun game ever.
-2014-10-31,240,True,The greatest gun game of all time.
-2014-10-28,219640,True,Medieval warfare.
-2014-11-08,70640,True,Fire in the hole
-2015-01-11,113200,True,Shocking behaviour from a 3 year old boy.
+posted,item_id,recommend,sentiment_analysis
+2015-01-10,262750,True,1
+2014-11-06,220820,True,1
+2014-12-01,236390,True,2
+2014-11-29,35450,True,2
+2014-11-08,730,True,2
+2014-10-31,240,True,2
+2014-10-28,219640,True,1
+2014-11-08,70640,True,1
+2015-01-11,113200,True,0

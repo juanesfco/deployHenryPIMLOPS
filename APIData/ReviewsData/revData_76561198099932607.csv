@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-04,263440,True,"so cool bought it for me and my friend and dame!!! its so fun and is really amazing.its so cool that you can build tepee's and even totem poles to make a tribe and hang out with your friends/or other people.if you want it i recomend it i havent played it much but its allready draged me in,+ its in alphur so even more cool/good stuff is coming"
-2015-12-26,252950,False,"Can someone help me Im having trouble actually playing the game, i can boot it up propaly but Im not able to play the game in any way, not the tutorial or online games. I really want to play this game so can someone please answer my question."
-2014-11-29,220240,True,i forgot my code and it want let me play kill me now :/
+posted,item_id,recommend,sentiment_analysis
+2014-06-04,263440,True,2
+2015-12-26,252950,False,0
+2014-11-29,220240,True,0

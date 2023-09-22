@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-05-05,1520,True,♥♥♥♥ing missiles everywhere and I have no ♥♥♥♥ing clue what to do but I love it
-2015-05-05,44200,True,Flew spaceships into my enemies planets99999/10
-2016-09-05,48700,True,"If you enjoy starting from scratch, killing hundreds of enemies on the battlefield, commanding armies of thousands, building your own empire or just doing whatever you want in a medieval sandbox then this game will never let you sleep again."
-2015-05-05,35480,True,I don't even know what the ♥♥♥♥ I'm doing
-2015-05-05,298630,True,"Stole gaurds dirty laundry, tried to escape by shoveling underground, ended up trapping myself in infirmary.1000/10"
-2015-05-05,227940,True,"Shot enemy, they shot back, I died10/10"
-2015-05-05,6860,True,its good guys i swear
+posted,item_id,recommend,sentiment_analysis
+2015-05-05,1520,True,2
+2015-05-05,44200,True,1
+2016-09-05,48700,True,2
+2015-05-05,35480,True,1
+2015-05-05,298630,True,0
+2015-05-05,227940,True,1
+2015-05-05,6860,True,2

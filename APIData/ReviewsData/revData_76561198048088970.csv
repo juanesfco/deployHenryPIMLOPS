@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-29,248820,True,Very fun if you are interested in investing a bit of time into the game. Collecting artifacts and characters is a little tedious but as you play more it becomes a lot more enjoyable. Would be better if it had more achievements that are easier to get and maybe more artifacts that don't really break the game. Still a very fun game that i've invested lots of tine into
-2015-04-29,224540,False,"Only games are zombies, no pvp gun fights, still fun if you get a server of friends"
-2015-04-29,107100,True,"Easily one of my favourite games, extremely fun with a great narrator. Good variation and character development while still keeping an air of anonymity. Could spend lots more time but it doesn't have a very good post game."
+posted,item_id,recommend,sentiment_analysis
+2015-04-29,248820,True,2
+2015-04-29,224540,False,2
+2015-04-29,107100,True,2

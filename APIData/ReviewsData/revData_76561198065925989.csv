@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-05,262060,True,"It's like Binding of Isaac, but you're rich, own a mansion, but everthing still wants to kill you. But hey atleast you have a mansion."
-2016-08-08,48720,True,"Not as good as Mount and blade warband, but still a fun game"
-2014-12-15,282070,True,"I was planning on going to a hospital to get some medical supplies for my friends who were sick.I brought some acohol and other little possesions I had for the medicine.Before I left I grabbed a knife,because you never know what could happen.At the door I saw people running in terror, and as they ran people were shooting them down.I quickly ran as well, but I was shot down in moments.Soon Katia died of the flu and Palve was shot to death trying to avange me.GOOD GAME10/10"
-2014-10-04,313730,True,"Fantastic game, definetly get this game."
+posted,item_id,recommend,sentiment_analysis
+2015-02-05,262060,True,2
+2016-08-08,48720,True,2
+2014-12-15,282070,True,1
+2014-10-04,313730,True,0

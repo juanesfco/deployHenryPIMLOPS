@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-25,226700,False,"olha, eu n recomendo esse jogo pq todas as screenshots q propaganda são todas falsas, meh"
-2015-07-10,315430,True,"as instruções não foram muito claras, prendi meu ♥♥♥♥♥ no cubo"
-2014-02-22,218470,True,wow                                such  awsome
+posted,item_id,recommend,sentiment_analysis
+2016-06-25,226700,False,1
+2015-07-10,315430,True,2
+2014-02-22,218470,True,1

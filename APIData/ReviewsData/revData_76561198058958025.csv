@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-01,332970,True,"Amazing game, this will definatly get far if if it overcomes its 2 major problems, server/client lag and its publicity/popularity. if these things can be overcome then this game could lead on to be a great franchise, like counterstrike or halflife. all this game needs is some support from the comunity and things will be runing smothly"
-2015-07-03,291210,False,"I played the game along time ago, it was really fun and there wernt any hackers and it was a friendly comuinity, when it came out on steam i wa srealy excited to play it, but when i went on it was realy disapointing, so many hackers everywhere, preying on everyones fun. it just dident feal like the oldschool game it used to be. please vac secure this game. and change it back to what it was"
+posted,item_id,recommend,sentiment_analysis
+2015-05-01,332970,True,1
+2015-07-03,291210,False,2

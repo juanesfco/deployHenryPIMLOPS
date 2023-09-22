@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-08,386360,True,"Played as the God of Wine, Bacchus.I could chug my wineBellyflop (Yes with my glorious belly)Belch so gloriously that other people were stunned at how glorious it isAnd 'Intoxicate' people by chucking my wine onto the group and making everyone around me drunk.10/10 would bellyflop again"
-2015-12-25,399834,True,'AN ENEMY ELIMINATED! OOOOOOOOOOOOOH YEAAAAAAAAAAAAAAAAAAAH!'That deep voice invades my nightmares.10/10 100/100 Best Announcer
-2014-02-15,248820,True,The game has a significant learning curve as you start. And with multiplayer it's easier to play on harder difficulties than the easier ones. LOGIC! And thats what i love <3
+posted,item_id,recommend,sentiment_analysis
+2015-09-08,386360,True,0
+2015-12-25,399834,True,2
+2014-02-15,248820,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-19,72850,True,An awesome game and a must buy when it goes on sale. Why are you reading this? Go play some Skyrim!
-2015-01-22,250320,False,"The story in this game is great and what you would expect from Telltale. However, the numerous bugs/glitches in this game make it very hard to love this game. It is incredibly frustrating and at the moment I can't see the final cutscenes in the game because it is zoomed in so much you can only see a quarter of the screen. Exiting the game and attempting to change the screen resolution in windows does nothing...Telltales website is equally as pathetic and won't verify my new account so I cannot lodge my issue with their support. I give up..."
+posted,item_id,recommend,sentiment_analysis
+2013-12-19,72850,True,2
+2015-01-22,250320,False,0

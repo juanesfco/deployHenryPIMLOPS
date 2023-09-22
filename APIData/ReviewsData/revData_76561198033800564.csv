@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-03,292030,True,This game is like having constipation and pooping out pure gold. I've waited so long for this and it's totally worth the wait.
-2016-05-13,319630,True,This is what happens when you have good things.
-2015-12-13,303210,False,Overly pretentious and narcissistic. A omg-this-game-just-made-me-rethink-my-life wannabe.
-2015-10-09,282140,True,♥♥♥♥worthy. It'll have you excreting different bodily fluids.
-2015-10-07,353560,True,I feel rustled and I don't even know where I've been rustled.  But it was a pretty good rustling.
+posted,item_id,recommend,sentiment_analysis
+2015-10-03,292030,True,1
+2016-05-13,319630,True,2
+2015-12-13,303210,False,0
+2015-10-09,282140,True,1
+2015-10-07,353560,True,2

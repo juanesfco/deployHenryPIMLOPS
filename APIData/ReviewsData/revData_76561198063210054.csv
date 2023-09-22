@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-23,222880,True,"This is a fun, serious and realistic modern combat game. This is defently a great improvement from the original.9/10"
-2015-04-05,226580,True,"This game is a great representation of the 2014 Formula One Season. I had some minor frame rate issues, but my computer is no gaming desktop. It can still run F1 2014 on medum at 60-70 fps. Apart from the teams changing a bit (oviosly) and new sponsors on the tracks, its basicly 2013 with 2014 cars. If you already have 2013, just wait for 2015 when it comes out. But if you don't, get this game in the meantime. 8/10"
-2014-11-02,244210,True,The Cars. The Tracks. The Speed. The Danger.
+posted,item_id,recommend,sentiment_analysis
+2014-05-23,222880,True,2
+2015-04-05,226580,True,1
+2014-11-02,244210,True,1

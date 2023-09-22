@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-18,440,True,10/10 would bang again
-2014-11-18,298110,True,10/10 Its Okay - IGN
-2014-10-13,730,True,10/10 Its ok -IGN
+posted,item_id,recommend,sentiment_analysis
+2014-09-18,440,True,1
+2014-11-18,298110,True,2
+2014-10-13,730,True,2

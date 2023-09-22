@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-01-27,730,True,jamie oliver is a great chef
-2015-06-25,209870,True,rip game
-2015-01-27,221100,False,DAYZ STANDALONE? MORE LIKE DAY STANDALONE YOU SEE WHAT I DID THERE?
-2015-06-14,218620,False,10/10 IA shooting
-2015-02-10,236370,True,Good game for uninstalling only people with B in their name likes this game
-2015-04-21,113400,False,downloaded the game played for 1 min lost my eye sight
-2015-10-04,13140,True,cool game for losers
-2015-07-06,570,True,THE CHICKEN IS SO RAW THAT I MIXED WITH THE SALAD
-2015-07-04,307690,True,pork bun guy rates 8/10 buns
+posted,item_id,recommend,sentiment_analysis
+2015-01-27,730,True,2
+2015-06-25,209870,True,0
+2015-01-27,221100,False,2
+2015-06-14,218620,False,1
+2015-02-10,236370,True,1
+2015-04-21,113400,False,0
+2015-10-04,13140,True,1
+2015-07-06,570,True,0
+2015-07-04,307690,True,1

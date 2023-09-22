@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-04-12,216250,True,"what a great game, made a good comeback with the first game Dead Island, but was pretty good, the campagin wasn't the best but it was like the first game, but just more fun to kill zombies.10/10"
-2016-03-24,239140,True,"Dying Light, What a game to play, so much fun and i have really enjoy this game so much, i have enjoy mostly the nights mission, because you are like 'i am all good, i can outrun them', oh ♥♥♥♥ you are wrong, it fun and you will enjoy this game and i do recommend this game to others and to my friends"
-2016-03-24,200510,True,"What a Brillant Game, XCOM: Enemy Unknown would be my favourite game with killing Aliens and being badass too, fun to play and great end to the next game of XCOM"
-2015-04-12,220240,True,"what a game, so good, it has made a massive improvement with the earlier game but what a game, great campagin, good to play, i haven't play multiplayer much but i found this game really fun to play. Can't wait to play Far Cry 4, hope it better10/10"
-2015-04-12,91310,True,"what a game to play, great to play with friend, some Glitches with moving past each in multiplayer but it a great game to play with zombies everywhere and also far one of the best game of techland has ever made so far.10/10"
-2015-04-12,24960,True,"what a great game to play, fun with friend when dicking around and also fun to play when you are serious about the game, but without the Glitchs of weapons, it a great game to play with friend and i would recommend to your friends to play the game.10/10"
-2015-04-12,113400,True,"what a great game to play, great to play with friend, difficult to start playing but once you get used to the game you will become awesome at the game, great online game to recommend friends to play.10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-04-12,216250,True,2
+2016-03-24,239140,True,2
+2016-03-24,200510,True,1
+2015-04-12,220240,True,1
+2015-04-12,91310,True,2
+2015-04-12,24960,True,1
+2015-04-12,113400,True,2

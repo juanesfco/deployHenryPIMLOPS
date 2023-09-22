@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-03,244710,True,killed all my babies and then proceeded to chase foxes for the rest of the game 10/10
-2016-04-01,207140,True,gotta go fast
-2016-04-01,330830,True,i still wanna punch jack in the face
-2016-04-01,49520,True,i wanna punch jack in the face
-2016-04-01,72850,True,man i love screaming at things until they die
-2016-03-17,261570,True,i want to fight Kuro
+posted,item_id,recommend,sentiment_analysis
+2016-01-03,244710,True,0
+2016-04-01,207140,True,2
+2016-04-01,330830,True,1
+2016-04-01,49520,True,1
+2016-04-01,72850,True,2
+2016-03-17,261570,True,1

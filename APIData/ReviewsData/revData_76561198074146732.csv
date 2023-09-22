@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-25,205100,True,"great game, wish i had it"
-2015-09-30,34900,True,"oddly funi bought it becuase it was cheap and for ♥♥♥♥♥ and giggs, actually had fun with it in its twisted fractured way..1. smack ball into vault2. vault goes down squashing catacurate description of first leveldefinatly get this while tis 24c.. lol cant belive how fun it is"
-2015-08-23,218230,True,"good game, should download, i cant run it on my potato tho"
-2013-01-02,33230,True,i recommend this highly if you like adventure games
+posted,item_id,recommend,sentiment_analysis
+2014-08-25,205100,True,2
+2015-09-30,34900,True,2
+2015-08-23,218230,True,2
+2013-01-02,33230,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-26,207230,True,2cool4meh to2epic4meh me must play
-2014-12-16,24240,True,really good game! you get new masks epic ones!
-2013-07-18,440,True,this game will never be forgotten it will be epic and nothing will stop :D
-2014-01-28,200210,True,really friggin great has really cool classes like rogue and archer
+posted,item_id,recommend,sentiment_analysis
+2014-04-26,207230,True,1
+2014-12-16,24240,True,2
+2013-07-18,440,True,2
+2014-01-28,200210,True,2

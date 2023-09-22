@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-30,221100,True,♥♥♥♥in good
-2014-07-03,247730,False,The best menu simulator on the market.
-2016-04-23,222880,True,ye pretti gud
-2015-12-12,265890,True,Has the word Excel in it. Hyundai Excels are brilliant cars.1010
-2014-09-15,440,True,Beat a 10 year old kid to death with a baseball bat. 10/10 would uninstall again.
-2014-09-08,730,True,Yeah dis is da good ♥♥♥♥ mayne
+posted,item_id,recommend,sentiment_analysis
+2013-12-30,221100,True,2
+2014-07-03,247730,False,2
+2016-04-23,222880,True,2
+2015-12-12,265890,True,2
+2014-09-15,440,True,1
+2014-09-08,730,True,2

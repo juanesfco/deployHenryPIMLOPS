@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-02,72850,True,I think I have wasted too many hours in this game
-2015-05-10,265930,False,One of the worst games I've ever played
-2014-11-27,218620,True,If your one of those people that think there is too much DLC for this game. Go to Train Simulator 2015 on Steam
+posted,item_id,recommend,sentiment_analysis
+2016-01-02,72850,True,1
+2015-05-10,265930,False,0
+2014-11-27,218620,True,1

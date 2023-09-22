@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-28,245190,True,Best on ever!!!!!!!!!!!¡!!!!!!!
-2014-07-21,1250,True,this game is great but on killing floor 2 they should level up perk a bit more quicker but it is still good
-2013-07-22,440,True,this is an awsome game
+posted,item_id,recommend,sentiment_analysis
+2014-12-28,245190,True,2
+2014-07-21,1250,True,2
+2013-07-22,440,True,0

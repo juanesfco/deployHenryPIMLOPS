@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-08,113420,False,Disease ridden 'Install' button.
-2015-11-13,377160,True,"Spent hours creating a character, only to put a sack with leather straps on my head 10/10"
-2015-09-10,316790,True,I assume everyones played this game and if you haven't you're probably walking to eternal rest.Is Glotis a german name?
+posted,item_id,recommend,sentiment_analysis
+2015-06-08,113420,False,1
+2015-11-13,377160,True,1
+2015-09-10,316790,True,0

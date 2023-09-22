@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-18,261820,True,Cade o resto?
-2015-09-02,222900,True,Eita trem bom
-2016-06-30,224260,True,"Otimo jogo, graficos bons você nãoprecisa de um PC de jupter pra fezelo rodar"
-2016-01-19,304930,True,Lecal
-2015-09-05,109400,True,HUEEE
-2014-06-26,550,True,Nice game EPIC
-2014-06-14,104700,True,wat ?
+posted,item_id,recommend,sentiment_analysis
+2015-10-18,261820,True,1
+2015-09-02,222900,True,2
+2016-06-30,224260,True,2
+2016-01-19,304930,True,1
+2015-09-05,109400,True,1
+2014-06-26,550,True,1
+2014-06-14,104700,True,1

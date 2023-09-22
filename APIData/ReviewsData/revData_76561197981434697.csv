@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-17,405180,True,"A comical twist on the traditional cookiecutter jumpscare thriller. This stands out to me among the rest as the rebel of the genre. Very great title, highly recommended!"
-2014-01-02,40970,True,"A childhood classic, this game sure is one of a kind in that it takes a slight understanding of business, economics, and strategy, in order to become victorious. Best reserved for those who had the privelage of playing this while it was current. I highly recommend it, however, it may be difficult to grasp unless you have played it once before or at least have a basic understanding of at least one game in the stronghold series."
-2013-09-26,246300,True,"Such a simple game. The most enjoyable horror game I have played. While playing its interesting how often the players desire changes from 'I want to catch something on camera' to 'I don’t want to see any more paranormal events'. A dark room, loud sound, and higher graphic settings is the best way to play. It would be cool if there were more area to explore but I still recommend it."
-2013-09-26,32360,True,"A graphical remake of one of the greatest games ever released, this is a must have for anyone wanting to relive this gaming legend."
-2012-09-22,240,True,This game is pretty sweet.
+posted,item_id,recommend,sentiment_analysis
+2015-11-17,405180,True,2
+2014-01-02,40970,True,1
+2013-09-26,246300,True,2
+2013-09-26,32360,True,2
+2012-09-22,240,True,1

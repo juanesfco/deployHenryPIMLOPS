@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-03,333930,True,"Dirty Bomb is like TF2 and CS:GO, but with scopes."
-2014-01-25,220780,True,"A very nice game. Great peaceful music plays when you figure out the puzzles. A great story line too. The narrator in the game is very good and it reminds me of The Stanley Parable. What the game is lacking (for me, anyway) is that the game is too short! But a great game overall."
+posted,item_id,recommend,sentiment_analysis
+2015-12-03,333930,True,0
+2014-01-25,220780,True,2

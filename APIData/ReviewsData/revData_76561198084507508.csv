@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-08-22,383080,True,"After a couple hours, I have come to the conclusion that's it alright."
+posted,item_id,recommend,sentiment_analysis
+2015-08-22,383080,True,1

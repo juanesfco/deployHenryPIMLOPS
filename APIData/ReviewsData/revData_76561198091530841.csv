@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-30,330710,True,The next portal! Very good in both design and story. Very telling of the idea of humanity and existence. 21/10
-2014-09-25,243870,False,"Very, VERY P2W. Kinda annoying when you get past the beginning stages..."
+posted,item_id,recommend,sentiment_analysis
+2014-11-30,330710,True,2
+2014-09-25,243870,False,0

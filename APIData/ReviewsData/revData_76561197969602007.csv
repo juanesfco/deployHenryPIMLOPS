@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-27,239140,True,"This is without question one of the best zombie games i have ever played.  It's not just another simple zombie shooter. In a time when zombie games are littered everywhere, this game really stands out apart from the rest. It has a strong story line, top of the line parkour mechanics and the day/night change that almost makes it feel like your playing a different game.The engine they are using really brings out the realism in the environment. I never would have thought that i would get weak in the knees from fear of heights when playing a game on a PC, but this game sure does give you that feeling. I'm proud to be an owner of this top of the line AAA title!"
-2016-05-25,379720,True,"if there is one thing i love, it's ripping and tearing demons. Running this game on hardware that is lower than the minimum spec (running it on a hd5870m), all game details on low or optionally off, and running at a resolution of 1280x768, this game is still a HELL of a lot of fun! The sound effects and music really amplify the experience and immersion. ...nothing like getting a daily dose of demon destruction. "
+posted,item_id,recommend,sentiment_analysis
+2016-05-27,239140,True,2
+2016-05-25,379720,True,1

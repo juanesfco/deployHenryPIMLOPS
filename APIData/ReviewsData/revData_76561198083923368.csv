@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-11,570,True,es buenisimopero cuando sin queres ej apagas el pc te dan altiro partidas de baja : ( es lo unico que no me gusta
-2015-04-10,304930,True,ES JUEGO ES BUNO PERO LOS ZOMBIES TE MATAN RAPIDO NO SE PUEDE ASER NADA PERO IGUAL ES BUENO :3
-2015-04-04,208090,True,el juego es muy bueno pero lo unico que no me gusta es que en cada equipo hay solo 5 parsonas : / y que cuando tengas todo en en el arbol tecnologico?? que aser despues... y seria mejor que sacaran mas cosas para equipamiento aparte del escudo desplegable es si el juego es muy bueno : )
-2014-04-06,222900,False,orrible
+posted,item_id,recommend,sentiment_analysis
+2014-01-11,570,True,0
+2015-04-10,304930,True,2
+2015-04-04,208090,True,2
+2014-04-06,222900,False,0

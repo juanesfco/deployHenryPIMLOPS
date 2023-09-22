@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-06-20,267600,True,"Was a little skeptical at first, but the game is really starting to open up I rate 9/11 would play again"
-2014-01-27,12210,True,cool game
-2013-12-20,49520,True,"This honestly has to be the best game i've played in a long time, when ever i give up on it i keep coming back to it like its pulling me in"
-2014-03-13,11610,True,noice
-2014-01-02,247730,True,i enjoy dis
+posted,item_id,recommend,sentiment_analysis
+2015-06-20,267600,True,0
+2014-01-27,12210,True,1
+2013-12-20,49520,True,2
+2014-03-13,11610,True,1
+2014-01-02,247730,True,2

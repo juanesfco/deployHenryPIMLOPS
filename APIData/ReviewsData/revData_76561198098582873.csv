@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-12,209870,True,"Pretty good, although sometimes it gets really annoying because of the fact that it's mostly pay to win. Although everything else is great."
-2014-03-06,440,True,THIS IS AWESUMMMMMMMMMMMMMM
+posted,item_id,recommend,sentiment_analysis
+2016-01-12,209870,True,2
+2014-03-06,440,True,1

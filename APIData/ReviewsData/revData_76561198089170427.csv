@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-08,550,True,"Prepare your guns,and be ready to shoot zombies with non-stop action"
-2014-07-08,730,True,"This is a awesome game,a little bit of a rage when you die at times,but overall a good game"
-2013-12-02,4000,True,"this game is awesome,you guys should buy this game,there are a few of gamemodes,such as hunger games,ttt(Trouble In Terrorist Town)"
-2013-08-29,239660,True,i recommend to people who is a fan of Call Of Duty Black Ops 2/cod bo2 as this game really looks like it
-2013-07-18,230410,True,i reccomend to people who likes guns and weapons
-2013-05-22,440,True,this is recommend
-2014-01-13,51100,True,"it is a awesome game,many weapons"
+posted,item_id,recommend,sentiment_analysis
+2014-07-08,550,True,2
+2014-07-08,730,True,2
+2013-12-02,4000,True,0
+2013-08-29,239660,True,0
+2013-07-18,230410,True,1
+2013-05-22,440,True,1
+2014-01-13,51100,True,2

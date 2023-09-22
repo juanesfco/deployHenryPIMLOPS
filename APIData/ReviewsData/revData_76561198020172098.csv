@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-11,218620,True,Seen the movie Heat? Wished it was more interactive? Look no further.
-2013-12-06,8870,True,"The shooting mechanics may not be the best, and the way the game tells you what to feel instead of just letting it happen naturally can be completely and totally ignored thanks to the wonderful atmosphere (at times) and the damn good story."
+posted,item_id,recommend,sentiment_analysis
+2014-05-11,218620,True,2
+2013-12-06,8870,True,2

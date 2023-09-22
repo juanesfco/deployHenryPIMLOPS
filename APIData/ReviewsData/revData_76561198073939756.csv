@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-03-12,4000,True,"This game is awesome, feel free to do what you like, has a ton of cool gamemodes"
+posted,item_id,recommend,sentiment_analysis
+2013-03-12,4000,True,2

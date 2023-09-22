@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-31,284160,True,"If you are a car nut, yet love smashing things, this is the game for you. When I first saw this game on youtube 2 years ago, my mind basically imploded. The way the cars undulate and bend when crashing would give game programmers from the 90s seizures. (well I got a little spastic too but that's another story.) It's a little glitchy here and there, maybe even a crash, but my pc seems to run the game well if there are no major issues. (I have a beast laptop) the only things that I think need changing are just the sound effects. Very well conceived game. 9.2/10"
-2015-12-01,271590,True,"When I just started, I got killed by douches with stickybombs. Now I have 350k and all the hoes wanna bang me 1337/7331"
-2016-02-24,440,True,Pootispow.
-2015-12-15,730,True,Me: Can we PLEASE eco this round?Boosted SEM: *ponders deeply while holding his p250*Boosted SEM: *buys AWP* ♥♥♥♥ ♥♥♥♥♥Me: *gets restrained while my teammates hold me back*Boosted SEM: *looks at me with great confusion*
-2015-10-15,232090,False,"I used to LOVE this game. Seriously. I played it for hours on end. Hell, I even leveled up all my perks to lvl 25. But the new updates killed this game. The bezerker was MEANT to tank, now he is just a slow low health help-while-you-can sorta perk. The M14 is hilariously undepowered, and the hard difficulty feels harder than HoE. Let me quote the the Tripwire team. 'Early Access Done Right'. What a joke."
+posted,item_id,recommend,sentiment_analysis
+2015-12-31,284160,True,1
+2015-12-01,271590,True,0
+2016-02-24,440,True,1
+2015-12-15,730,True,2
+2015-10-15,232090,False,1

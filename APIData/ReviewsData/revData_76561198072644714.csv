@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-06,396480,True,"Amazing game, but probably not worth 10$ sadly.Can be a bit buggy, or slow at times."
-2015-12-26,268650,True,"Very good game and very complex, but can eat FPS at times (like during battle). Alot of the gameplay is building, like turrets n'stuff, but it takes a long time to learn how to build them. The game is very hard, and is somthing you won't pick up in an hour and expect to know everything. Expect to put quite a bit of time in learning how to build (and the tutorials dont really help too much)."
-2015-05-29,301520,True,this is how to play:get 6000000000 jetsget fast wheelsput 1 gun on itbe 2fastcool
+posted,item_id,recommend,sentiment_analysis
+2016-07-06,396480,True,1
+2015-12-26,268650,True,1
+2015-05-29,301520,True,2

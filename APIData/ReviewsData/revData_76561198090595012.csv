@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-01,238460,True,10/10 i buckled my pants
-2014-07-01,204360,True,10/10 you get to make out with chicks
-2014-07-01,730,True,10/10 its not cod
+posted,item_id,recommend,sentiment_analysis
+2014-07-01,238460,True,1
+2014-07-01,204360,True,1
+2014-07-01,730,True,1

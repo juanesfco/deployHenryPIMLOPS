@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-24,207140,True,"So intense, such dendi plays very XBOCT dodges many puppey micros"
-2016-02-28,418340,False,This is just a $15 version of warframe if it were an anime. zzzzzzzzzzzzzzzzz
-2013-05-12,570,True,Addictive af!
+posted,item_id,recommend,sentiment_analysis
+2014-05-24,207140,True,2
+2016-02-28,418340,False,1
+2013-05-12,570,True,1

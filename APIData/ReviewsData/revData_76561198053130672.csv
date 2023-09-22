@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-26,50300,True,Lugo: OwWalker: You ok?Lugo: I said Ow didn't I?9/10
-2015-03-12,318430,False,I haven't played enough to judge...
+posted,item_id,recommend,sentiment_analysis
+2015-01-26,50300,True,1
+2015-03-12,318430,False,1

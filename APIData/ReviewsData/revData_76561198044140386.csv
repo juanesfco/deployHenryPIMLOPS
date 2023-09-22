@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-15,273350,True,I like it... :D
-2016-07-15,12750,True,"Need some time to get used to it but overall, it's a good racing game almost realistic feeling."
+posted,item_id,recommend,sentiment_analysis
+2016-07-15,273350,True,2
+2016-07-15,12750,True,2

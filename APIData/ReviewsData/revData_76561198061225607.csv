@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-08-12,20920,True,"was great still haven't done everything in the game because of the choices and multitude of quests, perfect excuse for missing out on any social activity for a month"
-2016-08-10,261640,True,"Actually a pretty good game that's definitely earned the borderlands name unlike what some people say about it, new hunters with a different set of skills compared to the previous borderlands reccommend playing with friends though"
-2016-07-05,237890,True,This game is great if you want a jrpg that has loads of content to offer however you need to figure things out yourself as the game's tutorials don't explain everything
-2016-07-04,440,True,iz gud
-2016-06-15,381210,True,"This game makes me twitchy with the creepy atmosphere, it gets your blood pumping seeing the killer off in the distance and when you hear the heartbeat. This game has succeeded in creating a great 4v1 cooperative horror game. There are however a few issues which is mostly due to the people playing the game.First of all, campers at hooks, maybe the developers could make it such that the rate at which the entity kills you is slowed when the killer is around.Secondly, some games can be laggy due to the host's internet connection or sometimes, your own.Thirdly, at the moment you can't queue with friends as survivors however it has been said that that will be implemented soon.Fourth, deranking due to people disconnectingLastly, there are some bugs which weren't present in the beta that have appeared likely due to the new maps and killers.With all this said the game is worth it when you have friends to play it with as there is a private match mode so you can have fun hearing your friends scream and beg for mercy. Do note the game is skill based and you have to think how the survivors think when you're the killer and vice versa"
-2016-06-14,278360,True,This game is amazing you feel like you're actually in the world as you immerse yourself swinging around like spiderman as you run through caves and jump on floating rocks on the search for your uncle.
-2014-10-06,265630,True,is gud so download and play it already yer SOB
-2014-09-30,230410,False,"It really isn't all that free to play and sure you can get the same stuff by both farming and buying with real life money.However if you just cash for the right weapon you just wreck everything.Even for making things such as decorations for your clan you may require items that you might as well cash for.The game also forces you to buy weapon slots with your real life money so this game is pretty much p2w.However if you're willing to pump your money into it then sure it is fun get some friends,make a clan,cooperate and have fun"
-2014-09-30,215080,True,"Its fun,wacky(that's gunna get old) and tries to make playing MMORPGs more fun I recommend it to those who like the idea of MMORPGs and isn't so serious as this game tries to have the 2Fs(funny and fun) so its exremely light-hearted.It also has diversity in terms of classes and is perfect if you get some friends filling the different roles and playing together or just do whatever you want and have fun!"
-2014-07-16,56400,True,Is like mobaz but haz u can haz unitsunder ur control therefore is gud
+posted,item_id,recommend,sentiment_analysis
+2016-08-12,20920,True,2
+2016-08-10,261640,True,1
+2016-07-05,237890,True,1
+2016-07-04,440,True,1
+2016-06-15,381210,True,1
+2016-06-14,278360,True,1
+2014-10-06,265630,True,1
+2014-09-30,230410,False,2
+2014-09-30,215080,True,2
+2014-07-16,56400,True,1

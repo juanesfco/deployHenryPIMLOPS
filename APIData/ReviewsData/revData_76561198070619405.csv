@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-18,252490,True,> Friend recommended me the game> Bought the game> Played with friends> Got Bored> Downloaded jump hacks> Forgot I was on Official server> Got vac banned 10/10 would get vac'd again 
-2016-05-18,730,True,I fear this game will be the center of my mid-life crisis
-2016-05-18,4000,True,">What am I doing with my life?>Oh right, playing Garry's Mod 10/10 would have no social life again! "
-2015-04-07,322330,True,Increases replayability
+posted,item_id,recommend,sentiment_analysis
+2016-05-18,252490,True,1
+2016-05-18,730,True,0
+2016-05-18,4000,True,2
+2015-04-07,322330,True,1

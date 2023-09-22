@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-13,8190,True,great game only porblem i have with is that it auto changes my resolution so  can't see a thing
-2014-05-25,224260,True,"Played game, got injured, asked how to use bandages, wouldn't work, got scared by friend and hit him, he killed me because I hit him once on accident. 10/10 would not kill 1 zombie again"
+posted,item_id,recommend,sentiment_analysis
+2014-06-13,8190,True,2
+2014-05-25,224260,True,0

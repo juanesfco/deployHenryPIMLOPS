@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-18,620,True,"One of the best games I've ever played, I would recomend it to everyone."
-2015-06-22,204360,True,"Awesome game, you could get hours of fun out of this is you played through the game with every charcter, as you have to play differently with each one. The game is Best played with friends.With a keyboard and mouse, I found it a bit dodgy (sometimes slow between when I press a button to actually doing something on screen), with a controller however (I used some software that let me use my ps3 controller on my PC) it was fine, with no lag, just as if I was playing it on a console. Good stuff!"
+posted,item_id,recommend,sentiment_analysis
+2016-05-18,620,True,2
+2015-06-22,204360,True,2

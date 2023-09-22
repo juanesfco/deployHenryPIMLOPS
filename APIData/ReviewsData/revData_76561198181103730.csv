@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-21,570,True,Fun game
-2015-08-18,440,True,this game is amazing
+posted,item_id,recommend,sentiment_analysis
+2016-01-21,570,True,1
+2015-08-18,440,True,2

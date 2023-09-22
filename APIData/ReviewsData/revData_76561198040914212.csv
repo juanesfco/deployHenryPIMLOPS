@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-27,274290,False,https://www.youtube.com/watch?v=UOdJkjBJ94Y&feature=youtu.be
-2014-10-01,310700,True,"There's two types of retro games, ones that are an excuse for the designers and ones that have a reason to exist. Super Win the Game is the latter. Full video review at: https://www.youtube.com/watch?v=EWasjnIo9U4"
-2014-07-18,310070,True,https://www.youtube.com/watch?v=6wV-Psf2Jzc
-2014-07-31,247080,True,https://www.youtube.com/watch?v=bxaT6b1vmXM
-2016-04-18,257850,True,"Hyper Light Drifter is a challenging Action-RPG that features a breathtaking visual aesthetic, satisfying gameplay, heavy themes, and an impressive capacity for visual storytelling.Full review at: https://yakatuon.com/2016/04/19/game-review-hyper-light-drifter/"
-2014-08-22,312630,True,"I greatly enjoyed the game overall, but I think buyers need to decide whether to get the title on steam or on mobile.My thoughts and video here:http://youtu.be/BKjHB3P89ug"
-2013-12-08,244850,True,"I expected a space simulation game in which I build spaceshis to crach into eachother with realistic physics and a robust and comprehensive damage engine, and that's exactly what I got."
+posted,item_id,recommend,sentiment_analysis
+2014-07-27,274290,False,1
+2014-10-01,310700,True,2
+2014-07-18,310070,True,1
+2014-07-31,247080,True,1
+2016-04-18,257850,True,2
+2014-08-22,312630,True,1
+2013-12-08,244850,True,1

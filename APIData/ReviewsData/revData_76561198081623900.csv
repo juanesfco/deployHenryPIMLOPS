@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-21,331470,True,BEST visual novel EVER! Best story I ever seen in a VN.
-2015-11-11,303390,False,"It isn't a horrible game, but sincerely if it wasn't in promotion I wuldn't buy it, and I do not recommend you to buy it if it isn't."
-2015-11-01,370100,False,Just... bad.
-2014-12-19,250180,True,"Pra mim é o melhor Metal Slug. Essa versão da steam é prefeita, nunca deu lag pra mim e ainda tem várias opções de configuração (tanto de controle quanto de partidas)."
+posted,item_id,recommend,sentiment_analysis
+2015-02-21,331470,True,2
+2015-11-11,303390,False,0
+2015-11-01,370100,False,0
+2014-12-19,250180,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-01,221100,False,"I could not play this game once because of how laggy and buggy it is...♥♥♥♥ this game its ♥♥♥♥, dont waist your money on it."
-2014-02-01,218230,True,An awesome game
-2013-12-22,8190,True,one of the best games i have played in a while
+posted,item_id,recommend,sentiment_analysis
+2015-03-01,221100,False,0
+2014-02-01,218230,True,2
+2013-12-22,8190,True,2

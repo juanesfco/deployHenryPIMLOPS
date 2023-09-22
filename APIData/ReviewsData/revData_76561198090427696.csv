@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-16,243870,True,A bit of fun but could argue jusat sort of CS:GO with fancy high tech equipment. Overall pretty good doe
-2014-07-08,250320,True,Absolutely Love This Game and Final Episode was my favourite.
-2014-01-27,261030,True,absoulutely awesome gotta play it if u like zombie games
+posted,item_id,recommend,sentiment_analysis
+2014-04-16,243870,True,2
+2014-07-08,250320,True,1
+2014-01-27,261030,True,2

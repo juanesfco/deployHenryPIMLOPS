@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-07,440,True,awesome
-2014-06-27,243870,True,pay to have fun
-2014-03-07,241540,True,awesome
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,440,True,2
+2014-06-27,243870,True,2
+2014-03-07,241540,True,2

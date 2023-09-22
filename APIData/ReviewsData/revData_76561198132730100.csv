@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-02,243870,True,Great Game! as well its free to play.
-2014-04-28,206420,True,Great Game.
-2014-05-14,218620,True,Great Game ;D
-2015-07-31,10180,True,one of the best cod's ever made
+posted,item_id,recommend,sentiment_analysis
+2014-07-02,243870,True,2
+2014-04-28,206420,True,2
+2014-05-14,218620,True,2
+2015-07-31,10180,True,2

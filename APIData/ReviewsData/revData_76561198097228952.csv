@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-02,293500,True,I noscoped some dude in at tree.111/10 gamespot
-2015-02-28,307290,False,Email confirmation is horrible. Havent played yet!10/10 GAmespot Would email again but stuck in dimension of ingmar and tasers.
-2014-02-13,440,True,"think of this, call of duty, plus a tour of jokers funhouse. i love it though"
+posted,item_id,recommend,sentiment_analysis
+2014-11-02,293500,True,1
+2015-02-28,307290,False,0
+2014-02-13,440,True,2

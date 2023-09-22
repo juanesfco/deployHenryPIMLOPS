@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-18,730,True,"One of the best FPS's around. You meet many people, some good, some bad some genuinly ugly. Amazing community and support. "
-2016-02-03,107410,False,"I was under the impression that by preordering and purchasing the Alpha, The DLC would be free, as stated in the initial sale. How dare!"
-2015-01-15,295110,True,Really nice loading screen.
+posted,item_id,recommend,sentiment_analysis
+2015-12-18,730,True,2
+2016-02-03,107410,False,2
+2015-01-15,295110,True,2

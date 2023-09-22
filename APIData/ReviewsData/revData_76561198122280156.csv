@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-02-13,4000,True,this is one of my most played games and i love it so much
-2015-08-15,263760,True,amazingly fun game that never gets boring and it is my favourite game atm and i recommend it to anyone for a cheap fun game
-2016-02-01,304930,True,it is good
-2016-07-09,298240,True,"You can get a lot out of this game, counting it's free it is very good, and I like it. Another similar game that is free and good is Fistfull of Frags."
-2016-08-10,265630,True,"EXCELLENT game for multi player and single player and can compete with CSGO and other bigger titles, and this is free. I also like the pistol to pistol gameplay, and I also like the fact that there is no automatic guns, like SMGs. GREAT GAME!!!"
-2016-07-21,220,True,"This, my friends, is the ten dollar buy. If you buy this, I recommend getting the orange box, as you get every half life 2 game, portal, and a hat in tf 2. Fantastic!"
+posted,item_id,recommend,sentiment_analysis
+2015-02-13,4000,True,2
+2015-08-15,263760,True,0
+2016-02-01,304930,True,2
+2016-07-09,298240,True,2
+2016-08-10,265630,True,2
+2016-07-21,220,True,1

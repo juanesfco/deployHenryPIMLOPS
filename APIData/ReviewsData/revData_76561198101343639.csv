@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-18,235460,True,Only played this on easy but OMG it was really awesome. I love the story line and I wish there were more metal gear games available on PC
-2015-04-18,218640,False,Yes if you like graphic death scenes and enjoy being the spawn of satan. However the story line does take a while to set itself up and its easier if you are reading a walkthrough since you are searching a large house for your next victim and murder weapon.
-2015-03-16,72850,True,"Only place you forget to eat, sleep and drink just to eat, sleep and drink in the game. Plus you can kill dragons :)"
+posted,item_id,recommend,sentiment_analysis
+2015-04-18,235460,True,2
+2015-04-18,218640,False,2
+2015-03-16,72850,True,1

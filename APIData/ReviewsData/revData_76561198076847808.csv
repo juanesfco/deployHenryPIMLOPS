@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-07-12,226700,True,esse jogo e ♥♥♥♥ de maisssssssssssssssss
-2013-08-17,72850,True,o jogo é muito bom e tem que jogar muitas horas para fechar o skyrym eu acho que tem que jogar umas 500 horas para fechar o jogo e é viciante vale muito apena telo
-2013-02-07,730,True,o galera quem nao tem ese jogao ♥♥♥♥ compra ae porque voce vai gosta entao fica dica compra o jogo que eu recomendo bele
+posted,item_id,recommend,sentiment_analysis
+2013-07-12,226700,True,2
+2013-08-17,72850,True,2
+2013-02-07,730,True,0

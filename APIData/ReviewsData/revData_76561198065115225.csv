@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-04,339350,True,A true work of art
-2015-04-13,346900,True,An Excellent Game with great potential. Whilst similar to other existing games it adds new twists previously unseen in similar games I have played.
+posted,item_id,recommend,sentiment_analysis
+2016-02-04,339350,True,2
+2015-04-13,346900,True,2

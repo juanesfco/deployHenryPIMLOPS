@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-23,250600,True,"This game is amazing. Such a small studio producing something this big blows. me. away. It has every thing! Guns? hell yeah! Splosions? BUT OF CORSE ! Bewbies? Dare you ask, it's practically manditory! If you wan't fast pace, action , great multiplayer, hours of dedication and a fan base that  puts whovians to shame. This is the game for you!"
-2013-12-23,72850,True,Were else can you watch npc's sleep and punch chikens? SKYRIM! 2 years in and still finding new stuff. I know I'm awesome so the game must be too!
+posted,item_id,recommend,sentiment_analysis
+2014-02-23,250600,True,1
+2013-12-23,72850,True,2

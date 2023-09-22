@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-10,211500,True,"Personally, i like this Game, even know there is only 5 free cars to choose from it is still quite fun, I also makes it fun if you play with a Steering Wheel, it makes it more enjoyable. 8/10"
-2014-09-30,440,False,"Very Addictive and your Future is to spend over $100 in a month, Terrible"
-2014-09-30,4000,True,"Very Creative and also fun to play with Friends,"
+posted,item_id,recommend,sentiment_analysis
+2014-10-10,211500,True,2
+2014-09-30,440,False,0
+2014-09-30,4000,True,2

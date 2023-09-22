@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-12-25,65800,True,Money well spent..Once you get into it you will never get out and love it
-2012-11-26,49520,True,"Lots of shooting, lots of blow'in Stuff upLots of fun"
-2010-12-23,4000,True,Yay Fun!
+posted,item_id,recommend,sentiment_analysis
+2012-12-25,65800,True,2
+2012-11-26,49520,True,2
+2010-12-23,4000,True,2

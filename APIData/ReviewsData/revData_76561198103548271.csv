@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-16,211420,True,"I've spent too many hours playing this game on different platforms... WHY IS THIS GAME SO ADDICTIVE. It's the trill of the challenge, and the replayability.I feel I shouldn't have played this instead of doing study >.<"
-2014-12-25,113200,True,great game
+posted,item_id,recommend,sentiment_analysis
+2016-05-16,211420,True,1
+2014-12-25,113200,True,2

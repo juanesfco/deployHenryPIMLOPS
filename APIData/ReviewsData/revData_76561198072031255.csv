@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-05-10,17410,True,all the recomandations cus it awesome
-2014-12-25,730,True,2/10 must play Key:2= 1000000000000000000000010= 1
-2015-01-26,32370,False,Games story line is quite boring and gameplay is also quite slow. On top of that the game doesn't work on anything other than my actual laptop.
-2015-11-03,391540,True,10 bucks is to little for such a good game
-2014-08-02,280740,True,"Extremely good mod for portal 2, It's enjoyable and keeps you thinking out of the box and definetly is a keepsake for the portal series"
+posted,item_id,recommend,sentiment_analysis
+2014-05-10,17410,True,2
+2014-12-25,730,True,1
+2015-01-26,32370,False,0
+2015-11-03,391540,True,1
+2014-08-02,280740,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-08,325300,True,"Bearzerkers is a terrific game where the developers have nailed the art of game design.  Made all the more exciting when you play with a number of friends, its fast paced action and ripper soundtrack will have you and your mates saying “Come on… Just one more time”.  Pros: Game play is intuitive, making it easy to jump straight in and start playing. Great variety with 6 unique visually appealing levels“Gauntlet” mode for a whole extra degree of challenge Awesome soundtrack that really enhances the feel of the different levelsGreat “kid friendly” funCons:  Where did my afternoon just go……"
-2013-12-24,32360,True,"This type of game is why I got into playing, designing, and making games in the first place.  The remake with its imprpved graphics quality, using the renowned voice acting we have come to know, makes this a terrific game all over again.   It's release on the tablet market is likely to se  a resurgence of the point and click adventure game.  Monkey Island's witt, game play, story, music and charm make this game a 5/5 for me."
+posted,item_id,recommend,sentiment_analysis
+2015-11-08,325300,True,2
+2013-12-24,32360,True,0

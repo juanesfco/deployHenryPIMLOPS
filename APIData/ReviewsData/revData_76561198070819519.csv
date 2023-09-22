@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-21,22380,True,I get a boner every time I play this game.
-2016-03-27,377160,True,A lot of people are saying its lackluster and whilst I agree in some aspects there's still no other game on the market that compares.Fallout once again has created a unique experience.
-2014-01-10,109600,True,A free to play MMO that strays from the usual combat mechanics of the endless amounts of weeaboo clones of WoW.
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,22380,True,0
+2016-03-27,377160,True,1
+2014-01-10,109600,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-28,261030,True,"Great Story, Continues well from the first season. If you haven't played you haven't lived."
-2014-01-23,72850,True,"Played it before on PS3. Great Game! i would give a 10/10, it is a brilliant game.THIS GAME NEVER ENDS."
-2013-10-19,218620,True,Very addicting and fun game! Probably one of the best game!
-2013-09-27,34870,True,"Nice graphics, fun game, probably the best Sniper FPS game. Quite hard at times but."
-2013-08-06,440,True,"free,addicting and fun"
-2013-01-03,550,True,Magnificent
+posted,item_id,recommend,sentiment_analysis
+2014-08-28,261030,True,2
+2014-01-23,72850,True,2
+2013-10-19,218620,True,1
+2013-09-27,34870,True,2
+2013-08-06,440,True,2
+2013-01-03,550,True,2

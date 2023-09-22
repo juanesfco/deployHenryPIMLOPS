@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-21,35720,True,"Eski tip oyun tarzını yeni teknoloji ile birleştirip büyülü bir dünyada sevimli bir şekilde sunmuş Frozenbyte ve Nobilis. Bir serbest yapımdan bekleyeceğiniz birçok hata ve kusuru barındırmayan, aksine pozitif oyun yapısı ve sunuşu ile oyuncuyu kendine bağlayan bir oyun Trine."
-2016-01-26,389430,False,"Yine hüsran.. USKO'da olduğu gibi yine para çarpmak için açılmış  'serverlar'. Steam'e geçmesi umutlandıırmıştı çoğumuzu ancak Paragöz NTTgame yine eski oyuna çevirdi bile. Oynayanlara kolay gelsin max 1-2 ayda bırakırlar... Başlamayanlara hiç tavsiye etmiyorum, premiumsuz oyuna girilmiyor. Premium fiyatları çok pahalı (Exp pre 120tl~ bunun valkrysi pathosu magic hammerı geniesi derken aylık min 300tl)"
+posted,item_id,recommend,sentiment_analysis
+2014-09-21,35720,True,2
+2016-01-26,389430,False,2

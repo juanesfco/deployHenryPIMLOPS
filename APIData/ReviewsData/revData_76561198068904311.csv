@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-06,369580,True,Pros- Doesn't require Rockstar Social Club login- Very good graphics- Cheaper than a coke- Took 3 seconds to download- Can run on max settings with no lag - Amazing soundtrack and voice acting - Excellent storyline and gameplay- No microtransactions- Appropriate for all ages- Money goes to charity- Better than GTA VCons- Fake reviews
-2015-09-09,239030,True,"Guy walks into the checkpoint, hands in papers, invalid expiration date, invalid issuing city, name and date of birth is inconsistent with other documents, non-matching photo, invalid gender, forged work pass and entry permit, fingerprints didn't match, weight didn't match, scans the person, finds drugs, weapons and a bomb on him, lets him through, 'M.O.A. CITATION - PROTOCOL VIOLATED - WARNING ISSUED - NO PENALTY' 10/10 would inspect again"
+posted,item_id,recommend,sentiment_analysis
+2015-07-06,369580,True,2
+2015-09-09,239030,True,0

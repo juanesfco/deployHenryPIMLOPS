@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-31,226700,True,"This is a really good game, allthough it is still really buggy, you will get alot of enjoyment out of it, i played this game for 5hrs straight with 2 friends, and it was the best experience i have ever had from a game in ages. But if you do want to get this game, wait till its on sale, you can get it for around $1.20 - $2.50. Great game.ps. i really want Australian servers!"
-2015-06-05,218620,True,"Deffinately the best game on my account, i love it, but only with friends, the AI teammates dont get you anywhere, but you can do it with at least 1 other friend and its a great game again. Deffitately worth a shot."
-2014-06-03,57900,False,"Deffinately the worst game in my library, pshysics suck, damage is terrible amd overall has a boring storyline, and to be honest, 90% of free to play games on steam are better then this, get blacklight retribution or warframe, and if you really want to spend the $20 get DLC's for the f2p's you will be alot happier, im just glad i got it for $5 and not $20"
+posted,item_id,recommend,sentiment_analysis
+2014-07-31,226700,True,2
+2015-06-05,218620,True,2
+2014-06-03,57900,False,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-30,730,True,"Very good game , Lots of fun !"
-2016-01-01,10090,True,Buenisimo Pros : Una de las mejores si no la mejor campaña de Call of DutyModo zombies Buen multijugador con bastantes desbloqueos Contras :La campaña es cortaSistema de checkpoints bastante raroNo has comprado este juego !
-2014-10-12,4000,True,Buenisimo !
+posted,item_id,recommend,sentiment_analysis
+2014-12-30,730,True,2
+2016-01-01,10090,True,2
+2014-10-12,4000,True,2

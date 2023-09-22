@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-23,11280,True,how is this in my library?
-2016-01-19,346900,True,I've played it a bit. I like it.
-2015-11-22,417860,True,"Greatest game ever, Harold cannot get enough of it."
+posted,item_id,recommend,sentiment_analysis
+2016-01-23,11280,True,1
+2016-01-19,346900,True,1
+2015-11-22,417860,True,2

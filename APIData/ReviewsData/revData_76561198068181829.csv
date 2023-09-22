@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-29,339800,True,my favorite stealth simulator so far 11/10 would lock themselves in their room
-2016-07-06,313730,True,11/10 would buy Liberation Day since you'll be wanting for more :D
-2016-02-09,337320,True,Best anti-stress game I've played so far xD
-2016-02-05,340730,True,This game is a must-buy for forever alone people like me XD :Ava: :Chigara: :Sola: :Asaga:
-2015-12-26,34330,True,Definitely one of the best Strategy games available in the market
+posted,item_id,recommend,sentiment_analysis
+2016-07-29,339800,True,2
+2016-07-06,313730,True,2
+2016-02-09,337320,True,2
+2016-02-05,340730,True,0
+2015-12-26,34330,True,2

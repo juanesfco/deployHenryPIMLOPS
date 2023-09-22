@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-02-23,4000,True,It's awesome.
-2014-12-31,221910,True,That unachievable achievement isn't so unachievable anymore now is it? (Check my achievements ;))
+posted,item_id,recommend,sentiment_analysis
+2013-02-23,4000,True,2
+2014-12-31,221910,True,2

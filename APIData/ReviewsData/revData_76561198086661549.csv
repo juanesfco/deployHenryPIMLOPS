@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-01-02,48240,False,it did not send my code play! waste of money
-2015-11-18,440,True,I Really LOVE this game!This is the best game for social interaction and wasting your money.
-2014-06-01,248570,True,its hard to get used to but its awsome when you can learn new skills and tricks
-2014-03-18,264140,True,i love the game and i recommend this game and i hope a update comes because we need sandbox mode please for the people who want money and items
-2014-02-16,4000,True,i like how a small game can be this popular
-2015-02-25,266430,True,really fun!
-2015-08-15,316010,True,honestly it's ok for a card game.it need improvement but in time the gam will get better just right now its just a ok game not 10/10 material.i would rate this game a 6/10
-2014-12-25,249570,True,really fun game
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,48240,False,0
+2015-11-18,440,True,2
+2014-06-01,248570,True,1
+2014-03-18,264140,True,0
+2014-02-16,4000,True,1
+2015-02-25,266430,True,2
+2015-08-15,316010,True,2
+2014-12-25,249570,True,1

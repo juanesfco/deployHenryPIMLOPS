@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-03,262590,True,One hell of a brain teasers game that will leave you scratching your head on certain levels & pulling out your hair on the nextdon't believe me buy it & try it!
-2014-03-21,245550,True,"Well worth watching, it's about a Dota 2 International Tournament to win $1 Million!"
-2013-12-25,550,True,"Awesome game, you have 2 play it!"
+posted,item_id,recommend,sentiment_analysis
+2014-03-03,262590,True,1
+2014-03-21,245550,True,2
+2013-12-25,550,True,2

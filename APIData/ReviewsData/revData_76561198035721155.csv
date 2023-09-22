@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-30,56400,True,One of the best RTS games of the centre
-2012-05-18,96400,True,"nice game, good for people who like Plat-forming"
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,56400,True,2
+2012-05-18,96400,True,2

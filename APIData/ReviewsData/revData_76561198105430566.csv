@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-16,206210,True,"I like the game it is whacky and fun, But whenever i want to play matchmaking can never find me a game everand the challenges get very boring after a while."
-2014-07-23,304930,True,"I do like this game, BUT Something really needs to be done about the hackersgod mode and endless grenade throwing naked men, really kills the fun for others"
-2014-12-05,218620,True,Go rob stuff with your friends.
-2014-04-10,251570,True,"i don't know how, but this game has achieved Singleplayer LAG."
-2013-12-21,221100,True,"Love the game so far. It's just great, i've been robbed twice and shot onsite for wandering into Cherno and uttering the word 'friendly' My only complaint/Suggestion would be that you fix those Noclipping zombies ASAP. as it ruins a lot of play at the moment. Other wise im loving the game :D"
+posted,item_id,recommend,sentiment_analysis
+2014-10-16,206210,True,0
+2014-07-23,304930,True,1
+2014-12-05,218620,True,1
+2014-04-10,251570,True,0
+2013-12-21,221100,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-31,218620,True,"Awesome game. Very hard especially in stealth but very well made. Graphics aren't always the best but the engine is good, and with little to no glitches and very fun gameplay I think this is a must for anybody who likes first person shooters."
-2015-04-13,318430,True,"When I bought the game onsale for $0.14 I thought 'ah what the hell, it might be okay'. After playing it for about 20 minutes I fell in love with this simple yet fun 2d platformer. It was challenging figuring out how I could kill myself in each level, and those damn key levels and boss fights were pretty tough. Its a fun game to spend a couple of hours on and move on (However I think I've spent like 15 hours on it), and is a nice lighthearted game. Its texture are basics and the game mechanics are sometimes buggy, but I reckon you should pick it up, especially if it is on sale."
+posted,item_id,recommend,sentiment_analysis
+2015-01-31,218620,True,2
+2015-04-13,318430,True,1

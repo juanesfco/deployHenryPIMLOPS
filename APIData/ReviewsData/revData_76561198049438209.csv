@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-27,60,True,Ricochet is a classic Valve game with arcade style gameplay but not many people play it anymore.
-2014-04-08,24240,True,Excellent co-op game. Gameplay is very fun and heists can go differently each time.
-2013-12-09,30,True,An excellent war shooter with a great online community
-2014-10-01,323500,True,Great DLC. The heist is very fun.
+posted,item_id,recommend,sentiment_analysis
+2013-11-27,60,True,0
+2014-04-08,24240,True,2
+2013-12-09,30,True,2
+2014-10-01,323500,True,2

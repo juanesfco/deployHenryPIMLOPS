@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-05,313120,True,Awesome! Such a beautiful survival game :) but I now have a fear of the ocean :P
-2016-07-19,423700,True,was loving it but it crashed!?
-2016-03-19,413150,True,I love this game so hard...
-2016-02-23,383870,True,"I really loved this game, I felt connected to the characters and the banter they threw back and fourth but finished it within 6 hours which was disapointing. I want more. Game was too short for the price."
-2012-03-13,440,True,Awesome Game!
+posted,item_id,recommend,sentiment_analysis
+2015-09-05,313120,True,2
+2016-07-19,423700,True,2
+2016-03-19,413150,True,1
+2016-02-23,383870,True,1
+2012-03-13,440,True,2

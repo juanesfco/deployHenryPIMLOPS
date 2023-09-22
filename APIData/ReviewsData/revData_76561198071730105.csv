@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-11-23,51100,False,Counter Strike Global Offsensive for poor people.
-2014-12-24,42680,False,Do not make an account with your brother and then buy this game and let him use hacks. 6/10
-2016-03-07,226700,False,Imagine a rusty pole going inside of you and it had hiv. Its about half as painful as this game.
-2016-02-29,326410,False,"Shoulda stayed in early access, had so much potential."
-2016-06-10,385240,True,"Get all the presidential candidates in an arena and they kill eachother, last one is presidantWHAT HOW DID BERNIE WIN???"
-2015-10-20,91700,True,Probably the most underated Source engine game ever.
-2016-01-17,367500,True,120 fps. Sheeeeeeeeeeeeeeeeet worth the wait fam.
-2016-01-21,362890,False,Crossfire update runied the nostalgia and the game.
-2016-04-20,296490,True,Back in the old days when flash games were decent and not just asset rip offs.  One of the 'Gems' i used to play during my younger school years.Always a good game and a classic.
+posted,item_id,recommend,sentiment_analysis
+2014-11-23,51100,False,0
+2014-12-24,42680,False,0
+2016-03-07,226700,False,0
+2016-02-29,326410,False,1
+2016-06-10,385240,True,2
+2015-10-20,91700,True,1
+2016-01-17,367500,True,2
+2016-01-21,362890,False,0
+2016-04-20,296490,True,2

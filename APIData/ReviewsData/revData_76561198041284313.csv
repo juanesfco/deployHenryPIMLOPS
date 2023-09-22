@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-17,72850,True,"If I could, I would take this game out, buy it dinner, have sex with it and call it the next day. Then we would start going out regularly, we would fall in love eventually. We would become the couple that has their own inside jokes and are always teasing each other and everyone else would be jealous of us. We would get married and have a child (Fallout New Vegas, the second best game ever). We would grow old together, on my death bed as I lie there about to draw my last breath, TES: Skyrim looks at me with tears in it's eyes 'Thank you for everything, you were always so good to me' and I would take TES: Skyrim’s hand, look it in the eye and say 'No, thank YOU' then pass away."
-2014-08-26,104900,True,Perfectly Simulates Jurassic Park If It Was In Russia.
-2015-11-16,232810,False,"Almost 3 years, and having gotten absolutely no where, Still in early access, Unresponsive Dev's, Just stay away from this one guys..."
-2013-12-20,4000,True,"There's not much to say, Some of my friends ask 'What type of game is it?' and i would respond with 'every, you can do pretty much anything you want, there is no restriction, it is entirely unique, and it is everchanging thanks to the community and workshop'."
+posted,item_id,recommend,sentiment_analysis
+2014-07-17,72850,True,2
+2014-08-26,104900,True,2
+2015-11-16,232810,False,1
+2013-12-20,4000,True,1

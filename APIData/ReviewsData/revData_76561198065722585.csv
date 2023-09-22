@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-18,323910,True,"So I purchased a new GPU a couple weeks before this Steam VR Test came out. I bought the GTX 960, only to find out that VR's minimum is GTX 970.10/10 would regret purchasing Graphics Card again."
-2015-12-08,319630,True,"During Episode 1: Oh yeah, cool, she seems like an interesting character. Nice!During Episode 2: Ok, it's getting a bit more exciting, and I'm liking the characters so far!During Episode 3: Things are picking up now!During Episode 4: Ok, this just gota little ♥♥♥♥ed up.During Episode 5: Woah.End of Episode 5: No, don't make me do this, pls...10/10 would reverse back in time and play again."
-2015-10-03,303210,True,I would definitely recommend this. Just... play it.
-2015-03-20,95400,True,"I was never that into Coop Platforming games (I'm more of an FPS gamer) and I got the Best Friends Forever pack from a Humble Bundle. After playing this with one of my friends, I have to say that this is an extremely fun platforming game, that is both relaxing and difficult.Things I loved about the game:- Visual Quality (it is so smooth and the particles effects are awesome).- Puzzles (The start of the game was quite easy, but once you played through, the puzzles took me a while to think of what to do).- Using momentum to beat puzzles (it's so satisfying).Problems I had with the game:- A little bit laggy when playing with a friend (that might just be my internet, although other games are fine when I play them).- Voice chat in game is a 2 second delay (but you will probably use Skype, Tamspeak etc. anyway).I would give this a solid 9/10. Definitely recommend it to anyone!"
+posted,item_id,recommend,sentiment_analysis
+2016-03-18,323910,True,1
+2015-12-08,319630,True,2
+2015-10-03,303210,True,1
+2015-03-20,95400,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-08-25,28050,True,This is the best role play and action game ever!!!!!!!!!!!
-2012-07-03,209870,True,The best free to play game!!!!!!!!!!!!!!!!!!!!!!!
-2012-06-19,107900,True,this game is 50 50 its not good but all so not bad it i a copy of BF 3 and MW 3
-2012-04-03,42680,True,cool game but you have to get battlefiled 3 (not on steam) its the beast game ever
+posted,item_id,recommend,sentiment_analysis
+2012-08-25,28050,True,1
+2012-07-03,209870,True,2
+2012-06-19,107900,True,0
+2012-04-03,42680,True,0

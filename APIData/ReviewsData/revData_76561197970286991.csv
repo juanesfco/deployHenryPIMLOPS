@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-14,256290,False,its funny i dont recall agreeing to purchase Uplay... i thought i bought Chilf of light.. apparently my money isnt good enough to play child of lightthats the last time i do that
-2016-09-04,203810,True,Great soundtrack and story
-2016-05-05,8500,True,The greatest game ive ever played
-2014-06-21,440,True,The Greatest FPS game ive ever played on any platform
+posted,item_id,recommend,sentiment_analysis
+2015-06-14,256290,False,2
+2016-09-04,203810,True,2
+2016-05-05,8500,True,2
+2014-06-21,440,True,2

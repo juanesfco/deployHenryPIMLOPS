@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-25,12900,True,It's a visualiser but you can be better at it than other people.10/10
-2015-06-01,374570,True,10/10 would rewind
-2015-05-23,4000,True,More modable than SkyrimCTD/10
+posted,item_id,recommend,sentiment_analysis
+2015-08-25,12900,True,2
+2015-06-01,374570,True,1
+2015-05-23,4000,True,2

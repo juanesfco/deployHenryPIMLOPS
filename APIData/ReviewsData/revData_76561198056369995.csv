@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-01,247950,False,"this game is a disgrace to the sacred name. what have they done?  this game is absolute trash. no loot , no armour pick ups or anykind of weapon pickups. the game is so linear and small its like im playing in world the size of a shoe box.  my heart bleeds for this has ruined a great franchise. R. I. P. sacred"
-2014-07-11,250320,True,this is another amazing step from telltale games. what a great story about exiled fables. the noir feel to this game and great story make this game a must play. highly recommended. cant wait for tales of the borderlands.
+posted,item_id,recommend,sentiment_analysis
+2014-08-01,247950,False,1
+2014-07-11,250320,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-03,271590,False,Banned for using mods uncool Rockstar
-2014-03-28,265930,True,GOATS
-2014-03-27,208090,True,BoooOooOOOOOOOooooBs
+posted,item_id,recommend,sentiment_analysis
+2015-05-03,271590,False,1
+2014-03-28,265930,True,1
+2014-03-27,208090,True,1

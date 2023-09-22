@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-12,385730,True,Crashed every time Finn Balor made an entrance10/10
-2015-07-08,292030,True,Lost all my money to buying Gwent cards 10/10
-2015-06-20,247080,True,"A dungeon crawling, rogue-like, rhythm game with a banging soundtrack. Literally all my favourite genres and aspects of gaming rolled into one."
-2016-02-25,413410,True,It's like they were making Ace Attorney and accidentally dropped a nuke on it loaded with DESPAIR
-2016-02-10,383870,True,"Short but sweet. Can definitely see why it wouldn't be some people's cup of tea, but I enjoyed it"
+posted,item_id,recommend,sentiment_analysis
+2016-03-12,385730,True,1
+2015-07-08,292030,True,1
+2015-06-20,247080,True,0
+2016-02-25,413410,True,1
+2016-02-10,383870,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-20,218620,False,"I used to recommend this game, then they released safes and purchasing keys to open those safes, as if we hadnt spent enough money on the 25+ dlcs (especially if you payed thier full price when they were released) now we are expected to pay for skins lol Going to go ahead and stop playing or if I do, Ill play with mods. Games fun went from about an 8 to a 3 real fast with that update gg Overkill Gunna play a game without desperate attempts at money grabbing"
-2015-10-20,271590,False,"More issues then any game on the internet with just as many hackers and modders and a support service that tells you to ask steam, steam then tells you to ask rockstar and you end up with no support. Social club is AIDS for games either doesnt sign in successfully or logs out shortly after trying to launch the game. Most frustrating game 2015 expect 40mins just to start playing, If your lucky enough to successfully connect"
-2015-11-20,377160,True,Fantastic. If anyone has complaints then they are just unable to be pleased. 10/10 and +1 Endurance and +1 Strength because of buffout.
-2016-08-27,275850,True,"Bought this game regardless of negative reviews. Have enjoyed flying through the different star systems discovering planets and wildlife all the while learning the native languages. Although it does become a little boring after doing the same things over and over again (mostly mining), I still enjoy coming back and seeing what strange creatures I can find today or what stupid name I can give a planet overall I give it a 7/10. Still worth buying given your PC/Laptop can run it properly, my old laptop ran into issues but with the beta code 3xperimental - <---- if you are encountering fps and graphics issues I strongly suggest trying this beta code, -I was able to run it smoothly, my new laptop runs it fine with highest graphics settings."
-2016-05-22,434020,True,I got this game for ffree on the windows store... then bought it here for some reason
+posted,item_id,recommend,sentiment_analysis
+2015-10-20,218620,False,1
+2015-10-20,271590,False,2
+2015-11-20,377160,True,2
+2016-08-27,275850,True,1
+2016-05-22,434020,True,0

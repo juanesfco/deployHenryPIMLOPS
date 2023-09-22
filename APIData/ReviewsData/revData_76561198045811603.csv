@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-08,212800,True,Best game that was ever invented!!!
-2014-06-23,203160,True,"I absoloutely loved this games, If you like third person shooters with amazing story lines GET THIS! I rate it 9/10 flying pigs"
-2014-04-24,98200,True,This want a stand out for me so i would rate it 4/10
+posted,item_id,recommend,sentiment_analysis
+2014-11-08,212800,True,2
+2014-06-23,203160,True,2
+2014-04-24,98200,True,1

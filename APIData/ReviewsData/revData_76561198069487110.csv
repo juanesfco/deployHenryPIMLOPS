@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-21,286080,True,I love the concept and the new mechanic added in.I also like how it continues right after the ending of Portal 2.
-2013-05-21,4000,True,its aweosme
-2015-09-02,375950,False,It was a great game and i was doing great until i randomly lost all my progress.
-2015-07-12,304050,True,"This game is just so delicious!!Once you think you got really good at the game and you can wreck all the bosses, this game just proves you wrong!The only MMORPG that i like.(also open world)"
-2013-11-20,51100,True,This is like the best fps EVERand its f2p so its like battlefield+counterstrike+cod+morder warfare= this
+posted,item_id,recommend,sentiment_analysis
+2014-04-21,286080,True,2
+2013-05-21,4000,True,1
+2015-09-02,375950,False,2
+2015-07-12,304050,True,1
+2013-11-20,51100,True,2

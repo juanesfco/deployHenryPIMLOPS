@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-19,8930,True,Barbarian captured my settler because I suck10/10
-2016-01-22,72850,True,It's alright I guess
-2014-10-07,730,True,Pretty swole
+posted,item_id,recommend,sentiment_analysis
+2016-06-19,8930,True,0
+2016-01-22,72850,True,1
+2014-10-07,730,True,2

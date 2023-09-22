@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-12-22,287700,True,"8.7/10, utter garbage"
-2014-08-13,248570,False,"These controls are horrible, i stopped playing after 15 minutes, couldn't handle it."
-2015-12-23,303210,True,Oh my God
-2015-11-20,417860,True,The ♥♥♥♥ is this game. 10/10
-2015-07-27,221100,False,"♥♥♥♥ing runs at 30FPS and 10FPS in cities on lowest settings and I have a god damn GTX 970, 8GB RAM and an I5-3570K.Game itself it okay aside from the horrible optimization."
-2015-03-11,72850,True,"Buy this ♥♥♥♥ing game, it is a must have. I don't even have to explain, the game itself is great and the amount of modding makes it millions of times better."
-2015-02-09,220,True,"eh, its ok11/10"
-2015-01-11,440,True,kinda good for a free gameHats/11
-2014-12-24,213610,True,I'll link you to something that will... encourage your urge to buy the game..https://www.youtube.com/watch?v=nuHfVn_cfHU
+posted,item_id,recommend,sentiment_analysis
+2015-12-22,287700,True,1
+2014-08-13,248570,False,0
+2015-12-23,303210,True,1
+2015-11-20,417860,True,0
+2015-07-27,221100,False,0
+2015-03-11,72850,True,2
+2015-02-09,220,True,1
+2015-01-11,440,True,2
+2014-12-24,213610,True,1

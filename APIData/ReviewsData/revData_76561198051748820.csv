@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-19,113200,True,"Úžasná originální hra, na odreagování po jakékoliv hře vřele bodne!Až zhruba po 60 odehraných hodinách sem chytl ten správný skill, hra je sama o sobě dost těžká(doporučuji přikoupit dlc) ale za to je absolutně nepřepovídatelná! Už se nemohu dočkat na další díl!"
-2014-01-25,244850,True,"Studio Keen Software House mě s touto hrou zatím jen a jen překvapuje, super hra! Sem zvědav na budoucí 'updaty'!"
-2014-10-27,221640,True,Ragequit zaručen!
-2014-10-26,269270,True,"Úžasná krátká retro-hardcore plošinovka která probudí u spousty hráčů chuť po výzvě.Hra Love má úžasnej soundtrack jen je škoda že tu (zatím, alespoň doufám) není zvlášť ke koupi. :-(Každopádně kdo zná například hru SuperMeatBoy a nemá ji rád, tak si tuhle hru ani nekupujte, občas jsem měl chuť zlámat ovladač.Hratelnost - 9/10 pokud jste achiev. hunter tak ragequit je zaručenej a chtělo by to víc levlů. (myslím že vývojáři do budoucna přidají více map, jak již myslím udělali.) Jinak je tahle hra opravdu krásné dílo.Soundtrack - 10/10 miluji tenhle pixelovej styl hudby."
-2012-07-20,11230,True,"Na to že stojí poměrně málo, tak mě to tak na 10-15 minut vždy zabavý.."
-2011-12-28,57400,True,"I really like the game, but I couldn’t find the stupid cake."
+posted,item_id,recommend,sentiment_analysis
+2014-08-19,113200,True,1
+2014-01-25,244850,True,2
+2014-10-27,221640,True,1
+2014-10-26,269270,True,0
+2012-07-20,11230,True,0
+2011-12-28,57400,True,0

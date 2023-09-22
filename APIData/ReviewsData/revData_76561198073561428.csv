@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-04,440,True,Best multiplayer fps ever..
-2016-04-27,241560,False,"Don't ever think about buying this piece of ♥♥♥♥ , don't even think about doing it , i am serious"
+posted,item_id,recommend,sentiment_analysis
+2014-05-04,440,True,2
+2016-04-27,241560,False,0

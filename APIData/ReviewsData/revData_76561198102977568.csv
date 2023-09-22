@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-30,730,True,hulul
-2014-03-02,219740,True,GET THIS GAME IF YOU KNOW WATS GOOD FOR U!!!!!!!!!!!!!!!!!!!!!!
-2014-07-19,221100,True,"dayz. good game. 11/10- IGN. 0.53 has seen manny an improvenment there has been a massive drop in hackers and i love the devs for it.General Jansen 27 minutes ago  This review has one truth in it, drop in hackers. No other improvements and devs arent worthy of love. And its not a good game, its an addictive game ill give it that, but not good."
+posted,item_id,recommend,sentiment_analysis
+2015-05-30,730,True,1
+2014-03-02,219740,True,2
+2014-07-19,221100,True,1

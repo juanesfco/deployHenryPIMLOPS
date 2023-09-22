@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-02-22,228380,False,"Extreme Lack of updates, cars sound the same, smaller cars get run off the track too easily, AI is stupid, poor customisation (currently), very annoying theme song. Just a lack of content in general. There's only so much figure-8 derbys you can do with a car you can't even upgrade. This game has been in early access for YEARS.Nice damage model though."
-2015-12-18,284160,True,Cars look and handle like they were made out of plastic. Driving is a chore in this game. Still a 8/10 for dat crash physics
-2015-11-03,331710,False,If it wasn't for the music this would be an immensely boring game.
-2014-04-05,271290,True,♥♥♥♥ing amazing.
-2014-01-03,43160,True,10/10 would recommend
+posted,item_id,recommend,sentiment_analysis
+2016-02-22,228380,False,0
+2015-12-18,284160,True,0
+2015-11-03,331710,False,0
+2014-04-05,271290,True,2
+2014-01-03,43160,True,1

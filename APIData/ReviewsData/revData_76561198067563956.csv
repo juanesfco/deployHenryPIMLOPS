@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-04,218620,True,Damn good CO-OP i must say.
-2014-08-15,50,False,"This game is so horrible, good thing it was free"
-2015-07-03,270550,True,"Very good game, i love the co-op with my friends and it provides a nice challenge, also i can run it with minimal lag on my crappy laptop so it's good for even crappy computers"
-2014-04-08,218680,True,This is a fun game with so much to do i could spend hours just thinking of new ways to complete tasks you really have to think outside the box in this game 4 stars sounds about right
+posted,item_id,recommend,sentiment_analysis
+2014-03-04,218620,True,2
+2014-08-15,50,False,1
+2015-07-03,270550,True,2
+2014-04-08,218680,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-28,24960,True,"One of the best Battlefield's ever, it feels like an Arma game but inside Battlefield!"
-2014-08-28,204080,True,"A classic fun game to play with your friends in private matches, if you have friends that is."
-2014-08-28,209000,True,I'm Batman!
+posted,item_id,recommend,sentiment_analysis
+2014-08-28,24960,True,2
+2014-08-28,204080,True,1
+2014-08-28,209000,True,1

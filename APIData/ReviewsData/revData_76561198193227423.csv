@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-10-10,10680,True,"The Best, the story in single player is really good. Multiplayer..... just add me and ask me if you want to play multiplayer"
-2016-01-10,298240,False,pay to win
-2016-01-03,327130,False,Totally not worth it for 10 bucks... Third person view in this dlc mission only
-2015-10-09,49540,False,"No-one play multiplayer, graphics is so bad, AI broken, mission got problem (because AI sometimes wount move) and many more!"
-2016-03-06,227940,True,Its a good game even with unbalance match you still having fun playing it.
-2016-04-30,220200,True,just do it
-2015-09-05,271590,True,Graphics: AstonishingStory Mode: ImpressiveOnline: Pretty Good9/11
-2015-09-04,244450,False,Crash and crash and crash... + loading for multiplayer recource that takes for ever!!!
-2015-09-03,236390,False,"If you are Asutralian, Please do NOT download and even play this gameWell its a torture for Australian gamers... Because there is no Australian server. > South Asian server will give you ping 999 with pl 4%> US server will give ping 500-999> EU: ping 999> RU: ping 999None of the server works for australia"
+posted,item_id,recommend,sentiment_analysis
+2015-10-10,10680,True,2
+2016-01-10,298240,False,2
+2016-01-03,327130,False,1
+2015-10-09,49540,False,1
+2016-03-06,227940,True,2
+2016-04-30,220200,True,1
+2015-09-05,271590,True,2
+2015-09-04,244450,False,1
+2015-09-03,236390,False,1

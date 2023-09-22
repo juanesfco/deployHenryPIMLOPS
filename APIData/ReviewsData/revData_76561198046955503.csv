@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-11,252950,True,Probably the most fun you can have playing a game. Sold 10/10.
-2015-02-02,346010,True,100% Yes.
-2015-01-10,730,True,10/10 Would recommend if you like FPS's such as CoD or Battlefield.
+posted,item_id,recommend,sentiment_analysis
+2015-07-11,252950,True,2
+2015-02-02,346010,True,1
+2015-01-10,730,True,1

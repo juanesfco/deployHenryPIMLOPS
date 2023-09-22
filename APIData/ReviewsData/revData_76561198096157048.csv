@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-19,208650,True,"Best batman game so far, the game has been fixed. currently with my i3 6100 and gtx 970 pc im getting 60fps on max settings with v sync enabled. and yes maxed settings use about 4gb vram which the gtx 970 did no problem even on shadow of mordor."
-2014-02-22,35450,True,A good game
-2014-02-07,35140,True,great game
+posted,item_id,recommend,sentiment_analysis
+2016-04-19,208650,True,1
+2014-02-22,35450,True,2
+2014-02-07,35140,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-11-03,214850,True,"Amazing program for developing your own games.Simple, easy to use, creativity is your own limit.There is simple Drag N Drop features for beginners and once you feel confident for full control, you can more onto GML (game maker language)Would recommend to anyone. 10/10"
-2014-09-04,105600,True,"amazing game,very diverse and interesting.lots and lots of weapons to choose from and use make it VERY entertaining to adventure with friends."
-2011-12-28,40800,True,"Jump and wall jump to save your girlfriend. Yaaaaaay!!!! Really good, if you are stuck on a lvl it really fun to watch the replay of 50 meat boys suiciding."
-2015-01-07,275490,False,"dont get this game, this game is ♥♥♥♥"
-2011-11-26,550,True,"PLAY THIS!! THE BEST GAMEEE EVERRRRR. apart from portal 2 and minecraft. PLAY WITH FRIENDS is really fun but laggy, SP is pro but boringish"
-2011-10-08,620,True,BUY THIS GAMEEEE!! IT PROOOO!! If you like to think and shoot portals.
+posted,item_id,recommend,sentiment_analysis
+2014-11-03,214850,True,2
+2014-09-04,105600,True,2
+2011-12-28,40800,True,2
+2015-01-07,275490,False,0
+2011-11-26,550,True,2
+2011-10-08,620,True,1

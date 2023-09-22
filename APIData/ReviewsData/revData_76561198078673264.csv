@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-19,318430,True,"Jogo OTIMO para passar o tempo, com cenarios bem pensados e historia co-oerente"
-2014-12-16,299360,True,Muicho Top Recomendo mutisimo(ainda + se vc gosta de jogos ypixel =)
-2014-10-19,301520,True,"Jogo Muito Bom,Graficos Bons E Muito Ultil Para Pasar Tempo, Recomendo !!!"
-2014-10-18,219740,True,Muito Loko Recomendo Ainda mas o dlc!!!
-2014-09-19,224540,True,"Jogo ♥♥♥♥, Graficos Bons , jogabilidade boa e varios modos de jogo, Recomendo!!!"
-2014-02-16,204300,True,PERFEITO
-2014-02-12,208090,True,top
+posted,item_id,recommend,sentiment_analysis
+2015-10-19,318430,True,2
+2014-12-16,299360,True,2
+2014-10-19,301520,True,2
+2014-10-18,219740,True,2
+2014-09-19,224540,True,1
+2014-02-16,204300,True,2
+2014-02-12,208090,True,2

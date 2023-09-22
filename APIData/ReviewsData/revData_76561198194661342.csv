@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-27,315880,False,What I liked about this software:It looks legit.What I didn't like:Didn't work.Thanks alot. It sucks
-2015-12-12,322170,True,"Amazing game! I managed to fix a problem I had with Geometry Dash awhile ago. Now, it works fine!Worth buying. 10/10. -Me"
-2015-05-12,301520,True,A really great game! 100% reccomend itI like the new features added. Respawning is a great addition and the supernova as well.It's much more fun than the classic no-respawning and capture the base.
+posted,item_id,recommend,sentiment_analysis
+2015-09-27,315880,False,2
+2015-12-12,322170,True,1
+2015-05-12,301520,True,2

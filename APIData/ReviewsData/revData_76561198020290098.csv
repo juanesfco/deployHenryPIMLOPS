@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-26,233130,True,9/10. Amazing graphics and story plot.
-2014-08-20,570,True,Best MOBA <3
-2014-01-04,222940,True,Same old day game !
-2015-09-02,287700,True,A Hideo Kojima Game
+posted,item_id,recommend,sentiment_analysis
+2014-12-26,233130,True,2
+2014-08-20,570,True,2
+2014-01-04,222940,True,0
+2015-09-02,287700,True,0

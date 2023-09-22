@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-12,206440,True,"It's so hard to say why this game is so good without spoiling it....I guess the main thing I love about it is how well-crafted the story is. There are many layers and details to consider, and I feel like there would be more to think about with each further playthrough. I've only just finished it and my mind is still reeling a bit, going over everything, connecting all the pieces, and thinking a bit beyond the visible aspects of the game. Just...wow."
-2016-02-09,319630,True,"First playthrough will always be the most exciting and genuine playthrough, but I'm sure I'll be revisiting this game frequently anyway. It's...impressive. Play it."
-2016-01-15,238320,True,"Plot could've been better, but as an atmospheric horror/psychological thriller, it works. Most of the time it's your own paranoia frightening you...Then you start to relax, only to find yourself being chased by a maniac. Tried to play it a second time, when the achievements became available, but somehow it's even worse when you know what's coming..."
-2016-01-15,223710,True,Stopped playing 'cos I nearly ♥♥♥♥ my pants. May attempt it again one day.
-2016-01-14,203160,True,'SAM!' - Lara Croft
+posted,item_id,recommend,sentiment_analysis
+2016-01-12,206440,True,2
+2016-02-09,319630,True,2
+2016-01-15,238320,True,2
+2016-01-15,223710,True,1
+2016-01-14,203160,True,1

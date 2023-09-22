@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-17,730,True,tbh this game is only good for the skinsZ
-2013-12-19,42680,True,"I'm sorta torn on my opinions of this game. While gameplay is definitely fast-paced and fun, some game mechanics are a little broken IMO. For example, some of the duel-wielding SMGs can three shot you in the knee and still kill you, while some of the assault rifles take 4-5 shots through the chest. Also, some players who have played the game and the series for a long time will have better perks and weapons, so they can just get a few easy kills, get a massively overpowered killstreak reward and dominate the entire game. The community could also use a little dusting up. Visuals are nice and run smoothly on old PCs, and games CAN be fun if played with the right people of similar skill level. Price tag is very overpriced IMO for a game that's two years old and already has had 2 sequels released in the period."
-2013-12-19,221260,True,"A very cute game, although limited in gameplay and game time. Great if you're just bored, but the pricetag is a little steep for a 3-5 hour game. Runs fine on older PCs and visuals are very appealing. A definite buy for fireplace simulator fanatics (you know who you are)."
+posted,item_id,recommend,sentiment_analysis
+2014-10-17,730,True,1
+2013-12-19,42680,True,1
+2013-12-19,221260,True,1

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-09-05,274940,True,"damn,too late,it not free anymore"
-2016-09-05,393980,True,this game help improve your little guy grow stronger
-2015-07-10,360760,True,*Russian._Russian everywhere ~~
-2016-09-02,424280,False,there an error when playing city level
-2016-08-07,464780,True,"well,this is master peace,an't got no words for this..."
-2015-02-17,304930,True,"Game bựa :)) mà vui vờ lờ,đang cần tìm 1 ae người VN tới,share chơi chung ;)"
-2013-12-11,440,True,"very good game play and nice graphics,it really weight but the game is really cool,if you don't play it you will never know how the world big :))"
+posted,item_id,recommend,sentiment_analysis
+2016-09-05,274940,True,0
+2016-09-05,393980,True,0
+2015-07-10,360760,True,1
+2016-09-02,424280,False,1
+2016-08-07,464780,True,1
+2015-02-17,304930,True,2
+2013-12-11,440,True,2

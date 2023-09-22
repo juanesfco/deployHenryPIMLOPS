@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-06-07,346110,True,Very good and high quality for early access. But just need 3 main things fixed:Food/hunger systemLagBugy dinosFix them and it would be near perfect
-2014-09-20,17080,False,"Um, its alright, but would not have payed any money for it if you had to."
-2014-09-20,218230,True,Awesome Game. Very good for a free game
-2014-01-24,220,True,I Found It Fun And Boring At Different Parts
-2014-01-24,33930,True,"This Is An Awesomie Game Buy It, Buy It, Buy It"
-2014-01-24,4000,True,"Garry's Mod Is One Of My Favourite Games, With Lots Of Things To Do In Just Sandbox Alone, There Is Also Lots Of Custom Content Like : Dark RP, TTT And Flood With I Really Enjoy. Defently Worth $9.99"
-2015-10-05,730,True,"For someone that really enjoyed source, this game is basically a better version of source. Very impressive game."
-2014-09-20,204300,True,"Nice 2D game, Very fun"
-2014-09-20,440,True,Very good for a free game
-2014-09-20,91600,True,"Good Concept, Good Game"
+posted,item_id,recommend,sentiment_analysis
+2015-06-07,346110,True,2
+2014-09-20,17080,False,1
+2014-09-20,218230,True,2
+2014-01-24,220,True,0
+2014-01-24,33930,True,0
+2014-01-24,4000,True,2
+2015-10-05,730,True,2
+2014-09-20,204300,True,2
+2014-09-20,440,True,2
+2014-09-20,91600,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-04,570,True,this games ruin my life
-2015-12-10,359320,True,Really need some movement nerfIam so difficult to fly liek blazing F16Nerf it and please add third view so we also can look the spaceship
-2014-08-27,301520,True,Really nice game just need add some server and features
-2014-07-26,304930,True,"Support for the developer, this is the most top games and free to play , no hidden fees :)"
-2014-06-29,72850,True,This game are beautiful but there's a annoying bug ' Ratway Quest '
-2014-06-15,218620,True,good games i like this games
-2014-04-17,104900,False,well so far is good but less player
+posted,item_id,recommend,sentiment_analysis
+2015-10-04,570,True,1
+2015-12-10,359320,True,2
+2014-08-27,301520,True,1
+2014-07-26,304930,True,2
+2014-06-29,72850,True,0
+2014-06-15,218620,True,2
+2014-04-17,104900,False,2

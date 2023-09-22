@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-31,440,True,"Team Fortress 2 is the best steam game in my opinion because of the wide variety on items, hats and miscillaneous's it has a wide variety on Multiplayer and MvM theres alot of stuff to say about it but all I can say is Download it its 7.1GB So try it out and see how you go with it."
-2015-02-27,304930,True,"Ah yes Unturned, I love this game it just reminds me of minecraft but GET THE GAME! Its a really really awesome game! try it out!"
+posted,item_id,recommend,sentiment_analysis
+2014-10-31,440,True,1
+2015-02-27,304930,True,1

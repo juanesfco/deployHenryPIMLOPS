@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-26,570,False,new update game always crashes
-2016-03-24,730,True,Really Good game spent over $100 NZ on this game i have enjoyed it alot and im sure u will to
+posted,item_id,recommend,sentiment_analysis
+2016-04-26,570,False,0
+2016-03-24,730,True,2

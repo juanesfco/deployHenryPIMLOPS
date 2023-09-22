@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-07,282900,True,"Do you like Anime?Do you like Girls?Do you like Girls wearing sexy robotic outfits?Then this is the game for you!A fun jrpg, that great and funny characters that are based different consoles, that will keep you playing for along while this colourful adventure.May the Console Wars begin!"
-2015-06-19,72850,True,"10/10 Will mod it, till it crashes again!"
-2015-03-24,236090,True,"This game is truely fantasic, Im currently playing game on hardcore differcultly. A must play for hack-n-slash for fans."
-2015-03-06,250900,True,"A very fun, yet hard game. If you liked the first game, then you will definitely enjoy the remake, that has new items, monsters, unlockable characters and bosses to explore with the return of fimiliar faces.It also has a great soundtrack to listen while exploring the dungeons."
-2014-11-27,248310,True,This is great! It reminds of the classic sonic games like sonic 2 and 3. Having lots fun with game! :)
+posted,item_id,recommend,sentiment_analysis
+2015-09-07,282900,True,2
+2015-06-19,72850,True,2
+2015-03-24,236090,True,0
+2015-03-06,250900,True,2
+2014-11-27,248310,True,2

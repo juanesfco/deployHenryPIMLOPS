@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-01,620,True,"AWESOME game. Levels are interesting and original, and the story can be quite amusing. Can be very difficult at times, but that just makes finding a solution so much more satasfying. Great fun to play"
-2013-12-30,17480,True,A true example of CNC gameplay and storyline. WAY over the top plot and very bright graphics take away the serious edge and make it a lot of fun to play. Very thought-out units and the gameplay is quite balanced. Great place to start if your new to the series although the tutorials are a bit unnecessary and lengthy for the old hands. It carrys the CNC legancy well and adds something new to the series. Great game and a lot of fun to play. 9/10
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,620,True,2
+2013-12-30,17480,True,2

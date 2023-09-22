@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-19,212070,True,I LOVE IT AHHH!
-2015-02-19,244850,True,LOVE IT
-2016-08-19,301520,False,Love EveryThing but the new interface no more blue coins you could buy andy more
-2014-11-23,313160,True,my farming simulator is  not working now for some reson
+posted,item_id,recommend,sentiment_analysis
+2015-02-19,212070,True,2
+2015-02-19,244850,True,2
+2016-08-19,301520,False,2
+2014-11-23,313160,True,1

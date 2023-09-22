@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-24,250180,True,"Good game. Hard as ♥♥♥♥. Played it as a kid, loved the ♥♥♥♥ out of it. Loving it even harder now. Seriously, buy this ♥♥♥♥ing game."
-2015-04-30,264140,True,"First time playing it took me a while to understand the mechanics of the game, then once I had assembled a decent crew and vessel I set sail into the open sea... Only to be killed by Chinese Imperialists.10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-02-24,250180,True,1
+2015-04-30,264140,True,1

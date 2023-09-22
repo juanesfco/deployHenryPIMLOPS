@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-01,252950,True,Got family?Got friends?Not anymore you don't.
-2015-01-16,250600,True,10/10 ign.
-2014-07-06,230410,True,"very fun, exillerating and over all 9/1O"
-2014-04-10,10,True,"Really good game for its time! if you have a time machine, go back in time when it was popular and buy it!"
-2014-04-10,252490,True,"You need a high end pc, but if you do! definitely worth the money!"
+posted,item_id,recommend,sentiment_analysis
+2015-12-01,252950,True,1
+2015-01-16,250600,True,1
+2014-07-06,230410,True,2
+2014-04-10,10,True,2
+2014-04-10,252490,True,2

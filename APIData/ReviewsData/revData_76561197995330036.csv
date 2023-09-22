@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-02-19,242920,True,"reccommend++, tutorials don't cover everything so suss it out online after them"
+posted,item_id,recommend,sentiment_analysis
+2014-02-19,242920,True,1

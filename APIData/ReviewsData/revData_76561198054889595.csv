@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-30,730,True,"A fun game where you rage at 'hackers' (they're not), smurfs, awps, dak daks, autoshottys at close range and other stuff. This is a good game"
-2014-08-30,244850,True,"An awesome game where you let your creativity flow. Has excellent multiplayer and has epic destruction physics. It is also very fun to screw around in creative by yourself. Although it has a learning curve, it only takes a short period of reading guides and tutorials to overcome this. This game is Awesome."
-2014-05-31,9420,True,This is better than Sup Com 2 gameplay wise
+posted,item_id,recommend,sentiment_analysis
+2015-05-30,730,True,1
+2014-08-30,244850,True,2
+2014-05-31,9420,True,2

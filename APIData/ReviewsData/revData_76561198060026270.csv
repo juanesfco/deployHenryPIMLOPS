@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-05,311210,False,"I really like this game. I played it for ages, especially uplink (when u can get a game.) I had my cousin come over so i pulled out my xbox 360 and played black ops 1 with him mp.And now im writing this review."
-2015-04-08,286040,True,is this game even multiplayer???? False advertising much. But it is a nice game .-.
+posted,item_id,recommend,sentiment_analysis
+2016-06-05,311210,False,0
+2015-04-08,286040,True,1

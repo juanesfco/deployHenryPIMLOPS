@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-05,218620,True,Hardest f*cking achievement ever : Disco Inferno9/11
-2013-12-13,730,True,"iza gud game nigguhz, get you one!"
-2013-03-08,440,True,IT'S JUST INCREDIBLY AWESOME!
+posted,item_id,recommend,sentiment_analysis
+2015-07-05,218620,True,0
+2013-12-13,730,True,0
+2013-03-08,440,True,2

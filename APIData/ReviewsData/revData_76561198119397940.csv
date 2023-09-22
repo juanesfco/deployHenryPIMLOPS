@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-10,730,True,Very nice shooter game.
-2015-06-21,304930,True,"Free survival game. It's fun every now and then but get's boring after a while. It's a bit complex at the start so I recommend watching tutorials. Once you get the hang of it, it's prety fun."
-2015-04-19,34030,True,"Really fun game, if your interested in weaponary,warfare,strategy and tactics this is the game."
-2015-04-02,440,True,"PRetty good game. However, now that other games like cs:go and dota are around TF2 isnt really the best option around."
+posted,item_id,recommend,sentiment_analysis
+2014-08-10,730,True,2
+2015-06-21,304930,True,0
+2015-04-19,34030,True,1
+2015-04-02,440,True,2

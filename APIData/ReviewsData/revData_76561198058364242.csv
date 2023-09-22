@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-02,323910,True,Le test utilise la mauvaise carte graphique ! Du coup les résultat son complètement bidon et faussé.Quelqu'un sait comment faire ?Merco
-2015-11-01,283980,True,"Un des premiers jeux auquels j'ai joué ! Que de bons souvenirs, j'aime."
-2015-08-30,380840,True,"Je me rappel de ce jeu il y a 4 ans sur linux ubuntu ! J'y ai passé des heures.J'aime ce jeu, et en plus, 9s pour l'installer génial :D !"
-2015-03-21,620,True,Juste mon jeu préféré !Just my favorite game ever !
+posted,item_id,recommend,sentiment_analysis
+2016-07-02,323910,True,0
+2015-11-01,283980,True,2
+2015-08-30,380840,True,2
+2015-03-21,620,True,1

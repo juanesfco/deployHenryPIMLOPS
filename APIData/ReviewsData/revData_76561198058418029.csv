@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-01-17,218620,False,overloaded with dlc and now microtransactions. save your money and spend it on something worth it
-2015-08-25,48700,True,"Not only is this a great rpg, not only is this an amazing game, but its achievements are full of Monty Python references. 10/10"
-2015-07-20,6060,True,Instant Action: Mos Eisley Assault. That is all.
-2015-01-21,72850,True,"If you have a mate who isn't really into RPG's, get him this game."
-2014-12-12,206420,True,"To really enjoy Saints Row IV then you just gotta give in to the clever writing, crazyness and stupidity of it all."
-2014-09-22,213670,True,Very funny game with good gameplay and an indepth fighting mechanic. My only complaint is that some of the achievements force you to replay the game to get them. Other than that great game.
-2014-05-29,3480,True,This game may seem silly or stupid cause of how basic it is but once you start to get into it you can't stop.
+posted,item_id,recommend,sentiment_analysis
+2016-01-17,218620,False,2
+2015-08-25,48700,True,2
+2015-07-20,6060,True,1
+2015-01-21,72850,True,1
+2014-12-12,206420,True,1
+2014-09-22,213670,True,1
+2014-05-29,3480,True,0

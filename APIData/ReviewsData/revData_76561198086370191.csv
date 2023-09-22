@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-06-12,105600,True,"This is a great game for anybody who likes building, killing monsters, have your own world and sometimes playing with friends. This is also a game for anybody who thinks minecraft sucks (me included). This is a great action-adventure sandbox game to play and to play with friends. 10/10 :)"
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,105600,True,2

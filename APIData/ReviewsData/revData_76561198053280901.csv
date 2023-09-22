@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-09-14,221640,True,"A serious skill trainer. Its not so much for playing the game as it is for honing yourself in the reaction time region. Super hexagon is probably the most difficult and challenging fast paced game you will ever play. Good if you play a lot of FPS games, really helps."
-2014-09-14,253030,True,A game based on reaction time and finesse in your gaming motion. Simply to learn how to concentrate enviournment understanding not only for further enjoyment in the game itself but to utilise in other games.
-2014-09-14,205930,True,Hitman: Sniper Challenge is a branch off of the main game Hitman: Absolution. It offers a unique mission in which you test your skills as a silent assassin. Though small it can consume as much game time as the real game. Great for playing with friends.
-2014-04-18,222980,True,A very small game based on blowing the crap out of crap simply put. Useful for taking out stress.
-2014-04-18,550,False,I dont full on recommend this game. It is quite bland but can supply some fun if you want to blow the crap out of some zombies.
-2014-04-18,570,True,"Dota 2 is a finesse based strategy. Cooperating with bots, players or just yourself tackle across a battle ridden plain to wreak havoc upon enemy lines. Focus you gameplay style however you want in a diverse fighting system and enjoy decent length games of traditional overhead MMO style combat fun."
-2014-04-18,4000,True,"For a tear-off mod, Gmod is very good. Most games of this style have died in a month but Gmod has gone on strong for many  years now. Not a high recomendation but the various styles of gameplay within the game can cover a grand amount of time."
-2013-10-03,105600,True,"Survival platformer, one of the best around, really adictive and FUN. So much to do you'll love it"
+posted,item_id,recommend,sentiment_analysis
+2014-09-14,221640,True,1
+2014-09-14,253030,True,0
+2014-09-14,205930,True,1
+2014-04-18,222980,True,0
+2014-04-18,550,False,0
+2014-04-18,570,True,2
+2014-04-18,4000,True,2
+2013-10-03,105600,True,2

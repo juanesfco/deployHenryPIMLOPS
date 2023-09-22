@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-22,224900,True,Iron sky invasions has to be one of the best space dogfight simulation games out there. The combat is always new and interesting and i really like the progression system on the different ships. I highly recommend playing it.
-2015-12-20,203210,False,Continually crashes on launch... so i have been unable to access the 'game'
-2014-01-22,223470,True,It's really good psychotic fun but also allows a fair bit of choice giving you the option to use your own play style. Well worth playing and you should get a lot of hours out of it.
-2014-01-02,221910,True,Really interesting gameplay and narrative with a great deal of replay value.
+posted,item_id,recommend,sentiment_analysis
+2014-01-22,224900,True,2
+2015-12-20,203210,False,0
+2014-01-22,223470,True,2
+2014-01-02,221910,True,2

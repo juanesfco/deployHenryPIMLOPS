@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-22,407900,True,"Solve people's problems by shooting at things inside them, battle against a giant potato man who asks philsophical questions and marry a seal or a duck.That's all you need in a game."
-2015-09-27,391540,True,"A little short for an RPG, but every second is absolutely amazing. You won't find a game of this genre that's this unique. Where else will you fight corgis in battle armour and play a dating simulator with a skelton?"
-2015-06-18,248310,True,This game is basically what woud've happened if SEGA hadn't lost their ♥♥♥♥♥♥♥ minds. A really fun Sonic-esque throwback that's better than any recent actual Sonic game.
+posted,item_id,recommend,sentiment_analysis
+2016-04-22,407900,True,0
+2015-09-27,391540,True,1
+2015-06-18,248310,True,1

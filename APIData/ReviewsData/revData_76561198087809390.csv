@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-10,221100,True,I had 2 guns a awesome SKS  and a Mosin in my hands and then I just went for a drink of water at the Well and I put the Mosin on the ground so I can drink and then the next minute I know is that a Server Restart happened!!! So overall its a GREAT game but give us some Server Restart warnings plz!
-2016-07-15,365300,True,"Such a SHORT game but such GREAT gameplay and level design. I really loved the atmosphere and its dark puzzles and EVERYTHING! For 2 years and 1 guy, it shows a lot how a single developer can create a little fantastic game. I really recommand this little game.10/10 - AWESOME GAME!5/10 - Short but worth itWho knows, if Valve put this on Steam then it could be a hint there will be a HL3?? The game is called Transmissions: Element 120 and 120 has 3 numbers in it....HL3 CONFIRMED?? Or maybe they are starting to add the best HL mods? WHO KNOWS!?"
-2015-09-19,730,False,"SUCH A STUPID FREAKING GAME!!! GOT OVER TEN 7 WEEK COOLDOWNS IN A ROW NOW JUST CAUSE OF A STUPID MISSING PAK FILE!! I'VE HAD ENOUGH! Plz Valve fix this problem if you can, its killing me!"
+posted,item_id,recommend,sentiment_analysis
+2015-01-10,221100,True,2
+2016-07-15,365300,True,2
+2015-09-19,730,False,0

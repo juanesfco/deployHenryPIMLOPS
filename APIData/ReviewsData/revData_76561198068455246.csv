@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-12-23,4000,True,"Is gud. 5 stars, 10/10, 4 stars."
+posted,item_id,recommend,sentiment_analysis
+2015-12-23,4000,True,1

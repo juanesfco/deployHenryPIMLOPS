@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-05,221100,False,This games sucks
-2013-02-24,730,True,"CS:GO is the most recent entry to the counter strike series, if you're not famillar with this series, its an online tactical first person shooter, developed by the good old people at valve, with hidden path entertainment helping with this entry. it comes with much improved graphics compared to previous entries.. you must be precise and tactical with your movements, the most satisfying thing about this game is mastering the huge learning curve it comes with, and be warned this game is difficult compared to other shooters on the market, but once you become a master at pulling off clean headshots with ease, mastering each each weapon.. trust me you'll be satisfied! Plus the game has workshop support, various skins for each weapons, new versions of classic counter strike maps (dust, office etc.) new game modes are introduced, whilst classic game modes return, and at a fair price, you could do alot worse, Definite Must Buy!"
-2013-02-24,10680,True,"Much better game than Gearbox's Colonial Marines, Three campaigns Alien, Predator, and marines and great multiplayer. Unlike Gearbox. Rebellion knows how make a great Aliens (and Predator!) game, so go grab you Pulse rifle and LETS ROCK!!"
+posted,item_id,recommend,sentiment_analysis
+2015-07-05,221100,False,0
+2013-02-24,730,True,1
+2013-02-24,10680,True,2

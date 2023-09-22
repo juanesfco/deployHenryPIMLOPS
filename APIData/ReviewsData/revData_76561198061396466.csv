@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-01-27,251570,True,Ate moldy bread which gave me food poisoning. Drank dirty water and got diarreah. 10/10
-2014-12-26,620,True,Grape gramphics grate grameplay 11/10
-2014-12-16,322330,True,Fight over chester with your friends - 10/10
-2014-12-25,40100,True,Giant mechs destroying other mechs 10/10
-2014-02-16,248820,True,"GOOD GRAMPHICS, UH, GOOD GRAMEPLAY. 10.1/10"
-2014-12-31,313160,True,Bananas.
+posted,item_id,recommend,sentiment_analysis
+2015-01-27,251570,True,0
+2014-12-26,620,True,1
+2014-12-16,322330,True,1
+2014-12-25,40100,True,0
+2014-02-16,248820,True,2
+2014-12-31,313160,True,1

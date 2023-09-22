@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-20,383580,True,POLICE+SECURITY=SOLDIER... is the best class in FLESH EATERS...KIPIDAP
-2015-10-16,440,True,lol +lel=... | this game make your mind and your brain combine to make the answer
-2016-01-27,730,True,#DEEP
-2015-10-28,391460,False,WHAT THE FISH
-2015-10-21,209000,True,"THIS GAME IS GREAT,THIS GAME IS VERY UNUSUAL,THIS GAME IS AMAZING,I AM BATMAN!!"
+posted,item_id,recommend,sentiment_analysis
+2015-10-20,383580,True,2
+2015-10-16,440,True,2
+2016-01-27,730,True,1
+2015-10-28,391460,False,1
+2015-10-21,209000,True,0

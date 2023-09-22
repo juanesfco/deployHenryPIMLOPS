@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-10,440,True,"If I had a dollar for every dollar that I spent on hats, I'd still have no money because I would have spent it all on more hats."
-2015-07-28,420,True,'Half-Life® 2: Episode Two is the second in a trilogy of new games created by Valve that extends the award-winning and best-selling Half-Life® adventure.'SECOND IN A TRILOGYHalf Life 3 confirmed.
+posted,item_id,recommend,sentiment_analysis
+2016-03-10,440,True,1
+2015-07-28,420,True,2

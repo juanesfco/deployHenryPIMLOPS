@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-20,420,True,"Overall a nearly flawless game with improved graphics and an upgraded source engine, a fantastic experience returning to the role of Gordon Freeman to fight the combine once again. Valves latest installment in the Half life series was a wonderful game all leading to a conclusion that got our hopes up then took a giant sh*t on them! Thanks Gabe."
-2016-07-07,393530,True,I never really understood why we have browser games on steam nevertheless it's a decent game for what it is. what it is being cookie clicker for edgy 12 year olds.
+posted,item_id,recommend,sentiment_analysis
+2014-03-20,420,True,2
+2016-07-07,393530,True,0

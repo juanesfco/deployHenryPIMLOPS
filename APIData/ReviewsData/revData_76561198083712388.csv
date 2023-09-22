@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-14,240,True,csgo on crack
-2015-01-14,319510,True,spooky spaghetti
-2014-01-18,440,True,Amazing game 10/10 and its FREEEE
-2014-12-05,208090,True,ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-2015-11-02,304930,True,>Free to play>CasesEarned like $3 over 5 days for literally just playing the game$3/free
+posted,item_id,recommend,sentiment_analysis
+2015-01-14,240,True,1
+2015-01-14,319510,True,1
+2014-01-18,440,True,2
+2014-12-05,208090,True,1
+2015-11-02,304930,True,1

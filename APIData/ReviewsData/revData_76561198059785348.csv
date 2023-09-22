@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-06-27,105600,True,You should get terraria because it's so fun
-2014-05-04,221100,True,"Fabulous MMO, 100% must play !"
-2014-02-28,247910,True,"Insane but fun, a fair amount of levels that take you about 1-2 hours to complete. 10/10"
-2014-02-12,208090,True,"This game is amazing, you get to create your own weapons, create your own player, then you get to bring them out onto the battlefield 99%"
+posted,item_id,recommend,sentiment_analysis
+2012-06-27,105600,True,2
+2014-05-04,221100,True,2
+2014-02-28,247910,True,1
+2014-02-12,208090,True,2

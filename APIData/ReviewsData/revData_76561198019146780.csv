@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-31,241930,True,"My game of the year. Snuck up on me and stabbed me in the face, then sucked 21 hours out of me without any trouble. Play it."
-2013-11-25,209000,True,"Had a shaky start with the bugs, but since the patches has been very good. Highly recommend if you are a Batman fan at all."
+posted,item_id,recommend,sentiment_analysis
+2014-12-31,241930,True,0
+2013-11-25,209000,True,2

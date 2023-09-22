@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-18,413410,True,"Watched the anime, and decided to play the VN. It is incredibly amazing, and the fun part of the game is being able to investigate at your own disposal. Although, my experience is slightly ruined due to the anime, since I know what to look for.  Despite all that, pretty good so far."
-2016-07-20,441830,True,"This game is literally amazing, and you should buy it due to the following factors:- The scenery- Soundtrack - Combat - Enjoy JRPGsAlthough Square Enix reuses some assets in their games, it does not change the fact that the game is still amazing on its own."
+posted,item_id,recommend,sentiment_analysis
+2016-02-18,413410,True,2
+2016-07-20,441830,True,2

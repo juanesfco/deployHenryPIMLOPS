@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-08,15700,True,People notice your farts.
-2015-06-08,22380,False,"Skyrim + Borderlands had a deformed baby.I was expecting something really good, as the new hype for fall out 4 is around the internet, I thought well why not give this a try.-I don't like walking 1000 miles to point A and point B. -The walk is so boring, you might come across a few enemies if you're lucky, -The battle system is just silly, Using VAT with more than 2 enemies is a death sentence.-The ADS is inaccurate. -The interface isn't that great, epecially the markers for quests, One quest Ill have 3 markers to walk miles to north, then south, then east. WTF.If you like a game that-Has good NPC's-Decent attention to detail-Has most your gametime walkingThen go for it.Will not buy fallout 4."
-2015-07-14,304050,True,"Fairly decent, Great for minecraft lovers.Turns into a grindfest not long after you get into it."
-2015-06-08,39140,True,"It's final fantasy VII, there shouldnt even be a NO recommendation."
-2015-06-08,49520,True,Colourful.
-2015-06-08,202970,True,"A great cod title to play even to this day.RPG martyrdoms are funPlant a C4 on a car, go on top of the car, jump and time the c4 button. WATCH YOUR BODEH FLY!"
+posted,item_id,recommend,sentiment_analysis
+2015-06-08,15700,True,1
+2015-06-08,22380,False,1
+2015-07-14,304050,True,2
+2015-06-08,39140,True,1
+2015-06-08,49520,True,1
+2015-06-08,202970,True,2

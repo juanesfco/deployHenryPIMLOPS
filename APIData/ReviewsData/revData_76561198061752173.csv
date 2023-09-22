@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-05-16,359320,True,"Brilliant, great graphics and unbelievable realism. i would definitely recommend this game to anyone and everyone!"
-2015-01-20,72850,True,"Tis good, play it you filthy peasants"
-2014-06-07,263440,True,"this game is amazeballs, nough said"
-2015-01-14,289650,False,i cant even stand still on the lowest graphical settings it's so bad...
-2015-01-28,236390,True,it is actually quite fun to shoot the wings off enemy planes and laugh to yourself as you watch them fall to their deaths...
-2014-02-27,48700,True,"GET THIS GAME!! its the best f***ing Medieval game evar made, EVAR!!"
+posted,item_id,recommend,sentiment_analysis
+2015-05-16,359320,True,2
+2015-01-20,72850,True,1
+2014-06-07,263440,True,0
+2015-01-14,289650,False,0
+2015-01-28,236390,True,2
+2014-02-27,48700,True,1

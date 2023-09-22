@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-22,304930,True,"The survival game i have been long searching for. Dont be fooled by the games graphics, its the gameplay that really counts.Its great to play with friends and going a 'survival adventure! Although there are some bugs and the like, itll keep getting better and better and its even free! 9.5/10"
-2013-03-19,440,True,"its the best, most awesome game. 9 classes to choose from and fantastic game play. Tons of random hats, guns and other useful and hilarious things.you have got to get this game!"
+posted,item_id,recommend,sentiment_analysis
+2014-09-22,304930,True,2
+2013-03-19,440,True,2

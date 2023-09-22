@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-28,91310,True,Head stomp FTW.
-2015-03-24,219740,True,"Incredibly addictive, keen to try multiplayer."
-2014-06-16,113200,True,*Thumbs up*
-2014-05-05,242800,False,No.
-2013-01-24,220,True,do it.
+posted,item_id,recommend,sentiment_analysis
+2015-03-28,91310,True,1
+2015-03-24,219740,True,1
+2014-06-16,113200,True,1
+2014-05-05,242800,False,1
+2013-01-24,220,True,1

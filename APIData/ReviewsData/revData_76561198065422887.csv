@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-21,391460,False,this game is not balanced enough. if you buy any sniper rifle its 100% win.
-2015-05-27,302830,True,"it would be great if it wasn't pay to win. why is it pay to win? becouse you can buy op guns , helmets and armour that makes a big disatvantage forplayers that f2p. but still its a good game and i play it."
-2014-03-11,99900,True,awesome game but energy makes me hate a little bit
+posted,item_id,recommend,sentiment_analysis
+2015-10-21,391460,False,2
+2015-05-27,302830,True,2
+2014-03-11,99900,True,1

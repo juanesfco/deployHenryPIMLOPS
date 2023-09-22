@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-20,263760,True,This is a very good simulation because even police could use this to show other people what it would be like if you were in a car crash and what would happen. Great Game!
-2016-02-06,295110,True,"I love this game so much, well, I really only love it because of the battle royale. That's a lot of fun.k cool bye"
-2014-09-23,4000,True,It has ragdoll physics.10/10
-2014-09-17,319510,True,"If you use the right strategy, then you are a professional at the game.Only professionals can win night 610/10"
-2014-02-01,208090,False,I downloaded it and it just comes up with a black screen! VERY BAD.    (message me if you have an answer to my problem)
-2014-07-12,242880,True,Great game! 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-01-20,263760,True,2
+2016-02-06,295110,True,2
+2014-09-23,4000,True,1
+2014-09-17,319510,True,2
+2014-02-01,208090,False,0
+2014-07-12,242880,True,2

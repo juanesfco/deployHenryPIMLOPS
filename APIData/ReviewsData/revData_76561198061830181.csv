@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-12,208650,True,"This game is great!!!apart from the batmobile chewing some frames, it has run silky smooth!couple hours in and no big bugs."
-2014-07-03,107100,True,"good game, simple combat and interesting storyline.would recommend for anyone looking for a quick game to  entertain them"
-2014-05-16,55230,True,you can run around naked and beat old people with a giant purple ♥♥♥♥♥-bat.seriously why dont you have this game yet?100/110
-2014-05-16,4000,True,"my favourite game on steam.no game has yet to match the amount of game types and the creativity in the sheer amount of different games.Trrouble in terrorist town and prop hunt are my two favourite game types in this.since this game is farily old i would say almost anybody could run it at a great frame rate and for the price your mad not to have this game.10/10*warning, the squeakers have invaded gmod, be prepared for 12 year olds threatening to ♥♥♥♥ your mother*"
-2014-05-16,72850,True,"litterally endless amounts of fun,everything you expect from an elderscrolls game, but better.only downside is bad voice actors and a stale story line. but who plays a bathesda game for the story?9.5/10 reccomend to anybody who can run this game."
+posted,item_id,recommend,sentiment_analysis
+2015-09-12,208650,True,0
+2014-07-03,107100,True,2
+2014-05-16,55230,True,1
+2014-05-16,4000,True,0
+2014-05-16,72850,True,0

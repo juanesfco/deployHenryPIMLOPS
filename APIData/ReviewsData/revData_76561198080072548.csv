@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-08-01,346110,True,"Overall a very fun survival game that is constantly getting updated and improved. The feedback from the developers are spot on, as they take almost every feedback towards the updates. The multiplayer is also very fun as you can fully interact with your friends in-game. However there is a downside to this game, gameplay optimization still isn't very satisfying to look at right now although it is to be expected for an early access game. Definitely get this game and support the developers, you will not regret it."
-2016-04-16,620,True,If you love Puzzles this is the game for you. Because who doesn't love puzzles when everyone else is dead am i right?Post Apocalypse & Puzzles. Totally makes sense. Still fun to play.
-2016-04-16,34900,False,"This Game is Cancer, Ebola, AIDS mixed together. I can't even express how bad this game is. Hence the name 'BAD Rats'. Only got this game for a gift, and even then its still not worth your time. 1/10 for effort though."
-2016-04-16,242050,True,"Spends 3 hrs sorting out Uplay, finally gets In-game.Starts playing...Keeps playing...Finishes game...Keeps playing...Totally worth the 3 hrs of Uplay Struggle *Insert Sarcasm Here*But Seriously,Great GameCancer Platform Support (Uplay)If not for 'Uplay' this game would be Perfect."
-2015-08-01,24740,False,"This game just isnt what i expected.it didn't have that unique Burnout feel to it like in Burnout 3: Takedown. The game itself felt like it wasn't made with the most intention to satisfy the player. They could have made the game have so much more like increasing customization options but they didn't, that's a huge loss itself. The game got boring very quickly as it felt like the races were all the same.I definitely do not recommend this game if you have played Burnout 3: Takedown."
-2015-08-01,271590,True,"A great open world game.A lot of game hours will be dedicated to this game and this game alone, guaranteed. The in-game activities are quite tremendous when it comes to 'making you lose track of time'. The heists are especially profitable for earning in-game currency or just having fun alone.But a big game always comes with a few downsides. For a small example, the loading screen takes way too long to load both when u start the game and when u join new sessions. Another common one is players randomly being kicked out of heist lobbies just after it has started.Rockstar should really get their game on when it comes to online maintenance.None the less I would still recommend this game overall, the downside shouldn't stop you from playing a great franchised game."
+posted,item_id,recommend,sentiment_analysis
+2015-08-01,346110,True,1
+2016-04-16,620,True,2
+2016-04-16,34900,False,0
+2016-04-16,242050,True,2
+2015-08-01,24740,False,1
+2015-08-01,271590,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-31,323370,True,It's fun when you play with friends.
-2015-04-10,212500,True,A fun game you'll definitely enjoy if you play with friends!
-2015-03-18,730,True,GG.
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,323370,True,2
+2015-04-10,212500,True,2
+2015-03-18,730,True,1

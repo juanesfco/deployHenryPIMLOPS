@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-04-08,201210,True,i have been playing since 07 and It's better than ever before!i dont play via steam so this doesn't represent my many hours of play and trade.
-2014-09-22,218230,True,"PlanetSide 2 is one of SONY's greater games , open world free to play FPS with 3 different fractions fighting over control of the 'world' per say. Quite awesome for coop."
-2014-07-31,227700,True,play wif me ppls
-2014-06-23,263440,True,HORAY THE STOMPIGN LAND
-2014-06-21,570,True,Average @ Best M8.
-2016-01-10,393380,True,10/10 would charge ahead and clear 4 bad guys to save my fallen comrade '♥♥♥♥♥♥♥'
+posted,item_id,recommend,sentiment_analysis
+2016-04-08,201210,True,2
+2014-09-22,218230,True,2
+2014-07-31,227700,True,1
+2014-06-23,263440,True,1
+2014-06-21,570,True,2
+2016-01-10,393380,True,0

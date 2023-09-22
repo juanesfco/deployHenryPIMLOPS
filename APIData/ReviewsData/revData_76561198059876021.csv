@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-04-26,730,True,I've played 61.9 hours in two weeks. Is this telling you something?
-2015-07-11,304050,True,How to play this game:Step 1 - Wait to joinStep 2 - Join and do tutorial (easy peasy)Step 3 - DisconnectStep 4 - Join back and disconnect again.Step 5 - Repeat Step 4 infinitely10/10
+posted,item_id,recommend,sentiment_analysis
+2015-04-26,730,True,1
+2015-07-11,304050,True,2

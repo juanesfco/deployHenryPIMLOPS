@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-16,1250,True,Echt leuk spelMoet je zeker spelen
-2014-10-16,35420,False,Zombies zijn ontzichtbaar dus er is niet veel aan
+posted,item_id,recommend,sentiment_analysis
+2014-10-16,1250,True,1
+2014-10-16,35420,False,2

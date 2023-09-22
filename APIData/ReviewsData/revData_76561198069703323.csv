@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-20,113400,True,good game just waiting for a mac version!
-2015-01-29,317360,True,fun
-2014-03-08,218680,True,a very very fun and funny game to play :D
+posted,item_id,recommend,sentiment_analysis
+2015-01-20,113400,True,1
+2015-01-29,317360,True,2
+2014-03-08,218680,True,2

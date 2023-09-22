@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-16,245130,False,"This game. This ♥♥♥♥ing game.Pros:-Cons: - it existsP.S Tom you piece of ♥♥♥♥, you did this to me and now I am cursed to have this game in my library."
-2015-05-26,373110,True,Best game to gift your friends....I have given one friend 12 copies but he refuses to install it10/10 for ♥♥♥♥ing with friends
+posted,item_id,recommend,sentiment_analysis
+2015-11-16,245130,False,0
+2015-05-26,373110,True,2

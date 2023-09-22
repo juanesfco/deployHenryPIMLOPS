@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-30,4000,True,"The reason why i like this, well there are many. Buying this game is like buying a seed, it's cheap, it grows and branches of into different fruits (thats all of the games and minigames.) i definitley reccomend and i hopped this helped."
-2014-02-15,209870,True,"freakin awesome, and so awesome graphics that i need a better pc. a must play."
-2013-12-22,7670,True,amazing. very different and unique and stands out in my opinion. great story combined with excellent gameplay. i highly recommend this game.
-2013-01-10,218230,True,one word. epic
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,4000,True,2
+2014-02-15,209870,True,2
+2013-12-22,7670,True,2
+2013-01-10,218230,True,1

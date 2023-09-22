@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-08,227940,True,"Very nice game, thought it would be a tad more realistic and accurate to WW2 but still fun to play with friends. Germany ftw!"
-2012-07-19,300,True,Very Good Game
+posted,item_id,recommend,sentiment_analysis
+2014-09-08,227940,True,2
+2012-07-19,300,True,2

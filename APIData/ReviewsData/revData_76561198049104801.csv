@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-18,204300,True,"Ame este juego desde el primer dia que lo instale, es como si volviese a ser un niño a jugar esos juegos en 2D"
-2013-12-25,550,True,"El juego es la hostia, para pasar horas y horas con tus amigos, eso si no eres pobre como yo, pero lo consegui por promocion de navidad :D"
-2015-12-10,219150,True,"EXCELENTE JUEGAZO, SI TE GUSTA ENTRAR A LO YOLO Y CHINGARTE A TODOS A PUTAZOS O DISPAROS. Muy entretenido, mas alla de la historia. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-10-18,204300,True,2
+2013-12-25,550,True,2
+2015-12-10,219150,True,2

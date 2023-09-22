@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-19,233980,True,"Screw the name, this game really is EPIC!"
-2013-12-01,200710,True,I'm a terrible reviwer.... so i'll just say this game is awesome
-2016-09-17,444090,True,Didn't get to play it yet because the servers keep going down. But there are cute elf ladies and TF2 Engineer skin so it must be good.
+posted,item_id,recommend,sentiment_analysis
+2014-01-19,233980,True,0
+2013-12-01,200710,True,0
+2016-09-17,444090,True,2

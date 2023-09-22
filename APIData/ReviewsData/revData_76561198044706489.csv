@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-06-11,570,True,"Great game, hours of fun with friends. Also good for learning new languages!"
+posted,item_id,recommend,sentiment_analysis
+2015-06-11,570,True,2

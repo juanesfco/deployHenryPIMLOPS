@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-19,250320,True,"To be honest, this is one of the best telltale games ive played by far. Keep it up telltale!"
-2014-06-26,261030,True,"Totally recommend this game, the story is amazing. Feels like your actually in the game controlling your actions. It's a must buy."
+posted,item_id,recommend,sentiment_analysis
+2015-06-19,250320,True,2
+2014-06-26,261030,True,1

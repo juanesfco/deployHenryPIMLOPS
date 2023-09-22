@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-27,325610,False,"*This review is a statement against recent Total War titles marketing scheme*This recommendation will stay negative unless Creative Assembly and Sega demonstrate to Total war fans that this game will not be plagued by abusive and overpriced downloadable content (as is The Viking Forefathers ''Culture pack'', and the Longbeards ''Culture Pack'').Sega and Creative Assembly, show some respect to Total War fans.We have paid for a complete game. Could you do us the honor of delivering one ?"
-2015-03-26,335030,False,Since patch 2 there has been reports of dropped frame rates and overall a feeling of a less 'optimised ' game.My recomendation is wait till they patch this patch to purchase the dlc.Although if you cant wait then i highly recomend radious blood mod to improve your experiance as the vanilla mod is very lack luster with what seems to be quickly thrown together animations with little polish.At this current state i cant recomend this mod
-2015-04-17,310380,True,"The game is off to a good start with a fun and fresh pace. Although the mechanics at the moment feel very cluncky , the games overall feel makes up for what it currently lacks and im sure will be rectied in the future.I would recommend buying this game after a few updates, but if your like me and received it for free over the weekend, its a fun addition to any steam users libary."
+posted,item_id,recommend,sentiment_analysis
+2015-02-27,325610,False,1
+2015-03-26,335030,False,1
+2015-04-17,310380,True,2

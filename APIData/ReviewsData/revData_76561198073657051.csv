@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-18,252950,True,"jogo do krl, sou um lixo, mas essa ♥♥♥♥♥ vicia, compra isso rapidow"
-2015-01-05,238460,True,dlccomprei por 2 reais fsdo´gahlmsvojtvdlzsjgys
-2014-12-23,55230,True,"bom pra krl, pra vc seu br hu3hu3 que gosta de zuar as garotenhas gordenhas da sua escolenha... compre este joguenho  se aproveite e toque umas bronha para as personagens exageradamente gostosas possiveis de fazer nesse gameby:Dollynho, seu amiguinho.para: vc br hu3hu3 S2 e The Zuera Never Ends."
-2014-05-11,51100,False,Horrible Game
+posted,item_id,recommend,sentiment_analysis
+2015-11-18,252950,True,1
+2015-01-05,238460,True,1
+2014-12-23,55230,True,2
+2014-05-11,51100,False,0

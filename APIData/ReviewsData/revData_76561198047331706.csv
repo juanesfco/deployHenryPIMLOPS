@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-24,72850,True,Very deep gameplay.
-2013-12-30,9480,True,"I loved this game, it felt so epic from escaping prison, chilling with Johnny Gat at his best and fighting different gangs all with different personas. It is my favourite Saints Row game to date and I fell that they balanced the silliness right in this one, it had it's serious emotional moments C***** dying and had some funny stuff in it too like the pimp slap etc.This is some of the most fun I have ever had in a game and if you are good at finding fun things to do in the game it will enhance your experience even more.I give this game a 9/10"
-2015-04-15,105600,True,Never runs out of content. Heaps fun. Support Indies!
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,72850,True,1
+2013-12-30,9480,True,1
+2015-04-15,105600,True,2

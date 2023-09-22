@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-29,218620,True,"Great game to jam with a few friends, nice graphics, good gameplay, love the stealth aspects aswell and run gun"
-2014-01-21,221100,True,"great fun, cant wait till the game get more features and less buggy, i already love it tho.keep up the great work"
-2014-06-29,50130,True,"I love the story and gameplay, if only it wasnt as linear or as short (10 hours) still dont regret purchace, <3"
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,218620,True,2
+2014-01-21,221100,True,2
+2014-06-29,50130,True,2

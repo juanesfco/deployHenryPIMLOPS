@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-29,25890,False,El juego implotará cada cierto tiempo sin ningún sentido y la comunidad no ha encontrado una solución ni explicación. Simplemente a algunos les funciona y a otros no.
-2015-12-06,4000,True,11/10
-2015-07-14,42960,True,"For God sake dont buy the vanilla edition, buy the full edition, the vanilla game is crap"
-2014-08-10,304930,False,Injugable
+posted,item_id,recommend,sentiment_analysis
+2015-11-29,25890,False,0
+2015-12-06,4000,True,1
+2015-07-14,42960,True,0
+2014-08-10,304930,False,1

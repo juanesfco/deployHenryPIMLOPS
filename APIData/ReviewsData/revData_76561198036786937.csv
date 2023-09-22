@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-02,211420,True,Itadarki Masouls
-2014-06-20,200510,True,"No killstreaks, 0/10."
-2013-01-22,50300,True,♥♥♥♥ing brilliant.
+posted,item_id,recommend,sentiment_analysis
+2014-03-02,211420,True,1
+2014-06-20,200510,True,1
+2013-01-22,50300,True,2

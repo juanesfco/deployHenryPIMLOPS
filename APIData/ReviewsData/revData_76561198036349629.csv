@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-14,230410,True,"Flying Space ninjas in space, it is so fun but i found it to be to heavey on the grind at some stages, but overall youll have fun from the amount of parkor and slide melee fliping ninkas"
-2013-12-11,238960,True,"This is one of the most intrigate games ive ever played, and the possibilaties in this game are so vast"
-2014-06-21,550,True,"Fun for most ages, i find it realy enjoyable with 3 friends and myself"
-2014-06-21,4920,True,Frikin awsome
+posted,item_id,recommend,sentiment_analysis
+2014-02-14,230410,True,2
+2013-12-11,238960,True,1
+2014-06-21,550,True,2
+2014-06-21,4920,True,1

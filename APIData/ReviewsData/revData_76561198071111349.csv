@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-12,265210,True,"My brother claims to have seen Ms Claus looking at him through the window. He said she just looked at him from the snow and gave him the thumbs up. I don't know anything else, but he did say that he saw her outside Santa's office window."
-2015-08-26,301640,False,"this game creeps me out, im never playing it again!"
+posted,item_id,recommend,sentiment_analysis
+2014-03-12,265210,True,1
+2015-08-26,301640,False,0

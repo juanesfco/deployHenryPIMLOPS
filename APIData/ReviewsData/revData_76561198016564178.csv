@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-23,296470,True,Me and my BFF spent the best part of last night mounting eachother
-2015-08-12,39140,True,Great game 10/10 would play again multiple times
-2014-06-03,500,True,many tanks such witch
+posted,item_id,recommend,sentiment_analysis
+2014-12-23,296470,True,2
+2015-08-12,39140,True,2
+2014-06-03,500,True,2

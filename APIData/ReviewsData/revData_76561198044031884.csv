@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-09,386360,True,"I tried to play many other MOBA's - tried to get into them and understand what the hype was - to no avail. When I read about this game being a 3rd person with more control over the way you attack I was willing to give it a go. I was highly surprised and now I'm highly addicted to this game. Sometimes when you take a different approach you get it right, and you account for those of us like me, who didn't like the original way it was done."
-2016-01-04,264710,True,"This game is amazing. You need it. It's weapons and tech are incredibly unique and the immersion is fantastic. If they add multiplayer it will become 10/10, right now for me it's at 9/10.Graphics 8/10 Exploration 10/10Crafting 10/10Soundscape 10/10This is Early access I hope it actually makes a real release and doesn't get left behind."
+posted,item_id,recommend,sentiment_analysis
+2016-01-09,386360,True,1
+2016-01-04,264710,True,2

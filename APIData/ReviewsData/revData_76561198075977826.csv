@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-10,272600,True,Amazing game highly recommend too anyone.Overall great experience only downside is length but it makes up for it by keeping it intresting the whole way through
-2015-06-05,259080,True,Great fun works really well
-2014-02-10,8930,True,Da best game to play with friends even when u dont know how to play properly
+posted,item_id,recommend,sentiment_analysis
+2015-12-10,272600,True,2
+2015-06-05,259080,True,2
+2014-02-10,8930,True,2

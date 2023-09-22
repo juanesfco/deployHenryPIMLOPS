@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-04-12,374320,True,"With only 3 hours of gameplay, i got killed by tree testicles"
-2016-07-06,22380,True,Mr. House is loveMr. House is life
-2016-01-15,219640,True,The finest Helicopter Simulator of 201210/10-♥♥♥♥♥♥♥
-2015-09-09,570,True," Set my region to South America, got matched with a team with russians and mexicans    10/10 would learn russian again."
+posted,item_id,recommend,sentiment_analysis
+2016-04-12,374320,True,1
+2016-07-06,22380,True,1
+2016-01-15,219640,True,1
+2015-09-09,570,True,1

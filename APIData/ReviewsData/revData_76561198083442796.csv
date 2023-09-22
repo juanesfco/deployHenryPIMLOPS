@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-06-11,313020,True,Sensacional!
-2015-03-07,730,True,Bom.
-2014-06-19,440,True,Majestoso!
-2016-01-02,322170,True,"Esse jogo foi feito no fundo do caldeirão do satã, mas eu amo ele."
-2015-05-01,204100,True,Esse jogo é lindo em todos os aspectos.
-2015-03-18,204450,True,Clint Eastwood curtiu esse jogo.
-2013-11-14,39120,True,Muito bom.
+posted,item_id,recommend,sentiment_analysis
+2015-06-11,313020,True,2
+2015-03-07,730,True,1
+2014-06-19,440,True,1
+2016-01-02,322170,True,1
+2015-05-01,204100,True,2
+2015-03-18,204450,True,1
+2013-11-14,39120,True,2

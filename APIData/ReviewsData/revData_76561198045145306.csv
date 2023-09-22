@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-12-30,359550,True,Reading tests should be mandatory... I watched a guy playing Doc try and revive a dead body...
-2015-12-26,8930,True,"(Haven't played much, but enough to experience this moment)Just One More Turn..."
-2015-12-12,24200,False,"You can pay $200 for all the DLC, and still not have access to everything, or you can pay $15 a month for membership which gives you the DLC and everything the DLCs don't offer... hard choice?"
-2015-12-12,72850,True,Wait where did the last 3 weeks of my life go?
-2015-12-08,244850,True,Unfortunately for me friends were not included...
-2015-11-09,377160,True,The only universe where they can create thinking robots and teleportation but not coloured tv
-2015-10-13,214950,False,"If you go to support on the Creative Assembly website it has a picture of Rome 2. DLCs and game are a complete rip off. Pay $80 for half the game, then pay another $90 for the rest of it. Best way to get this game is pay $30 on ozgameshop."
-2015-09-08,209160,False,This is what happens when a company gets stuck in a mirror chamber reflecting all the fanboy comments back at them. They keep doing the same thing...Campaign was short and meh... (pretty damn good for COD though)Multiplayer is complete ♥♥♥♥.Not worth paying $60 for a short meh campaign. Don't buy.
+posted,item_id,recommend,sentiment_analysis
+2015-12-30,359550,True,0
+2015-12-26,8930,True,2
+2015-12-12,24200,False,0
+2015-12-12,72850,True,1
+2015-12-08,244850,True,0
+2015-11-09,377160,True,1
+2015-10-13,214950,False,1
+2015-09-08,209160,False,2

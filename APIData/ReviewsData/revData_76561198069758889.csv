@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-30,620,True,Best Game In The World. 10/10 Would Play 100 Times Again. Adu Gaben.
-2014-09-06,263760,True,Wow Great Physics and Gameplay and Great Vehicles 10/10
-2015-01-12,630,True,Tense and Terryfing
-2014-09-30,242760,False,I think this is a really great game but too laggy for me 4/10
-2014-08-24,298260,True,Wow great game and graphics 8/10
+posted,item_id,recommend,sentiment_analysis
+2015-12-30,620,True,2
+2014-09-06,263760,True,2
+2015-01-12,630,True,0
+2014-09-30,242760,False,2
+2014-08-24,298260,True,2

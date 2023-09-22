@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-06,221020,False,The idea looks good however the devs abandoned the game and took the money
-2014-07-26,72850,True,I originally got this game as a free download with an Xbox 360 I bought only which before I had seen videos of this game but never played it myself. I then learnt from the videos I watched of the mods this game has. I recently bought it with the mods in mind and it can completely recreate your experience in this game. On Xbox the game had lost it's shine to me now on PC it is awesome. I recommend buying it.
-2014-06-22,8190,True,"Cars-Check, Planes-Check, Boats-Check, Helicopters-Check, Huge free-roam map-Check, Grappling hook-Check, Guns-Check, Awesome explosions-Check, Mods-Check, All of this put into a multiplayer mode mod-Check."
+posted,item_id,recommend,sentiment_analysis
+2015-06-06,221020,False,2
+2014-07-26,72850,True,1
+2014-06-22,8190,True,2

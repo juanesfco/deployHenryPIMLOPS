@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2012-07-19,39000,True,uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
-2015-12-06,232090,True,These microtransactions make my loins tingle with glee due to it's innate ability to make people suffer.10/10
-2013-12-01,230410,True,"Space ninjas, whats not to love?"
-2016-03-23,227940,True,>Driving around in a german tank>Accidentally rub up against tree>Become one with the tree and explode>Counted as a suicide10/10 would become one with a tree again
-2015-09-07,250900,True,"This game is like a conflicting relationship, on one side I love this game dearly and on the other side I want to smash it with a blunt stick."
+posted,item_id,recommend,sentiment_analysis
+2012-07-19,39000,True,1
+2015-12-06,232090,True,0
+2013-12-01,230410,True,2
+2016-03-23,227940,True,1
+2015-09-07,250900,True,0

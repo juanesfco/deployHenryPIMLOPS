@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-11-26,208480,False,"while adding fresh ideas to the franchise it still feels much of the same, and also takes way to long to get into the game"
-2013-11-26,20570,False,wouldnt adivse getting get retribution instead
-2016-08-16,273350,True,"pretty damn good for being free, turtle rock is really showing they want to bring this game back"
-2013-11-26,218230,True,a unique multiplayer shooter but is held down by poor performance
-2013-11-26,220240,True,A great open world fps with great story mode but poor multiplayer
-2013-11-26,4000,True,an amazing game with thousands of different ways to play from sandbox to custom comuity made gamemodes
-2013-11-26,440,True,one of the best free to play games out there.
+posted,item_id,recommend,sentiment_analysis
+2013-11-26,208480,False,1
+2013-11-26,20570,False,1
+2016-08-16,273350,True,2
+2013-11-26,218230,True,1
+2013-11-26,220240,True,2
+2013-11-26,4000,True,1
+2013-11-26,440,True,2

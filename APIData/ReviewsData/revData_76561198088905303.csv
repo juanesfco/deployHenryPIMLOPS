@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-04-15,271590,True,Muito booooooooooooooooooooooooooom! Recomendo à todos! Tá fantástico os gráficos! Está muito bom o Multiplayer! Rodou de 50fps-60fps no High na minha FX 6300 Six-Core e R9 270X de 2GB!
-2014-04-13,550,True,Pills!
-2013-12-22,440,True,Jogo perfeito (Perfect game)!!!
-2015-03-06,244850,True,UÉ! SIMPLESMENTE NINGUÉM ME DEU DE PRESENTE O JOGO E NEM É A FREE WEEKEND DO JOGO E TO COM ELE INSTALADO A 2 SEMANAS E DA PARA JOGAR SEM TER COMPRADO? WTF?!
-2014-08-01,204300,True,Evaporou da minha biblioteca mas o jogo é bom!
-2014-04-02,246640,True,Gostei! Porém enjoei em 8 minutos pq eu num sei jogar! Mas baixem pq é só uns 26 MB!
-2014-03-26,4000,True,"Jogo muito LOKO dá para fazer uns BAGUI muito legal! Sério, comprem este jogo, Gmod é o melhoooooooooooooooooooooooooooooooooooooooooooooooor! LOLOLOLOLOLO!"
-2013-12-22,233720,True,Legal D+!
+posted,item_id,recommend,sentiment_analysis
+2015-04-15,271590,True,1
+2014-04-13,550,True,1
+2013-12-22,440,True,2
+2015-03-06,244850,True,0
+2014-08-01,204300,True,2
+2014-04-02,246640,True,1
+2014-03-26,4000,True,2
+2013-12-22,233720,True,2

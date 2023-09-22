@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-03-20,109600,True,been 7 hoursstill patching/10
-2015-01-20,49600,True,"Very good game, I may not have many hours but I have a lot of music to get through so better start chipping away at the long list."
+posted,item_id,recommend,sentiment_analysis
+2015-03-20,109600,True,1
+2015-01-20,49600,True,2

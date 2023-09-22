@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-29,1840,True,Good
-2013-12-29,730,True,I Like This Game Sir.
-2013-12-26,550,True,yes
-2013-12-14,92500,True,10 Skyrim Easter Egg!
-2014-10-03,224260,True,so very creepy  game
-2014-05-23,248570,True,♥♥♥♥ THIS GAME ♥♥♥♥♥!!!
-2014-01-26,51100,True,dat is STUPID GAMe
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,1840,True,2
+2013-12-29,730,True,0
+2013-12-26,550,True,1
+2013-12-14,92500,True,1
+2014-10-03,224260,True,0
+2014-05-23,248570,True,0
+2014-01-26,51100,True,0

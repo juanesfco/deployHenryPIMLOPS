@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-16,321060,True,"It is a very good, piece of fun stuff about being scienced into another gender and also half animal hybrids. The art is at an acceptable level of quality, as is the plot, and it's quite fun. Would I spend $25 on it for a person who's not into that stuff? No. But afaik they plan to drop the price to $10 once it's released, so you should buy it then."
-2015-01-17,8930,True,"This game is amazingly addictive, and even though I've only finished about 3 games ever, I've played many more.Very good game."
+posted,item_id,recommend,sentiment_analysis
+2015-05-16,321060,True,2
+2015-01-17,8930,True,1

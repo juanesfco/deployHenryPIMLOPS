@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-09,730,True,Nice Game Mate
-2016-08-20,242860,True,This game is the best World War 1 game I've ever played but at first my FPS was low on high settings but as the game updated they fixed the fps problem and now the game is amazing for me.
-2016-04-24,252490,True,Its very ♥♥♥♥in funny but laggy sometimes.
+posted,item_id,recommend,sentiment_analysis
+2016-04-09,730,True,1
+2016-08-20,242860,True,1
+2016-04-24,252490,True,2

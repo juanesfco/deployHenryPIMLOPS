@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-18,368340,True,"Even when I had only played the demo, I already thought it was one of the best games I've ever played, with fast and fluid gameplay and an intriguing story. So, I bought the Early Access, and have continued to be amazed by this game as it grows. Just get the game already, you know you want to :P"
-2016-04-18,386360,True,"I recently got my account to level 30 (the max), and felt it about time to review this game. SMITE is one of the best games I have ever played. I tried playing LoL, but I couldn't get a handle on the top down view, although I liked the concept. SMITE fixed that issue for me, as well as being a more appealing game to me, especially with the mythology aspect. I think the third-person view completely changes the feel of the game compared with other MOBAs. I understand that it isn't everyones cup of tea, but i do highly recommended at least giving it a shot. It is free after all :D"
-2016-03-18,304050,False,Just don't bother anymore
+posted,item_id,recommend,sentiment_analysis
+2016-04-18,368340,True,2
+2016-04-18,386360,True,2
+2016-03-18,304050,False,1

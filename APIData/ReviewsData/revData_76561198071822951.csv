@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-02,242700,False,This game is a very slow game your movment is very slow compered to my other injusace on xbox 360. Im not very happy with my download I do not recommend this game.
-2014-01-06,72850,True,This Is one of my best games and I recomend it to all people 
+posted,item_id,recommend,sentiment_analysis
+2013-12-02,242700,False,0
+2014-01-06,72850,True,2

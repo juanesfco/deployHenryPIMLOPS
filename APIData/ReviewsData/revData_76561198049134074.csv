@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-04,252490,True,"Love this game, favourite survval game at the moment!"
-2016-06-17,730,True,Counter strike is good but your money will be rip if you get involved with skins and betting
-2014-02-19,4000,True,sooo much fun in prophunt
-2013-12-23,238430,True,it's beyond any other multiplayer zombie game
+posted,item_id,recommend,sentiment_analysis
+2014-08-04,252490,True,0
+2016-06-17,730,True,2
+2014-02-19,4000,True,2
+2013-12-23,238430,True,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-29,265930,True,"I don’t always play simulator, but when I do, I prefer Goat Simulartor!"
-2014-12-13,331470,True,"Dream come true, finally can chat with girlsHighly recommended!"
-2016-07-24,410320,True,EDF is love EDF is lifeEDF! EDF!! EDF!!!
-2014-07-11,313740,True,Is it even legal release on Steam LOLI just skipped all the sh#t and watch the cutscene
+posted,item_id,recommend,sentiment_analysis
+2014-03-29,265930,True,1
+2014-12-13,331470,True,2
+2016-07-24,410320,True,2
+2014-07-11,313740,True,2

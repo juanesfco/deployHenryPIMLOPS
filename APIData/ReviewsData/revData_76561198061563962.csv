@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-01-22,72850,True,Really fun to play and to play around with the console commands to make massive battles :)
-2016-04-23,227940,False,Cannon fodder simulator.
-2014-07-03,218620,True,Fun to play and such but there is too much bag throwing and haxers
-2014-02-08,211820,True,Epic game!
-2013-03-12,440,True,Most addictive and fun game out there AND ITS FREE!!!! :O)
+posted,item_id,recommend,sentiment_analysis
+2013-01-22,72850,True,2
+2016-04-23,227940,False,1
+2014-07-03,218620,True,2
+2014-02-08,211820,True,0
+2013-03-12,440,True,2

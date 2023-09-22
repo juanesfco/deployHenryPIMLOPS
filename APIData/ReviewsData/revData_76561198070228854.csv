@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-22,375950,False,"I don't see how this is relaxing when you water it then have to wait another one week to play again, unless wetting snails is fun for you."
-2015-06-28,730,True,"This is an amazing, must get not only game, but experience.I only recently got this game but I am falling in love with it. Every day I hop on I find a new fun way to play and it never gets boring.Worth the 15 bucks!"
-2014-06-26,212800,True,great but doesnt work on mac?! ;(
-2014-01-09,4000,True,Best game ever! I recommend everyone gets it! So damn good but buy it with counter strike source
+posted,item_id,recommend,sentiment_analysis
+2015-12-22,375950,False,2
+2015-06-28,730,True,1
+2014-06-26,212800,True,2
+2014-01-09,4000,True,2

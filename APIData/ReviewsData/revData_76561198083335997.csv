@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-03,4000,True,Gmod is one of my favourite games on steam. I reccommend this game to everyone!Note: You need css (counter strike source) or at least the content used in css in order to play most game types.
-2013-11-27,209870,False,I patched the game but when it launches it crashes every time. pls fix
+posted,item_id,recommend,sentiment_analysis
+2014-08-03,4000,True,0
+2013-11-27,209870,False,0

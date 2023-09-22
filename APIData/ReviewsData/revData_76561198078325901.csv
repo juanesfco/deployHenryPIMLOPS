@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-25,4000,True,"Great game with lots of gamemodes. If you want to RP, play in a sandbox or just have fun then Gmod is for you"
-2013-12-27,440,True,a really good FPS game reccomended for people that love shooting. 4.5 stars
+posted,item_id,recommend,sentiment_analysis
+2014-05-25,4000,True,2
+2013-12-27,440,True,2

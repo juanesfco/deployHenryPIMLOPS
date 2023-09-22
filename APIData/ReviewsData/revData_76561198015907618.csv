@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-29,226700,False,"Do not buy this game. The game mechanics are horrible at best, most of the servers are full of hackers and not to mention the dev's have not supplied many of the features promised. This game is a sham and this should not be allowed on steam."
-2014-01-06,252490,True,Run around naked wielding a stone hatchet chasing players that beg for their lives.
-2014-01-06,221100,True,"The legendary game has finally been released. As it stands it is currently in an alpha state so bugs and some glitches are expected but rocket2guns and the team are working on this game consistently to fix those issues. Plus you can handcuff people and feed them disenfectant, perfect for all those sadistic desires that you can never fufill in your real world life."
-2013-12-15,211820,True,Totally addictive game. Cannot recommend this more. Thanks guys!
+posted,item_id,recommend,sentiment_analysis
+2013-11-29,226700,False,1
+2014-01-06,252490,True,1
+2014-01-06,221100,True,2
+2013-12-15,211820,True,1

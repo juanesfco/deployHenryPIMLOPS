@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-12,443810,True,"89 Days in... looking to hire a cop to fill a dead guys slot. First name: Mark Fischbach, reputation points: 1200. Intantly start to smile. 10/10 game of the year."
-2016-03-22,455490,True,This game made me crack up in so many ways. I could not reccomend it more. 10/10
-2015-09-11,200510,True,This game was amazing. I cannot wait for XCOM 2
+posted,item_id,recommend,sentiment_analysis
+2016-08-12,443810,True,1
+2016-03-22,455490,True,2
+2015-09-11,200510,True,2

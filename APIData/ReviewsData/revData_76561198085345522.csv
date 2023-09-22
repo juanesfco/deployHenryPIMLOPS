@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-19,235600,False,DOESNT WORK I WANT A FULL REFUND I PAYED FULL PRICE FOR IT!!!!!!!!!!!!!!
-2014-09-24,35450,False,i loved this game ever since punkbuster now im not able to join any multiplayer games so i whant a refund
-2014-08-22,298630,True,I like this but could you add in 2 player co-op it would be sooo good because one cand dig or file the vents and one can keep a look out
-2014-08-13,440,True,Great game but its soooooooooooooooooooooo anoying that you have to buy crap (not turd/poop) i mean clothes and guns
-2014-07-16,1250,True,awesome game
-2013-11-27,218230,True,FUN but wont launch now
+posted,item_id,recommend,sentiment_analysis
+2014-01-19,235600,False,2
+2014-09-24,35450,False,1
+2014-08-22,298630,True,2
+2014-08-13,440,True,0
+2014-07-16,1250,True,2
+2013-11-27,218230,True,2

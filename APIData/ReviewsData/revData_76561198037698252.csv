@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-08,252490,True,Awesome game! Stunning Graphics For A $20 dollar Title
-2014-08-10,730,True,Made me rage alot r8 8/8 m8
+posted,item_id,recommend,sentiment_analysis
+2014-06-08,252490,True,2
+2014-08-10,730,True,1

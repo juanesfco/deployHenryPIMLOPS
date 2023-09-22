@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-01,104900,True,Saw this game for $1 so i bought it...
-2013-11-13,200260,True,"The sequel to one of the best games out there. Most bugs and rough edges have been smoothed in this game. All movements and combat have been smoothed, if someone doesn't have it... THEY MUST GET IT!!!!"
-2013-11-13,35140,True,1 Fine game. Must have in any game collection
-2015-02-18,730,True,Best Kicking Simulator 2014
+posted,item_id,recommend,sentiment_analysis
+2015-10-01,104900,True,0
+2013-11-13,200260,True,2
+2013-11-13,35140,True,0
+2015-02-18,730,True,2

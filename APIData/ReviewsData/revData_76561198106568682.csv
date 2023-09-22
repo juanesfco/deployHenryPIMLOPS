@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-20,730,True,"If you like FPS, Good Gameplay, Amazing graphics and multiplayer modes, then THIS is the game for you! I dont want to spoil anything, but i highly recommend this game. Its probably my favourite game ever! You wont regret it."
-2014-01-21,4000,True,Good Game
-2014-02-03,214560,True,Best Steath game ever! 10/10 recomended
+posted,item_id,recommend,sentiment_analysis
+2014-01-20,730,True,1
+2014-01-21,4000,True,2
+2014-02-03,214560,True,2

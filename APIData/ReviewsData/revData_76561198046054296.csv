@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-17,218230,True,GOOD GAME it seem like BF but not GOOD than BF
-2013-12-25,550,True,l4d2 FREE it Sign for L4D3 and SOURCEENGINE 2
-2013-10-26,223750,True,"It's Not a Game , It is DCS"
+posted,item_id,recommend,sentiment_analysis
+2014-01-17,218230,True,1
+2013-12-25,550,True,2
+2013-10-26,223750,True,2

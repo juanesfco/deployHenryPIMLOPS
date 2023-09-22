@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-02-28,49520,True,Best ♥♥♥♥in' game I've played.'Nipple salads'/10
-2014-05-16,1840,True,this app is useful
-2016-06-08,218230,True,Is gud
-2015-03-09,218620,True,is gud
-2016-06-26,250900,True,"I got this game after watching many of the TearofGrace videos on it. It's hard, it's fun, and it will take up a fair amount of your time. The dlc for it (Afterbirth) is also pretty fun."
-2016-03-20,8980,True,"Had it on xbox for a while, but never got round to playing it. Steam sale comes around, pick it up. ♥♥♥♥. I think it might be better than 2..."
-2016-02-28,261640,True,"It's good, not as good as Bl2, but is it worth 70 ♥♥♥♥ing dollars? No.I'm still recommending it though..."
-2015-12-19,211420,True,"After playing DKS1 and 2, and digging into the lore, I can't view ANYTHING qithout making some stupid connection to Lordran or Drangleic."
+posted,item_id,recommend,sentiment_analysis
+2016-02-28,49520,True,2
+2014-05-16,1840,True,2
+2016-06-08,218230,True,1
+2015-03-09,218620,True,2
+2016-06-26,250900,True,2
+2016-03-20,8980,True,2
+2016-02-28,261640,True,2
+2015-12-19,211420,True,0

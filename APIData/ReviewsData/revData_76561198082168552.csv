@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-16,200210,True,this game sucks i cant se the game because it alltimes go blacscrreen so i cant log in
-2016-03-24,440,True,best game in the world definetly 1000000/10
-2015-07-02,204360,True,best gamer ever
+posted,item_id,recommend,sentiment_analysis
+2014-02-16,200210,True,0
+2016-03-24,440,True,2
+2015-07-02,204360,True,2

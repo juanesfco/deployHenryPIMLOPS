@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-22,227940,True,"Overall its a good game, just take some time to grind your way up."
-2016-05-01,730,True,Do you need a reason to buy this game? The reason will be ♥♥♥♥ ♥♥♥♥♥.
-2016-01-23,291480,True,This game is pretty much slide around and shoot anyone.10/10
-2015-08-02,302830,True,"Most people say its pay2win. They didn't play long enough. You have to level up for new guns instead of buying one.Pay2win players can easily get killed, i'm not that experienced but it is really easy. Pay is nothing at all."
+posted,item_id,recommend,sentiment_analysis
+2016-08-22,227940,True,1
+2016-05-01,730,True,0
+2016-01-23,291480,True,1
+2015-08-02,302830,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-08-05,730,True,EPIC GAME. 8/8 i r8
-2016-08-02,259080,True,Most fun I've had. I might not have played it for long due to net issues but it was fun. 8/8 i r8 this m8
-2016-05-13,12900,True,Really good.
-2016-02-13,444560,True,very nice
-2015-12-24,374570,True,PURE A.I.D.S 10/10 WOULD WATCH AGAIN
-2015-11-27,265930,True,Very Fun. I r8 8/8. gr8 m8
-2015-09-06,257400,True,free and somewhat easy to use
+posted,item_id,recommend,sentiment_analysis
+2015-08-05,730,True,0
+2016-08-02,259080,True,2
+2016-05-13,12900,True,2
+2016-02-13,444560,True,2
+2015-12-24,374570,True,2
+2015-11-27,265930,True,2
+2015-09-06,257400,True,2

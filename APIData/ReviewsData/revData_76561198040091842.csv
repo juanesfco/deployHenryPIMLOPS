@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-18,221100,True,"DayZ, The one game that you can handcuff people and force feed them bleach.11/10!"
-2014-05-05,220050,False,"Why did I buy this game? Oh right, I was dumb.. I was stubborn... Wait, no just dumb. This was a perfectly good waste of however much money I payed for this game at the time because I must have been flustered by a MASSIVE sale that steam had conjured up. Because if I had payed full price for this rusty heap of scrap and dead flesh, then I would shoot myself and have my dead corpse fall into a car compactor because what came out of that car compactor would still turn out better than this game. Now, down to what this game is like...The game looks like someone copy and pasted the console version onto steam and took a little bit of time out of their busy schedule to replace some of the console buttons with some pretty little PC buttons... How nice of them! It really shows you how much they love us, doesn't it? Regardless... DON'T BUY THIS GAME!"
-2016-06-23,620,True,"A fantastic game, fantastic story, fantastic co-op, fantastic characters, and fantastic... everything. I must have for every ideal steam library."
-2014-05-05,215470,True,"It's an enjoyable game that doubles as a great time waster, the lag is horrible and when it comes to 'Humans vs. Dinos' it's more like 'Humans are ♥♥♥♥ed'. Unless you're playing against a team of monkeys, you have absolutely no chance of winning as a human. The classes are nice and I myself prefer the Trapper class over the rest (Mainly because I purchased a DLC for that class) and The Dinos handle very nicely, but do the humans handle nicely? They handle like a sports car on speed, twitchy and unpredictable. Other than those minor issues, I enjoy the game but only buy this if you need a game that you can waste your valuable time on. 7/10"
+posted,item_id,recommend,sentiment_analysis
+2013-12-18,221100,True,0
+2014-05-05,220050,False,1
+2016-06-23,620,True,2
+2014-05-05,215470,True,2

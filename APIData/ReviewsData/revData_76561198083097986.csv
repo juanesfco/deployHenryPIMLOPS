@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-25,222880,True,very fun fps if your looking for a realistic and tactical shooter
-2014-05-25,220200,True,very fun space game and it is awesome making ships and planes
-2014-05-25,42680,True,"A very fun game to play if your bored, and if you feel like playing an fps"
+posted,item_id,recommend,sentiment_analysis
+2014-05-25,222880,True,2
+2014-05-25,220200,True,2
+2014-05-25,42680,True,0

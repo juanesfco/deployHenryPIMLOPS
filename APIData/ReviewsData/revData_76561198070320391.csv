@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-03,4000,True,Nothing to say.Just everything.
-2014-12-15,208200,True,"I remember playing the original Dooms when I was little... I have to say, this isn't a disappointment. I love BFG Edition. Reminds me of all the good times I'd hide behind the couch and watch as my father played."
-2013-11-28,221640,True,"Simple game. Rage inducing, but strangly addicting.Such a gem, and at a cheap price."
-2013-05-02,8850,True,Wonderfully touching. A brilliant story-telling FPS.
-2012-12-29,400,True,"It's amazing. It explains everything that happens in Portal 2, if you don't get any of the references."
-2012-12-23,620,True,Really fun. And there's Co-op too.
+posted,item_id,recommend,sentiment_analysis
+2013-12-03,4000,True,1
+2014-12-15,208200,True,1
+2013-11-28,221640,True,1
+2013-05-02,8850,True,2
+2012-12-29,400,True,2
+2012-12-23,620,True,2

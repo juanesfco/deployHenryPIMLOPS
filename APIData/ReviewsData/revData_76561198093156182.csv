@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-02-26,208090,False,wow ozzies cant join
-2015-01-18,730,False,"Do not buy this game.Valve is doing nothing for this game. All they are doing are adding new skins so you can waste your money on more useless crap. The ranking system is crap, because it is nearly impossible to rank up and if you lose just one game you go down a rank.Go and play another game, just not bloody cs go."
-2014-12-28,206190,True,11/10- It's like cod except not ♥♥♥♥-IGNSome levels may take you ten minutes of thinking and experimenting but it is soooooooooooooooooo rewarding when you pass the level and know you are safe.
-2014-11-15,332800,True,"I enjoy this game,the jumpscares are awesome,toy chica is creepy,VERY TENSE!!! :DDDD,id reccomend playing with a freind   or somthing like that,because at tip of the pin it does get pretty tense.overall great game,and dont forget DEM EASTER EGGS! ;DDDDDDDDDDDDDDDD"
-2014-08-29,105600,True,Now that you can play it on mac and linux there is no reason to not buy it
-2014-07-01,218230,True,"this gameHuge scale battles, plenty of guns, and awesome factions. Definetley get this over any FPS on steam or on pc. Bad things is costs a lot of time and money to get just 1 gun, and about 2 mins of only 10 Frames per second when I start if the game abut about after 2 mins of playing, no lag at all.9/10 would buy"
-2014-06-14,440,True,Buff phlog nuff said
-2014-02-08,4000,True,i love this game NOTE TO EVERYONE THIS GAME WILL WORK WITH ONLY TF2 DOWNLOADED
+posted,item_id,recommend,sentiment_analysis
+2015-02-26,208090,False,1
+2015-01-18,730,False,0
+2014-12-28,206190,True,2
+2014-11-15,332800,True,2
+2014-08-29,105600,True,1
+2014-07-01,218230,True,1
+2014-06-14,440,True,1
+2014-02-08,4000,True,1

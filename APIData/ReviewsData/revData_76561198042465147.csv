@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-25,12100,True,"I liked this game alot, despite the fact that I have never finished this game since I was 13 years old because of that mission where you have to pick up ♥♥♥♥♥♥♥♥♥♥s to the police department, it was crazy and now finally I have completed that mission, I can now try and finish the game"
-2015-03-15,213670,True,I'm super cereal! Buy this game!!!
-2015-02-21,319630,True,"I love this game so far, first episode is great. It is heavily influenced by the Walking Dead series and other Telltale Games but with no shooting and zombies and all that. But this is a teen drama kind of thing and also does feel like a tv show. Long story short, I recommend buying this game. If you're not sure then at least buy the first episode because it is definitely worth it."
-2015-01-10,72850,True,"No matter how old this game is, There are so many things to do and all of the quests are really interesting. I enjoyed this game in 2015 :)"
-2014-06-28,253710,False,I can't even find any animals in this game ♥♥♥♥♥♥♥it
+posted,item_id,recommend,sentiment_analysis
+2014-08-25,12100,True,0
+2015-03-15,213670,True,0
+2015-02-21,319630,True,1
+2015-01-10,72850,True,2
+2014-06-28,253710,False,0

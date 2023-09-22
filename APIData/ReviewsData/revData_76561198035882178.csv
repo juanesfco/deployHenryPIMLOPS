@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-12-17,730,True,♥♥♥♥ matchmaking with russians
-2015-03-02,240,True,"Really fun game, reason why i started playing CS"
-2015-03-02,212070,True,graphics are amazin'
-2015-03-02,209650,False,"rekt nubs, got bored very easily."
-2015-03-02,22350,False,bad
-2015-08-14,252950,True,"Super fun and enjoyable, the map design's are amazing and playing with mates is always best."
-2014-12-17,10,True,better than csgo
-2014-12-17,570,True,addictive game
+posted,item_id,recommend,sentiment_analysis
+2014-12-17,730,True,1
+2015-03-02,240,True,1
+2015-03-02,212070,True,1
+2015-03-02,209650,False,1
+2015-03-02,22350,False,0
+2015-08-14,252950,True,2
+2014-12-17,10,True,2
+2014-12-17,570,True,0

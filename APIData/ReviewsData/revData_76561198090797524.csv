@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-27,262410,False,"ERA un buen juego.Las animaciones son perfectas, con algunas que tienen bugs en determinado momento, buenos sonidos, mecanica, etcYa no se puede jugar porque todas las armas nuevas necesitan creditos.Se transformo en una especia de P2W... mas o menos."
-2015-05-19,253530,True,"Es un juego divertidismo, bastante dificil de aprender a jugar.No hay mucha gente activa, pero normalmente cuando entras en un server, al tiempo aparece gente.No vengas a creer que sabes jugar solo por TF2, porque estas muuy lejos de casa.MUUUUUY lejos, hay mucha mas movilidad y muchas formas de moverse (bunny hop, corriendo normal, caminando, usando las concussion... o cualquier explosion :v), ademas de las diferencias entre los personajes mucho mas visibles que las del TF2.Lo malo es que no hay VAC ni nada, por lo que siempre hay gente molesta o solo hackers, wallhackers, etc.La verdad, en el poco tiempo que jugue, me diverti muchisimo. Sin contar que se puede jugar con amigos (Pero solo en servers publicos).A veces es bastante... estresante para los que se toman en serio los juegos... Como yo :v. Ya que te matan con granadas que no viste nunca, o solo viene un soldier y te vuela todo al carajo.Pero de vez en cuando aparecen los friendly y se puede pendejear con los objetos y items."
-2015-01-27,341720,True,"La verdad no entiendo mucho, pero es un juego muy tranquilo, es bastante bueno por si estas con un mal dia o estas enojado ya que la musica es bastante relajante.Se que tendria que tener por lo menos algunas horas de juego, pero no hay mucho para hacer"
+posted,item_id,recommend,sentiment_analysis
+2015-10-27,262410,False,2
+2015-05-19,253530,True,2
+2015-01-27,341720,True,0

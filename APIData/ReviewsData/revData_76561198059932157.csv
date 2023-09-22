@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-26,319630,True,"jogo incrivelmente perfeito, e tbm um jogo que meche com o sentimentos do jogar,além da sua história sensacional e trazendo um estilo de jogo meio diferente mas que encaixou bem o modelo de escolhas <3 :LIS_butterfly:"
-2013-12-06,570,True,melhor jogo do mundo
-2013-12-06,50650,True,is a veri bom jogo
+posted,item_id,recommend,sentiment_analysis
+2015-11-26,319630,True,2
+2013-12-06,570,True,2
+2013-12-06,50650,True,2

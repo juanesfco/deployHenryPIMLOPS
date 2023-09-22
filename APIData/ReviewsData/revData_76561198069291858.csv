@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-10,370100,False,Can someone tell me how to delete this form library ? pls
-2014-03-01,440,True,awesome game :D 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-07-10,370100,False,1
+2014-03-01,440,True,2

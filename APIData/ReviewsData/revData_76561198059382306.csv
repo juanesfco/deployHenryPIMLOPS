@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-31,730,True,"'if you dont know the call outs, you shouldnt play CS' -Random on Competitive10/10"
-2013-12-20,202170,True,"this game has it all, great story, great combat and a nice driving system. in some places it falls flat. but in others it soars and flys. buy this game"
-2013-11-29,222980,True,"Very good buy, for the price you can get hours of fun out of the slow paced beat-em-up shooter hyrbid"
+posted,item_id,recommend,sentiment_analysis
+2015-03-31,730,True,0
+2013-12-20,202170,True,2
+2013-11-29,222980,True,2

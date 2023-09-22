@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-08-28,570,True,1 of the best games i have ever played
-2012-11-26,440,True,"Best free game ever,better than some to most paid for games"
+posted,item_id,recommend,sentiment_analysis
+2013-08-28,570,True,2
+2012-11-26,440,True,2

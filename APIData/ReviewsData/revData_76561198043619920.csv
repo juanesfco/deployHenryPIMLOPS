@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-10,440,True,"in great debt, have whipped many 10 year olds dressed as a reindeer with a rocket launcher, lost my son, wife and job to this game. 10/10 great for the whole family"
-2016-05-12,413150,True,help
-2016-04-12,230410,True,is good
+posted,item_id,recommend,sentiment_analysis
+2014-11-10,440,True,2
+2016-05-12,413150,True,1
+2016-04-12,230410,True,2

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-07-12,48700,True,"This game may not look good (though I actually like the graphics), but after playing it for a few hours, I see how people have spent hundreds and thousands of hours with this. Out of all my games in my steam library, which is over 400 games large, Mount & Blade: Warband is one of the best. This is a game that I will be playing for years on end, and I highly recommend it to anyone that fancies themselves a gamer."
+posted,item_id,recommend,sentiment_analysis
+2014-07-12,48700,True,2

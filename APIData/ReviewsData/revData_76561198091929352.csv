@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-04-17,70300,True,"VVVVVV is a very retro platformer with the core idea of 'easy to play, difficult to master'. The controls are relatively simple, left and right to move and either space or x to reverse gravity, but it allowed for surprisingly complex gameplay. The levels were very thoughtfully designed and I always knew how to complete them. Although I have to admit, I almost tried to pull my hair out at certain points in the game (Especially for those seemingly unobtainable trinkets), but I thoroughly enjoyed this game and definitely reccommend it to others (Except if you're prone to rage-quiting, because new keyboards are expensive nowadays!)."
+posted,item_id,recommend,sentiment_analysis
+2016-04-17,70300,True,1

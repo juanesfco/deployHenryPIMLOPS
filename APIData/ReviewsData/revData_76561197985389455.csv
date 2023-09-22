@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2011-12-27,4560,True,RTS WW2 at its best.
-2015-10-06,233450,True,A++++ game that I highly reccommend.  Challenging and fun.
-2013-07-16,49520,True,Hours of awesome shooter gameplay.  And if you love loot and guns then there are trillions of them!
-2011-07-03,56400,True,Wicked Game!
+posted,item_id,recommend,sentiment_analysis
+2011-12-27,4560,True,2
+2015-10-06,233450,True,2
+2013-07-16,49520,True,2
+2011-07-03,56400,True,0

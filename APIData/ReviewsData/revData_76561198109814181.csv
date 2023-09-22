@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-31,222880,True,I've never been so scared of bullets in a game in my life 10/10
-2014-05-26,248570,True,ive played my share of fighting games but this is wayy different to fighting games when you fight you have to plan and see what his opponent will do. It has a weird learning curve but you get use to it after awhile. It also has training if it doesn't come natualy
-2014-05-24,440,True,This game is the best starting game on steam
-2014-03-06,208090,True,IF YOU LOVE FAST PACED GORE YOU WILL LOVE THIS
+posted,item_id,recommend,sentiment_analysis
+2015-01-31,222880,True,0
+2014-05-26,248570,True,0
+2014-05-24,440,True,1
+2014-03-06,208090,True,2

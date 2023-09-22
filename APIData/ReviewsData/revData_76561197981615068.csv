@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-24,227680,False,trailer looks awesome.. but cant do anything.. at least not yet and havent seen a update kinda a waste of money.. imo.
-2014-06-26,49520,True,Freeking amazing game.. recommend it to everyone!! just love the jokes and the game play!!
-2014-06-22,204880,True,Amazing game to play with friends and even vs AI. - must play if you like stratagie games/RTS and Space
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,227680,False,2
+2014-06-26,49520,True,1
+2014-06-22,204880,True,2

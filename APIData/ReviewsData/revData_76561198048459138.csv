@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-03-05,440,True,it is da best
-2014-07-10,233250,True,I know this is a early access game but i cant even get into a battle because every time i tried it stopped responding so any suggestions good other than that
-2014-04-05,265930,True,My favorite game ever i licked a guy and dragged him into a car with my tongue 10/10
+posted,item_id,recommend,sentiment_analysis
+2013-03-05,440,True,2
+2014-07-10,233250,True,1
+2014-04-05,265930,True,1

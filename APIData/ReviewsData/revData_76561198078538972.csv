@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-07,440,True,"Old,but free. Good for early players to trade before moving to csgo"
-2016-07-05,304930,True,Gonna try it out. Gonna try it out.
-2015-12-18,730,True,"Great,but expensive if you want to have skins. The economy is now only focusing on skins , and not gameplay.I`d give this game a go,for players who dont invest too much time into trading."
-2015-06-05,17390,False,I want a refund for the game but i cant get one
+posted,item_id,recommend,sentiment_analysis
+2016-07-07,440,True,2
+2016-07-05,304930,True,1
+2015-12-18,730,True,0
+2015-06-05,17390,False,0

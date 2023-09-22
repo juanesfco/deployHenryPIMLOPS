@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-01,318530,True,The one of few games that make me feel bad at games.Its a good game that I would recommend for people who want to have a challenge.8.5/10 because I have not beaten it yet
-2016-04-04,391540,True,"Undertale is a great game for most people.I did find it kinda easy though, only dying a total of 20 times through all the possible routes.Games story is kinda good, but its the Chracters which are really good. 11/10"
+posted,item_id,recommend,sentiment_analysis
+2016-05-01,318530,True,0
+2016-04-04,391540,True,2

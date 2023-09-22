@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-04,234140,True,All I want is my f**king V8 and some waterWould not pirate/10Makes me moist
-2016-05-01,281690,True,As of the time this is published I have played 4.0 hours (might play again). 4 hours it takes to finish the story but there are areas you need to go back to if you plan to 100% this game. It was worth the $3.75USD as it was on sale
-2015-04-23,271590,True,"Play golf over and over, played some tennis, walked along the main streets, went to the movies, then swum at the beach.Holiday simulator/10"
+posted,item_id,recommend,sentiment_analysis
+2015-09-04,234140,True,1
+2016-05-01,281690,True,1
+2015-04-23,271590,True,2

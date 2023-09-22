@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-10-09,105600,True,TERRARIA IS THE BEST AND U CAN DO NEARLY ANYTHING ON IT! (EVEN MAGIC!)
-2013-06-07,570,True,"Dota 2 is SOOO fun because it's only multiplayer, which means u can play with your friends, it's challenging and also well...  It's Just FUN!!!!!!!!      :D :P xP xD :O -.- x_x :)"
-2014-09-23,211820,True,"Starbound is simply one of the best games I've ever seen. It's really good how you can travel to other planets and useful, because you might've took nearly all the ores out of the world, so you just go to a different planet! Also, it's scientific, like if you keep on heading up, eventually you will enter space and find a meteorite! The soundtracks are just amazing... There is also dungeons, Asteroid fields, villages and heaps of biomes. One of my favourite things about Starbound is the tech. Tech is you can say almost a power you acquire. There's heaps of them and I reckon bubble boost and butterfly boost is the best. So get Starbound right now and don't wait to get it! As I strongly recommend it. 😊"
+posted,item_id,recommend,sentiment_analysis
+2013-10-09,105600,True,2
+2013-06-07,570,True,2
+2014-09-23,211820,True,2

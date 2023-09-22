@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-19,384300,True,"Firstly, I mainly play CS GO on a laptop (Dell XPS L502x) and my computer specs are as follows:CPU: i7 2670 QM @2.2 ghzGPU: GT 540M (slightly underclocked due to Dell motherboard issues)RAM: 8gb (2x4) 1333 mhz DDR3Hard drive: Crucial 240GB M500 SSDI usually run CS GO with launch options tweaked to use all 4 threads on my CPU and to run with high priority. After playing at different settings and resolutions to test out the program I can conclude that I did not experience a significantly noticeable FPS gain with the software. However, I did notice that the FPS was much more stable and there weren't as many jitters and screen tears when there were lots of action. Personally, I think I didn't gain as much from this software because even though my CPU is old, it is more than capable of running CS GO at any setting. The bottleneck is probably caused by my GPU. However, I believe that this program will definitely benefit users if they have a dual core CPU or suspect their CPU is bottlenecking their GPU. If you have a relatively weak CPU I encourage you to give this a try because even if it doesn't make a difference you can always get a refund."
-2015-04-01,225080,True,Very relaxing game
+posted,item_id,recommend,sentiment_analysis
+2015-11-19,384300,True,2
+2015-04-01,225080,True,1

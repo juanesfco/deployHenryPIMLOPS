@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-09-12,346110,False,i have a GTX 680 Top Directcu ii with a 1770k proccessor and i cant run this game higher than 30 fps.. nees major optimizing..
-2015-03-27,244450,True,great game!
-2015-01-16,295110,True,"Ok let me say this, ANYONE WHO SAYS THIS GAME IS PAY TO WIN GO SHOVE A FORK IN YOUR EYE. This game if fair, good fun and exciting. I played a 8 hour session yesterday an enjoyed every bit of it, this game i recommend it you are over dayz or rust this game is awesome!"
-2014-11-07,227940,True,Great game
-2014-08-30,24860,True,the base game is pretty ♥♥♥♥♥♥... but the mod Project reality is awesome i reccommend this game just for that mod!
-2014-08-19,251060,True,"Great RTS game!, i highly recommend this game!"
-2014-07-25,440,True,great game!
-2014-05-31,242760,True,great game!
-2013-02-26,35450,True,best ww2 shooter i have ever played in my life!
-2012-07-30,33930,True,i love this game!
+posted,item_id,recommend,sentiment_analysis
+2015-09-12,346110,False,2
+2015-03-27,244450,True,2
+2015-01-16,295110,True,2
+2014-11-07,227940,True,2
+2014-08-30,24860,True,1
+2014-08-19,251060,True,1
+2014-07-25,440,True,2
+2014-05-31,242760,True,2
+2013-02-26,35450,True,2
+2012-07-30,33930,True,1

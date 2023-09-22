@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-01,311210,True,"Honestly, As somebody who thought that cod has been the same thing over and over well before black ops 2, I laughed at another COD however i played this game at my friends house and I instantly became hooked. Yea there may be fps problems but Bo3 is a breathe for fresh air for the cod genre. The weapons are pretty balenced and the perks too. This is a game that i find you can play for hours on end, and not have that typical bad cod taste. I strongly reccomend this game. For all New COD and Seasoned players. Rate 8.5/10"
-2014-12-18,202970,True,"Choice, It's Fun. However it can be slightly anoying at times, other than that its extremly fun."
-2014-03-02,219640,True,"This Game is really fun, however the unlock of weapons holds it back, but if you can look past that this game is a definite buy."
+posted,item_id,recommend,sentiment_analysis
+2015-12-01,311210,True,1
+2014-12-18,202970,True,1
+2014-03-02,219640,True,0

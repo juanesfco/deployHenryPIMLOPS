@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-04-02,205350,False,"Do NOT buy this game; it still uses GFWL, and since Microsoft has discontinued GFWL, this game is now unplayable."
-2014-11-10,218060,True,Amazing soundtrack with a glorious artstyle. The gameplay is just brilliant. 10/10.
-2015-06-23,306020,True,Possibly one of the best 2D tower defence games on steam. Great for all ages too.
-2013-11-11,220,True,"This is probably the most amazing game I have ever played in my entire life. I am not even kidding, it's just so awesome."
-2016-01-16,49520,True,"Probably one of the best games I've ever played. There is so much content, it's unbelievable. The game is so much more fun when playing with other people."
-2015-08-03,310370,True,A fun little game availible for free.
-2015-05-29,363970,True,"If you're into games such as cookie clicker, then you'll love Clicker Heroes."
-2013-12-03,12900,True,"Wonderful game for a dirt cheap price. It incorporates music into the game very well, and not to mention, very addicting. It's really cool how the level is generated based on the music that you supply. If you're a producer, this game will make you listen to your music in a way that you previously could not.Verdict: I would strongly recommend this game to anyone who has a taste for music. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-04-02,205350,False,0
+2014-11-10,218060,True,2
+2015-06-23,306020,True,2
+2013-11-11,220,True,2
+2016-01-16,49520,True,2
+2015-08-03,310370,True,1
+2015-05-29,363970,True,2
+2013-12-03,12900,True,1

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-05-30,730,False,This game is filled with smurfs and hackers dont even bother.
-2015-08-07,235600,True,"10/10 another amazing Tom Clancy game :) the stealth aspect is easy to learn and fun to use, reulting in a good gaming experience....However, using a silenced sniper does make the game alot easier, so if you want a challenge then use another gun than the sniper ;)"
-2015-01-01,261640,False,REALY BAD GAME IN GENERAL..... Gearbox say its 'our choice' in how we play the game...but then they nurf drop rates and guns we enjoy using. DO NOT BUY THIS GAME!!! the season pass is a rip off as well. Stick with Borderlands 2 . DO NOT BUY THIS GAME I fell sorry for whever pre-orderd this game because you only got a ♥♥♥♥♥♥ dlc worth $5  
-2013-12-26,203160,True,"Nice story game, with amazing graphics!! 9/10"
-2013-11-30,72850,True,Very epic game. even better with razer game booster. 9.5/10
-2013-11-30,70300,True,Very Hard and Annoying! but fun game :)
-2013-11-30,105600,True,Just like minecraft
-2015-03-14,319510,True,:'( Too Scary -IGN
+posted,item_id,recommend,sentiment_analysis
+2016-05-30,730,False,1
+2015-08-07,235600,True,2
+2015-01-01,261640,False,0
+2013-12-26,203160,True,2
+2013-11-30,72850,True,1
+2013-11-30,70300,True,0
+2013-11-30,105600,True,1
+2015-03-14,319510,True,0

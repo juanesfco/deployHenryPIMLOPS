@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-26,238460,True,BUCKLE YOUR PANTS! BUCKLE YOUR PANTS! A BUCK BUCK BUCK BUCK BUCKLE YOUR PANTS!!!11!!1!       100000/10
-2014-06-20,274190,True,SO MUCH MURICA SO LITTLE TIME!!!1!
-2014-04-24,204340,True,It's all man and no cover
+posted,item_id,recommend,sentiment_analysis
+2014-06-26,238460,True,1
+2014-06-20,274190,True,1
+2014-04-24,204340,True,1

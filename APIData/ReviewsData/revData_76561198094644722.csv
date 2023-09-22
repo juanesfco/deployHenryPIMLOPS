@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-17,218620,True,the game is 18+ but i pley (14)
-2014-11-22,209650,True,best call of duty siries
-2014-01-17,206420,True,9/10 the game is good but bug is so mamy
-2014-01-17,1250,True, the is f****** cool
+posted,item_id,recommend,sentiment_analysis
+2014-01-17,218620,True,0
+2014-11-22,209650,True,2
+2014-01-17,206420,True,2
+2014-01-17,1250,True,2

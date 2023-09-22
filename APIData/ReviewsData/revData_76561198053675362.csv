@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-03-30,105600,True,"This game is one of the most amazing indie games I've ever played, and I've FINALLY gotten around to recommending it. The gameplay never gets old, there are TONS of different things to do, and its all even better when you do them with friends! BUY THIS GAME 10/10"
-2015-11-19,49520,True,"You can never put enough hours into this game. Amazing artstyle, great humor, fluent and interesting gameplay, a refreshing leveling experience, and even better with a group of friends. This game is just excellent!"
-2015-07-27,219150,True,"Why don't you have this game yet, it's a masterpiece, and its like 10 bucks. Buy it now and thank me later."
-2014-08-10,10,True,This game is horrible why aren't the graphics good like Call of Duty: Ghosts that game has very gud graphics wow Valve more like Bad oh snap
-2014-06-23,730,True,"I hadn't really looked into CS games other than playing them at friends houses and seeing them on social media sites and streams online. But after I got just source for GMOD purposes, I looked into CS:GO because I was more interested in the CS series after looking into it. Now thanks to some friends, I am hooked on the genuinely fun gameplay that brings a lot for what looks somewhat like a simple shooter at first. And for this low of a base price, I'd say its quite a steal. Buy this game!"
+posted,item_id,recommend,sentiment_analysis
+2013-03-30,105600,True,2
+2015-11-19,49520,True,2
+2015-07-27,219150,True,0
+2014-08-10,10,True,0
+2014-06-23,730,True,1

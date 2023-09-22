@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-10-12,35460,False,"The Ball is a FPS puzzler game from teol studios and TripWire Interactive(the publishers of Killing Floor and Red Orchestra). this is takes about 8 hours to beat like the desciption says, this game is like Portal meets Gears of War and why? because for portal, the ball object is like the Companion Cube where you place that spot and place another and that. and gears of wars, the underground level designs and the creature aliagator things are similer to the locust soldiers and the graphics is powered by Unreal Engine which looks good, the story was ok and the combat mechanics didn't impress me that much, when you beat the game there's also a surivial mode which you must surivie which waves of enemies. i give this game a 6.8 out of 10"
-2012-05-05,99300,True,"Renegade Ops is one of the greatest games ever, it was developed by Avalanche Studios( the guys who made Just Cause 2) and pulished by SEGA, you play as 4 characters(incuding Gordan Freeman from Half Life) to stop a madman name Inferno, GUNS, EXPLOSIONS, And ACTION, Michael Bay would be proud."
-2011-05-18,10,True,"this game is the 1# online action game is awesome, it's better than Team fortress games and other mutiplit-player games"
-2013-12-03,261980,False,"Do not get this mod, it's too quickly short, no story about it, and one boss, i give this game a 2 out of 10"
-2012-02-02,71165,True,"streets of rage 2 is a fighting game from sega and it was good, i havent played the first one but this one is much better than the first and i give this one a 8.9 out of 10"
+posted,item_id,recommend,sentiment_analysis
+2013-10-12,35460,False,1
+2012-05-05,99300,True,2
+2011-05-18,10,True,2
+2013-12-03,261980,False,1
+2012-02-02,71165,True,2

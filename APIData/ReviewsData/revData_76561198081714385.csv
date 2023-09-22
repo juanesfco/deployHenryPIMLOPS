@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-02,304930,True,this game is the ♥♥♥♥. And by that i mean that it is frEAKING AWESOME
-2016-07-10,440,True,"Solid new update. Only problems: I can't play offline with bots (if this is a feature go back please I loved that mode), and the 'Find Game' button doesn't do anything! I tried sitting patiently, spam-clicking it, and all other manner of things and it refuses to give me a game. Moreover, I can't acess my server list. What is happening, and how do I fix it?"
-2015-12-15,271590,True,It crashes my computer
-2015-06-26,42680,True,♥♥♥♥ingAMAZING
-2015-06-22,22380,True,♥♥♥♥in AMAZING
+posted,item_id,recommend,sentiment_analysis
+2014-08-02,304930,True,1
+2016-07-10,440,True,1
+2015-12-15,271590,True,1
+2015-06-26,42680,True,2
+2015-06-22,22380,True,2

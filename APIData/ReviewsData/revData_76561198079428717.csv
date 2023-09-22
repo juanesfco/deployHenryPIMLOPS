@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-01-01,91310,True,its fun
-2014-10-04,4000,True,ItS FUN BUY IT PLAYERS
-2014-01-11,440,True,guys if you can see this i need help it says a family thing for a pin and i don't know a pin help! please :[ its not fun i can't play with you guys
-2013-12-25,216250,True,i like how we kill zombie but i don't have it
-2015-08-03,352460,True,Great Game So Get It Play The Living Out Of It And Thx For New Ghost aka Buchter
-2014-11-08,49520,True,Fun!!!!!!!!!!
-2014-01-09,240,True,fun
+posted,item_id,recommend,sentiment_analysis
+2014-01-01,91310,True,2
+2014-10-04,4000,True,2
+2014-01-11,440,True,0
+2013-12-25,216250,True,1
+2015-08-03,352460,True,2
+2014-11-08,49520,True,2
+2014-01-09,240,True,2

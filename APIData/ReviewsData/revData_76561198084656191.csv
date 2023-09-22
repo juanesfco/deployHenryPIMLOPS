@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-09,218620,True,ยอดเยี่ยมน่ะเเจะ Gooooooooooo!!!!!!!!!
-2014-10-19,570,True,nice game GG
-2014-05-22,730,True,เยียมเลย
+posted,item_id,recommend,sentiment_analysis
+2014-11-09,218620,True,2
+2014-10-19,570,True,1
+2014-05-22,730,True,2

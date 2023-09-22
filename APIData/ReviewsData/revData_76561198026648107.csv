@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-02,214950,True,The both the gameplay for the campaign map and realtime battles are incredibly detailed and entertaining to both command and watch. Besides some bugs in the beginning this Rome 2 is a well crafted game.
-2014-07-19,201810,True,"Wolfenstein: The New Order is a fantastic game and well worth the purchase. The gameplay manages to immerse you into the world, along with well thought out weapons and beautiful scenes makes the game shine!Only one problem is that I have found the hardest level, Uber, easier than i had expected. Other than that, great game!"
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,214950,True,2
+2014-07-19,201810,True,1

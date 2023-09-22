@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-10-26,318220,True,"i bought this game yesterday and i think it is awesome, so far i havent seen any bugs that everyone esle is reporting. my game is running smooth and the graphics are decent.so far i have found the game entertaining, the only thing that i would like changed is the steering when your driving the cop car"
-2014-12-16,300380,True,this is an awesome game i bought it when it was early release and have loved it the  whole time. i would recommend this game to anyone and everyone keep up the great work DEV TEAM
-2015-05-05,271590,True,"this is an amazing game, this is now my most played game on my games list and i love the online and story is good i have played it on the ps3 but the PC version is way better. if you don't have this game, i ask you why are you waiting get it now and you will love it.was worth the wait great work DEV team, next time don't make us wait soooooo long"
-2015-01-02,303820,True,"this is a good game but there is still some thing they need to work out, such as passing and the camera view overall is a good game if you are in the sport games"
-2015-05-04,227300,True,this is an amazing game and i love that i can use the G27 Steering wheel and pedals with full clutch and gear box support
-2014-12-18,207610,True,"this is an awesome game, i havent watched the tv show but the game was recommend to me and i have now finish Season 1 and i can't get enough of the game. have started the DLC and getting ready to start the 2nd Season if you buy this game get ready to be hooked and play till the end great work DEV team"
-2014-10-29,263280,True,"amazing game, highly recommend this game"
+posted,item_id,recommend,sentiment_analysis
+2014-10-26,318220,True,1
+2014-12-16,300380,True,2
+2015-05-05,271590,True,2
+2015-01-02,303820,True,1
+2015-05-04,227300,True,2
+2014-12-18,207610,True,1
+2014-10-29,263280,True,1

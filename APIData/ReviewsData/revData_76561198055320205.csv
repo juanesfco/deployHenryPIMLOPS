@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-21,730,True,10/10 Knife sim game
-2014-06-20,4000,True,Pretty ♥♥♥♥ing sick if you have big testicles
+posted,item_id,recommend,sentiment_analysis
+2014-08-21,730,True,0
+2014-06-20,4000,True,0

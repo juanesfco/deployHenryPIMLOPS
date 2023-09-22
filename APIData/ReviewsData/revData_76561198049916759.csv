@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-02,219990,True,"Good game, combined best aspects of great ARPGs, d1 2 tl1 2 van helsing1, and with a few new ones of its own. Will be enjoying this one while it grows :)"
-2015-09-11,293260,True,"fun game, people complain about RNG but really who cares, maybe you have to give the level a couple more goes, try something different, eventually you'll beat it."
+posted,item_id,recommend,sentiment_analysis
+2015-07-02,219990,True,2
+2015-09-11,293260,True,2

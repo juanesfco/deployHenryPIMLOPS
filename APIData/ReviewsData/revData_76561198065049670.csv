@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-09-07,370100,False,Game is great. Just needs to be better.
-2014-06-19,730,True,Great Game never gets boring
-2015-10-15,340310,True,"Nearly fell asleep trying to play this, but i learn't how to kayak, pick strawberrys and hazelnuts.9/10 Banana Bread Sun Cream Analysis's"
-2016-07-04,459820,True,What has my life become?Game is very click intensive.
-2015-10-20,319630,True,"Great game, currently stuck in a cubicle, cant find code to the door. =)"
-2015-08-06,383080,True,Game works in a similar way to Adventure Capitalist and Cookie Clicker. Get the game if you enjoy clicking. Thats the only reason why i got this game.
+posted,item_id,recommend,sentiment_analysis
+2015-09-07,370100,False,2
+2014-06-19,730,True,0
+2015-10-15,340310,True,1
+2016-07-04,459820,True,2
+2015-10-20,319630,True,2
+2015-08-06,383080,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-06,464780,True,When do I start making choices?
-2014-07-23,304930,True,"I'm not really good at writing reviews as such, so here's what I think. It looks like a Minecraft only with zombies, whatever. But in truth I think that there's a lot of potential as to what they will shape this game to be.I'm looking forwards to the future of this game..."
-2013-06-21,113400,False,"Excuse my last one but now, I hate this now... It used to be great fun. Bought a Shotgun, a crappy auto shotgun. Won a few scraps. Earned enough money to bid money for a well created Cerberus Jacket. Got a Robo-Cop kill theme. Watched a few people role-play. Had fun in general.But now, now it's all gone down in a spiral. I used loved to play this game, the customisation, the role-playing from time to time. In truth, I really, really, really dislike (absolutely hate) this game. But the reason why I play it? I play it in hopes that it will be back the way it used to be."
+posted,item_id,recommend,sentiment_analysis
+2016-07-06,464780,True,1
+2014-07-23,304930,True,0
+2013-06-21,113400,False,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-11,12900,True,Si te gusta la musica y los videojuegos debes tener este juegoAmo el juego por que amo la musica♥10/10
-2014-01-14,4000,True,Entretenido! :D
-2013-12-20,730,True,Muy bueno :3
-2013-01-17,440,True,El mejor juego online gratis! :D
+posted,item_id,recommend,sentiment_analysis
+2015-04-11,12900,True,2
+2014-01-14,4000,True,2
+2013-12-20,730,True,2
+2013-01-17,440,True,2

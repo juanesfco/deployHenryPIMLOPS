@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-10-31,440,True,"This is a very unique FPS game with 9 classes with their own perks and roles, ranging from the genius Engineer to the mysterious Pyro, and special events such as Halloween with limited cosmetics. There are millions of possiblities with this game (Thanks to the many unique hats and weapons) and there is a constant stream of free updates and patches. TF2 (Team Fortress 2) rarely has hackers (If any) on servers due to a very reliable and effective anti-cheat system (VAC). TF2 also has a kind and welcoming community so, new players can get familiar with the game with ease. TF2 is also very balanced  so you don't have to spend a fortune on the game just to get the hang of it. As I mentioned before, there is a diverse range of well-made cosmetics and weapons to personalise your characters just the way you want them to be. There is also a constant stream of weapons/weapon reskins and cosmetics that are made by the glorious steam community with their amazing item-making skills. Oh, did I forget to mention that there are many taunts to annoy the hell out of your enemies? So what are you waiting for? Try this game out NOW!"
-2016-03-04,268500,True,BS Simulator 201611/10 Would shoot again
-2016-03-04,230290,True,Agar.io.Universe Edition.10/-10 Would play again.
+posted,item_id,recommend,sentiment_analysis
+2013-10-31,440,True,2
+2016-03-04,268500,True,1
+2016-03-04,230290,True,1

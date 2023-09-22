@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-01-11,429050,True,"I saw this game had a few negative reveiws, but honestly, i think that when this is out of early access its going to be frikking awesome.  The controls take a little getting used to so you can expect to be eaten a few times, but once you get the hang of it its awesome fun.  those guppies swallowed whole three at a time, so much fun omfg!"
-2014-10-12,35420,False,its such a shame i used to play this on my old comp and loved it... but its just a broken game now.  not sure if steam should even be peddling it (as it doesnt function properly).  no wonder its free.
-2015-08-22,251170,False,"good lawd, crash simulator 2015 10/10 will crash again and again"
-2014-05-13,293320,False,"well, what a ♥♥♥♥♥♥♥, can't interact with anything which makes the game last longer i suppose, but also renders it unplayable.. what a gyp!  no wonder it was so damn cheap!"
-2014-06-11,306660,True,so easy to play and so visually tasty!  this game has been totally worth the wait!
-2016-04-12,452320,False,"While this game looks quite good, i feel a bit mislead by the store page not really specifying that the game (for now) is almost solely for game controller.  If there is anyway to play this with keyboard and mouse i would gladly give it another go, but as is, i just cant recommend it.  Really hoping this issue might get fixed sometime soon, like i said, I'll be happy to give it another go."
-2015-08-20,361330,False,loading simulator 2015 (multiplayer doesnt work.)
-2014-07-15,292180,False,"ok, I love flight sims, but I love them more when they have easily accessible instructions and settings menus.  This sim is possibly the most user unfriendly sim I have ever played.  The Graphics are lovely (as seen speeding skew off a runway and into the buildings!), but I can't recommend it to anyone who is new to sims (or anyone who expects to be able to adjust the sim either in menu- or in game).  I guess its back to the 128 page manual.  Bummer, I am sure It will get easier... at some point."
+posted,item_id,recommend,sentiment_analysis
+2016-01-11,429050,True,2
+2014-10-12,35420,False,1
+2015-08-22,251170,False,2
+2014-05-13,293320,False,1
+2014-06-11,306660,True,2
+2016-04-12,452320,False,2
+2015-08-20,361330,False,1
+2014-07-15,292180,False,2

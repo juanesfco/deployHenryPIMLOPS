@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-16,339800,True,'♥♥♥♥ these birds. Am i right?'
-2014-12-26,730,True,HOW TO SUCCESSFULLY OPEN A WEAPON CASE FOR NOOBS!step 1: DON'T!!!!!!!
-2014-04-13,218620,True,Microtransactions are fair and balanced.
+posted,item_id,recommend,sentiment_analysis
+2015-06-16,339800,True,2
+2014-12-26,730,True,1
+2014-04-13,218620,True,2

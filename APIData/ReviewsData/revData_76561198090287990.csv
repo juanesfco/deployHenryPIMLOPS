@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-29,630,True,I RECOMMEND THIS GAME FOR BEGINEERS IN SHOOTERS CAUSE ITS ALSO SIMPLE AND GOOD! BE SURE TO HAVE ITEMS!
-2014-09-19,440,True,"Its Good, Pretty Awesome and you can have hats as well and also i help F2Ps, Fun Game, Funky Graphics, and a Good Conversations to People, Competitive Maps is Awesome and Make Fun of Trade Maps and Learn how to Rocket jumper, Sticky Jump, Sentry Jump, and Explore the Maps Where ever you want to...     Team Fortress 2™ FreeToPlay.                                                                           OH AND 1 MORE THING.... Be Good! :)"
-2013-10-18,206210,True,pretty cool game
-2013-08-30,207230,True,I love this game!!!!!! :DDDDDD
+posted,item_id,recommend,sentiment_analysis
+2014-10-29,630,True,2
+2014-09-19,440,True,2
+2013-10-18,206210,True,1
+2013-08-30,207230,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-05,218620,True,"  Ótimo jogo para se distrair, com boa jogabilidade e muito divertido. Um jogo stealth ou sútil em primeira pessoa bom para jogar com amigos e mutiplayer, com certo nível de dificuldade bom que exige um certo nível de dificuldade e várias heists, com muitas DLCs, o que faz o jogo não muito repetitivo. Ótimo sistema de skills e de níveis também.  Payday 2 também possuí uma varariedade de personagens que ao todo são 11 até o momento, tendo entre eles o grupo principal com quatro personagens chamados Dallas, Wolf, Chains e Houston.  Também há um sistema de compra bom onde da para comprar ou melhorar armas, comprar e customizar máscaras, e entre outros, mas só é possível comprar isso tudo ganhando em heists, onde é aleatório o que poderá vir.  Há também o sistema de skills que constituí em habilidades específicas para cada coisa, que é possível adquirir com pontos de habilidades ganhados em heists e com dinheiro.    Algo bem ruim no Payday 2 é o modo offline, que é enjoativo e mais difícil para heists stealth ou até mesmo sútis, poderia ser melhorado."
-2014-06-28,224540,True,"Recomendo, esse é um jogo para diversão e criatividade, o único problema é encontrar uma partida"
-2014-06-26,243870,False,"não recomendo.É muito ruim, deu pra ver porque ele é grátis, não gostei nem um pouco e me arrempedi de ter instalado"
+posted,item_id,recommend,sentiment_analysis
+2015-07-05,218620,True,1
+2014-06-28,224540,True,1
+2014-06-26,243870,False,0

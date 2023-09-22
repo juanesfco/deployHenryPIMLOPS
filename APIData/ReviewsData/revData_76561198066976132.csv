@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-11,105600,True,O jogo é muito legal =)
-2015-03-29,570,True," Recomendo a todos , Muito bom !!! Melhor Moba do mundo *-* É a valve continua nos alegrando com belos jogos  Obrigado :)"
+posted,item_id,recommend,sentiment_analysis
+2014-11-11,105600,True,2
+2015-03-29,570,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-28,287290,True,A.I. is very stupid hahaha
-2015-01-03,268050,True,ผมคิดว่าควรจะลดสเป็คขั้นต่ำลงอีกนิดนะเพราะว่ามีหลายคนที่เป็น core i5 แต่เป็น core i5 รุ่นเก่าจึงเล่นไม่ได้ แต่ถือว่าตัวเกมทำออกมาได้ดีครับ
-2014-03-27,271290,True,this is good game
+posted,item_id,recommend,sentiment_analysis
+2015-02-28,287290,True,0
+2015-01-03,268050,True,2
+2014-03-27,271290,True,2

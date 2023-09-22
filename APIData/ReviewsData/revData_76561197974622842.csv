@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2011-07-24,22370,True,"I had to edit the .ini file to stop the game locking up in Win 7 (Thanks steam forum), game works like a charm now."
-2011-07-12,35480,True,Charming game packed full of content and replayability.  At $10 it is amazing value.  Three thumbs up (don't ask.)
-2011-07-03,41500,True,"Indie Steam-Punk Diablo clone ?  Theres nothing in that sentence I don't like.  If you like your plots thin and your gameplay 100% 'kill everything that moves', you could go a lot worse than Torchlight.."
-2011-04-25,620,True,"Portal 2 represents everything I love in gaming.  It entertained, it challenged and it rewarded.  A memorable experience crafted by the best in the industry."
-2011-01-08,22380,True,Great game.  The next best thing to playing Fallout 1 & 2.
-2010-12-31,32370,True,"A classic Bioware game.  I like to think of KOTOR as Baldur's Gate 3 in Star Wars drag.  Simplified yes, but a lot of downtime that added nothing to the overall experience has been removed as well.Fast paced highly enjoyable game with a good story and interesting characters.  I wish they had made a movie of this game instead of the sad episode 1 to 3 we got instead."
-2010-12-09,62100,True,"Great puzzle game, similar to lumines.  Very addictive :)."
+posted,item_id,recommend,sentiment_analysis
+2011-07-24,22370,True,1
+2011-07-12,35480,True,2
+2011-07-03,41500,True,0
+2011-04-25,620,True,2
+2011-01-08,22380,True,2
+2010-12-31,32370,True,1
+2010-12-09,62100,True,2

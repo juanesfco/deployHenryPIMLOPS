@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-27,403190,False,"This game gives user an achievement when they enter the game menu, which means buy this game is some sort of achieving? Also, people in game never took a dump, while I'm feeling a little bit constipation for a while, ♥♥♥♥♥♥ me off.I've done another run, everyone is starving to death while at the same time I have 100+ vegi and 80+ meat in stock, FYI there are 3 canteens for around 80 survivors, I think those resource is quite enough to use for a long while if AI is not at dumb as this."
-2015-08-25,236850,True,Not a bad game.
-2013-12-31,8930,True,Go playing this game if you don't know how to waste your time. PS If you love STR games.
-2013-06-27,213850,True,1024
-2013-01-20,97330,True,MTGGGGGG
+posted,item_id,recommend,sentiment_analysis
+2015-10-27,403190,False,0
+2015-08-25,236850,True,1
+2013-12-31,8930,True,1
+2013-06-27,213850,True,1
+2013-01-20,97330,True,1

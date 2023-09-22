@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-08-20,375950,True,"Muted game, Listened to dubstep (Xx_( ͡° ͜ʖ ͡°)DankMems( ͡° ͜ʖ ͡°)_xX) while watering plants and making my snail wet."
-2015-09-17,242880,True,(insert british stereotype here)
-2015-12-03,305620,True,"Now this, This is ART"
-2015-09-29,206210,False,"Searched 1 hour for a game, Didn't find one"
-2015-08-22,252950,True,2fast 2car
-2015-05-09,730,True,GE Smurfing simulatior 2016 9/11
-2014-11-15,8190,True,10/10 Michael Bays' vision of the worldWould michael bay again.
-2014-07-07,550,True,"If you havent played l4d, then the feels arent as good as when you first get the game, considering I have this game on XBox, I was a bit wonky with the (Sometimes) confusing controls (like right clicking for shoving) and was annoyed at not being allowed to aim in, but the endless addons to make tanks throw dead cows and common infected turning into telletubbies, and the DLC for more missions REALLY makes up for the small mistakes that l4d2 made. But having alternate storylines, One with Rochelle, Nick, Ellis and Coach and the other having Francis, Bill, Zoey and Louis, Makes l4d2 a very plentiful game. I really recommend l4d2.4.5/5       That's Right."
-2012-07-23,440,True,"Hilariously overpriced cosmetics, good gameplay, relatively good community and great fun."
+posted,item_id,recommend,sentiment_analysis
+2015-08-20,375950,True,0
+2015-09-17,242880,True,1
+2015-12-03,305620,True,1
+2015-09-29,206210,False,0
+2015-08-22,252950,True,1
+2015-05-09,730,True,1
+2014-11-15,8190,True,1
+2014-07-07,550,True,1
+2012-07-23,440,True,2

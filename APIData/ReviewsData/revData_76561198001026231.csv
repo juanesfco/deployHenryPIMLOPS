@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-27,321610,False,"It's too outdated, too little put into it, and too ugly."
-2014-11-26,265930,True,"Goats are like dragons except they actually exist, and you can actually become one. 10/10 would baaa again"
+posted,item_id,recommend,sentiment_analysis
+2014-11-27,321610,False,0
+2014-11-26,265930,True,1

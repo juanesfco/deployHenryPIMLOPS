@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-08-24,304050,True,Pros AddictiveServer Crashes once a day probably a system to keep fishbotter from 24/7 ConsAddictive
-2016-03-21,372000,True,"Meh its okay seems better the average mmo out there that actually works on XPI just recently upgraded from windows 98 to Windows XP , works great !i happen to have gotten a mouse and keyboard too seems to be a minimal requirement apparentlyseems to run on 1 GB of ram just fine as well"
+posted,item_id,recommend,sentiment_analysis
+2015-08-24,304050,True,1
+2016-03-21,372000,True,2

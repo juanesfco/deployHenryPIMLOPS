@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-07,409160,True,This brilliant little excursion into the world of a game theatrics will bring you right back to Portal and it's sequel. The accompanying narration is hilarious and frustrating as it guides you towards completing the heist for yourself. After one or two little hiccups of course...
-2015-10-18,72850,True,"Undeniably the powerhouse of Role-playing Games of the last ten years. Despite a simplified levelling and spell system, this iteration of The Elder Scrolls series has not only kept diehard RP fans entetained but also introduce fantasy RPGs to several new generations. Easily worth a few hundred hours of gameplay."
-2012-07-15,207610,True,"A great combination of quicktime events, puzzles and point and click adenturing, rolled up in cinematic storytelling and the undead Your choices affect your surrounding characters and the story becomes yours. Gore and guilt-trips galore. Great stuff!"
-2011-12-28,15700,True,One of the great platform adventures of the 1990s!
+posted,item_id,recommend,sentiment_analysis
+2015-12-07,409160,True,1
+2015-10-18,72850,True,1
+2012-07-15,207610,True,2
+2011-12-28,15700,True,2

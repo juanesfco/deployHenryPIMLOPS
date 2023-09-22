@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-04,264200,True,bagus ni game
-2014-12-07,294160,True,terbaiikk
-2014-02-06,230410,True,bagus bah
-2014-02-03,208090,True,bagus bah
+posted,item_id,recommend,sentiment_analysis
+2014-03-04,264200,True,0
+2014-12-07,294160,True,2
+2014-02-06,230410,True,2
+2014-02-03,208090,True,2

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-10-26,107410,True,"Audio e Jogabilidade incrivel, um simulador de guerra TOP, diferente de todos os outros FPS."
-2016-01-10,218230,True,"Certamente recomendo este game! Tal game me fez arrepiar quando eu estava nas batalhas, com mil e um players, atirando, usando veículos, explodindo inimigos, veículos, torres, etc. Não tenho palavras para este jogo, meu comentario está muito ''cru'' para o mesmo, porém creio que se você(s) que esta(ão) lendo o meu comentário, baixar este jogo que eu admito com toda a sinceridade que é MARAVILHOSO, terão uma jornada incrível e inesquecivel, como eu tive, e a NUNCA mais esquecerei. Obrigado pela atenção, e bom jogo!-dica: Escolha os vanus, e faça-os ganhar, honre-os, até mesmo com sua própria vida(virtual)."
-2016-01-03,206500,True,"Certamente este jogo é íncrivel, pois pode fazer váriadas coisas, além de haver aquele spam de tiro e explosões pelo mapa. Recomendo muito,  e você pode comprar muitas coisas só com o dinheiro ganhados em partidas e missões"
-2016-01-01,270630,True,"Nossa jogo íncrivel, da pra você entrar em várias coisas e é muito divertido. Morri de rir vendo as pessoas correndo e o fantasma interagindo nos objetos :)"
-2015-10-02,398710,True,"It's really a good game, worth to be bought :)"
-2014-11-26,96100,True,Bacaninha :D
-2014-07-13,304930,True,"Jogo hiper,super,mega,blasto BOM !!!!!"
-2013-12-02,570,True,"MOBA exelente *-*,vicia muito e é muito com petitivo."
+posted,item_id,recommend,sentiment_analysis
+2014-10-26,107410,True,2
+2016-01-10,218230,True,0
+2016-01-03,206500,True,2
+2016-01-01,270630,True,2
+2015-10-02,398710,True,2
+2014-11-26,96100,True,2
+2014-07-13,304930,True,1
+2013-12-02,570,True,2

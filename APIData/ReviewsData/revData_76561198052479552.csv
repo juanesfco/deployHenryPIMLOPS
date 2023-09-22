@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-11-30,271590,True,"Jogo com gráficos,campanha,jogabilidade muito boas. PvP,zueiras,golpes,missões,corridas,mata-matas,etc.Isso é a diversão do jogo,já que ele tem muitas possibilidades,como comprar armas,apartamentos,carros,tunar os carros,etc.O online desse jogo é um pouco  bugado,pois vc fica as vezes caindo da sessão,as vezes a sessão começa a lagar sem ser a sua net,deveriam melhorar um pouco,mas como nem tudo é perfeito,o jogo fica sendo ridiculamente fantástico,garantiu muito tempo de minha diversão."
-2016-09-09,407530,True,"Jogo muito bom,veio de uma empresa pequena,um pouco mal otimizado,nenhum erro para entrar no meu jogo,jogos vorazes intenso,vc nunca sabe oq vai acontecer,se de repente vai aparecer um rex do seu lado ou um player ou nada,muito bom,é gratis recomendo."
-2015-11-30,252490,True,"Jogo muito bom,vale a pena comprar.Jogo de intenso PvP com uma jogabilidade ótima.Jogo de várias possibilidades,fazer c4,fazer casa e proteger com muro e barricadas,botar traps,etc.O jogo está em desenvolvimento,mas vale a pena cada centavo,dependendo do gosto de cada pessoa.Gráficos bonitos.Com tudo isso,esse jogo não é um jogo muito jogado,muito assistido,não se procura por rust no youtube.Mas esse jogo merece a sua atenção,já que é um jogo fantástico."
-2015-06-25,346110,True,"Jogo sensasional,caso tenha um computador ou not que rode ele,vale a pena comprar.Jogo de dino,com uma diversidade de coisas a fazer,atualizações épicas e que nao demora para sair elas,pvp intenso e épico.Vale a pena comprar.Recomendo muito,muito mesmo"
-2015-02-28,730,True,"Jogo de fps excelente,minha opniao:melhor jogo de fps da atualidade :D"
-2014-12-05,242760,True,"Jogo dahora.Houve um acidente de um avião,você caiu em uma ilha,está perdido,seu filho(eu acho q é o filho dele)é pego pelos canibais,você terá q sobreviver em uma ilha de canibais mutantes e canibais,achar a outra ponta do avião(se é q ainda tem,a última vez q vi tava em uma caverna).Dentro desse jogo há um objetivo,achar todos os passageiros,são muitos,por isso é um jogo dahora,pois vc terá horas e horas de diversão de medo e uns sustos.Recomendo muito."
-2013-01-13,200210,True,"Jogo dahora.Quando você morre com 1 personagem ele reseta de nvl '-',mas é 1 jogo bem maneiro."
-2013-01-13,204360,True,"Jogo dahora de se jogar com seus amigos.Zerando o jogo vc desbloqueia o nvl mais dificil q é hard p kct em uma parte lah,mas é mt dahora esse game"
-2012-12-12,65800,True,"Jogo meio antigo pois ja existe o II,mas acho ele ainda assim bem dahora,me garantiu várias horas de diversão com meus amigos,recomendo ai a quem quiser :) ."
+posted,item_id,recommend,sentiment_analysis
+2015-11-30,271590,True,2
+2016-09-09,407530,True,1
+2015-11-30,252490,True,1
+2015-06-25,346110,True,2
+2015-02-28,730,True,2
+2014-12-05,242760,True,1
+2013-01-13,200210,True,1
+2013-01-13,204360,True,0
+2012-12-12,65800,True,2

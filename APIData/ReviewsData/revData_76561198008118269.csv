@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-11-30,250320,True,"TellTale does it again! The Wolf Among Us is a perfect blend of intriguing story telling and action. While the flaws are there, where some decisions add nothing to the game and multiple choices give the same result the feeling of these choices adds many different playthroughs just to see the reactions.Thumbs up, a must have for TellTale fans, fans of interesting stories and even fans of the comic it was based on 'Fables'."
-2013-11-30,212680,True,"This partial roguelike game is an interesting take on the genre. The feeling of commanding a crew and diverting power to different parts of the ship gives this game an awesome feature. Its challenging enough to be rewarding when you finally defeat that damned flagship.Thumbs up, a definite must have."
+posted,item_id,recommend,sentiment_analysis
+2013-11-30,250320,True,2
+2013-11-30,212680,True,2

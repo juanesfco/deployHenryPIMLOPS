@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-05,225540,True,"I took down a bridge with a cow, JC3, no need to explain."
-2016-03-19,437220,True,"Great game, not a lot of content so far and can get repetitive but still in early stages. :)"
-2014-08-09,227940,True,Very good game for a Free to Play Beta
+posted,item_id,recommend,sentiment_analysis
+2015-12-05,225540,True,0
+2016-03-19,437220,True,2
+2014-08-09,227940,True,2

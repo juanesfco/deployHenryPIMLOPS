@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-16,369200,True,Actually a decent small game without OP weapons(yet... combat arms :()Oh and they did amazingly well with the source material
-2015-05-10,295110,False,"remember when SOE was good? i know its only been like a year since theyve done anything good but the legacy will be missed, another company down  the hole :("
+posted,item_id,recommend,sentiment_analysis
+2015-12-16,369200,True,0
+2015-05-10,295110,False,1

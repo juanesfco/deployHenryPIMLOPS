@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-01,109600,True,hmm! ok
-2014-02-28,239220,True,legal
-2014-01-30,250740,True,hmmm
-2014-01-30,231060,True,legal
+posted,item_id,recommend,sentiment_analysis
+2014-03-01,109600,True,2
+2014-02-28,239220,True,2
+2014-01-30,250740,True,1
+2014-01-30,231060,True,2

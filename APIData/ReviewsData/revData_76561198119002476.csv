@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-27,270550,True,my friend bannd my other friend form game now he cant play game Rip kys kms
-2015-11-15,730,True,"this game is fun. but when you are playing with squeakers and they kick you for headshoting, then it is no fun"
+posted,item_id,recommend,sentiment_analysis
+2016-06-27,270550,True,0
+2015-11-15,730,True,1

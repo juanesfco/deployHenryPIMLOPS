@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-20,24240,True,"esta bien, solo que la variedad de armas y las misiones son escasas y repetitivas, pero es un buen juego para jugar con amigos negros que saben robar dinero en la vida real"
-2014-10-17,219640,True,esta riko
-2014-07-31,620,True,muy bueno
+posted,item_id,recommend,sentiment_analysis
+2014-10-20,24240,True,2
+2014-10-17,219640,True,2
+2014-07-31,620,True,2

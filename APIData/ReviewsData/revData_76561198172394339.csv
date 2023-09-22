@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-28,221100,True,Its a great game i love it and i have so much fun with my friends
-2016-06-04,346110,True,LOVE IT
-2015-04-05,264710,True,i love the game its really good
+posted,item_id,recommend,sentiment_analysis
+2015-02-28,221100,True,2
+2016-06-04,346110,True,2
+2015-04-05,264710,True,2

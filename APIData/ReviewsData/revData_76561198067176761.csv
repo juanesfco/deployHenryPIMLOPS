@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-01,235600,True,This game is awesome but I think it would much better if you made this a MAC game
-2014-12-24,208090,True,PLEASE MAKE THIS A MAC GAME!!!
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,235600,True,2
+2014-12-24,208090,True,0

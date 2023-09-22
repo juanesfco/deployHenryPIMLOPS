@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-08,44320,False,Can't save my game progress due to Games For Windows Live being a broken buggy piece of carp.The GFWL service doesn't work with my Windows 7 configuration.Can't even play the game without having to enable the Windows Update service.Waste of money - GFWL DRM is even worse than Ubisoft's UPlay.
-2013-10-25,238960,True,"Diablo 2.9 +10 of original awesomeness and an AOE of 3.6 ♥♥♥-kicking baddestness per enemy per second. Flawless mechanics, skills, itemisation. This is A-RPG done right. Download and share it around, game-folder can be copy-pasted, accounts are Free. Runs on old intel integrated chips (Intel GMA4500 MHD - laptop) quite well. It's the 9th Most Played Game on Steam at the moment ... why? Because +5 Awesomeness of dynamic content-placement algorithms make your bearded Templar's improved silicon nipples into seamless distributors of loot-dropping gnarliness, that's why!"
+posted,item_id,recommend,sentiment_analysis
+2014-09-08,44320,False,0
+2013-10-25,238960,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-10-14,17080,True,"Great FPS, very unique and like no other. Definitely recommend giving this game a try, especially since its F2P."
-2015-09-28,218230,True,"An experience like no other...Huge battles over 4 large continents with 100s of players at once. Developers are getting back on track releasing new content and patches monthly. Definitely recommend trying this game since it's F2P, but be warned it does take some time to get used to and will leave you raging most of the time. I advise you watch some Youtube tutorals, Wrel has a good channel and will give you an in depth explanation of many aspects within the game. As long as you are patient and willing to die a lot, you will have a great time."
-2015-02-22,440,True,"Great free game to chew up some free time, never gets old."
-2015-02-15,730,True,"One of the best FPS games out there. For the very low price, I recommend you buy this game... as long as you have some patience, since it has quite a high learning curve."
-2015-02-15,49520,True,Absolutely amazing game. Very humourous and action packed with good replayability which will provide  countless hours of fun and is also great to play with friends. This game is a must have for everyone!
-2015-02-07,6860,True,"Very unique game, requires alot of patience and knowledge to pass a level. Only buy this game over Hitman: Absolution if you want a more realistic experience."
+posted,item_id,recommend,sentiment_analysis
+2015-10-14,17080,True,2
+2015-09-28,218230,True,2
+2015-02-22,440,True,2
+2015-02-15,730,True,2
+2015-02-15,49520,True,2
+2015-02-07,6860,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-30,351040,True,"Jogo divertido e com um belo visual, lembra Pokémon com seus duelos e capturas de criaturas."
-2014-05-26,250600,True,Jogo muito bonito e com uma ótima trilha sonora.
+posted,item_id,recommend,sentiment_analysis
+2015-05-30,351040,True,2
+2014-05-26,250600,True,2

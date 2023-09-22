@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-11-23,271590,True,911/10 every lobby has modders who kill everyone and then kick everyone
-2015-01-28,620,True,ONE OF THE BEST GAMES I HAVE EVER PLAYED! I HAVE PLAYED THE SINGLE PLAYER CAMPAIGN OVER 10 TIMES NOW AND I AM STILL LOVING IT!!!!
-2014-12-05,240,True,so old but so good 10/10
-2014-01-21,209160,False,One of the worst games i have very played this game is absolute crap!
-2014-08-22,49520,True,looks awesome
-2016-04-09,311210,True,It's the year 2065.... where you can slide up stairs Kim Kardashians ♥♥♥/911
+posted,item_id,recommend,sentiment_analysis
+2015-11-23,271590,True,1
+2015-01-28,620,True,2
+2014-12-05,240,True,2
+2014-01-21,209160,False,0
+2014-08-22,49520,True,2
+2016-04-09,311210,True,1

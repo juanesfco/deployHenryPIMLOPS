@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-06-22,65800,True,Epic :D The best defense game
-2015-06-21,620,True,Awesome ^^
-2015-05-28,207140,True,Beaty game but you rage a lot xD
-2015-04-14,70000,True,Good :D
-2015-04-01,216110,True,Bom jogo pode ser muito pouco adequirido mas é bacanito!
-2013-12-28,252490,True,OP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2015-03-22,291480,False,This game needs quality! Thats not what it is. This is junk sry :
-2016-08-01,359550,True,Epic! BUT REALLY ♥♥♥♥ING HARD...and raggy...and bugged
+posted,item_id,recommend,sentiment_analysis
+2015-06-22,65800,True,2
+2015-06-21,620,True,2
+2015-05-28,207140,True,0
+2015-04-14,70000,True,2
+2015-04-01,216110,True,2
+2013-12-28,252490,True,1
+2015-03-22,291480,False,0
+2016-08-01,359550,True,2

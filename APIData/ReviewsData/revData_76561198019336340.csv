@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-10,255420,True,"Love this game, dont have any problems and it fun, easy to use and i do recomend it to anyone that likes MTG"
-2016-02-26,104200,False,"Admittly the game runs very smooth, but the trageting system or auto whatever it is, sucks, slows down to much, and a pain in the ♥♥♥ when you want to get away from then by jumping and having to uyse anti-grave when it is locked on.needs options in the game like sound volume, i found it very loud and annoying.Game is very much based on kids and first time playing a game but to me it is to simple, and tires to hard to baby step you in the right way.over all not a terrible game, well done, but i couldnt enjoy it to much"
+posted,item_id,recommend,sentiment_analysis
+2014-11-10,255420,True,2
+2016-02-26,104200,False,1

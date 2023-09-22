@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-12,570,True,"Dota 2 es un juego revolucionario, nunca se pone aburrido y su swagg me da mucho placer.El mejor juego cooperativo y estrategico DON'T PICK SPIRIT BRAKERNecesita mucha dedicación ^^ (y paciencia)Pruebalooo asdsagfdag >:O pls"
-2013-12-24,440,True,"lo recomiendo mucho, ahora dame tus laiks >:3"
+posted,item_id,recommend,sentiment_analysis
+2014-02-12,570,True,1
+2013-12-24,440,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-23,212180,False,it sucks balls on steam
-2015-05-30,340350,False,its ♥♥♥♥
-2015-06-07,333930,False,I CANT ♥♥♥♥ING LOAD IN
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,212180,False,0
+2015-05-30,340350,False,1
+2015-06-07,333930,False,1

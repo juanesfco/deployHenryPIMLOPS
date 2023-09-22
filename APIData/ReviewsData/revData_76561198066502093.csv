@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-10-18,105450,True,amazing
-2015-01-14,289650,False,"Gameplay launch issues but good storyline, and horrible PC play"
-2016-01-21,289130,True,gg no re is gr8
-2013-12-15,216150,True,awesome
-2016-02-05,301520,False,Was Great GameNow Is BadVolvo plz fix
-2014-08-02,221380,True,HECK YEA AWESOME STRATEGIES
-2014-05-10,219830,True,lots of love
+posted,item_id,recommend,sentiment_analysis
+2014-10-18,105450,True,2
+2015-01-14,289650,False,0
+2016-01-21,289130,True,1
+2013-12-15,216150,True,2
+2016-02-05,301520,False,2
+2014-08-02,221380,True,2
+2014-05-10,219830,True,2

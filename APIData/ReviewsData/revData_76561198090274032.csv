@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-18,730,True,"This game is amazing, really good grapgics and even the lowest of the low comps and laptops can run it, a very smple game for the passionate."
-2016-02-13,301520,True,"i dont ever want this game to be a finished game, love most of the updates they have xD"
+posted,item_id,recommend,sentiment_analysis
+2015-11-18,730,True,1
+2016-02-13,301520,True,1

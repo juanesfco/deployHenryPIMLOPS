@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-25,313120,True,10/10 first time playing i was swimming in the sky and then a shark went on my life raft and killed me
-2013-12-27,440,True, never had a girlfriend because of this game. 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-01-25,313120,True,1
+2013-12-27,440,True,0

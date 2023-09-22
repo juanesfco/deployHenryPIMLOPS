@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-22,214420,False,se so joga se paga sendo que o jogo e free '-
-2015-10-17,105600,True,loko
-2013-02-15,440,True,♥♥♥♥ pra ♥♥♥♥♥♥♥
-2013-01-24,200210,True,muito ♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2015-12-22,214420,False,2
+2015-10-17,105600,True,1
+2013-02-15,440,True,1
+2013-01-24,200210,True,2

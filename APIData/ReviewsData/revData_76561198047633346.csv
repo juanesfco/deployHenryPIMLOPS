@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-28,1250,True,"Killing Floor seems to be in a style that isn't seen to often in the gaming industry, as a true Survival Horror co-op game. Unlike other sorts of these games, such as Left 4 Dead for instance, this game does not follow as storyline at all. You spawn into the level, and you either survive or die. 6 different classes to experiment with: Sharpshooter, Support, Berserker, Demolition, Firebug and Medic, means you'll definitely find your preferred play style A great game, constantly being updated by its developers, (it does seasonal cosmetic changes in game, which are always fun), made even more enjoyable when played with friends."
-2016-04-28,374320,True,pretty guud
-2016-04-28,211420,True,heeey
-2015-11-13,349700,True,"Thanks to this game, I got leukemia quicker than ever!"
-2016-04-28,236430,True,that's
-2016-04-30,375510,True,This game appeared randomly in my Steam libraryNever before have I wanted to kill myself because of a game9/10 its an good
+posted,item_id,recommend,sentiment_analysis
+2013-12-28,1250,True,1
+2016-04-28,374320,True,2
+2016-04-28,211420,True,1
+2015-11-13,349700,True,0
+2016-04-28,236430,True,1
+2016-04-30,375510,True,1

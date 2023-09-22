@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-09,2280,True,"THIS GAME IS A CLASSIC, END OF STORY!THE SECOND OF ITS KIND, FPS WISEID SOFTWARE AND JOHN ROMERO WORKED ON THIS PRODGECT, SO YOU KNOW ITS GOOD!"
-2016-01-25,206420,True,"I haven't played any of the other Saints Row games, but I got this one because of Angry Joe's review, I thought this was the type of game to just do whatever you wanted to do in it, and I was right! You can do (almost) anything you ever wanted to do in GTA, but with super powers, who can go wrong with that?!"
+posted,item_id,recommend,sentiment_analysis
+2014-01-09,2280,True,2
+2016-01-25,206420,True,0

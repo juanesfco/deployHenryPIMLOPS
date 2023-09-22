@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-14,253710,False,"it's a ♥♥♥♥en ♥♥♥♥ game, don't bother"
-2014-07-16,70,True,"While the graphics may seem dated (the game came out in 1998), Half-Life is a very fun and intense game filled with action, mystery and scares.If you like to run-and-gun or if you're more of a relaxed player, Half-Life is a great game for anyone.Half-Life: Game of the Year, 1998"
+posted,item_id,recommend,sentiment_analysis
+2015-02-14,253710,False,0
+2014-07-16,70,True,1

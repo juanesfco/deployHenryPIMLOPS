@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-26,306460,True,Awesome if you want new faces and hairdos and you don't spawn naked
-2015-06-13,304930,True,Bloody Awesome
+posted,item_id,recommend,sentiment_analysis
+2014-10-26,306460,True,2
+2015-06-13,304930,True,1

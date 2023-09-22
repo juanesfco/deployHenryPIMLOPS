@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-16,239160,False,"Oh my god, bored to death with this game. Gave it a good chance, but story is bland to say the least, loading screens every 2 min, getting into house is a nightmare with E button smashing on every window, come on developers, you gotta be sane making games, at least listen to fans of the series.  I am running back and forth in the same locations trying to hide from the same generic guards (mind you killing them and leaving the area makes them respawn). Then I just decide to run past them as I cant be bothered at this point, so he gets his weapon, swings and hits me from 10 meters away, how???? I am already 3 houses away from the guard at this point. Arghh, game is utter frustration. Only good thing is the graphics"
-2015-08-11,319630,False,"even with the choices the game presents, I find this game really boring. Maybe I am just too old for the chick flicks. If you like little teens whining and crying, the game is for you. Otherwise don't buy"
-2016-01-16,205100,True,Buy It Girls
+posted,item_id,recommend,sentiment_analysis
+2016-01-16,239160,False,1
+2015-08-11,319630,False,0
+2016-01-16,205100,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-22,221910,True,Seus atos influenciam de verdade no seu futuro. Não existem objetivos definidos. Você pode jogar junto com o narrador ou contra ele. Recomendo MUITO.
-2014-02-06,211820,True,"Game excelente. A proposta não é inovadora, basicamente pega o estilo de exploração do Terraria e o expande para um universo inteiro, com cada planeta e cada detalhe dele sendo gerado aleatoriamente, em todos os sentidos. Sou um fã incondicional de Terraria, mas reconheço que Starbound está ficando melhor do que sua própria inspiração."
-2013-11-21,105600,True,"O jogo é excelente. No começo, você acaba achando que a versão 2D de Minecraft, mas conforme você for avançando, perceberá que estava errado. A proposta de exploração é incrivelmente inovadora, já que existem centenas de itens para se equipar e usar. Centenas de monstros e dezenas de bosses para enfrentar. E como todo jogo, ainda pode melhorar com o Multiplayer."
+posted,item_id,recommend,sentiment_analysis
+2013-12-22,221910,True,1
+2014-02-06,211820,True,0
+2013-11-21,105600,True,1

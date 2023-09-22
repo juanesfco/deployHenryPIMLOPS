@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-23,91310,True,would drive on trees 11/10
-2014-10-06,282440,True,"This game is soo much fun, im terrible at the game im playing with bots on my difficulty and im still having fun, there just needs to be more players to have for the severs :("
-2014-08-11,244850,False,built a space ship... couldnt find it
-2014-07-10,440,True,"this game is fun, if you have no 'skills' its still funny and it can be challenging but using team skills will help you"
+posted,item_id,recommend,sentiment_analysis
+2015-02-23,91310,True,1
+2014-10-06,282440,True,0
+2014-08-11,244850,False,1
+2014-07-10,440,True,2

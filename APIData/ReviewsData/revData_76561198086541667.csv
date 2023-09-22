@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-06,230410,True,its ok 10/10
-2014-05-03,221100,True,A game where players trying to be reasonable end up dead
+posted,item_id,recommend,sentiment_analysis
+2014-12-06,230410,True,2
+2014-05-03,221100,True,0

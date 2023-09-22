@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-08-02,440,True,"Esse é o jogo, um jogo melhor que todos os FPS. Este jogo é muito recomendado por mim, um dos melhores jogos de genero FPS que joguei na minha vida. Se você é um adorador de gráficos e acha que o jogo é um lixo, morde sua lingua, os gráficos cartoonizados é a principal diferença, e as classes, os personagens, nossa, são muito carismaticos.Aprovo muito esse jogo, que mesmo sendo dificil, me cativou com facilidade! :)"
-2015-01-11,4000,True,"Esse jogo não é só um jogo, pode ser vários jogos em um programa só(com a ajuda da workshop), quando eu vi que esse jogo era um mod de half-life 2, eu fiquei triste pois nõ tinha, mas ai que eu fiquei feliz, era um mod que não precisava do half life 2,e quando eu comprei, não me arependi, vale muito apena quem quer zoar no crontruction. :D"
+posted,item_id,recommend,sentiment_analysis
+2015-08-02,440,True,2
+2015-01-11,4000,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-09,318530,True,"WARNING: This game is hard, you will die. This fate is unadvoidable. But dont give up, this game is also really fun.I highly recommend it to anyone that likes a challenging side scroller. Its worth every cent."
-2013-12-29,35720,True,Trine 2 is a great game. And the soundtrack awesome. The environment is beautiful and full of colour. Well worth getting!
+posted,item_id,recommend,sentiment_analysis
+2014-12-09,318530,True,1
+2013-12-29,35720,True,2

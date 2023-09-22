@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-08-29,271590,True,It Very Funny Game When You Play With Your Friend !!
-2016-09-02,238090,True,It okay better than sniper elite 2 for story but co-op mode sniper elite is better.
-2016-09-10,449800,True,"This game is the best anime,action for me 9/10.Because i dont like soundtrack (soundtrack anime is better than this game)"
-2016-09-02,433530,False,Dont Buy This ♥♥♥♥ing ♥♥♥♥ Sever This Game For Found Player
-2016-09-02,360940,False,It bad game for me lag and bad gameplay for this price !!
-2016-09-02,402630,True,I very love this game because have a good story and good gameplay for 2d !!!
-2016-09-02,252950,True,It Very Good Game For People Love Football or Race But It Okay For Everyone !!!
-2016-08-26,438270,True,Best Game learning  for me.If you want to learning Japanese language you should 'buy this game now'.
-2016-06-04,222880,True,"******เกมดีบอกต่อ*******************************ใครที่ชอบแนว สงคราม,เล่นเป็นทีม,เล่นหลายคน,สมจริง เกมส์นี้เป็นตัวเลือกที่ดี------ข้อดี-------กราฟฟิกค่อนข้างโอเคไม่แย่มาก 8/10-การเล่น CO-OP เน้นเล่นกันเป็นทีมมาก 9/10-การเล่นหลายคนยังไม่ค่อยเน้นเล่นทีมสักเท่าไหร่ 7.5/10-ระบบปืนและหน่วยแต่ล่ะหน่วยเยอะกำลังดี 8.5/10-ระบบการเล่นไม่ว่าจะการวิ่ง,เดิน,หมอบ,โยกหัว 8/10-เรื่องราคาผมซื้อมาตอนลด 50 บาท 10/10------ข้อเสีย-------ไม่มีรถถังหรือพวกเครื่องบิน-ตอนเล่นแรกๆระบบจะงงนิดหน่อย-การเดินบ้างครั้งยังยุ่งยาก******คะแนนโดยรวม 9/10**************************************(แนะนำให้ซื้อตอนลดน่ะครับเพราะเกมนี้ลดแล้วถูกมาก)"
+posted,item_id,recommend,sentiment_analysis
+2016-08-29,271590,True,0
+2016-09-02,238090,True,2
+2016-09-10,449800,True,2
+2016-09-02,433530,False,0
+2016-09-02,360940,False,0
+2016-09-02,402630,True,2
+2016-09-02,252950,True,2
+2016-08-26,438270,True,1
+2016-06-04,222880,True,2

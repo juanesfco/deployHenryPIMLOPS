@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-09,730,True,"Love this game, if you like Call of Duty or Battlefield you will love this game!10/10"
-2014-07-02,218620,True,"PayDay 2 is a great action packed game, it has provided me with so many hours of fun!10/10"
-2014-07-27,224260,True,Awesome!loved it -10/10
+posted,item_id,recommend,sentiment_analysis
+2014-09-09,730,True,2
+2014-07-02,218620,True,2
+2014-07-27,224260,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-19,253030,True,A great arcade style game with decent replay value. The level/challenge system is good fun.
-2013-11-30,219890,True,"excellently challenging. Best puzzle game since Portal, though much more rewarding."
+posted,item_id,recommend,sentiment_analysis
+2014-02-19,253030,True,2
+2013-11-30,219890,True,2

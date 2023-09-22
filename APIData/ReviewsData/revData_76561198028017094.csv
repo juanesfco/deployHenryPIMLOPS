@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-02-24,107100,True,bastions one of the best games iv ever played
-2013-06-24,570,True,"this game is your substitiute for any real moba, it is good if your looking for a bit of old school 3 person pvp fun."
-2012-04-29,440,True,"Realy fun,great online gameplay and awsome animations. 9/10"
-2012-04-29,99900,True,this is an epic game with great animations.  7/10
+posted,item_id,recommend,sentiment_analysis
+2012-02-24,107100,True,2
+2013-06-24,570,True,2
+2012-04-29,440,True,1
+2012-04-29,99900,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-21,274190,True,"This game is completely awesome and considering it is  a work-in-progress sort of game, it is probably the fastest most exciting pixel game on steam"
-2013-11-25,230410,True,THIS IS LIKE THE BEST GAME EVER MADE!!!
+posted,item_id,recommend,sentiment_analysis
+2014-04-21,274190,True,1
+2013-11-25,230410,True,2

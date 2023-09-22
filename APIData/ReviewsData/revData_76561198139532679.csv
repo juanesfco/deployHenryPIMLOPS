@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-03-25,244930,True,"It's pretty good, but hard to level."
+posted,item_id,recommend,sentiment_analysis
+2016-03-25,244930,True,2

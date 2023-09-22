@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-29,440,True,"This is a great game made by Valve that was released 7 years ago and is still kicking, its a great alternative to other FPS's"
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,440,True,2

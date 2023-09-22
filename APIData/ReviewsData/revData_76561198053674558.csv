@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-10,204300,False,"XP system is a bad idea. so bad. Somehow everyone seems to be saying this, but the developer doesn't wanna fix this?"
-2015-11-08,221380,False,The multiplayer mode tends to drop players and the saved games for multiplayer do not load as well.
-2015-12-31,8930,True,that next turn button...
-2015-11-29,218620,True,"Must be played in groups of 4, 2 or 3 just makes it much much harder"
-2015-12-26,206420,True,"HILARIOUS, ridiculous from the start!"
-2015-12-06,322330,True,"Really good fun with a group of friends! There's so many things to be done, it's not too easy. I didn't know job specialization could feel so fulfilling."
+posted,item_id,recommend,sentiment_analysis
+2016-01-10,204300,False,0
+2015-11-08,221380,False,1
+2015-12-31,8930,True,1
+2015-11-29,218620,True,1
+2015-12-26,206420,True,1
+2015-12-06,322330,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-04,300080,False,I liked it but than came alone all of the disconections :(
-2015-04-11,265930,True,SO F------- FUN I CAN't GET ENOUGH OF IT HAHAHA
-2014-08-12,730,True,1 word AWESOME!
-2014-06-09,240,True,Awesome :D
+posted,item_id,recommend,sentiment_analysis
+2015-11-04,300080,False,1
+2015-04-11,265930,True,2
+2014-08-12,730,True,2
+2014-06-09,240,True,2

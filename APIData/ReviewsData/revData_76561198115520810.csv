@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-31,440,True,"para zuar no tf2,bote sv_cheats 1,addcond 11,addcond 5,addcond 72,addcond 74,addcond 75,addcond 64                                                                                                                                            Nota:ative o console do desenvolvedor para botar esses cheats,se um medic te curar alguns dos efeitos vao ficar desativados e vc tem que ativar denovo,so funciona no modo offline ou vc criando um server,alguns cheats fazem seu fps ir pro 0 (fechar sozinho)Exemplo:addcond 1,addcond 55 e outros.                                                             Zoem bonkeiros :)"
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,440,True,2

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-02,440,True,"Great game, requires immense skill to be good at it."
+posted,item_id,recommend,sentiment_analysis
+2014-06-02,440,True,2

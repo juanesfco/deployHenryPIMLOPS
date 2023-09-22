@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-06-25,72850,True,"The only Game that you killed a Farm Chicken then a whole castle of Guards get you, Best Game Ever~"
-2014-03-31,570,True,"Buy starting items, Stick in line, Get the last hit from Creeps and earn money, upgrade Items, get ready to Fight~"
-2013-02-16,440,True,Good and Fun game~It's all about Hats in here~
-2016-09-11,49520,True,'Butt Stallion'
-2013-02-17,550,True,Have I ever told you about buddy Keith and I shoot each other In this game~?*Love Ellis*
-2014-07-09,4000,True,Gravity is Evil~10/10
-2014-06-30,238460,True,"A Game that can be Bully, Help or Have Fun with your Friends~Best Game Ever~"
-2013-07-19,213650,True,For Killing Floor Axe~ :|
+posted,item_id,recommend,sentiment_analysis
+2014-06-25,72850,True,1
+2014-03-31,570,True,1
+2013-02-16,440,True,2
+2016-09-11,49520,True,1
+2013-02-17,550,True,0
+2014-07-09,4000,True,1
+2014-06-30,238460,True,0
+2013-07-19,213650,True,1

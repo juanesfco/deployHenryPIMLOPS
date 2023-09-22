@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-21,440,True,Best Free FPS game ever
-2014-09-12,268420,True,Best MMORPG from X-LEGEND & Aeria Games
-2015-11-11,206500,True,The Best F2P Game
+posted,item_id,recommend,sentiment_analysis
+2014-09-21,440,True,2
+2014-09-12,268420,True,2
+2015-11-11,206500,True,2

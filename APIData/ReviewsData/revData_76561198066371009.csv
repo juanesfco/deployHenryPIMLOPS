@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-12,286100,False,"You Have to Win The Game is (in my case) a very boring game. As they say, the first five minutes of a game can make or break it. In this case, it broke it. The VERY simple 'tune' at the start kind of hurts, & after that, HAS NO MUSIC!!!!!! The game is also boring. 1.5/10"
-2014-06-22,219890,True,"It's a GREAT brain-twisting puzzle game. What ever you do, DON'T USE A WALKTHROUGH!!!!!!!!!! It's probably just me, but I got from start to finish in less than 24 hours. 8.5/10."
-2014-06-13,221640,True,"When you complete this game, you fell ON TOP OF THE WORLD! This is a masterpeice of perfection. Almost, perfection. The whole really is a seris of patterns repeated in a random order. One thing I like was when the central hexagon turned into a pentagon or even a square. But that feature's not used alot, so that was a bit sad, but I can see it was just to add variety to the first/ fourth stage of the game.Overall, my FINAL rating for this game is a 9/10. Something just didn't seem right & for playing for a long time (not over an hour), my forth finger start to hurt a bit. But should you buy this game? YES!!! Is it worth $2.99? DEFINATELY!!!! So, all in all, get this game if you like fast-paced minimalist fast-paced hexagon-based arcade action! But don't if you have strange reactions to flashing lights or anything like that.9/10 would make a hexaflexagon again.Yep, another ?/10 would ? again joke."
-2014-01-12,221910,True,"This game is a very great one with more endings than the origanal, this game is a awesome 10/10P.S. My favourite ending is the confusion"
+posted,item_id,recommend,sentiment_analysis
+2014-10-12,286100,False,0
+2014-06-22,219890,True,0
+2014-06-13,221640,True,1
+2014-01-12,221910,True,2

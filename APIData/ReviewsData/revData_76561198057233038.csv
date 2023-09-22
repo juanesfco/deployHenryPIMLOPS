@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-07-22,570,True,- deep mechanics- variety- addictiveruined my life
-2015-11-27,221100,False,what a dump
-2015-10-12,204300,True,side screen league of legends with bubbles
-2015-10-12,42910,True,fun invoker practice minigame
-2015-10-29,218230,True,got banned for making my own map
-2015-10-12,730,True,"brilliant game, perfect shooting mechanics that any call of duty franchise player will hate"
+posted,item_id,recommend,sentiment_analysis
+2015-07-22,570,True,1
+2015-11-27,221100,False,1
+2015-10-12,204300,True,1
+2015-10-12,42910,True,2
+2015-10-29,218230,True,2
+2015-10-12,730,True,2

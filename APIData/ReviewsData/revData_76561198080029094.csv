@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-05,346110,True,i think this is one of the best games out at the moment and all my friends that i play it with have a blast.i think people should try this game.it can be boring when you are by yourself.
-2015-08-05,304050,True,"Great Game, really fun."
-2014-09-03,4000,True,"this is a great game i really enjoy it, i normaly play snadbox and build advanced things i really recomed this if you like building"
+posted,item_id,recommend,sentiment_analysis
+2015-08-05,346110,True,1
+2015-08-05,304050,True,2
+2014-09-03,4000,True,2

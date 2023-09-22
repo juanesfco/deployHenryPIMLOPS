@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-18,208090,True,Awesome customization!
-2014-08-11,730,True,AWESOME GAME!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-10-18,208090,True,2
+2014-08-11,730,True,1

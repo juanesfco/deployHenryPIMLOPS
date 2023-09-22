@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-08,220200,True,This was the best game i have ever bought for under $30
-2016-01-14,317400,True,"It's great,hard and free"
+posted,item_id,recommend,sentiment_analysis
+2014-02-08,220200,True,2
+2016-01-14,317400,True,2

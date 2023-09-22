@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-24,10500,True,"Best Total War game, in my opinion. Huge improvement in graphics from Med 2; addictive, satisfying gameplay; and no chars on multiplayer. All you could ask for."
-2015-11-22,440,True,Most FPSs have armor and weapons you can buy. TF2 has hats. And fish.
-2015-11-21,8190,True,"What can I say about Just Cause 2to do it justice? Absolutely nothing. It is literally everything an open-world should be. Yeah, maybe the GTAs have had more sales, but this will always be the best carjacking open-world game. It combines all the gripping gameplay of GTA, with a far more gripping and compelling storyline. And grappling hook. That thing can do anything."
+posted,item_id,recommend,sentiment_analysis
+2015-11-24,10500,True,2
+2015-11-22,440,True,2
+2015-11-21,8190,True,2

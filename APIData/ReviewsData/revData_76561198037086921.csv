@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-22,368230,True,Kingdom is a racially inclined defense game in which you build a village of white males to stop black males from stealing your sh*t.9/10 would play again.
-2014-01-01,252490,True,"Highly fun, can easily lose track of time while playing."
-2015-02-14,261030,True,As a sequel this did not disappoint.Feels were felt.9.5/10.
+posted,item_id,recommend,sentiment_analysis
+2015-10-22,368230,True,0
+2014-01-01,252490,True,2
+2015-02-14,261030,True,1

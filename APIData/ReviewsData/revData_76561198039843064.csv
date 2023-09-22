@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-05-14,247910,True,"The best zombies game there is, Call of Duty ain't got sh*t on this"
-2014-04-07,206210,True,Team Fortress 2 went to bed with DC Comics and THIS came out
-2014-03-08,270210,True,How to play this game:1. Load game2. Select song from Computer3. MASH THOSE F*CKING CONTROLS!!!!!!1!!ONE!!!!
-2014-03-03,205870,True,"I'm one for Orchestra Classics, This music game is B-E-A-UUUUUUTIFUL!"
-2014-02-04,39000,True,It's not gay if it's on the moon!
-2013-12-27,38720,True,"Brilliant Rubik puzzle game, totally worth getting!"
-2014-03-06,218980,True,"What if Minecraft had Structures, Triangles and Shapes? And what if it was in 3rd person? This game is that game, and I love it!"
-2015-02-10,273350,True,You can eat alien poop11/10
-2014-03-03,221640,True,'Ok let's play the easiest level'*level starts*'*mashing left and right arrows* ♥♥♥♥♥hit♥♥♥♥♥hit♥♥♥♥♥hit'
+posted,item_id,recommend,sentiment_analysis
+2014-05-14,247910,True,2
+2014-04-07,206210,True,1
+2014-03-08,270210,True,0
+2014-03-03,205870,True,0
+2014-02-04,39000,True,0
+2013-12-27,38720,True,2
+2014-03-06,218980,True,1
+2015-02-10,273350,True,0
+2014-03-03,221640,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-03,440,True,very fun good game many game modes good community
-2015-07-03,730,True,I should have bought this game way long ago when it was released
-2015-06-16,204360,True,Awesome Fun Game!
+posted,item_id,recommend,sentiment_analysis
+2014-09-03,440,True,2
+2015-07-03,730,True,0
+2015-06-16,204360,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-04,72850,True,Best Game Ever!10/10 would bang!
-2014-06-09,242760,True,Found a tennis ball and threw it at a turtle!10/10
-2014-06-08,221100,True,omg
-2014-04-04,39210,True,"Final Fantasy XIV A Realm Reborn is a awesome game with beautiful and stunning Graphics, just beacause they failed to create this before dosn't mean the new one is going to bad! i recommend buying this game! Awesome Content, Dungeons, Guild hiests, and a  awesome Story line! explore a massive world with your friends. Grind against your buddys to get the best gear!Also if you get bored on your class you can choose another class or all of them and still keep your old class. theres all different type of skills like (Disciples of War: Archer, Gladiator, Lancer, Marauder, Puglist,) (disciples of Magic: Arcanist, Conjurer, Thaumaturage) (Disciples of Hand: Alchemist, Armorer, Blacksmith, Carpenter, culinarian, Goldsmith, Leather worker, Weaver,(Disciples Of Land: Fisherman, Botanist, Miner. So many to choose from. 10/10 Would Bang"
-2014-12-23,330830,True,So gooooooood
-2013-11-26,247730,True,Awesome Game!  fluid Combat! Cannot wait for the full release
+posted,item_id,recommend,sentiment_analysis
+2014-04-04,72850,True,2
+2014-06-09,242760,True,1
+2014-06-08,221100,True,1
+2014-04-04,39210,True,2
+2014-12-23,330830,True,1
+2013-11-26,247730,True,2

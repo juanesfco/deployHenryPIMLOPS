@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-04-11,374320,False,"2016 and still plagued with horrible optimizationAt 5 fps this game is literally unplayable1/10Edit: Banned out of nowhere with 0 explanation despite multiple tickets to BandaiNamco and looking like there's no answer back from them in sight. Don't waste your money, just torrent it."
-2016-03-29,395238,True,THIS MORTAR IS THE BEST TOOL FOR RAINING DEMOCRACY ON THESE ALIEN SCUM
-2014-12-05,332070,True,This game gave me a brain aneurism- 10/10
-2016-08-12,275850,False,I think this universe simulator starts you next to your crashed spaceship to remind you that it's actually a crashing simulator
-2016-02-28,730,True,Better online language reference than rosettastone.com10/10
-2016-01-28,427730,True,My favourite part about this game is where you can pretend to be Amanda Todd
-2016-07-14,384490,False,"Honestly all I can say is it doesn't feel like a souls game in the slightest, the ridiculous wait before you can even start to see the impact of unlocking new biomes is unbelievable, and the combat gets dry and stale within 20 minutes.On top of that, there's no key rebinding, and the developers have said they'll only make DLC if the game sells and performs well, and it'll be paid DLC. Honestly where it stands this game isn't even worth $20, let alone $30, and they still want to make the DLC paid accessI'm sorry but I just can't recommend this game in it's current stateIt's by all means not a bad game, it's just not worth $30 and I have severe concerns for it's future"
-2015-11-01,290140,False,Underage girl dressup simulator/10
-2016-03-06,449940,False,help me
-2015-11-29,387860,True,"Truly a heartwarming story about mystery, drama, and shrimp10/10"
+posted,item_id,recommend,sentiment_analysis
+2016-04-11,374320,False,0
+2016-03-29,395238,True,2
+2014-12-05,332070,True,0
+2016-08-12,275850,False,1
+2016-02-28,730,True,2
+2016-01-28,427730,True,0
+2016-07-14,384490,False,1
+2015-11-01,290140,False,1
+2016-03-06,449940,False,1
+2015-11-29,387860,True,1

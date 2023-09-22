@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-31,379980,True,Best birthday present I have gotten. Its no bad rats though.Arguably the best Tank dating simulator on the Market and It really shines In showing a Tanks real 'Personality'.11/10-Wish I could have paid $69 for this Double Dee Title
-2016-04-12,374320,True,THE LEGEND NEVER DIES
-2016-01-28,311310,True,BAOT!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2016-08-31,379980,True,2
+2016-04-12,374320,True,1
+2016-01-28,311310,True,1

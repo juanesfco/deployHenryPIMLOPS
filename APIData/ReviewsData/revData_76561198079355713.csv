@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-02-05,311210,False,"The game itself is average, it's just the people that play it are pure aidsThey've now decided to add skillbased match-making so i can no longer find a single match."
-2014-07-23,49520,True,Loads of fun. Very re-playable. Must have
-2013-12-17,261030,True,i can't wait for the rest!
-2014-01-15,49600,True,"It combines my 2 favourite things, music & video games, into one piece of epic."
-2013-11-25,209160,False,"Had high expectations for this game (multiplayer) after Bo2, extremely dissapointed. Unbalanced, lots of bullsh*t, so on and so forth. For anyone wanting a good multiplayer game i either reccomend CS:GO or BF4."
-2013-12-09,211820,False,"Pretty dull, this is in the first few hours played because i have no idea whether the rest of this game is good, as it doesnt even work. Then i hopped on after the update to see my save gone. It's a terraria rip off (different developer), and a ♥♥♥♥ one at that"
+posted,item_id,recommend,sentiment_analysis
+2016-02-05,311210,False,0
+2014-07-23,49520,True,2
+2013-12-17,261030,True,1
+2014-01-15,49600,True,1
+2013-11-25,209160,False,1
+2013-12-09,211820,False,1

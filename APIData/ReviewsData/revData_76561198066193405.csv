@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-04-15,570,True,"Smooth Ui, great gameplay and new innovative ideas, like couriers and player specific markets place this game a head above the rest in the MOBA genre"
-2013-08-12,209370,True,"A great, heartwarming story, and worth every cent. It's just so sad *sniff*."
-2012-11-14,17080,True,Quite good actually
+posted,item_id,recommend,sentiment_analysis
+2013-04-15,570,True,2
+2013-08-12,209370,True,2
+2012-11-14,17080,True,2

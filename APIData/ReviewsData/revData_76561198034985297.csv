@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-02-03,105600,True,plays with friend*finds chest*to share or not to share?not to share11/10
-2013-12-01,730,True,its good
-2015-02-03,50300,True,"'The truth, Walker, is that you're here because you wanted to feel like something you're not: A hero.' A game that allows complete freedom of choice but makes sure that by the end, you hate yourself as a human being :D11/10"
-2015-01-11,225260,True,jack black the game10/10
-2014-02-03,221640,True,"people say that this game is stupid and pointless...those people are godamn right. in saying that, the game is quite addictive"
-2013-12-26,109600,True,pretty good
-2013-12-01,48000,True,this game is good
+posted,item_id,recommend,sentiment_analysis
+2015-02-03,105600,True,1
+2013-12-01,730,True,2
+2015-02-03,50300,True,0
+2015-01-11,225260,True,0
+2014-02-03,221640,True,0
+2013-12-26,109600,True,2
+2013-12-01,48000,True,2

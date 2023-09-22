@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-01,113400,True,yum.
-2014-06-08,236390,True,"I recomend War Thunder. it is a prettey good game and it is really fun to play. it may be a bit hard at first, but it still doesn't turn you away from how EPIC this game is.AND IT IS FREE!10/10"
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,113400,True,1
+2014-06-08,236390,True,1

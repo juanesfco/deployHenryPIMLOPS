@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-11-30,12210,True,Incredible game. Best multiplayer mode.9/10
-2013-11-30,570,True,This game is the best game I've ever played! I play dota(warcraft) when I was young. Never getting bored because of update and fun gameplay. This game should be the game of the year 201310/10
-2013-11-30,4000,True,Fun to play. Increase creativity.9.5
-2013-11-30,219150,True,"Best gameplay, but i think this game should make an update for more mission. It kinda boring to play the same mission again n again.The soundtrack is annoying little bit.8.7"
-2013-11-30,9200,True,I love this game.. but I hate the checkpoint in this game...I need to manually save the game for the checkpoint. Interesting story though 8.0
+posted,item_id,recommend,sentiment_analysis
+2013-11-30,12210,True,2
+2013-11-30,570,True,1
+2013-11-30,4000,True,2
+2013-11-30,219150,True,0
+2013-11-30,9200,True,0

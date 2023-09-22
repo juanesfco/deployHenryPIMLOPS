@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-03,369580,True,Basically what happens if GTA V is created by the British
-2015-10-07,303210,True,This game. I have never played a game that made me this speechless before. Good job Coda.
-2014-03-26,49520,True,The game is superb. Thousands of guns to choose. JUST SHOOT TO KILL
-2014-03-26,4000,True,you can kill gman 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-07-03,369580,True,1
+2015-10-07,303210,True,1
+2014-03-26,49520,True,2
+2014-03-26,4000,True,1

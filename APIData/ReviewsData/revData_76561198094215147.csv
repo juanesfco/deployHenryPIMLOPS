@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-01-22,230090,True,"Rampage and heal, HEAL AND RAMPAGE!SWING THE AXE AND DRINK THE HEALTH!!"
-2016-01-22,218550,True,the bee today the bee tomorrow the bee foreverOK now and seriously good at dlc recommended for those who have finished the game or if you want to earn a little extra xp
-2015-09-24,275690,True,very sexy
-2015-01-22,49520,True,"best game I've ever played, krieg and a god"
-2015-01-02,238460,False,ele e legal mais ele levo muito a serio o fato dificil a partes que voce encalha e nao sai dali e nao do falando das faces normais do falando das faces de tempo voce fica no desespero pra sair dali e nao entende oque tem que fazer recomendo joga mais numa parte ou outra voce vai chora de raiva por nao saber oque fazer ou sabe oque fazer mais nao consegui
-2016-05-27,440,False,"um jogo bom, pena que agora 70% da comunidade e f2p.entra no sever.OKescolhe o time.OKescolhe a classe.OKdepois aperta tab 3 sniper 3 spy 3 scout, que uma variação heavy e um medicojogue por joga nao que voce va encontra um diversão aqui"
-2015-06-26,363970,True,"click click click UP,click click click UP,buy DPS,click click click UP."
-2013-12-08,224260,True,"muito bom pra jogar com amigos,pra o jogo vicar legal"
+posted,item_id,recommend,sentiment_analysis
+2016-01-22,230090,True,1
+2016-01-22,218550,True,1
+2015-09-24,275690,True,2
+2015-01-22,49520,True,2
+2015-01-02,238460,False,2
+2016-05-27,440,False,0
+2015-06-26,363970,True,1
+2013-12-08,224260,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-29,209080,False,"If you like the steampunk genre, this game is definitely for you! If you like waiting, dealing with the inadequacies of your teammates, a clunky interface, terrible customization options, AI that wanders around aimlessly, and matchmaking system that leaves random assignment to be desired, then this game is super definitely for you!!!"
-2014-07-03,274190,True,لعبة مناقز 8- بت تحشيشية ابطالها افلام الاكشن القديمة مثل رامبو وكوماندو وترمنيتر وداي هارد وغيرهم ، كل شخصية لها اسلحة خاصة فيه
-2014-06-27,272060,True,"No, it wasn't the lamp."
-2014-03-02,240,True,this game is better than swanking
-2014-02-25,239820,True,"Anytime I get bored I just play this game. Simple graphics, a lot of options how to improve development of games and different stages when you progress through story. Later you will unlock more detailed options like Research development lab, technological lab to create own consoles, better quality games, different topics and genres, you have to watch over every detail to make a successful game. 10/10 it's the funerest game ever"
-2014-02-19,4000,True,"Garry's Mod is a very good game. Consisting of lots of fun things to do with such a big variety of gamemodes. If you want a game to play that is very entertaining, get this. 10/10."
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,209080,False,0
+2014-07-03,274190,True,1
+2014-06-27,272060,True,1
+2014-03-02,240,True,1
+2014-02-25,239820,True,1
+2014-02-19,4000,True,2

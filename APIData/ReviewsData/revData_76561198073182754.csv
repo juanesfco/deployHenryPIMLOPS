@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-23,72850,True,skyrim: 10/10 would bang again
-2015-09-21,240,True,"9/11 Would plant bomb againTHIS KID BUNNYHOPPING ALL THE WAY THROUGH IVY, OUT MIDDLE AND THROUGH OUR CONNECTOR LIKE A SPEED DEMOND"
-2015-03-14,220200,True,"I love the modding comuntit for this game, every time my frends online we play multiplayer and we blow ♥♥♥♥ up"
-2016-01-17,730,True,>buys game>looks in inv>'You've Gained 1 Item!'>no life.This game has consumed my life.5/8
-2015-12-14,227300,True,"i drive 300 miles and not crash, when i park, crash 5 times and gets deducted points. 10/10 fam"
+posted,item_id,recommend,sentiment_analysis
+2014-11-23,72850,True,1
+2015-09-21,240,True,1
+2015-03-14,220200,True,1
+2016-01-17,730,True,0
+2015-12-14,227300,True,1

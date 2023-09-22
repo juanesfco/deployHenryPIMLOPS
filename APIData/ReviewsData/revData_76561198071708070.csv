@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-10,8870,True,"I have to say, this is an absolutely amazing game. Everything about it is so detailed, making it seem like the developers put loads of time into sll of the little things. The story is also absolutely amazing. I'll try not to ruin anything but the ending will blow your mind. If you don't already have this game, buy it."
-2013-07-04,72850,True,This is a great game.Just buy it.
-2012-11-30,440,True,dis good
+posted,item_id,recommend,sentiment_analysis
+2014-05-10,8870,True,2
+2013-07-04,72850,True,2
+2012-11-30,440,True,2

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-02,264710,True,"Amazing game but i have encounted some serious problems, it ran fine for 2 hours, past that mark it crashed and now every time i try to start a new game it goes to the loading screen and then freezes, you can hear the sound of the character spawning into the water and when you click or press a button it comes up with 'Subnautica .exe not responding' I'll re-installed the game and i am still having the same problem"
+posted,item_id,recommend,sentiment_analysis
+2016-02-02,264710,True,1

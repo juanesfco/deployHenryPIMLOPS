@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-17,440,True,I LOVE THIS GAME SO MUCH
-2015-06-17,346900,True,i am wasting my time because there is no other game is major update :( then i addicted this game :D
-2016-01-29,424280,True,"Yesterday the iron snout was at 12th popular release game, now is 3th"
-2015-08-02,253030,True,I belive i can fly (1 hour later) i belive i cant fly :(          (make more modes)
-2015-05-25,363970,True,i love this game it looks like cookie clicker and tap titans
-2014-09-17,304930,True,please build a new island and a train stastion i will be cool
-2014-08-29,301520,True,"I LOVE THIS GAME SO MUCH we can build tank,plaine,or anthing we can do AND the backflip"
+posted,item_id,recommend,sentiment_analysis
+2014-06-17,440,True,1
+2015-06-17,346900,True,0
+2016-01-29,424280,True,1
+2015-08-02,253030,True,2
+2015-05-25,363970,True,1
+2014-09-17,304930,True,2
+2014-08-29,301520,True,1

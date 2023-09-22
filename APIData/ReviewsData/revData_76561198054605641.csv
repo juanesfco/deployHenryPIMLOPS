@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-29,218620,True,Was once kicked for not having DLC.10/10
-2016-06-20,264200,True,This is a game that makes you say 'One last round' 8 rounds ago
-2015-07-30,209000,True,"Not as good as the rest, still somehow currently have the most hours on this.K.8/10"
-2015-07-30,223470,True,Urinated onto a guy's face. He vomited. Then I lit him on fire. Urinated on him again and stopped it. Then he started to vomit again. 8/10
-2015-01-30,200260,True,"One of the best games I have ever played. There is some mild repetition, but not much. 9.90/10"
+posted,item_id,recommend,sentiment_analysis
+2015-08-29,218620,True,1
+2016-06-20,264200,True,0
+2015-07-30,209000,True,2
+2015-07-30,223470,True,1
+2015-01-30,200260,True,2

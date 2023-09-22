@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-07,730,True,10/10 would shoot chickens again
-2013-06-25,203160,True,killed a crab and got an achievement 10/10
-2012-05-03,440,True,digital hats cost more than real hats and my house
+posted,item_id,recommend,sentiment_analysis
+2014-10-07,730,True,1
+2013-06-25,203160,True,0
+2012-05-03,440,True,2

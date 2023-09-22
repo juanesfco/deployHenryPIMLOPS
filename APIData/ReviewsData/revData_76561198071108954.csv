@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-10-08,303210,True,"This game is like nothing I have ever play. It's fun, quirky and at times very depressing. It's slow, but that works fine for what it's trying to say. If you have ten dollers and an hour half to spare, I highly recamend you play this."
+posted,item_id,recommend,sentiment_analysis
+2015-10-08,303210,True,1

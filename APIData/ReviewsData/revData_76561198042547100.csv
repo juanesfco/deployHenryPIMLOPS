@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-01,220,True,"Engaging,surprising and what every shooter should be."
-2014-06-21,34900,True,"I had an enemy I needed to off, but make it look like a suicide. I bought him Bad Rats. Happy with my purchase."
-2013-12-30,72850,True,"This is my favourite RPG so far, I have not spent enough hours in this game. 10/10"
-2012-05-29,43110,True,"Very well prsented and chilling the metro is a wonderful setting and is full of secrets and loot. Gun play is very balenced and tuned. The levals  are punishing is a good way. The AI is reactive, and the story is inticing and interesting i HIGHLY reccomend this game."
-2015-03-25,420,True,I am dead inside...
-2013-12-17,221100,False,"Every thing I wanted and more! Even with some of the fiddliest flaws this is obviously a great game 9.5/10. (Its still in alpha)That WAS my review when i first got the game, nvm lol its a blot on my inventory and should not be played by anyone until its finished."
+posted,item_id,recommend,sentiment_analysis
+2014-01-01,220,True,1
+2014-06-21,34900,True,1
+2013-12-30,72850,True,1
+2012-05-29,43110,True,2
+2015-03-25,420,True,0
+2013-12-17,221100,False,2

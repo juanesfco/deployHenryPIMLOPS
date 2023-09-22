@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-02-09,440,True,Great game to start off with
-2016-02-09,202970,False,"You can only play offline games but you can't play online games, definitely not recommended! Wasted my money on this ♥♥♥♥"
-2016-02-09,365670,True,Great software for animating!
-2016-02-09,252950,True,Feels like I'm playing a year 2020 game
-2016-02-09,424280,True,Great game to learn fighting skills :)
-2015-12-12,230410,True,"Great graphics, great everything, definitely recommended."
-2015-09-12,730,True,This game is simply amazing!
+posted,item_id,recommend,sentiment_analysis
+2016-02-09,440,True,2
+2016-02-09,202970,False,1
+2016-02-09,365670,True,2
+2016-02-09,252950,True,0
+2016-02-09,424280,True,2
+2015-12-12,230410,True,2
+2015-09-12,730,True,2

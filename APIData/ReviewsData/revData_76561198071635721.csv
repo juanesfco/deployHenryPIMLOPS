@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-09,233250,True,"Since the Gamma, this game just got better and better, much recomend"
-2014-01-21,238430,False,The corpse of one of the best zombie games around
+posted,item_id,recommend,sentiment_analysis
+2014-03-09,233250,True,2
+2014-01-21,238430,False,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-10,218230,True,The game is good fun. Whether you play alone or with friends. The massive scale battles are just as they are advertised and the gameplay is great fun. Some people might say that the graphics are bad but to be honest I don't really see anything wrong with the game's graphics.
-2014-01-23,42920,False,"The game has a very good concept and generally good gameplay. However, Once you finish both campaigns there is really nothing left to do in this game.  I would suggest purchasing m2tw gold edition (medieval 2 total war) which I found a lot more fun. It is also recommended that you take a look at the rest of the total war series as well."
-2014-06-15,236390,False,"I would recommend this game but since version 1.37 the game is becomming less and less enjoyable. The grinding in particular matches World of Tanks and World of Warplanes in severity. The ability to create custom missions and scenarios is good but the developers didn't bother giving anyone instructions on how to use it. The new ground forces is fun but is very much affected by the grind. My advice: Get the game and just have some fun with a few battles every session, don't bother trying to get teir 5's as you will bore yourself to death."
-2014-06-15,64000,True,The game is very cheap and fun but It doesn't add much in terms of features compared to the original men of war. The skirmish missions are boring and repetitive and the multiplayer is exactly the same (wait 30 minutes to get a tigerII) except that online multiplayer actually works. The main reason to get this game over others is because the multiplayer actually works outside LAN and the modding community.
+posted,item_id,recommend,sentiment_analysis
+2014-02-10,218230,True,1
+2014-01-23,42920,False,2
+2014-06-15,236390,False,1
+2014-06-15,64000,True,1

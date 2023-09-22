@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-02-19,440,True,"Team fortress 2 is a fun, thrilling game which allows you to customise your weapons and  to choose between the 9 classes available to play. Sometimes at first, when you don't get items often, don't be upset. The default set is usually the best one to play with.(.Y.)"
+posted,item_id,recommend,sentiment_analysis
+2014-02-19,440,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-23,434370,True,This contains everything i could ever ask for in a Choose your own adventure game.Simply: I love it.The story is original and it never lacks for excitement. I would recommend this game.
-2015-08-21,248610,True,"It only took me a few minutes to see what Door Kickers is really capable of, the top-down Tactical shooter developed by Killzone Games really got me quite excited as soon as i saw it. With alot of the Tactic games i play, this one takes the cake.The controls are simple, easy-to-use, and quite addictive, i definitely recommend."
-2016-08-18,443810,True,"This game was truly astonishing, never have I seen a game that i'd adore more than this.The graphics are great. The gameplay is great. The Lore is Great, and the Developers are great.The only thing I dislike about this game was how short it was. Let's hope we get a sequel."
-2016-04-22,340050,True,"The graphical aspect of this game may be slightly outdated, but if you can get past that, i'd highly recommend the Survivalists."
-2016-02-12,313080,True,"The Game is amazing, i don't know where to start.It's engaging, Original, and i can play it for Hours on-end.10/10 Would definitely recommend, but It's a shame Shark-Punch isn't well known."
-2015-12-02,234190,True,"Great mechanics and story, the deviation from the Zombies and Military genre really adds a new aspect of originality.I am happy to see a developer putting effort into their work,and it's inspiring to note that Wolfire had created this game in Seven Days!10/10 - Iz gud"
+posted,item_id,recommend,sentiment_analysis
+2016-01-23,434370,True,2
+2015-08-21,248610,True,1
+2016-08-18,443810,True,2
+2016-04-22,340050,True,0
+2016-02-12,313080,True,2
+2015-12-02,234190,True,2

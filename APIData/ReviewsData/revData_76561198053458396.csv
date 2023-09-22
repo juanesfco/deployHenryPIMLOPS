@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-02,341000,True,Not much to do after 2015 so ill give in 8/10 everything else is awesome
-2015-03-29,347630,True,logged in.             played mapdiedchanaged classcrashed.10/10 would change class again -Ign
-2014-12-14,253430,True,This is a greate game evan though it does't update much out of all 9/10
+posted,item_id,recommend,sentiment_analysis
+2015-05-02,341000,True,2
+2015-03-29,347630,True,1
+2014-12-14,253430,True,1

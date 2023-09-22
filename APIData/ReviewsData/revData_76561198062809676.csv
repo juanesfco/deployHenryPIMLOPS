@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-20,570,True,Raged so hard gave me anal retention. How to speak Russian in 20 minutes. Ruined my ♥♥♥♥ing life.10/10 would reccommend
-2014-06-20,730,True,"Spent my childhood playing this game on my dad's computer but it got corrupted and i lost my only copy of counter-strike source, finally one day i found out about this amazing game and it changed my life. 11/10 would reccommend- is what i would like to say except the csgo community is filled with people that think a sniper rifle which is designed for long distance combat is for ''quickscoping noobz'' and if you hardscope like you're meant to use a sniper rifle, you're considered a noob. People dont care about skill anymore and only care about the expensive skins for weapons you can get. Csgo is now a digital gun camo collector. 11/10"
-2014-04-11,250600,True,"This game is beautiful. I love this fly simulator 2014, and the beauty of it made me cry. This subtleness is exactly what a game needs. Best of all, I get to be a fly. 11/10 would reccomend"
+posted,item_id,recommend,sentiment_analysis
+2014-06-20,570,True,0
+2014-06-20,730,True,1
+2014-04-11,250600,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-17,301520,True,a Great game where you biuld your personal craft and battle ageinst otherssimular to world of tanks9/10
-2014-06-22,239820,True,"An awsome bussiness game, wish the platform and story was longer though, I hoped it may get up to a point of having more people and a bigger team, I review this as a 7/10!Note, this is a personal review of the game i have expereinced and other jorney may turn out different."
-2014-06-20,239030,True,the game is awsome!
-2013-12-31,6000,True,"starwars republic commando, a reviewThis game is and increadle game, a vary uniqe game in the starwars industry as you start out as a republic commando an elite soilder, in this FPS you lead a group of highly traind soilders and  do intese combat missions.Great game, good stor.8.5/10Snazzyredy01/01/2014"
-2013-12-31,6060,True,"starwars battlefront 2, a reviewThis game is one of the top ten games as i played as a child and for its days this would be a 9.5/10Snazzyredy01/01/2014"
-2013-12-31,247730,True,"Neither, a ReviewThe neither is a great game in as an alpha stage and runs greatly, but be warned other online players will mostly will not be friendly so getting a trusting buddy to go around the streets is a great idea, if anyone wants to play this game i am happy to compony in these dangerous streetsFrom Snazzyredyi give this game (in alpha stage) 7.3 out of ten (meaning it still needs ALOT of work) 01/01/2014"
+posted,item_id,recommend,sentiment_analysis
+2014-08-17,301520,True,2
+2014-06-22,239820,True,1
+2014-06-20,239030,True,0
+2013-12-31,6000,True,0
+2013-12-31,6060,True,1
+2013-12-31,247730,True,2

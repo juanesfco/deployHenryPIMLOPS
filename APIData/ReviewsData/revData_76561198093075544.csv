@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-12,303210,True,I reccomened the hell out of this game / film... just dont look up anything about it until you've played
-2015-03-19,400,True,"Want Portal 2 but don't have enough moneywell this game is perfect for you, it has cubes, portals and cake with the benefit of being $10 cheaper than it's sequelNOW BUY IT ALREADY"
-2015-03-17,440,True,"Be warned, this game is ADDICTIVEfilled with millions of different play styles and teamwork that'll pisseveryone off when you're messing aroundtheres also skills that take hours to master, which have kept the game alive for 7 years10/10 would hat again"
+posted,item_id,recommend,sentiment_analysis
+2016-01-12,303210,True,0
+2015-03-19,400,True,2
+2015-03-17,440,True,0

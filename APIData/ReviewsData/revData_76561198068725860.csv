@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-09-12,381210,True,dead by no matches found
-2016-01-01,295110,False,game so perfect i want to play it even more - Nathan He
-2015-04-09,730,True,great game would play again
+posted,item_id,recommend,sentiment_analysis
+2016-09-12,381210,True,0
+2016-01-01,295110,False,2
+2015-04-09,730,True,2

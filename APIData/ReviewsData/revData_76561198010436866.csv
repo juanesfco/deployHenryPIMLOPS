@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-27,200510,False,The only reason for this negative review is that the game is unplayable on ultrawide screens due to an unpatched mouse mapping issue.Do not buy this game if you are intending to run it on an utrawide monitor.
-2014-09-19,226960,False,"Tried this, doesn't really explain what you are meant to do.'Manueover your robot to the train!' Umm, how do I do that exactly? I click a 'Manueover card' but can't seem to make it do anything. I'm not going to spend a whole lot of time trying to figure out something which should be explained by the UI."
-2015-11-23,377160,False,If you have an ultrawide screen eg 3440x1440 then avoid this game like the plague. Your monitor is not supported.
-2016-06-10,240760,False,"This game has no support for ultrawide monitors.  I haven't played it for that reason. It might be a fine game, but if you have an ultra wide monitor (mine is 3440x1440) then avoid it unles you like having a standard widescreen aspect ratio game stretched out across your big screen.Maybe there are some hacks you can do to get ultra wide working but quite frankly I couldn't be bothered trying to figure it out. I'd rather just not buy the game."
+posted,item_id,recommend,sentiment_analysis
+2016-05-27,200510,False,0
+2014-09-19,226960,False,2
+2015-11-23,377160,False,0
+2016-06-10,240760,False,0

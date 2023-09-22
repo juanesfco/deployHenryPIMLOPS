@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-14,730,True,Good Game
-2016-08-25,252490,True,vedy gud game to smesh k1dz on teh hed wit rok
-2016-02-08,247430,True,Door opening sim since 2004
+posted,item_id,recommend,sentiment_analysis
+2015-05-14,730,True,2
+2016-08-25,252490,True,0
+2016-02-08,247430,True,1

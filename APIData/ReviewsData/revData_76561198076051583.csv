@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-07-23,211820,True,Outstanding.
-2015-11-21,301520,True,gud game
-2015-09-24,227940,True,Dis gem is bad.
-2015-11-15,377160,True,Greatest game that ever lived
-2015-07-03,242760,True,"My day started off pretty harshI lost my son , and a naked man took himI started to wonder endlessly through the forest until I came across a campI hid behind there tents in the scrub but was still found , once slaughtering me , 'they' took me to there jail I pressume , I tried to escape and was killed by one of them , 0 days survived.. tip:hide behind the bushes , if leaves arent bushes , what is.."
-2015-07-01,323370,True,Coconuts are not what you think they are... Almond tities
-2015-04-01,304930,True,"Very very enjoyable. I definetly recommend to play with friends though , you'll have much more fun! Do be wary of bugs though , so far I havent ran into any game breaking ones yet. 9/10"
-2015-01-12,252490,True,"Waiting for rust to load right now , Its been 10 minutes 10/10 best game"
+posted,item_id,recommend,sentiment_analysis
+2016-07-23,211820,True,2
+2015-11-21,301520,True,0
+2015-09-24,227940,True,0
+2015-11-15,377160,True,2
+2015-07-03,242760,True,0
+2015-07-01,323370,True,1
+2015-04-01,304930,True,2
+2015-01-12,252490,True,2

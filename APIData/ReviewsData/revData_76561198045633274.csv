@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-01,292030,True,so damn gooooooood :o
-2014-07-29,304930,True,"Minecraft x Rust somehow is such a great game, created by a 16 year old canadian.*Claps* im so addicted"
+posted,item_id,recommend,sentiment_analysis
+2016-06-01,292030,True,1
+2014-07-29,304930,True,1

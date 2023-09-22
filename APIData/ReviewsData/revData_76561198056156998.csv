@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-24,244850,True,Yep
-2014-01-09,218620,True,i found a white guy with black arms 10/10
-2014-05-10,6060,True,This game really should be free because the cost of this game is friend ship if u play Jedi vs sithIn closing dont buy this game friend ship will be tested420/10
-2014-08-15,220200,True,I think i can fly rockets now.
+posted,item_id,recommend,sentiment_analysis
+2014-04-24,244850,True,1
+2014-01-09,218620,True,1
+2014-05-10,6060,True,0
+2014-08-15,220200,True,2

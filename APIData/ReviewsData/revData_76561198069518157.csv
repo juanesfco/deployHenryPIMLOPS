@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-11,730,True,counter strike is a fun game where you shoot at people and they shoot back :)
-2015-02-16,270550,True,"this game actually got better they fixed the lag when there is many zombies, they added a little texture to the ground added level (rpg) stuff (movement speed, reload speed, health regeneration) and they keep adding weapons and new stuff to the game.I hope the good work continues and if that happens it will turn into a great and a more fun game"
-2015-01-28,214420,False,"while the game have good graphics frenetic gameplay and very good customization, this game have its flaws one of each being the good old:Pay2Win- its not the worst its not like combat arms 'planet side.. i guess' but as always you can have some parts more faster you dont need to 'grind'.Reward- i know that i didnt played that much but the reward per match is not that good, i was level 4 i lost a match but i did good captured 3 points killed some newbs ;) but i got 1 coin yes 1 coin.the game is not bad but has some flaws. If you like fast pace p2w games and some cool mechanics this game is for you but for me it gets a nod"
+posted,item_id,recommend,sentiment_analysis
+2015-03-11,730,True,1
+2015-02-16,270550,True,2
+2015-01-28,214420,False,2

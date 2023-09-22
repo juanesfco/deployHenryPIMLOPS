@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-06-14,227160,False,skam
-2014-08-06,301520,True,very alpha but yes good comrades
-2015-12-24,333950,True,Tried to make 5:1 scale model of KV2. Tried torsion suspension. Became helicopter and cut down forest. 10/10 will tank again
-2015-12-24,730,True,Sang Russian songs in casual. Got good. Won TheVoice. Quickscoped in comp. Won Australia's got talent with an AWP. 10/10 would bomb agaLOHA SNACKBAR SKDSSHHH
-2015-08-24,35450,True,Anti tank rifle is best sniper
+posted,item_id,recommend,sentiment_analysis
+2016-06-14,227160,False,1
+2014-08-06,301520,True,2
+2015-12-24,333950,True,0
+2015-12-24,730,True,1
+2015-08-24,35450,True,2

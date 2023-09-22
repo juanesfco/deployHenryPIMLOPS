@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-24,334120,True,"Not as good or as long as The Neverhood but it is certainly worth a look. I did't get it straight away so I didn't experience any of the bugs which seem to have given this game a lot of negative reviews. Is it worth $25? To a die hard fan, yes, to others I recomend picking it up on sale. Main criticism was that the music wasn't more crazy. 7.5/10."
-2016-01-26,245390,True,"I Have No Mouth, And I Must Scream is a brillient point and click adventure game. Buy it. Play it. Love it. Then Scream."
-2016-01-24,209630,True,"Not as good a game as Portal, but then what games is. A decent, if at time frustrationg puzzle game with a nice twist. Certainly worth $10. 7/10"
+posted,item_id,recommend,sentiment_analysis
+2016-01-24,334120,True,1
+2016-01-26,245390,True,1
+2016-01-24,209630,True,2

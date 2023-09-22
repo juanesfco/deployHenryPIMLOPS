@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-01-21,338000,True,As-Steroids. That's pretty much what it is. 10/10
-2014-06-06,298340,True,Great racing game. It's kinda like the Wipeout games on PSP.9/10
-2014-06-26,211440,False,"Dafaq is this brain dead piece of crap game.I'm glad it was free, so i didn't have to waste my damn money."
-2013-12-28,21690,False,"If you like zombie games, then i would not recommend this one cos the controls are ♥♥♥♥ and the gameplay is dull. You are better off playing L4D1&2. 2/10"
-2016-03-30,446120,True,Finally! A game that runs perfectly on my macbook! Awesome game by the by. 10/10
-2014-06-06,296650,True,Great game to play if you bored and wanna play a cool liddle puzzle game. ^-^9/10
+posted,item_id,recommend,sentiment_analysis
+2015-01-21,338000,True,2
+2014-06-06,298340,True,2
+2014-06-26,211440,False,1
+2013-12-28,21690,False,2
+2016-03-30,446120,True,2
+2014-06-06,296650,True,1

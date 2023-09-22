@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-29,4000,True,Your Missing Out On Alot Of Fun if you Don't Have This Game 10/10
-2014-01-18,105600,True,"Terraria Has got to Be One Of the Most Addicting Games ever The Boss Battles and Fun And Intense, The Amount of Enemys In The Game is Astonishing, And Theres Loads Of Weapons to Cut them down to Size With. I Would Highly Recommend Getting This Game."
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,4000,True,0
+2014-01-18,105600,True,1

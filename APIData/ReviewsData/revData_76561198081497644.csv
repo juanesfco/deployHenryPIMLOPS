@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-18,440,True,One of the best games in the world.....Highly recommend you people to play this game:)
-2014-10-26,317360,True,1000/10 would make a movie about it
-2014-04-29,252490,True,"I know I've only played for a few hours,but this game has taught me alot.Most are them are ♥♥♥♥♥♥♥t xD But still10/10 recommend you guys to buy this game.This game is too awesome"
-2014-08-07,4000,True,10/10 good game to fap to
+posted,item_id,recommend,sentiment_analysis
+2014-04-18,440,True,2
+2014-10-26,317360,True,1
+2014-04-29,252490,True,1
+2014-08-07,4000,True,2

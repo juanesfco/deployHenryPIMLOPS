@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-18,509060,True,Wait and bleed
-2016-08-11,381210,True,Good Game เล่นเพลินดี ถ้าแก้บัคต่างๆจะดีมากให้ขึ้นหิ้งเกมที่ชอบเลย
-2016-09-11,299740,True,Fun Game!เกมสนุกมาก เล่นเพลินดี ภาพสวย อยากให้อัพเดตบ่อยๆ รับรองรุ่งแน่
+posted,item_id,recommend,sentiment_analysis
+2016-08-18,509060,True,1
+2016-08-11,381210,True,2
+2016-09-11,299740,True,2

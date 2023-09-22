@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-08,24240,True,SOOO FUN
-2015-05-01,312990,True,OMG YES Get this game its a free version of broforce and im relieved MICHEAL BAY SIMULATER
-2015-09-11,243870,False,"Rip off of Watch_Dogs, COD AW And Assassins creed unity and III"
-2015-04-02,304930,True,Really God If You Put In The Code OPERATIONMAPLELEAF Its Online
+posted,item_id,recommend,sentiment_analysis
+2014-11-08,24240,True,2
+2015-05-01,312990,True,1
+2015-09-11,243870,False,1
+2015-04-02,304930,True,2

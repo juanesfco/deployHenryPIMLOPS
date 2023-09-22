@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-18,33930,True,"Crashed a Plane, Lost 37 Health out of 12000 Health. 10/10 Must Play Best Game"
-2014-09-30,730,True,Pros:-You get to defuse the bomb with your mind 5 meters away-The Bomb Code is always the same-You get a Mushroom Hat if you have a rank-You get to buy keys but you find out you bought the wrong one-No No-Cross Map No Scopes-No Cross Map Knives-You can kill people with Decoy GrenadesCons:-Valve+Hats=Weapon Skins=Cases=Keys=$2.49/Key=Half Life 3 Confirmed.
+posted,item_id,recommend,sentiment_analysis
+2014-11-18,33930,True,2
+2014-09-30,730,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-25,730,True,"This game is great. Dust II is a great map. The game says it has like 7 more maps, but I have yet to see any of them. I really hope I can beat Dust II enough times to play the next one."
-2015-08-04,346110,True,The only review this game needs is simply this.https://www.youtube.com/watch?v=428IyxSfsls
-2014-12-24,313740,False,this game was stupid and all the itties were literally in the pg13 trailer
-2015-08-24,290490,True,"Buy this game, make the coutdown go faster."
-2015-08-04,232090,True,"This game has gore on levels equal to the original doom games, especially if you go into the config and increase max dead body count. On top of that I've been more scared by some situations in this game than in any horror game I've ever played."
+posted,item_id,recommend,sentiment_analysis
+2015-08-25,730,True,2
+2015-08-04,346110,True,0
+2014-12-24,313740,False,0
+2015-08-24,290490,True,0
+2015-08-04,232090,True,1

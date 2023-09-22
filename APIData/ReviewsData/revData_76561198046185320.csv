@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-20,310380,True,"Fractured Space is a 5v5 space third person shooter which has gripped me in suspense when i havent been losing too badly. This game is still early access so there is plenty more to come, but I enjoy this game in its current state. Probably a 8/10 and could turn out to be a 10/10 in the future."
-2016-03-04,391540,True,oh god please play this game
-2015-07-28,205100,True,"Great game, great stealth, great combatGot it all, just about10/10"
-2015-06-26,368360,True,Played this game. Ted left because his sock puppet wanted him to. (a bit creepy)Delorez decided to find her father. (I presume is dead)timmy and my fat daughter died from a nuclear explosion10/10 would nuke again
+posted,item_id,recommend,sentiment_analysis
+2015-04-20,310380,True,1
+2016-03-04,391540,True,0
+2015-07-28,205100,True,2
+2015-06-26,368360,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-26,242760,False,Got a Purple Screen from installing. Doesnt work for me. Tried everything possible to fix it but didnt work. DONT BUY THIS CRAPPY GAME!!!!!!!!
-2015-02-18,72850,False,"well, bought the game. played it. Uninstalled it. Tryed to reinstall it. I NEED TO BUY IT AGAIN!!! WTF STEAM"
-2014-06-15,440,True,Great multiplayer game! Its so fun to play as your fav player! Mine is Scout or heavy
+posted,item_id,recommend,sentiment_analysis
+2014-12-26,242760,False,0
+2015-02-18,72850,False,0
+2014-06-15,440,True,2

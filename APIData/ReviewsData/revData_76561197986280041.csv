@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-03,211400,True,"Yeah it's OK, but only for a discount price.  It looks very pretty, but some control quirks will drive you so bonkers there's little chance you'll bother with a 2nd playthough on Nightmare mode."
-2016-03-25,214490,False,"I tried I really-really did.I really want to like this game, it's beautiful, it's a great franchise but it just makes me SOOO angry.  Call me a ♥♥♥♥♥, tell me play it on easy, insist I creep around and take 30mins to get from one room to another, I just just don't care any more.The back-tracking, the lack of save points, I just don't know what it is but it makes me ANGRY!!!  I'm deleting it now from my PC a second time and I tell you now, it's not getting a third chance."
+posted,item_id,recommend,sentiment_analysis
+2016-07-03,211400,True,2
+2016-03-25,214490,False,1

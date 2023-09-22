@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-19,310380,True,well op game
-2016-07-16,230410,True,"Almost 700 hours i play this game and still not bored whenever get bored something new came up like hentai, plus having a kubrow is best they can accompany you if u 4evealone gg no pinoy everyone speak eng no scrub mic"
-2015-11-24,403150,False,"Waste money faaak, untrade plat dammit, can't refund -_-"
-2015-10-23,304050,True,i ate brownies
-2015-10-20,440,True,I ate cupcake
+posted,item_id,recommend,sentiment_analysis
+2015-04-19,310380,True,0
+2016-07-16,230410,True,1
+2015-11-24,403150,False,0
+2015-10-23,304050,True,1
+2015-10-20,440,True,1

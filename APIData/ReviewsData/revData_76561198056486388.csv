@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-03-14,730,True,Just go onto the internet and 'play' a case opening simulator.It will save you a lot of time and money.Lots of money.
-2014-06-23,218620,True,There are enough things to steal that after awhile you don't even care about money anymore.8.73/10 Would steal again.
-2015-03-14,219150,True,"Hotline Miami is a game where you kill people.You kill a lot of people.The amount is absurd actually.Just because a voice on a phone told you to do it.You smart, smart person.Australian Government/10 would ban this and sequel again."
-2015-01-11,233130,True,I-It's not like I like this game or anything b-baka!The game for weeaboos.You got swords and you got demons.Like.That's pretty much the plot.Have fun. You absolute ♥♥♥♥ing weeaboo.9/10 Would anime the ♥♥♥♥ out again.
-2013-03-25,440,True,"Team Fortress 2, a game where you run around and shoot people and- oh wait no. This is a game about hats as well. Don't get me wrong it's about shooting people, but more about hats.Little kid getting scammed/10 would wear again."
-2014-10-11,265630,True,Not enough Pass the Whiskey jokes8/10
-2015-03-06,72850,True,After awhile you just tend to spend more time modding the game than actually playing.10/10 would mod again
+posted,item_id,recommend,sentiment_analysis
+2015-03-14,730,True,1
+2014-06-23,218620,True,1
+2015-03-14,219150,True,0
+2015-01-11,233130,True,1
+2013-03-25,440,True,0
+2014-10-11,265630,True,1
+2015-03-06,72850,True,1

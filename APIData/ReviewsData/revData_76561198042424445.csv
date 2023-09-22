@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-25,220160,True,dank
-2012-07-12,440,True,Great! The Best!
-2012-01-02,8190,True,Great! The best!
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,220160,True,1
+2012-07-12,440,True,2
+2012-01-02,8190,True,2

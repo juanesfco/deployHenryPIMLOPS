@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-14,49520,True,Not enough guns.
-2013-12-11,204360,True,Didn't crash enough castles.
-2013-12-12,39000,True,JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN JOHN MADDEN
-2013-12-11,48000,True,"I thought it was a limbo simulator game, turns out I was wrong..."
-2013-12-11,17410,True,Mirrors weren't edgy enough.
-2013-12-11,202170,True,Thought it was a game about a bunch of Asian guys taking care of sleeping dogs. It has nothing to do with dogs sleeping.
+posted,item_id,recommend,sentiment_analysis
+2013-12-14,49520,True,1
+2013-12-11,204360,True,1
+2013-12-12,39000,True,1
+2013-12-11,48000,True,0
+2013-12-11,17410,True,0
+2013-12-11,202170,True,0

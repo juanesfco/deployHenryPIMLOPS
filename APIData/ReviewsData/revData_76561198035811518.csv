@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-14,221100,True,"Although in it's early Alpha stages with numerous bugs and plentiful connection issues, this game is actually quite fun. Unlike the ARMA 2 mod, this game will be specifically tailored to be a zombie game, instead of war with zombies thrown in. There are very few zombies and the people on it are murderous and unpredictable, but you will always get a story out of it to tell your friends. Survive how you want or build your community and strike the zombies before they strike you. There will be many improvements made and the game is far from finished but I believe that this will be the most emmersive Zombie-Survival game yet."
-2014-05-03,256290,True,"Child of Light. The story of a girl trying to find her way home, while fulfilling a destiny unbeknownst to her. That is the precipice of the story, as for the gameplay. Imagine South Park: Stick of Truth, but with a way larger skill tree and the ability to fly. Half the game is putting the beat down on deadly enemies, the other half is exploring the extensive world that this game offers. It's putting many AAA RPG games to shame. Between the story, incredible art style, the interesting RPG elements and the poetic conversation pieces, this game get's an 8 and a half/10. It would have been better had the DLC's been worthwhile and had it not gone through UPlay in order to play but all in all, one of my new favourite RPG's."
-2015-06-04,22370,True,"Bought the game, now learning about the consequences of buying older games on steam. Great computer error simulator. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-02-14,221100,True,1
+2014-05-03,256290,True,2
+2015-06-04,22370,True,2

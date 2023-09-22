@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-10-21,324570,False,"dont get this game, it is basically spartan assault with no differences, sure there might be a few different vehicles and enemies, but it's really not worth the price, so if ur a hardcore halo fan and want this game, wait until it goes on special or something"
-2016-03-25,730,True,"♥♥♥♥ U VALVE, FIX THE GAME U GOLD DIGGERSI still love the game, but if nothing changes and you just release sound changes and patch nothing and fix nothing, then im done"
-2016-01-31,213670,True,"If you like South Park, you will love this game"
-2016-01-30,391220,True,"10/10, need I say more?"
-2015-12-09,243870,False,"Lame, don't know why i spent 30+ hrs on this bull sh*t"
-2015-12-02,570,True,"a lot like league of legends, but wif some differences, i would probably like it BUT i like league better so meh, pretty good but hate the DLCs they giv u automatically, cuz dont hav too much space on my pc ad internets hella slow, but otherwise pretty good"
-2015-10-20,252950,True,BEAUTIFUL FREAKIN BEAUTIFUL
-2015-01-15,440,True,"da best free first person shooter game on steam, absolutely beautiful. the only con is that u have to pay for the weapons, clothes and other stuff that's in the game or wait for a long time to get the good ones:(. but otherwise it's really good.:D"
+posted,item_id,recommend,sentiment_analysis
+2015-10-21,324570,False,1
+2016-03-25,730,True,1
+2016-01-31,213670,True,1
+2016-01-30,391220,True,2
+2015-12-09,243870,False,0
+2015-12-02,570,True,2
+2015-10-20,252950,True,2
+2015-01-15,440,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-24,550,True,This game is halaroius you can play many gamemodes and you can kill Zombies yay:DSo much DLC
-2014-08-04,252490,True,i think this is an amazing game
-2014-06-24,4000,True,This game is halaroius you can play many gamemodes and you can kill stuff :D
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,550,True,1
+2014-08-04,252490,True,2
+2014-06-24,4000,True,2

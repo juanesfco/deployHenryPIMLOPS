@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-13,730,True,Love the game but keep de-ranking for no reason. Why!?
-2016-08-16,439940,False,This is a game that you play in you spare time and when you have got alot of it. I know its a visual novel and what not but still the extansive dialog that takes hours to get through is just a tad exessive. ONLY play this game if you want an easy detective game and an anoying ending. Only posotives for the game are its characters and some of the puzzels.
-2015-06-21,305620,True,"I purchased this game when it was in its very early development because I saw that it would turn into a briliant game... my only concern is that people are waiting on a multi player, I fave nine friends who said they WILL buy this game, as soon as multi-player is added."
+posted,item_id,recommend,sentiment_analysis
+2015-07-13,730,True,1
+2016-08-16,439940,False,0
+2015-06-21,305620,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-25,105600,True,"I don't know why but I'm addicted to this game and can't stop playing it, so I will list the pros and cons and hopefully you will get it yourself.Pros- Alot of great content- You can get hours of playtime from it- If you don't like playing games by yourself you can play with friends- Controls are simpleCons- If you play with friends they can steal things- Some bosses are hard and you will die alot- Glitches- Takes a while to get started properlySo hopefully this helped you to see if you like the game or not but personally i think it is alot easier playing with other people. I rate this game 8.5/10"
-2014-12-21,248570,False,Very hard to controll i would not recommend it to anyone.
-2014-01-05,218060,True,Its a pretty good game for people who like platformers
+posted,item_id,recommend,sentiment_analysis
+2015-09-25,105600,True,0
+2014-12-21,248570,False,0
+2014-01-05,218060,True,2

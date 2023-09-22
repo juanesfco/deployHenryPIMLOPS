@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-19,238460,True,"Great game, especially when played with friends. Would definetely reccomend it to anyone wanting some hilarious co-op action. It isn't as fun when you're by yourself, but it is still a very solid single player puzzle game. 8/10"
-2014-12-04,252490,False,"When I first played this game, I joined a server, got some wood, made some armour and weapons and then made a nice house. Then one day I was in the forest looking for food and some guy attacked me and killed me for my pants. This was fine, I got the rest of my gear back and then went to sleep in my house.When I joined again someone had killed me in my sleep and taken all my stuff.FML0/10EDIT***Nothing rusts"
-2014-12-04,239070,False,I saw one hammer in this game and it was on the home screen0/10
-2014-12-04,17410,False,There were very few mirrors0/10
-2014-12-04,248820,False,It did not rain.0/10
+posted,item_id,recommend,sentiment_analysis
+2014-09-19,238460,True,1
+2014-12-04,252490,False,1
+2014-12-04,239070,False,0
+2014-12-04,17410,False,0
+2014-12-04,248820,False,1

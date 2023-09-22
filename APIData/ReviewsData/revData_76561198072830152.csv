@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-11,570,True,"In this game you will die, alot, over and over again, but then, as you get the hang of it, you will start to do better and better, becoming a useful member of the team, and that provides a great satisfaction. This game, while only haveing one map (at the time of writing) never repeats itself, every game is different, with its own joys and challenges.A brilliant team stratergy game."
-2013-11-26,72850,True,One of the best rpg's on the market.
-2013-11-26,218230,True,"A very fun first person shooter action game with a variety of options for every style of player.from sniper to support to tank. (literally, there is a walking tank :P)"
-2013-11-26,230410,True,A very fun game whether you enjoy stealth/ assasin/ ninja gameplay or a straight up hack and slash first person shooter. I recomend this game for everyone that enjoys first person action games.Even if you don't this may be the game to start you likeing the genre.
+posted,item_id,recommend,sentiment_analysis
+2014-06-11,570,True,2
+2013-11-26,72850,True,2
+2013-11-26,218230,True,2
+2013-11-26,230410,True,1

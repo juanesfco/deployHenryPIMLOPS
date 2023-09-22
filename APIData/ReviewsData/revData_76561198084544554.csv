@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-13,34900,True,"This is a game that isn't for the faint hearted. This is a game that isn't for the weak minded.This game will test your emotions, fitness and intelligence.This game presents challenges that no other game can replicateBad Rats paves the way for a new era of video games"
-2015-01-06,209650,True,Kevin Spacey Simulator
-2014-04-23,32440,True,This game is beyond amazing. An absolute must buy.12.58/10 Rubber Chickens
-2015-01-06,730,True,Realistic Gun Physics10/10 weapon skinsFun with or without friends
-2014-07-06,249130,True,"This game is easily one of the best lego games ever made. Featuring countless things to do and all of your favourite marvel characters, this game is hard to stop playing.The campaign is awesome and it doesnt stop there.10/10 Rubber Chickens"
+posted,item_id,recommend,sentiment_analysis
+2015-01-13,34900,True,0
+2015-01-06,209650,True,1
+2014-04-23,32440,True,2
+2015-01-06,730,True,2
+2014-07-06,249130,True,2

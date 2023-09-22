@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-15,440,True,"One of the best games on the market, not to mention its FREE. i've played 1000+ hours of this fun fps shooter title, and still swoon over its fast paced action, communitty involvment and balance. 10/10 would play for 5000 hours (did i mention hats?)"
-2014-03-28,221640,True,"Trial and error they said, you'll get in eventually they saidi tried and tried but no avail, my soul is crushed just like the evil hexagon dude man guy crushes my triangle buddybut it's all good a smile still cracks across my face as i am exillirated by flashing colours But im gonna be honest, i only bought it because i cant afford weed"
-2014-03-28,4000,True,"play offline for endless possiblilitiesplay online to play a wide selection of game modesthe choice is yours, my friend but make sure you have enough rupees"
-2014-03-28,207610,True,"Sent to prison on the day of the walker outbreak, Lee Everett a man who can easily be mis-judged for his ruggish appearance and deep voice, finds himself in what can be described as 'the depths of hell'-fight off zombies-make game changing decisions -protect a little girl-explore-test your moralityThe walking dead has it all"
+posted,item_id,recommend,sentiment_analysis
+2014-03-15,440,True,2
+2014-03-28,221640,True,1
+2014-03-28,4000,True,1
+2014-03-28,207610,True,1

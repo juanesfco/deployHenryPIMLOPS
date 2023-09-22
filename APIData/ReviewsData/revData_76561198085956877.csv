@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-27,317400,True,best portal mod ever
-2015-05-24,252530,True,best game ever if you like bus hk west  so good
-2015-05-22,730,True,nice game if you are no a cod or bf playerneed to have mic
-2015-06-20,271590,True,nice game if you have a good computer
-2015-09-21,218620,False,TOO MANY ♥♥♥♥♥ DLC DONT BUY SAVE UR MONEY TO BUY BETTER GAMES
-2015-06-05,301760,False,bad game DONT BUY
+posted,item_id,recommend,sentiment_analysis
+2015-06-27,317400,True,2
+2015-05-24,252530,True,2
+2015-05-22,730,True,1
+2015-06-20,271590,True,2
+2015-09-21,218620,False,2
+2015-06-05,301760,False,0

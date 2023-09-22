@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-01,238460,True,"O jogo tem uma ótima jogabilidade. O diferencial nele é a presença de narrações, que parecem interagir com o usuário. Recomendo."
+posted,item_id,recommend,sentiment_analysis
+2014-12-01,238460,True,2

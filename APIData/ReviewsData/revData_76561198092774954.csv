@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-01-07,440,True,"EL tf2 es bueno mijoh tiene mucha logica ( no tienen nada de logica) no tienen ningun bug ( tiene muchos bugs), es un juego muy entretenido y competitivo lo recomiendo para todas las personas"
+posted,item_id,recommend,sentiment_analysis
+2016-01-07,440,True,2

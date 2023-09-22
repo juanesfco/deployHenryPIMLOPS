@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-06,362890,True,"Black Mesa is the best game I've ever played when it comes to a remake. The music was just so perfect and gave it so much emotion and realism, like how it sounds sad when you realise the magnitude of the disaster and then picks up at parts of the game where victory is on the horizon. I absolutely recommend this to anyone who likes the Half Life series, its a game that you wont regret playing."
-2012-09-01,550,True,"Zombies, Blood & Humor. Love zombie apocalypse's? I highly reccomend this game!"
+posted,item_id,recommend,sentiment_analysis
+2016-07-06,362890,True,1
+2012-09-01,550,True,1

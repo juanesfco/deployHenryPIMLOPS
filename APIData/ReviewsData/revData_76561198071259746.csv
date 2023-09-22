@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-18,303390,True,"This game has alot of hate towards it about the graphics and no controller support and that, but this game, although challenging can be quite fun with friends"
-2014-08-01,265930,True,GOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOATGOAT!
-2014-08-15,304930,True,its amazing get it or you will be EATEN BY ZOMBIES!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-12-18,303390,True,0
+2014-08-01,265930,True,1
+2014-08-15,304930,True,2

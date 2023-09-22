@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-29,303390,False,"No, just don't buy it. You will have a terrible time."
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,303390,False,0

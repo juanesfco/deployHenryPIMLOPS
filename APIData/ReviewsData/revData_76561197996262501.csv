@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-11,242760,True,Great Game but could use some updates!!!!!!!! :3
-2014-07-19,205100,True,I LOVE DIS GAME!!!!!!!!!
-2014-04-27,4000,True,Great Game!!! ;3
+posted,item_id,recommend,sentiment_analysis
+2014-08-11,242760,True,2
+2014-07-19,205100,True,0
+2014-04-27,4000,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-06,113400,False,THIS GAME SO BAD ITS NOT A FAR GAME YOU HAVE TO PAY FOR EVERYTHING I WAITED 2 HOURS TO PLAY THIS
-2014-11-15,253710,True,Its a good game i enjoy hunting animals in this game but the one problem is you need to get a liceance to hunt wich cost real monny and guns but on the other head its a good game
-2016-07-10,1840,True,im still learning how to use it but its good so far
+posted,item_id,recommend,sentiment_analysis
+2016-01-06,113400,False,0
+2014-11-15,253710,True,1
+2016-07-10,1840,True,2

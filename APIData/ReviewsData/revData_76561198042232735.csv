@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-03,346900,True,"DROPPING OUT OF SCHOOL NOT TO SELL DRUGS, BUT TO SELL LEMONS AND GONNA BECOME THE LEMON LORD LATER BOYS"
-2016-06-25,202970,True,how the ♥♥♥♥ can i review this game if ive never even owned/played it on steam
-2014-11-17,313740,True,it's cool i guess
-2015-09-15,393410,True,"holy ♥♥♥♥, a much more enjoyable experience then league of legends and sex combined"
-2015-04-02,245550,True,i still havent watched this yet
+posted,item_id,recommend,sentiment_analysis
+2015-04-03,346900,True,1
+2016-06-25,202970,True,0
+2014-11-17,313740,True,2
+2015-09-15,393410,True,2
+2015-04-02,245550,True,1

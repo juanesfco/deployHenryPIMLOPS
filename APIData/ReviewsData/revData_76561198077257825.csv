@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-04,423880,True,wat am i doing with my life
-2015-12-28,417860,True,lesson learned:'you dont chat with the girl you love every one year'and:1.goodbye2.goodbye3.goodbye'really creator... really'
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,423880,True,1
+2015-12-28,417860,True,2

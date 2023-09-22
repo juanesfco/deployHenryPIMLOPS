@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-08,403570,False,"This game could be good but I do not know as I have been unable to get past the title screen. I can successfully choose English as the language I would like to play the game in then can not do anything else. I have literally pressed every button on my keyboard, mouse and controller, separately and at the same time to no avail. If there could be more clarity or a fix for this I will possibly be able to like the game."
-2012-10-01,200710,True,Still missing Diablo 2 even though Diablo 3 is out? Then this is the game for you!!
+posted,item_id,recommend,sentiment_analysis
+2015-11-08,403570,False,1
+2012-10-01,200710,True,0

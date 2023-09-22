@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-03-01,313120,True,"Day 1: Met a family of Crabs, Declared myself Papa CrabDay 2: I may have eaten one of the smaller less noticable crabsDay 3: i am all alone, they were delicious, no regrets10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-03-01,313120,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-11,271590,False,"-Rep, Rockstar being rockstar again and not letting anyone mod their game...-RepDont Buy."
-2015-01-25,221100,False,"Everyone You see seems to Kill On Sight.i spent 30mins trying to get into a server, i would get in then drop my weapon to get another weapon and the server would crash. so i just lost both of my guns. Would not recommend worst game ive played"
-2014-06-26,107410,True,"Love this game, recommended to anyone that likes War/Millitary games. Played over 1700 hours"
+posted,item_id,recommend,sentiment_analysis
+2015-08-11,271590,False,2
+2015-01-25,221100,False,0
+2014-06-26,107410,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-19,270170,True,"Played this with Five Guys while eating Five Guys Burgers and FriesI rate this 5/5 guys, and no Zoe Quinn didn't give me a blowy for this review."
-2014-01-05,730,True,Step 1: Play gameStep 2: Get skinsStep 3: ????Step 4: PROFIT!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-08-19,270170,True,1
+2014-01-05,730,True,1

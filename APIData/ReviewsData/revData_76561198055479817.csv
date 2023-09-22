@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-08,218620,True,"A half broken game, that i can't stop playing!"
-2014-04-17,12210,True,"Terrible pc port, terrible frame rates, frustrating mechanics... OVERATED because OMG its GTA are words you can describe this game. After who knows how many year this game is still absolute junk on pc. Good luck as this game was designed for the console peasant industry. Terrible pc optimization and mechanics is something which plague GTA IV. Also you NEED SIGN UP FOR GAMES FOR WINDOWS LIVE which is to put in words the S.H.I.T.I.E.S.T service ever... EVEN WORSE THEN ORIGIN, to SAVE YOUR GAME. AND on top of that you also need to sign up for some rockstar account to play online. FFS the game is on steam, not like DRM is going to make a difference as steam is an excellent service. PLEASE dont repeat the same S.H.I.T for GTA V. PLEASE NO DRM. Otherwise GTA IV would be a very great game as it already has all the qualities of a great game, just the quality of a crap game aswell"
-2014-03-12,220240,True,"Great all round game, great game for coop aswell. However i find the graphics in this game to be EXTREMLY overated, textures look like a BLUR, and effects are not that good. The map was extremly big, however the terrain was very repetitive, i also find that this game is very poorly optimised, with a Radeon r9 290 i manage to get a meager 50fps on average with all the settings on max. 50 fps is decent, but considering that many games lke crysis 3(possibly even 2), metro last light and battlefield 4 and 3 run much smoother and higher frame rates then far cry 3. "
-2014-01-23,17300,True,"overall a great game for its time, however the graphics are somewhat overated in my opinion.. being the first directx 10 game"
+posted,item_id,recommend,sentiment_analysis
+2014-08-08,218620,True,0
+2014-04-17,12210,True,0
+2014-03-12,220240,True,1
+2014-01-23,17300,True,1

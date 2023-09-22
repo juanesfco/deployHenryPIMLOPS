@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-05-31,218620,True,Hermoso Juego Si Lo Juegas Con Amigos.Me Encanta Su Sistema De Juego Rol Y Accion
-2015-12-06,10090,True,la verdad que el juego esta muy bueno el zombies quedo genial.
-2015-07-21,304930,True,jorge
-2014-10-01,323500,False,hey and the chicken mask and the tiger mask what happend
-2014-07-25,730,False,"no me gusto para nada,perdonen a los que le gusto solo digo mi opinion."
-2014-07-13,206210,True,me encanto esta re piola el punto justo de cosecha
-2014-07-12,550,True,me encanto zombies everyday.
-2014-07-07,1250,True,un juego genial.
-2014-06-09,24240,True,I like that game was so cool
+posted,item_id,recommend,sentiment_analysis
+2014-05-31,218620,True,2
+2015-12-06,10090,True,2
+2015-07-21,304930,True,1
+2014-10-01,323500,False,0
+2014-07-25,730,False,1
+2014-07-13,206210,True,2
+2014-07-12,550,True,0
+2014-07-07,1250,True,2
+2014-06-09,24240,True,1

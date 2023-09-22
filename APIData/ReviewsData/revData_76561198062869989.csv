@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-13,204360,True,This game is for good lads that just want to have fun on a good night.. it is a game for the bois and it enhances your LadPowers.. Castle Crashers is 11/10 game.. i recommend it for all ages and all Lads.. :)
-2013-12-19,570,True,it is good game.
-2015-08-22,730,True,if u want to rekt some n3rds this is ur game!
-2014-10-29,206210,True,great game 8/10
+posted,item_id,recommend,sentiment_analysis
+2015-08-13,204360,True,2
+2013-12-19,570,True,2
+2015-08-22,730,True,0
+2014-10-29,206210,True,2

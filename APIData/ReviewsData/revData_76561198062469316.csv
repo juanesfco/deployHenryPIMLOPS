@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-06-29,359320,True,"Writing this after looking at the numerous other reviews gives one impression. bla bla bla ... not enough content ... bla bla bla ... repetitive. That's what all the negative reviews come down to, not enough content and repetition. The cause of this is too much playing. People play the game, like it, keep going, keep going too much and realize that after playing for 100 hours they're doing the same this. This to me is as shocking as the sky being blue and then they write a review after failing to acknowledge that they did in fact enjoy the game.Put simply, for $20 (currently) and hours worth of quality content the game is worth it. However play it too much and you may loose interest (surprisingly similar to every other game ever). Played it, liked it and and for $20 i'll recommend it."
+posted,item_id,recommend,sentiment_analysis
+2016-06-29,359320,True,1

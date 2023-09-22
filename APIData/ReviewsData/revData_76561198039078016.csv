@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-26,24240,True,Fun...
-2014-05-24,236390,True,maze ♥♥♥♥in ballz
-2014-04-06,9900,True,MASIN
+posted,item_id,recommend,sentiment_analysis
+2013-12-26,24240,True,2
+2014-05-24,236390,True,1
+2014-04-06,9900,True,1

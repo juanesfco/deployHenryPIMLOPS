@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-01,250600,True,"In ‘The Plan’ you assume the role of a monstrous beast with six pneumatic limbs, sophisticated flight abilities and the most highly-developed sense of vision of any creature on your planet.Having started life as a lowly maggot you must now spread your wings and embark on the journey of a lifetime.The world will relentlessly throw obstacles in your path as you exhaust every manoeuvre, and persevere using every fibre of your being to realise your destiny in an epic quest that will test your resolve to the very end."
-2016-07-01,346250,True,"A fun little point-and-click puzzler in which you play as a granny smith apple/octopus hybrid, The Old Tree has a short, simple playstyle to suit casual gamers that do not want to lose their hair over obscure challenges.The game has dark, moody visuals, so is best to avoid playing on a sunny morning with a dusty monitor."
-2014-06-30,37600,True,"A twee adventure for all ages, Windosill combines the enlightening experience of the best point-and-clicks with cutesy graphics and a fun soundtrack that makes for some great gaming.For the casual a gamer, many fun elements are packed into the relatively short but enjoyable journey.Recommended if you want to tickle the brain without commiting endless hours to your gaming experience."
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,250600,True,2
+2016-07-01,346250,True,1
+2014-06-30,37600,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-23,496920,True,"Wow, thats all I can say. Wow. Play this game and a warning to anyone who thinks its a horror game with jumpscares. Its not, it makes you feel insecure but there are no jumpscares"
-2016-04-24,252950,True,It is great
-2015-11-23,417860,True,Such a great game with an amazing emotional story
-2014-12-03,4000,True,The Best!
-2014-09-07,304930,True,"This game is really good, hope development goes well!"
+posted,item_id,recommend,sentiment_analysis
+2016-07-23,496920,True,0
+2016-04-24,252950,True,2
+2015-11-23,417860,True,2
+2014-12-03,4000,True,2
+2014-09-07,304930,True,2

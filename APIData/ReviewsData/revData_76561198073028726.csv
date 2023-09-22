@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-30,310380,True," - Game Play: 8/10 Great so far. - Map variety: 2/10 No other maps besides the one. - Matchs: 9/10 Solid, Games are really long which is great! Love it. - Ships: Great variety no ship is the same as other ships. 7/10 - Future of this game will be great theres so much they can do to it! - Constantly updating which is great."
-2016-07-11,395180,True,Welcome to the jungleWe've got fun 'n' games
-2015-03-25,344760,True,"I have played over 50 hours of this game and it has become so addicting! I'm still chopping trees down and not getting bored. I admit the game is very buggy and unstable with lots of hackers but they will fix that soon. Once they fix everything the game will be even better! Then they can start editing and adding more items, and features. Dream features: Have to kill the king before claiming the throne, or at least have a option as a server owner.Be able to go down the castle, not just walk up the sword and into the head.Npcs roaming the castleA bigger mapMore monstersMagic somehow ? Be able to make your character as smeagol/golemHave some weapon/item references to films and or books.Allot more options as a kingBest game Ive played in a long time."
-2015-01-10,107410,True,"Awesome game, addicting."
+posted,item_id,recommend,sentiment_analysis
+2015-01-30,310380,True,2
+2016-07-11,395180,True,2
+2015-03-25,344760,True,1
+2015-01-10,107410,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-21,435870,True,"When the dlc is released 10 minutes before I have to leave for work, great 10 minutes though"
-2015-11-10,377160,True,"Great game. Has a few issues but so did Skyrim when it first came out, Bethesda will fix it."
-2014-09-30,227300,True,Something's really soothing about driving down a european highway while there's 20 tonnes of explosives or bio-hazardous material behind you.
+posted,item_id,recommend,sentiment_analysis
+2016-03-21,435870,True,2
+2015-11-10,377160,True,2
+2014-09-30,227300,True,1

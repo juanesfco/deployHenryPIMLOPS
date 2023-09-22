@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-05-03,322330,True,"dont starve together, do it separately"
-2014-08-10,440,True,"Great game, enjoyable when played with others, for all ages not really 18+ rofl nope any way its a profitable game if u got a nack for business and you can make a few friends :3"
-2016-05-03,620,True,"im very trust worthy in coop, ask my dead partner ^^"
-2015-05-26,730,True,juan deag + knif IMMA SPHEEE#skins get winsGimmie awpi want dah akwtf i said rush beveryone is bad but mewhat is walls?can i have aimbot?wow hacker you have a knife and your not even global
-2016-01-08,105600,True,i liked the fact that this is a game :^) i disliked the fact that this is a game :^)
-2015-11-17,4000,True,'what does this do?'
+posted,item_id,recommend,sentiment_analysis
+2016-05-03,322330,True,1
+2014-08-10,440,True,1
+2016-05-03,620,True,2
+2015-05-26,730,True,0
+2016-01-08,105600,True,2
+2015-11-17,4000,True,1

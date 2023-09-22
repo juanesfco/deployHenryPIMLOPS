@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-15,391260,True,Simple but fun so far. Love the music.
-2015-07-03,313740,True,"I did not spend $10 dollars on this. I swear.Nah, it was actually a gift. 5 minutes is all I need tyvm. Play if you're a sexually frustrated teenager like Samuel."
-2015-04-09,730,True,Very nice. Wasted too much time on it.
+posted,item_id,recommend,sentiment_analysis
+2015-08-15,391260,True,2
+2015-07-03,313740,True,0
+2015-04-09,730,True,2

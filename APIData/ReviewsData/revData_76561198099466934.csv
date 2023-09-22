@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-25,70000,True,Espero que regalen este Juego :D
-2015-06-08,304930,True,no es minecraft pero esto es mas mejor :B1:
-2016-01-03,362890,True,Este juego es hermoso algo igual que el hl pero un poco asombroso como quisiera pelear con nihilanth
-2015-04-24,70,True,Half life Forever
-2015-04-24,550,True,Odio Las escaleras (Francis)
-2014-12-22,220,True,Es un buen juego me encanto de niño y lo mejor es que la historia es demasiado larga XD
-2015-07-01,440,True,tf2 ;v
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,70000,True,2
+2015-06-08,304930,True,2
+2016-01-03,362890,True,2
+2015-04-24,70,True,0
+2015-04-24,550,True,0
+2014-12-22,220,True,2
+2015-07-01,440,True,1

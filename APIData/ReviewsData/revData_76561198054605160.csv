@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-04-24,433950,True,$1 Only??? This game is loads of fun for the price definetly worth a try!
-2016-03-03,415030,True,"Super chill game you can play for hours because of the randomness. Similar to binding of isaac. Also great for the cheap price its at, definetly worth a shot if you enjoyed binding of isaac."
-2015-05-20,333930,True,If you enjoy games like tf2 you will love this... :D
-2015-01-26,42680,True,First and favourite Call of Duty game. Great competetive fun and still one of the best Call of duties to date in my opinion.
-2016-04-25,252950,True,Havent been this addicted to game for a long long time. Impressive! Amazing game definetly 100% worth every peny spent
-2015-06-04,363970,True,A fun yet suprisingly addictive game that takes no skill what so ever and all you have to do is click... Worth a try :)
+posted,item_id,recommend,sentiment_analysis
+2016-04-24,433950,True,1
+2016-03-03,415030,True,2
+2015-05-20,333930,True,2
+2015-01-26,42680,True,2
+2016-04-25,252950,True,1
+2015-06-04,363970,True,2

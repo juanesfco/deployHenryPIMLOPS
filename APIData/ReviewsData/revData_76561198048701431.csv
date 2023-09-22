@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-03,346110,True,"My first 3 hours were spent harvesting resources to build a crappy 2x1 base, building said 2x1 base and having it destroyed by 2 level 20 ♥♥♥♥♥♥♥s, riding dinosaurs. 10/10 - Whats not to love? xDSeriously though, has great potential. Looks beautiful however, obviously needs optimization when even the most beastly rigs can barely run at 30 fps on MEDIUM but, hopefully a few fixes and tweaks here and there will help."
-2015-04-15,271590,True,Amazing!!! - 10/10
-2015-12-18,393380,True,"This is by far, what Arma 3 should have been. The community, the game, the engine is all how a military simulator should be. I have not joined a single game WITHOUT friends, that wasn't a well co ordinated game and all round fun for our squad and the rest of our team. The gameplay is captivating and the environments are incredibly immersive. The sounds are 10/10 from gravel crackling under your shoes to the sound of bullets flying past, narrowly missing your skull. Great game so far, has so much potential and the developers work extremly close with the community. Cant wait for vehicles to be implemented next month. :D"
-2014-02-13,221100,True,"DayZ in it's current state (alpha), gives you a great idea of where 'Rocket' and the DayZ team are heading. Although it's still early days and there's a good 8 months between now and hitting 'beta' stages, the game has a great amount of features and a bigger list of things yet to be implemented.That being said, DayZ cops a lot of flack to do with bugs, server wipes etc..The DayZ team is one of the hardest working dev teams out there and it's such a small team that manages to roll out very frequent patches. By the time the beta comes, I believe DayZ will be a force to be reckoned with, in the 'Survival Horror' and 'MMO' genres."
+posted,item_id,recommend,sentiment_analysis
+2015-06-03,346110,True,1
+2015-04-15,271590,True,2
+2015-12-18,393380,True,1
+2014-02-13,221100,True,2

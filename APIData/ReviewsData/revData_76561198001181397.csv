@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-20,417461,True,anything gold is worth buying....JUS DO IT
-2015-04-06,4000,True,A social and creative game made just for the sole intention of making freinds with innovation.MUST BUY!!!
-2016-07-20,377560,True,it is so amazing that you shouldn't install it on your xbox and playstation....CAUSE PCMR PEASENTS
-2016-06-19,468560,True,"10/10 game...Was recommended whle playing GTA 5 so I didnt trust my friend who recommended it but after dis game, *CRIES*  I ♥♥♥♥♥ TRUST HIM WIF MAH LIFE *WIPES TEARS* dont judge me k?"
+posted,item_id,recommend,sentiment_analysis
+2016-07-20,417461,True,2
+2015-04-06,4000,True,1
+2016-07-20,377560,True,2
+2016-06-19,468560,True,0

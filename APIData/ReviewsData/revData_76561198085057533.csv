@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-11,346110,True,"Really solid game. Before buying this game I was unsure, as people said it was very optimised. Fret not, as I have a low-to-mid range pc and it runs beautifully. Amazingly fun, very addictive and would highly recommend it. Can't wait to see how it develops, as it is already a really top notch piece. Good luck to Ark devs, and may you all keep on surviving!"
-2013-12-31,570,True,"It is a great general game, with hundreds of posibilities due to the enormous amount of player characters. They are avalible drom the start, as it features no unlocking feature for characters. Overall a brilliant game sutiable for everyone from 10+."
+posted,item_id,recommend,sentiment_analysis
+2015-09-11,346110,True,2
+2013-12-31,570,True,2

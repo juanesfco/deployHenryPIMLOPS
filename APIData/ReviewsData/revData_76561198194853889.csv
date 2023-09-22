@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-01,212070,True,"Star conflict is a action sci-fi space shooter game. Which is one the best free to play games i'v got, and most of my games are free to play.oh so you know you MUST get star conflict"
-2016-02-21,204360,True,I have one thing to say GET THIS GAME thats all.
-2015-12-13,304050,True,GET TROVE
-2015-12-09,110400,True,"I see that user reviews has mostly positive, which is not fare cause this is an, AWESOME game highly recommend it"
-2015-11-13,104900,True,get this game its awesome and only $0.99 USD I have got it and you should get it to :)
+posted,item_id,recommend,sentiment_analysis
+2015-12-01,212070,True,2
+2016-02-21,204360,True,0
+2015-12-13,304050,True,1
+2015-12-09,110400,True,2
+2015-11-13,104900,True,2

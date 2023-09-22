@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-07-01,346010,True,"Besiege is a great game, however it needs more tools such as: Copying a group of blocks and pasting (allow saving as well) like functions in CAD softwareNew mode that allows solid connection bewtween block for making huge project without inducing too much lag (actually solid like the environment so the group of blocks will be viewed as one large block, no bendings)Enable multithreading* (Huge)Allowing angle block without moddingETC."
+posted,item_id,recommend,sentiment_analysis
+2015-07-01,346010,True,2

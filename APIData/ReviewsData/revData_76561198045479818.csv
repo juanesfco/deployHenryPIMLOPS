@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-22,221100,True,yea its amazing even though its not very smooth yet
-2014-01-05,8870,True,My Favourite game by far
+posted,item_id,recommend,sentiment_analysis
+2014-01-22,221100,True,2
+2014-01-05,8870,True,0

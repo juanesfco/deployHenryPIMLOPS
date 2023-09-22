@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-14,265930,True,nice
-2015-03-23,248570,False,its too complicated and in fight school it doesent teach you properly :(
-2016-01-29,1840,True,i like it its awesome but it may not be easy at first but look on youtube and see what you can find to help you with this program.
-2015-12-19,4000,True,best game ive ever played best $10.00 iv e ever spended
-2013-11-12,440,True,i like this
+posted,item_id,recommend,sentiment_analysis
+2016-01-14,265930,True,2
+2015-03-23,248570,False,0
+2016-01-29,1840,True,2
+2015-12-19,4000,True,2
+2013-11-12,440,True,1

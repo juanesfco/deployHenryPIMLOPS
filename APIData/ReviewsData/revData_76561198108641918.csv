@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-10,730,True,"There's a reason so so many people actively play this great game.If you can get over the Smurfs, Trollers and De-Rankers you'll encounter in your innitial hours, be set for just about the most enjoyable game."
-2016-03-10,247730,False,-Launches game-'Your Email is already in use'-Attempt to recover-No recovery email-KThen.jpgRip
-2014-07-04,218230,True,Bought a new $5000 PC just to play this game.10/10
+posted,item_id,recommend,sentiment_analysis
+2016-03-10,730,True,2
+2016-03-10,247730,False,0
+2014-07-04,218230,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-08-10,355180,False,I hope the maker of this gets a heart attack..the end
-2015-10-18,382490,False,"First 9 weeks of school straight a's,I got this game then I got straight f's"
-2015-08-15,440,False,"I played it so much, and then hats took over"
-2015-08-11,550,True,DEATH DEATH DEATHLOL      LOL      LOLAWESOMEAWESOMEAWESOME
-2014-10-19,204300,True,I WANT IT SO BAD :((((
-2014-07-23,301520,False,this game is a peice of ugly...it would be funny if the guy that made this got in a car crash..LOL that would be funny
+posted,item_id,recommend,sentiment_analysis
+2015-08-10,355180,False,1
+2015-10-18,382490,False,1
+2015-08-15,440,False,2
+2015-08-11,550,True,2
+2014-10-19,204300,True,0
+2014-07-23,301520,False,1

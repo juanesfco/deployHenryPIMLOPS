@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-13,225080,True,"Read no further reviews about it, and spoil nothing for yourselves. Play it and be immersed. It is a definite must play."
-2014-06-15,268750,True,"Multiplayer gameplay:1.) Port forward - Google on how to get this done, and with a static IP, you should have no issues hosting a game.2.) Hamachi - Easier than port forwardingThe game captures the essence of a crafting survival adventure gameplay which is surprisingly addictive. Even at this stage of development, there are minimal bugs; very unlike other alpha / early access games. Great range of biomes, though it would be better if there were more classes. Overall a great game."
+posted,item_id,recommend,sentiment_analysis
+2014-07-13,225080,True,1
+2014-06-15,268750,True,2

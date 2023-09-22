@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-24,383080,True,Amazing69/69
-2015-06-29,113420,False,"this is the worst i have ever played. it is an uninspired pile of horse ♥♥♥♥ rip off of fallout with friends. for the 1 and a half hours i played it i  did grinding and fetch quest. that is the extent. and its the same model for all bandits. Basically, do NOT play this game"
+posted,item_id,recommend,sentiment_analysis
+2016-02-24,383080,True,1
+2015-06-29,113420,False,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-10-18,7510,True,Gratuitous T&A Hack'n'Slash with suprisingly in-depth control patterns. Kind of a DMC clone but better... visuals...
-2014-03-09,104900,True,The game that proves meta score is a waste of space on the internet. 
-2013-07-03,236090,True,"7/10 - The story is rather lacking (amnesia, find self while fighting monsters and doing side quests), but the combat is some of the best I'v ever played and the artwork is very cool"
-2012-03-19,440,True,"Is good game. Many items for laughing. Get hat, do taunt, even eat sandvich. Nothing better yes?"
+posted,item_id,recommend,sentiment_analysis
+2013-10-18,7510,True,2
+2014-03-09,104900,True,0
+2013-07-03,236090,True,2
+2012-03-19,440,True,2

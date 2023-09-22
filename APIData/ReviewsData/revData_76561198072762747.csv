@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-23,238460,True,"This game touched me in my specle place. 10/10, clench your butts."
-2016-06-30,391220,True,i liek
-2016-06-02,209870,True,blackman retribution
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,238460,True,0
+2016-06-30,391220,True,1
+2016-06-02,209870,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-09,730,True,Sick as Game
-2014-10-18,301520,True,Super Fun and Cool
+posted,item_id,recommend,sentiment_analysis
+2014-06-09,730,True,0
+2014-10-18,301520,True,2

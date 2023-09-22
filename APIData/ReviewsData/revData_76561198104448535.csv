@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-24,264710,True,"I loved this game. I've been always wanting these types of games. Exploring, finding secrets, creating awesome bases and underwater. It's amazing. I look forward for some new updates and developments. Great game!"
-2016-03-08,322500,False,"I reccomend, NOT to get this game.1. You can't crouch.2. The static when you restart hurts my ears.3. The story sucks.4. The guy who says 'SUPERHOT' is very annoying.5. The red Dudes scare me.6. There's no music.Don't be mad at me. They're just MY opinions."
-2016-01-12,218620,True,This game will teach me how to rob banks xD
-2016-08-11,205100,False,DAAAAAAAAAMN THIS GAME IS CREEPING ME OUT TOO MUCH WEEPERS AND THE MUSIC IS SO UNCOMFORTABLE only people with brave hearts can play this ;_;
+posted,item_id,recommend,sentiment_analysis
+2016-07-24,264710,True,2
+2016-03-08,322500,False,1
+2016-01-12,218620,True,0
+2016-08-11,205100,False,1

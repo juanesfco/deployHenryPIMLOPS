@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-11,211820,True,this game is a good open world adventure with a lot of items and a lot of monsters and NCP's that live in houses in vilages or in castles on hills with dozens of guards to protect the lords
-2015-11-27,370100,True,would fire entire clip with one click again10/10
-2015-06-20,4000,True,Dis game is good
+posted,item_id,recommend,sentiment_analysis
+2014-04-11,211820,True,2
+2015-11-27,370100,True,1
+2015-06-20,4000,True,2

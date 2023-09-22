@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-28,359550,True,gud game 10/10
-2015-11-30,24010,True,stop complaning the dlc save ur money and buy all of them or buy each dlc when u charge ur account
-2016-05-10,218620,False,worst game ever
+posted,item_id,recommend,sentiment_analysis
+2016-05-28,359550,True,0
+2015-11-30,24010,True,1
+2016-05-10,218620,False,0

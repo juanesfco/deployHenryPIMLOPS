@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-07,391540,True,"This game was ♥♥♥♥ing amazing, i no need to make mulitple accounts so i can recommend it over and overagain. I don't care if it means i have to buy it again, and now all i need to do is buy the Soundtrack"
-2016-02-09,211420,True,"This game is ♥♥♥♥ing amazing, has some of the most amazing lore in a video game to exist and has the best NPC in any game ever, Priase The Sun!! [T]//"
-2015-10-06,105600,True,looks bad but is actually good
-2015-09-29,238460,True,"really fun Multiplayer/singleplayer adventure, i Have had lots of laughs so far and would recommend it for everyone"
+posted,item_id,recommend,sentiment_analysis
+2016-03-07,391540,True,2
+2016-02-09,211420,True,2
+2015-10-06,105600,True,1
+2015-09-29,238460,True,2

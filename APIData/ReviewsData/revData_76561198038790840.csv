@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-16,423230,True,♥♥♥♥ me sideways this is a difficult game and I haven't even unlocked the hard difficulty. Only came here to take a break from the third boss since he is going to give me a brain aneurysm if I lose one more time.
-2016-03-25,227680,False,"My Grandfather smoked his whole life. I was about 10 years old when my mother said to him, 'If you ever want to see your grandchildren graduate, you have to stop immediately.'. Tears welled up in his eyes when he realized what exactly was at stake. He gave it up immediately. Three years later he died of lung cancer. It was really sad and destroyed me. My mother said to me- 'Don't ever smoke. Please don't put your family through what your Grandfather put us through.' I agreed. At 28, I have never touched a cigarette. I must say, I feel a very slight sense of regret for never having done it, because this game gave me cancer anyway."
-2016-05-31,323320,True,"Took me just under 4 hours to 100% the game. Didn't feel rewarding at all, but that's just because there's no challenge I suppose. If you like collectathons give it a go... otherwise steer clear."
-2015-12-30,322170,True,Other than forcing me to write this review to unlock a character it's a good game!
+posted,item_id,recommend,sentiment_analysis
+2016-07-16,423230,True,0
+2016-03-25,227680,False,1
+2016-05-31,323320,True,1
+2015-12-30,322170,True,1

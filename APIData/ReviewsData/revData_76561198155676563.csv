@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-30,440,True,Awesome game :D
-2016-06-16,242050,False,"UPlay is the reason.Cant reboot, get 10-30 fps,and frequently crashes.Computer easily runs it but uplay makes the experience less enjoyableWould highly not recommend it. Its not the game, its uplay"
-2015-11-27,252950,True,An awesome action packed game. I'd recommend it to anyone :)
-2015-09-13,386360,True,Extremely good! A twisted moba game that involves less fighting between your teammates.
+posted,item_id,recommend,sentiment_analysis
+2015-06-30,440,True,2
+2016-06-16,242050,False,1
+2015-11-27,252950,True,2
+2015-09-13,386360,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-28,4000,True,"Garys Mod Is Really Good, Try Prop Hunt Or TTT (Trouble In Tererist Town)Soz For Bad Spelling :/"
-2014-01-28,49520,True,Its Best To Have A Good Computer To Play This On Otherwise Its Laggy :/
-2014-01-28,33930,True,Beast Of A Game. GET IT SO WE CAN PLAY DAYZ
-2014-01-28,440,True,Tf2=epic It Is Your Destiny To Get It
+posted,item_id,recommend,sentiment_analysis
+2014-01-28,4000,True,1
+2014-01-28,49520,True,2
+2014-01-28,33930,True,0
+2014-01-28,440,True,1

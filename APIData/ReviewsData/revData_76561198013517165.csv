@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-24,12210,True,"This game is brilliant. Given the right hardware, it is far more advanced than the PS3 and 360 versions.The only real downside is having to install Game For Windows Live, but once you get past that the game works fine!"
-2015-12-11,407600,True,Fantastic games! Runs great on my PC. Its a pity Raiden 2 (My Favourite) isnt included but I understand there are issues with getting the emulation to work.
-2016-09-17,521990,True,"This is one of the nicest looking shoot'em ups I have ever played.Runs perfect on my PC, which is an Intel Core i7 2700k with an NVidia GTX 660TI and 16GB RAM on Windows 10 1607 update.Has some cool weapons and plays great!My own critism is it would be better if some of the in game options would work with an XBox 360 controller, eg, to restart a level rather than having to use the mouse.Highly Recommended Purchase!"
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,12210,True,2
+2015-12-11,407600,True,2
+2016-09-17,521990,True,2

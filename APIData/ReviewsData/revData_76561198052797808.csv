@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-14,730,True,"Spent over 600 h of my life on this, still only just above average in terms of rank. 10/10 would waste life again."
-2014-07-26,266010,True,"Great game, becomes extremely satisfying as the levels progress.For $3, its a no brainer!"
-2014-12-19,204360,True,This game is absolutely wonderful. Great fun and super hilarious!10/10 would recomnd.
-2014-06-27,225080,True,"This game is a MUST play. If you don't already own the game, buy it. the gameplay mechanics are very interesting and enjoyable. Plus the storyline is possibly my ALL TIME favorite. I played this in one sitting I enjoyed it so much."
+posted,item_id,recommend,sentiment_analysis
+2015-06-14,730,True,0
+2014-07-26,266010,True,2
+2014-12-19,204360,True,2
+2014-06-27,225080,True,2

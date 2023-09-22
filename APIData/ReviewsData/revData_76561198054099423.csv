@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-27,1250,True,"Awesome game for anyone interested in tactical-coop horror survival, it's the perfect mixture between a fast paced fps and a slow-tactical strategy game. It's multiple maps will keep you coming over and over to this little jewel from Tripwire Interactive."
-2016-08-27,304930,True,One of the best f2p games out there in the steam store. It combines almost perfectly both survival and pvp elements. It's singleplayer mode it's pretty catchy but it's real core is in the multiplayer which features a lot more of players to play with because the servers are never empty.
-2016-02-02,225140,True,"One of the best fps of all times.Duke Nukem 3D is a jewel that MUST be played if you're into the fps genre, it has proven to be age-proof, doesn't matters if you're old or young, this game will always give you something to laugh at or at least to get excited at."
+posted,item_id,recommend,sentiment_analysis
+2016-08-27,1250,True,2
+2016-08-27,304930,True,2
+2016-02-02,225140,True,2

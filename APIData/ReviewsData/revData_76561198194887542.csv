@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-05-04,240,True,"Pure FPS pleasure. I will probably never stop playing this game. Given there's a lot of cheats/hacking going on, but its simple enough to be run on most configurations, which cannot be said about a lot of recent FPS."
+posted,item_id,recommend,sentiment_analysis
+2015-05-04,240,True,1

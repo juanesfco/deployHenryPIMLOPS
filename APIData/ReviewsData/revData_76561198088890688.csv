@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-09,440,True,This is ♥♥♥♥ING AMAZING game
-2014-11-20,224260,True,Nice
-2014-10-19,209870,True,is Amazing
-2014-02-25,208090,True,awesome Shooting game in Third person mode
+posted,item_id,recommend,sentiment_analysis
+2013-12-09,440,True,2
+2014-11-20,224260,True,2
+2014-10-19,209870,True,2
+2014-02-25,208090,True,2

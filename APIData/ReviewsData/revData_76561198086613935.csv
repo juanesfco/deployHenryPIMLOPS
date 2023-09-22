@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-08,550,True,gud
-2015-06-18,42700,False,Wont even open. cant fix it no matter what
-2014-08-13,50300,True,"This is the best game I have ever played. I have been playing games since I was five and no game has had such an impact as this one. If there is only one game you play this year make it this one. While it is short this is fine because it keeps the story tight. It starts off the same as any other generic shooter, killing arabs, your squad mates orrahing all the time but it quickly becomes a game about sanity and real moral choice. One thing that struck me with the moral choice in this game was that the choices were not good or evil, more sane or insane. A must play 10 out of 10"
-2014-05-25,211420,False,Cant even play it! Crashed instantly. It is now unplayable because of the windows live shut down. I am soooo ♥♥♥♥♥♥ I bought this game and cant even play it.
-2014-04-17,49520,True,litteraly the best game ever in anyway possible
+posted,item_id,recommend,sentiment_analysis
+2015-08-08,550,True,1
+2015-06-18,42700,False,1
+2014-08-13,50300,True,1
+2014-05-25,211420,False,0
+2014-04-17,49520,True,2

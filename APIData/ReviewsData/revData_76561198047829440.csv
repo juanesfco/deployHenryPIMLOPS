@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-18,221680,True,"9/10 The mechanics of the game are spot on, the way the menu smoothly flows and the game encorages you to keep playing is great. The only downside to the game is that it doesnt teach you the aspects of timing very well, which makes jumping from the game to an actual band difficult."
+posted,item_id,recommend,sentiment_analysis
+2014-12-18,221680,True,1

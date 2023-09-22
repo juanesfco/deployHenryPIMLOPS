@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-17,218620,True,Shield pushed me into a door while i was downed and i couldnt move 10/10
-2015-03-13,348090,True,minigun-rocketlauncher combo....never fails...NEVER!
-2014-12-16,211820,True,found something cute and it riped out my jugular. 10/10 would ♥♥♥♥ of again
-2015-01-15,227480,True,shot a skeleton in the face with a railgun..7.3/10 would skeleton again.
-2014-12-18,253710,True,found a tree next to a rock sat there for some time. saw a dear and killed it  10/10 would sit again
+posted,item_id,recommend,sentiment_analysis
+2014-10-17,218620,True,1
+2015-03-13,348090,True,1
+2014-12-16,211820,True,2
+2015-01-15,227480,True,1
+2014-12-18,253710,True,1

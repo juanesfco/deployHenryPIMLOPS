@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-02,224500,True,"This is a regularly updated micro-management type game, similar to dwearf fortress, but with better graphics!  While the interface can be difficult to navigate, and some of the production chains and the workshop system can be a little counter-intuitive, once you have the basics worked out it is an easy game to play.  That is not to say it is an easy game to survive however!  The enemies that spawn are related to your total value, but if you manage this they can be controlled (sort of) easily, or simply play a peaceful kingdom and dont worry!  This is a game for those people who would like to run their own personal kingdom and build things just the way they want, with a developer that regularly improves the game, and i can't recommend it enough!"
-2015-03-02,224440,True,"This is a game with huge potential that i steadily moving towards fulfilling it.  At the moment, it is a basic strategy game with some RPG elements, witha humorous tinge to the characters that makes it an extremely rewarding game.  I can never wait patiently till more content is released, which is a regular occurence!  I definitely recommend buying it."
-2015-01-16,326670,False,"well, i think I've experienced all this game has to offer.thanks for wasting my money"
+posted,item_id,recommend,sentiment_analysis
+2015-03-02,224500,True,1
+2015-03-02,224440,True,1
+2015-01-16,326670,False,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-30,21000,False,It doesn't work.Might be my video card or something but it just doesn't work.the worst part is there is no fixes online. ive checked but nothing.0/10.
-2014-11-25,218230,True,"PlanetSide 2 is a great game,there are 4 seperate maps which are massive, with all different enviroments.(Swamplands, snowlands come to mind atm)It's truely a MMOFPS with thousands able to be on one server at a time.With 3 different empires to play for-Terran Republic-New Conglomerate -Vanu SovereigntyWith 6 different unique classes there is something for everyone-Light assault, which have a very helpful jetpack.-Heavy assault, for those who like like a lot of bullets, using light machine guns to take down enemies.-Engineer, very useful, can give ammo to team mates.-Combat medic, basically just a medic.-Infiltraitor, uses a sniper rifle to take out enemies at a distance.-MAX, just a tank, used to push up and do serious damage.In conclusion,Its a great game and it's free, atleast try it out for yourself.in my opinion it's a grteat game and should be in your game library no matterwhat. with heaps to do you can get hours and hours out of it.I'm just over 130 hours and it feels as if i'v only just scratched the surface.9.5/10"
-2014-06-06,4000,True,great 9/10
-2014-02-12,49520,True,"Fun game to play by yourself, but so much better with a friend/s. i recommend this game to everyone. i'v personally played just over 100 hours and i don't regret a thing. Also the shiftcodes are a cool feature (you basically get free loot)."
+posted,item_id,recommend,sentiment_analysis
+2014-11-30,21000,False,0
+2014-11-25,218230,True,2
+2014-06-06,4000,True,2
+2014-02-12,49520,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-21,206420,True,meme
-2015-11-02,363970,True,meme
-2014-11-07,207140,True,"Amazing, time consuming, overall worth/10, extremely fun and competitive and any computer can run it on high fps, definitely reccomend buying this, worth the money."
+posted,item_id,recommend,sentiment_analysis
+2015-12-21,206420,True,1
+2015-11-02,363970,True,1
+2014-11-07,207140,True,2

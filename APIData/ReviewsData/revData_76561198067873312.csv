@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-11,200510,True,"A great mix of slow, tension building approaches and exciting gunplay. 10/10, my gmae of the year."
-2014-07-25,8930,True,This game is really good. It puts you in place of a ruler and lets you build a civilisation from scratch. It's a great experiece and can even be educational.9/10 ps very addictive approach with caution
-2014-06-19,224260,True,Very fun. Survival FPS with a horror twist. Great mod.
+posted,item_id,recommend,sentiment_analysis
+2014-08-11,200510,True,2
+2014-07-25,8930,True,2
+2014-06-19,224260,True,2

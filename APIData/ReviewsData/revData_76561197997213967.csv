@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-27,4540,True,"It's like everything that was great about Diablo 2 , but in ancient greece.This is a shining jewel of a hack and slash rpg D2 rip off, but its a rip off in all the right ways.If you like D2, play this game, you will like it."
-2014-11-06,266110,True,"This game is actually really fun. Its like a First person shooter but as opponents its the tower itself, blow up traps and robots and stuff.Git it"
-2014-10-30,292630,False,This game is very very very bad.Please for the love of god dont play it.If you happen to get it for free idle it for cards and move on.Under no circumstances should you actually pay money for this game.
-2014-03-13,250600,True,"This game is the game of the year, hands down. It is the heartwrenching struggle of a lowly fly to ascend to a higher state of being. The vastly superior, engaging, and thought provoking story is reminiscent of such classics of literature as Animal Farm and The Stranger. It is simply the finest work of art to ever exist.This game also laid eggs in my eye and I spawned forth hundreds of flies.So please play this marvelous masterpiece and spawn its fly babies."
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,4540,True,2
+2014-11-06,266110,True,1
+2014-10-30,292630,False,1
+2014-03-13,250600,True,2

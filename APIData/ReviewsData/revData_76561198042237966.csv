@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-13,214830,True,It Epic And Funny
-2014-02-10,248820,False,"RNG with nice music and (depending on your point of view) potentially nice graphics. The gameplay may be found fun by some people but the idea of kiting bullet sponges for a few minutes really, really doesn't appeal to me."
-2014-01-27,8870,False,"stories in video games aren't fun if they're told through really long, irritating scripted events. just let me read what's happening or give me control over my character. i came to play a game not take my hands off the keyboard and mouse because it's 'story time'."
-2014-01-20,42910,True,"Pretty decent gameplay with some very innovative systems in place for creating your own spells; a total blast in multiplayer, but the tidal wave of DLC that the devs have released is a tad greedy, to say the least. Also the pop culture references are really, really jarring and dated. No, Paradox Interactive, not everyone is a thirteen-year old who finds memetic pop culture references funny, and no, you aren't funny. It's still a much better game to pick up over Magicka 2, though, as ironically, its systems are much more robust."
-2013-10-27,113200,False,newgrounds
+posted,item_id,recommend,sentiment_analysis
+2014-07-13,214830,True,2
+2014-02-10,248820,False,2
+2014-01-27,8870,False,0
+2014-01-20,42910,True,2
+2013-10-27,113200,False,1

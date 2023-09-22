@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-19,221100,True,New engine iz poop 1fps ftw
-2014-12-20,287390,True,"Awesome game, feels and looks realistic. Alright storyline as well."
-2013-07-11,9900,True,don't get this game
-2013-07-11,8870,True,Bloody sweet game ay
+posted,item_id,recommend,sentiment_analysis
+2013-12-19,221100,True,2
+2014-12-20,287390,True,2
+2013-07-11,9900,True,0
+2013-07-11,8870,True,0

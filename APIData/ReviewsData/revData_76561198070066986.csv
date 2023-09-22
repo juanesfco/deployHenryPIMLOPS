@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-07-04,730,True,i've spent too much time and money on this game
-2014-10-10,241930,True,"An Uruk named Khrosh the Friendly killed me 4+ times, and was very polite when doing so.10/10"
-2015-08-17,252490,True,its pretty cool
-2014-10-10,72850,True,"Immediately immersive and continuous gameplay with no bounds, a great story, interesting and unique characters, tons of spells and weapons, and a huge selection of mods to add content and change the game.One of the greatest RPGs around. 10/10"
-2014-04-24,213670,True,"Hilarious game, especially if you are a fan of South Park. The only down side is that it wasn't as long as I had anticipated it would be, but otherwise, great humour and unique combat. oh and you can fart on command. 10/10"
-2014-04-24,211820,True,"Addicting and fun game. Although it's similar to terraria, it's very unique and broad in terms of content. And it's still in Beta!"
-2014-04-24,4000,True,"Awesome game, very cheap, tons of free workshop addons and extremely fun to play with friends."
-2014-01-12,440,True,smoo
-2013-07-13,8980,True,great fun. tons of guns and a unique and awesome art style
-2013-01-06,500,True,Brilliant
+posted,item_id,recommend,sentiment_analysis
+2015-07-04,730,True,0
+2014-10-10,241930,True,2
+2015-08-17,252490,True,2
+2014-10-10,72850,True,2
+2014-04-24,213670,True,2
+2014-04-24,211820,True,1
+2014-04-24,4000,True,2
+2014-01-12,440,True,1
+2013-07-13,8980,True,2
+2013-01-06,500,True,2

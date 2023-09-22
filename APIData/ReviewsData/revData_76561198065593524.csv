@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-12-03,730,True,silver 4 in 2 hours 10/10
-2014-11-13,55230,True,the ♥♥♥♥♥ was banned in australia 10/10
-2015-06-20,8930,True,"Time... you need time to play this, so far am into approx 13 hours on a single vs AI game and I can never get enough. I guess what I like most about this is its not like most strategy games where the AI mechanics eventually just 'give up' and stop doing anything productive at the end-game, they will constantly produce content for you to enjoy for hours on end... also not to mention workshop integration for community made historical battles and events to scale maps of earths countries and continents, if you are a turn based strategy fan or not (I wasn't), this is a franchise you MUST try."
-2014-12-26,314160,True,"my childhood simulator, good to see a steam version and 'not-as-frequent' game crashes anymore however pilot crashes are at an all time high :) but seriously if you want a flying simulator with simplicity I definitely recommend."
-2014-09-06,24010,False,I buy a train and then have to spend another 20$ DLC to drive it? NO THANKS
-2015-03-13,255710,True,Put a hydro Dam next to my town - river overflowed and flooded my town 11/10
+posted,item_id,recommend,sentiment_analysis
+2014-12-03,730,True,1
+2014-11-13,55230,True,1
+2015-06-20,8930,True,2
+2014-12-26,314160,True,2
+2014-09-06,24010,False,1
+2015-03-13,255710,True,1

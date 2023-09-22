@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-03-04,218620,True,"PAYDAY 2 is a fun heisting game where you mask up as one of the many characters of the PAYDAY crew: Dallas, Chains, Houston, Wolf, and more, to pull off the perfect robbery. With hours and hours of gameplay, lots of heists that will leave your heart racing, and amazing DLC that go onsale quite often, you just can't not love this game.I give this amazing game 11/10!"
-2015-10-20,374300,True,"Amazing, very fun heist that has a lot of preplanning options, the buzzer is hilarious and works very well with dominating and the gun is like a non-penetrating sniper rifle with a large magazine."
-2015-10-20,384021,True,"The sniper rifle has the most concealment, the pistol crossbow is fun to use and is another anti-shield secondary, and the new SMG looks badass and plays equally good. The Shurikens and Kunai are worth it alone, though."
-2015-10-20,384020,True,"The perk deck is amazing with beserker builds and the katana is the great sword+sanic, the gun is amazing with ammo management but isn't very accurate. The character is cool but I prefer Sokol."
-2015-10-20,374301,True,"Nice character with a cool rifle, perk deck makes you an immortal russian. 11/10"
-2016-01-13,204360,True,"I've played for 58 hours, beat the game with friends many times, and then decided I'd reset a single character to replay the game with him again.I then accidently pressed the 'Reset All Stats' button without thinking, and reset all my hardwork.11/10 58 hours gone to waste(Note: The game is really fun, which is why I haven't given up.)"
-2015-10-24,401650,False,"Own PAYDAY 2 and want Killing Floor, but can't afford it?Here's your cheap alternative. Only pick this one up in a sale, it's okay but you're better off buying another DLC."
+posted,item_id,recommend,sentiment_analysis
+2015-03-04,218620,True,2
+2015-10-20,374300,True,2
+2015-10-20,384021,True,2
+2015-10-20,384020,True,2
+2015-10-20,374301,True,2
+2016-01-13,204360,True,1
+2015-10-24,401650,False,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-06,207610,True,"This game is definitely my favourite game. It is also undoubtably Telltale's best game. The style of game this is makes it amazing, it gives you a sense of urgency as you don't have much time to decide on life or death situations. This game offers so many possiblities for different storylines it makes you want to play it as many times as you can to see what is different. Your choices decide how the ending goes down but what choices you make also don't effect what happens in the end. I would always recommend this game."
-2014-07-06,32370,True,Another excellent game that ALL Star Wars fans will love no matter which trilogy they like.
-2014-07-06,265930,True,"Extremely funny game, a few glitches that are great when they occur."
-2014-07-06,620,True,"Great puzzle game, can play it over and over trying new ways."
-2014-07-06,48190,True,"One the Best games ever in my opinion, Can play this following story or free-play for hours."
-2014-07-06,49520,True,Want Triggerhappy? Get This.
-2014-05-05,6060,True,"An Excellent game, Star Wars Fans will be hooked for hours on end"
+posted,item_id,recommend,sentiment_analysis
+2014-07-06,207610,True,1
+2014-07-06,32370,True,2
+2014-07-06,265930,True,2
+2014-07-06,620,True,2
+2014-07-06,48190,True,2
+2014-07-06,49520,True,1
+2014-05-05,6060,True,2

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-03-27,352111,True,"I defiantly recommend this to everyone that loves to build cave, add more detail to the terrain etc... This really brings AGF to the next level, with this DLC I can now build my dungeons and caves for my game. I really can’t wait to see what’s the next DLC and content."
-2015-01-27,270942,True,"This is a great dlc for AGF, as AGF is no longer a map / level creator it turns it into a tabletop game maker, the amazing thing about BattleMat is that it has so much detail into it as you can even has a Randomizer with this you can chose your loot, quests and monsters, this isn't my favourite dlc but it is a good dlc, if you love to make and play a tabletop game that is built for miniature battles, you would have a blast at this, but if you like more of a fps I would recommend the zombie fps dlc."
-2013-12-12,252490,True,Best Survival game
-2015-01-27,337120,True,"The Drone Kombat fps multiplayer is one of my favourite dlc as I love to make futuristic games and this dlc helps me achieve that, the really cool things about this is that the fps drone you use has rear-view mirror and a top view of the map.  You can also with up to 8 of your friends or could publish it and let others play your game. Also you can have Enemy drones that you have some combat with. Finally it comes with great building assets to make your futuristic game a great thing about that is these assets are free to use and make your game."
-2015-01-23,253370,True,"I have chosen to write this review because it is the best map creator that I have ever used it has many great and easy features that you can use in this program. First off you think easy = bad but not in this program the many easy features in this program would change your map dramatically. You can make your maps and import it into unity or use there dlc's to make your game even better. The developer of the program is a great guy that will help you on Skype with anything and talk with you step to step by having him on Skype, this is better than sending an email to him because  it’s not email sent then wait a day to get a reply back etc.. it does take time to get used to some features in this program but not all of the features take time to learn, there are also tutorials that he has made to help you out, the developer is also very smart by taking an engine and making it into a game like so this makes the experience much more fun and rewarding. I defiantly recommend this game engine to everyone that would like to make a game and wants to have a blast making it."
-2015-01-26,270940,True,"Great dlc to use with agf, this can help you achieve much more in AGF, as you only could make maps or levels in it without the dlc that is still good if you want to use unity later on.but now you can make more to your game and develop a game that you and your friends can enjoy, it comes with the zombie assets in it so all you have to do is buy>build>play its really simple. This is one of the best dlc's you can get to make your zombie game with or whatever you would like to achieve with this, I would recommend this game to everyone that loves a good zombie game or a good laugh."
-2015-01-26,270941,True,"This dlc allows you in seconds to play a fantasy side-scroller this is great and fun to use, you and you're friends can enjoy this amazing dlc without them buying it. first you make the game then you can use there packager tool to package your game and give it to your friends this tool is totally free, best Fantasy side-scroller tools"
-2015-01-26,266590,True,"This premium is a great dlc, it gives you the full capabilities that you need to make a great game, it also alows you to publish your game to the public this is a must buy if you want your game to be published"
-2014-11-04,226700,True,"Really good game, + no hackers! This game is a must buy or you haven't lived."
+posted,item_id,recommend,sentiment_analysis
+2015-03-27,352111,True,1
+2015-01-27,270942,True,2
+2013-12-12,252490,True,2
+2015-01-27,337120,True,2
+2015-01-23,253370,True,2
+2015-01-26,270940,True,2
+2015-01-26,270941,True,2
+2015-01-26,266590,True,2
+2014-11-04,226700,True,1

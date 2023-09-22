@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-03-30,49520,True,"This Game is basically AWESOME!!IT's kinda like an fps/rpg style because of the looting system.There's alot of great features in the game! -Character Customization -Tons of AWESOME Guns -A Number.If you don't like buying DLC stuff,You could still play this game even without the DLC!!OVERALL: 9.99/10Great Game!Definitely Recommended :)"
-2014-04-22,1250,True,"Well If you want a game where you blow ♥♥♥♥ up!,Slice Heads,Spam nadesPlay this game 10/10 Extremely Fun!"
-2015-06-04,230410,True,"If you don't want to get addicted to a game, Don't install this game... ^^"
-2015-11-21,219150,True,Violence solves everything. 11/10
-2015-10-10,333930,False,Fastest game i've uninstalled.
-2014-05-23,113200,True,"Very fun and interactive game!But beware..This game is very difficult,But you'll get use to it!Definitely recommended!9.5/10"
-2014-05-08,224260,True,"This game is fun!,.,,..But This is the Hardest ♥♥♥♥ing Zombie game i've ever played :3"
-2013-04-24,440,True,One of the best FreeMium Games Out there!I love the Cartoony Graphics!There's loads of hats you could put on!And the most fun thing is.....Throw a jar of ♥♥♥♥ to the enemy!
+posted,item_id,recommend,sentiment_analysis
+2015-03-30,49520,True,2
+2014-04-22,1250,True,0
+2015-06-04,230410,True,0
+2015-11-21,219150,True,1
+2015-10-10,333930,False,0
+2014-05-23,113200,True,1
+2014-05-08,224260,True,0
+2013-04-24,440,True,2

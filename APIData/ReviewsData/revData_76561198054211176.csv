@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-22,248570,True,YOUR MUM MADE ME RATE THIS10/420
-2015-11-29,105600,True,made my character pretty #allpeoplematter
+posted,item_id,recommend,sentiment_analysis
+2014-05-22,248570,True,1
+2015-11-29,105600,True,2

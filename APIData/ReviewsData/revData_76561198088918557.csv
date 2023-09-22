@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-25,550,True,Awesome game must try with friends of course!
-2013-11-25,730,True,"Fun Game , It's a Must To Play With Friends."
-2014-02-22,4000,True,"Fun Game, Lots of game mods and servers. MUST TRY WITH FRIENDS ON GAME MODE SERVERS!!!!!"
-2015-07-19,232090,True,Gory And Fun at the same time. Good Graphics and smooth gameplay.More things to come etc.Early released gameplay is rather delicate
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,550,True,2
+2013-11-25,730,True,1
+2014-02-22,4000,True,0
+2015-07-19,232090,True,1

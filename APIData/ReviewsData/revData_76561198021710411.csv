@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-09-12,264610,True,"I recieved this with the pre-order version of PAYDAY 2.The heists themselves are good, they are fun but also damn hard. You WILL get butt♥♥♥♥ed my police officers if you're not careful."
-2016-09-04,339480,True,This DLC was the bomb!
-2016-09-02,435881,True,Only DLC worth buying.
-2016-09-02,206420,True,"It's a good game, wellworth the pricetag but I personally miss the old more gangster feel to the Saints Row games. Saints Row 2 was the ♥♥♥♥ back when it came out. I hope they return to a more gangster feel."
-2016-08-30,207610,True,"Amazing game, the ending will depress you."
-2016-07-01,252950,True,"Game is really fun to play with friends and bots, lots of customization to do with your cars and you get a new item every game which is good.My only issue with the game is during seasons it crashes sometimes when choosing matches and stuff.9.5/10All in all, a game that you should pick up right now!"
+posted,item_id,recommend,sentiment_analysis
+2016-09-12,264610,True,2
+2016-09-04,339480,True,1
+2016-09-02,435881,True,2
+2016-09-02,206420,True,2
+2016-08-30,207610,True,1
+2016-07-01,252950,True,0

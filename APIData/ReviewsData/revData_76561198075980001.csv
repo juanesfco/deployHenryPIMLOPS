@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-03-27,208090,True,"Just a realy cool game, run around kill get killed.weponcrafting is boss in this game.new game mode+ mods= BOSS!!!"
-2015-12-20,225540,True,just play it
-2013-10-29,440,True,What r u douing why arnt u playng this game!!
-2013-12-30,4000,True,no all u nedd to do is find out how this game workslloll
-2016-01-12,218620,True,in my first hr of playing on my main got to level 83
-2015-06-20,24960,True,"i highy recomend getting this game, the only problem with mine is that the cd code doesn't work i donk tnow why, and i would verry much like Valve to fix this problem"
+posted,item_id,recommend,sentiment_analysis
+2014-03-27,208090,True,0
+2015-12-20,225540,True,1
+2013-10-29,440,True,0
+2013-12-30,4000,True,0
+2016-01-12,218620,True,2
+2015-06-20,24960,True,1

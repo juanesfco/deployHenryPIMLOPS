@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-05-10,49600,True,o fato de poder jogar com a musica q vc quiser é ♥♥♥♥
-2015-05-10,72850,True,Baun
-2015-05-10,236090,True,"Enredo, graficos, jogabilidade, soundtrack tudo muito bom"
-2015-05-10,212680,True,Queria que tivesse mais atualizações ;-;
-2015-05-10,212480,True,"Mario kart do sonic, ♥♥♥♥"
-2015-05-10,207140,True,Golden Hook acaba com amizades '-'
-2015-05-10,230410,True,se vc sempre quis ser um carinha com armadura esquisita q usa uns poderzin e faz uns parkour doido enquanto atira esse jogo é pra vc
-2015-05-10,204360,True,♥♥♥♥  desde lv 1 ao final
+posted,item_id,recommend,sentiment_analysis
+2015-05-10,49600,True,1
+2015-05-10,72850,True,1
+2015-05-10,236090,True,2
+2015-05-10,212680,True,2
+2015-05-10,212480,True,1
+2015-05-10,207140,True,2
+2015-05-10,230410,True,0
+2015-05-10,204360,True,1

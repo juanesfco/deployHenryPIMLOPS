@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-28,249130,True,fav gem of all tim
-2014-02-27,104900,True,buy or die 10/10
-2015-04-09,222900,False,kill me
-2015-02-21,227940,True,its so terrible i dide
+posted,item_id,recommend,sentiment_analysis
+2013-11-28,249130,True,1
+2014-02-27,104900,True,1
+2015-04-09,222900,False,1
+2015-02-21,227940,True,0

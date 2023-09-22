@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-12,230410,True,"Awesome game, 4.5 stars :3"
-2015-05-08,348620,True,A fun and addictive game that challanges the mind and the heart.
-2014-10-02,317410,True,If you liked Melody's Escape then you will like this!
-2014-01-08,440,False,dont like it
+posted,item_id,recommend,sentiment_analysis
+2014-07-12,230410,True,2
+2015-05-08,348620,True,1
+2014-10-02,317410,True,2
+2014-01-08,440,False,1

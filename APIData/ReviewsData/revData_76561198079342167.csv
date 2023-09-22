@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-07,252250,True,why ? dosen't it work for me
-2014-02-13,94400,True,i love this simple but hard fight
-2013-12-30,440,True,i love team fortress2 because it both a great game alone but it have a inviting comuntily
-2013-12-17,248820,True,this game is not only one of the most butyiful pixal art games but is also incredibley addive
+posted,item_id,recommend,sentiment_analysis
+2014-01-07,252250,True,1
+2014-02-13,94400,True,1
+2013-12-30,440,True,2
+2013-12-17,248820,True,1

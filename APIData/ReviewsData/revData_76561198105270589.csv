@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-18,268750,True,i LIKE IT
-2014-07-10,304930,True,best zombie game i have played
-2015-07-17,4000,True,ONE OF THE BEST ♥♥♥♥ING GAMES I HAVE EVER PLAYED
-2015-04-18,440,True,this is one of the best games i have played it is fun
+posted,item_id,recommend,sentiment_analysis
+2014-10-18,268750,True,1
+2014-07-10,304930,True,2
+2015-07-17,4000,True,2
+2015-04-18,440,True,2

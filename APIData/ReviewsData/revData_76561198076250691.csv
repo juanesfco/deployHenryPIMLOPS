@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-30,209670,True,loads of fun and easy to mod
-2014-07-25,50130,True,like gta in the 50's and the dlc really adds some good stuff
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,209670,True,2
+2014-07-25,50130,True,2

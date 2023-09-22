@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-07-17,113400,True,ghregggrdghre''gregrggregergregergergre
-2014-09-13,17500,True,hi
-2014-08-23,440,True,i like this game the best
-2014-08-21,224260,True,i love this game
-2014-08-11,304930,True,this is fun
-2014-08-08,301520,True,how you get it
+posted,item_id,recommend,sentiment_analysis
+2014-07-17,113400,True,1
+2014-09-13,17500,True,1
+2014-08-23,440,True,2
+2014-08-21,224260,True,1
+2014-08-11,304930,True,2
+2014-08-08,301520,True,1

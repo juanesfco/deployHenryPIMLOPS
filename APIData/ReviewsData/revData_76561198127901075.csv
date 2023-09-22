@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-17,428950,True,Mad as game.11/10 Would shoot toilet again.
-2015-06-30,250600,True,It takes 5 minutes the finish this game but I went back and decided to play it a second time it was that good.
-2015-02-13,265630,True,Fistful of Frags is a good western FPS with a few different game modes and quite an amount of wepons. Fistful of Frags is one of those game like TF2 and CSGO that don't really get old.
-2015-02-10,4000,True,"Garry's Mod is an amazing game, with endless amounts of things to do. If you don't think there's enough, just go to the WorkShop and download some add-ons. I have had so much fun in the past, there are so many different game modes to play which is what I love about it. Getting on the game every now-and-than and screwing around with your friends building the most stupid things."
-2015-02-09,203160,True,"Tomb Raider is probably the best game I have ever played. It has the most amount of emotion and the graphics are phenomenol; I got stuck into the story so much, the combat is pretty amazing and I loved the parkour. Kinda disappointed that they abandoned the Multi-Player. Definitely would recommend this game."
+posted,item_id,recommend,sentiment_analysis
+2016-01-17,428950,True,0
+2015-06-30,250600,True,1
+2015-02-13,265630,True,1
+2015-02-10,4000,True,1
+2015-02-09,203160,True,2

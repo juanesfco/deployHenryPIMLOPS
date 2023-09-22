@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-25,227700,True,What is the first step to an awesome game?GIVE EVERYONE FREAKIN JET PACKS FROM THE GET GO!Seriously this is an awesome and addicting game. Recommened for everyone.I don't even have the right hardwear to play this with out it lagging out and crashing and poor graphics and it is still amazing!
-2014-03-13,200210,False,"I join thinking it would be a good free to play experience, but it turns out if you want to progress pass the basic wizard class at all it costs the microtransaction gold. Everything was bought with the microtransaction gold, and it wasn't buy it and keep it, it was if you die its gone there goes your money.Unless you want an experience similar to a poker machine I don't recommend it"
-2013-11-30,440,True,"I couldn't think of anything funny to say. I know thats why your reading a review for Team fortress 2, come on, you already own it."
+posted,item_id,recommend,sentiment_analysis
+2014-08-25,227700,True,2
+2014-03-13,200210,False,2
+2013-11-30,440,True,2

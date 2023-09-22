@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-02-27,218230,True,now hate the colour purple... 10/10
-2014-02-27,200710,True,i tried to light the torch but the torch i lighted torched my torch. my torch is now a torched light -torchlight 2   7/10
-2014-02-27,208090,True,"Blood, blood everywhere its so awesome 8/10"
-2014-02-27,219150,True,Life ruined 10/10
-2014-02-27,211420,True,I HATE YOU SO MUCH DARK SOULS 10/10
-2014-02-27,221640,True,"Worst yet most addicing game ever i am going to kill someone cause of it, please someone murder me now. 10/10"
-2013-12-25,55230,True,"Very good game with some very funny and crude humor good to play for quite a while if you are getting sick of gta, if you get sick of gta"
+posted,item_id,recommend,sentiment_analysis
+2014-02-27,218230,True,0
+2014-02-27,200710,True,2
+2014-02-27,208090,True,2
+2014-02-27,219150,True,1
+2014-02-27,211420,True,0
+2014-02-27,221640,True,0
+2013-12-25,55230,True,1

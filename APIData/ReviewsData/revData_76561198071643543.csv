@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-27,271590,True,Muito ♥♥♥♥aaaaaaViciei agora nao saio mais disso : 3
-2015-12-28,730,False,"depois da ultima Atualização, ficou muito facil cair de patente e ainda voces colocam promoção no jogo , é pra foder com os smurfs que surgem.Ganhei 3 partidas em primeiro, perco uma e caiu de patente toma no cu."
-2014-07-11,304930,True,Meu Unturned nao aparece a Opção (Servers) Alguem me ajuda pf quero muito jogar online :)
+posted,item_id,recommend,sentiment_analysis
+2015-04-27,271590,True,2
+2015-12-28,730,False,0
+2014-07-11,304930,True,2

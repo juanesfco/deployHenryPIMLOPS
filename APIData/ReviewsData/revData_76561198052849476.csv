@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-18,440,True,Once upon a time... There was a Soldier... His desire and meaning of life... Is his teleporting bread.... He would bring it with him everywhere! Until....He could no longer teleport bread... He lay in his bed in sorrow for many days...His hobby was just stripped away from him... All the other agents of red team tried to cheer him up...Nothing worked.Welcome to Team Fortress 2
-2012-01-02,105600,True,THIS GAME IS AWESOME!!!
-2014-12-09,332070,False,10/10 Would NEVER play again!
+posted,item_id,recommend,sentiment_analysis
+2014-06-18,440,True,2
+2012-01-02,105600,True,2
+2014-12-09,332070,False,1

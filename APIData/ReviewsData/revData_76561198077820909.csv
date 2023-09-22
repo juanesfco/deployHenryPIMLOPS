@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-02,440,True,The reason I don't get A's in school. 9/10 Would ruin my life again.
-2016-04-03,274190,True,"Bought it: YesHow long ago: 3 yearsEarly Access: ... YesFun: YesGood Gameplay: YesGood Level Design: YesGood Graphics: No, but it doesn't matterWaited long for full release: YesWorth it: ♥♥♥♥ yesEnd Result. Buy this game if you love indie, 80's, 8-Bit Style, 2-D shooters with Satan and terrorists.9/10 Need more Satan Shooting in my life."
-2015-08-08,319510,True,"This game is scary, ambiguos, intense and mysterious, and all packed into the creepiest thing since the actual Chuckee Cheese. With a great blend of atmosphere, game mechanics and jumpscares that actually make some sense (by today's standards). This game isn't for everyone but if you want to relieve that unbearable constipation then step right to the original that started a quadrilogy... Five Night at Freddy's."
+posted,item_id,recommend,sentiment_analysis
+2015-05-02,440,True,1
+2016-04-03,274190,True,2
+2015-08-08,319510,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-14,440,True,awsome!
-2016-06-16,218620,True,"i recommend this game as over all it is a good gamewhile a bit glitchy, and thew bots cant pick up bags, it's still just goodand remember,THIS IS A COOPERATIVE GAME. HACKERS AREN'T A BAD THING"
-2015-08-14,304930,True,"this is probably the best game i have ever playedits serious, but not stereotypical or cheesy"
+posted,item_id,recommend,sentiment_analysis
+2014-03-14,440,True,1
+2016-06-16,218620,True,0
+2015-08-14,304930,True,1

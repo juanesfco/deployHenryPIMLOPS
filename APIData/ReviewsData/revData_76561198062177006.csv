@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2013-12-14,70000,False,"Dinosaurs vs. Humans. Who will win? OF COURSE THE DINOSAURS! The dinosaurs are too powerfull so I see ALMOST no point playing as a human class. The class names are stupid because they are names of people. It is a distant relative in hell of Team Fortress 2. This game has great potential but currently, it sucks. I would have rather played Wonfenstein: Enemy Territory, not because it is free, but because it is better."
-2015-03-27,212480,True,Still can't drift. 10/10th Place.
-2015-03-24,29800,True,"The jumping and sprinting in this game is so fluid, that's what really makes it fun."
-2015-01-27,311480,True,Spam X.
-2015-01-12,259530,True,"The music makes you feel powerful. Even after you finish the game, it's still a blast to play it again.! You can also leave the discs playing the the level select menu to listen to while you do other things. Paid two dollars, got a game worth more that seven dollars. Worth more than every cent. 10/10 Varios."
-2015-01-03,212800,True,Hard.
-2014-12-16,97000,True,Best Space Bumper Car Simulator 2014
-2014-01-18,261820,True,"Mystery, adventure, darkness, ZOMBIES! Who could ask for more? Great graphics, soundtrack, and voice acting. There are scares everywhere. Also it is free. :)"
-2013-12-11,4000,True,Better than Minecraft.... XD
-2013-06-25,208090,True,"Bored? Then go play this awesome game! Build your gun to customize your play style, ask you friends to join you, then beat the crap out of them with the weapon YOU created!"
+posted,item_id,recommend,sentiment_analysis
+2013-12-14,70000,False,1
+2015-03-27,212480,True,1
+2015-03-24,29800,True,1
+2015-01-27,311480,True,1
+2015-01-12,259530,True,2
+2015-01-03,212800,True,0
+2014-12-16,97000,True,2
+2014-01-18,261820,True,2
+2013-12-11,4000,True,2
+2013-06-25,208090,True,0

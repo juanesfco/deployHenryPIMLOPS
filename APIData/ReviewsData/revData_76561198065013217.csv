@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-13,301520,True,each time i go on it the screen turns grey:[
-2016-06-27,304930,True,ITS THE BEST LIKE JOHN CENA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!OWWW!!!!! my voice
-2016-04-24,433340,True,This game is one of the best games I've played!.........Just saying.
+posted,item_id,recommend,sentiment_analysis
+2016-02-13,301520,True,0
+2016-06-27,304930,True,2
+2016-04-24,433340,True,2

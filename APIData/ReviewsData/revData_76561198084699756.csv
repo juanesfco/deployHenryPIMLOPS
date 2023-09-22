@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-19,570,True,The best MOBA in my opinion. Would play/10
-2013-04-02,440,True,Best game ever :3
-2016-01-12,354850,False,Download the game;Try to play it;Try clicking on 'New game';Destroy my mouse clicking on it;Does not even start.10/10 would install and buy a new mouse.
+posted,item_id,recommend,sentiment_analysis
+2014-06-19,570,True,2
+2013-04-02,440,True,2
+2016-01-12,354850,False,1

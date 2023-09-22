@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-11,4000,True,Recomendo muito bom
-2014-01-20,99900,True,Da pra passar o tempo
-2014-07-27,304930,True,O jogo em si e bom mais o gold n vale apenaO gold n conpensa commprar pq n muda nada n ganha mais xp os cabelos e cores do corpo sao todos feios a unica coisa q muda e o nick q fica dourado
+posted,item_id,recommend,sentiment_analysis
+2014-01-11,4000,True,2
+2014-01-20,99900,True,1
+2014-07-27,304930,True,1

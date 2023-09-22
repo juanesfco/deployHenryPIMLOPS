@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-05-09,251630,True,This game made me kill my catRIP MittensP.S I'm sorry
-2014-09-21,620,True,"Such a great game, it's perfect in every way."
-2014-02-18,242920,True,This game makes you feel like a God!!! and it's relaxing and rewarding Highly recommended!
-2013-11-10,48000,True,What a weird but wonderful game.
-2013-11-10,223670,True,Good fun!
-2014-06-02,263440,True,"Even though I don't live at home anymore, this game has me yelling out 'Mum' every 5 minutes. Dinosaurs are scary!"
+posted,item_id,recommend,sentiment_analysis
+2014-05-09,251630,True,0
+2014-09-21,620,True,2
+2014-02-18,242920,True,1
+2013-11-10,48000,True,1
+2013-11-10,223670,True,2
+2014-06-02,263440,True,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-07-05,207250,True,"A great game, but a little too casual, if anything. It's an interesting take on tower defense, though. I'd say its worth $2 or even the full $5."
-2012-05-30,38240,True,"Fantastic ingame artwork in the levels. Game looks beautiful,plays like a well made action rpg. Has commentary throughout the game which acts as narration which is real great and adds to the game. Difficulty levels add pretty good challenges for both young player and older players. MUST HAVE if you do not have it and like action rpgs."
-2013-02-19,200210,True,"Not really much fun, it's TF2 once you get to a certain point, and it's not even balanced, the free-to-play users cannot trade, while the premium users can and thus you're crippled if you aren't paying them.Up until level 20, a few hours, you're stuck in a grind against AIs, then you can opt to do some small number of missions with random players against AI once more, but it's largely about the PvP play at that point.Sadly, the PvP isn't much fun, because the leveled and paying players are better equiped by a fairly good margin.Skip it."
-2014-08-18,313340,True,It's missing trading cards.
+posted,item_id,recommend,sentiment_analysis
+2012-07-05,207250,True,2
+2012-05-30,38240,True,2
+2013-02-19,200210,True,2
+2014-08-18,313340,True,0

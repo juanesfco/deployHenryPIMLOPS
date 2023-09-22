@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-04,313160,True,MUST GET GAME THE CENTUARY!!!!!!!!!!!!!!!!!!! heaps better then 2013 because of the new logging equipment. recommend to anyone who loves farming sim 2013
-2014-12-21,209080,True,Amazing Game! gave me a headache thinking of all the controls but very much enjoyed it recommend it to anyone! even better when its $3.74
-2014-12-19,287450,True,it is ok better then AoE
-2013-12-26,221380,True,it can get a bit laggy but it really is a classic
+posted,item_id,recommend,sentiment_analysis
+2015-01-04,313160,True,0
+2014-12-21,209080,True,2
+2014-12-19,287450,True,2
+2013-12-26,221380,True,2

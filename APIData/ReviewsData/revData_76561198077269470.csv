@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-25,242720,True,"A game that is although a bit buggy from time to time, is still crazy fun. Nothing in this game requires you to pay to win, in other words although there are items you can buy with real money it remains a complete choice."
-2014-05-16,212480,True,So fun
-2016-01-28,329440,True,"I never thought I would be able to play this game because it was initially released on the Wii U, but now with the port I was quick to pick it up. Overall I really like this game with a few things that I thought need working on:- Sometimes when I go to change the input for the 'Run' button I cannot push any button I just have to restart and hope for the best- The 'Run' button- The changed controls for the 'Hover' Wisp (I dont know, maybe I'm doing something wrong)- The Snowball Act (Even though it is just one level)- and finally turning whilst using the 'Run' button as it seemed to slow down too much and felt very clunkyI'd rate this game a 7.5/10"
-2014-06-23,212160,True,"I love this game, it has its issues but I still love it.The fighting style is something I havent found anywhere else but to be fair, there are plenty of times when a glitch or a bug becomes far too noticeable. I would still give it a try though."
+posted,item_id,recommend,sentiment_analysis
+2015-07-25,242720,True,1
+2014-05-16,212480,True,2
+2016-01-28,329440,True,1
+2014-06-23,212160,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2012-08-18,440,True,free to play or premium this game is fun no matter what.
-2013-08-04,225140,True,The hardest part is kicking ♥♥♥ while you're out of bubble gum.
-2013-08-04,102700,True,"The achievement system is broken, however it is a cool game even if you're just after the black rose knife in TF2."
-2013-08-04,2990,True,"It's like Split/Second for the PS2 era, and finishing a race with the hood staying on your car is wicked hard."
-2013-07-17,108710,True,"Not bad, it's kinda like a younger brother of the Silent Hill series."
+posted,item_id,recommend,sentiment_analysis
+2012-08-18,440,True,1
+2013-08-04,225140,True,1
+2013-08-04,102700,True,1
+2013-08-04,2990,True,0
+2013-07-17,108710,True,2

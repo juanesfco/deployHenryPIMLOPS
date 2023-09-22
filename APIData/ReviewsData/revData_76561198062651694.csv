@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-29,329440,True,Sonic Lost world previously a WII U and nintendo 3DS exclusive now ported on the computer i most say there is alot of good and bad things about this game 1 the level design is abosultly stunning 2 the voice acting is ok 3 its a good game (sorry for the terriable review)
-2015-09-07,17730,False,it sucks the mod sucks
-2015-09-24,333980,True,but it could support slower machine's with 1.0 ghz
+posted,item_id,recommend,sentiment_analysis
+2016-04-29,329440,True,1
+2015-09-07,17730,False,0
+2015-09-24,333980,True,1

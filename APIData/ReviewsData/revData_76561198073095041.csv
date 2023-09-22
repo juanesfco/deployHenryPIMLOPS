@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-04,268750,True,This pixelated dungeon survival game brings a lot of adventure in Singleplayer and a whole lot of fun in Multiplayer. Keep up the good work!
-2014-01-24,730,True,"This game is amazing! It includes really good graphics and is a wonderful FPS. Highly recommended! Also, it's GREAT with friends!"
-2015-07-21,440,True,"Hats, hats, hats....300+ hours wasted trying to get hats (jks)11/10 would buy more hats again...PS. F**king amazing game. THANK YOU LORD GABEN! (im a gentleman)"
+posted,item_id,recommend,sentiment_analysis
+2014-10-04,268750,True,2
+2014-01-24,730,True,2
+2015-07-21,440,True,2

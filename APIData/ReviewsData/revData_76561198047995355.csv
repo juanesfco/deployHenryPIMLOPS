@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-25,242860,True,10/10 great gun play :)
-2014-08-22,18110,True,"Simple, but very good"
+posted,item_id,recommend,sentiment_analysis
+2016-03-25,242860,True,2
+2014-08-22,18110,True,2

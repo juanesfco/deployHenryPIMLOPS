@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-09-26,349700,True,"Things to Improve:1. Infrastructure ratio with map ratio is imbalanced. NOT FUN! Reduce map size and make smaller roads and fields. Buildings are too small compared to available open space, except there is more buildings & props so that it will be a functional world.2. The game graphics engine is inefficient; many high end games runs in my computer but not with this one.3. At the Shop we need NPC as the representation for the trader not the shop itself.I think that's pretty much it, good luck fixing all the codes :)"
+posted,item_id,recommend,sentiment_analysis
+2015-09-26,349700,True,2

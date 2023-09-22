@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-29,246700,True,Crimson skies meets cybermech planes. all of my yes. - needs more players though.
-2013-12-30,225600,True,omg yes.
-2014-08-11,244630,True,"Was great when it came out aeons ago, still great now. Good to see that it's finally made it onto steam."
-2014-02-08,250260,True,"Hilarious but surprisingly short.Still, definitely worth picking up."
-2014-12-22,265690,True,Absolutely breathtaking. Definitely something to check out if you like exploration games or massive cyberstructures.
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,246700,True,2
+2013-12-30,225600,True,1
+2014-08-11,244630,True,2
+2014-02-08,250260,True,2
+2014-12-22,265690,True,2

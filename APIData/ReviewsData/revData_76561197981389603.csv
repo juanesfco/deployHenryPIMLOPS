@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-08-23,304930,True,went in singleplayercheated in a gunzombie walked upkilled itspawned atvit fell from the sky and killed me10/10 would unturned again
-2016-05-13,417860,True,set screen name to JohnCenaheard theme song10/10 would cena again
-2016-09-02,208090,True,Made a shotgun10/10 would loadout again
-2016-06-14,389570,True, It's agario on steam 10/10 would steam chat while playing agario again with a lot of stuff added 
-2016-03-05,214850,True,made a game where a cat shoots lasers out of its eyes and you eat the lasers to slap it with your stomach10/10
-2016-02-20,4000,True,d!ck rocket spazzed out and killed me10/10
-2015-04-07,248570,True,"I jumped into the air, did a backflip, then kicked my head off and decapitated my enemy with my own head."
-2014-12-31,39000,True,Multiplayer > chat > ooooooooooooooooooooooooooooooooooooYou are stephen hawking!
+posted,item_id,recommend,sentiment_analysis
+2016-08-23,304930,True,0
+2016-05-13,417860,True,1
+2016-09-02,208090,True,1
+2016-06-14,389570,True,1
+2016-03-05,214850,True,0
+2016-02-20,4000,True,0
+2015-04-07,248570,True,2
+2014-12-31,39000,True,1

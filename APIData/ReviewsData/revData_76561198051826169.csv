@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-06-25,243870,False,It takes ages to get on a server and the maps are ment for the same team to win every time and is very annoying. So overall it takes a long time to even get on the server and then its just boring and frustrating
-2015-03-12,204300,True,It is an amazing game that gets a little bit repetitive.7/10
-2015-05-29,374570,True,I never knew i needed this until now. This just made my day
-2015-02-25,274190,True,A fun arcade style game that is best played with friends10/10
-2015-02-13,219150,True,"Amazing songs and even better gameplay, this is the reason i love games."
-2015-02-13,225140,True,It's Duke at his finest!
-2015-02-13,730,True,Waited so long to get this and just recently bought it. Let me say it is definitely worth your money.
-2015-02-13,233720,True,"The music alone is reason enough to play it, but yhe real fun is murdering your patients in horrible ways!"
-2015-02-13,239030,True,"Somehow managing to be fun and boring, this is an amazing, story based game."
-2015-01-09,265810,False,A game that is boring and over expensive. 2/10
+posted,item_id,recommend,sentiment_analysis
+2014-06-25,243870,False,0
+2015-03-12,204300,True,1
+2015-05-29,374570,True,1
+2015-02-25,274190,True,2
+2015-02-13,219150,True,2
+2015-02-13,225140,True,1
+2015-02-13,730,True,1
+2015-02-13,233720,True,0
+2015-02-13,239030,True,0
+2015-01-09,265810,False,0

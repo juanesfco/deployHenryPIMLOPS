@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-06-01,15130,True,"Don't go into this thinking it is a kids game, it is very dark and very heavy on themes. It is a wonderful story, it is my #1 favourite game, i can't think of anybody i wouldn't reccoment too"
-2012-11-30,221640,True,"Most addictive and most difficult game i've ever played, for $3.00, its worth it"
-2012-09-20,212680,True,"Such a great game, so much fun, BUY IT!!"
-2012-03-09,620,True,"Engaging puzzles and great storyline, i dont see how i couldn't reccomend it!"
-2011-08-18,4000,True,AWESOME GAME MUST GET
-2014-06-24,227300,True,Almost failed my drivers test because of it!10/10
-2014-02-24,104900,False,"The worst thing I have ever played! Take Killing Floor, then put it into a really ♥♥♥♥♥♥ Halo setting and mix in some dinosaurs. After one hour in a basement with a 1987 Apple Macintosh, you get ORION: Dino Horde"
+posted,item_id,recommend,sentiment_analysis
+2013-06-01,15130,True,1
+2012-11-30,221640,True,1
+2012-09-20,212680,True,2
+2012-03-09,620,True,2
+2011-08-18,4000,True,2
+2014-06-24,227300,True,0
+2014-02-24,104900,False,0

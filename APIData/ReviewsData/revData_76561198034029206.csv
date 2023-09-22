@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-29,261180,True,"Accessability, mind games and tight execution without the need for long combos, this is a much better alternative to Divekick for a distilled fighting game experience, despite the lack of content for people with no friends."
-2014-06-07,238960,True,"A Diablo clone, but a very good Diablo clone if you are a fan of dirty women and zombies."
-2012-07-15,26800,True,"short, sweet and absolutely beautiful."
+posted,item_id,recommend,sentiment_analysis
+2014-12-29,261180,True,1
+2014-06-07,238960,True,2
+2012-07-15,26800,True,2

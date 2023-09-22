@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-07-20,4000,True,"I dont know why i didn't recommend this sooner. Probably one of my favorite games on steam ever. If any of my friends don't have Garry's Mod, Get it while its cheap, totally worth the money."
-2015-08-11,387860,True,"No jumpscares, i promise."
-2014-12-25,245470,True,"I crafted a crime-free completley equal society with the best education avaliable, and was assasinated by capitalists. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2013-07-20,4000,True,2
+2015-08-11,387860,True,1
+2014-12-25,245470,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-18,336520,False,"Cannot get to load on Linux, white screen is all I getting. Should not have to be messing around with my flash setting to get this to work..."
-2015-04-24,241600,True,Amazing rouge like game... Dont let the graphics fool you...
+posted,item_id,recommend,sentiment_analysis
+2015-12-18,336520,False,1
+2015-04-24,241600,True,2

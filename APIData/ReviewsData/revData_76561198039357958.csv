@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-16,730,True,Clutch or Ebola They said. Got Ebola 11/10 - IGN
-2013-07-13,218230,True,"10/10 Awsome Game, Feels Like a Real Battle"
-2013-06-20,206190,True,"Got this Game for the TF2 Hat, But Stayed for the Game 8.5/10 Like Watch Dogs 2D Style But not Watch Dogs ;)"
-2013-05-07,203850,True,I Aprove This Game 7.5/10
+posted,item_id,recommend,sentiment_analysis
+2014-10-16,730,True,1
+2013-07-13,218230,True,1
+2013-06-20,206190,True,0
+2013-05-07,203850,True,0

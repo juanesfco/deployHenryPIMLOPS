@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-02,4000,True,Playing on a dark rp server 7 year old calls me a ♥♥♥♥♥♥ I throw a Table At The Lil ♥♥♥♥10/10 would play
-2014-06-07,98400,True,Really great game awesome graphics sweat gameplay i love it
-2012-08-07,440,True,I LIKE CHEESE
+posted,item_id,recommend,sentiment_analysis
+2016-07-02,4000,True,1
+2014-06-07,98400,True,2
+2012-08-07,440,True,1

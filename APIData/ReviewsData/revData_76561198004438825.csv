@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-09-27,218620,True,grindfest.
-2014-09-27,24240,False,No.
-2015-09-01,363270,False,why was this released with so many bugs?
-2015-09-01,356520,False,nah
-2015-05-27,329950,True,decent.
-2015-08-31,369400,True, cool hats.
-2015-06-02,223710,True,gud.
+posted,item_id,recommend,sentiment_analysis
+2014-09-27,218620,True,1
+2014-09-27,24240,False,1
+2015-09-01,363270,False,2
+2015-09-01,356520,False,1
+2015-05-27,329950,True,2
+2015-08-31,369400,True,2
+2015-06-02,223710,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-03-18,354500,True,The game... into reality is awesome!
-2015-12-28,218620,True,Great Graphics even in low settingsCo-op Multi is very fun with friends (But i don't have friends to play with)Stealthable/attack/suprise anytime
-2015-11-07,4000,True,"So many things to do in the game itself. Has many fun gamemodes, but most servers are non-asia. Very popular in Youtube for gaming and animations."
-2015-10-22,730,True,Great FPS game which also contains sellable and purchaseable skins with steam wallet.Good Stuffs:Skins for gloryA lot of knife stylesInspect weapons In-game and during matchRanks for gloryLevels for gloryLogics:Switch to pistol is faster than reloadingMelee attacks is greater than millitary weaponsGrenades BouncesCrouching is mostly accurateNon-logic but possible and DOPE:Defusing with no handsLifting up hostages are faster with a defuse kitNo need to vault over objects just jumpNo echoes on soundsNoscopes snipers shoots randomlyFew weapons are useable for Run & GunFew weapons are 2 headshot kill without a helmet
-2015-09-30,252950,True,"The game is Addicting as **** . Even there's no Asia server, the least ping I have is 250-ish, But i manage to win and scored a goal. But pls, Asians need asia server"
-2015-04-18,361700,True,The series itself makes me into it. It makes me wanted to do it in real-life. lol JK ;)
+posted,item_id,recommend,sentiment_analysis
+2015-03-18,354500,True,2
+2015-12-28,218620,True,2
+2015-11-07,4000,True,2
+2015-10-22,730,True,2
+2015-09-30,252950,True,1
+2015-04-18,361700,True,2

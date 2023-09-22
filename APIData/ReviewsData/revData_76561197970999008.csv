@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-23,252490,True,500 hours playedwill play another 500thanks garryjnewman
-2014-06-21,96100,True,This game is $0.29 and you get trading cards that you can sell for more than $0.29.
+posted,item_id,recommend,sentiment_analysis
+2016-06-23,252490,True,1
+2014-06-21,96100,True,1

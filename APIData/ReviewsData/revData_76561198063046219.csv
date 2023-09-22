@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-09-29,11610,True,An MMORPG = Vindictus+Animated Graphics (nuff Said)
-2014-10-02,730,True,Quality Banter
-2015-08-13,316010,True,"Great Game, Brings Back Memories"
-2015-07-31,383080,True,"All I can Say is, 'ok'"
-2015-07-28,363970,True,"A Clicking Game for a week, then afk for the rest of your life."
-2015-04-09,348620,True,"As A Visual Novel, This was somewhat soothing to enjoy, provides a peaceful atmosphere and is easy to read through"
-2015-01-31,440,True," A Game Everyone Plays due to the fact that it is Free, I would give it both a yes and a no, but because you have to choose."
-2014-09-13,304930,True,wtf is this
+posted,item_id,recommend,sentiment_analysis
+2015-09-29,11610,True,1
+2014-10-02,730,True,1
+2015-08-13,316010,True,2
+2015-07-31,383080,True,2
+2015-07-28,363970,True,0
+2015-04-09,348620,True,2
+2015-01-31,440,True,1
+2014-09-13,304930,True,0

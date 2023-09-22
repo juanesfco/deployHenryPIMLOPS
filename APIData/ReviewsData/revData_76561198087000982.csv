@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-01,236390,True,there are no trains
-2014-09-01,570,True,fun I suppose♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2016-04-01,236390,True,1
+2014-09-01,570,True,2

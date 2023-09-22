@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-21,203140,True,"This Game is Fantastic. I wasn't expecting this much attention detail and there is heaps. The story and the script are so fleshed out, you'll hear stories from all NPCs. One of the few games with dialouge that is actually believeable - probably the best dialouge I've ever heard in a game.It immerses you in the experience like a character in a movie and even the actual movie does not do justice to this game."
-2013-04-16,108710,True,"Just completed the Alan Wake experience. I say experience because it was an imersion in movie, novel and game.It places emphasis on the most important thing a lot of games these days are lacking: a good story. This story was told in a way that spared no expense in quality. From the atmosphere, to the sound track that includes well known artists, to the detail of graphics and textures. The importance of the way light and lighting was used in the graphics and story sets this game apart.It has well developed characters, stories within stories that aren't boring and epic, well directed cut scenes all set in a picturesque, haunting environment. A mixture of the best bits of Silent Hill, Telltale's Walking Dead, Skyrim and Resident Evil. A brilliant work of art. I think the only thing that let it down was the marketing and publicity as if it had of been promoted more, I would have got to it sooner."
-2014-07-05,1250,True,Strangely addictive
+posted,item_id,recommend,sentiment_analysis
+2015-06-21,203140,True,1
+2013-04-16,108710,True,2
+2014-07-05,1250,True,1

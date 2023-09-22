@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-10,229580,True,"the storyline and graphics in this game are beutiful. also, the exploration enigne allows you to do WHATEVER you want in this game. it is a must get!!!"
-2013-12-11,730,True,"best team tactics game out on steam. if you want a shooter, buy this. absolute 5 star rating!"
+posted,item_id,recommend,sentiment_analysis
+2014-02-10,229580,True,0
+2013-12-11,730,True,2

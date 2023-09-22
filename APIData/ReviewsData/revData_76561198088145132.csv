@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-29,242800,False,"Shot a girl, started levitating.Got killed.11/10Don't waste you $2, Buy a drink instead.I get scared about how bad this game is."
-2013-10-28,211420,True,"An extremely fun game, would buy again 10/10Just gotta be careful of the dickwraiths and gankers"
+posted,item_id,recommend,sentiment_analysis
+2014-04-29,242800,False,0
+2013-10-28,211420,True,1

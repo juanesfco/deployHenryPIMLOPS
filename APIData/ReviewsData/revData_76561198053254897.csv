@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2012-10-01,98300,True,Great game if you're looking for something casual that actually keeps your attention for more than 2 hours.
-2012-08-07,72850,True,Amazing.
+posted,item_id,recommend,sentiment_analysis
+2012-10-01,98300,True,1
+2012-08-07,72850,True,2

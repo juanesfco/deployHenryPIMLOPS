@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-11,35450,True,Good game just the AI is terrible which causes the game to be pretty boring
-2014-03-07,440,True,Just get it
-2014-01-25,247020,True,Fun and addicting game but i still cant get used to the amount of buttoning mashing overall still a very fun a worth while buy.
-2014-01-22,219640,True,Great fun game with friends
+posted,item_id,recommend,sentiment_analysis
+2014-06-11,35450,True,0
+2014-03-07,440,True,1
+2014-01-25,247020,True,2
+2014-01-22,219640,True,2

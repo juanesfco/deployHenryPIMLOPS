@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-12,221100,False,WARNING  DO NOT BUY this game its a waste of money
-2014-07-01,730,True,The Best
-2014-05-13,252490,True,Awesome game highly recommended to get. Love it
+posted,item_id,recommend,sentiment_analysis
+2016-01-12,221100,False,0
+2014-07-01,730,True,2
+2014-05-13,252490,True,2

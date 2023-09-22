@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-21,322330,True,deerclops can suck my dad's willyCan't recommend it enough.
-2016-04-09,214560,True,♥♥♥♥ing 10/10
-2015-07-20,34900,False,This has 'Mostly Positive' Reviewsno.
+posted,item_id,recommend,sentiment_analysis
+2016-04-21,322330,True,1
+2016-04-09,214560,True,1
+2015-07-20,34900,False,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-10,440,True,"Hat Simulator. Oh, and also, you kill people. 10/10"
-2014-12-04,225260,True,You get to play as Jack Black.111/10 would play again.
-2014-12-04,212680,True,"This game in a sentance.Kill the spaceships! Kill the space- oh, I'm dead.11/10 would die in space again."
-2014-11-28,49520,True,"One of the most diverse and hilariose games I have played, and probably one of the funnest games for years to come."
-2013-06-27,220200,True,Play it now! JUST. DO. IT.
+posted,item_id,recommend,sentiment_analysis
+2016-03-10,440,True,1
+2014-12-04,225260,True,1
+2014-12-04,212680,True,0
+2014-11-28,49520,True,2
+2013-06-27,220200,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-09,207230,False,"Nah , it sucks , super over powered  characters with different meanings .. ( they don't even fit , i mean some are stronger than others ) ."
-2014-06-22,440,True,"LOVE THIS GAME , PRETTY MUCH THE BEST FPS FOR FREE , =3 !!"
-2014-01-14,226700,False,"OH MY DAMN GOD , what have i done ? i was thinking that i were rational , but when i got this game WAS THE WORST GAME EVER , I DON'T EVEN KNOW WHY THE HELL DO THEY THINK IT IS A GAME ? IT IS THE ♥♥♥♥3D VERSION OF A ♥♥♥♥ , IS IT WORST THAT ♥♥♥♥ IT , I THINK IF I through my damn money on the ground and step on it into it turns into ASHES IT WOULD BE MORE ♥♥♥1N FUNNY THAT THIS ♥♥♥♥ AS-S GAMES"
-2014-01-14,252490,True,"The game is pretty dope , i've been playing this game for more than 50 hours , the bad thing is that if you don't have a group you're just a target that somehow will be hitted !"
+posted,item_id,recommend,sentiment_analysis
+2014-08-09,207230,False,1
+2014-06-22,440,True,2
+2014-01-14,226700,False,0
+2014-01-14,252490,True,0

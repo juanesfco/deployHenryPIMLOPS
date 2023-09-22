@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-07,214490,True,Axel died and now I'm sad :'(
-2014-09-12,288470,True,I beat up a kid in Bowerstone and I didnt get arrested.10/10
-2016-02-28,204030,True,"Whatever you do, don't listen to the stuff Peter Molyneux said you could do in this game."
-2016-02-25,359550,True,It was all over for the hostage when one of the attackers picked Fuze.
-2016-01-07,427730,True,Realistic/10I helped the baby kill itself.
+posted,item_id,recommend,sentiment_analysis
+2016-03-07,214490,True,0
+2014-09-12,288470,True,1
+2016-02-28,204030,True,0
+2016-02-25,359550,True,1
+2016-01-07,427730,True,1

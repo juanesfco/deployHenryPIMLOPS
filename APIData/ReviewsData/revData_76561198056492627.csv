@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-26,346110,False,"If you don't have a great PC, don't bother. This has to be the most poorly optimized game I have ever played. My computer, while a piece of ♥♥♥♥, can run killing floor 2 (same engine as this game) on minimum settings at 60fps. This game however looks like a toddler made an island out of clay, took a picture of it, blurred it, pixellated it, blurred it again, then ran it at 10fps."
-2014-01-13,212800,True,Cool little shooter that's free and small to download
+posted,item_id,recommend,sentiment_analysis
+2016-06-26,346110,False,1
+2014-01-13,212800,True,1

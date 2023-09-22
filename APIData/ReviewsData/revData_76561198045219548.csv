@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-28,206420,False,Absolute ♥♥♥♥.
-2015-01-01,241930,True,"Shadow of Mordor is an amazing game  that should be played by anyone who has a powerful enough rig to handle it. It has great controls, fluent combat which is reminiscent of the Arkham and Assassin's Creed games, and the Nemesis System to boot. The Nemesis System in Shadow of Mordor really sets it apart from the haze of other AAA titles. It incorporates a deep, fleshed out hierarchy of Orcs in the Middle Earth universe. You can partake in this hierarchy by eliminating Uruks or Branding them, essentially making them your minions. All in all, Shadow of Mordor is by far the best game I have played in 2014, and I anxiously await the obligatory sequel and franchise that will soon follow."
-2014-04-05,242050,True,Assassin's Creed IV: Black Flag is truly a masterpiece. The gameplay has been perfected and obviously implements the previous games' combat and free-running movement. The story is great and has an amazing ending; it is extremely sad. Over-all this game is a 9/10 from me.
+posted,item_id,recommend,sentiment_analysis
+2014-10-28,206420,False,2
+2015-01-01,241930,True,2
+2014-04-05,242050,True,1

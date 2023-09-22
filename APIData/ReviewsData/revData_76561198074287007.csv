@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-09-21,238460,True,BatlleBlock Theater® thaught me many fundamentals of life. The most importent is to wear a belt so then i dont need to buckle my pants later.
-2013-07-17,550,True,Good for guys who Love guns (pew pew pew) and Hate zombies (BRAAAAAAAAIIINNNNNNNNNSSSSSSSS)
-2015-09-21,220,True,Its like 2 half-life
-2015-09-21,204360,True,I got all the ladies and all was good
-2015-09-21,346010,True,I like the level where you kill the kings men.
-2015-09-21,323470,True,"The part i liked the most is when that guy and that other guy and that other guy and that other guy all went super saiyan, yea, and then start using their supers on me, and it hurt."
-2014-08-16,251570,True,its great
-2015-09-21,218620,True,"my favourite part , besides houston yelling ♥♥♥♥, is all the thermal pasta"
-2015-09-21,227940,False,its annoying when you get sniped by muskets across the map
-2013-07-17,4000,True,If you like RANDOM ♥♥♥♥ then you like GARRRRRYYYSSSSS MODDDD......
+posted,item_id,recommend,sentiment_analysis
+2015-09-21,238460,True,2
+2013-07-17,550,True,2
+2015-09-21,220,True,1
+2015-09-21,204360,True,2
+2015-09-21,346010,True,1
+2015-09-21,323470,True,2
+2014-08-16,251570,True,2
+2015-09-21,218620,True,1
+2015-09-21,227940,False,0
+2013-07-17,4000,True,0

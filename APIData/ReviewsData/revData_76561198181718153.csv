@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-01-01,6060,True,If you love star wars by this game because it is worth it. It might be old and the graphics compared to the recent battlefront installment but it has alot of thing battlefront doesnt. I give this 9.5/10 1 ups.
-2015-11-06,227940,True,This game is good
-2016-05-06,32440,True,If you like star wars you will love this game even uf you dont like lego. It also gives some enjoy ment out of the prequals.9/10
-2015-12-03,620,True,One of my fav games. This is a must play
-2015-07-27,230410,True,This Game is Great. I love this game but I dont play it as regular as alot of people. If you liked TRON EVOLUTION you will like this game. And also has a great comunity. Although I personally dont like the controls which i know alot of people dont mind but when I plugged in a controller it felt alot better. I give this game...7.5/10 1ups
-2015-07-15,266430,True,Great for retro gamers
-2015-07-09,440,True,This is one of the many games that never gets bored
-2016-01-01,265630,False,Fistful fraqs is a old westurn FPS running on the Half Life 2 engine with a small diverse range of weapons to choose ffrom and with varios gamemodes.The first few hours of gameplay was actually quite amusing and fun to play but that did not last long and got boring quite quickly. So I really wouldnt waste download data on this one. I give this 4.5/10 1ups
-2015-11-25,417860,True,I think this is a great game for people who just want to escape the real world and become part of a story/ a scripted relationship. This reminds me of those old text based games on the old MS-DOS computers.I give this game 8/10 stars
-2015-08-05,304930,True,I really dont know how to explain this game but I mean this in a good way
+posted,item_id,recommend,sentiment_analysis
+2016-01-01,6060,True,1
+2015-11-06,227940,True,2
+2016-05-06,32440,True,2
+2015-12-03,620,True,1
+2015-07-27,230410,True,2
+2015-07-15,266430,True,2
+2015-07-09,440,True,1
+2016-01-01,265630,False,1
+2015-11-25,417860,True,1
+2015-08-05,304930,True,1

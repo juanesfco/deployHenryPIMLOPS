@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-07,6060,True,"Really fun game, played it mulipletimes and never got bored"
-2014-06-30,730,True,Great game and amazing graphics.  Get this game or you will be a scrub forever
-2014-08-21,107410,True,"Great game, i got it s little while ago and it is briliant.  hopefully they lower the game price"
-2014-07-16,304930,True,Great game for people that like zombie survival MMO's.  I also enjoy the derpiness of the players
+posted,item_id,recommend,sentiment_analysis
+2014-08-07,6060,True,0
+2014-06-30,730,True,2
+2014-08-21,107410,True,1
+2014-07-16,304930,True,2

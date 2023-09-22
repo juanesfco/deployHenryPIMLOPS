@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-13,275850,True,"For me the game works just fine!I think it's an awesome game if you like games where you just explore, this game isn't for everyone but I still like it. It's a very interesting game. Awesome concept for a game!Maybe if you people didn't over hype it so much then it wouldn't be too much of a problem."
-2016-01-30,391220,True,"This game is awesome, Having trouble to find any faults so far. The graphics are amzing, if you dont have a high end computer, you might be able to play this game but not at full quality."
-2015-01-25,272510,True,"If you love Naruto, then you will love this game. Getting to play as your favorite characters is awesome and seeing fights that always wanted to see. All. In. This. Game."
+posted,item_id,recommend,sentiment_analysis
+2016-08-13,275850,True,2
+2016-01-30,391220,True,2
+2015-01-25,272510,True,2

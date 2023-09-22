@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-25,221100,True,"I recommend this game to everyone. This game lets you survive anyway you want, so you either become a lone wolf that is also a walking pinata or band with some friends and terrorize chernarus. I give this game 10/10 salad bowls. P.S prepare for losing precious stuff and entering a brief phase of sadness experience."
-2015-06-06,252490,True,Everyone is the same size....all is equal in rust.
-2014-07-25,227940,True,Waiting Simulator 2014
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,221100,True,0
+2015-06-06,252490,True,1
+2014-07-25,227940,True,1

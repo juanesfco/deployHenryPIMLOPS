@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-09-16,381210,True,"The game is good however when i que with my friends, we can never find a game, it says match starting in 5 seconds then says no game has been found, we spend a good 30 times atleast to find one game. Please fix this issue and it'll be hectic and on a plus side please add crowman as a new killer who glides on people."
-2014-07-19,570,True,mad game
+posted,item_id,recommend,sentiment_analysis
+2016-09-16,381210,True,1
+2014-07-19,570,True,0

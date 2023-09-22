@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-03-22,437220,True,yeh its cool
-2015-06-01,333930,True,really great game would recomend
-2014-05-23,265630,True,YOU CAN RUN AROUND HOLDING DYNAMITE AND SUICIDE BOMB 10 OUT OF 10 GET IT
-2014-01-15,440,True,its freeeeeeee
-2014-01-15,57300,True,this is the scariest game iv ever played
-2015-12-14,299360,False,25 dollars. a week later it went free and no one even plays not worth
-2014-07-29,730,True,Idiot if you dont.
-2016-04-07,413150,True,same
+posted,item_id,recommend,sentiment_analysis
+2016-03-22,437220,True,2
+2015-06-01,333930,True,2
+2014-05-23,265630,True,1
+2014-01-15,440,True,1
+2014-01-15,57300,True,0
+2015-12-14,299360,False,1
+2014-07-29,730,True,0
+2016-04-07,413150,True,1

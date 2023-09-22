@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-22,311210,False,"♥♥♥♥ this game, too much ♥♥♥♥♥♥♥t in the game that punishes good players and rewards ♥♥♥♥ cunts."
-2014-03-27,209160,False,"By far the worst CoD so far. This game is a huge dissapointment, I was banned for using a programme to change your FOV because at the time the game didn't even have an option to change the FOV. So after I get it they say it is allowed to be used and for awhile the game was playable. But then they changed there minds and said that the FOV changer was now banned and the only way you would have known that is if you followed them on twitter! The games has the worst optimization ever, it is basically a console port and stutters all over the place. 70% of the people that play are hackers so almost every game you get into there will most likely a hacker in it. DON'T BUY THIS GAME."
+posted,item_id,recommend,sentiment_analysis
+2016-08-22,311210,False,1
+2014-03-27,209160,False,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-08,212070,True,I don't know why so many people dislike this game. It's the closest you can get to a good sci-fi dogfight game without playing Star Wars Battlefront II!
-2014-06-27,227300,True,"When you play this game, you feel like a real trucker. This is what makes this game as authentic and unique as it is.10/10"
-2014-05-22,236390,True,"As jacksepticeye would say, this game is BOSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+posted,item_id,recommend,sentiment_analysis
+2014-08-08,212070,True,1
+2014-06-27,227300,True,1
+2014-05-22,236390,True,0

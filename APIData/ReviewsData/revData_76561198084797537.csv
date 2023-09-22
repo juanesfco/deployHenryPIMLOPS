@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-04-16,378370,False,"This game is terrible, The graphics a bad, the quaility of the game is bad, it tries to rip off rust and unturned. If you want to play a minecraft/Dayz then play unturned"
-2015-01-30,221100,True,Its a fun game even with the bugs you can just injoy the game with friends.
-2015-07-03,22380,True,Amazing game still to this day
-2014-02-14,251570,True,Very fun to play and would recommend this game to others
-2013-09-24,48700,True,I think this game is great fun and I can play it for hours.
+posted,item_id,recommend,sentiment_analysis
+2016-04-16,378370,False,0
+2015-01-30,221100,True,0
+2015-07-03,22380,True,2
+2014-02-14,251570,True,1
+2013-09-24,48700,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-04,255710,True,"Esse jogo é uma obra prima. Uma pena que os desenvolvedores não adicionam atualizações mais recentes, sinto que o jogo está parado por muito tempo.Seria perfeito se eles incrementassem-o cada dia mais, mas não se engane, o jogo é realmente fantástico."
-2016-02-25,427520,True,'BEST GAEM EVUR 999999999999.99/1'-IGN
-2015-11-14,550,True,Perfeito.
+posted,item_id,recommend,sentiment_analysis
+2016-06-04,255710,True,2
+2016-02-25,427520,True,2
+2015-11-14,550,True,2

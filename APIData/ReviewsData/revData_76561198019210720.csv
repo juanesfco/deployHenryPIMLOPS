@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-06,346110,True,♥♥♥♥ing terrible.
-2015-05-20,351290,True,"To tell you the truth, this game actually has major potential. I mean, it runs smoothly most of the time, and only having a dot on your screen for  aiming makes game-play kinda freaky, especially all you can hear when hiding is other peoples footsteps coming towards you. It needs a chat box at least, and ways to change your weapon easily. Other than that the game is K and it didn't give me cancer like I thought it would based on the game's name and description (Which is pretty ♥♥♥♥-poor to read which needs fixing)."
-2015-04-17,224260,True,"It can be addictive, but it needs more content."
+posted,item_id,recommend,sentiment_analysis
+2015-09-06,346110,True,0
+2015-05-20,351290,True,1
+2015-04-17,224260,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-08-09,346110,False,"This game is going down the well, and its heading there fast.What started off as a mystical survival adventure has steadily declined into a weekly grind. It stops feeling like fun, and feels more like a 2nd job. The taming times on public servers makes you really value your dinosaurs. Its a pity the developers don't. Steadily changes have been introduced without forethought that have cost fellow members on my server their flagship dinosaurs and in some cases, their entire bases, to such a point that our server is lucky to have a handful (five) of people on at any given time.Yes this game is still pre-release... but honestly who's going to pay for a game that nobody plays.What started off at 8.5/10 has tapered down to a 2.5/10 for me.I will not recommend."
-2016-08-09,3730,True,This game will go down as one of the all time greats! The inter-twining storyline in this game was ahead of its time. Each species has its strengths and weaknesses and it is my opinion that this game was the pioneer for such title remakes such as Team Fortress 2.7/10.
-2016-08-09,10680,True,"This game like its predecessor had alot to offer, but unlike the classic game that shares its title, it seems to fall short for its time.Interesting multiplayer modes that never really took off like the other games in its time.5.5/10 and I will reccomend it only _just_ for the experience."
-2016-08-09,214490,True,This game is stunning! It's 80's something futureistic architecture really brings you into the original Alien movie. Running and hiding from the Alien gets your blood pumping with the awesome sound effects. The game can feel a bit clunky when interacting with objects but apart from that 9.5/10
-2016-08-09,251570,True,"This game has developed so much since when I initially purchased it, I actually got bored of it, went away, came back and was confronted by a completely new game.Hats off to the dev's for sticking with it, and making what will be a great zombie survival game on release!Pity about the minibikes crashing our server, but apart from that, 8/10"
+posted,item_id,recommend,sentiment_analysis
+2016-08-09,346110,False,1
+2016-08-09,3730,True,0
+2016-08-09,10680,True,0
+2016-08-09,214490,True,2
+2016-08-09,251570,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-09-05,41740,True,"This is such a great game, It is a wacky, fun, weird, game but i really love it."
-2015-03-02,336100,True,"THIS GAME IS AMAZING, I nearly Have 20 hours, it is an awesome game. 10/10."
-2015-03-01,268750,True,"This is a great game, i love it, it is awesome. 10/10"
-2014-11-10,250900,True,"Great game.... i love it and musics great, graphics are awesome..."
-2013-12-14,249050,True,fun game it is only in alpha and i really like but could makeit a little less enermies when u grab the crystal and try to get to the exit.
-2013-12-13,230050,True,so fun go get this
+posted,item_id,recommend,sentiment_analysis
+2014-09-05,41740,True,1
+2015-03-02,336100,True,2
+2015-03-01,268750,True,2
+2014-11-10,250900,True,2
+2013-12-14,249050,True,1
+2013-12-13,230050,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-07-28,105600,True,cool I guess
-2015-06-21,219150,True,Starts Mission. Dies. Press R. Restarts Mission. Dies. Press R. Rinse and Repeat Lads....Rinse and Repeat....
-2015-05-31,313740,True,This proves that it is true that one can go through three boxes of tissues in one day
-2015-05-29,233270,True,playing this game made me wonder... why do people make games that aren't like this?
-2015-05-29,363970,True,"I no longer have a right pointing finger, just a stump of what used to be one"
-2015-05-14,4000,True,This game is really eye opening on how many errors you can see in your life if you don't own counter-strike source for the first month you own the game. In all seriousness though it's a fun game. gr8 m8 wuld r8 8/8
-2014-06-30,238460,True,MAZEIN
+posted,item_id,recommend,sentiment_analysis
+2016-07-28,105600,True,2
+2015-06-21,219150,True,1
+2015-05-31,313740,True,2
+2015-05-29,233270,True,0
+2015-05-29,363970,True,2
+2015-05-14,4000,True,2
+2014-06-30,238460,True,1

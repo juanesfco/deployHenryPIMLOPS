@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-24,302380,True,"This game was so peacful. I was like a monkey with a rubix cube, i was lost into it. I love this game so much i recomend 10/10 monkeys"
-2014-12-22,440,True,Love it
-2014-07-20,3910,True,"Love it. May not be the best graphics, but it is an amazing game all in all."
+posted,item_id,recommend,sentiment_analysis
+2014-07-24,302380,True,1
+2014-12-22,440,True,2
+2014-07-20,3910,True,2

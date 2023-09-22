@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-09-05,4000,True,"A very fun, moddable game. I would highly suggest the main game and the modded modes as well. There is a lot on this $10 game, and you can never get bored of it."
-2015-12-09,218620,True,"They've sent the entire world population to kill us, even babies are now cops. Too bad we killed them all.10/10"
-2015-12-25,200910,False,"Only just bought the game but so far, I can see why it's rated so well - great script and storyline. However, battle mechanics in my opinion are way too clunky. See for yourself - but I don't recommend it."
-2015-10-28,383980,True,This game should be about balance.There is no balance.mlg/10
-2015-08-07,104900,False,"A really really bad game. Has models basically ported from Halo, really really bad mechanics and bad sounds. Would not recommend. Though, it's so bad, it's actually funny."
-2013-08-30,215530,True,"There is a lot in this $15 game, and fans of action RPGs should really take a look at it. I highly suggest it."
+posted,item_id,recommend,sentiment_analysis
+2014-09-05,4000,True,0
+2015-12-09,218620,True,0
+2015-12-25,200910,False,2
+2015-10-28,383980,True,0
+2015-08-07,104900,False,0
+2013-08-30,215530,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-18,221640,True,More accurate title: How to stop blinking simulator
-2012-09-02,105600,True,2D minecraft Nuff said
-2014-08-18,42910,True,Magic Jawas
+posted,item_id,recommend,sentiment_analysis
+2014-08-18,221640,True,2
+2012-09-02,105600,True,1
+2014-08-18,42910,True,2

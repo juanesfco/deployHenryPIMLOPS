@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-02-09,383870,True,A beautifull game thats visualy pleasing. Great story line like a movie. Would watch*(Play agian).
-2015-09-12,338170,True,I ♥♥♥♥ing love this game. Simple fun. And just a good way to pass the time. 1 shot and fun maps
-2015-01-28,51100,False,GAME IS SO FAR BEHIND AND BAD QUALITY GRAPHICS NO AUSSIE SERVERS AND HOSTILE
-2015-01-27,238320,True,♥♥♥♥ing scary
-2014-04-02,265930,True,"Goat simulator is a laugh,Its basicly a mix between skate 3 and grandtheft auto!If you enjoy mindless runing around headbuting summoning the inner goat loard and destroying a little town, Then this game is for you. Will lead you to an what am i doing right now? And what for? But then you contuine doing it becuase you have forgoten about your life as it seems.. So you continue to headbut cars and lick rocks and fly through the air.. I enjoy it and im sure you will 2 for 10 dollars its worth it you can enjoy it and so can your gf. Swing anyone ago becuase getting the highscore can take a little bit  ahah"
-2014-03-21,730,True,"Additvie fun hardcore fps, If you want a challenge vs 7 year old vets who know maps and the game like the inside of there missus then this if for u. Challenge your self ingame and challenge your self not to open cases.. great game favourite on steam"
-2014-03-21,108800,True,"Rad graphics fun story, Gets repetitve but story is where it is at. Mutliplayer was fun until i could not login anymore..."
+posted,item_id,recommend,sentiment_analysis
+2016-02-09,383870,True,2
+2015-09-12,338170,True,2
+2015-01-28,51100,False,0
+2015-01-27,238320,True,0
+2014-04-02,265930,True,2
+2014-03-21,730,True,1
+2014-03-21,108800,True,2

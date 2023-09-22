@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-07,252490,True,Frieken EPIC GAME!
-2015-11-26,730,True,♥♥♥♥en wastes time and money but is good. lols
-2013-11-22,10180,True,This game is awesome.....
-2013-10-31,33680,True,"For its price it's worth it, very fun!"
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,252490,True,0
+2015-11-26,730,True,2
+2013-11-22,10180,True,2
+2013-10-31,33680,True,2

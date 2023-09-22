@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-02,383790,True,Awesome
-2014-02-01,440,True,"Very fun game, good for wasting time and even getting competitive. Hours of fun and fustration ahead. Highly recommend this  game to anyone looking for fun and enjoyable gameplay."
-2014-02-01,730,True,"My first CS game, and one of the first games to get me into the PC world. Great game, hours of gameplay ahead if you decide to get this game. Highly recommend this game to anyone looking for an ejoyable shooter with an awesome community."
-2016-02-05,270880,True,Amazing.
-2015-01-22,105600,True,but ♥♥♥♥ it was 99c - macklemore
+posted,item_id,recommend,sentiment_analysis
+2016-03-02,383790,True,2
+2014-02-01,440,True,2
+2014-02-01,730,True,1
+2016-02-05,270880,True,2
+2015-01-22,105600,True,1

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-08-25,242570,True,really cool game someone should get it so i can actually play multiplayer
-2012-07-18,43110,True,i really like this game and i think everyone should get it
-2012-02-22,113420,True,It looks really good
-2012-02-17,21170,True,One of the greates games ever made 10/10
-2011-12-10,4000,True,Really good game 9/10
-2011-11-25,24200,True,very cool 10/10
-2011-10-24,107900,True,its good online fun
-2011-09-09,440,True,This is a really great game made by valve and valve is the greatest video game company ever!
+posted,item_id,recommend,sentiment_analysis
+2013-08-25,242570,True,1
+2012-07-18,43110,True,1
+2012-02-22,113420,True,2
+2012-02-17,21170,True,1
+2011-12-10,4000,True,2
+2011-11-25,24200,True,2
+2011-10-24,107900,True,2
+2011-09-09,440,True,2

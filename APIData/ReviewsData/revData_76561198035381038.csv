@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-06,6370,True,the most intense and fun arena game i have played. only thing that sucks is 220 ping all the way down here in nz. pls give us oceania servers <3
-2016-03-19,372000,False,So I can download the game and not play it a monthe before release. Insanely confusing and a bad move on the developers part.
-2016-06-29,225080,True,"♥♥♥♥ing amazing game. buy it while its on sale,please."
+posted,item_id,recommend,sentiment_analysis
+2015-03-06,6370,True,2
+2016-03-19,372000,False,0
+2016-06-29,225080,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-03,346110,False,"Stupid FREAKING leech disease. WORST. FREAKING,ADDITION. EVER."
-2016-03-09,264120,False,Terrible game.
-2015-07-11,304050,False,"wouldn't launch glyph, SUCKS."
+posted,item_id,recommend,sentiment_analysis
+2016-06-03,346110,False,0
+2016-03-09,264120,False,0
+2015-07-11,304050,False,0

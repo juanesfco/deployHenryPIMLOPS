@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-05-18,236390,True,"This game is absolutley fantastic, I enjoy every second playing it, especially with friends!  Very tactical and educational in a way.  They have done exceptionally well with this free to play game!  10 out of 10!"
-2014-03-20,218620,True,"I strongly recommend this game, it's a brilliant coop, fun if played with friends, it's a good laugh! :)"
-2016-04-24,291550,True,"Great game, but needs more content and it needs to be purchasable with in game earnable money.  No premium ♥♥♥♥.  <3"
-2014-07-09,304930,True,"It is amazing.  A bit like Dayz, so if there's people who can't afford Dayz, this is an awesome substitute!!! Enjoy!!"
-2014-07-02,244850,True,I recommend this game to anyone who enjoys a laugh!
-2013-03-14,440,True,Great game all in all.  But you will need a fast pc because the guys who made this put like millions of textures in one pixel and it lags like a boss if your pc is slow!!
+posted,item_id,recommend,sentiment_analysis
+2014-05-18,236390,True,2
+2014-03-20,218620,True,2
+2016-04-24,291550,True,2
+2014-07-09,304930,True,2
+2014-07-02,244850,True,1
+2013-03-14,440,True,1

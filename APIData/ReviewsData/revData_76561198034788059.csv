@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-26,322500,True,"From replaying the alpha version from last year over and over, SUPERHOT has managed to deliver in full. The mechanic is still as cool as ever and in unison with the compact level designs it still manages to remain a little difficult. More of a puzzle game than anything and one that I have already really enjoyed in the short time I've played."
-2014-12-09,261030,True,"This game man.. this game right here.Finished watching all the shows you had backed up? Game of Thrones not expected for a few more months?Well do yourself a favour and play this game.The way Telltale forms the relationship between the game's characters and the player allows for a seriously emotional experience; one that is unmatched by any TV show or movie I've come across. Awesome story, likeable characters, relationship development that is out of this world. 10/10, will cry over again in the future."
-2013-01-04,204300,True,The ravenous combat of any MOBA game without the horrible community of others. Great buy for casual play.
+posted,item_id,recommend,sentiment_analysis
+2016-02-26,322500,True,1
+2014-12-09,261030,True,1
+2013-01-04,204300,True,0

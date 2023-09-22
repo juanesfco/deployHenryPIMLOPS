@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-12,317360,True,10/10/10 ~20XX
-2016-02-27,391540,True,Undertale is a quircky yet charming RPG game made by Toby Fox on 15 september 2015.prepere to fall in love with the strange characters of the underground and buy a shotgun to kill the ♥♥♥♥ING FLOW- *Ahem* sorry got sidetracked.with it's amazing soundtrack and hilarious antics this game gets my final score of9.5/10*reading this review fills you with DETERMINATION*
-2014-06-13,208090,True,♥♥♥♥in awesome
+posted,item_id,recommend,sentiment_analysis
+2016-04-12,317360,True,1
+2016-02-27,391540,True,2
+2014-06-13,208090,True,2

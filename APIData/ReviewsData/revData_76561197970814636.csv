@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-07-12,570,True,"League of Legends is a really good MOBA game 10/10I recommend the game :)))))...oh and so is Dota 2, yeah try it out too..."
+posted,item_id,recommend,sentiment_analysis
+2015-07-12,570,True,1

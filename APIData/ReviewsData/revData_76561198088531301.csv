@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-01,730,True,Good game
-2014-02-26,252490,True,Amazing game If you have got a mac and you want a good game then but it. It is amzing you will not be dissapointed still in alpha though so expect a few bugs but over all AMAZING
+posted,item_id,recommend,sentiment_analysis
+2014-09-01,730,True,2
+2014-02-26,252490,True,2

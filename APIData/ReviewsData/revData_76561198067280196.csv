@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-03,4000,True,"This is a very good game tho , recommend you to buy it (Y)"
+posted,item_id,recommend,sentiment_analysis
+2013-12-03,4000,True,2

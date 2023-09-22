@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-15,271590,True,"Excellent graphics, attention to small details, awesome gameplay, all running optimized as smooth as butter! Was worried about GTA 4 killing off this great series, but GTA V is here now to seriously revive it. Still needs a RockStar Social Account to signup and play, but apart from that slight setup annoyance, well worth it."
-2015-04-14,307780,False,"First time (due to possible stream install issue) - Run the game once then exit out, let it preload all the additional installation packs, before diving into a game. This will save you a lot of headache, it might crash out / close / exit the game otherwise still downloading content in background.EDIT: Huge patching still with bugs, glitches, and redownloading of the entire huge game again is really getting lame! Beginning to ignore this game as just a bandwidth waster."
-2013-12-19,221680,True,Warning: Little cousin might also want to play with your precious axe for hours on end with this game! Run to the Hills (Iron Maiden DLC)
+posted,item_id,recommend,sentiment_analysis
+2015-04-15,271590,True,2
+2015-04-14,307780,False,0
+2013-12-19,221680,True,1

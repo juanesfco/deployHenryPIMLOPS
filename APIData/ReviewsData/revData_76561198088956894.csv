@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2013-12-23,620,True,Fantastic Game! It allows one to think really deep into the obstacles in this game but sometimes mind crushing. I had to think for 30 mins to solve a map before.
-2015-03-26,230410,True,Fantastic game! Lots of gamemodes and large variety of weapons. Not those type of MMO's that is not paid to win where everything is that is exclusive is possible to get if you take the time and hours to farm for it.
-2013-12-23,72850,True,It's been a long way since Elder Scrolls started and this is the best one yet. Skyrim has enhanced the limits of multiple games and proved that a sword-slashing-gory-game is possible. Not to mention the mods makes the game alot more interetsing as well.
-2015-02-01,730,True,"After playing 500 hours on this fantastic FPS, it's gameplay and multiplayer action is just spot on, expected of Valve. It's realistic recoil and other features make this game a must buy!"
-2014-02-08,208090,True,Great game. Good physics l0l
-2013-12-23,17470,True,Dis game is action packed and thrilling
-2013-07-15,4000,True,"Great Game! With lots and lots of props to play around with,add-ons to make it interesting and finally...the ability to make awesome stuff! I recommend this game for those into creativity"
-2013-05-18,440,True,THis FPS Shooter game really packs a punch.I'm in a competition in this game there is a reason why I joined it...
-2013-12-23,8980,True,"A Gem.It's level of stupidity is just overwheming to handle,which makes the game fun to exprience"
+posted,item_id,recommend,sentiment_analysis
+2013-12-23,620,True,1
+2015-03-26,230410,True,2
+2013-12-23,72850,True,2
+2015-02-01,730,True,1
+2014-02-08,208090,True,2
+2013-12-23,17470,True,1
+2013-07-15,4000,True,2
+2013-05-18,440,True,0
+2013-12-23,8980,True,0

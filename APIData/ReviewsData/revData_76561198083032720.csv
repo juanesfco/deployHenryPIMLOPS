@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-11,730,True,Best Game ever 10/10Great GraphicsLike CoD and Tf2fOR MAC and PCThe BeSt
-2014-10-01,252490,True,Best game ive ever played 10/10 its rated 16+ for a reason u spawn naked and u kill a lot of things lol
-2014-08-09,293500,True,good game and very kawaii fun and wierd query and lolalot
-2014-07-27,304930,True,Awesome game but i think the developers should make it so u spawn in DAY time because u dont start off with a flashlight other than that GREAT GAME!!!!
-2014-06-29,620,True,This game is the best i like playing co-op with my mates this game has improved from portal.
+posted,item_id,recommend,sentiment_analysis
+2015-01-11,730,True,2
+2014-10-01,252490,True,2
+2014-08-09,293500,True,2
+2014-07-27,304930,True,1
+2014-06-29,620,True,1

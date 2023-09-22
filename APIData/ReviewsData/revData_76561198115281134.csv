@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-10,218620,True,This video describes my experience on paday 2 https://www.facebook.com/1692666744338067/videos/1733082150296526/
-2014-07-25,291480,True,It is a great game in my opion i love the guns and things you can do in it and i love the sniper class =)
-2014-03-06,440,True,tf2 for the win and sniper and pyro are the best class to chose.
+posted,item_id,recommend,sentiment_analysis
+2016-07-10,218620,True,1
+2014-07-25,291480,True,2
+2014-03-06,440,True,2

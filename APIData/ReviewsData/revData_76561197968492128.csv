@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-11,342200,True,"As of December 2015, I've logged around 2500 hours in this game. In a way, I'm ashamed I've spent so much time on a F2P game. But then I remember this game has GIANT FREAKING ROBOTS THAT GO BOOM!I like mechs.I like explosions.I like mechs that cause explosions.My wallet hates mechs.My wife doesn't approve.My 7 year old daughter insists the Spider is better than the Atlas. She's looking for a new home. Play it, love it, ignore the ForumWarriors."
-2016-08-27,275850,True,"It's different, it's interesting, it's single player."
-2016-05-16,412740,True,"The best VR experience I've had thus far.Sure, the UI could use some work and the search function occasionally disables the dashboard trigger-select, but when you pick the right song you'll forget all that. Your heart will thump, your brow will sweat, and with tired arms and a sore back, you'll forget all about the fact that you look like you're having a seizure in real world.10/10. Happy to look like I'm having a seizure in a Facebook video again."
-2015-05-29,374570,True,"If Jesus made a movie so awesome that he himself could not watch it, it wouldn't be as good as this."
-2014-01-14,221100,False,"A long time, this was my review:Spent 4 hours running to a military base and loaded up with so much ammo I could barely carry it. Then fell down a step and broke my legs. Crawled for 500m before someone handcuffed me and stole my pants. The same guy then shot my wife. 11/10Little has changed feature wise since then, but the gameplay has. It's not as fun. More hackers, and those that don't  kill on sight. The emergent gameplay of 'is this guy friendly or hostile' that made it great has gone."
+posted,item_id,recommend,sentiment_analysis
+2015-12-11,342200,True,1
+2016-08-27,275850,True,2
+2016-05-16,412740,True,2
+2015-05-29,374570,True,2
+2014-01-14,221100,False,2

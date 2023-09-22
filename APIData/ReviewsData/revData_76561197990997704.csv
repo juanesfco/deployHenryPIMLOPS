@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-21,232810,False,Boring as ♥♥♥♥
-2014-11-15,289650,False,Drops out and bugs every 30 mins
+posted,item_id,recommend,sentiment_analysis
+2014-03-21,232810,False,0
+2014-11-15,289650,False,1

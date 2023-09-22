@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-01,42700,True,1 of the best call of duty  games
-2015-12-27,22380,True,it's really look like a warz and other survival games very fun
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,42700,True,2
+2015-12-27,22380,True,2

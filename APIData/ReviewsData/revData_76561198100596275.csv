@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-01,311210,True,рекомендую игра ваще огонь вот только цестота кадров страдает а так норм
-2014-06-22,24240,True,супер игра всем советую
+posted,item_id,recommend,sentiment_analysis
+2016-01-01,311210,True,0
+2014-06-22,24240,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-06-04,6550,True,"This game made a huge impact on my life when i was a kid and made me love action games like i play today. I remember as a child i would constantly get up to beat bloody palace mode, this game would never get old due to it's intense gameplay!"
-2015-11-05,391540,True,"It's been a while since i added a game to one of my favorite games of all time, but this game, THIS GAME! It may be dark and scary but IT'S SO AWESOME, im buying the soundtrack too cause the music is so awesome and i want to support this guy!HAIL TOBY FOX!"
-2016-06-03,291550,True,Like smash but no lag 20/1 - IGN
-2013-12-19,220440,True,"You only know his name, not his story!"
-2014-07-29,251570,True,"Dont underestimate it just cause its in alpha, its a good game now and will be a GREAT game in the future keep doin wat you doin fun pimps :S"
-2012-05-23,440,True,its a very awesome game to play + ITS FREE
+posted,item_id,recommend,sentiment_analysis
+2016-06-04,6550,True,1
+2015-11-05,391540,True,1
+2016-06-03,291550,True,1
+2013-12-19,220440,True,1
+2014-07-29,251570,True,2
+2012-05-23,440,True,2

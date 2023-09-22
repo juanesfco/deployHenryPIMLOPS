@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-14,440,True,es el mejorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr JUEGO DE LA VIDA
-2015-09-15,304930,True,ESTA VCHUDOOOOOOOOOOOOOOO
-2015-09-10,4000,True,es el mejor juego de la historia
+posted,item_id,recommend,sentiment_analysis
+2015-10-14,440,True,2
+2015-09-15,304930,True,1
+2015-09-10,4000,True,2

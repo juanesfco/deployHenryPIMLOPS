@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-21,220200,True,"Such a fun, easy to mod and to mess about in game while having good career mode options and having a fun sandbox 10/10 would play if you like rockets and planes and building stuff like that"
-2013-03-17,4000,True,"A source-engine based physics sandbox has got a long way since 2004 when it started as a Half life 2 mod. So much has been added and many user created stuff is allowed in. The best part is that if you have a source engine based game eg. Team Fortress 2 you can use it's content INSIDE Garry's Mod and make animations, weapons etc with the content. £6 well spent."
+posted,item_id,recommend,sentiment_analysis
+2016-04-21,220200,True,2
+2013-03-17,4000,True,2

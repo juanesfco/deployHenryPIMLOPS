@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-03-26,311560,True,11/10 Better than unity. i do recommend playing AC3 and AC4 before buying this game
-2015-06-25,208650,False,Is anybody experiencing crashes at the start screen?
+posted,item_id,recommend,sentiment_analysis
+2015-03-26,311560,True,1
+2015-06-25,208650,False,1

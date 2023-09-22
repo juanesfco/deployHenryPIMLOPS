@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-08,339610,True,"Fun, cool game and when u look at it u think oh it is a ♥♥♥♥ game but infact it is so enjoyable I love it to bits and the crew system they have in the game is amazing I do recommend this game to kids above 10+ years of age."
-2014-08-17,252490,True,Great game fun to play with friends I recommend to everyone over the age of 15+.
-2014-02-01,105600,True,okay game.
+posted,item_id,recommend,sentiment_analysis
+2015-04-08,339610,True,1
+2014-08-17,252490,True,2
+2014-02-01,105600,True,1

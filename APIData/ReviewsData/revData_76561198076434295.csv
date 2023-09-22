@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-04-17,730,True,Its a game that i actually enjoy
-2015-12-16,209870,False,BRING THE OLD ONE BACK
-2016-07-02,282440,True,Make it free!!!
-2016-06-03,72850,True,"Amazing game, i should get back too it"
-2016-04-26,620,True,"Got it 2 years ago, still haven't finish, probably because I don't play it much, friend got it this year finished it in a week"
+posted,item_id,recommend,sentiment_analysis
+2016-04-17,730,True,1
+2015-12-16,209870,False,1
+2016-07-02,282440,True,2
+2016-06-03,72850,True,1
+2016-04-26,620,True,2

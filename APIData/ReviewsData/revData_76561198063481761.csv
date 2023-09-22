@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-19,440,True,#1 bread-based hat simulator available today.11/10 would spend hundreds on again
-2014-05-15,292240,True,best game of my childhood. only game of my childhood. short but fun.
-2014-05-25,220780,True,"good game, makes me feel emotions about squares and rectangles."
+posted,item_id,recommend,sentiment_analysis
+2014-06-19,440,True,2
+2014-05-15,292240,True,1
+2014-05-25,220780,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-28,236390,True,lol
-2013-08-03,218230,True,BEST GAME I HAVE PLAYED SO FAR (with bf3) GET IT ITS SICK THING EVER!!!
-2013-07-07,9900,True,I dont have it. I  guess it sucks!
-2013-07-05,207230,True,lolz
+posted,item_id,recommend,sentiment_analysis
+2014-02-28,236390,True,2
+2013-08-03,218230,True,1
+2013-07-07,9900,True,0
+2013-07-05,207230,True,2

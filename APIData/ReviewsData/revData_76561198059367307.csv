@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-13,333600,True,"The game is OK i guess, but i think ill need to play it for a little bit more since the game takes so long to complete."
-2012-11-23,105600,True,its frieken amazing!
-2014-05-11,220780,True,"Beautiful game, 10/10 for originality too, brought me to tears in some parts. wont suit everyone but is a must have for anyone with an open mind"
-2014-05-11,203140,True,"A reasonably alright game, couldve used alot more polish however, and i dont like how 'linear' it is. I would've prefered it if you had a mode where you actually have targets that arent a part of the story, and you get money for it and stuff (i know contracts mode has stuff like that but a constant internet connection is required) The AI are kinda stupid too... And when someone finds a body, there could be 100 people there and the AI targets.... YOU! .... just in a crowd staring at a crime scene as people do... and the Cop targets some random aged guy in a suit!! i mean... COME ON!!!"
-2013-04-06,230410,True,It is AMAZING! the concept of it and the graphics along with the fast paced action co-op and powers is awesome :D
+posted,item_id,recommend,sentiment_analysis
+2015-04-13,333600,True,1
+2012-11-23,105600,True,2
+2014-05-11,220780,True,2
+2014-05-11,203140,True,0
+2013-04-06,230410,True,2

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-05-17,238460,True,"Otimo jogo, Divertido e intereçante, um dos melhore coop."
-2016-05-18,233470,True,"Muito bom o jogo recomendo. unico ponto negativo é q ocorre muitas lutas por turno, e acaba sendo meio chato e cansativo por isso."
-2015-07-24,323370,True,"a engine de batalhas, e os graficos são lindos, até agora estou gostando."
-2016-05-17,238370,False,"Esperava mais deste jogo, esta pior do que seu antecessor (magicka). eu jogava todo dia o magicka 1, até zerar e mesmo depois que zerei continuei jogando nas 'waves' porque era muito divertido com os amigos, mesmo no controle. quando saiu o magicka 2, logo comprei, mas no primeiro dia ja me decepcionei:* a jogabildiade está pior que do antecessor * o jogo se tornou mais complicado* as configuraçoes para controle estão piores tbbm"
-2016-05-17,104900,False,"♥♥♥♥ jogo ruim, ainda bem que paguei apenas 2 reais nele."
-2016-05-17,253430,False,"Uma cópia ruim de minecraft. no começo me intereçou bastante, parecia ter muitas coisas para se descobrir no jogo, mas não é por ae."
-2016-05-17,48000,True,"Jogo intereçante, ainda não terminei, mas até agora estou gostando, ele não tem uma historia narrada, vc vai apenas avançando cada vez mais, enfrentando fases com puzzles bem envolventes, tem um ar misterioso nesse jogo, espero que o final me surpreenda."
-2016-05-17,303800,False,Precisa de tradução para Português!.
-2016-06-13,378930,False,"Não posso recomendar esse jogo, porque nem mesmo consigui jogalo, não abre de geito nenhum, ja procurei e tentei diversas soluçoes e nada."
+posted,item_id,recommend,sentiment_analysis
+2016-05-17,238460,True,2
+2016-05-18,233470,True,1
+2015-07-24,323370,True,2
+2016-05-17,238370,False,0
+2016-05-17,104900,False,0
+2016-05-17,253430,False,0
+2016-05-17,48000,True,2
+2016-05-17,303800,False,1
+2016-06-13,378930,False,0

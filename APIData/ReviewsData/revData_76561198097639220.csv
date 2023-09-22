@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-21,227940,True,waiting around in the lobby for 15mins+ for a game to start. zzz.....------------------------------------------------------------------------------------------------------------update 11NOV2014: actually not too long to wait now. less than 1.5 mins everytime. average about 30-40s which is ok. great game
-2014-12-26,32370,False,doesn't work on win7 64bit....zzz crashes a few seconds into it
-2014-12-12,6060,False,"can't get it to work.... zzzrebooted, default setttings.... keeps crashing"
-2015-04-10,265930,False,"'input not supported error' can't get it to run in at 1080, and now can't change the resolution to anything that works. have tried -safe and -autoconfig and -w #"
+posted,item_id,recommend,sentiment_analysis
+2014-07-21,227940,True,1
+2014-12-26,32370,False,0
+2014-12-12,6060,False,1
+2015-04-10,265930,False,2

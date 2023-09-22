@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-11-03,33220,True,Very good. CO-OP and single player were both very balanced and had good stories to them.
-2014-11-03,39210,True,CHOCOBO!!! Oh and MMO stuff...
-2014-11-03,55230,True,Lot of latex and men slaves. I mean a lot. Like I mean men used as horses.
-2014-11-03,12210,True,Want to go bowling?
-2014-11-03,113400,True,PEW PEW LAG.... PEW PEW
-2014-11-03,218620,True,Let's get rich...
-2014-10-29,203160,True,The game did have that 'Open World' feeling but when actually traversing  the area itself felt too linear. Combat was fun to do and the puzzle kept you busy.8/10
+posted,item_id,recommend,sentiment_analysis
+2014-11-03,33220,True,2
+2014-11-03,39210,True,1
+2014-11-03,55230,True,0
+2014-11-03,12210,True,1
+2014-11-03,113400,True,1
+2014-11-03,218620,True,2
+2014-10-29,203160,True,1

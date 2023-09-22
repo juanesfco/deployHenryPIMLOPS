@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-20,8870,True,"There is always a lighthouse, there's always a man, there's always a city."
-2013-02-09,42680,True,Massive cluster ♥♥♥♥. How do I remove this game from my account?inb4 MW4
-2012-09-07,17480,True,Red Alert 2/Red Alert 2: Yuri's Revenge from 10 years ago is still better.
-2012-09-07,10180,True,The pinnacle of Call of Duty.
+posted,item_id,recommend,sentiment_analysis
+2014-06-20,8870,True,1
+2013-02-09,42680,True,0
+2012-09-07,17480,True,2
+2012-09-07,10180,True,1

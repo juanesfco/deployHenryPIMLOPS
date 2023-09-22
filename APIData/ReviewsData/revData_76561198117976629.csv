@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-12,265630,True,"This game is absolutely brilliant. It not only is a brilliant fps game, but it also encourages hilarious racial slurs and killing people in any way possible including kicking, punching, stabbing, hacking, shooting, throwing knives and setting off dynamite!"
-2014-09-12,91310,True,"This game is actually beautiful. Although it has a lot to improve on in the graphics, it makes up for this with excellent gameplay. In this game, you can murder zombies in the most brutal and interesting ways including but not limited to: beating them to death with your fists, kicking them repeatedly, decapitating a number of limbs and/or the head, bashing people to death with paddles, throwing jerry cans at zombies, throwing your entire inventory of knives at a zombie and then turning said zombie into your own personal weapon's cache and retaking your knifes before restarting this process, throwing broomsticks at zombies, throwing hat stands at people and crash-tackling zombies. In addition to this, this game is characterised by the fact that no matter how mutilated a corpse is in this game, it can always be more mutilated."
-2014-03-09,34900,False,"This game is better as a joke than as a game. The tutorial is narrated by Microsoft Narrator or something very similar. I'm not quite sure (due to the terrible graphics) but I think it may actually be a game about a bunch of rats elaborately and incredibly violently killing something which resembles a cat, and makes a 'reow' noise every 2 seconds (It is slowly driving me insane). It is a dodgy puzzler which rewards you at the end of each level with a rain of blood and viscera from the cat-thing dying a horrible torturous death. 2/10, but only because it's fun to laugh AT! (not with, AT)"
-2014-03-09,104900,True,"This is basically Left4Dead2 except the weak as zombies are replaced with dodgy dinosaurs. It is actually a good game though despite this, but not worth getting for it's full price. 7/10"
-2014-01-22,70,True,A brilliant game from the 90's which will never truly grow old. Half-Life's gameplay is a mixture of a first person shooter with a platformer. I rate it 10/10.
+posted,item_id,recommend,sentiment_analysis
+2014-09-12,265630,True,1
+2014-09-12,91310,True,2
+2014-03-09,34900,False,0
+2014-03-09,104900,True,1
+2014-01-22,70,True,2

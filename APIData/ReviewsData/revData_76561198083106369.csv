@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-04-19,230410,True,"I was afraid all the pressing on my keyboard will destroy it but it didin't. But if it did, its worth it.5/5"
-2016-03-06,32370,True,Smashing through the game as Jedi Guardian
-2013-12-04,238960,True,Pretty good game
-2016-04-27,570,True,"With each new update, the beauty of the game gets destroyed and 5-man push becomes an everyday normal thing"
-2016-01-17,346900,True,A great game that doesn't take up too much of your time10/10
-2016-01-10,48700,True,A fully upgraded party wipes out any army in all of Caldaria 10/10
-2015-12-02,221380,True,The classic RTS game and units k.o. the moment they are converted 4/5. The DLC content still needs some working though
+posted,item_id,recommend,sentiment_analysis
+2016-04-19,230410,True,0
+2016-03-06,32370,True,0
+2013-12-04,238960,True,2
+2016-04-27,570,True,1
+2016-01-17,346900,True,2
+2016-01-10,48700,True,1
+2015-12-02,221380,True,0

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-08,8930,True,Legendary. Just Legendary
-2013-12-01,550,True,A really great game where you blow the undead to pieces. Tell me that doesn't sound DOPE!
+posted,item_id,recommend,sentiment_analysis
+2014-09-08,8930,True,2
+2013-12-01,550,True,2

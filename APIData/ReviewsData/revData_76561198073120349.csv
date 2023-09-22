@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-23,9900,True,Played it for basically 599 hours or around 22 full days of nothing but playing the game. Its a really fun and enjoyable game to play. I recommend it.
-2016-05-10,281990,True,"I must say. I'm About to dive into a game type I've never really played before. I already have made to civs that i have yet to even leave the system. And seriously, The Australian Platypus Empire will be feared by all."
-2015-11-27,244160,True,"although it may seem i havent played alot. Thats about how many hours it takes to finish Homeworld 1. I haven't played Homeworld 2... ever in my life. I would imagine it will take longer as the resources are a bit more balanced so when you auto collect it when you go to the next mission, it actually makes you think what you spend it on instead of like in homeworld 1, in one mission you get 100,000 resource units some time before the great nebula."
+posted,item_id,recommend,sentiment_analysis
+2014-12-23,9900,True,1
+2016-05-10,281990,True,0
+2015-11-27,244160,True,2

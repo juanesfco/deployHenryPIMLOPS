@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-09,292030,True,No words can describe the beauty of this game...just buy it and prepare for speechlessness
-2015-07-07,211420,True,"JESUS CHRIST!!!!This game becomes an addiction fast. A satifying, painful, badass, memorable addiction.BUYITNOW!!!"
+posted,item_id,recommend,sentiment_analysis
+2016-01-09,292030,True,1
+2015-07-07,211420,True,1

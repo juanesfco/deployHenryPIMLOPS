@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-06,311210,True,"Its a Great Game, Yeah it Just Released not even 4 hours ago, not the best game Optimization right now and many bugs and crashes, but lets just hope they fix this right?"
-2015-12-19,393420,True,"This game is amazing Reminds me of Rust Legacy, Mostly all the People ive met All Friendly Pretty Chill, so +rep to the Community, Amzing FPS on Highest Setting, Would Recommend to anyone!"
+posted,item_id,recommend,sentiment_analysis
+2015-11-06,311210,True,2
+2015-12-19,393420,True,2

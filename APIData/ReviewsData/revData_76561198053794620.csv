@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-28,218060,True,well there's five years of anger management i won't get back
-2013-07-14,113200,True,"turned into a cat, killed my mum, bumped into poop and died 10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-06-28,218060,True,0
+2013-07-14,113200,True,0

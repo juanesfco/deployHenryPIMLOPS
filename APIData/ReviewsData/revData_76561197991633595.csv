@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-05,233250,True,"Best way to win this game is to rush, forget walls and turrets, get those factories and uber that micromanagement and you will win."
-2014-11-05,242920,True,"Better than SimCity V, make you plan ahead and take calculated risks, if you stuffed up, good to everything you ever built."
-2014-10-30,224260,True,"This ain't L4D series or Rambo, gotta work as a team, don't mess up and don't be a hero and you'll get through the apocalyze, want something like TWD tv series? This will offer you more!"
-2014-06-27,236850,True,"Fantastic game, much like Crusader King II (Minus the detailed marriage) this game is fantastic all round, the only down side is you gotta pay to get portrait and new unit in DLC but that is not necessary to enjoy the game as it is, go minority nations!"
-2014-05-20,201810,True,"Awesome game, alot fo Nazi to kill but $80 for a single player is the only downside"
+posted,item_id,recommend,sentiment_analysis
+2014-09-05,233250,True,2
+2014-11-05,242920,True,2
+2014-10-30,224260,True,2
+2014-06-27,236850,True,1
+2014-05-20,201810,True,2

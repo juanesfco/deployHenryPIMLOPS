@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-01,105600,True,"M8 Best Game 10/10, if you don't like the get good skrub!"
-2014-03-07,440,True,this game is good for people who don't and do like first person shooters
+posted,item_id,recommend,sentiment_analysis
+2016-03-01,105600,True,2
+2014-03-07,440,True,2

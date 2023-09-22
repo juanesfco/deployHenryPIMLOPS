@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-07-11,440,True,its ok
-2015-06-26,248570,True,its pretty hectic
-2014-12-08,72850,True,There is a mod which turns all the trees into human hands....
-2014-11-29,298630,True,Bloody Brilliant little game and has already taken a chunk out of my life.Would be nice to see some kind of Co-op mode implemented because it seems like it would be very fun with a couple of mates!BUY THIS GAME!!!!
-2014-07-13,250600,True,"Bloody great game, go play it, it'll mess with you're head..."
-2014-06-30,218230,True,Got ran over....10/10
+posted,item_id,recommend,sentiment_analysis
+2015-07-11,440,True,2
+2015-06-26,248570,True,2
+2014-12-08,72850,True,1
+2014-11-29,298630,True,1
+2014-07-13,250600,True,0
+2014-06-30,218230,True,1

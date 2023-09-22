@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-10,244850,True,THis game is the best it updates weekly and has a great modding community 10/10
-2015-06-08,228300,True,The combat is interesting and the story is great.
+posted,item_id,recommend,sentiment_analysis
+2015-07-10,244850,True,2
+2015-06-08,228300,True,2

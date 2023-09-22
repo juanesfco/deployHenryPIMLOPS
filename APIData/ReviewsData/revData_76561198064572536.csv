@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-11-14,207610,True,Scroll the ♥♥♥♥ back up and click 'Add to Cart' right now.
-2014-11-22,223470,True,Killing everyone and everything in POSTAL 2 is completely optional. Buying the game is not.
-2014-04-13,250600,True,Short and sweet
-2013-12-25,221640,True,RAAAAAAAAAAAGE. This game screws up your eyes. MASSIVE epilepsy warning.
-2013-12-25,233720,True,"This is an amazingly fun game. But it is so ♥♥♥♥ing hard. Still, it's worth $20, and is sold for $10. A must-have."
-2015-01-02,310370,True,"You could finish this thought-provoking game in the time it takes you to read this review. Also, it's free. Even if you hate The Way of Life, it only wasted 5 minutes of your time. You may as well get it."
-2013-12-25,241640,True,#2spooky
-2014-04-23,550,True,"Great, great game. Nothing like watching a zombies head fly off, unless you live in Australia like me, where the game is f*cking censored to the point of no control. No limb detachment, no blood splashes on the screen, no blood pools and no common zombies can die 'on fire'.Still, 10/10. Buy it, it's a classic."
+posted,item_id,recommend,sentiment_analysis
+2014-11-14,207610,True,2
+2014-11-22,223470,True,0
+2014-04-13,250600,True,2
+2013-12-25,221640,True,0
+2013-12-25,233720,True,1
+2015-01-02,310370,True,0
+2013-12-25,241640,True,1
+2014-04-23,550,True,2

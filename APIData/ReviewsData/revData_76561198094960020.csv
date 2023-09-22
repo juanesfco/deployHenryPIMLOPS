@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-31,6060,True,Very fun
-2014-08-02,730,True,Good Game but I think must have more pistol that can replace glock like usp replace p2000 and some rifle replace ak47
-2014-01-02,4000,True,very fun. i like it so much
-2014-04-28,104700,False,must have asia server
+posted,item_id,recommend,sentiment_analysis
+2015-12-31,6060,True,2
+2014-08-02,730,True,2
+2014-01-02,4000,True,2
+2014-04-28,104700,False,1

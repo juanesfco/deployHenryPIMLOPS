@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-24,302830,True,"the ability to place blocks under oneself while jumping is a little buggy, i continuously find my self glitching through the block. Please fix"
-2015-09-25,349700,True,"Has some serious potential, needs more work though.Will defintely keep checking it out."
+posted,item_id,recommend,sentiment_analysis
+2014-12-24,302830,True,0
+2015-09-25,349700,True,1

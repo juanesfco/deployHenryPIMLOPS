@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-11,243470,False,I want a refund. This has got to be the WORST pc service ever.UPlay can choke on it for ripping every PC gamer off.
-2014-05-14,730,True,This game is one of the best games i have ever played.Over the years of playing crappy FPS games like Cod and battlefield i felt like i was bored of the FPS genre of gaming. Untill i decicded to try out Cs :GOCs:GO is an amazing game which gets you hooked on buying items from the market.10/10 Must get for life.
-2014-04-06,221100,True,My life was fullfilledThat was untill i was forced to strip my clothes and got held hostage and was forced to eat posioned foods.10/10
-2014-03-08,213670,True,Great game if you are a hardcore south park fan.
+posted,item_id,recommend,sentiment_analysis
+2014-06-11,243470,False,0
+2014-05-14,730,True,1
+2014-04-06,221100,True,0
+2014-03-08,213670,True,2

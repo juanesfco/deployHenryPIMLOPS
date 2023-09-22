@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-29,385630,True,Nice classic game that reminds old Galaxy games. Addictive and one-more-level style. Graphic is simple but it's not so tiring as many other flashing space game that makes eyes sore.
-2015-08-29,385980,True,Great platform game! Control is very easy and intuitive. It's so intuitive that it should be loved by children also. Graphic is simple but funny and has some style that I think is best for cartoon-styled games.
-2015-08-29,369000,True,It's a great and addictive game. It's much better than it seems after looking at screenshots or reading description. It's higly playable and fun.
+posted,item_id,recommend,sentiment_analysis
+2015-08-29,385630,True,1
+2015-08-29,385980,True,2
+2015-08-29,369000,True,2

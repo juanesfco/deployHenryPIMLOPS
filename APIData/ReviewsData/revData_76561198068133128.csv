@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-09,72850,True,This game beats the pants of morrowind and oblivion!
-2015-09-14,287700,True,"Kojima's latest work is a masterpeice like usual, buy this game you get so much content for the price."
-2015-01-02,311340,True,"It's fun plays like a metal gear solid game should, but I still whished it played more like snake eater still great tho. Excellent port it plays like a damn fiddle! Awsome grahpics and no peasant framerates.  Best part was when paz fell out the helicopter and blew up."
-2015-09-05,39140,True,"This game is the best Final Fantasy game and PS1 game for a resaon, it's perfect nothings wrong with it, well worth your 12 bucks."
-2015-04-03,228380,True,Computer drivers are ♥♥♥♥♥♥♥s but thats what makes it so fun!
-2014-02-28,212480,True,Puts mario kart shame because it has better visuals characters and more fast paced game play.
-2013-12-23,4000,True,This game is good for eveything!
+posted,item_id,recommend,sentiment_analysis
+2013-12-09,72850,True,0
+2015-09-14,287700,True,1
+2015-01-02,311340,True,2
+2015-09-05,39140,True,1
+2015-04-03,228380,True,2
+2014-02-28,212480,True,2
+2013-12-23,4000,True,2

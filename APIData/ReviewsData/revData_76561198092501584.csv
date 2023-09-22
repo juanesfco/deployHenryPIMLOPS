@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-05,440,True,"Just, Awesome."
-2015-01-24,302830,True,"Well, maybe this not have the best qualities. Maybe this is not 'perfect'. Maybe this is not completely f2p. But, i play with a couple of friends and we laugh while play this game. Flying corpses, guys with rocket launchers, headshots, campers, building guys who build his own base to camp. This game is TERRIBLE, but it's funny, and i like that."
-2014-07-10,304930,True,"Awesome game. Like DayZ, but more difficulty at the startI recommend this game, simple view look like Minecraft, but, when you play, you discover a Epic game."
+posted,item_id,recommend,sentiment_analysis
+2014-07-05,440,True,2
+2015-01-24,302830,True,1
+2014-07-10,304930,True,1

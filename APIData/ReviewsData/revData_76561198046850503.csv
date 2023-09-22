@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-28,232090,False,"♥♥♥♥ you and your greed, Tripwire"
-2012-02-25,570,True,Better than sex
-2015-07-21,244160,True,"Don't play 'Remastered' HW1, do 'Classic' then Remastered HW2.HW1 is all about immersion and survival horror space adventure, HW2 is a junky RTS that killed the franchise."
-2015-06-30,236390,False,The grind is insane
+posted,item_id,recommend,sentiment_analysis
+2015-11-28,232090,False,1
+2012-02-25,570,True,2
+2015-07-21,244160,True,1
+2015-06-30,236390,False,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-09,204030,True,10/10 BEST GAME EVAR IF YOU LIKE CHOICES AND YOUR OWN STORY
-2015-09-28,730,True,DIS GAME IZ SOOOOOO MLG OMMMMMMGGGG RECOMEND FOR DORITO DEW LOVIN PEPLE
-2014-07-09,238460,True,MARIO + CASTLE CRASHERS = BATTLE BLOCK THEATRE 10/10
-2014-01-05,4000,True,This game is addicting as hell hope they could make a second one with more features
+posted,item_id,recommend,sentiment_analysis
+2014-07-09,204030,True,2
+2015-09-28,730,True,0
+2014-07-09,238460,True,1
+2014-01-05,4000,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-02,4000,True,game of the century
-2014-09-17,223710,True,creepiest game ever. cant play it anymore i quitted at thee first jumpscare
-2014-09-09,265930,True,"this game is amazing and totally worth it, yes there are glitches but they are funny.BUY IT."
+posted,item_id,recommend,sentiment_analysis
+2014-10-02,4000,True,0
+2014-09-17,223710,True,1
+2014-09-09,265930,True,2

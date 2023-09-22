@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-02,391540,True,"What can I say about this game other than it's beautiful. This game has clearly had quite a bit of thought put into as shown through the ace character development and comedy. Additionally it puts a refreshing spin on the RPG combat system that I felt really gave this game a sense of uniqueness along with everything i said prior. Over all Undertale is a game that will have you question your own morality when posed with choices, the most prevolent being to 'FIGHT' or 'MERCY' and even when it comes to seemingly mundane actions. A very powerful game, and one of my personal favourites of all time. Would highly reccomend to anybody, with or without an RPG background."
-2012-07-12,440,True,"if you HAVN'T already got this game then, WHAT THE HELL HAVE YOU BEEN DOING ON STEAM!"
+posted,item_id,recommend,sentiment_analysis
+2016-01-02,391540,True,1
+2012-07-12,440,True,0

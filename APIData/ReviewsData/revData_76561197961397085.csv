@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-18,130,True,Great and Awesome Game
-2015-03-18,440,True,Great and awesome game :)
-2015-03-18,10,True,Great and awesome game :)
-2015-03-18,730,True,Great and awesome game :)
-2015-02-27,570,True,Great and Awesome Game. :D
+posted,item_id,recommend,sentiment_analysis
+2015-03-18,130,True,2
+2015-03-18,440,True,2
+2015-03-18,10,True,2
+2015-03-18,730,True,2
+2015-02-27,570,True,2

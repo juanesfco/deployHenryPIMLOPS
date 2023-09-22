@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-06-03,304930,False,worst game ever made would rather play Sonic '06 than this ♥♥♥♥
-2016-06-13,730,True,Decoy cans 2 strong 4 me
-2015-10-09,4000,True,"Sandbox: build and play with random ♥♥♥♥TTT: RDM everyoneProp hunt: hind in one spot for 3 mins and die from granades, then lose as hunter because some kid was in a ♥♥♥♥♥♥♥t spot 9/11"
-2014-01-05,221260,True,1.burn ♥♥♥♥2.money happens3.repeat10/10
-2013-11-04,250500,True,buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo
-2013-09-30,400,True,decent memei rate 8/8 m8
-2013-09-21,239820,True,this game let me make games about ♥♥♥♥ for children and let me become our lord gabenthere be more 9s in this game than in portal 211/10 - a score your games will never get.
-2013-07-30,620,True,this game is really ♥♥♥♥ing good.so good just thinking about it makes my balls explode10/10 best game
-2013-04-11,440,True,one of the most life draining games i have played m9
-2013-04-09,224540,False,how to enjoy ace of spades1.Join game2.Kill someone3.Get kicked4.Go to steam library5.Right click ace of spades 6.delete local contentthis game ruined the original
+posted,item_id,recommend,sentiment_analysis
+2016-06-03,304930,False,0
+2016-06-13,730,True,2
+2015-10-09,4000,True,0
+2014-01-05,221260,True,1
+2013-11-04,250500,True,1
+2013-09-30,400,True,2
+2013-09-21,239820,True,0
+2013-07-30,620,True,2
+2013-04-11,440,True,2
+2013-04-09,224540,False,1

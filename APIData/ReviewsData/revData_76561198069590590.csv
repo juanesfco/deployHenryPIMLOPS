@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-23,7520,True,its very good
-2013-08-30,1930,True,you should buy this it is very good
-2013-12-23,244850,True,its very good
+posted,item_id,recommend,sentiment_analysis
+2013-12-23,7520,True,2
+2013-08-30,1930,True,2
+2013-12-23,244850,True,2

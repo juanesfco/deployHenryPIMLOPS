@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-11,211820,True,"Starbound is Amazing, and it is only in beta. The exploration is one of the main aspects in this game, and also, throwing you in without knowing anything."
-2014-05-31,263440,True,"If Your Gonna Buy an early Access Game, You Can't Help But feeling Upset about the bugs. Guys, We're Actually Playing The Stomping Land!!!! Be Greatful, Even though this game isn't completely Done and Dusted, in the first 6 Hours, I Had Better Experiences than DayZ!!! The Dino A.I. Is Being Worked on and When Finished and More Dinos Are Added, it Will be Sick!!!!"
+posted,item_id,recommend,sentiment_analysis
+2013-12-11,211820,True,1
+2014-05-31,263440,True,1

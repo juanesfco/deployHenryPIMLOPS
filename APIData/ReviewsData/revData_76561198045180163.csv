@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-04-19,230410,True,"Quite fun.The PvE gametype is a refresher from the traditional PvP multiplayer FPS, and it's not P2W at ALL.Just remember, jump when you see those orange circles on the ground radiaing out towards you."
-2014-02-15,271290,True,"I've played this game since it's Alpha stage of development, and I can safely say that this game is awesome. Fast-paced, frantic action, team-based gameplay, lots of player progression/ metagaming, plus MECHS. What more could one want?However, a word of advice for potential gamers in Oceania. Ever since the Raider Update of 2013, Meteor decided to shut down most of the servers in Oceania, so now, there's [literally] only 4 servers left... and 90% of the time, they're empty. So in order to play, you may have to look at another region (Say, US West) and have to face high latency."
-2012-07-20,440,True,The only game were you can kill people with overly flambouyant and ridiculous weapons that have been wrapped in blinking christmas lights.
+posted,item_id,recommend,sentiment_analysis
+2013-04-19,230410,True,1
+2014-02-15,271290,True,2
+2012-07-20,440,True,0

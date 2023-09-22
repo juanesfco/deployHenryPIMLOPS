@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-20,218620,True,Top game. Play it all the time and it never gets old. FUN FUN FUN. Its payday fellas.
-2016-08-06,381210,True,"This game is fun. However, the ranking system sucks, you get put with like four survivors that are rank 20 and a killer that is rank 1? Like how are we supposed to win when he has 7 perks? Constant disconnections during a match and consistent failure to find games or the game simply returns you to the lobby after loading."
-2015-05-16,319630,True,Simply amazing.
-2016-08-03,498240,True,"Only like 10 minutes in and I already love it. The story, the gameplay and the quick time events really keep you on your feet! TELLTALE YOU'RE AMAZING :D"
-2014-08-23,233290,True,"Originally I did not reccomend this game as it glitched out on my computer and would not allow me to progress. Now that I've been able to go through the entire game and finish it I see that it actually a pretty cool game. The story is the best part, some of the gameplay is a bit repeditive (killing demons) but overall I really enjoyed it. I did not see the end comming so it was a good mystery plot."
+posted,item_id,recommend,sentiment_analysis
+2014-12-20,218620,True,2
+2016-08-06,381210,True,0
+2015-05-16,319630,True,2
+2016-08-03,498240,True,2
+2014-08-23,233290,True,2

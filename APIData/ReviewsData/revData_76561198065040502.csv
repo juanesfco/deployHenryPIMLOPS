@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-18,274940,True,Awesome 3D Shark game
-2015-01-29,238460,False,why is the game  ran of the memory?
-2014-12-29,332800,True,i complete night 6 now so i kind of like this gameBUT   i have  bonnie plushies too and its so  cute and its my fav animatronic
+posted,item_id,recommend,sentiment_analysis
+2016-01-18,274940,True,2
+2015-01-29,238460,False,0
+2014-12-29,332800,True,2

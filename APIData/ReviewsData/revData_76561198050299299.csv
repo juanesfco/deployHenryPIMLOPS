@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-03,730,True,"This game is an amazing strategy, i find myself constantly communicating with people to get to the objective. the skins system is a great extra and a fun little thing that makes you want to play the game more."
-2014-10-03,224540,False,"This game no longer has its own feeling. i had played the original ace of spades and it was an amazing game, it was unique and had almost a nostalgic feel to it. now the game lacks in players and is no longer as fun. i would pay to play the older game!"
-2012-12-11,4000,True,great game for free building and making friends!
-2012-03-17,24200,True,PLAY IT!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-10-03,730,True,2
+2014-10-03,224540,False,1
+2012-12-11,4000,True,2
+2012-03-17,24200,True,1

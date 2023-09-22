@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-28,261530,True,Great overall game. There is a few MINOR bugs here and there. The story line is FANTASTIC. One of the Best games i have EVER played! Its so good becuase there is no shooting and other rubbish that all other games tipicaly have! 9/10! Would recomend to everyone! And its at such a good price to!
-2014-01-09,252490,True,"Rust is stil in uts early stages. For now, i have to say, its exelent. I have enjoyed the game very much. There is awalys places to explore, and build. If i could make a few changes or inmpements, it would be to have a item trading application, and more worlds."
-2015-01-02,274900,True,This game is VERY enjobable and fun at the same time
-2014-06-14,286100,True,"Quite a good fun little game for a free to play! I would of bought this at $5! I enjoy it a lot. Execently made game. Runs very very smothly, even with the most basic pc! 9.5/10"
-2014-05-19,265930,True,you can be a goat
-2015-03-14,293760,True,"Good game if you are intersted in cars. A few major problems: Mouse and your accuatual movement are not set correctly.Clunky menu'sNot enough carsMaking cars is very hard due to not being able to move around freelyBut all that aside, it is in beta early release, and although i regret buying this a bit now, it is a good game and i will look forward to playing it in the future"
+posted,item_id,recommend,sentiment_analysis
+2014-04-28,261530,True,2
+2014-01-09,252490,True,2
+2015-01-02,274900,True,1
+2014-06-14,286100,True,2
+2014-05-19,265930,True,1
+2015-03-14,293760,True,1

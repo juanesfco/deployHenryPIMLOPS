@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-03-04,4000,True,Muy entretenido :D
-2013-12-20,440,True,Es un shooter genial ademas de divertido!
-2014-07-25,304930,True,El juego es una pasada...
-2013-12-29,99900,True,Excellente juego!
-2015-11-01,51100,True,Sida intervention in u ♥♥♥♥ m8
-2015-07-14,105600,True,"Tenia la espada Meowmere y el yoyo Terrarian.Mori en la lava y perdi todo, se crasheo el game y bueno la cage...69/10- Volveria a empezar denuevo 1000 veces."
-2014-03-03,239220,True,Muy buen juego y muy entretenido!
-2014-02-17,211820,True,Muy divertido ademas de poder hacer muchisimas cosas y miles de planetas para explorar y mejor con amigos por q soy re weon y nose por q recomiendo...
+posted,item_id,recommend,sentiment_analysis
+2014-03-04,4000,True,2
+2013-12-20,440,True,2
+2014-07-25,304930,True,2
+2013-12-29,99900,True,2
+2015-11-01,51100,True,1
+2015-07-14,105600,True,0
+2014-03-03,239220,True,2
+2014-02-17,211820,True,2

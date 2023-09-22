@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-24,440,True,"Get a hat, A taunt, SHOW THEM OFF."
-2014-03-22,17500,True,Fun.
+posted,item_id,recommend,sentiment_analysis
+2014-03-24,440,True,1
+2014-03-22,17500,True,2

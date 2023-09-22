@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-22,730,True,"At the end, what matters is not if CS:GO is innovative or more of the same than CS: Source, what counts is if it's fun. And CS:GO couldn't be better in this regard."
+posted,item_id,recommend,sentiment_analysis
+2014-06-22,730,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-05,105100,False,"Lume has a novel appearance and a mildly devious twist on the usual sorts of puzzles in games like these. That said, it's really only very mildly devious - ooh, the compass is twisted 45 degrees and north isn't up, oh so tricky! - and I completed the game in half an hour... oh yes, it's very short. For the $7 I paid for it, I'm incredibly disappointed. Don't bother."
-2015-04-14,325090,False,So painfully dull.
-2015-06-18,250260,True,"I love this game, so hard."
-2014-06-21,221910,True,"You need this game. Delightfully silly, deviously odd, and dangerously addictive."
+posted,item_id,recommend,sentiment_analysis
+2014-12-05,105100,False,0
+2015-04-14,325090,False,0
+2015-06-18,250260,True,1
+2014-06-21,221910,True,0

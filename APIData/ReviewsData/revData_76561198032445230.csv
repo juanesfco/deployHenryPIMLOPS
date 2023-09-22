@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-23,35450,True,"Best WWII shooter i've played, also i got PTSD from this game."
-2016-01-08,270370,True,"This is literally the game i've been wanting to see in a long time, ever since hl2 came out, i felt the necessity for a top noch half-life based rts, 10 out of ♥♥♥♥ing 10."
-2014-12-01,730,True,"9 out of 11, Would explode again."
+posted,item_id,recommend,sentiment_analysis
+2014-09-23,35450,True,2
+2016-01-08,270370,True,1
+2014-12-01,730,True,1

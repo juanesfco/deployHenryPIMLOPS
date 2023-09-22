@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-01,295270,True,"Better and easier to use UI, better Match engine with more realistic movement.More tactic and role choice"
-2015-05-21,265930,True,Very funny
+posted,item_id,recommend,sentiment_analysis
+2014-11-01,295270,True,2
+2015-05-21,265930,True,2

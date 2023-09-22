@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-04,349720,False,"I can't even get past the tutorial without it crashing... also, the dance instructor isn't even a good dancer"
-2015-04-10,238960,True,PoE > D3
-2015-04-06,39210,True,Best MMO imo.
-2015-01-16,230230,True,yeah good
-2013-10-02,39140,True,This game is just simply amazing. No words can describe the feeling you get from the story of the Final Fantasy VII Compilation.
+posted,item_id,recommend,sentiment_analysis
+2015-07-04,349720,False,2
+2015-04-10,238960,True,1
+2015-04-06,39210,True,2
+2015-01-16,230230,True,2
+2013-10-02,39140,True,1

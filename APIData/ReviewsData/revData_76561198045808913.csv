@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-24,240320,True,"Please, please, please! Make a Oceania server, the lag is getting unbearable. =("
-2014-07-17,49520,True,A 'Loot-Tastic' adventure for the whole family. 8.5/10
-2014-07-17,268420,True,"Lovely Graphics, Nice Gameplay - Just like your average MMORPG. A awesome story - 6.5/10"
-2014-06-05,4000,True,"Try eating Bouncy Balls, you'll love the results"
-2014-01-01,440,True,Hats...
+posted,item_id,recommend,sentiment_analysis
+2014-08-24,240320,True,0
+2014-07-17,49520,True,2
+2014-07-17,268420,True,2
+2014-06-05,4000,True,2
+2014-01-01,440,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-19,730,True,Best Hip-scoping simulator
-2014-04-19,218230,False,Planetside 2 is one of the worst games i have ever played it is buggy and laggy if you wish to talk whilst playing this game you can't because of the sound the sound cannot be muted turned down or altered. I would not reccomend this game to any gamers out there it takes forever to download and then when it has downloaded you have to install on a completely different browser do not get it will be a waste of your precious time.
-2015-12-28,400,True,"'You are unlikable, yes, it says right here in you profile, very unlikable. Has no friends.'- GLaDOS+Great Insults"
-2014-04-11,200210,True,Realm of the mad god is a brilliant MMO where you are the hero destine to deafeat Oryx the mad god you are then plunged into a world of killing large beasts and finding rare OP (over powered) in which you can kill mobs in one hit. This is a thrilling game and i would personally reccommend it to all ages all skill levels and all gamers have fun and enjoy. GET IT NOW.
+posted,item_id,recommend,sentiment_analysis
+2016-01-19,730,True,2
+2014-04-19,218230,False,1
+2015-12-28,400,True,2
+2014-04-11,200210,True,1

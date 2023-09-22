@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-01-08,107410,True,Memes can be created therefore 10/10
-2016-06-14,252950,True,If you like balls and then furiously slam them into another persons hole then you'll enjoy
-2016-06-14,24010,True,Err dad is addicted to it so yeah?
-2016-06-14,225540,False,More explosions in Just cause 4
-2016-06-14,263280,True,Banana is absolete ♥♥♥♥ at this game
-2016-06-14,730,False,♥♥♥♥ing ♥♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2015-01-08,107410,True,1
+2016-06-14,252950,True,2
+2016-06-14,24010,True,0
+2016-06-14,225540,False,2
+2016-06-14,263280,True,0
+2016-06-14,730,False,1

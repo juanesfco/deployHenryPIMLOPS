@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-06-10,108710,True,"Great story with plenty of scares along the way. What really stood out for me was the Soundscape created, the musical cues when about to be attacked by the Darkness to the muttering of the Taken themselves were some of the best I've heard. A real world was created here, which was fully fleshed out. Whilst the game isn't overly long, a couple of the episodes dragged with continual running down a path and Taken spawning every every 30 seconds, diminished the threat a little.Great game, one of a kind."
-2016-07-08,274190,True,Fun - That is all
-2016-05-28,379720,True,A great shooter and such a breath of fresh air. I can't go back to boring story based shooters...I won't.
-2016-03-19,261640,False,"Hurt my head to complete, game was half as fun as the first two. Just didn't enjoy the setting, characters, zero g or story."
-2016-07-08,107100,True,"OP hero, use Genji to deflect his bullets back to him"
-2016-04-10,273300,True,"Brilliant horror done right. I could only play in short sessions, and that was due to the male nudity.10/10 - would shlong again"
-2016-02-20,356570,True,"Great game, good mix of stealth and all out bloodshed. Humour is on point with some great artwork. Soundtrack starts off pumping but each track is a short loop so can get repetitve.Now what about a Co-Op mode??"
-2015-05-22,22370,True,Simply Brilliant
-2013-12-28,204450,True,"What a fantastic game, length about right for a linear FPS (5 hours). Great story telling elements and fun gunplay mechanics. Has replay value with Arcade mode as well. If this had co-op......"
+posted,item_id,recommend,sentiment_analysis
+2014-06-10,108710,True,2
+2016-07-08,274190,True,2
+2016-05-28,379720,True,1
+2016-03-19,261640,False,1
+2016-07-08,107100,True,1
+2016-04-10,273300,True,2
+2016-02-20,356570,True,2
+2015-05-22,22370,True,2
+2013-12-28,204450,True,2

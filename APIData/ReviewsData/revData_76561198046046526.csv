@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-27,24790,True,Very Awesome game+Great Variety of units+Big Battles+Tons of funFOR KANE/10
-2015-09-21,235460,True,"Great game, recommend to everyone"
-2014-11-27,49540,False,"Absalout ♥♥♥♥, waste of money"
-2014-11-19,287450,True,"Great game, love the age system, love all the units, love all the nations and pretty mutch this game in general!If you love:-Economics-Strategy-War-ChaosThen you will certainly love this game.The extended edition makes the game look better and smoother too!"
-2014-08-19,620,True,"Great game, lots of fun"
+posted,item_id,recommend,sentiment_analysis
+2014-11-27,24790,True,2
+2015-09-21,235460,True,2
+2014-11-27,49540,False,0
+2014-11-19,287450,True,2
+2014-08-19,620,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-05,299740,True,If you like dayz but actually want 60fps on ultra if you like dayz but hate the glitchesif you like dayz but want a better community if you are smart and want to save money on overpriced survival games buy this !! runs smoothgreat graphics fun gameplayactive development
-2016-01-16,290080,False,Not worth the money. i would pay no more then 12 dollars for this game in its current state
-2016-09-01,359550,True,10/10
+posted,item_id,recommend,sentiment_analysis
+2016-07-05,299740,True,1
+2016-01-16,290080,False,0
+2016-09-01,359550,True,1

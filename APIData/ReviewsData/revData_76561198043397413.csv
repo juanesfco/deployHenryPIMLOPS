@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2011-12-29,1250,True,its a god damn good game
-2011-12-28,4000,True,IT BE AWESOME
-2015-10-01,245170,True,Need a waifu?You need this game then.
+posted,item_id,recommend,sentiment_analysis
+2011-12-29,1250,True,2
+2011-12-28,4000,True,2
+2015-10-01,245170,True,0

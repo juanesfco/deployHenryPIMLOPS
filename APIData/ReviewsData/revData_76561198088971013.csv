@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-03-31,338470,True,"I bought itcome at me, I dare you"
-2015-08-28,388520,True,"Awright, first up I've decided to edit my review after seeing how badly this game is being slammed.From what I've read of reviews, everyone's complaining about technical issues and how badly it runs even on good pc's, this is untrue, atleast for me, my pc is by no means high-end, yet it can run this game on ultra without a single stutter that's not related to connection issues.People are also complaining that the game is just another cod game, well in all fairness, the series has been running a long time, it gets a bit difficult to add truly new features without ruining what the game is all about, which is a fast paced shooter.In my experience, it has been the best of black ops 2 and Advanced Warfare, all mashed together into a new game. Most people say this is a bad thing, I personally believe it makes for a nice mix of a game, the wall running and jumping combined with elements from black ops 2 make for something that was far better than the recent trash that's been released.All in all, this has potential to be a great game, just like black ops 2 was."
-2015-03-22,273350,True,"I bought the gameI spent the next 2 days downloading itI opened it and started playingdidn't stop for 10 hours10/10also, I bought monster race edition, fight me DLC haters"
-2015-09-08,550,True,There's a mod that turns the helicopters into chocolate10/10
-2015-03-12,348091,True,$20 USD for 4 masksWorth it/10
-2015-01-10,40100,True,You can make giant firebreathing cybernetic armoured dinosaurs69/10 would spam artillery again
-2015-01-10,9350,True,Your boats have legs if you're cyrban10/10 would nuke spam again
+posted,item_id,recommend,sentiment_analysis
+2015-03-31,338470,True,1
+2015-08-28,388520,True,1
+2015-03-22,273350,True,1
+2015-09-08,550,True,2
+2015-03-12,348091,True,1
+2015-01-10,40100,True,1
+2015-01-10,9350,True,1

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-04-04,440,True,EPICK OMG GOOOOOOD
-2014-05-03,206500,True,epic
-2015-02-19,32470,True,very very good
-2014-08-13,4000,True,what the hell my addons are GON
-2014-07-28,204300,True,epic
-2014-05-09,230410,True,ggggggggggggggggggggggggggggggggggggggooooooooooooooooooooooooooooooooooooooooddddddddddddddddddddddd
-2014-03-17,570,True,cooooooooooooooooooooooool as hell
+posted,item_id,recommend,sentiment_analysis
+2014-04-04,440,True,1
+2014-05-03,206500,True,1
+2015-02-19,32470,True,2
+2014-08-13,4000,True,1
+2014-07-28,204300,True,1
+2014-05-09,230410,True,1
+2014-03-17,570,True,1

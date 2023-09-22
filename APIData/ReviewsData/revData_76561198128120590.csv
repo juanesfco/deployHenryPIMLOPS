@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-05,239820,True,10/10 'Excellent'10/10 'Perfect'7/10 'Too Much Water'10/10 'Best Game Ever'
-2014-08-17,72850,True,Kill chicken = Whole town attacks you.10/10
-2016-01-22,255710,True,"After many hours of playing this game, I can (with 100% certainty) confirm that this is the best city building simulator ever. 10/10."
-2016-05-12,379720,True,"-Amazingly fun.-Runs perfectly on my GTX970/i5-4590 rig.-Story is meh, but it's Doom, so it really doesn't matter.-Gunplay is intuitive and smooth, really feels like the old 90's games.-Multiplayer is super fun, I don't know what the fuss was about.-Graphics are amazing, especially on ultra settings.-BUY IT!"
-2015-11-09,377160,True,Preordered the game a day before it came out... Totally worth it. It looks awesome and the performance is amazing. I don't know what all the fuss was about. 10/10.
+posted,item_id,recommend,sentiment_analysis
+2015-10-05,239820,True,2
+2014-08-17,72850,True,0
+2016-01-22,255710,True,2
+2016-05-12,379720,True,2
+2015-11-09,377160,True,2

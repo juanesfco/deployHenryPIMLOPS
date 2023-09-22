@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-02,214490,True,"Good scares, amazing atmosphere. First time you see the alien gives you a good idea of how quickly the thing will mess you up."
-2014-06-02,250620,True,"Some good scares to be had. Yes it's pretty short, but well worth it IMO. Play the demo first."
-2013-11-12,207610,True,"Awesome atmosphere and you can really connect with the characters. Just like the show and the commic, everybody is happy and nothing bad happens."
-2011-12-29,1510,True,Good story and great fun if you have any nerdish leanings.Kind of want computer that can magic hack banks
+posted,item_id,recommend,sentiment_analysis
+2015-02-02,214490,True,2
+2014-06-02,250620,True,2
+2013-11-12,207610,True,2
+2011-12-29,1510,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-21,236390,True,"its ok, i guess My textures were a little messed up but i think that was jus my pc.but nevertheless its an awesom game"
-2016-04-25,220200,True,I love this game.... IT TOOK OVER.. HELP  16 HOURS IN 1 DAY UGH. HELP ME ;-;
-2015-10-26,200210,True,"Realm of the mad god, A great mmo and rpg, i like it's '8 bit' style and the community, i defenetly recomend the gameThanks for reading!"
+posted,item_id,recommend,sentiment_analysis
+2016-02-21,236390,True,1
+2016-04-25,220200,True,1
+2015-10-26,200210,True,2

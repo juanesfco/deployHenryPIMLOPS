@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-27,413850,True,"A lot of people havent really read what this is. This so far is a trailer for the next CS:GO Major but they will slowly be releasing some behind the scenes interviews with Pros and their familys about how they got where they are and such(these videos get added to your steam library as they are released). So far the trailer proves to be nice, besides the weird sounds (AWP sound like scout, etc). Worth a watch when the actual interviews are released."
-2016-07-01,321400,True,"Very fun game, really needs more players though"
-2016-09-11,252950,True,The best game that has come out in the past 10 years.
-2015-01-29,104900,False,Don't get this game. Spend your $1 on a frozen coke at MC Donalds.
-2015-01-25,313120,True,Martini simulator 201510/10 would light martini on fire again
-2015-01-13,730,True,11/10 would flashbang teamates again
-2014-08-09,570,True,The one place where mother russia is weakest
+posted,item_id,recommend,sentiment_analysis
+2015-10-27,413850,True,1
+2016-07-01,321400,True,2
+2016-09-11,252950,True,2
+2015-01-29,104900,False,0
+2015-01-25,313120,True,2
+2015-01-13,730,True,1
+2014-08-09,570,True,1

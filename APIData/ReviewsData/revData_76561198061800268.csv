@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-13,570,True,this is game the best ever i have ever played! train your teamwork with your friends while having fun
-2015-01-02,215080,True,"Good game, this game really bring a fresh gameplay. Only one thing, asia server seems unpopulated..too many server I guess."
+posted,item_id,recommend,sentiment_analysis
+2014-06-13,570,True,2
+2015-01-02,215080,True,2

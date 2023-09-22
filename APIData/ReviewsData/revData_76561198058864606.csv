@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-06,427520,True,great game. I had time now i have a endless economy to sort and fix.10/10 havent left the house in 1 week.
-2016-06-25,304930,False,overall good game but the melee aspect is terrible i find myself smashing my mouse just trying to kill one zombie and it never works. No matter what weapon you have as long as its melee NEVER go head on on a zombie sneak up behind and heavy attack the head cause when you need to attack heaps the game will decie to quit on you and no matter how much you click you won't be able to attack and this aspect makes the game almost impossible to pay cause you can die from 1 zombie which in a zombie game is too hard even on hard in any zombie game i've ever played.
-2016-03-01,255710,True,great game but it needs some features like sandbox and a better starting budget
+posted,item_id,recommend,sentiment_analysis
+2016-07-06,427520,True,1
+2016-06-25,304930,False,0
+2016-03-01,255710,True,2

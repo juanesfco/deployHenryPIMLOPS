@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-01,440930,True,A well made level with lots of exploration and opportunities. Would probably be the most difficult level of the 3 released so far. Would definitely recommend.
-2016-05-19,236870,True,Loving it so far. A lot of replayability.
-2015-09-03,287700,True,"Really fun!The game makes you (snake) feel like a professional.Pros:- good graphics and runs very smooth (I have a gtx760 and I play smoothly on max on 1080p)- excellent mechanics- loadout system is pretty cool- ai is actually pretty smart- lot of intricaciesCons:- a very minor con: the camera system feels slightly sluggish, but it could just be meMy rating 9.5/10!"
+posted,item_id,recommend,sentiment_analysis
+2016-06-01,440930,True,1
+2016-05-19,236870,True,2
+2015-09-03,287700,True,2

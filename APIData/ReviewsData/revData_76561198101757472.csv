@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-07-25,22380,True,Oh boy! i love this game! I fixed the only error that wasn't letting me play! good game :)
-2015-06-19,238460,True,STEAM! .... Uh... version...10/10
-2015-06-18,206500,True,"Have you ever tought to yourself 'Man, if only there was a game that was not p2w and fun to play with  my friends', well, this game is for you then! its full of fun and the connection is good, i never tought a free to play game could be soo fun10/10!"
-2015-06-18,99900,True,11/10 too much W33D
-2015-06-13,206420,True,Would _______ Again10/10
-2015-06-13,204360,True,Would think this game was about crushing castles again10/10
-2014-08-11,4000,True,"Its boring when you dont have addons, but with addons... This game is a paradise :D Totally recomended for bored ppl"
+posted,item_id,recommend,sentiment_analysis
+2015-07-25,22380,True,2
+2015-06-19,238460,True,1
+2015-06-18,206500,True,1
+2015-06-18,99900,True,2
+2015-06-13,206420,True,1
+2015-06-13,204360,True,1
+2014-08-11,4000,True,0

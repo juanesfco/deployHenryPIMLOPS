@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-05,245170,True,"This game is fantastic. Although it's a fighting game, it allows new players to really get a good understanding of several different fighting game concepts. The art style is amazing, the characters are strange yet fabulous, and the music is out of this world. Would recommend this game to anyone"
-2014-12-09,243870,False,"Boring, takes a while to get ♥♥♥♥, p2w"
-2014-01-18,570,True,"This game is one of the best moba games that has come in a while. The art design for the characters and the map is really nice and attractive, the voice accting for the character lines are very good and the mechanics are very easy to learn and understand. Of course like most games the more you practice the easier it gets and once it gets easy you get really good and the game it self becomes for. Overall one of my favorite game"
+posted,item_id,recommend,sentiment_analysis
+2015-06-05,245170,True,1
+2014-12-09,243870,False,0
+2014-01-18,570,True,2

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-12-14,265750,False,No. Don't even bother.
-2015-12-28,233130,True,"I would pay full price for this game, very satisfying hack and slash action game, 9/10"
-2015-12-04,241930,True,"First off, this game has faced much scrunity. And more often than not, these people have jumped on the 'let's all hate this game for no reason' wagon. This game is rewarding as it is satisfying and enjoyable, and will definitely scratch that LotR itch that you have. Some parts are tedious and bland, yes, but what game doesn't have it's boring moments?EDIT: The nemesis system becomes so ♥♥♥♥ing stupid after a while, took me 4 hours to kill one Warchief"
-2015-12-04,207610,True,"First of all... 10/10. I have never played a game that has made me /feel/ as much as Telltale's The Walking Dead. It is often iterated in many reviews, but each decision REALLY matters. Not only for the consequences for your choices, but for the emotions you'll feel. Whether that be sheer joy, relief, hate, or regret. And regret is really what makes this game so enthralling, you can actually make a decision in a video game you'll regret. You'll often think to yourself, '(this character) didn't have to go through this or didn't have to die if I just made this decision differently'. I promise you, you'll never put the game down once you begin.UPDATE: The ending made me cry like a baby."
-2015-12-04,102500,True,"Kingdoms of Amalur: The Reckoning, is a very vibrant, detailed, and content-filled action-RPG. Although a few primative features make it frustrating at times, such as no auto-save functio, this is a very satisfying open-world fantasy experience that will keep you playing. Each side quest somehow feels intertwinned to the main story, which is great because it never feels like it's wasting your time. The upgrading system is quite excellent, although it is possible to become over-powered very quickly, if you choose to focus on one skill set, e.g Might, where you can hack a troll to death in a few swings. The combat is satisfying. Not too fast or too slow, and in most cases you can't just button mash. You must use a variety of weapons, magic and techniques to overwhelm your foe. And that's why I purchased this game, for a satisfying and rewarding hack and slash experience."
-2014-09-28,211420,True,By far the most relaxing game money can buy...10/10
-2014-07-04,7670,True,"This game, surely, will go down in history as one of the greatest games of all time. On equal par with Half-Life 2... if not better! Yes... this game is THAT good! What are you even doing down here? Add to cart, buy it... and PLAY IT!!"
-2014-06-21,570,False,Boring...
+posted,item_id,recommend,sentiment_analysis
+2015-12-14,265750,False,1
+2015-12-28,233130,True,1
+2015-12-04,241930,True,0
+2015-12-04,207610,True,1
+2015-12-04,102500,True,2
+2014-09-28,211420,True,1
+2014-07-04,7670,True,1
+2014-06-21,570,False,0

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-04-16,219150,True,"Russian gangsters, a rooster with the size of a human and Tammy? Sounds like a normal Tuesday night for me."
-2015-10-06,267381,True,This is a soundtrack of a few Payday 2 based Christmas songs that are quite fun if you are a Payday fan. Along with the soundtrack comes 3 new Santa masks and 3 more copies of the soundtrack to give to your friends for only $0.99 USD.
-2015-09-20,298630,True,You escape jail... That's about it.10/10
-2015-08-03,49520,True,Star Wars+Mad Max+Michael Bay=Borderlands 2
-2015-07-03,250900,True,Items that if you get in your first item room will make anyone restart the run:Soy milk.Tiny planet.Dr. Fetus.Any ♥♥♥♥♥♥ usables.
+posted,item_id,recommend,sentiment_analysis
+2016-04-16,219150,True,1
+2015-10-06,267381,True,2
+2015-09-20,298630,True,1
+2015-08-03,49520,True,1
+2015-07-03,250900,True,2

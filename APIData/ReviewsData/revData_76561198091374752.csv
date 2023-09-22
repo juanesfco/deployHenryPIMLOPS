@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-30,304930,True,day-z _minecraft= unturned
-2014-06-11,440,True,"Bom jogo, divertido e todo mundo joga, exelente!"
-2014-04-16,243870,True,"This game is also very good, but it has alot of launch problems. I'm to angry with that becouse today 16/4/14 at 10pm, when I tryed to play( I played yesterday) it had a launch fail, and when a close it steam said that I was in the game. Please fix it. I'm beta tester, this is my 'job', sorry but someone needs to say this"
-2013-12-30,219640,True,"agora com a work shop ficou daora mas, mas ficou muito mais pesado!"
+posted,item_id,recommend,sentiment_analysis
+2014-11-30,304930,True,1
+2014-06-11,440,True,2
+2014-04-16,243870,True,0
+2013-12-30,219640,True,1

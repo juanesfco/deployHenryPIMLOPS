@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-05,265630,True,Joga interessantissimo ♥♥♥♥ de mais e os br são unsw bosta
-2014-02-21,208090,True,Jogo legal e zuero...................
-2014-01-05,235400,True,bom
+posted,item_id,recommend,sentiment_analysis
+2015-03-05,265630,True,2
+2014-02-21,208090,True,2
+2014-01-05,235400,True,1

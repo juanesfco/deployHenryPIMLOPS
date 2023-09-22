@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-27,377160,True,"This game has everything that tells us it could offer. Open world, settlements, dynamic story-telling... This is a game I plan to have hours upon hours of fun with. One of the best gaming experiences I have ever had."
-2013-01-23,4000,True,It's teh freakin G-Mod!!!!!!
-2015-12-10,107410,True,"Let's be honest, I bought this soley because Frankie created a great cinematic. Again. But we all know we can't replicate that level of fun that they have on their experimental server. And we all know that we can't have the same amount of enjoyment on an Arma: 3 Life server because everyone in Australia are just sarcastic, facetious, dim wittted ♥♥♥♥♥ with no sense of fun or anything. And Australia has ♥♥♥♥ internet. But other than that GREAT GAME. I honestly believe it was worth every cent."
+posted,item_id,recommend,sentiment_analysis
+2015-11-27,377160,True,1
+2013-01-23,4000,True,1
+2015-12-10,107410,True,2

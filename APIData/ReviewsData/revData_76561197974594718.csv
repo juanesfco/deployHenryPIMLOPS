@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-06-24,236850,True,Played for 13 hours building the strongest empire I possibly could just for France to effortlessly punch my ♥♥♥♥ in like the tide washing over an intricate sandcastle. 10/10
-2014-04-27,218620,True,[   ] Not Rekt[X] Rekt
-2015-11-07,246900,True,10/10 would pick up ♥♥♥♥♥ again
-2014-04-23,259680,True,This game is balls out badassget on it
-2013-11-28,210770,True,"Fantastic game, if you can get 4 players the harder maps can be a challenge to maze and require a lot of crowd control skill from the player weapons. Choose your tower upgrades wisely!"
-2013-11-03,238960,True,If you're from New Zealand and you don't play this game there's something wrong with you
+posted,item_id,recommend,sentiment_analysis
+2016-06-24,236850,True,1
+2014-04-27,218620,True,1
+2015-11-07,246900,True,1
+2014-04-23,259680,True,0
+2013-11-28,210770,True,2
+2013-11-03,238960,True,0

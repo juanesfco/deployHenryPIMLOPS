@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-11-05,16870,True,"It was niceUntil BNW happened Then it was comparable to,wellA pile of dog ♥♥♥♥; really"
-2014-02-04,8930,True,"There is no need for a serious review of this game,Just Gandhiand more Gandhiand more Gandhiand some Nuclear Fallout...9/11- Would watch again"
-2014-11-05,235580,True,"'♥♥♥♥ing Barbarians Plundered my Trade Route Again''♥♥♥♥, Venice just took that City-State''SEND OUT THE CAMELS!''NOBODY EXPECTS THE SPANISH INQUISITION!''Funny that, i'm sure i just converted that city to my religion...''Deity? Never again''IMPI IMPI IMPI IMPI IMPI IMPI IMPI IMPI IMPI'-Quotes from me playing the gameGod help me"
-2015-03-08,338160,True,Laughing Madly as you torch the filthy American Peasant Tribesmen with your Western TechCringing Hardly as you try to get rid of your Rebel problemsBreaking Too Many Things from getting 100 Doom Exploring Like a Crazed Spaniard Enforcing the Ethnic Extinction in Asia and Africa-'I love playing Imperialism Simulator 1444'-
-2015-12-10,346900,True,MoneyMoney is all I ever need
-2015-09-26,230290,True,'I am a mother♥♥♥♥ing God' Simulator 2015Because causing the premature heat death of the Solar System has never been so satisfying as it is now
-2015-07-08,105600,True,"Its all fun and games until the Blood Moon StrikesAt the same time as a Martian InvasionAT THE SAME TIME AS BEING INSIDE A SOLAR PILLARThe phrase '♥♥♥♥ my Life' can be applied in so many ways, this by far takes the cake"
-2014-12-02,236850,True,"It may apear to be a boring and drawn out game, but dear god you do not know what you are missing.This game is the ♥♥♥♥. Even though I do use mods (all Ironman Compatible) the game is still super fun and can suprise you everytime you play. Iv'e seen some crazy ♥♥♥♥ happen in this game.-Portugal PU with England -Mainz getting the King of Burgandy Trigger Land Grab-Westernised Haida Tribal Empire-AI Japan converting to Confusionism and PU'ing Qing China-Teutonic Order in America-Kinghts in America-France getting absolutely destroyed by Burgandy and England-Andalusia being formed by AI Granada-Ottomans as Vassals of AI Serbia-Byzantium dying to Venice in 1540-Aragon in Australia-Pskov Forms Russia-Songhai Holy Roman EmperorYep, more PTSD per square mile than a decorated Vietnam Veteran"
-2012-09-21,440,True,"I used to love this game to death. I spent every single spare minute i had playing TF2 back before 2013. Then it got meThis game sucked me into the Black market hat trade. I couldn't stop, but eventuly i was able to break free of constant trading and buying. I got back to the real game or; what was left.When i returned to actual servers and to re-learning classes i quickly discovered how much the game had changed. No longer was it 'TEAM Fortress 2' but the whole get-up was more Counter Strike than anything else. Valve had robbed me of my true love for this game. The addition of Killstreaks, Gold Weapons, way to many OP or UP Weapons and new and pointless hats made this game into what it is now.A Free To Play Call of Duty/Counter Strike Clone.Don't get me wrong, i still like this game (Why i gave it a thumbs up) but i just don't LOVE it anymore.Thanks Valve, for ruining a VERY good and DIFFERENT game."
+posted,item_id,recommend,sentiment_analysis
+2014-11-05,16870,True,2
+2014-02-04,8930,True,2
+2014-11-05,235580,True,2
+2015-03-08,338160,True,0
+2015-12-10,346900,True,1
+2015-09-26,230290,True,2
+2015-07-08,105600,True,2
+2014-12-02,236850,True,0
+2012-09-21,440,True,1

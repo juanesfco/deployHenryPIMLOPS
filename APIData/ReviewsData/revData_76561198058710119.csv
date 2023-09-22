@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-27,32800,True,"One of the best Adventure RPG Games ever. You have the ability to play as 3 different characters throughout the game allowing people with different favorite classes to play as their favorite class.This game is a must get! Even though it $74, its damn worth it."
-2013-12-09,219680,False,This game is basically a screensaver you can explore. No goals. No nothing.
-2015-10-06,207140,True,- FIRST TIME PLAYING - Me: HAHA I'M WINNING!!!!*Screen's shrinks*Me: I'm gonna win wooo!*Dies*Me: WTF HAPPENED I JUST DIED AND I WAS IN FRONT I DON'T GET THIS GAME!!!
-2014-03-11,222900,True,"I normally think MOBA games are horrible. But this, this is something different. YOU GET TO USE WASD INSTEAD OF A MOUSE. AND YOU GET TO KILL ZOMBIES. AND YOU ALSO GET TO KILL BIGGER ZOMBIES. You also get to craft new weapons from materials you earn from playing the game. Did I mention you get to kill stuff?This game is really cool. I highly reccomend you to try to get a Beta Key so you can try it out before it comes out offically!8/10(Will change review once it is fully released)."
+posted,item_id,recommend,sentiment_analysis
+2013-11-27,32800,True,2
+2013-12-09,219680,False,0
+2015-10-06,207140,True,1
+2014-03-11,222900,True,0

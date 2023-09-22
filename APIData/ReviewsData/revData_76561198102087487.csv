@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-13,242860,False,i  have download it and payed 22$ i was happy i gotit and as soon  as i open it erro crash 6-1-2016 was not happy until that is fix its a thubs down
-2015-12-10,10500,True,love this game love the britsh and the france campian
-2015-06-20,214950,True,good game just the texers look bad and make me laggy
-2015-06-18,730,True,good game just dont like the ranking system
-2013-12-25,4000,True,get this this is the most best game i play GET IT!
+posted,item_id,recommend,sentiment_analysis
+2016-01-13,242860,False,1
+2015-12-10,10500,True,2
+2015-06-20,214950,True,0
+2015-06-18,730,True,2
+2013-12-25,4000,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-18,550,True,Great multiplayer experience. Fun to play and good graphics.
-2014-02-18,263760,True,"A constantly updated, fun game with great physics and gameplay. Basically unlimited possibilities."
-2014-02-18,4000,True,"Fun as a first person sandbox, with multiple gamemodes. I enjoy this the best when playing with friends. A lot of content, definitely worth getting."
+posted,item_id,recommend,sentiment_analysis
+2014-02-18,550,True,2
+2014-02-18,263760,True,2
+2014-02-18,4000,True,2

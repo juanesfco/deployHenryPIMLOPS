@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-03-27,8190,True,this game is so awesome that you should buy it
-2014-07-10,63380,True,I sniped a guys testicles and watched them pop magnificently.
-2014-06-27,72850,True,I killed a dragon with my fists..
-2014-06-27,243470,True,At least i pre-ordered it before they raised the price to $75.
-2014-06-21,203140,True,Assassins.. YAY
-2014-06-20,218620,True,Very good. go buy..
-2014-06-08,104900,True,"very good, buy on sale"
-2014-06-03,50130,True,"very good, buy it"
+posted,item_id,recommend,sentiment_analysis
+2014-03-27,8190,True,2
+2014-07-10,63380,True,2
+2014-06-27,72850,True,0
+2014-06-27,243470,True,0
+2014-06-21,203140,True,1
+2014-06-20,218620,True,2
+2014-06-08,104900,True,2
+2014-06-03,50130,True,2

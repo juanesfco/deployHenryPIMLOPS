@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-16,8190,True,Lacks in storyline but makes it up in awesome features9/10
-2015-04-29,730,True,Best CHICKEN AI EVER!!! 10/10
-2015-02-06,203160,True,Good.... but there is no point buying multiplayer dlc if no one plays multiplayer. Wasted 79 cents ;(
-2014-12-23,440,True,"Scout: 'Doc, come on man!'Soldier: 'Need Assistance!!'Pyro: 'MWPHHH'Demoman 'MEDIC!!'Heavy: 'This way, Doctor!'Engineer 'Doc!'Sniper: 'Stay with me Doc!!'Spy: 'Follow me Doctor!!'Medic: 'Where's my assistance!! D:'Annoy the hell out of those Medics people!! Classic, enjoyed it!! - TF2Bible"
+posted,item_id,recommend,sentiment_analysis
+2015-05-16,8190,True,2
+2015-04-29,730,True,1
+2015-02-06,203160,True,2
+2014-12-23,440,True,1

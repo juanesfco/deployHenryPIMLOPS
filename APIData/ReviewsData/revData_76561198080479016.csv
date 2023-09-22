@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-12,113200,True,"This is by far one of the best games I've played, plus it's the only game i have that i can play for hours on end and still think 'just one more try'Looking forward to The Binding of Isacc: Rebirth!!!!"
-2015-11-04,401920,True,"Previously this review was negative and basically just a long rant about changes in the game and I just wanted to appologise, I let my emotions get the better of me and my judgement (as well as some not so good posts from Reddit).Everything that I had previously complained about is now right as rain (or at least will very soon be) and we can all get back to enjoying a game that got me more hyped than Fallout 4!If you want to see what Edmund has to say about new changes and updates look here http://bindingofisaac.com/"
-2015-08-21,250900,True,"By far one of the best games I've ever had the pleasure of playing, I know I said the same thing for the first Binding of Isaac, but this far surpasses it in every way, everyone involved in creating this masterpiece of a game went beyond what I was expecting with this game and with the Afterbirth DLC that should (Hopefully!) be coming out soon, this is a MUST GET!"
+posted,item_id,recommend,sentiment_analysis
+2014-02-12,113200,True,2
+2015-11-04,401920,True,1
+2015-08-21,250900,True,1

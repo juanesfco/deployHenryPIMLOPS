@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-25,1840,True,Eay to Use
-2015-08-19,440,True,Great Game 11/10
-2014-05-03,4000,True,This game is awesome so go and buy it NOW!!!
+posted,item_id,recommend,sentiment_analysis
+2015-02-25,1840,True,1
+2015-08-19,440,True,2
+2014-05-03,4000,True,2

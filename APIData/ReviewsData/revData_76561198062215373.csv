@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-08,262410,True,"Extremely addicting (for me). It's a great game to kill time and overcome boredom. Disassemble and assemble guns, even skeleton, cars and bike. I would be pleased if they add organ systems and anatomies of animals or insects (even birds) to the bonus game."
-2015-04-09,355840,True,This game is as puny as it's name.
-2013-12-04,51100,False,I regret everything right after i  played one match.
-2013-12-02,221640,True,survive in this game for 10 minutes and i'll pay $10 for charity
+posted,item_id,recommend,sentiment_analysis
+2014-06-08,262410,True,1
+2015-04-09,355840,True,0
+2013-12-04,51100,False,2
+2013-12-02,221640,True,0

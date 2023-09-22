@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-15,218470,False,"this game is the worst you create a charecter and then press connect and it doesnt work and iv tried reinstalling, and identifying all the files and it still doesnt work all i got to say to the creators is that FIX THE BUGS AND LEARN TO MAKE A PROPER GAME"
-2014-04-11,202970,True,anyone notice FPSRussia in the first trailer?
-2014-04-06,233270,True,this game and far cry 3 are massively recommended to everyone they are both amazing games and once again i have played both far cry 3 and blood dragon longer then it says on my profile because i got them on my xbox 360
-2014-03-24,239220,True,this game is the best game i have ever played and i dont say that for many beta games but this game is spectacular i would recommend getting it and the better thing is its free so yeah whats better then that
-2014-02-23,33440,False,this game is not terrible but its not the best
-2013-12-27,209160,True,it has amazing graphics & Textures i think its the best COD game there is and you should too
+posted,item_id,recommend,sentiment_analysis
+2014-08-15,218470,False,0
+2014-04-11,202970,True,2
+2014-04-06,233270,True,1
+2014-03-24,239220,True,2
+2014-02-23,33440,False,2
+2013-12-27,209160,True,2

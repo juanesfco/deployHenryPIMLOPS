@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-05-20,203140,True,You can dress up in a chimpuck outfit and kill people. Nuff said
-2013-05-20,57300,True,"Jokes on you Frictional games, I acutally finished Amnesia! And i only ♥♥♥♥ my pants 17 times. Cant wait for machine for pigs."
-2013-05-20,230050,True,Pokes fun at how games can have too much paid dlc.( Im looking at you EA) 
-2013-05-20,233720,True,The best way to become an offical surgeon. You also get a diploma to prove it!
+posted,item_id,recommend,sentiment_analysis
+2013-05-20,203140,True,1
+2013-05-20,57300,True,1
+2013-05-20,230050,True,2
+2013-05-20,233720,True,2

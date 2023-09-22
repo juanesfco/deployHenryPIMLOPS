@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-10,209650,False,not worth a penny
-2015-07-23,315880,False,"More lag, game crash... not recommended at all"
-2014-11-19,259780,True,Worth to play!!
-2015-08-09,345440,True,"Great game, amazing characters. you should buy this game."
-2013-02-22,24010,True,WTFFFFFFFFFFF is this game ?
+posted,item_id,recommend,sentiment_analysis
+2014-11-10,209650,False,0
+2015-07-23,315880,False,1
+2014-11-19,259780,True,2
+2015-08-09,345440,True,2
+2013-02-22,24010,True,0

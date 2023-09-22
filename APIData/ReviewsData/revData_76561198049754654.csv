@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-10,233450,True,"Great game! Reminds me a lot of theme hospital and the original dungeon keeper. It has a bit of a steep learning curve, but other than that it is faultless."
-2016-01-10,40100,True,"Awesome game! Campaign was cheesy and short, but i thoroughly enjoyed it. Multiplayer is fun with plenty of replay as there are heaps of units to experiment with. In terms of technical RTS it lacks a little compared to Supcom 1 but i still enjoyed it."
+posted,item_id,recommend,sentiment_analysis
+2016-01-10,233450,True,2
+2016-01-10,40100,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-22,550,True,nice game
-2014-06-12,4000,True,Not bad Not bad at all this game so COOL
-2014-07-12,99900,True,Like it
-2014-02-15,208090,True,pretty cool game please play this game this is frea
+posted,item_id,recommend,sentiment_analysis
+2014-04-22,550,True,1
+2014-06-12,4000,True,2
+2014-07-12,99900,True,1
+2014-02-15,208090,True,1

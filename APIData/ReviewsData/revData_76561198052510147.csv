@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-08-03,440,True,its free and fun
-2012-07-14,104700,True,Get it if you want these awesome hats for tf2
-2012-07-13,99900,True,Fun when playing with 3-4 knights
+posted,item_id,recommend,sentiment_analysis
+2012-08-03,440,True,2
+2012-07-14,104700,True,2
+2012-07-13,99900,True,2

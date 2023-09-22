@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-05,440,True,"10/10 Excelente juego, jugabilidad muy fluida, graficos ajustados al jugador, y variedad de personajes, hacen de este un excelente juego. GG Valve"
+posted,item_id,recommend,sentiment_analysis
+2016-02-05,440,True,2

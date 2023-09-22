@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-05-20,270170,True,"Good use of minimalist design. Blanking out the 'best options' to simulate unclear thinking is well done. Nice sound effects. I think I got the good end. Play it, it's worth the half an hour or so it'll take to finish."
-2015-08-02,316010,True,"It's a free to play MtG game with storyline elements and deckbuilding! Pretty cool, and access to new cards ais always nice. Some of the story missions are amazing, some are ♥♥♥♥♥♥♥t, most are pretty good.Gripes: The multiplayer and singleplayer use the same save file that isn't stored locally for some reason (probably because it's f2p and they're tyring to get you to buy packs), which means that if the servers are down you may as well not play.Also, new updates are prone to hillarious glitches like removing all the basic lands from every deck, so if there's a big update give the game a few days.Aside from that, it's actually a pretty good game. Play it, but don't pay for Bolascoins.8/10, would rage at Prism Arrays again."
-2015-04-29,203810,True,"Bleak, depressing, romantic and slow. A game for people who barely play games. Pretty well made for all that."
-2011-07-11,15710,True,Classic platforming with a sense of humour and some kind of an ecological message. It's also got one of the best art styles of any game I've played.
-2011-07-04,31280,True,"This is quite the fun game, if you enjoy poker and/or videogame based humour. And you should."
-2011-04-20,12900,True,"This is an amusing little timewaster. It feels like some kind of old school arcade game, and that's rarely a bad thing.Also the soundtrack is amazing."
-2011-04-20,22600,True,"Not a terrible game, but it can't live up to the wonders that were Worms Armageddon or World Party.6/10, maybe 7/10 if you've not played Worms before."
-2010-11-26,400,True,If you've not played this by now you're probably legally dead or something.
+posted,item_id,recommend,sentiment_analysis
+2015-05-20,270170,True,2
+2015-08-02,316010,True,2
+2015-04-29,203810,True,0
+2011-07-11,15710,True,2
+2011-07-04,31280,True,1
+2011-04-20,12900,True,1
+2011-04-20,22600,True,1
+2010-11-26,400,True,0

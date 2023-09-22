@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-22,382490,True,Relic Hunters is one of the best free single player games i have ever played.that's it.
-2015-08-21,96100,False,"This game CAN be fun, but there are a lot of bugs and room for improvement. Like with the ammo system, there is nothing saying how much you have so you could be one shot away from survival but you would fire and nothing would happen, causing your imminate demise.Do NOT get unless your prepared to break something."
-2015-12-09,417860,True,A very short yet forfilling gameTotally worth the 33 mins it took to complete it.10/10
+posted,item_id,recommend,sentiment_analysis
+2015-08-22,382490,True,2
+2015-08-21,96100,False,1
+2015-12-09,417860,True,2

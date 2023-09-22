@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-11,206190,True,10/10 Counts how many times you've punched a guy in the face! :D
-2013-12-30,12210,True,GET IT! getititi tgieigetigietgiegiegieititeigeitgiegietigeggetit!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-09-11,206190,True,2
+2013-12-30,12210,True,1

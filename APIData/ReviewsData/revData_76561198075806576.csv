@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-21,304930,True,Nice Game Free to play :D
-2014-07-23,440,True,Un Buen juego Free to play
+posted,item_id,recommend,sentiment_analysis
+2014-08-21,304930,True,2
+2014-07-23,440,True,2

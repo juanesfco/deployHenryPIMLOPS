@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2012-12-23,440,True,cool
-2012-12-21,630,True,i love this game
+posted,item_id,recommend,sentiment_analysis
+2012-12-23,440,True,2
+2012-12-21,630,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-29,730,True,This game is Eshays!!!
-2016-07-03,333930,True,This game is heaps sick!
+posted,item_id,recommend,sentiment_analysis
+2016-05-29,730,True,0
+2016-07-03,333930,True,0

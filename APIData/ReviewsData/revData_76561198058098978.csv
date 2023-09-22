@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-22,211820,True,"A beautiful example of how early access can work tremendously well. It takes a lot of time and money to develop a game, especially an open world one, and this is were early access can really work. Committed developers, active community and early access to help fund it all. Now we're here at 1.0 and Starbound has become vastly fatter campared to Its bare bones early builds. Dont come looking for me, I'll be busy."
-2012-12-28,55230,True,Do you like removing people's existance from this planet with a giant floppy purple ♥♥♥♥♥? Well if so this game is for you.
+posted,item_id,recommend,sentiment_analysis
+2016-07-22,211820,True,2
+2012-12-28,55230,True,0

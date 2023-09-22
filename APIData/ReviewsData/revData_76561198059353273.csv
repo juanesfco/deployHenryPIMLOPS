@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-25,221100,False,"Spawned Walked for 1 f*cking long hour to find a friend, turns out I was in a different town.DayZ is a ♥♥♥♥♥♥ game with ♥♥♥♥♥♥ comunitty, I payd 26 Euros for an early acces ♥♥♥♥♥♥ game wich zambies get trough walls I think in 2100 Dayz will get out of the early acess."
-2014-08-08,42680,False,"This game sucks, maps Sucks"
-2014-02-12,200260,True,This game is great excelent graphics(on ultra high) good storyline good gameplay.I give this game 10/10 and I dont regreat a penny that I spent on this game
+posted,item_id,recommend,sentiment_analysis
+2015-04-25,221100,False,0
+2014-08-08,42680,False,0
+2014-02-12,200260,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-02,218620,True,"Great Game, Amazing heists and a lot of fun. It could have a way to see when a person is typing or who is talking but still an amazing game overall"
-2014-07-30,304930,True,It needs an easier way for obtaining water and food.
+posted,item_id,recommend,sentiment_analysis
+2014-08-02,218620,True,2
+2014-07-30,304930,True,1

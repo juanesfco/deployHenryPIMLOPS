@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2012-12-11,440,True,It's good...
-2014-03-31,209080,True,"This game is really good, the gameplay is just marvellous. You have to work as a team or you just get destroyed. Communication is a MUST here."
+posted,item_id,recommend,sentiment_analysis
+2012-12-11,440,True,2
+2014-03-31,209080,True,2

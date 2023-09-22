@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-25,359320,False,"I bought this game thinking that I would spend hours on it looking at the pictures and videos it looked beautiful but to me that was the only aspect of the game that I liked. There is very little content and to get any of the 15 ships in the game you will have to grind for long peroids of time. So in my opinion I think you should wait a few years after more features have been added into the game but for now I recommend for you to not get the game, ill update when more things have been added."
-2015-09-09,107410,True,Best game 9/11 would play again probs best millitary simulator out there in my opinion
+posted,item_id,recommend,sentiment_analysis
+2015-12-25,359320,False,1
+2015-09-09,107410,True,2

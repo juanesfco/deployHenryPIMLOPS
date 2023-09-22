@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-13,292030,True,I will cut off my ear and sacrifice it for Witcher 4 If u know what i mean :)
-2016-03-22,413150,True,You know you are ♥♥♥♥♥ if you have to choose 1 shirt out of 112
-2015-09-21,200710,True,Fun with friends. I don't have friends :(
-2015-04-20,730,True,One Shot One KillNo Luck Just Skill
+posted,item_id,recommend,sentiment_analysis
+2015-06-13,292030,True,1
+2016-03-22,413150,True,1
+2015-09-21,200710,True,0
+2015-04-20,730,True,1

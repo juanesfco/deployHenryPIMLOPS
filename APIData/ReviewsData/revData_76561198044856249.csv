@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-02,550,True,Because the add-ons are fun
-2015-11-29,282900,True,Noire 10/10 Best Waifu
-2015-03-13,109400,True,"Fun game, but needs to be on mac -.-"
-2013-12-23,730,True,Only like the surf :D
+posted,item_id,recommend,sentiment_analysis
+2014-05-02,550,True,2
+2015-11-29,282900,True,2
+2015-03-13,109400,True,1
+2013-12-23,730,True,2

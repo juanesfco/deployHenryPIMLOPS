@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-07,4000,True,"this games is fun,funny,cool,and fun lel you can add mods,play maps,and more 8/10"
-2015-01-17,35140,True,This game says it all when it comes to batman The mysteriesThe plotThe charactersThe combatsThe humor?The creepsI haven't even finished it but it's Amazing!!!Best title to give it GOTY
-2014-08-25,304930,True,"The game is challenging and cool...i like the environments and stuff,cool and awesome to play with friends"
-2014-02-13,440,True,"- Team Fortress 2-Review-Good sideIt's freeFunNot pay to winFree drop weaponsTons of serverTons of cool cosmetics(requires p2p)Stranges,unusual, killstreaks,decorated weapons(requires p2p)Cheap promotion to p2pCool EventsComics from Teamfortress.com to let you know how it started-Bad sideGet judged by  tons of arrogant p2p by simply wearing a hat for startersGet scammed,phished,sharked if your not wise in trading prices(not the game's fault)'Enjoy' the natural noises from squeakers and immature kids by trash talking to you in a kid friendly server.OverallGood Game Fun,Addictive,Competitive,Exciting(cuz new updates)Advice from the proIgnore the people who judges youCheck the price before tradingHave fun :D"
+posted,item_id,recommend,sentiment_analysis
+2015-01-07,4000,True,2
+2015-01-17,35140,True,0
+2014-08-25,304930,True,2
+2014-02-13,440,True,2

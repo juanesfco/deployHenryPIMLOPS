@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-30,242760,True,it is fun just a bit buggy just needs to fix the save glitch
-2014-06-22,241540,True,OMG I have been wanting this for so long SSSOOOO!!!!!! FUN!!
-2014-06-21,440,True,Out of all of the games I have I never get tired of playing this and I keep coming back to it.10/10
-2014-01-25,252490,True,A very fun game but is better with another person
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,242760,True,2
+2014-06-22,241540,True,2
+2014-06-21,440,True,0
+2014-01-25,252490,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-26,219740,True,"Un juego muy bueno ,  con una grafica desente , demaciado vicioso y perfecto para jugar con amigos"
-2015-12-10,221040,True,la raja
+posted,item_id,recommend,sentiment_analysis
+2014-12-26,219740,True,2
+2015-12-10,221040,True,1

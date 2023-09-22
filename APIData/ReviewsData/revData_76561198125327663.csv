@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-06,4000,True,This is a very great game and i think the fun of this game is never going to end as they add more stuff more fun comes in place but if you want the full experience of this game you will need Counter strike:Source and other games that have stuff in it like Team Fortress 2 and CSS (Counter strike:Source) is mainly the only other thing you need but other wise the game is great
-2014-05-19,240,True,This game is great it shows you most of each guns features but one bad thing is you cant aim unless it has a scope
-2016-08-01,322500,True,"SUPERHOT is just amazing and everyone should play it, SUPERHOT has a great storyline leaving you confused until the end which keeps suspense throughout the entire gameSUPERHOT shows great value and has great machanics when it comes to a Shooter."
-2015-02-20,345200,True,10/10 the best game I have ever played as I have played so many games this is definetly the best game ever.  Even though this game looks bad in the pictures but ios great when you play totally recommended for non-boring people
-2015-01-15,209650,True,"This game has succeeded in the call of duty series and over topped the last game Ghosts which was a major let down.  This game is highly detailed and will not let all first person shooter lovers down because it has loads of ways to customize, move and even fire a high tech direct energy weapon.  This is an amazing game that I highly recommend if you love FPS's"
+posted,item_id,recommend,sentiment_analysis
+2014-04-06,4000,True,2
+2014-05-19,240,True,1
+2016-08-01,322500,True,2
+2015-02-20,345200,True,2
+2015-01-15,209650,True,1

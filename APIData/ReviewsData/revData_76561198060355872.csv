@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-08,42910,True,"AMAZING GAME TO PLAY WITH FRIENDS!!! On the first day, i played for 4 hours STRAIGHT! Hope magicka 2 would be the same!"
-2014-12-18,219740,True,#1 tip: Don't Starve
-2016-04-08,257850,True,"basically, YES it's a great game and best for people who seek a feeling of satisfaction and relief after beating a part of a game after a couple deaths. The game really just throws you in the world beginning with a scene explaining the situation. There is no tutorial and no words in the game, leaving you to learn the game yourself (or roam a forum ;)). The game looks beautiful and runs smoothly. Now, there are some bugs. I've had a black screen that showed your character and only enemies and instant crash after death. The death and respawn time might make you get tilted a bit, too. Overall, buy it, it's great but maybe wait for a discount because it's a little pricey in my opinion."
+posted,item_id,recommend,sentiment_analysis
+2015-03-08,42910,True,1
+2014-12-18,219740,True,1
+2016-04-08,257850,True,1

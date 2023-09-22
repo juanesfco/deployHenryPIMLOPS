@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-10-01,72850,True,I killed the Eater of Worlds in one hit with a dagger half te size of my ♥♥♥♥.This game is okay.
-2014-10-01,570,False,♥♥♥♥ this game with a quartet of rusty spoon weilders.
-2014-06-23,47890,True,"Everything started fine. I was fairly affluent, I eventually got a nice qt3.14 gf, was a super villain. But then I moved in, and there was 4 people. I killed them all, sold their belongings, murdered my wife and bought a new house. I plan on marrying my fat co-worker.11/10"
-2014-10-01,440,True,Whacked a lanky American to death with a fire axe.11/10 would bonk again
-2014-10-01,219890,False,what the ♥♥♥♥ am i doing
-2016-02-17,252950,True,cars with rockets
+posted,item_id,recommend,sentiment_analysis
+2014-10-01,72850,True,1
+2014-10-01,570,False,0
+2014-06-23,47890,True,2
+2014-10-01,440,True,1
+2014-10-01,219890,False,1
+2016-02-17,252950,True,1

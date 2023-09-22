@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-10,223470,True,"A genuinely fun game in which you do what YOU want not what the game tells you to.10/10 Game is only violent if you are, you sadistic ♥♥♥♥♥♥♥s"
-2016-03-10,48700,True,Amazing game if you don't have it THEN STOP READING REVIEWS AND GET IT FFS!!!1337/10 needs more players
-2016-03-10,730,True,"A very interesting game, in which after a while I did get bored of. Not going to say this game is bad or anything, it just loses its fun after a while.10/10 game needs more tlcBasically get this game to play with friends and not because you have enough $$$"
-2013-10-25,43160,True,One of the best single player games ive played in 2 years and I don't say that lightlyyou can go in guns blazing or you can sneak in and ♥♥♥♥ ♥♥♥♥ up either way has their rewards
-2012-09-04,113420,True,pretty badass if you ask me
+posted,item_id,recommend,sentiment_analysis
+2016-03-10,223470,True,0
+2016-03-10,48700,True,2
+2016-03-10,730,True,0
+2013-10-25,43160,True,2
+2012-09-04,113420,True,2

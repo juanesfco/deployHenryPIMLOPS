@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-28,218680,False,So easy unlike other scribblenauts games in the past. I recommend this game for 10 year olds and bellow if they have nothing to do whatsoever in the summer holidays.
-2015-10-12,35460,False,"All I can say about this game is... DON'T PLAY IT,DON'T EVEN LOOK AT IT,DO THIS AND YOU MIGHT LIVE!!!"
-2015-10-12,3590,True,Plants vs Zombies is a great game for newbies and expert players.I have lots of memories of playing this game with my friend taking turns through each level and building a good defence wall. If you play this game I recommend you play it with a friend you'll have a great time :)
-2015-10-12,107410,True,If you like war games and playing with your friends you should buy this.It's a good first person shooter much like arma 2 but a gazzillion times better :P
-2014-10-04,203770,True,"This game is really boring if you didn't read the tutorial, but really fun if you did.10/10 The money paid is worth it!!!"
-2014-05-16,570,True,"'people either hate this game or like this game, I for one don't like it.'That's what I said before I was addicted to this game :P"
-2014-04-23,210770,True,"This game is really worth playing, and its a great multiplayer 9.5/10"
+posted,item_id,recommend,sentiment_analysis
+2015-10-28,218680,False,1
+2015-10-12,35460,False,1
+2015-10-12,3590,True,2
+2015-10-12,107410,True,2
+2014-10-04,203770,True,0
+2014-05-16,570,True,0
+2014-04-23,210770,True,2

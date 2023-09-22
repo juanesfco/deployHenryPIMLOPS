@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-08,304930,True,"Awesome, awesome, awesome, AWESOME! A mixture of DayZ and the looks of Minecraft! Great Work!"
-2013-12-17,224260,True,Awesome Game!!
-2014-03-01,113200,True,Awesome game after u've played it for a while ;)
+posted,item_id,recommend,sentiment_analysis
+2014-07-08,304930,True,2
+2013-12-17,224260,True,2
+2014-03-01,113200,True,2

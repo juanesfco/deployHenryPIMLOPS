@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-10,730,True,As long as your ping is below 800(not me) you'll enjoy shreking some n00bs by 420 noscoping 'em.
-2014-04-03,244850,True,"It's pretty much everyones' favourite aspects to a sandbox-type game mashed into one perfectly. I only just picked up the game, but I can honestly say I'll be playing it for some time.Great game, 10/10."
+posted,item_id,recommend,sentiment_analysis
+2014-07-10,730,True,2
+2014-04-03,244850,True,1

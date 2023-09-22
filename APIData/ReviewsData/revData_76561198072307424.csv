@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-31,42910,False,"Não gostei muito do jogo, um pouco abstrato... Talvez seja só mais um dia difícil!"
-2015-10-31,570,True,"Um dos melhores games estilo MOBA do mercado eletrônico, recomendo muito!!!"
-2015-10-31,252950,True,"Eu recomendo esse jogo pois possui uma mecânica simples, prática. É um jogo muito divertido, rende muitas risadas com seus amigos e ainda é rápido, permitindo jogar diversas vezes em apenas 1 hora."
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,42910,False,0
+2015-10-31,570,True,2
+2015-10-31,252950,True,1

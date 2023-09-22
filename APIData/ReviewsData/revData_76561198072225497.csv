@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-12-11,63380,False,"Cool for like 5 minutes, then garbage."
-2014-12-11,55230,False,Ruined the entire franchise by altering gameplay (for the worse) and taking out the good writing
-2015-04-09,72850,True,After 58 hours I can confirm the ♥♥♥♥♥iness of this game
-2015-04-09,219600,True,"Good, and I don't in the slightest like basketball. It's ♥♥♥♥♥♥"
-2014-12-11,48700,False,Would love it if I wasn't finding a ♥♥♥♥in tumbleweed on the server list
-2014-12-11,202170,False,Too ♥♥♥♥in easy
-2014-07-07,291480,False,Sucks
+posted,item_id,recommend,sentiment_analysis
+2014-12-11,63380,False,2
+2014-12-11,55230,False,1
+2015-04-09,72850,True,0
+2015-04-09,219600,True,2
+2014-12-11,48700,False,2
+2014-12-11,202170,False,2
+2014-07-07,291480,False,0

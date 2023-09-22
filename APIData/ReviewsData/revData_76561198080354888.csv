@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-09-21,307780,False,"Dont buy it.Online? Its dead. Got matched up with the same guy 5 times. Seriously?Online lag is terrible.Story is terrible, ending feels like they ran out of ideas.Micro-transactions, cant press a few buttons? Pay to press fewer buttons.Just dont buy it."
-2015-11-24,440,True,Its good.
-2015-01-03,105600,True,Awesome soundtrack! c:
-2015-06-13,322170,True,A very casual game...
-2015-12-13,72850,True,Truly a masterpiece.
-2015-04-30,349830,True,"Bought it just for the Peacemaker's animations. Yes, its dat good looking..."
+posted,item_id,recommend,sentiment_analysis
+2015-09-21,307780,False,0
+2015-11-24,440,True,2
+2015-01-03,105600,True,2
+2015-06-13,322170,True,0
+2015-12-13,72850,True,1
+2015-04-30,349830,True,2

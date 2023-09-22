@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-25,1840,True,Great software. still dont have the intelligence to use it but it is pretty cool
-2016-01-28,222880,True,TENOUTTATEN! ALLAHU AKBAR!!!!!!!!!!!!!!!!!
-2015-10-09,730,True,this game is ment for people who have no money
+posted,item_id,recommend,sentiment_analysis
+2014-04-25,1840,True,2
+2016-01-28,222880,True,1
+2015-10-09,730,True,0

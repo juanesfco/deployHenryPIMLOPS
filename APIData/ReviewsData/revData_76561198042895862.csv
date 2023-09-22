@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-12,48700,True,"If u want to have the greatest experince load up the Game Of Thrones Mod, become a Stark and name yourself Robb Snow then go invade the lanisters GG. 10/10  'would bang ( ͡° ͜ʖ ͡°)' -George R.R. Martin"
-2015-04-02,730,False,On the first day i saw a hacker dont buy xDDDD
-2014-11-03,304930,True,I bloody love playing this game with quinten and lez *sniff* ♥♥♥♥en great *sniff* watrutalkingaboot
-2015-07-05,222880,False,"This game is AMAZING! It is a must by but there is one problem... most of my time playing this game I have crashed SO MANY TIMES!!! It really needs patching for crashing, its crazy. I'm not sure if this happens to every but be warned, crashing may happen alot. pecebuy this game anyway + has the best devs alive"
+posted,item_id,recommend,sentiment_analysis
+2015-07-12,48700,True,2
+2015-04-02,730,False,2
+2014-11-03,304930,True,1
+2015-07-05,222880,False,2

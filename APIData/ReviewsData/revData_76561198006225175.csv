@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-19,219800,True,"This game continues with many of the features that have been entering the game in past few years. One of the major changes in this game is that you need to contract with sponsors to maintain your team. This being that your team (and all other teams) change each year, possibly even 5times in 5 years, this change increases the game play in my opinion. other than that the community updates and modifications upgrade the game greatly by adding a larger number of teams, variants and the like. of course there is always the occassional result which is unlikely to happen (such as a 55mountain climber winning major mountain stages).overall this game series improves each year."
-2014-11-24,255260,True,"Having been an avid player of this series since 2004, I had to buy this one. It has seen some big improvements on the 2013 iteration (especially the team name changes).The 3d game mode hasn't really seen much of a improvment (though that doesn't really bother me).Though, if you are not really a fan of cycling, this game will probably not intrest you."
-2014-11-26,216260,True,Don Bradman Cricket is probably the best cricket game that I have played.  
+posted,item_id,recommend,sentiment_analysis
+2013-12-19,219800,True,1
+2014-11-24,255260,True,1
+2014-11-26,216260,True,2

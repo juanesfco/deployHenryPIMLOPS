@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-12,570,True,♥♥♥♥♥ 100/10 -IGN
-2016-07-12,304050,False,This games wjasdiofjs fun in the baet but when it came and updated it was p2w so much so theni tis bad now and it is too grindy unlsse you apy for sutff
-2015-11-22,417860,True,Holy ♥♥♥♥ the last chapter was a troll
-2015-03-30,96100,False,"10/10 would crash again. WTF!!! this game is a sack of ♥♥♥♥ and a bag of ♥♥♥♥♥♥♥ that are crusty, hot and expired.  YUMMY"
+posted,item_id,recommend,sentiment_analysis
+2015-01-12,570,True,1
+2016-07-12,304050,False,1
+2015-11-22,417860,True,1
+2015-03-30,96100,False,0

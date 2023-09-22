@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-02,232810,True,"Godus is a very addictive, stress-realiving fun game. Even in it's early stages i thoroughly believe this game is a great time waster for all ages. But be warned, leave at least a few hours before you start playing this extravagant title. Also, if you believe it hasn't got enough, don't be alarmed! More is coming! The reason that it doesn't have all of it's feature is because it's an early access title, so if you buy it now you get the full version when it comes out. Happy creating!ReversePlasma"
-2016-09-17,291410,False,"Trash, in my opinion :)"
+posted,item_id,recommend,sentiment_analysis
+2015-01-02,232810,True,2
+2016-09-17,291410,False,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-31,302830,False,es una ♥♥♥♥♥♥
-2013-12-20,17520,True,AWENSOME!!!
+posted,item_id,recommend,sentiment_analysis
+2014-12-31,302830,False,1
+2013-12-20,17520,True,1

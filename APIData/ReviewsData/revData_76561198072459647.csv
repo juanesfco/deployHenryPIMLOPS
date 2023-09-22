@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-04-30,220240,True,Can't find any goatsPlays entire story with only one weapon equippedWhen finished fast travels back to first villageJust outside of it - Entire herd of ♥♥♥♥ing goats.
-2015-04-30,209650,True,got shouted at by german hackers because i wasnt good enough9.5/10
-2016-01-14,203160,True,Boob Physics 10/10
-2014-11-07,730,True,"A very good team based, round based FPS. Its very fun because you dont know what could happen next round. Could get AWPed, PP Bizon to the face or just encounter the entire enemy team and they all have P90s."
-2014-09-08,304930,False,just no
-2014-06-28,221640,True,beat the game good soundtrack good game still addicting
+posted,item_id,recommend,sentiment_analysis
+2015-04-30,220240,True,1
+2015-04-30,209650,True,2
+2016-01-14,203160,True,1
+2014-11-07,730,True,2
+2014-09-08,304930,False,1
+2014-06-28,221640,True,2

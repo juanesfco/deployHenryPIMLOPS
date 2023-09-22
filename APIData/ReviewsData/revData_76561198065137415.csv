@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-10,8190,True,Its just so friggin awesome
-2014-04-18,208090,False,when i play for some reason in my weopeon crafting everything goes black and in-game everything is black too and i think this is just stupid can anyone help?
+posted,item_id,recommend,sentiment_analysis
+2014-04-10,8190,True,2
+2014-04-18,208090,False,0

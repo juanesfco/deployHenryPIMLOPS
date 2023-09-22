@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-26,282070,True,"Excellent title, has many simularities to The Last of Us, but it has no zombies. The games scavenging and stealth mechanics are polished, and smooth. Also, it is a very emotionally draining game, you feel quite depressed after playing. 10/10 would reccomend again"
-2013-10-08,216250,True,Great game with an awesome gore system :3
+posted,item_id,recommend,sentiment_analysis
+2014-11-26,282070,True,2
+2013-10-08,216250,True,2

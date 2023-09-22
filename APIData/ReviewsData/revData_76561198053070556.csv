@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-04-26,730,True,Don't do it
-2015-04-26,252490,True,It's good
-2013-12-31,205100,True,hell yeah
-2015-04-26,300,True,good game pretty fun
-2015-04-26,550,True,Top quality game very fun and addictive good game to enjoy with your friends and making new ones
-2015-04-26,440,False,waste of my life wishing for those 444 hours back
+posted,item_id,recommend,sentiment_analysis
+2015-04-26,730,True,1
+2015-04-26,252490,True,2
+2013-12-31,205100,True,1
+2015-04-26,300,True,2
+2015-04-26,550,True,2
+2015-04-26,440,False,1

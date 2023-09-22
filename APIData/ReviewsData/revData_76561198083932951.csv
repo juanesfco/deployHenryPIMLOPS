@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-05,221100,False,You need a super computer to run it...
-2016-03-11,387970,True,make me want to kill myself 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-01-05,221100,False,2
+2016-03-11,387970,True,1

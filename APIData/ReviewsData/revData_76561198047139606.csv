@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-05,1250,True,Good zombies survival game to play with friends. Easy to run and no lag untill the start of each round. Cant wait for Killing Floor 2!
-2014-02-19,42700,True,this is one of the best call of duty's iv played..
-2014-12-05,211500,False,I didnt like this game when i started playing it. i was expecting a gran tourismo feel but i didnt get it from this game.
-2016-04-28,311210,True,"Although the multiplayer can get annoying at times, this games movement features have added alot more depth into the multiplayer maps and allows players to get around the map faster. I enjoy the movement feature as it does not have the same amount of jump boost as Advanced Warfare and it makes players move around the map alot more. For Zombies the original Shadows of Evil map is ok although i mostly enjoy the simpler maps such as the giant where you can just turn on the power and pack a punch etc. Overall the game runs well for me and i would recomend buying."
-2014-12-05,4000,True,"Good Game, Plenty of game modes to keep you happy and you'll never get bored!"
+posted,item_id,recommend,sentiment_analysis
+2014-12-05,1250,True,2
+2014-02-19,42700,True,2
+2014-12-05,211500,False,0
+2016-04-28,311210,True,1
+2014-12-05,4000,True,1

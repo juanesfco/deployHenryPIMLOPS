@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-04,223710,True,ERROR COM_LoadFile:not enough space for models/weapons/mobile/v_mobile.mdl HELP ME!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-03-04,223710,True,1

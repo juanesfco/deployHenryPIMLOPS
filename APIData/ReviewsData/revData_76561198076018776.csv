@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-24,250600,True,Life
-2014-06-27,440,True,hello
-2015-10-23,386510,False,My Pyramid Raid Keep Loading 4 Ever When I Click Start........................
+posted,item_id,recommend,sentiment_analysis
+2015-10-24,250600,True,1
+2014-06-27,440,True,1
+2015-10-23,386510,False,1

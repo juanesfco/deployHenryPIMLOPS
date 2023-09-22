@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-10,206190,True,"Really good game has comedy, stealth, killin ♥♥♥♥ and the best feature... KICKING MOTHER♥♥♥♥ING DOORS DOWN!"
-2014-03-18,271290,True,Really Fun Better Than TitanFall In My Opinion
-2014-04-14,252490,True,This is a really good game and in my opinion better than DayZ
-2015-01-26,247730,True,Tis a good game...nuff said
-2016-08-26,381210,True,Gud Gaem
-2013-12-23,730,True,Its a good game its like TF2 but counterstrike and its like counterstrike source but with a fresh coat of paint
+posted,item_id,recommend,sentiment_analysis
+2016-01-10,206190,True,2
+2014-03-18,271290,True,2
+2014-04-14,252490,True,2
+2015-01-26,247730,True,2
+2016-08-26,381210,True,1
+2013-12-23,730,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-27,7670,True,10/10 - will holiday
-2014-06-22,231160,True,This is the best puzzle game since Portal Series. Must buy
-2014-03-09,213670,True,5 Stars
+posted,item_id,recommend,sentiment_analysis
+2016-01-27,7670,True,1
+2014-06-22,231160,True,2
+2014-03-09,213670,True,1

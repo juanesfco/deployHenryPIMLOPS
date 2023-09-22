@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-08,8870,True,You can chuck a baseball at a white person.11/10
-2014-04-28,200510,True,"Very Tactics, much stratergy, so aliens ultimate respect source matirael. WOW"
-2014-03-20,22380,True,Buy it if you like any of the following:Video Games
+posted,item_id,recommend,sentiment_analysis
+2014-08-08,8870,True,1
+2014-04-28,200510,True,2
+2014-03-20,22380,True,1

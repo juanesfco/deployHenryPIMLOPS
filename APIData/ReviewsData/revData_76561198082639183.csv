@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-23,271290,True,Great game 11/10 ign
-2016-02-09,383870,True,"9/10, great game, espicially for an indie company.EDIT: Don't listen to all the people who say you have to follow the paths ect. Because you literally can do what ever you want"
-2015-05-23,220,True,11/10 dank memes
-2015-03-21,340,True,"Damn that 20 Minutes of your time is worth it, totally"
+posted,item_id,recommend,sentiment_analysis
+2015-05-23,271290,True,2
+2016-02-09,383870,True,2
+2015-05-23,220,True,2
+2015-03-21,340,True,2

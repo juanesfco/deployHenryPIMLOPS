@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-16,218620,False,The game turned from fun and games to BUY THIS TO UNBOX THIS FOR WHICH YOU NEED TO BUY THIS in 1 failed updateI am 11/10 dissapointed -Mr. Foster
-2014-01-28,252490,True,"Increase the range of the Bolt Action rifle and add a semi-sniper scope with a little magnification.Overall its a really fun game with great building and crafting mechanics, really well-made animations and models, a great concept between DayZ and Minecraft."
-2014-11-19,221100,False,"You know what? ♥♥♥♥ you, after playing this game for quite some time, i decided that i regret spending my money on it, mainly because of how poorly the developers work on this game, compared to most other titles. They even silence reviews, as i heard, ban people for playing music on Brian Hicks' stream and then deny it while blocking the banned person's posts on forums and even Reddit with all the evidence that he needed to prove himself.The devs should've kept progress with the mod, not start afresh with a full game that has been in alpha for 2 years.You guys promised us so much yet you keep working on entirely different aspects, then put a big lable 'Early Access' as an excuse for slow development"
+posted,item_id,recommend,sentiment_analysis
+2015-10-16,218620,False,0
+2014-01-28,252490,True,2
+2014-11-19,221100,False,1

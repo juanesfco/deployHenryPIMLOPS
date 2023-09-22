@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-24,39120,True,AWESSSSSSSSSSOMMMMMMMMMMMMMMMMMEEEEEEEEEEEEEEEE
-2015-05-16,8190,True,Goooood game i recommend this game good story line too
-2014-10-10,440,True,Good game i recommed it for u guys that dont have  it I give it a 100/100
+posted,item_id,recommend,sentiment_analysis
+2014-10-24,39120,True,1
+2015-05-16,8190,True,1
+2014-10-10,440,True,2

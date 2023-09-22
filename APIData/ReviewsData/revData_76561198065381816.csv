@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-06,202970,False,ITS ♥♥♥♥ ITS COD
-2015-07-20,200210,False,THIS GAME SUCKS ♥♥♥♥
-2013-12-30,230410,True,A fun teamworking alien shooter
+posted,item_id,recommend,sentiment_analysis
+2015-11-06,202970,False,1
+2015-07-20,200210,False,0
+2013-12-30,230410,True,1

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-02-11,252490,True,AWESOME GAME VERY FUN!!!
-2015-02-22,17700,False,Fun i played bye myself Because there is NO servers for me is this anyone elses problem if there was servers It would be SICK
-2015-12-10,321040,True,I R8 88 M8
-2015-07-12,222880,True,Dunno my Laptop is to $h!tty to play it  ( i played it at a friends tho and is SOOOO GOOOD)
-2015-05-15,346010,True,F>U>N
-2015-05-15,4000,True,HOURS AND HOURS OF FUN FOR EVERYONE
-2015-04-23,223470,True,WEIRDEST S.H.I.T EVER. But somehow entertaining
-2015-04-12,6220,True,"FUN, FUN, FUN"
+posted,item_id,recommend,sentiment_analysis
+2014-02-11,252490,True,2
+2015-02-22,17700,False,0
+2015-12-10,321040,True,1
+2015-07-12,222880,True,1
+2015-05-15,346010,True,1
+2015-05-15,4000,True,2
+2015-04-23,223470,True,2
+2015-04-12,6220,True,2

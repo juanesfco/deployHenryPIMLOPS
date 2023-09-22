@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-24,202130,False,"Crap humour, shallow gameplay, repetitive.  Functional but appalling, do not buy"
-2014-01-02,203160,True,"Really enjoyed it - good reboot of the series with a nice mix of combat and leaping.  Moderately competent AI, great setting, and a fair plot (if a little predicatable) rounds this out for a solid recommendation.  Single player campaign weighs in at ~20hrs."
+posted,item_id,recommend,sentiment_analysis
+2014-03-24,202130,False,0
+2014-01-02,203160,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-06,204360,True,awesome game i rate it 10/10 espatialy when you have an x-box controler.
-2014-06-20,246900,True,its a fun little game were you just clean up
-2016-05-04,301520,True,its good exept for you get more items if you are a premium user which costs money robocraft should remove getting more items with premium. and make it that everyone gets the same amount.
+posted,item_id,recommend,sentiment_analysis
+2014-07-06,204360,True,2
+2014-06-20,246900,True,1
+2016-05-04,301520,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-28,290930,True,"Un juego de valve, mejorado? 10/10"
-2015-12-21,211820,True,Hermoso.
-2015-07-21,206210,True,Muy buen juego para ser un F2P.(no digo que los f2p sean malos)
-2015-02-10,1250,True,Uno de los mejores juegos de zombies que vi. 9/10
+posted,item_id,recommend,sentiment_analysis
+2016-03-28,290930,True,1
+2015-12-21,211820,True,2
+2015-07-21,206210,True,1
+2015-02-10,1250,True,2

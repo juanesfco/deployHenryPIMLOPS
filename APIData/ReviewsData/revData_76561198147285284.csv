@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-11,271590,True,"Great game, love it but the pick-jp insurgent... A little OP but still great addition to the game and love the game.100/10 would suggest this game"
-2015-07-15,304050,False,cant even get on the game says wait 300+ minute or stuff like thatspent 3 hours of my time loading and still cant even play the stupid game
-2016-06-20,730,True,"Awesome game, haven't encountered a hacker yet, 10/10 recommend"
+posted,item_id,recommend,sentiment_analysis
+2015-11-11,271590,True,2
+2015-07-15,304050,False,0
+2016-06-20,730,True,2

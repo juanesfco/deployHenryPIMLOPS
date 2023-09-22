@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-11-07,22370,True,Save ammo...You'll need it
-2012-06-09,105600,True,Its a great Game Well Worth the Money
-2012-02-08,440,True,3 words: JUST GET IT
+posted,item_id,recommend,sentiment_analysis
+2013-11-07,22370,True,1
+2012-06-09,105600,True,2
+2012-02-08,440,True,1

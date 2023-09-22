@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-08-02,301520,True,"Really fun multiplayer game, i like the creativity and uniqueness you get when building your own robot(flying thing still dont know what they are called) i play with my friends alot and they also enjoy it, can get tedious with only 1 game mode so far, but its in early acces so that's expected, al in all, i highly recommend this game to anyone"
-2014-10-09,211820,True,"Some may say that this is a space version/ripoff of terraria, just by looking at it yeah i would say so too, but actually playing it it has a different experience from terraria and i would know, i have and play both regularly. Really fun game, and multiplayer aspect of it is well done for an early access game"
-2014-11-02,230410,True,"Very fun game, co-op aspect is really fun and is feels actually like what a co-op should"
-2014-10-02,207140,True,"really awesome game, may seem redundant, but its hilariously awesome and different with every game played"
-2014-08-22,49520,True,"Awesome Game! Love the comic style graphics, the co-op mutliplayer aspect is fanatic, and the replay value is phenominal (single player is good but you get better items and rewards the more players they are, increasing and supporting the multiplayer aspect"
-2014-06-10,104900,True,"Really fun game, dont mind the metacritic score,its very misleading"
-2014-01-03,210770,True,"Tons of fun, especially with the 4-player co-op capability, even with singleplayer it's still fun"
-2013-01-12,218230,True,"really an amazing game, graphics are outstanding, gameplay is beyond awesome(needs lots of RAM to run without lag), but I still recommend this game to anyone who enjoys FPS and also multiplayer gaming!"
+posted,item_id,recommend,sentiment_analysis
+2014-08-02,301520,True,1
+2014-10-09,211820,True,1
+2014-11-02,230410,True,1
+2014-10-02,207140,True,2
+2014-08-22,49520,True,2
+2014-06-10,104900,True,1
+2014-01-03,210770,True,2
+2013-01-12,218230,True,1

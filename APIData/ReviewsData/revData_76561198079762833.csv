@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-26,4000,True,"Awesome Game, I recommend everyone should get this game"
+posted,item_id,recommend,sentiment_analysis
+2014-03-26,4000,True,1

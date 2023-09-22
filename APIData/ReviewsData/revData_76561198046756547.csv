@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-30,241930,True,"In the first few hours of owning this game, I've fallen in love. It's everything I thought it would be, and more. You know a game is a good open-world game when you want to start the missions, but not until you finish messing around doing stuff (and at 2% completion, but having killed numerous captains and finished a bunch of side quests, you know I've been doing it)"
-2014-06-02,263440,True,"This game is a whole lot of fun! It's very much alpha in the gameplay, being Early Access, but it shows all the signs of a promising awesome game. Already it's heaps of fun. Teamwork is needed online to ensure that people don't just screw you over right from the start, and the dangers of random dinosaur attacks mean it's rather tricky. With updates in the future to include all number of awesome dinosaurs and customizations, this game is not one to be missed!"
-2014-11-16,72850,True,"It's been a long time since Skyrim first came out. In said time I've travelled to Europe, completed a university course, worked at three different places, and still when coming back to Skyrim I'm never bored. Whether it's on my xbox and just going on random sprees or discovering the joys of the sexchange command and having an army of female greybeards, the game stands the test of time. Want free items? ~ *click on Belathor* kill *enter* ~ search Belathor ... ~ resurrect ~ ... 'Hi I'm Belathor'. It's things like this that make the game a joy every time you get going. With the modding community, steam workshop or other, so devoted to making the game ever better, it stands as one of the greatest purchases of my gaming life, and I doubt many games in the future could trump what joys it has provided me. Fus Ro Dah people, Fus Ro Dah."
-2014-04-16,48700,True,Easilly one of the most fun games I've ever played!
+posted,item_id,recommend,sentiment_analysis
+2014-09-30,241930,True,1
+2014-06-02,263440,True,2
+2014-11-16,72850,True,2
+2014-04-16,48700,True,2

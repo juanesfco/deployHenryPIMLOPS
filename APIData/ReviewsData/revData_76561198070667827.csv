@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-04,72850,True,"Joguei por horas, dias, meses e anos ;)"
-2013-12-26,200210,True,Otimo game ;)
-2013-12-24,242050,True,Otimo Game para se divirtir e se alegrar
+posted,item_id,recommend,sentiment_analysis
+2014-01-04,72850,True,2
+2013-12-26,200210,True,1
+2013-12-24,242050,True,0

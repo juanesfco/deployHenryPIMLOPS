@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-05-24,364360,True,"Dont listen to the negative reviews, this game is ♥♥♥♥ing brilliant!"
-2016-02-23,219990,True,Only just got to homestead after 30 hours. Now i findout theres voicover so im gona have to start all over again. No regrets. Also the pyromancer owns.
-2015-09-07,234140,True,I only came for the guzzoline.
-2016-03-27,282070,True,"After 24 days my survivors survived multiple raids, depression, weather so cold that Marin froze to death in the night, two subsequent sniper wounds to Boris, Emelia becoming delusional due to sickness and leavin the house in the middle of winter never to be seen again and being terrifyingly close to starvation. My remaining 4 survivors outlasted the war, and i loved every second of it."
-2015-08-12,211420,True,Made my family mad because I didnt interact with them for about 3 days.
+posted,item_id,recommend,sentiment_analysis
+2016-05-24,364360,True,2
+2016-02-23,219990,True,1
+2015-09-07,234140,True,1
+2016-03-27,282070,True,1
+2015-08-12,211420,True,0

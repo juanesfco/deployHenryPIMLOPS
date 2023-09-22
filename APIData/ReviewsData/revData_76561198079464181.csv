@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-03-08,354140,True,"if you guys know the story, you will see that is more bizarre than the game itself 10/10 (contains 2 final, good and bad ending ending) 95% of difficulty getting good endind"
-2015-03-07,332800,True,esc simulator 10/10
-2014-11-02,319510,True,"quer se cagar de medo,quer ter o coração na mão,compre esse joguinho maravilhoso de jesus"
-2014-08-16,400,True,um jogo perfeito para quebrar a cabeça com os puzzles rsrs.tambem com uma trilha sonora otima.10/10
-2014-07-02,252490,True,um ÓTIMO jogo para jogar com os amigos :D
-2013-12-26,550,True,"jogo mt epico,e legal,:3"
+posted,item_id,recommend,sentiment_analysis
+2015-03-08,354140,True,2
+2015-03-07,332800,True,1
+2014-11-02,319510,True,2
+2014-08-16,400,True,2
+2014-07-02,252490,True,2
+2013-12-26,550,True,0

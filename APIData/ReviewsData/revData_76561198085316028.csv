@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-02-02,208090,True,"Yo, is that a naked skin I spy???ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉraise your dongers ヽ༼ຈل͜ຈ༽ﾉraise your dongers...."
-2013-12-14,570,True,"Best game to ever grace the MOBArena, just thinking about it throws my throbbing erection to farther, inhuman heights"
-2014-07-23,299460,False,"unpolished, unrefined and incredibly incoherent. Can't figure out anything about it and just seems like it took the devs a week to create it. EA could do a better job. 3/10 avoid like roblox"
-2014-07-09,216150,True,It's one of those games you touch once then never touch again. 10/10 would never play again
-2014-07-25,222900,True,"I played it, had fun for a little while, then promptly remembered awesomenauts existed and played that instead. 10/10 fun for 10 minutes"
-2014-04-04,245170,True,"Great tournament fighter, Shame that most people's first opinion is just a long string of the word 'boob'."
+posted,item_id,recommend,sentiment_analysis
+2014-02-02,208090,True,1
+2013-12-14,570,True,2
+2014-07-23,299460,False,2
+2014-07-09,216150,True,1
+2014-07-25,222900,True,2
+2014-04-04,245170,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-26,222880,True,"Such a game, it is very realistic.If you like to play realistic First Person Shooters game this is it.When you play this game there are such realistic characters in the game such as no minimap, there is no crosshair in the middle of the screen, you would have to right click and scope to see where to shoot, it give us a feeling if we were on the battle field.Insurgency is a good game to play by yourself however it is better with mates to form a squad."
-2014-04-11,730,True,"Counter-Strike Global Offensive,What a game, it's fun when you play with mates, don't have to play online players, make strategies on how to win.There are many great maps to play on, there are many game types you can play ( death match, Competitive, casual )There is skins in this game, having colourful guns, having flip knifes are awesome. It's a great FPS game"
+posted,item_id,recommend,sentiment_analysis
+2014-05-26,222880,True,1
+2014-04-11,730,True,2

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-04-30,301520,False,"You destroyed the game. You just made this game even more pay to win or pay to play than before. CONGRATS you stupid ♥♥♥♥♥. you just made this game unplayable.NO. DON'T INSTALL THIS GAME. IF YOU GET A BIT OF PROGRESS, WAIT A FEW WEEKS AND IT'S ALL GONE."
-2015-03-06,730,True,CS:GOnu prea multe de spus.Stiti tactica din toate jocurile shooter? uitati-le. Jocu asta e schimbat in pana mea...
-2015-02-26,35450,True,"Eu cred ca acest joc este cel mai bun pe aceasta tema, Primuml Razboi Mondial. Este foarte realistic si are multe lucruri marunte pe care multe jocuri nu le au, acest fapt facand diferenta.Recomand tutuor acests joc!"
-2016-04-05,262410,False,"When i installed this game i tought i would seea how guns are really made, but what i see so far is a stupid pay2play and xp grinder....I like the aiming yard tho, and the gun customisation. wow i'm surprised that we don't have to pay for this feature....like almost every thing."
-2015-08-21,291550,True,"A unic and a good game indeed, but it needs coop/sp missions, configurable controls, and manny. Is beta you can make this game good. Don't mess with it.I recomand this game for the players who loves 2d old time PVP games."
-2014-12-06,271290,True,"Un joc fain cu un concept unic.Am jucat multe jocuri shooter. Acesta este special deoarece conduci un robot, astfel neputand sa faci multe lucruri(sa te pui pe burta, sa stai cat mai ascuns posibil, etc.).Recomand jocul!"
-2014-05-06,226700,True,"Jocul e smecher, dar cam ii trebuie masini.(The game is cool, but it needs cars)"
-2016-08-25,496920,True,"No spoilers. You can relax.Wow. This game.Don't worry about the 8bit graphics, the story is mindblowing. And yes, it's not a jumpscare tipe of horror. The environment will surprise you later in game. The twist at the end if verry nicely done. It's better to see for yourself.The game is 4-6 minutes long, depends how you play it, but i am about to do a 3rd run :D I can't stop playing it.Simple tips. WASD moving SPACE for interaction and at the end don't press SPACE. You have to press ENTER bacuse SPACE will close the game and the action won't be completed. "
-2016-05-12,107410,True,"This is a very good game and it simulates a normal timed war very good. Sincerely, I never saw other games doing what arms series accomplished.Now the bad thing is that you really have to be patient.vafterall it's an tactical fps.The game modes, some of them are cf funny, some are full with very skilled players.Conclusion. Definitely gonna play again with a friend"
+posted,item_id,recommend,sentiment_analysis
+2016-04-30,301520,False,0
+2015-03-06,730,True,0
+2015-02-26,35450,True,2
+2016-04-05,262410,False,0
+2015-08-21,291550,True,1
+2014-12-06,271290,True,2
+2014-05-06,226700,True,1
+2016-08-25,496920,True,1
+2016-05-12,107410,True,2

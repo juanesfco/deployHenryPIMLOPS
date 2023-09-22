@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-01,235760,True,"So it isn't a spectacle to look at, and it's menu is clunky. But everything in the game is done perfectly, the gameplay is simple and not overly complex, the writing is accurate to the series. People say exactly what you'd expect them to say, and tons more."
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,235760,True,2

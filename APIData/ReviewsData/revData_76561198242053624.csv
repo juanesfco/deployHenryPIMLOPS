@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-30,8870,True,The game+DLC was so expensive. So i have to sell my daughter Anna to a random guy to pay off my debts.
-2016-07-20,413150,True,10/10 rated by IGN would bang Penny again <3
-2016-02-03,570,True,Played it since 2005 as Dota 1 and still loving it
+posted,item_id,recommend,sentiment_analysis
+2016-07-30,8870,True,0
+2016-07-20,413150,True,2
+2016-02-03,570,True,2

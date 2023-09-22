@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-10,239660,True,"SF2, You will be missed"
-2013-12-26,550,True,"This is one of the best games ever.I got this on the holiday free giveaway and i am beside myself with how much i love this game, it is the best zombie game i have ever played. It runs beautifully with great graphics and amazing realism on the physics.Id give it a solid 11/10"
+posted,item_id,recommend,sentiment_analysis
+2016-06-10,239660,True,1
+2013-12-26,550,True,2

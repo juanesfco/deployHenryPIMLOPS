@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-30,113400,True,its good
-2016-07-07,395520,True,"Nice little game, solid puzzles. Good distraction from reality with a pretty decent soundtrack. Worth a play!"
+posted,item_id,recommend,sentiment_analysis
+2015-06-30,113400,True,2
+2016-07-07,395520,True,2

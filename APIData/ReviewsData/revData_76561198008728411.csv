@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-21,34030,True,"Hey guys, so Napoleon total war, basicly focuses around the time frame of when Napoleon was in power, it is still a great game but i find playing it compared to Empire total war, this game is only a shorter spin off version. So its basicly to me a time killer if your getting bored of Empire. I was expecting abit more with nation choices and ofcourse a larger campaign again. My ratings a 5 outta 10. Good game but could have been better!!!"
-2014-01-21,240,True,"Hey guys, well counterstrike source, i have to say its a great arcade shooter which takes the FPS genre back to barebones play style. Comparing it to todays current call of duty's!!! So no perk packages or leveling up, just all out great weapons and fierce competition via the online servers. My ratings a 8 outta 10 and a must own for any FPS fan!!!"
-2013-12-29,4780,True,"Hey total war veterans, this game itself is made up of 4 individual expansion packs. Based on Medieval 2 total war, plays exactly the same just on a smaller scale...etc the untied kingdom....the americas. I found it a value for money game, but didnt blow me away. I know i havent got many hours up on it yet, but understand ive only had it on steam for 3 weeks....the game is almost 7 years old, anyway my rating is a 7 outta 10!!"
-2011-03-19,34330,True,"To all fans of the TOTAL WAR community, if you love you strategy like gameplay as seen in MEDIVAL 2 an love the real time battles as seen in EMPIRE and NEPOLEON....SHOGUN is the next step in world leading stradegy type games..."
+posted,item_id,recommend,sentiment_analysis
+2014-01-21,34030,True,1
+2014-01-21,240,True,2
+2013-12-29,4780,True,1
+2011-03-19,34330,True,2

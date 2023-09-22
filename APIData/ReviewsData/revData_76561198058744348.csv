@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-05,107410,True,"An amazing game, full of content and fun. One of the best things to do is to download mods and mess around with frriends"
-2014-03-30,33930,True,"Very fun game, lot of longevity and gameplay. Also alot of mods to play around with friends"
-2014-10-17,290080,True,"Very nice game, once you get past the slow start if gets really fun"
+posted,item_id,recommend,sentiment_analysis
+2015-06-05,107410,True,2
+2014-03-30,33930,True,1
+2014-10-17,290080,True,1

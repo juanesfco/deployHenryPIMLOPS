@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-06,304930,True,"Es un juego de zombies tipo Minecraft, donde hay cuitos y minecraft, oh si."
-2014-02-15,570,True,"'gr8 m8 no d-b8 i r8 it an 8 i h8 2 b in an ir8 st8 but its my f8 hey m8 i apreci8 that u r8 it gr8 u wanna d8 and mayb masturb8 i can ask n8 and we can meet at the g8 dont b l8 gr8 b8 m8 i r8 it an 8/8 plz don't h8 gr8 b8 m8 cant even h8 so I r8 8 outta 8 Gr8 b8 m8. I rel8, str8 appreci8, and congratul8. I r8 this b8 an 8/8. Plz no h8., I'm str8 ir8. Cre8 more, can't w8. We should convers8, I won't ber8.'"
+posted,item_id,recommend,sentiment_analysis
+2015-11-06,304930,True,0
+2014-02-15,570,True,2

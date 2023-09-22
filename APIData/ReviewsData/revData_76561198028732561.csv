@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-23,365300,True,"Innovative, polished, and fantastically fun! You have no idea how great it feels to jump around an area with this much freedom of movement. An awesome experience from start to finish, with my only problem being that I wish I had more of it.Great work Devs!"
-2014-07-02,42910,True,"I'll keep this short:Incredibly fun, but very difficult to play on your own if you're not a veteran wizard."
-2014-06-21,22380,True,Blew myself up when using dyanmite for the first time. 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-06-23,365300,True,2
+2014-07-02,42910,True,1
+2014-06-21,22380,True,2

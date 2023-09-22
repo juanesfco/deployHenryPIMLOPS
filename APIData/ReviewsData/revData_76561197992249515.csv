@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-06-23,230070,True,"Very interesting game. Combat is brutal and difficult, so patience is key. However its always fun to play a game that you can talk you're way through. Intriguing world that unfortunaly (imo) didnt have the best characters. Well worth a try, kudos to the devs!"
-2014-08-25,203770,True,"I had a son and a daughter. My daughter murdered me, allowing me to take control of my son.She didnt live very long. Great game"
-2013-12-23,264140,True,"Awesome little rogue-like pirate game, a lot of fun but difficult.Still in active development so quite buggy, but a lot of fun regardless!"
-2013-12-23,228280,False,"Dont bother, buy the orignal off GOG and use mods."
-2013-03-21,48700,True,"Did you ever have somthing you really liked, yet liking that thing came from one specific thing? now imagine that thing you like being taken out of the other thing you only like because of that specific thing... yea, ♥♥♥♥ this game"
-2013-02-23,200510,True,99% chance of hitting? You miss. ♥♥♥♥ing RNG
-2012-09-19,50300,True,"Excellent Game. Dont let the name fool you, this game has balls!! Just dont play it if you have a weak stomach, i think i may have a hard time sleeping for the next week."
+posted,item_id,recommend,sentiment_analysis
+2016-06-23,230070,True,1
+2014-08-25,203770,True,2
+2013-12-23,264140,True,2
+2013-12-23,228280,False,1
+2013-03-21,48700,True,1
+2013-02-23,200510,True,1
+2012-09-19,50300,True,0

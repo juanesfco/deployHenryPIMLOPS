@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-15,338170,True,"Awesome and addciting game, really fun when u have one or two of your friends play with you. The mechanics are sort of similair to that of team fortress 2 with the rocket jumps. The only downside is theres not enough maps to play on and overtime the maps get boring. Otherwise, great game!!"
-2015-06-15,49520,True,"Played it on the xbox for over a year, and then i bought it again for steam, and somehow the game doesn't get old, interesting storyline and characters that you won't forget, plus the DLC, the game is even more awesome. The bets co-op RPG ever!BUY IT!!"
+posted,item_id,recommend,sentiment_analysis
+2015-06-15,338170,True,1
+2015-06-15,49520,True,2

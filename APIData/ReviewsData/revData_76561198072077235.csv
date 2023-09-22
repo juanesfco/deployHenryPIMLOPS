@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-03-09,105600,True,"Very fun adventure, completely not a ripoff of minecraft. It offers so much more in terms of creativity and gameplay than that repetitive abomination it is always compared to. REALLY fun when played together with friends. Start can be a bit slow, but when you get into it, you'll enjoy it a lot. 10/10 would recommend to others."
-2014-06-24,241600,True,"This unique 'Roguelike' game has all the fun parts of what is should be. Upgrading your characters and facing tougher enemies as you go. It is a speedrunner's dream, easy straightforward layout which you can lock and not have to worry too much about random generation. It also makes it easier for new players by not being as punishing as other roguelikes in the sense that it is ok if you die. It is, in fact, impossible to advance in the  game unless you die. This softens the disappointment of death and can take out the frustration if new to the game. Controls can be a bit weird at first but you can quickly change it to what you see fit."
-2014-03-09,570,True,Wurst moba eva.(jks)
-2014-03-09,248820,True,"Extremely fun game, completely worth 10 dollars."
-2012-10-12,440,True,Play hat simulator 2. Play it...
+posted,item_id,recommend,sentiment_analysis
+2014-03-09,105600,True,2
+2014-06-24,241600,True,1
+2014-03-09,570,True,1
+2014-03-09,248820,True,1
+2012-10-12,440,True,1

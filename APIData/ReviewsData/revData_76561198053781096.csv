@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-04,4000,True,"Absolutly amazing. Awesome value even when not on sale. Limitless content with a live and active community, Definetly get"
-2015-01-04,65800,True,"Amazing to play for the storyline, but it doesnt quite have much replay value. Defenitly buy if you have spare cash and time"
+posted,item_id,recommend,sentiment_analysis
+2015-01-04,4000,True,2
+2015-01-04,65800,True,2

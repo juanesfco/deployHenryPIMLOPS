@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-06-12,20510,True,very good game yes u should play itStay cheeki breeki
-2016-07-01,4500,True,cheeki breeki iv damke
-2016-04-27,400790,True,This game gave me cancer
-2014-11-06,218620,True,Very good online-co-op and a soundtrack love the game all around a very great game have fun playing it!
-2015-09-22,221100,True,bloooooooooooooooooody helllllll maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaan
-2016-07-01,286690,True,Verry good game good game play and story would recomend 10/10 game
-2016-07-01,730,True,if u want salty 12 year olds screaming at you this is the game for you
-2015-09-29,391460,False,its one of the worst games i have ever played 3/10
-2015-05-24,107410,True,its gud
+posted,item_id,recommend,sentiment_analysis
+2016-06-12,20510,True,2
+2016-07-01,4500,True,1
+2016-04-27,400790,True,0
+2014-11-06,218620,True,2
+2015-09-22,221100,True,1
+2016-07-01,286690,True,1
+2016-07-01,730,True,0
+2015-09-29,391460,False,0
+2015-05-24,107410,True,1

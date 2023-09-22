@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-16,218620,True,good game
-2013-12-14,211820,True,no its torture
-2014-01-20,55230,True,Its really funny and enjoyable.
-2013-12-23,10090,True,Great game for the ZOMBIES but multiplayer is fine but WaW is known for its custom zombie maps :D
+posted,item_id,recommend,sentiment_analysis
+2014-01-16,218620,True,2
+2013-12-14,211820,True,1
+2014-01-20,55230,True,2
+2013-12-23,10090,True,2

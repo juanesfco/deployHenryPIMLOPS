@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-23,239220,True,really lked the game and im not usely a fan of thece typer of games really kinda hate them but when i played this game i found that it was soo much better then i thought it would be. it just has such a simple apell to it!!! get this game if u like a bit of a different game and some fun :)
-2013-12-06,224260,True,it was a nice game kinda hard
-2014-09-05,301520,True,great game for alfa
-2012-11-30,200210,True,bad game dont play it
-2012-11-17,104700,True,very simalar car to tf2
+posted,item_id,recommend,sentiment_analysis
+2014-11-23,239220,True,1
+2013-12-06,224260,True,1
+2014-09-05,301520,True,2
+2012-11-30,200210,True,0
+2012-11-17,104700,True,2

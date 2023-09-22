@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-12-21,221380,True,"Esse jogo é um clássico, é tão divertido hoje quanto era há 11 anos atrás, na primeira vez que o joguei."
+posted,item_id,recommend,sentiment_analysis
+2015-12-21,221380,True,1

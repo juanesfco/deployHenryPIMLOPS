@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-12-02,225540,True,"I understand were the hate for this game is coming from,However much like fallout 4 this game has been improving and supasasses just cause 2 very quickly"
-2016-05-20,379720,True,DOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM
-2016-02-25,427520,True,You know a game is good when this is in their terms of service:Especially we are not responsible if you stay awake all night long playing Factorio and can't go to school / work in the morning:)
-2016-01-02,230290,True,Giant army truly has devolved a detailed mass physics simulator based on the community
-2015-10-03,357480,False,I typed up autism in the steam store.This returned.
-2015-07-12,287390,True,"Even without the sale this game is by FAR one of the greatest 16gb of space on your pc, many hours will lost replaying this accictive game!"
+posted,item_id,recommend,sentiment_analysis
+2015-12-02,225540,True,0
+2016-05-20,379720,True,1
+2016-02-25,427520,True,2
+2016-01-02,230290,True,2
+2015-10-03,357480,False,1
+2015-07-12,287390,True,2

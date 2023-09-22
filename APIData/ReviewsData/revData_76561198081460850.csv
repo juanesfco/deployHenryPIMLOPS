@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-31,730,True,dsawdsa
-2013-12-29,440,True,saveeeee
-2013-12-26,209870,True,sabeeeee
-2013-12-19,236390,True,sasawas
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,730,True,1
+2013-12-29,440,True,1
+2013-12-26,209870,True,1
+2013-12-19,236390,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-12,264200,True,"This is possibly one of the best games I have played even though it is so simple. If you have $5, buy this game. It is one of the best invesments you will ever make."
-2015-01-11,242720,False,THis game has way too many bugs that need fixing. Sometimes you can't even start a match. There are better MMO's out there than this.
-2014-10-09,33230,True,Game is very fun for most of the story line but gets very repetitive. The free running is very annoying sometimes but good game in general.
+posted,item_id,recommend,sentiment_analysis
+2015-04-12,264200,True,2
+2015-01-11,242720,False,2
+2014-10-09,33230,True,1

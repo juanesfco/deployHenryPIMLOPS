@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-10-30,113020,True,Dont Look The Trailer Or The ScreenshotYou Have To Play It By YourselfThis Game Was So Awesome
-2013-07-16,730,True,"Well, Looks Like Someone Just Doing A Good Job With This Game, Its Different Than The Old Counter Strike, The Graphics And Manymore"
-2013-09-06,218620,True,"This Game, Once You Play It, You Can't Stop Playing It"
+posted,item_id,recommend,sentiment_analysis
+2013-10-30,113020,True,2
+2013-07-16,730,True,1
+2013-09-06,218620,True,0

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-06-25,295110,True,Let the Donger Games Begin! ᕙ༼ຈل͜ຈ༽ᕗ
-2015-05-29,374570,True,Tank You so much!
-2015-03-17,230410,True,Terrible strategy game.
-2015-02-12,262060,True,This game is so damn good and so damn punishing.
-2014-08-01,49520,True,I regret not getting this game as soon as it came out.
-2014-07-10,218620,True,Bag throwing simulator.
-2014-03-06,213670,True,Screw you guys. I'm going home.
+posted,item_id,recommend,sentiment_analysis
+2015-06-25,295110,True,1
+2015-05-29,374570,True,2
+2015-03-17,230410,True,0
+2015-02-12,262060,True,2
+2014-08-01,49520,True,0
+2014-07-10,218620,True,1
+2014-03-06,213670,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-22,440,True,:))
-2014-08-27,241640,False,Not scary very boring
-2014-08-22,49520,True,:))
-2015-05-05,255710,True,Awesome game :))
-2014-08-24,319130,False,Boring
+posted,item_id,recommend,sentiment_analysis
+2014-08-22,440,True,2
+2014-08-27,241640,False,0
+2014-08-22,49520,True,2
+2015-05-05,255710,True,2
+2014-08-24,319130,False,0

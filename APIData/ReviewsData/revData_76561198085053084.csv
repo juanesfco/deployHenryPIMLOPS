@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-06-20,233450,True,Really fun
-2013-12-07,98500,True,"i really like it but i cant work out how to play multiplayer yet, aparantly there is a way but maby i just havnt found it yet. would recommend it if you can work out the multiplayer situation."
-2016-02-09,239030,True,This game is such a ♥♥♥♥ing troll but I love it.
+posted,item_id,recommend,sentiment_analysis
+2013-06-20,233450,True,2
+2013-12-07,98500,True,2
+2016-02-09,239030,True,1

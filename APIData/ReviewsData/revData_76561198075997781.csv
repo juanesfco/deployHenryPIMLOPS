@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-05-21,221640,True,DO YOU EVER FEEL LIKE THE DAY ISN'T LONG ENOUGH? PLAY SUPER HEXAGON AND WATCH 60 SECONDS BECOME AN ETERNITY. WATCH AS YOUR EYES GIVE UP ON LIFE. FEEL YOUR FINGERS FORGET SIMPLE CONCEPTS LIKE RIGHT AND LEFT. PERSONIFY LITTLE TRIANGLES AND ABHOR ANYTHING WITH MORE THAN THREE SIDES. THIS GAME WILL CHANGE YOUR LIFE.
-2013-03-03,570,True,"all my friends play this game. it has taken from me money, time and effort. in return i have lost my faith in humanity and i doubt everyone i meet and their ability to ward. my life is ruined and i have never been happier."
-2014-07-02,204530,True,It's like Starcraft without the Koreans.It's like Dota without the Russians.It's like TF2 without the hats.Xenophobic genocidal violence at it's chaotic best.
-2014-05-21,224760,True,"A simple concept which is a solid ton of fun. The puzzles will boggle your head no end (hint: translations) and the beautiful 8bit-esque graphics and sounds will tug at your nostalgias. PLUS IT HAS A FEZ HOW COOL IS THAT COME ON SOMEBODY. Great depth, detail and gameplay in one casual (ish) gaming package.p.s. FREE LSD TRIP AT THE END WITH 'DEAL WITH IT' GLASSES FALLING FROM THE SKY SAY IT AIN'T SO"
-2014-09-12,233150,True,"'DAKKA DAKKA DAKKA DAKKA DAKKA DAKKA DAKKA'(Rauser, 1943)"
-2014-06-01,245550,True,THE FEELS ARE ALL OVER MY FLOOR NOW WTF VOLVO
-2014-09-12,239030,True,Cobrastan best country in world. Better than Artstotzka.
+posted,item_id,recommend,sentiment_analysis
+2014-05-21,221640,True,1
+2013-03-03,570,True,0
+2014-07-02,204530,True,2
+2014-05-21,224760,True,2
+2014-09-12,233150,True,1
+2014-06-01,245550,True,0
+2014-09-12,239030,True,2

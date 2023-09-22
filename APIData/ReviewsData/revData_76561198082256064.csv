@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-09-15,72850,True,this game is soo good it got a 94/ 100 metascore but my is 100/ 100
-2015-06-23,346110,True,i love this game but there only one problem. i got a shity computer
-2016-07-04,238960,True,:D you know what i mean
-2015-08-16,389570,False,g*y version of agar.io
-2015-08-04,730,True,easiest way to waste your money is to keep playing this game.10/10 would waste money even more
-2015-07-01,570,True,this game is so good i can't stop wasting my money.( I lose money and get no profit )10/10
-2014-09-09,440,True,recommened for player who like first and third person shooter and player who like playing together 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-09-15,72850,True,2
+2015-06-23,346110,True,1
+2016-07-04,238960,True,2
+2015-08-16,389570,False,1
+2015-08-04,730,True,1
+2015-07-01,570,True,2
+2014-09-09,440,True,2

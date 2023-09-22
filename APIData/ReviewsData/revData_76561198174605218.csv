@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-01-21,730,True,"when i read the reviews people always write 'i learn't Russian in the first 2 hours blah blah blah' but i didn't, i learn't how to talk ♥♥♥♥ in the first few hours."
+posted,item_id,recommend,sentiment_analysis
+2015-01-21,730,True,1

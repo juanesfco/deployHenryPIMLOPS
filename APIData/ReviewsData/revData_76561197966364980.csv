@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-07-31,238210,True,"14 years since release, the cult classic System Shock 2 has finally and miraculously been revived for all to experience. Alone, you battle unrelenting biomutations and rogue artificial intelligence as you attempt to solve the mysteries behind the fate of the starship Von Braun's fallen crew. The game pioneered a new form of FPS that mixed horror and RPG elements, together providing a deep and captivating experience that still holds up to this day."
-2012-07-15,17410,True,"created by DICE, Mirror's Edge has you free running across futuristic urban environments with what's probably the most unique and awe-inspiring aesthetic in a video game. Minimalist, yet telling of its oppresive dystopian universe, the thrilling moments of parkour that have you traversing across great chasms of this metropolis are second only to the brillant escapism that is the city of Mirror's Edge."
-2011-12-28,200900,True,"Kickstarting the era of indie games, Cave Story+ is the remastered edition of the freeware epic made entirely by the sole developer that comprises Studio Pixel. Featuring challenging Metroidvania style 2D action/platformer gameplay and an unmatched retro aesthetic, Cave Story+ is as much a testament to classic gaming as it is to the inspiring pursuit of one's passions."
-2011-07-08,57300,True,"arguably the most frightening survival/horror game, Amnesia is intensly dark, engrossing, and atmospheric; play this alone in the right setting,  and enjoy one of the most memorable experiences in gaming yet."
-2011-05-16,300,True,"a cheap, fun, and underrated first-person shooter that's just as enjoyable as any of Valve's other great online multiplayer offerings."
-2011-02-05,40800,True,a blisteringly fast indie platformer with the best qualities of both modern and retro gaming; polished to precision and punishingly difficult.
+posted,item_id,recommend,sentiment_analysis
+2013-07-31,238210,True,1
+2012-07-15,17410,True,2
+2011-12-28,200900,True,2
+2011-07-08,57300,True,2
+2011-05-16,300,True,2
+2011-02-05,40800,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-15,440,False,Welp...back to team fortress classic then c:
-2014-05-30,113200,True,"I really like the game,but the achievements doesnt work for my account.(i am using mac please help me with this)"
-2014-07-13,211820,True,"Well there's no unicorn in this game even no mods for it, but you can be a unicorn with a rainbow cape with sparkling effect... :3 420/10 will play till death."
-2014-05-19,219740,True,Really nice game
+posted,item_id,recommend,sentiment_analysis
+2016-07-15,440,False,2
+2014-05-30,113200,True,2
+2014-07-13,211820,True,1
+2014-05-19,219740,True,1

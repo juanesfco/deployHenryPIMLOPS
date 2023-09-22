@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-15,271590,True,most useful aspect of first person: rolling down hills10/10 would get motion sickness again
-2015-12-12,287340,True,"The only game I have ever played that has caused me to feel tiredyou know that thing that happens when you read and you start thinking about something but keep reading subconciously even though you don't actually take in the words, that happened to me playing this game, and i still won the racegreat game if you need help falling asleep or need something mindless to do whilst listening to music 10/10"
-2014-06-21,107410,True,"you will have alot more fun in the multiplayer servers and stuff from the workshop than in the campaign and stufftheres alot more action and it's more fast paced, plus the community is great (appart from the occasional squeaker)"
+posted,item_id,recommend,sentiment_analysis
+2015-04-15,271590,True,2
+2015-12-12,287340,True,0
+2014-06-21,107410,True,2

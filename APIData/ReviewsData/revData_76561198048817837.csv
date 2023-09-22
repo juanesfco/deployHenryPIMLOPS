@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-26,440,True,"The thing about Team Fortress 2 is that it doesn't feel repetitive after playing for hours and hours. There are 9 different classes for you to switch freely, on top of that you got different loadouts which in turn gives a different playstyle. (Demoknights, for example)Apart from that, this game is undoubtedly NOT a pay to win game. (Albeit there is some who hates f2p with a passion). The only thing you get for spending $ on Team Fortress 2 is that you will have extra backpack slots and the ability to trade."
-2016-03-03,201790,True,I am no professional at writing reviews but if you ask me if this game is worth buying.I will say yes.
-2015-10-24,251870,True,'You have to stop acting so amazed at everything' -Akira
-2015-01-03,4000,True,Maybe I need to find some time and actually play the game.
-2014-08-13,201570,True,"Really COLORFUL game, I don't really understand what I am playing though.Just shoot everything that can be shot at PEWPEWPEWPEWPEW"
-2014-08-13,67370,True,"Storyline and gameplay is nice, definitely worth a shot."
-2014-08-13,63380,True,"Story mode is damn fun, definitely recommend you to try.Multiplayer for me is just plain boring."
+posted,item_id,recommend,sentiment_analysis
+2015-10-26,440,True,1
+2016-03-03,201790,True,1
+2015-10-24,251870,True,1
+2015-01-03,4000,True,0
+2014-08-13,201570,True,1
+2014-08-13,67370,True,2
+2014-08-13,63380,True,0

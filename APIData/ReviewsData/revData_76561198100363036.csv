@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-11-14,4000,True,"Garrys Mod is a funny game, basically built around building and destroying. it get a bit glitchy at times, but overall it is quite a decent game"
+posted,item_id,recommend,sentiment_analysis
+2014-11-14,4000,True,1

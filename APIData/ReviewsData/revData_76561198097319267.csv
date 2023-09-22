@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-01,230410,True,Awesome game though me glitches tho
-2015-08-23,730,True,Got arrested at the air port because I my headphones came out and everyone around me heard 'the bomb has been planted.'10/10 would get arrested again
-2015-07-11,362280,True,Great movie should make it a downloadable file instead of a online stream :D
+posted,item_id,recommend,sentiment_analysis
+2014-08-01,230410,True,2
+2015-08-23,730,True,1
+2015-07-11,362280,True,2

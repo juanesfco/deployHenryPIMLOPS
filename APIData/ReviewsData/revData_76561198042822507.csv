@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-10,200210,False,♥♥♥♥ THIS GAME
-2016-05-31,72850,True,best gamer ever full stop.
+posted,item_id,recommend,sentiment_analysis
+2014-01-10,200210,False,0
+2016-05-31,72850,True,2

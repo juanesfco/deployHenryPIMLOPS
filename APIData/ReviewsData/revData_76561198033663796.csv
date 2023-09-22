@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-16,570,True,"9/10 game too long, 1900+ hours of campaign."
-2015-06-16,319630,True,chloe pls
-2014-11-29,250900,True,"got to kill my mum so many times, 10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-09-16,570,True,0
+2015-06-16,319630,True,1
+2014-11-29,250900,True,2

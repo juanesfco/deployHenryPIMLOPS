@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-24,204880,True,"i can download mods that just turn this game into a star trek game, like i do with every game that i own, because only star trek is real and i am escaping to the real world through video games.11/10"
-2011-04-22,440,True,internet
-2016-08-09,55230,False,"sub-family guy level 'Irreverent Humour' written by teenagers. one quest has you drugged and probably sexually roughed up a bit while drugged and then you nude escape from a brothel while drugged, on a cart pulled by mostly nude gimps, and the entire sequence feels like it was written by a 16 year old boy who masturbates to eric cartman. the real charms of saints row 2 and the ridiculous, balls-out actually fun nature of saints row 4 just aren't present here. this is the worst of both worlds."
-2016-06-02,287980,True,if you don't like this game then you're a bloody idiot
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,204880,True,1
+2011-04-22,440,True,1
+2016-08-09,55230,False,1
+2016-06-02,287980,True,0

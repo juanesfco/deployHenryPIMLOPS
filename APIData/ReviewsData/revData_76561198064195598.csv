@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-05-14,202970,True,kill zombies good
-2013-02-19,42700,True,good game lads
+posted,item_id,recommend,sentiment_analysis
+2013-05-14,202970,True,2
+2013-02-19,42700,True,2

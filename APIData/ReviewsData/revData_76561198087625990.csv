@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-08-31,345390,True,Absolutely wonderful
-2015-02-03,12210,True,"I played GTA2, GTA3, and now this. A real classic, with much improvements. When it's time to get your anger our, this is the perfect place. Saving money now for GTA5"
-2015-02-03,4000,True,"My kid has been playing this in single-player mode, he seems to have a lot of fun with it. A real canvas for creative people."
-2015-02-03,227300,True,"Very well made. I play using Logitech Momo steering wheel. This steering wheel never performs better before. Really love this simulator, it chills me down."
-2015-02-03,203160,True,The first 1 hour play is a complete stunner. I almost got a heart attack. Awesome built.
+posted,item_id,recommend,sentiment_analysis
+2016-08-31,345390,True,2
+2015-02-03,12210,True,2
+2015-02-03,4000,True,2
+2015-02-03,227300,True,2
+2015-02-03,203160,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-23,213610,True,"GOTTA GO FAST! If I had a dollar for every hour of my childhood I wasted feeding my Chao drugs (that I got from destroying robots), I'd be a very, very rich garden gnome."
-2014-08-20,730,True,"I've owned this game since preorder and I'm still highly amused by the Terrorist character dude with the water bottle in his backpack. Seriously though, it's a highly enjoyable experience that's the same as all the other games in the series, but without the obnoxious pricetag of that other repetitive mainstream FPS. One of my all time favourite games, and I have to pretend to be offline all the time so people think I have a life."
-2012-12-07,98400,True,This joins iron ore as one of Poland's notable exports. My favourite part was the part where you shoot robots.
-2012-12-03,32370,True,Forget about all that C-3PO/2-1B slash fiction you read...this is pretty much the only Star Wars expanded universe stuff you need... even if it is made by Bioware.
+posted,item_id,recommend,sentiment_analysis
+2013-12-23,213610,True,1
+2014-08-20,730,True,1
+2012-12-07,98400,True,2
+2012-12-03,32370,True,2

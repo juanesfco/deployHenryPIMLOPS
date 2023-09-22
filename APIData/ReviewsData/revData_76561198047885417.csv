@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-19,226700,False,Comprei o jogo faz mais de 1 anoAté agora não consegui entrar em nenhum server pois este jogo crasha200/10
-2014-08-26,206210,True,These guys are better heroes and are far funnier than that bat-dressed freak...Batman...that ♥♥♥♥♥...
+posted,item_id,recommend,sentiment_analysis
+2016-02-19,226700,False,0
+2014-08-26,206210,True,2

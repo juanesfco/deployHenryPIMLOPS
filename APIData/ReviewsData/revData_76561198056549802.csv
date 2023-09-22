@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-24,342560,True,"Steampunk airship and landship design, a randomly generated strategic map, old school pixel art and cool tactical battles.... whats not to like?  10/10"
-2015-02-23,8170,False,Do not Buy.  Games for Windows Live.... nuf said.
-2015-02-01,237990,True,Short but beautifully crafted...  Thoroughly recommend.
+posted,item_id,recommend,sentiment_analysis
+2016-01-24,342560,True,1
+2015-02-23,8170,False,2
+2015-02-01,237990,True,2

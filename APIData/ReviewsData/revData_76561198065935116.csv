@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-01-06,440,True,See this game yeah team fortress to ya see it?  GET IT NOW !!!!!!!!!!!!!!!!!!
-2014-11-02,261640,True,"This game is amazing. Its 10 times better than borderlands 1 and 2 combined, the story is better, the gameplay is sexy, this game is basicaly 2k Australia sucking off every borderlands fan"
-2014-07-28,304930,False,"This game sucks, everything that people say about it is true, its basicly DayZ for poor people. But i can see this game having good future, its pretty fun to play with friends (If you can get it to work), it's addictive and it's free."
-2013-02-13,550,True,its one of the best first person pew pew iv ever play and its a zombie game
+posted,item_id,recommend,sentiment_analysis
+2013-01-06,440,True,0
+2014-11-02,261640,True,2
+2014-07-28,304930,False,1
+2013-02-13,550,True,2

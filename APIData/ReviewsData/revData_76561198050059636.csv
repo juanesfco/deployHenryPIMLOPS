@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-02,252490,True,really fun and lots of rocks n ♥♥♥♥♥
-2013-12-27,440,True,Get it. Now.
-2015-09-04,370100,False,Literally the worst piece of ♥♥♥♥ i have ever seen.Completely trash copy-paste of an asset.Multiplayer doesn't work properly.The whole game makes me want to ♥♥♥♥ing die.DO NOT BUY IT. IT'S HORRIBLE.
+posted,item_id,recommend,sentiment_analysis
+2015-05-02,252490,True,2
+2013-12-27,440,True,1
+2015-09-04,370100,False,0

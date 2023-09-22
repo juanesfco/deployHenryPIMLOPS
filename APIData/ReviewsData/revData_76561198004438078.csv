@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-03,356670,True,"Cute cardboard on the wall with cute faces, This game is Humiliating until you descend further down into Spooky's Mansion then it gets scary.11.1/10 This game is spooky :P"
-2015-09-27,224260,True,"This game is good for a F2P game, Why? Everything, It's a Zombie Survival game you can either do objectives or survive rounds, Stick together to survive longer, Help eachother out, Kill zombies, Get Infected, U ded amen :D1000/100 Lov It"
-2015-04-24,252330,True,"I am a fan of Slender The Eight Pages and since the day it came out I got the game and my god the graphics are better, the forest looks beautiful (sexy) and there's a story to the game that I really like about games. Try this game yourself if you got balls to do it C:10/10 really good job"
-2015-01-08,322070,True,No more watching people kill zombies with gore now I can kill zombies with gore myself
-2014-09-12,4000,True,"Garry's mod, Best mod in this whole dumb world if I could vote out of 10 it would be 400,000/10."
+posted,item_id,recommend,sentiment_analysis
+2015-08-03,356670,True,2
+2015-09-27,224260,True,0
+2015-04-24,252330,True,2
+2015-01-08,322070,True,0
+2014-09-12,4000,True,2

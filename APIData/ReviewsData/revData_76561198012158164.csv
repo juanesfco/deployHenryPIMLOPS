@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-08-25,282800,True,"Destroyed my ♥♥♥♥♥ Masturbating to this game, 10/10"
-2014-06-08,237310,True,"A great combo system, a good diffucultly curve and some top notch PvP. But the ugly part is the worst, Pay for 4 more skill slots when you basically have more than 4 skills to use and No-sense of Currency conversion with perm skillslots (For only one Char) being 10 bucks. Still a great game, 8/10"
-2015-05-31,323370,True,"Maximum.Lolidrive wasn't taken, 10/10"
-2015-03-02,353360,True,"I still have no idea about sekx, 9/11"
-2014-01-12,219640,True,"Great FPS, The controls handle well and are responsive, the gameplay is seriously good and amazing."
-2013-12-27,233720,True,"Its fantastic, you need it thats all i have to say."
-2015-05-31,211420,True,"What are you, Casual?"
-2016-03-21,377160,True,>Finish making my character>walk out>look at the comic on the table>*crashes*Im just hoping that the new elder scrolls will have this level of C̶o̶n̶t̶e̶n̶t̶ Immersion.
+posted,item_id,recommend,sentiment_analysis
+2014-08-25,282800,True,0
+2014-06-08,237310,True,2
+2015-05-31,323370,True,1
+2015-03-02,353360,True,1
+2014-01-12,219640,True,2
+2013-12-27,233720,True,2
+2015-05-31,211420,True,0
+2016-03-21,377160,True,2

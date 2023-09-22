@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-02,4000,True,cool game
-2014-05-28,570,True,THe Best Game That I Played!!
-2014-05-28,440,True,this a best game
-2016-03-10,230410,True,Really Recommend This Game ! :D
+posted,item_id,recommend,sentiment_analysis
+2014-06-02,4000,True,1
+2014-05-28,570,True,2
+2014-05-28,440,True,2
+2016-03-10,230410,True,2

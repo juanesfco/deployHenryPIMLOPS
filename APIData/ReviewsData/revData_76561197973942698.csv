@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-12,395180,True,"Such a great expansion, definitely worth the money with the amount of content in it. Highly recommend this game if you don't already have it"
-2015-08-13,241560,True,"Absolutely amazing game, plenty of cars to use, plenty of places to see and plenty of things to do in this game. When I received word about the Wild Run Expansion coming out, I was and still am ecstatic about what it as to offer, cannot wait. Also, really great to hear that they are listening to the community, lots of respect for this game."
-2015-04-09,332350,True,"Fantastic DLC, worth it"
-2016-08-28,275850,False,This is what happens when big companies rush production and get greedy
+posted,item_id,recommend,sentiment_analysis
+2016-07-12,395180,True,2
+2015-08-13,241560,True,1
+2015-04-09,332350,True,2
+2016-08-28,275850,False,1

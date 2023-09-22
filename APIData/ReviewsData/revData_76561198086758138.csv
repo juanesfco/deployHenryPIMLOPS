@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-27,440,True,Possibly the best multiplayer game ever created!Why the hell would you not download it?
-2014-03-10,221640,True,"Highly addictive, wouldn't purchase if you've got plans. However if you don't, certainly get it"
+posted,item_id,recommend,sentiment_analysis
+2014-04-27,440,True,2
+2014-03-10,221640,True,2

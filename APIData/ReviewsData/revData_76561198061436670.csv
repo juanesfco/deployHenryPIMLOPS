@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-13,730,True,- spend almost a year trying to learn how tap shot- new update- people learn how to tap shot in 3 min11/10
-2015-10-31,440,True,"just this: H.A.T.S, and now skins! with the gun mettle update c:"
-2015-01-20,214970,False,"gastei meu dinheiro com ele, ele é a minha pior aquisição, gameplay lixo, jogabilidade tbm, resumindo:ele é um LIXO"
+posted,item_id,recommend,sentiment_analysis
+2016-08-13,730,True,2
+2015-10-31,440,True,1
+2015-01-20,214970,False,0

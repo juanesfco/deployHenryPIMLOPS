@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-17,304930,True,AYUUUDAAA!!!! cuando se hace de noche y uso la linterna veo todo oscuro y mis amigos todo claro... como subo el brillo??
-2016-03-11,730,True,"RECONMENDADO 100%Uno de los mejores juegos que he comprado en mi vida, un juego divertido, juego de armas, Con varios modos de juego como el Competitivo, me encanta este juego y en especial jugarlo con mis amigos. Le doy 10/10Compralo, vale la pena:DOtra maravilla de Valve"
+posted,item_id,recommend,sentiment_analysis
+2014-07-17,304930,True,1
+2016-03-11,730,True,1

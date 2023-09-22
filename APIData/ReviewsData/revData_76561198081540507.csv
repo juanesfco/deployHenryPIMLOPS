@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-20,1250,True,Killing floor is a awesome first person zombie shooter that has loads of zombies and loads of guns to kill them with.
-2014-01-20,4000,True,"Garry's Mod is a great game, it has loads of fun gamemodes, inluding the basic sandbox gamemode where you can do anything you want"
+posted,item_id,recommend,sentiment_analysis
+2014-01-20,1250,True,2
+2014-01-20,4000,True,2

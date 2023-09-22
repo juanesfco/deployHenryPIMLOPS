@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-30,235600,True,A bit hard to get the hang of but overall an amazing game!!!!!
-2016-07-26,205100,True,"One of the best games EVER. It's like a mix of assasins creed, Skyrim and the arkham games. Maybe slightly shorter but the depth and story line definetly make up for that. At first I underestimated the effects that your playstyle would have on the game (whether you decided to kill or spare), but I was amazed at the difference when I replayed the game without killing (and vis-versa), whole scenes change, maps looks different, and even some areas and artifacts are unlocked! In conclusion I highly reccomend this game."
-2015-06-19,209000,True,great game hard to get the hang of but once you do its FRIKEN AMAZING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2016-04-30,235600,True,0
+2016-07-26,205100,True,1
+2015-06-19,209000,True,2

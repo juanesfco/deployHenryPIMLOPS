@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-24,240,True,"Although this game is old, it's still truly one of the best FPS games out there.If you haven't got this game yet, I strongly recommend you do. It only costs a few dollars."
-2013-05-13,440,True,"It's free, get it."
-2014-09-24,72850,True,"Skyrim is good, you should get it."
+posted,item_id,recommend,sentiment_analysis
+2014-09-24,240,True,1
+2013-05-13,440,True,2
+2014-09-24,72850,True,2

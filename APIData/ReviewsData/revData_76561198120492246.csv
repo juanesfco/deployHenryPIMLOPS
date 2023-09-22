@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-15,440,True,The Best Shooter Game Ever
-2015-04-13,218620,True,This Game make Me Fabolous :3
-2014-07-18,304930,True,It more be like a Shooting and Survival game but i Like It :)
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,440,True,2
+2015-04-13,218620,True,1
+2014-07-18,304930,True,2

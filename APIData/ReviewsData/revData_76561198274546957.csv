@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-09-17,508600,True,"Very fun game, Really enjoy playing it trying to build a base before being inevitably destroyed because my cannons refuse to fire. :)"
-2016-08-29,499440,True,"Fun and simple, It's 1 hour of switching and turning until you finish the game, Very good for the price range, A level editor would be a cool addition too."
-2016-04-25,375950,True,It's basically a game that revolves around you taking care of your plants.Also the music is great.
-2016-03-29,367580,True,A fun simple game. Play it.
-2016-03-29,266010,True,"Enjoy this game, I'm terrible at it tho."
-2016-03-24,304410,True,"A cool minimalist game you can play to kill some time.3 hours of gameplay for me, because I am not particularly good at games like this. ._."
+posted,item_id,recommend,sentiment_analysis
+2016-09-17,508600,True,1
+2016-08-29,499440,True,2
+2016-04-25,375950,True,2
+2016-03-29,367580,True,1
+2016-03-29,266010,True,0
+2016-03-24,304410,True,0

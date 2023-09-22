@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-15,730,True,Its just a very good game :D
-2014-07-12,440,True,its a great game the graphic its good there are a hats cool a gun cool this game its super great + its free
-2016-01-21,218620,False,No MICROTRANSACTIONS
+posted,item_id,recommend,sentiment_analysis
+2015-04-15,730,True,2
+2014-07-12,440,True,2
+2016-01-21,218620,False,1

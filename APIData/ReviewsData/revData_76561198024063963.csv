@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-17,248800,True,"Extremely good game. Backgrounds are drawn amazingly, characters designs are great. Story is very interesting and it never gets boring. Highly recommended."
-2014-12-22,201790,True,kil orc. is gud. 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-10-17,248800,True,2
+2014-12-22,201790,True,1

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-06-30,249130,True,tak epickie że aż chce się tylko siedzieć i grać całymi godzinami! ;)  10/10
-2015-08-31,730,True,"Nowych graczy coraz mniej ale nie ważne , ważne że kasa za kupione smurf konta jest ! ~100% Gabe Newell"
-2014-11-09,55230,True,epicka gra
-2014-07-08,550,True,Zajebista gierka o zombie polecam! Najlepsza w gra w jaką grałem! 10/10
-2015-07-11,286570,True,"ta gra jest ok  , jak dla mnie spoko  jedyna wada to taka że nie ma trybu na podzielony ekran"
-2016-08-24,391040,True,ok
-2016-09-02,223670,True,ok
-2016-08-24,226580,True,ok
-2015-01-25,206420,True,frekin ♥♥♥♥♥ super game! 10/10
-2014-02-14,440,True,elo
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,249130,True,2
+2015-08-31,730,True,2
+2014-11-09,55230,True,1
+2014-07-08,550,True,2
+2015-07-11,286570,True,2
+2016-08-24,391040,True,2
+2016-09-02,223670,True,2
+2016-08-24,226580,True,2
+2015-01-25,206420,True,1
+2014-02-14,440,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-06,273350,True,"Muito bom!!! É um jogo multiplayer bem legal, um tanto inovador e tático."
-2015-05-24,200260,True,"Simplismente extraordinário, graficos bons, jogabilidade ótima , recomendo muito ."
-2015-03-08,354140,True,"Eu recomendo muito aos fãs que curtem o fnaf e o fnaf 2 , mas pra quem nunca  jogou  o fnaf 1 ou o 2  vai sentir uma dificuldade imensa porque o jogo esta muito difícil  e os que jogaram o fnaf 1 e 2 já vão estar acostumados com a dificuldade, então por isso recomendo para os novatos que conheceram agora o jogo , a comprar os dois five nights at freddys primeiro , e depois de ter zerado os dois jogos , comprar esse jogo ."
-2014-06-17,209000,True,"jogo muito bom graficos bons mas contem muitos bugs , tive que entrar num laptop para jogar mais metade do jogo e depois voltei  ao computador por causa de outro bug que não me deixava zerar , mas sem os bugs do nota 10"
-2014-02-14,70000,True,muito maneiro tem o dinossauro rex estilo cod world at war muito show pena que eu não tenho esse jogo pago
-2013-12-19,440,True,Jogo maneiro é gratis!
+posted,item_id,recommend,sentiment_analysis
+2016-08-06,273350,True,2
+2015-05-24,200260,True,2
+2015-03-08,354140,True,0
+2014-06-17,209000,True,2
+2014-02-14,70000,True,2
+2013-12-19,440,True,2

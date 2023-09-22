@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-28,72850,True,One of the best RPG of all time 10/10
-2012-10-14,43110,True,Great game recommend this to all :)
-2012-07-29,4500,True,This game is in my top ten games of all time you have to get this great game.
-2012-07-19,32800,True,BEST LOTR EVER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2013-11-28,72850,True,2
+2012-10-14,43110,True,2
+2012-07-29,4500,True,1
+2012-07-19,32800,True,2

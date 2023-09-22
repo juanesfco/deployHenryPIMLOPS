@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-27,246110,True,10/10 would throw into the chalice again
-2016-02-27,218230,True,"This game is good, if you are. It is all but nessesary (at least if you want to make a difference) to have a large group of other players whom you can work together with and cooperate. It is entirely possible to play this game on your own too, but I just think you don't get the full effect."
-2015-11-27,252490,True,"Got hax, rekt scrubz, became a pirate. 10/10."
+posted,item_id,recommend,sentiment_analysis
+2015-11-27,246110,True,1
+2016-02-27,218230,True,1
+2015-11-27,252490,True,1

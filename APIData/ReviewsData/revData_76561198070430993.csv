@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-01,391540,True,"Haven't written a review in a long long time, all of them were jokes anyways but this deserves my time, this game is best described as a journey, a journey filled with amazing music, fleshed out characters (besides Sans and Papyrus LMAO), and an amazing story. I heard about this game through word of mouth and other great reviews, my advice to whoever is reading this is, copy me, read this review, buy the frigggin game already what are you waiting for geezThanks for reading, I'm Tom Tucker"
-2013-11-29,12900,False,Dis is an pretty poopy game$2 not well spent
-2013-12-30,212680,True,"Well when I first saw screenshots of this game I was like 'eh, I don't see what all the hype is for' but I watched a little playthrough, looked alright, played it for it bit, thought 'this is ok' now I can't stop, seriously underestimated this game, very, very fun, and the 'situations' (?) you run into after each jump make this a very replayable game no matter how many times you die"
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,391540,True,2
+2013-11-29,12900,False,1
+2013-12-30,212680,True,1

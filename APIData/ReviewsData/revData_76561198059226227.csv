@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-30,420110,True,"Great educational game, great for everyone especially the kids.I learnt a lot about cats and how they acted which i didnt know in all my experince.you gain an experience like no other.If science cant logically explain this, then nothing can.its an experience, ill tell you that.Conclusion: Kill me."
-2016-07-30,333600,True,I got this game as a joke; but the joke was on me..Kill me/10
-2016-07-30,385800,True,why...
+posted,item_id,recommend,sentiment_analysis
+2016-07-30,420110,True,2
+2016-07-30,333600,True,0
+2016-07-30,385800,True,1

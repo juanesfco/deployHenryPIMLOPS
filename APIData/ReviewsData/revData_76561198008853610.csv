@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-08-30,388520,True,"First impressions of BLOPS3 beta are positive, the soon to be newest installment of the COD franchise has made changes I have found to be fun additions to the already entertaining game. New features include the role of specialists, chosen characters who, over time, charge a special ability for use in battle.The boost jump pack system from Advanced Warefare has returned but with some changes, the ability to wall run and jump higher. this sytem relies on a charge bar indicating how much it can be used before recharging.Stock standard class custimization has returned based on the points/allocation system.However, combat has not changed, run and gun, camping in the grass, and times where you yell at the screen wondering how you were just killed in a split secondOverall: 7/10"
+posted,item_id,recommend,sentiment_analysis
+2015-08-30,388520,True,2

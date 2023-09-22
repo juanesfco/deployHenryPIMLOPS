@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2011-12-27,107100,True,"Amazing Game,Very Good OST."
-2011-02-22,420,True,:)
-2010-12-20,400,True,Good Game !!!
-2014-03-06,239720,True,Namco Released this Game in NA on 29 October 2013 and after 4 Moths and 1 Week it is released ROW.Thats a Shame to see Game Like this Released only in one part of the World.Game is an Old 3rd Person Platformer in PacMan World.Game is not That bad.
-2015-07-15,224060,True,"The King Is Back Guys , Enjoy !!!"
-2015-07-23,376560,True,"This game is an casual platformer dedicated to everyone but mostly to under 14 , you control a kitty which have to collect shinies across various levels accompanied by some nice music, there is not much depth to it but is fairly made and simply, you will not be punished if you die, you just start from the last checkpoint, you can play with only Mouse or directional keys on the Keyboard.Considering the price I think is slighty 'fat' for what he can offer."
-2014-05-10,290750,True,GOTY
-2012-02-01,220,True,AV – 10.0 | 8.2 | 12.6 | 15.2 | 7.8 | 0.2 | 17.9 | 6.9 | 21.1 | 3.7 | 21.2 | 20.4 | 10.7 – Connection Lost
+posted,item_id,recommend,sentiment_analysis
+2011-12-27,107100,True,2
+2011-02-22,420,True,2
+2010-12-20,400,True,1
+2014-03-06,239720,True,0
+2015-07-15,224060,True,2
+2015-07-23,376560,True,1
+2014-05-10,290750,True,1
+2012-02-01,220,True,1

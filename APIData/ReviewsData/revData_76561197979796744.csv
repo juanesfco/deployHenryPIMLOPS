@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-11-25,24010,True,OFF DA RAILZZZ!!!!!!
-2012-07-14,200010,True,fun like teh portalzzssss
-2012-04-10,107600,True,triiiippppyyyyy
-2011-07-03,620,True,good ♥♥♥♥ right here
+posted,item_id,recommend,sentiment_analysis
+2012-11-25,24010,True,1
+2012-07-14,200010,True,2
+2012-04-10,107600,True,1
+2011-07-03,620,True,2

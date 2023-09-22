@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-12,268500,True,"Great fun if you are into turn based games, makes you think and learn fast."
-2016-01-05,252490,True,"10/10 ran around for 60mins trying to find at least one tree, just one. died by a bear and a wolf."
-2015-08-09,334230,True,"Awesome game to play with friends, hours of fun."
+posted,item_id,recommend,sentiment_analysis
+2016-02-12,268500,True,2
+2016-01-05,252490,True,0
+2015-08-09,334230,True,2

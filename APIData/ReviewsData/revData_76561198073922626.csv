@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-07,365590,True,真的很不错！
-2014-10-16,319090,True,GOGOGO
-2014-10-16,218620,True,非常不错的～游戏～
-2012-12-28,203140,True,太好玩了！神作！
+posted,item_id,recommend,sentiment_analysis
+2016-03-07,365590,True,2
+2014-10-16,319090,True,1
+2014-10-16,218620,True,2
+2012-12-28,203140,True,2

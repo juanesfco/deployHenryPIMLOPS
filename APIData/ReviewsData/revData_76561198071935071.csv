@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-06-13,4000,True,"Got kicked from server for kos'ing people,joined back and threw a toilet at admin telling him to eat ♥♥♥♥got banned11/10 would throw toilet again"
-2012-12-19,440,True,"Gameplay : 8/10 - Fast paced, first person shooter with many choices of guns and equipment, also community-made games such as Saxton Hale and Dodgeball which hooked me for hours. Including 100s of community made maps and such. However includes small aspects of teamwork which makes the game interestingCommunity: 7/10 - 20% of the people you will find are 7 year-olds who constantly brag about making boom-boom with my mum. However the other 70% of people you will find are wonderful people and great friends, constantly being friendly and showing newer players aspects of the game. The other 10% are ♥♥♥♥♥ :)Graphics : 7/10 - Customisable towards liking, however the highest setting results in a mediocre style look, however plausible with the cartoonish feel towards the gameStory: 8/10 - Good lore behind the characters once you investigate, including various comics which show the backstory towards characters, I also love the Meet The Class videos, which you can find on youtube, where you can find out the true personality on the charactersControls 10/10 - Fully customisable, which make the game user friendlyOverall - 8.5/10"
-2014-01-16,58610,False,Wargame- 1980's graphics and struggling AI Escalation
-2015-06-13,12900,True,Too good at game only play easy mode.10/11
-2015-06-13,24240,True,"Caught for killing hundreds of people in a bank heist, lets me go after 1 minute.8.9/10"
-2015-06-13,218620,True,"11/10 Kept a woman hostage, and kept her in my van. Teaching me that prostitution is legal"
-2015-06-13,249130,True,"Excellent free-roam best lego game i have ever played, mainly because it's the only lego game i have ever played.11/10-IGN"
-2015-06-13,31280,True,"Gambling habits, gonna go put my mum on the line for some virutal tokens11/10-IGN"
+posted,item_id,recommend,sentiment_analysis
+2015-06-13,4000,True,1
+2012-12-19,440,True,2
+2014-01-16,58610,False,1
+2015-06-13,12900,True,2
+2015-06-13,24240,True,1
+2015-06-13,218620,True,2
+2015-06-13,249130,True,2
+2015-06-13,31280,True,1

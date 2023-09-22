@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-06-24,331710,False,not fun and bad controlls
-2016-07-05,326460,True,LOTS of fun but no friends to play with cause i get bullied alot ;(
-2015-10-25,344760,False,NOT WOrth it.  10/10 hit boxes and some animals are ♥♥♥♥♥♥♥♥Day 1 : FOund the KKK he killed me because of 10/10 hitboxes and i had metal knifes and missed every shot10/1000000 NOT FUN AND SORTA LAGGY
-2016-03-24,438690,True,IT LOOK EXACTLY LIKE THE MOVIE IF U HAVE ACUALY WATCHED IT
-2016-05-31,72850,True,GG
-2016-01-03,204360,True,Very Fun but no one plays the multiplayer
-2016-01-02,298630,False,Its fun to start with then it gets ultra boring after 2 hours and its a bit to hard
-2015-10-04,274560,False,Pretty ♥♥♥♥
-2015-06-19,304930,True,Cool multiplayer
+posted,item_id,recommend,sentiment_analysis
+2015-06-24,331710,False,0
+2016-07-05,326460,True,2
+2015-10-25,344760,False,0
+2016-03-24,438690,True,2
+2016-05-31,72850,True,1
+2016-01-03,204360,True,2
+2016-01-02,298630,False,0
+2015-10-04,274560,False,2
+2015-06-19,304930,True,2

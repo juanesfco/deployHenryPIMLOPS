@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-08,730,True,skins > skill
-2015-09-15,570,True,Better love story than Twilight 10/10 would bang again
-2016-05-13,326460,True,11/10 so fun to play with friends would gang bang again
+posted,item_id,recommend,sentiment_analysis
+2015-07-08,730,True,1
+2015-09-15,570,True,2
+2016-05-13,326460,True,2

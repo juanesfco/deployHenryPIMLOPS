@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-16,245170,True,"I played this game for an hour. I got stuck in every tutorial past Chapter 2 and can't use the combo inputs for ♥♥♥♥e. Tried 'Sleepwalk' Story and Arcade, played as some weird failed lab experiment with a big ♥♥♥ saw coming out da butt. 11/10 at best, would be bothered figuring out how to play"
-2015-12-23,221910,True,"This game is clever, funny and dare I say philosophical. Fun to see what a slight alteration to your first path will do to the ending"
-2015-12-23,263400,True,"*War of the waifus. Title error that steam made. If you've played any grid based strategy game before you'll probably like this. It's like Battleships, but with waifus. No tutorial, but the game isn't very hard to figure out how to play. One thing that bothers me is that your units don't move very far very quickly, but this game is a lot of fun"
-2015-11-30,245176,True,"I hate this fighter. I hate everything about her.I hate that she was put in instead of a bunch of other charactersI hate her character in the storyI hate fighting herI hate playing as herI hate that f***ing couchI hate....oh wait, a skin based off a Fire Emblem character....The day is saved"
+posted,item_id,recommend,sentiment_analysis
+2015-06-16,245170,True,0
+2015-12-23,221910,True,1
+2015-12-23,263400,True,0
+2015-11-30,245176,True,0

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-02-17,348380,False,"This game must be tied with Grass Simulator as  the most pointless and superfluous game on steam. I feel embarrassed for everyone involved, who-ever made this trash, whoever green-lit it and myself for owning it.Please do not make anything again, ever."
-2016-03-25,94000,False,"Semi successful story telling experiment that almost manages to reproduce a somewhat unpleasant experience. Too short and too uninteresting to really have any substance or impact, I cannot reccomend anyone pay for Dinner Date, for free you can sign up to Tinder or a dating site and experience a realistic sense of isolation and loneliness. I rate this game 1 Swipe Lefts out of 10."
-2016-03-25,270490,True,"Authentic reproduction of the Choose-Your-Own-Adventure style books written by Livingstone and Jackson. While by modern standards the game rules are probably considered a little out-dated or simple, the impact of these games was significant upon the limited D&D/RPG world of the 1980s.Forest of Doom still retains harsh penalties for failure or poor choices making it reminscient of AD&D of old, which may deter or infuriate some players. If you appreciated these books in your youth, there is some nostalgia value to finally being able to complete one successfully without losing your character sheet."
-2016-03-19,311190,True,Genuinely decent platform game with some RPG elements. A little bit of Wonderboy in Monster Land meets Cave Story.
-2016-03-19,234710,True,"fun use of IP, bruce campbell voice acting is the only thing missing. more sam and max, more venture bros, more gladOS making you feel like crap! pretty great"
-2015-08-13,292630,False,I don't want to poop in anyones cornflakes... maybe this kind of game might have impressed people from antiquity but it ain't performing any miracles today. Also stop waking me up early on weekends.I rate this game 1  out of 10 door-knocking doom-saying mormons.
+posted,item_id,recommend,sentiment_analysis
+2015-02-17,348380,False,0
+2016-03-25,94000,False,1
+2016-03-25,270490,True,1
+2016-03-19,311190,True,0
+2016-03-19,234710,True,2
+2015-08-13,292630,False,2

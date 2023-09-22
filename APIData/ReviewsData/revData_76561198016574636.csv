@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-05,243870,False,"In the beginning while you play with other fresh players its a really good game, but that moment when you hit lvl 7 and up you just get thrown in with the P2W (pay to win) players that will constantly thrash you. In my honest opinion don't even waste your time with this game."
-2014-07-15,220440,True,"Once I started I couldn't walk away, great storyline great characters too bad it was so short."
-2014-03-02,204880,True,its one of those games you can constantly come back to for a challenge or a good game with a friend. highly recomended
+posted,item_id,recommend,sentiment_analysis
+2014-09-05,243870,False,2
+2014-07-15,220440,True,2
+2014-03-02,204880,True,1

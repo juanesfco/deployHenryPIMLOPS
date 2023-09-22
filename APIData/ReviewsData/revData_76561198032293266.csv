@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-29,241540,True,"It took me some time to dig into this game.  The secret is simply it is like real life... band together, use your head, or have it torn off.  Loosing player characters without a reload was shocking but made the game more satisfying.  It makes you plan ahead and more cautious about wading into the sea of S8it out there that you don't know S8it about.  "
-2015-09-23,239140,True,Loved this game.  First game where the world is three dimensional!  Zombies chasing you? Climb a building!  Just don't try that at night.  Very scary. Lots of fun.
-2014-02-14,261030,True,Incredible.  Worth Every Penny.
+posted,item_id,recommend,sentiment_analysis
+2015-09-29,241540,True,1
+2015-09-23,239140,True,1
+2014-02-14,261030,True,2

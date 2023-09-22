@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-01-23,224540,True,great game
-2014-02-17,263020,True,"I played the demo online, loved it. The second i saw it on steam, i bought it, no questions asked. Never regretted it for a second.  11/10"
-2014-08-30,207140,True,Extremely fun
-2014-03-08,67370,True,Probbably one of the best games i have ever played
-2014-02-23,250600,True,The most emotional 6 minute game i have ever played
-2013-09-12,205100,True,"A really grat game. It is great if u like stealth or if u dont like stealth much then u can just go and kill everybody that tries to stop you. Amazing story, great gameplay, and overall just amazing. 96/100"
+posted,item_id,recommend,sentiment_analysis
+2013-01-23,224540,True,2
+2014-02-17,263020,True,2
+2014-08-30,207140,True,2
+2014-03-08,67370,True,2
+2014-02-23,250600,True,1
+2013-09-12,205100,True,2

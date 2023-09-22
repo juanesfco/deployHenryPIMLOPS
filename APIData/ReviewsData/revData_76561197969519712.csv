@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2011-02-05,440,True,Great game. Great community. The most fun you can have sitting in front of a computer.
-2011-02-05,20570,True,Great expansion to an already great game. Chaos is easily my favorite army to play. I still need to play through the campaign...
-2011-02-05,49400,True,"This game has allowed me to continue to enjoy Magic without the need to spend tons of money on new cards. Implements the game perfectly with a great interface which takes you through all the phases of combat. Really enjoyed the challenge features in the game as well. If you like Magic, but can live without going to a comic shop to buy cards, check this out."
-2011-02-05,15620,True,"If you're a fan of RTS games, but could do without the basebuilding and mass-army management, this is the game for you. Great visuals. Lots of small skirmishes."
+posted,item_id,recommend,sentiment_analysis
+2011-02-05,440,True,2
+2011-02-05,20570,True,2
+2011-02-05,49400,True,2
+2011-02-05,15620,True,1

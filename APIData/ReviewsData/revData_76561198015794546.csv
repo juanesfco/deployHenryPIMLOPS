@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-19,247730,True,"A fun and challenging open world survival game where unlike dayz where you will spend hours walking trying to find something, in this urban enviroment you will see more action and loot in half an hour in this then a whole day of play in dayz"
-2014-04-20,570,True,Pree good
+posted,item_id,recommend,sentiment_analysis
+2014-01-19,247730,True,2
+2014-04-20,570,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-25,252950,True,10/10 ign
-2016-03-11,438690,False,Misleading. ♥♥♥♥
-2014-10-11,265630,True,GET IT NOW
+posted,item_id,recommend,sentiment_analysis
+2015-09-25,252950,True,1
+2016-03-11,438690,False,1
+2014-10-11,265630,True,1

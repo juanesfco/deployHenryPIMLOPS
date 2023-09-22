@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-19,304930,True,Must play1337/10Amazing game
-2014-07-08,12210,True,"Niko! It's your cousin! Let's go bowling. But seriously, on to the review.This game is basically a rollercoaster of emotions. Also, it's a good bowling simulator if you like those types of games. But seriously, gameplay was great, although a bit laggy, I fixed this problem via lowering my graphics, which didn't bother me. I highly recommend this game. Also, most of the negative reviews are probably Windows 8 users."
-2014-02-07,218680,True,"This game is quite good and bad at the same time, but if you ignore the bad stuff, it's a fun game. Although the puzzles start off very easy, they get harder if you go along,"
-2015-06-06,219740,True,♥♥♥♥ing pigs took my food supplies and I died of starvation10/10Never trust pigs with your farms people
-2016-04-20,333600,True,"I sold most of my TF2 stuff just for this game10/10 worth the moneyEDIT: Installed the R-18+ patch, definitely worth the money"
+posted,item_id,recommend,sentiment_analysis
+2014-08-19,304930,True,0
+2014-07-08,12210,True,1
+2014-02-07,218680,True,1
+2015-06-06,219740,True,1
+2016-04-20,333600,True,2

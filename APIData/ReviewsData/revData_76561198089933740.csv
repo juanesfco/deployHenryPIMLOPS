@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-24,259620,True,MINECRAFT WITH A RPG ELEMENT... GREAT COMBINATION
-2014-08-23,252490,True,Awesome survival Game to play with friends
-2014-02-03,440,True,Already played a little and i cant stop!!
-2014-01-24,244870,True,"FOR THOSE WHO LOVE PLATFORMERS, DUBSTEP AND REALLY REALLY HARD GAMES... WILL LOVE THIS GAME"
+posted,item_id,recommend,sentiment_analysis
+2014-01-24,259620,True,2
+2014-08-23,252490,True,2
+2014-02-03,440,True,0
+2014-01-24,244870,True,1

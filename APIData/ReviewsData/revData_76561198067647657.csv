@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-23,730,True,"Better than CoD, simply because it requires you to to aim. IKR SO WEIRD."
-2013-06-22,570,True,"Good game, lots of strategy and wide range of characters."
+posted,item_id,recommend,sentiment_analysis
+2014-07-23,730,True,1
+2013-06-22,570,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-15,265930,True,This game is so funny :)
-2014-05-19,78000,True,"#1 Puzzle Game, It Lot of Fun!9.5/10"
-2014-07-06,1250,True,I LOVE THIS GAME :)9.5/10
-2014-07-01,3830,True,psychonauts it was great game because level is lot of fun and great humor and great character with voice actors9/10
-2014-06-21,440,True,THIS GAME IS LOT OF FUN!
-2014-04-03,223710,True,this game is freak me out :(
+posted,item_id,recommend,sentiment_analysis
+2014-04-15,265930,True,2
+2014-05-19,78000,True,0
+2014-07-06,1250,True,2
+2014-07-01,3830,True,2
+2014-06-21,440,True,1
+2014-04-03,223710,True,0

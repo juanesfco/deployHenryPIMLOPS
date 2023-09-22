@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-01-23,225840,True,recommand to play this game ITS BACK! i can now play this if you created this best guy ever dosen't need the game!
-2015-12-23,224260,True,awesome fun game 10/10 chainsaw simulatior
-2015-12-19,304930,True,this game looks great i should try it out
-2015-11-14,280790,True,THIS GAME IS GREAT ADD MORE UPDATES AND ADD 2ND ONE PLZ THIS IS THE BEST GAME EVER IVE PLAYED! <S
-2015-11-01,404410,True,this game is amazing  in 3 days i just got all the systems! DOWNLOAD THIS NOW!!!!!!!!!!!!!!!!!!!!!!!!!!
-2015-11-01,342980,False,its fun but not so great it just have deawth zone thats it no safe zones also you need to do better then this it looks so bad dude
-2015-10-02,207140,True,i love this game so much diffrent maps so much fun :)
-2015-07-09,4000,True,man this game RULES THANKS GARRY
-2014-11-18,570,True,:/
+posted,item_id,recommend,sentiment_analysis
+2016-01-23,225840,True,1
+2015-12-23,224260,True,2
+2015-12-19,304930,True,2
+2015-11-14,280790,True,2
+2015-11-01,404410,True,2
+2015-11-01,342980,False,2
+2015-10-02,207140,True,2
+2015-07-09,4000,True,1
+2014-11-18,570,True,0

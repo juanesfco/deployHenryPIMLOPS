@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-01,218230,True,good game
-2014-07-09,304930,True,very good
-2014-03-25,261820,True,good
-2013-12-11,4000,True,good
+posted,item_id,recommend,sentiment_analysis
+2014-09-01,218230,True,2
+2014-07-09,304930,True,2
+2014-03-25,261820,True,2
+2013-12-11,4000,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2011-04-26,630,True,"Great game to add to your arsenal. If you're a fan of top down Amiga style clones, then you'll love this."
-2011-04-03,39120,True,2011 brings us the start of the new horizon of MMO's. Rift is immersive and polished. It takes custom cut-outs from your favourite MMO experiences and jams it into its own look. I'm compelled to waste time on this to look at end-game. Come join me if you wish.
-2011-03-06,34030,True,Did you name your little plastic toy soldiers like me? Then immediately after kill them horribly with a magnifying glass? They were victims of a total war.
-2011-03-06,24500,False,Shoot yourself in the face. It's much more exciting!
-2010-12-19,440,True,The most addictive game available since crack was invented for small children in the 1940's.
+posted,item_id,recommend,sentiment_analysis
+2011-04-26,630,True,2
+2011-04-03,39120,True,2
+2011-03-06,34030,True,0
+2011-03-06,24500,False,2
+2010-12-19,440,True,1

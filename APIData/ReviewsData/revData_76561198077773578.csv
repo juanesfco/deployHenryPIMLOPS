@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-30,208650,True,It seems to me like pretty much every PC specific problem has been fixed and at the reduced base price this game is an easy recommendation.#CityOfFear
-2016-02-11,412880,False,This game is a buggy mess that is nowhere near finsihed with very little content and limited to no controller support. Submitting my refund request now
-2013-01-17,207610,True,it will make you cry
+posted,item_id,recommend,sentiment_analysis
+2016-06-30,208650,True,1
+2016-02-11,412880,False,0
+2013-01-17,207610,True,1

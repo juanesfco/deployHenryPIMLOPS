@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-28,422970,True,"Its like Dark Souls and Doom decided to have sex and got impregnated, they decided to terminate the impregnation but the abortion failed and thus Devil Daggers was born!!!!10/10 Would play and break my keyboard again!!!"
-2014-01-25,203140,True,"This is an Amazing game one of the best in the series, which every game has been amazing though"
+posted,item_id,recommend,sentiment_analysis
+2016-02-28,422970,True,0
+2014-01-25,203140,True,2

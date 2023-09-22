@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-18,49520,True,Pony pooped out guns10/10
-2013-12-17,252490,True,Cool game. Definitely worth picking up even though its in alpha.
-2014-01-28,4000,True,Most addicting sandboxes out there. So many fun gamemodes to play and you will barely be bored while playing the game. Definitely worth picking up!
+posted,item_id,recommend,sentiment_analysis
+2014-07-18,49520,True,1
+2013-12-17,252490,True,1
+2014-01-28,4000,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-05,440,True,I Love this game! Epic Shooting along with great comedy. An Excellent game. All Should Play.
-2015-04-13,339800,True,"HuniePop is a unique sim experience for PC, Mac and Linux. It's a gameplay first approach that's part dating sim, part puzzle game, with light RPG elements, a visual novel style of presentation, an abrasive western writing style and plenty of 'plot'.Plot indeed my friends, plot indeed."
+posted,item_id,recommend,sentiment_analysis
+2014-06-05,440,True,2
+2015-04-13,339800,True,2

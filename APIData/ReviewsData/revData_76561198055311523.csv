@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-04-05,10150,True,I have no memories and I must kill.
-2013-12-29,221640,True,help i can't stop
+posted,item_id,recommend,sentiment_analysis
+2015-04-05,10150,True,1
+2013-12-29,221640,True,1

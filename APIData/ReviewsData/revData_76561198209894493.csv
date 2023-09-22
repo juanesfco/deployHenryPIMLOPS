@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-05-01,414390,True,NABOR NAGIBA + GOLD CARD XD
-2015-09-15,440,True,"MEEEEDIC, Medic, MMMEdic, кнопка E лучшая в задумке этой игры. мне всё понравилось но если вы играете одни она быстро надоедает, + в лицо с главного экрана тыкают мотивирующими картинками про магаз mann coo, а там прикольный шутерок)"
-2015-09-09,730,True,"поляки увидели что вы убили 4, но пошли сейвить, вас пытаются кикнуть.поляки увидели что вы стоите афк -> вы кикнуты.поляки услышали что вы русский -> вы в ♥♥♥♥♥♥♥♥е, позже кикнуты.поляки разговаривают между собой, вы вмешались, вас кикнут.так что лучше перед игрой сказать АЙМ ФРОМ ДЖЕРМАНИ и не говорить по русски вобще.лучший шутер до 2020 года"
-2015-08-03,271590,True,"Рекомендуете ли вы эту игру? тысяча чертей, да да рекомендую"
-2015-09-15,215530,True,Игра достаточно старенькая но так втянула провёл всю ночь было интересно 7/10 слишком хардкорная игра.
-2016-02-24,387990,True,Топчик
-2015-09-15,236110,True,Жду локализации ибо так не интересно
-2015-09-14,333930,True,Да рекомендую. 10-10 дробовиков и Эмок из крафта.
-2016-02-03,570,False,"DOTA 2.normal skill - 2ez for me>high skill - still 2ez, go harder>very high skill (2hard or harder - you do not like to play there, want fun , etc. You leave the game to receive complaints from the players , and then play on a low priority. after a few tricks you get the 'hidden pool' to play with the same people who leave the game just like you. ' Who are not able to play the ♥♥♥♥ing game,' you know? you play without mistakes , blah blah blah , do everything that depends on you , but ... @_@ kill youself if you leaving winnig games. p.s. Do not leave the game and do not play if you do not want to play , or upset than ever.Bad Game, ty Valve for this ♥♥♥♥ing hidden pool and low priority. GL"
+posted,item_id,recommend,sentiment_analysis
+2016-05-01,414390,True,1
+2015-09-15,440,True,2
+2015-09-09,730,True,2
+2015-08-03,271590,True,0
+2015-09-15,215530,True,1
+2016-02-24,387990,True,1
+2015-09-15,236110,True,2
+2015-09-14,333930,True,1
+2016-02-03,570,False,0

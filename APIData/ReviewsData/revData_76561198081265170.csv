@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-29,222730,True,its just.....beutifull **CRIES**
-2015-12-29,337320,True,"in this game you can be three types of people1. survivalists, who stratergise and conserve energy in the battlefield2. scrubs, who just dont know3. mass murderer, who will and want to kill every living thing that they seeand if your wondering what i think of this game its fantastic"
-2015-12-29,550,True,Lord Gaban has done very well
-2015-11-14,416640,True,it blows my mind that this game is more thrilling than tf2 by a very long way
-2015-05-16,242860,True,this is a pretty hard game for beginers but once you've got the hang of it it's extremly addicting and fun. it can be any type of game you want. you could defend offend or just be rambo and kill every enemy you see. i honestly highly recomend this game and i hope you will enjoy it
+posted,item_id,recommend,sentiment_analysis
+2015-12-29,222730,True,1
+2015-12-29,337320,True,0
+2015-12-29,550,True,2
+2015-11-14,416640,True,1
+2015-05-16,242860,True,1

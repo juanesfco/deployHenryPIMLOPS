@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-29,251570,True,Lovin' It!11/10
-2014-08-06,299860,False,"It looks great.It isn't great at all. ♥♥♥♥♥♥ NPC's, ♥♥♥♥♥♥ 'Sector' Compass Thing, ♥♥♥♥♥♥ everything.Honestly, The worst game I have played. Alpha or not."
-2014-09-28,8980,True,Better than most games of 2013 - 2014.11 / 10
-2014-09-28,49520,True,"You just can't get bored while playing this game, There is always to much to do. And replaying the storyline after completing the game is nearly as fun as the first time completing it, Because of the 100,000's of weapons to collect.11 / 10"
+posted,item_id,recommend,sentiment_analysis
+2014-03-29,251570,True,1
+2014-08-06,299860,False,0
+2014-09-28,8980,True,2
+2014-09-28,49520,True,1

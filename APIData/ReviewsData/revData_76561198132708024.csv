@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-05-02,298630,True,"It is a really great game and I recommend it, by the way you are going to e spending a lot of time playing this game!"
-2016-06-10,449140,True,very good hopefully you can add ranks
-2016-03-19,313120,False,theres nothing to work towards so i got bored really quickly and refunded the game... sorry
-2016-01-25,55140,False,"It is a good game but it is thw orst ever becasue they put boxes on the side of the track and thye dont move and ♥♥♥♥ your whole run up, pls fix or valve will sue for ♥♥♥♥♥♥ matirial!!!!"
-2016-04-02,437220,True,"Really Really fun, its a must get.YOU HAVE TO GET IT!!!"
-2015-05-23,730,True,"You really really have to fix the server and game file issue, because its extremely unfair to hand out 7 day bans to people that haven't done anything... Please Please Valve fix this issue."
+posted,item_id,recommend,sentiment_analysis
+2015-05-02,298630,True,1
+2016-06-10,449140,True,2
+2016-03-19,313120,False,0
+2016-01-25,55140,False,2
+2016-04-02,437220,True,2
+2015-05-23,730,True,0

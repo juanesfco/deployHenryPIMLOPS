@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-12-12,232090,False,I don't like thisit is better to go back to smoother L4D2 animations.
-2016-05-06,330840,True,7/10 pretty decent good story. it is long.
-2015-09-20,221910,False,It is a good game but obviously overpriced.
-2014-10-30,218620,True,"Hey, just had a look on those comments. Don't you guys know you don't have to buy the DLC maps if you wanna play on those maps with other online players? DLC maps let you to be the host and get some extra masks and guns, that's it."
-2015-11-17,377160,True,"Game of the Year. A step-up from Skyrim. I played Fallout NV but got bored after 30 minutes or so. I am not a Fallout fan, but definitely a skyrim fan.Can't say this new game is perfect. I expect a better UI and more interesting dialogue, but still fun7.5/10"
-2015-04-15,229580,False,still kind of rubbish after a year of release.
-2015-02-21,237970,False,"Creepy game, scare my heart out."
+posted,item_id,recommend,sentiment_analysis
+2015-12-12,232090,False,2
+2016-05-06,330840,True,2
+2015-09-20,221910,False,1
+2014-10-30,218620,True,1
+2015-11-17,377160,True,2
+2015-04-15,229580,False,2
+2015-02-21,237970,False,0

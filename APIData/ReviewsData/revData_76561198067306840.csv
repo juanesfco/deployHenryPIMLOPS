@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-30,4000,True,Preciso dizer algo?
-2014-03-30,109400,True,Joguinho legal pra jogar com os amigos :)
-2015-12-26,346110,False,"tenho os requisitos recomendados e laga pra krl , não recomendo :T"
-2015-11-19,311210,True,"Jogo louco , sinceramente um dos melhores cods que ja joguei , a galera está falando mal pois está muito 'futurista' , não está tanto , o jogo está ótimo , mais recomendo comprar após a optimização dos servers e do jogo , pois em muitos computadores está rodando a 25 fps , nessa faixa. recomendo"
-2013-11-30,240,True,"JOGO MUITO BOM,RECOMENDO"
+posted,item_id,recommend,sentiment_analysis
+2015-09-30,4000,True,1
+2014-03-30,109400,True,2
+2015-12-26,346110,False,0
+2015-11-19,311210,True,1
+2013-11-30,240,True,2

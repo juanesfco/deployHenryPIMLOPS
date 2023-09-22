@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-05,230410,True,"Amazing game, love the quests, so good for a free game."
-2016-03-24,377160,True,"My most liked game ever, better than any of the other fallout games by far :)"
+posted,item_id,recommend,sentiment_analysis
+2016-03-05,230410,True,2
+2016-03-24,377160,True,2

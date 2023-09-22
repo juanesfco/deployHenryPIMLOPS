@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-11,252490,True,Legacy works really well love playing with friends but one small thing is constly getting killed but meh can move past it after a while
-2015-01-11,9480,False,This game ran like sh#t it was not opmized well for pc even the best of the best pcs cant run this :(
-2015-01-11,440,True,Love the game so much its such a fun FPS the game modes are so fun and the games ingame items just make the game alot better
+posted,item_id,recommend,sentiment_analysis
+2015-01-11,252490,True,1
+2015-01-11,9480,False,2
+2015-01-11,440,True,1

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-03-16,377160,False,"90% of Quests in fallout 4:'Hey can you help me pls'No YesSarcasmMaybe'Okay good! kill alot of raiders!'[kills alot of raiders]'Cool, but now you gotta kill a bunch of feral ghouls'Yes no WHERES MY SoNN?????!!1111Sarcasm[kills ghouls]'Okay, cool but now you have got to kill a bunch of Super mutants!'Wheres my son u ♥♥♥♥♥ fagGimme more caps ♥♥♥♥nosarcasm[kills super mutants]'ok here is some caps'I lost mah son );YesOkay Sure[quest ends, starts new quest]'Hi can you kill some ghouls?'Thus it repeats1/10"
-2015-11-05,219740,True,I literally killed a giant tree person with a bat made of Ham 100/10
-2015-06-24,420,True,Incredibly action packed and amazingly fun.  This makes me wait for half life 3/ half life 2 episode 3.
-2015-06-24,220,True,"Incredibly intense, Action packed as hell, Great story, Amazing and likeable characters, amazing level design and overall incredibly fun to play. This serves as a perfect successor to the orginal half life."
-2015-06-24,70,True,"Despite the outdated graphics, Half Life is a pure fun and challenging game, It will keep you entertained for hours. I recommend that you play it to the very end."
-2016-03-16,22380,True,"Best fallout game.Every quest is original, Its extremely fun and the story is great. Loved the amount of choice in quests, really does feel like an rpg."
-2015-06-24,380,True,Serves as more of a continuation of the story. But that doesn't stop it from being incredibly fun.
+posted,item_id,recommend,sentiment_analysis
+2016-03-16,377160,False,2
+2015-11-05,219740,True,1
+2015-06-24,420,True,1
+2015-06-24,220,True,2
+2015-06-24,70,True,1
+2016-03-16,22380,True,2
+2015-06-24,380,True,2

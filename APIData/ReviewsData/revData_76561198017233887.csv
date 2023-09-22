@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-28,242920,True,"This game is kinda reminds me of Stronghold. Just started off, but the tutorial is kind of overwhelming, you'd probably only get the hang of the game AFTER playing the actual playthrough. So far I love it, it's been the kind of game I've been waiting for in ages. It's like Age of Empires with SimCity in one nice combination. So far, very happy."
-2014-07-24,242700,True,"Recommended to play with controller, playing on PC hurts hand."
+posted,item_id,recommend,sentiment_analysis
+2015-11-28,242920,True,2
+2014-07-24,242700,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-16,730,True,It good
-2013-12-19,440,True,Best Free Game! I love it! xD
-2013-01-18,57690,True,Love this game to bits! One of my favorite games! <3
+posted,item_id,recommend,sentiment_analysis
+2015-06-16,730,True,2
+2013-12-19,440,True,2
+2013-01-18,57690,True,2

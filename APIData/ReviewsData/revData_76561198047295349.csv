@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-11-27,390390,True,yes
-2015-03-17,730,True,"10/10 quality game, an emotional rollercoaster that kept me on the edge of my seat the entire time. I laughed, I cried, I learned 42 new ways to season and cook a pork shoulder. Truly a new standard has been set that all future games will be held in comparison to."
-2014-07-14,220200,True,"Brilliant Game, as good as it looks. I have played for 40 hours and there are still features I haven't used, this game is A+++"
-2014-11-06,265930,True,"42/6.2 - Well, its a Goat. Simulator, so yeah thats it"
-2014-12-22,236390,True,Bloody Brilliant
-2015-01-05,221680,True,"Brilliant sequel to the original game, absolutly enjoy all the songs, the tuner's a bit out of whack to say the least, so use your own for that partApart from, brilliant game"
-2014-12-18,15560,True,AaaaaaaaaAAAaaaaaaaaAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!
-2014-02-16,55230,True,PLAY WITH MEH
-2013-12-18,17080,True,"get, it NOW"
-2013-12-07,105600,True,buy nownow
+posted,item_id,recommend,sentiment_analysis
+2015-11-27,390390,True,1
+2015-03-17,730,True,1
+2014-07-14,220200,True,2
+2014-11-06,265930,True,1
+2014-12-22,236390,True,1
+2015-01-05,221680,True,2
+2014-12-18,15560,True,1
+2014-02-16,55230,True,1
+2013-12-18,17080,True,1
+2013-12-07,105600,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-21,226700,False,"No i wouldnt recommend this game, its the biggest hunk of ♥♥♥♥ ive ever played"
-2013-12-24,221100,True,Great game so much better than the origional mod i really like what theyve done to it and look forward to seeing it evolve over time into beta
-2013-12-10,224580,True,"great game stopped playing though untill standalone, as there was too many bugs however the standalone looks promosing i just wich dean hall would give us some insight on the release date but hes gone completely silent wich i guess is a hint maybe..."
-2013-08-24,209870,True,great game but if you dont play for a while then come back to it you get pwned
-2012-11-06,17080,True,THIS DAM GAME IS SEXY
+posted,item_id,recommend,sentiment_analysis
+2014-04-21,226700,False,0
+2013-12-24,221100,True,2
+2013-12-10,224580,True,2
+2013-08-24,209870,True,2
+2012-11-06,17080,True,1

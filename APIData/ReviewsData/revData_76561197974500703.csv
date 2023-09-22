@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2012-07-15,8980,True,"An FPS that is somewhat Rogue-like. Some glaring issues with multiplayer, and a not-quite-right balance to the quality of loot, when I played it originally at least, lead me to pass it off as not great.Playing some co-op recently it was still passable."
-2012-06-17,31270,True,"A solid puzzle game with a strong, albeit wierd, theme.No replay value."
-2012-06-17,113200,True,"For a game that resets and randomises everytime you play, it has a suprising amount of persistence and skill.The items you find make for very different attempts and the sheer number and variety is great. Over several tries you get further and further as you learn the patterns to defeat each enemy, while also earning achievements that add more items to possibly spawn or unique characters to play as.A fantastic game that I highly recommend on the provision that you watch the trailer for it. The theme is well done, but not for everyone."
-2012-01-28,8190,True,"If you play this sandbox explosion-simulator you will clear 3 main story missions, then get distracted by stronghold attacks and the addiction to completely clear every village or military base you come across. This is not a bad thing.An excellent game for when you want to play something and get a sense of accomplishment but don't want to spend hours."
-2012-01-28,43000,True,"This is the best currently available Mech game for the PC that I know of. If you are a fan of the customisable-robot shooter genre and can't wait for the release of Hawken or Mechwarrior Online, then this is a solid game. But not the multiplayer. The Co-op survival DLC is fun, but limited to 2player, the standard online is rubbish."
-2011-12-27,18700,False,"I don't recommend this game.For a game that lets you flip which direction gravity works in you'd expect there to be good puzzles. Instead there's some okay ones every now and then, and the majority of the game is mediocre platforming made frustrating as the fall height for 'falling to death' is barely more than your jump."
-2011-12-20,98800,True,"A solid rogue-like with a huge range of character types to mess around with. It can take more than a few tries to find a build that works, and to learn the tricks to each level of the dungeon but there's some real satisfaction in getting past your last death."
-2011-12-20,107100,True,"An excellent platforming shooter. Good artwork, soundtrack and plot, and good pacing, mixed with a broad spread of weapons with no obvious 'best' pairing. The 3/4 viewpoint does take some getting used to, and you do get used to it, expect to fall off a lot of cliffs until you do."
-2010-12-28,630,True,A class-based top-down Left 4 Dead that's completely free to play. If you're looking for a game for 3-4 people to play together (or 2 very stubborn/skilled players) then this is worth a look.
-2010-12-28,57300,True,"'Stay in the light, don't be seen, don't listen to the voices, stay in the LIGHT, don't look at the cor- no nononono! Don't be seen, don't make any noise, don't look at the...'"
+posted,item_id,recommend,sentiment_analysis
+2012-07-15,8980,True,0
+2012-06-17,31270,True,1
+2012-06-17,113200,True,1
+2012-01-28,8190,True,1
+2012-01-28,43000,True,2
+2011-12-27,18700,False,1
+2011-12-20,98800,True,1
+2011-12-20,107100,True,2
+2010-12-28,630,True,1
+2010-12-28,57300,True,2

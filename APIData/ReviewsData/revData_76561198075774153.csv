@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-23,316430,True,NICE GAME SO NICE I LOVE IT PLAY MORE PLAY MORE!! BUY BUY BUY THIS GAME BUY BUY BUYYY!
-2014-09-04,34030,True,Muito bom so n recomendo q baixem mods para ele
-2014-08-25,242860,True,Gostei Muito tem boa jogabilidade cenarios incriveis A ideia de objetivos foi criativa e é diversao joga o jogo
-2014-05-27,200210,False,123445678
+posted,item_id,recommend,sentiment_analysis
+2015-05-23,316430,True,2
+2014-09-04,34030,True,2
+2014-08-25,242860,True,2
+2014-05-27,200210,False,1

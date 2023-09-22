@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-25,239220,True,fun and good
-2015-01-21,230410,True,i like it becuase the amaziningness of it
-2015-01-12,209080,True,Guns of icarus is a really awesome game where you in balloon floaty things shooting other balloon floaty things.I really enjoy playing this game
-2014-08-08,206500,True,Transformers and halo wars combined to make dis badass game. good job designers
+posted,item_id,recommend,sentiment_analysis
+2015-01-25,239220,True,2
+2015-01-21,230410,True,1
+2015-01-12,209080,True,1
+2014-08-08,206500,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-06,240,True,"Oh, where do I start with this game. If I could say one word for this game it would probably be.... Amazeballs! The way you feel while playing this FPS teambased game is so different from any other. This game was one of my first paid games and I will never regret it, it has made me grow in my FPS gaming skills.Score: 10/10-MC Digby The 1337th"
-2013-12-31,730,True,Best game to play competitive and amazing for people who want to grow there skills with FPS games10/10
-2016-01-05,570,True,ehh
-2012-10-20,209870,True,LOVE IT YOU BETTER TOO
-2012-07-15,440,True,This game is my favourite shooter on the PC I give it 10/10 Get it :D
+posted,item_id,recommend,sentiment_analysis
+2015-07-06,240,True,0
+2013-12-31,730,True,2
+2016-01-05,570,True,1
+2012-10-20,209870,True,2
+2012-07-15,440,True,2

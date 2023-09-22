@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-27,299360,True,The game is perfect. Despite some problems.
-2016-06-11,4000,True,"I play this game for 2 years.So I can say a perfect game, full of modes, multiplayer..."
-2016-07-22,242050,True,Of all the Assassin's Creed  is the best.
-2016-07-22,10,True,"I like to repeat  classic style of Counter Strike, so-called first version of Counter Strike."
+posted,item_id,recommend,sentiment_analysis
+2016-03-27,299360,True,2
+2016-06-11,4000,True,2
+2016-07-22,242050,True,2
+2016-07-22,10,True,2

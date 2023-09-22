@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-16,393420,True,"I 100% reccomend this game. Althought I see everyone complaining about hackers, I am yet to encounter a single one of them. One of my only quams is how god damn difficult it is to get a gun. I mean really, it's good but bad. No gun = all out arrowfest, pretty funGun = Slaughtering the all out arrowfest. 10/10. Very polished game."
-2015-02-18,51100,True,"Tactical intervention is the lovechild of Battelfield hardline, And CS:GO. I've seen so many negative reviews, but I think it's an outstanding game. I only have a few beefs with it: - It's difficult to find Australian servers (And the Asian servers, which are the least laggy, have next to no players).- The maps when you're in high speed car chases, just aren't big enough, there's not enough room for you to move around.The potential is there, and they've certainly tried to use it. I do reccomend this game, 7/10 from me. It's good, but there is plenty of room for improvement."
-2014-04-28,252490,True,"Rust is extremley fun. Aside from all the random killers who don't play it properly, I reccommend this game to ANYONE who doesn't mind seeing naked men walking around :)"
+posted,item_id,recommend,sentiment_analysis
+2015-12-16,393420,True,0
+2015-02-18,51100,True,1
+2014-04-28,252490,True,1

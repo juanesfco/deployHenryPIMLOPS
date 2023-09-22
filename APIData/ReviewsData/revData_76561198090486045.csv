@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-26,252490,True,Broke in to someones house and killed them with a rock. cut them up with a hatchet and cooked there meat and ate it. 20 min later i did the same thing in rust
-2014-06-23,620,True,http://stemem-cards.com/♥♥♥♥♥♥♥12f51d click the link and make sure you buy this game it has infinite levals
-2014-04-09,223470,True,someone make a mod so that you play online free roambecause that would make the game a millon times better
-2014-03-17,12210,False,steam or  rockstar needs to fix this game i try to play it but it never opens  i have no idea how to fix it but i hope they do
+posted,item_id,recommend,sentiment_analysis
+2016-05-26,252490,True,1
+2014-06-23,620,True,1
+2014-04-09,223470,True,2
+2014-03-17,12210,False,0

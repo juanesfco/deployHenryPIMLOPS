@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-07-07,570,True,"This game makes you salty, enter at own risk."
+posted,item_id,recommend,sentiment_analysis
+2014-07-07,570,True,1

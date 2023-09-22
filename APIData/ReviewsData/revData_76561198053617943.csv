@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-09,72850,True,Hands down my favourite game ever!!! 11/10
-2014-06-23,203160,True,Great graphics and amazing storyline 10/10
-2014-03-11,242920,True,Addicted 10/10
-2014-02-07,252490,True,"Built a house, my friend moved in kill things with weird guns. Awesome, game rocks."
+posted,item_id,recommend,sentiment_analysis
+2015-12-09,72850,True,0
+2014-06-23,203160,True,2
+2014-03-11,242920,True,0
+2014-02-07,252490,True,1

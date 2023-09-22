@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-08-30,388520,False,"IF I SPENT 60 EUROS FOR A GAME, I DONT WANNA PLAY VS. CHEATER KIDS !!!"
-2014-10-21,224600,True,"Defiance is a great Sci-Fi MMO, where you can find many Sci-Fi Fans. You can watch the Defiance Season on TV too.  There are no Differents between the Game and the Movie. Just amazing stuff. Take a look at this Game. You will like it ;-)"
-2014-06-06,213850,True,Great Game. Dont forget to play it ;-)
-2014-05-28,107410,True,"If you have played 'Arma 2: Free', you wil love this new Version 'Arma 3' of the Military Game Series from the Developer and Publisher 'Bohemia Interactive'.This Game combines Action, Simulation and Strategy. You can play as Single Player, Co-Op, and Multiplayer. Its just a great Game. Dont miss it ;-)Real Soldiers can use this Game very good for simulated Training."
-2014-05-28,70000,True,Dinos meets Nazis ;-)
-2014-05-28,104900,True,Action and Adrenaline pur ;-)
-2014-05-28,215470,True,"Roar !!! ;-) If you like Dinos, Jurassic Park and Teamwork, you will love this Game."
-2014-05-05,234330,True,This Game is good for your Brain and makes Fun ;-)
-2013-12-14,570,True,This Game makes Fun. Just take a look ;-)
-2012-12-31,218230,True,Zurecht hat dieses Spiel den Titel 'Bestes Multiplayerspiel 2012' gewonnen. ;-)
+posted,item_id,recommend,sentiment_analysis
+2015-08-30,388520,False,0
+2014-10-21,224600,True,2
+2014-06-06,213850,True,2
+2014-05-28,107410,True,2
+2014-05-28,70000,True,2
+2014-05-28,104900,True,2
+2014-05-28,215470,True,2
+2014-05-05,234330,True,2
+2013-12-14,570,True,1
+2012-12-31,218230,True,2

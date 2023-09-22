@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-13,405820,True,"Ahhh, my childhood. If Turok 2 doesn't get Re-Released like this, i will be a very sad man."
-2015-02-14,620,True,Buy it.Buy it now!!
+posted,item_id,recommend,sentiment_analysis
+2016-08-13,405820,True,0
+2015-02-14,620,True,1

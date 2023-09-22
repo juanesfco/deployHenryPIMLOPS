@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-27,433850,True,"Para empezar BUENA la wea, lo esencial es el modo que tiene el cual si mueres gg partida, y tambièn para poder llegar al final tienes que mejorar constantemente,  bueno eso espero que te sirva WEON CULIAOOO"
-2016-02-10,295110,True,"Bueno para empezar el juego es muy bueno en cuanto a lo que se espera, pero la optimizacion no es de lo mejor, lo cual lo mejoraran en el futuro. 100% recomendable si tienes buena pc"
+posted,item_id,recommend,sentiment_analysis
+2016-03-27,433850,True,1
+2016-02-10,295110,True,2

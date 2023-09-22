@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-26,228940,True,just like blurrrrrrrrr
-2014-03-07,49470,True,awesome so much time and lobe it the best magic game l feels
-2014-10-02,255420,True,do l recommend this game hellz yeah just learn the mechics and away you go...♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2014-07-26,228940,True,1
+2014-03-07,49470,True,2
+2014-10-02,255420,True,0

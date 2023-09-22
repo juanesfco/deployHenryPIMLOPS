@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-07-21,17520,True,It's great! Works like a charm!
-2016-06-11,4000,True,▲▲xa0▲I can't triforceBut I can play Gmod so it's all good
-2016-06-08,234390,True,"Bloody, horribly, and cruelly difficult. Then you get to the second level."
-2015-07-13,329130,True,Made a d*ck of deathGot painfully destroyed by a purple d*ck of death11/10 would make space d*cks again
-2014-04-07,212680,True,This game is great. I play it all the time and with the new (and suprisingly free) advanced edition that could well be a pricy DLC maks the game just pure awesomesause. Perfect for any space fan.
-2014-01-05,220200,True,Great!
+posted,item_id,recommend,sentiment_analysis
+2016-07-21,17520,True,2
+2016-06-11,4000,True,2
+2016-06-08,234390,True,0
+2015-07-13,329130,True,0
+2014-04-07,212680,True,2
+2014-01-05,220200,True,2

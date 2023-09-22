@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-26,206210,True,"I like this game, it had great potential, but when the developers ignored it, it just lost its touch, what sucks is the internet connection, the fact that people ONLY play deathmatch and theres a fair ammount of bugs and glitchs, but overall, its fun and similar to Team Fortress 2, i hope valve will one day come into it and fix this game...before its all ogre."
-2014-05-17,208090,True,"Dis game is tf2, except ALL bout dah gunz, oh and some hats but mainly guns. 69/100, helga not secksy enough :3"
+posted,item_id,recommend,sentiment_analysis
+2014-10-26,206210,True,2
+2014-05-17,208090,True,1

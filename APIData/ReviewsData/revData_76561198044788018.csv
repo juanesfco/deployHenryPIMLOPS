@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-01-23,570,True,Joogo mt bom
-2011-10-07,440,True,Adoro esse jogo recomendo a todos!!!! :D        :P
-2015-02-14,250900,True,:0
-2015-07-07,730,True,Boa jogabilidade e bons graficos perfeito para pessoas como o Luan.
-2015-07-16,104900,False,Muito ruim devia ser de graça
+posted,item_id,recommend,sentiment_analysis
+2013-01-23,570,True,1
+2011-10-07,440,True,2
+2015-02-14,250900,True,1
+2015-07-07,730,True,2
+2015-07-16,104900,False,0

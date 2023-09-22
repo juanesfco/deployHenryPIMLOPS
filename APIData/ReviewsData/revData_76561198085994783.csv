@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-29,220,True,This is a great game! It is so awesome and the graphics are AMAZING!!! GO GET IT! GO PLAY IT! GO ENJOY YOURSELF!!!
-2013-11-25,212800,True,Awesome!
-2014-04-03,204300,True,Its a good game for all ages. The gameplay is very fun and I recomend you to play it!
-2014-06-15,222900,False,"Not really a good game, its pretty boring and I wish there were more game modes. Its overpriced and has some bugs that need fixing. It still has a good gameplay but I wish it was better. In conclusion its a 4.5/10"
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,220,True,2
+2013-11-25,212800,True,2
+2014-04-03,204300,True,2
+2014-06-15,222900,False,1

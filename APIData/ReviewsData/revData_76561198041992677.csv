@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-29,440,True,Its ok
-2014-05-11,215510,False,"A very odd title, this game looks as though it is marketed towards a younger audience however has violent themes out of the way puzzles and infuriating diffuclty spikes. I recommend not getting this"
-2014-05-11,204300,False,"This is a very decent looking game marketed to the younger audience, however the difficulty on the bots is set to the base of hacker level"
+posted,item_id,recommend,sentiment_analysis
+2015-12-29,440,True,2
+2014-05-11,215510,False,0
+2014-05-11,204300,False,0

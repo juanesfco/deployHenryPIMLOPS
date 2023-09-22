@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-10-25,105600,True,get it
-2014-05-23,221100,True,i find a zombie attacking water lol
-2016-02-06,218620,True,10/10
-2016-06-22,391540,True,One of the best game games I'v ever play 10/10
-2013-10-25,218310,True,it is a good game
+posted,item_id,recommend,sentiment_analysis
+2013-10-25,105600,True,1
+2014-05-23,221100,True,2
+2016-02-06,218620,True,1
+2016-06-22,391540,True,2
+2013-10-25,218310,True,2

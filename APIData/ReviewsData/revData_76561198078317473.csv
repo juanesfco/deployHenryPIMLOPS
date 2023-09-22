@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-09,304930,True,We sniffed glue till we were highWatch friends turn into hipstersIGN 11/10 would turn hipster again
-2014-01-18,251570,True,vRY ADDICTIVE SADLY ONLY COULD PLAY IT THRICE A YEAR WHEN I GO TO MALAYSIA SO SAD :'(
-2015-09-08,265610,True,Would die to an ice  turtle again -IGN 10/10
-2014-03-07,440,True,Dont Ask.Just Download
+posted,item_id,recommend,sentiment_analysis
+2015-11-09,304930,True,1
+2014-01-18,251570,True,0
+2015-09-08,265610,True,1
+2014-03-07,440,True,1

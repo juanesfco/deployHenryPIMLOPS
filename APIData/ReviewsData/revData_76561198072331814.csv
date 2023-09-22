@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-24,94000,False,If I wanted to get stood up I would ask a girl out in real life
-2014-01-01,8930,True,10/10 its okay
-2013-03-08,55230,True,This game is a realistic experience of where the hood at
+posted,item_id,recommend,sentiment_analysis
+2015-12-24,94000,False,2
+2014-01-01,8930,True,2
+2013-03-08,55230,True,0

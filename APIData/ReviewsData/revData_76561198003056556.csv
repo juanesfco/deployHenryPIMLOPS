@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-09,432020,False,Do you want A date with Palmela Handerson?Or like to Wrestle the eel?Well this game is not for you.10/10 would not play againWhy is there achievements? I thought there would only be one goalDamn cat get out of my room!!!
-2014-08-15,233720,True,Do whatever you like but just dont use a screwdriver to take apart the ribcage
+posted,item_id,recommend,sentiment_analysis
+2016-01-09,432020,False,0
+2014-08-15,233720,True,1

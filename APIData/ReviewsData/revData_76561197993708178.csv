@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-01,360,True,"Great multiplayer game, play it!"
-2015-04-27,271590,True,its ok
-2014-11-28,220240,True,best
-2013-11-27,4000,True,"Great game, would recommend you to play this awesome game, great game to make a screenshot. 10/10 would play."
-2014-03-19,10,True,One of the best childhood games i have ever played! 10/10 !
-2015-09-19,570,True,♥♥♥♥ ina me mid bobo
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,360,True,2
+2015-04-27,271590,True,2
+2014-11-28,220240,True,2
+2013-11-27,4000,True,2
+2014-03-19,10,True,2
+2015-09-19,570,True,0

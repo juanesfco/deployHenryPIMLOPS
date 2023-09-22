@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-12-23,405170,False,"Eh. The car can't be customised and the parts are exclusive to the car.If you like BTTF, then by all means buy this.I just bought it so I have everything."
-2015-10-30,413850,True,O-Scopes
-2016-01-30,208090,False,"I loved you like a son.Why did you forsake me, Loadout?I paid $20 bucks for the launch pack."
-2015-06-25,730,True,Matchmaking simulator 2015aka Operation Bloodhound.Worth the wait.
-2014-12-22,620,True,May or may not contain cake.10/10 best cake simulator there is.
-2014-01-12,211820,True,"This game may be in early beta, but it is still awesome to play, glitches and all"
+posted,item_id,recommend,sentiment_analysis
+2015-12-23,405170,False,1
+2015-10-30,413850,True,1
+2016-01-30,208090,False,2
+2015-06-25,730,True,1
+2014-12-22,620,True,2
+2014-01-12,211820,True,2

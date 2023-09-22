@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-05,105600,True,yes
-2015-04-26,570,True,Nice Game And Well Play
-2015-01-26,304270,True,i can't play
-2013-12-27,550,True,thnak you game is free !
-2013-12-20,440,True,เยี่ยมมมมมมมมมมมมมมมมมมมมมมมมมมมมมมมมมมrock
+posted,item_id,recommend,sentiment_analysis
+2013-12-05,105600,True,1
+2015-04-26,570,True,1
+2015-01-26,304270,True,1
+2013-12-27,550,True,1
+2013-12-20,440,True,2

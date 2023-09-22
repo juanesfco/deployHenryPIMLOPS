@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-12-08,328830,True,"RUTM is still a good game regardless of the negative reviews. It is far better than PRM.Sure, I agree with most of the previous comments, but its is a fair first game effort. Its not as polished to FM standards yet. But if the developers listen to Rugby gamers, it will surely improve with patches..Don't allow these negative comments stop you buying this game. You won't regret getiing a dud.I'd recommend this game to any serious Rugby fan."
-2016-06-08,394360,True,"In Hearts of Iron 3, I was fighting its cumbersome interface.In Hearts of Iron 4, I'm fighting the Nazis!Superb game."
-2014-12-27,216260,False,"WARNING:You need a permanent connection online to play this game. There are also problems when connecting, even when your firewall is disabled. The developers say its a piracy issue but people without a permanent online connection will be tempted to download the pirated version to play single player mode. So read the fine print before purchasing this game.The game is superb when getting it to play though. Its very realistic with many user options and features."
-2015-02-13,271240,False,WARNING about purchasing OTC. The game requires a permanent internet connection and login to Steam to play.This will only encourage people to download pirated versions to play the single player campaign.
-2016-06-11,255710,True,Its a lot better than the latest superficial SimCity(2013)Superb game.
-2015-10-26,233450,True,Superb prison building and  management game. Highly recommended
-2014-12-07,239820,True,This is a game that should be installed in every gamers PC.Its all about gaming!
+posted,item_id,recommend,sentiment_analysis
+2014-12-08,328830,True,1
+2016-06-08,394360,True,0
+2014-12-27,216260,False,2
+2015-02-13,271240,False,0
+2016-06-11,255710,True,2
+2015-10-26,233450,True,2
+2014-12-07,239820,True,0

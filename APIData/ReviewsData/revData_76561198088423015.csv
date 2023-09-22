@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-04-17,252490,True,"This game, even in beta, is an incredibly well designed and with friend can an amazing experience. The game stays true to the 'survival at any costs' theme and very quickly becomes a race through the ranks until you achieve real weapons such as pistols and M4's"
-2014-01-10,12210,True,meh
-2014-11-15,218620,True,Payday 2 is probably one of the best games I have played in a very long time.
-2014-06-20,104900,False,"This game is worse than hitler,Every comment made in the trailer was written by devsNever buy this game ever. I made a horrible mistake buying this. It quite frankly sucks.Every mechanic in this game was stolen from larger more sucessful companies.This is one of the most disgusting excuses for a game i have ever seen, and i have played COD Ghosts0/10"
-2014-06-20,4000,True,I killed myself with a flying fridge10/10
-2014-03-15,12200,True,"Bully is GTA without the drugs, the sex, the deadly weapons or the murder. However, Bully is in its own right a great game. The minigames are fun and exciting and there is always something to do. The character, Jimmy Hopkins can be customized into the type of person you want him to be and no matter what choice you make the story will always look new and fresh. If you havent already, do yourself a favour and buy this game."
-2014-02-21,49520,True,"Great Gameplay, Hilarious Dialouge and Gameplay that never gets old, Totally worth every penny"
+posted,item_id,recommend,sentiment_analysis
+2014-04-17,252490,True,2
+2014-01-10,12210,True,1
+2014-11-15,218620,True,2
+2014-06-20,104900,False,0
+2014-06-20,4000,True,0
+2014-03-15,12200,True,2
+2014-02-21,49520,True,2

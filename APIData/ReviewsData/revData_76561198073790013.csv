@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-25,298110,True,"So after trying for aboult half an hour to change my video settings with the game crashing everytime I changed a single setting, I finally managed to play the game. It was fun.... foooor the first 80 minutes before it crashed for NO ♥♥♥♥ING REASON then crashes everytime I LAUNCH THE ♥♥♥♥ING GAME.The game itself is great but really GET YOUR ♥♥♥♥ TOGETHER UBISOFT. The WORST company to ever make games, especially towards PC community ._."
-2014-02-16,250600,True,Saddest game ever ;c
+posted,item_id,recommend,sentiment_analysis
+2014-12-25,298110,True,1
+2014-02-16,250600,True,0

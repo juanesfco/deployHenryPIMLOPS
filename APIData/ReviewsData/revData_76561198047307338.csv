@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-23,204300,True,bom bom ^^
-2014-04-21,200210,True,Muitoo Bom Msmo Passei Hora Jogando a Fio Concerteza Recomendoo =D
+posted,item_id,recommend,sentiment_analysis
+2014-12-23,204300,True,2
+2014-04-21,200210,True,2

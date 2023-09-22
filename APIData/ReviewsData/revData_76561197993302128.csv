@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-02,273350,True,"great game will be buying it for sureThis is one of the best games i have ever brought,looking forward to playing many many hours of this incredible game :)"
-2014-11-06,209650,True,great game and awesome graphics
-2015-08-28,388520,True,"really have enjoyed playing the Beta,looking forward to release of the game."
-2014-10-18,226580,False,This was the biggest waste of money i've spent on a game.
-2014-04-12,208090,True,Great game
+posted,item_id,recommend,sentiment_analysis
+2014-11-02,273350,True,2
+2014-11-06,209650,True,2
+2015-08-28,388520,True,1
+2014-10-18,226580,False,0
+2014-04-12,208090,True,2

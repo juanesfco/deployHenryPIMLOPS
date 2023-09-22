@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-15,24240,True,♥♥♥♥ you HAEAAAAAT STREET
-2014-02-18,47890,True,So much fun :)
-2014-09-28,216250,True,"Fun.Buggy, but Fun.I would reccommend this game if you're buying it for 20 dollars or less."
+posted,item_id,recommend,sentiment_analysis
+2013-12-15,24240,True,1
+2014-02-18,47890,True,2
+2014-09-28,216250,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-16,265770,False,Deberian sacar este juego de la galeria de steam no hay nadie jugandolo.....
-2015-07-28,1930,True,"Muy recomendado, tiene sus errores pero tiene una historia bastante buena y variada, claro hay que tomar deciciones maso menos correctas y convenientes para seguir con el juego.Una cosa, una vez matas a algun NPC que te de una mision creo por lo que juge no puedes seguir parte de la Historia si este era importante para desbloquear parte de la misma. Es un juego viejo pero tiene como defenderse. el PvE es un poco dinamico pero suficiente como para derribar a tus enemigos o que te derriben si te rodean o realizas un paso en falso.-"
-2015-06-20,238460,True,bastante divertido el juego aunque en el co-op no hay mucha gente.
+posted,item_id,recommend,sentiment_analysis
+2016-02-16,265770,False,0
+2015-07-28,1930,True,1
+2015-06-20,238460,True,0

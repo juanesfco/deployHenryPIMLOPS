@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-06-30,404011,True,It's good
-2016-08-28,396650,True,It's good
-2016-06-12,330830,True,10/10. Stunning Work
-2015-11-06,239140,True,Great game
-2015-05-19,241930,True,Great game
-2014-05-22,48700,True,"Love this game. It has endless replay value, especially with the tons of mods you can get for it."
+posted,item_id,recommend,sentiment_analysis
+2016-06-30,404011,True,2
+2016-08-28,396650,True,2
+2016-06-12,330830,True,2
+2015-11-06,239140,True,2
+2015-05-19,241930,True,2
+2014-05-22,48700,True,1

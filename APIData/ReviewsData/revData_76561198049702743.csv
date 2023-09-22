@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-01,105600,True,Amazing. No doubt the best 2D Adventure survival game i have ever played. Worth it.
-2015-01-17,313340,True,Its a dollar.
-2013-12-29,221910,True,"I would definatly recomend this game, but its far too short, i would've liked to see more detailed put into the game, but definatly a short bit of fun when you want it."
+posted,item_id,recommend,sentiment_analysis
+2014-05-01,105600,True,2
+2015-01-17,313340,True,1
+2013-12-29,221910,True,2

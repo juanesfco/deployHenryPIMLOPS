@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-07-27,222900,True,its good but the controls need fixing
-2014-10-05,225420,True,10/10 like simcity with  trains
-2014-10-05,257890,False,dont buy this not worth your money
-2014-11-06,283290,True,this game gave me lukemia a little bit
-2014-11-03,234390,True,reminds me of an atari game
-2014-10-30,292630,False,its suck not worth your money find a desent indie game that is alot of fun
-2014-07-03,291480,False,lags alot
-2014-06-29,72850,True,game of the year
+posted,item_id,recommend,sentiment_analysis
+2014-07-27,222900,True,2
+2014-10-05,225420,True,1
+2014-10-05,257890,False,0
+2014-11-06,283290,True,0
+2014-11-03,234390,True,0
+2014-10-30,292630,False,1
+2014-07-03,291480,False,1
+2014-06-29,72850,True,0

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-05-23,226700,False,"♥♥♥♥ing horrible, like 3 or 5 servers and you get disconected after 10 minutes. Dont waste your money on this. Jesus i regret this."
-2016-01-16,349700,False,"HORRIBLE GAME, 90% OF THE MAP IS FULL OF NOTHING DONT WASTE YOUR TIME, TRUST ME."
-2016-08-31,113400,False,Horrible
-2016-07-04,209870,False,"BY FAR THE WORST FPS EXPERIENCE I EVER HAD, PAY2WIN AND NO SERVERS."
-2014-12-22,99900,True,Beauty 9/10Gameplay 9/10Cool stuff 10/10Style 10/10Price 10/10Weakness: camera angles
-2016-09-10,730,False,"This game if ♥♥♥♥ing broke, you will get ♥♥♥♥ing angry playing this ♥♥♥♥, i've hit 3 shots in a row with the awp in the middle of the CT's chest, and when i walked away i got ♥♥♥♥ing teleported back to where i was and died, ♥♥♥♥ING FIX THIS ♥♥♥♥!"
-2016-07-28,295110,False,"Not cool at all.Horrible PVP, since there are not much servers, you can fight a chinese guy when ur from Africa, and many other incredibly combinations, and 90% of the time your weapon is gonna be a bow, making it literally impossible.Looting is not worth many times, there are lots of places to search, but you may end looting a whole building and end up finding Ground Coffe. Ammo is a joke, super rare to find, and when you finnaly find them they are in like 1 or 2 bullets, and you cant craft them.Some of the updates only ♥♥♥♥ the game even more, removing some craftable items that are impossible to get or making them way harder to make.And honestly, wy the ♥♥♥♥ an ALPHA game as a ♥♥♥♥ing crate system that contains items that are worth over 100$ ??? The custumizable skins that you get in the crate could be looted and it would be way way more fun, but no, the devs just want you money.- 3/10"
-2016-07-23,251570,True,This game is awesome.
-2016-01-19,363970,True,Jogo legal pa carai meu dedo agora vira pro lado ao contrario 20/10
-2016-01-16,304930,True,"Pretty cool game to pass the time, or if you get into it you can play it for hours. If your PC is not the best one you can put the settings to the lowest and run it smooth. Awesome game 10/10"
+posted,item_id,recommend,sentiment_analysis
+2016-05-23,226700,False,0
+2016-01-16,349700,False,0
+2016-08-31,113400,False,0
+2016-07-04,209870,False,0
+2014-12-22,99900,True,1
+2016-09-10,730,False,0
+2016-07-28,295110,False,2
+2016-07-23,251570,True,2
+2016-01-19,363970,True,2
+2016-01-16,304930,True,2

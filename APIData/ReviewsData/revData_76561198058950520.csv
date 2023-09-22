@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-11-21,417860,True,bloop
-2014-01-01,550,True,Fun game for people that do not like violance and like walking around and adventuring and planting trees.2015 - 10/10 game for killing hoes
-2014-03-12,91600,True,"As of posting this, it's three dollars for a four pack.10/10"
-2013-12-27,620,True,"Great game, especially for coop :D"
-2015-07-22,208650,False,this port is just painful crashes
-2016-01-21,95400,True,"I too, enjoy drawing pink male reproductive organs."
+posted,item_id,recommend,sentiment_analysis
+2015-11-21,417860,True,1
+2014-01-01,550,True,0
+2014-03-12,91600,True,1
+2013-12-27,620,True,2
+2015-07-22,208650,False,0
+2016-01-21,95400,True,2

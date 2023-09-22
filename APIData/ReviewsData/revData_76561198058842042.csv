@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-03-19,301520,False,"This sucks more then Fan4stic, and that is saying a lot"
+posted,item_id,recommend,sentiment_analysis
+2016-03-19,301520,False,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-03-20,440,True,there are hats
-2015-02-04,211420,False,"Worst port of all time, completely ruined the game for me after 2+ years of unplayable errors and problems. My entire play time is dedicated to trying to fix this game and it was all fruitless in the end, buyer beware"
+posted,item_id,recommend,sentiment_analysis
+2013-03-20,440,True,1
+2015-02-04,211420,False,0

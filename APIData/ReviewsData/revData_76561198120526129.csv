@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-06,4000,True,best game evar yea i love it best
-2015-01-24,302830,True,very cute game
-2016-02-05,225840,True,awesome game
-2015-05-24,232090,True,best game ever made
+posted,item_id,recommend,sentiment_analysis
+2014-06-06,4000,True,2
+2015-01-24,302830,True,2
+2016-02-05,225840,True,2
+2015-05-24,232090,True,2

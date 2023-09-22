@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-26,72850,False,♥♥♥♥ off with this paid mods ♥♥♥♥
-2015-12-07,271590,False,"Grand Theft Auto V is a fun game. A great game. I would recommend anyones this game. But Take-Two and to some extent Rockstar have been shutting down third party online servers, just so people play on theirs and buy in-game cash using real money. This is a tactic I do not support, and as a result I would recommend people buy this game. If you want to pirate go ahead, don't support this shady tactics"
-2015-12-20,730,True,buy it
+posted,item_id,recommend,sentiment_analysis
+2015-04-26,72850,False,1
+2015-12-07,271590,False,1
+2015-12-20,730,True,1

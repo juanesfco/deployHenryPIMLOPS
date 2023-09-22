@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-29,301520,True,Haw du you quik sckope?
-2015-07-31,550,True,Good! Game!Good! GameGood! GamGood! GaGood! GGood!GoodGooGoGGoGooGoodGood! G Good! GaGood! GamGood! GameGood! Game!Wait did you see that?It looks like pacman in halfWoah!
-2015-02-09,570,True,Best translator game i learned whats meaning of ♥♥♥♥ Best transltor game 15/10 VERRY GOOD GAME
+posted,item_id,recommend,sentiment_analysis
+2016-05-29,301520,True,1
+2015-07-31,550,True,2
+2015-02-09,570,True,2

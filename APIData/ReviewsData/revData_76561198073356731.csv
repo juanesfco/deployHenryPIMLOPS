@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-09-26,301520,True,"This game is worth giving a chance, while it feels pay to win in some stages, is rewarding if you set a goal and work towards it. This game adds opportunities to be creative in battle which many games do not do now."
-2015-12-23,250900,True,"Binding of isaac afterbirth is a  good game and an amazing followup to the original isaac, if you didnt purchase because your rose tinted flash glasses were on at the time, there is a filter option for that so you can havea classic isaac visual experience with the new game."
-2015-07-22,227940,True,"as long as you can get into a game, and be bothered to rank up to rank 3, you will be able to get into huge battles, however, the planes,tanks and more really agitate me"
-2015-05-08,236390,True,"IF IT SHOWS UP AS A VIRUS, DISREGARD YOUR ANTIVIRUS. idk why it does this but sometimes it gets flagged by antiviruses. its a fun game and plenty enjoys. or so it would be if i hadnt stressed at the red flags"
-2015-02-13,298630,True,"The MOST accurate and amazing prison simulator out there, with its Awe inspiring music and lovely pixelly graphics, this game makes you fall. in love that is, with the concept of going to prison only to die. oh, maybe not. duct tape is love duct tape is life btw"
-2014-12-07,17410,True,"Great game, combat CAN be useful SOMETIMES, i did a completely agressive playthrough, grabbing guns and shooting the hell out of people. it was hard but fun."
+posted,item_id,recommend,sentiment_analysis
+2014-09-26,301520,True,2
+2015-12-23,250900,True,2
+2015-07-22,227940,True,1
+2015-05-08,236390,True,1
+2015-02-13,298630,True,2
+2014-12-07,17410,True,2

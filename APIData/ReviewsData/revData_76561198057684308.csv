@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-13,251060,True,yes
-2014-02-22,246620,True,this game is fantastic one of the bset so far 10/10 such virus wow
-2014-01-03,730,True,good game
+posted,item_id,recommend,sentiment_analysis
+2014-06-13,251060,True,1
+2014-02-22,246620,True,1
+2014-01-03,730,True,2

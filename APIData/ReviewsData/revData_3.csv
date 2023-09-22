@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-02-01,245550,True,Dota 2 ile ilgili içinde filmler olan ve oyuncuların hayatını anlatan bir film belgeseli.Arada sırada dota 2 oyununun içinden videolar verince eğlenceli oluyor.
-2015-02-01,206420,True,Saints Rowun en sevdiğim oyunlarından biri.Bana kalırsa Saints Row 2ve3ten kat ve kat daha güzel.
-2015-02-01,304930,True,Güzel bir hayatta kalma oyunu ama biraz daha ekleme yapılırsa oyun daha iyi hal alır.
-2015-02-01,730,True,Arkadaşlarınızla 5-5 atabileceğiniz oldukça eğlenceli ve yılların vazgeçilmez bağımlılık yapan cs go yu tavsiye ederim ve parasının hakkını veriyor.
-2015-02-01,570,True,Arkadaşlarınızla oynayabileceğiniz en eğlenceli ve en iyi bir multiplayer oyunudur.Hayatımdaki en sevdiğim ve en iyi olduğum dota2.Beraber oynamak isterseniz bana mesaj atabilirsiniz.
+posted,item_id,recommend,sentiment_analysis
+2015-02-01,245550,True,1
+2015-02-01,206420,True,2
+2015-02-01,304930,True,2
+2015-02-01,730,True,2
+2015-02-01,570,True,2

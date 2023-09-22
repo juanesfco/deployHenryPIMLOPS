@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-13,219150,True,i like to hurting other pepole!
-2015-01-31,550,True,so op whem you play with friend
-2014-12-19,218620,True,We are the heist We are ROBBER the bank not you gentleman
+posted,item_id,recommend,sentiment_analysis
+2015-06-13,219150,True,0
+2015-01-31,550,True,1
+2014-12-19,218620,True,1

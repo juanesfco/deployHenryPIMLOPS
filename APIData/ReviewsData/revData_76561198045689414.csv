@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-07,291550,True,Yeah it's pretty good.
-2014-03-20,245550,True,"Omg, Dendi's story made me shed multiple tears and I just wanted to jump through the screen and give Dendi a massive hug. This documentary's great and I recommend every dota player to watch this. It's bloody amazing ^_^"
+posted,item_id,recommend,sentiment_analysis
+2016-02-07,291550,True,2
+2014-03-20,245550,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-20,274230,True,"This is a fun game and really enjoyable, The but is it is sooo short and there seems to be more people on the photo and it just seems to stop"
-2015-07-20,252950,True,For a game that looks so simple it is soooo much fun and really hard to master
-2015-01-11,232790,True,i have enjoyed this game but would be nicer if the second act hurried up and got relesed
-2016-02-05,422420,True,This is the style Godus should have been to begin with. The original is a nice God game but what we wanted was the Populous and Populous 2 exeperiance. Which this is more like
+posted,item_id,recommend,sentiment_analysis
+2015-07-20,274230,True,2
+2015-07-20,252950,True,1
+2015-01-11,232790,True,1
+2016-02-05,422420,True,2

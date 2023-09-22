@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-14,271590,True,"Although some users are experiencing difficulties from crashes and glitches in the game, there is no denying that this still is the best PC game out in the market right now. Single player - 10/10Epic action packed story, never a dull repetitive moment. Multiplayer - 7/10 Little to no lag, heist is great. But has a tiresome lobby system with crazy amount of loading time that kills the gameplay experience even when installed on SSD.Gameplay - 9.5/10 Everything you love about GTA franchies but more and better."
-2016-06-24,292030,True,"Just finished this game today and honestly it will probably the best game I'd play this year. Such an amazing game, excellent story, rich content and superb game-play. 10/10."
-2016-08-12,275850,False,"The game isn't optimized for PC, the core game-play is repetitive and mechanics tiresome. This game should've been released as an Early Access with a $20 price tag.I'd gladly try the game again after a few updates (hopefully) and when the game goes on sale.Sadly NMS is the first game I've ever refunded on steam, such a disappointment."
-2016-06-25,730,True,Best competitive FPS game ever created in the history of mankind. Buy it now and experiece heaven on earth. 
+posted,item_id,recommend,sentiment_analysis
+2015-04-14,271590,True,1
+2016-06-24,292030,True,2
+2016-08-12,275850,False,0
+2016-06-25,730,True,2

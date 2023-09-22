@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-02-19,250600,True,Got a few minutes to spare? Try this.
-2014-02-01,239820,True,10 Can't wait for a sequel.
-2013-02-11,440,True,CRAI SOME MOAR!!!!1111ONEONEONEELEVEN
-2015-06-04,364450,False,"Probably the worst game I have ever played on Steam. Unlike Depression Quest where you at least get a few different endings, this game is a mixture of poorly drawn DeviantArt material with boring text. Unlike Depression Quest, no matter which option you choose, it's usually the same ending."
-2013-12-18,3483,True,"If you like Valve-related and you like something fun to pass the time for a few minutes, this game's for you."
+posted,item_id,recommend,sentiment_analysis
+2014-02-19,250600,True,0
+2014-02-01,239820,True,1
+2013-02-11,440,True,1
+2015-06-04,364450,False,0
+2013-12-18,3483,True,0

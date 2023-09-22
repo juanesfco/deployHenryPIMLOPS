@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-27,105600,True,jogo masi completo que ja joguei
-2014-09-26,236450,True,"oque dizer desse jogo que mal conheço e ja cosidero pakas ?cara curti bastante esse jogo pq ele nao deixa de lado o modo de jogo antigo do pacman, mas tbm adiciona coisas novas como o slow motion e a velocidade do jogoeu recomendo o jogo é um bom pra passar o tempo ou quando tiver baixando um jogo mais pesado ne euheuh"
+posted,item_id,recommend,sentiment_analysis
+2014-06-27,105600,True,1
+2014-09-26,236450,True,0

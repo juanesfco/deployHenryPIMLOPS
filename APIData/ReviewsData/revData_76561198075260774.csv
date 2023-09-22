@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-10,265930,True,LOL this game is halarious
-2016-01-29,433340,True,"Overall a great game i cant wait for more updates with more slimes , upgrades and More islands! I recommmend this game 10/10 IGN Would rate again  :3"
-2015-09-11,285920,False,This Game is laggy as ♥♥♥♥ and crashes 24/7
+posted,item_id,recommend,sentiment_analysis
+2014-04-10,265930,True,2
+2016-01-29,433340,True,2
+2015-09-11,285920,False,0

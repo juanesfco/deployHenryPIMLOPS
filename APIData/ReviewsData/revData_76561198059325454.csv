@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-04,250900,True,"A true gaming masterpiece, better then the first, 10/10 would TBOI:R again."
-2013-12-06,261980,True,Dispite what everyone thinks this was a short but sweet mod and i enjoyed it alot
+posted,item_id,recommend,sentiment_analysis
+2014-11-04,250900,True,2
+2013-12-06,261980,True,2

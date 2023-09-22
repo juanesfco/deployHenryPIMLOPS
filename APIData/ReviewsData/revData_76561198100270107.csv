@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-24,730,True,CT Can always just take the bomb and call it a day
-2016-06-09,222880,True,This game is amazing! Lots of fun in just the first hour. Takes a lot of skill which is one of the reasons why I like it. If you can play it!
-2016-03-24,304050,True,hmmmm it's just right
+posted,item_id,recommend,sentiment_analysis
+2016-01-24,730,True,1
+2016-06-09,222880,True,2
+2016-03-24,304050,True,2

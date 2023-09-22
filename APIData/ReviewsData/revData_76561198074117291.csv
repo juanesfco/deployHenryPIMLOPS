@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-19,245470,True,say good bye to your guns america
-2014-06-30,70300,True,"great platformer, great music and takes AGESSSS to find all the trinkets very fun"
-2015-08-30,252950,True,Coming as an e-sport soon!
+posted,item_id,recommend,sentiment_analysis
+2014-01-19,245470,True,2
+2014-06-30,70300,True,2
+2015-08-30,252950,True,1

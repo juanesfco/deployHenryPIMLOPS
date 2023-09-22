@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2012-12-09,15390,True,"An amazing game, a mix of strategy and fast paced fps that can run on my crappy rig"
-2012-06-12,107100,True,"Amazing game, a must have"
+posted,item_id,recommend,sentiment_analysis
+2012-12-09,15390,True,2
+2012-06-12,107100,True,2

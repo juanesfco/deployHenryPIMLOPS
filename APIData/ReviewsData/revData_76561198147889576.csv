@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-06,730,False,"Only 300hours in and Im already breaking the game, too easy, doesnt recommend it."
-2016-05-06,570,True,"♥♥♥♥ game, do no play i repeat, DO NOT PLAY."
+posted,item_id,recommend,sentiment_analysis
+2016-05-06,730,False,1
+2016-05-06,570,True,0

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2011-05-21,34830,True,"ill  Recommend this game to anyone.nice looking,fun,hard core gamesthumps up 5 stars"
-2011-05-03,10680,True,HEAPS fun game
-2011-03-22,10180,True,awsome game
-2011-02-28,34350,True,well so far only played the demo but its going to be awsome
-2011-02-28,34030,True,love this game so much. Napoleon: Total War is a far better game then Empire total War but  it is still an awsome game
-2011-02-28,630,True,cool fun game
-2011-02-09,34670,True,havent played yet
-2011-01-17,4700,True,this is one of the best Total war games
-2011-01-03,4760,True,best game ever
-2010-12-28,10500,True,everyone should try this game well any total war game
+posted,item_id,recommend,sentiment_analysis
+2011-05-21,34830,True,0
+2011-05-03,10680,True,1
+2011-03-22,10180,True,0
+2011-02-28,34350,True,1
+2011-02-28,34030,True,1
+2011-02-28,630,True,1
+2011-02-09,34670,True,1
+2011-01-17,4700,True,2
+2011-01-03,4760,True,2
+2010-12-28,10500,True,0

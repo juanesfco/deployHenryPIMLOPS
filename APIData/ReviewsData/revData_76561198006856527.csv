@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-22,208480,True,Don't fix it if it ain't broke. That's the approach that ubi took and I'm glad they did. Free running is still aplenty and the frontier introduces a new environment to run in. Too bad the protagonist is always deadpan like Kristen Stewart.
-2013-12-22,261030,True,"Episode 1 of season 2 had me shocked, yelling and cringing. No doubt another awesome entry in the Walking Dead series by Telltale :)"
-2013-12-22,211420,True,"Once you get pass all the technical problems, it is a great dungeon crawler! It is challenging and as the name suggests, prepare to die... a lot."
+posted,item_id,recommend,sentiment_analysis
+2013-12-22,208480,True,1
+2013-12-22,261030,True,2
+2013-12-22,211420,True,2

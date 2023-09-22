@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-08-28,359050,True,"Probably the best game I've ever played, it allows me to relieve certain childhood trauma."
-2016-08-28,379720,True,Can you make Snapmap not ♥♥♥♥ so I have a reason to keep playing this game? Otherwise best game of 2016.
-2016-01-28,201480,False,"Doesn't seem to work properly (crashing in the early stages of the game, not saving right, etc) on Windows 8 and 10."
-2016-01-28,17470,True,A very spoogily game
-2016-01-28,91310,False,"Boring, buggy, repetitive... can't remember why I bothered 100%ing this."
-2016-01-28,252490,True,"Worth it if you can invest the time and don't mind being killed 3,000 times in a single session."
-2016-01-28,236430,True,Praise the Sun!
-2016-01-28,335300,False,Not worth it if you own the original + DLC.
+posted,item_id,recommend,sentiment_analysis
+2016-08-28,359050,True,2
+2016-08-28,379720,True,1
+2016-01-28,201480,False,1
+2016-01-28,17470,True,1
+2016-01-28,91310,False,0
+2016-01-28,252490,True,1
+2016-01-28,236430,True,1
+2016-01-28,335300,False,2

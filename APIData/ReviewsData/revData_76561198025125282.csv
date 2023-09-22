@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-03-06,427520,True,A extremly well made game with deep mechanics and university semester has just started. this does not bode well for me. RiP Post-Graduate degree.
-2014-04-26,236430,True,You can change gender using a coffin. 10/10
-2013-12-18,261030,True,"So many feels, Clementine has evolved. This isn't even her final feel. Just so many feels. Get this feelcoaster of a game."
-2016-02-08,268500,True,"Completed the Objective, soldiers were captured anyway. Would lose timed missions again/10"
-2013-12-16,207610,True,"So many zombies. So many feels. If you don't get any feels from this pretty feels on story, you're not a human being. Dat feel bro."
-2013-11-25,218620,True,"I've sunk 100+ hours into this Heist em up game. Ignore the graphic ♥♥♥♥♥ this game is epic. Soundtrack keeps the pace going. With continual updates from the developer in the same vain of Team Fortress 2, this game should be keeping healthy for a very long while."
+posted,item_id,recommend,sentiment_analysis
+2016-03-06,427520,True,0
+2014-04-26,236430,True,1
+2013-12-18,261030,True,2
+2016-02-08,268500,True,1
+2013-12-16,207610,True,2
+2013-11-25,218620,True,1

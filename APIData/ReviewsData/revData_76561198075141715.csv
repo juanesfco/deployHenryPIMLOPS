@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-25,521430,True,"A neat platformer, that has a nice geometric level design. The game is overall very fast paced, from timing your 'switches', to fast movements. It really gives you a sense of satisfaction when you complete a level in this frustrating game. You might break a keyboard or two in the process, but the feeling of finishing this game is amazing.If you're a fan of games like Super Meat Boy, this game is definitely for you."
-2016-01-27,232090,True,8/8 r8d gr8 m8
-2016-08-13,434730,False,"This game is horrible. I had a very difficult time trying to even progress in the game. It feels like some one made this in Unity for a ♥♥♥♥ing project for school. Seriously, this game is bad.CONS:* Can't really play* Graphics look they were made in 2009* Bad experience.* Hard time progressingPROS:1 Pro.JUST KIDDING ♥♥♥♥ING NOTHING NO PROS THIS GAME IS ♥♥♥♥ DONT BUY IT."
-2013-12-05,1250,True,"A very balanced zombie shooter, And good quality x3!"
-2016-08-13,379720,True,"Some say it's horrible, I say it's great.I had an overwhelmingly fun experience in DOOM. It's a reboot of the original, and it's multiplayer feels like I'm playing UT again. Many of the features were brought back such as Keycards, Skull Cards, Barons of Hell, and many other enemies and features. How ever, there is two things I did not enjoy about DOOM 2016,* It didn't feel as ambient and ominous as DOOM 3. DOOM 3 really set the tone for Doom. Stranded in Mars, Hell's taken over. The experience I had in DOOM wasn't as scary and interesting as DOOM 3. The jumpscares in DOOM 3 were amazing, and everything was just creepy. I may be kissing DOOM 3's ♥♥♥ here, but that's just my opinion.* The ♥♥♥♥♥♥♥ double-jump. It felt like I was playing a CoD game. So overall, I would highly reccomend DOOM to UT veterans and Doom enthusiasts,"
-2016-03-24,230410,True,RIP Wallet
+posted,item_id,recommend,sentiment_analysis
+2016-08-25,521430,True,1
+2016-01-27,232090,True,1
+2016-08-13,434730,False,0
+2013-12-05,1250,True,2
+2016-08-13,379720,True,1
+2016-03-24,230410,True,1

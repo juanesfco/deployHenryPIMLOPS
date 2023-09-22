@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-09-17,409710,True,"I don't have any of the technical problems other people are having, so I think this is a decent upgrade."
-2016-03-30,409160,True,"It's made by the same people that blessed us with the The Stanley Parable and it has the same charm and quirky humour, and it's free! what more could you want?"
-2015-03-06,353360,True,"Instructions weren't clear enough, I got my ♥♥♥♥ stuck in a toaster.11/10 would toast ♥♥♥♥ again"
-2013-11-04,221910,True,play it. NOW!
+posted,item_id,recommend,sentiment_analysis
+2016-09-17,409710,True,1
+2016-03-30,409160,True,2
+2015-03-06,353360,True,1
+2013-11-04,221910,True,1

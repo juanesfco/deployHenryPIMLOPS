@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-07-08,234630,False,Over rated
-2014-07-06,252490,True,"Its good for buidling houses, since i was a contenstant off hopuse rules, i like this becasue i can build houses. Its a shame i didnt win house rules, but fair enough, at least im the king of rust and they call me rusty russell."
-2016-06-29,263280,True,"Very fun and moddable game, i couldn't tell you what the objective of the game is or how to finish any missions, but it probably involves getting bogged and using your winch alot."
-2016-06-25,12210,True,"Very fun, good fun once modded and as a stock game. Highly recommend to pick it up during the sales!!!!"
-2016-02-27,313160,True,"Bloody awesome game, gotat be real commited though takes a lot of time to do stuff. But if your up to it, then buy it. Also the modding is easy too."
-2015-02-07,255220,True,"Great racing game! Very fun especially the driting competitions, but it get's a bit repetivtive after 3-4 races."
+posted,item_id,recommend,sentiment_analysis
+2015-07-08,234630,False,1
+2014-07-06,252490,True,2
+2016-06-29,263280,True,0
+2016-06-25,12210,True,2
+2016-02-27,313160,True,1
+2015-02-07,255220,True,2

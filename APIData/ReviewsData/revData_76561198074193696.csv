@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-21,730,True,"Fast and fun gameplay, awesome mechanics, great learning curve to guns and realistic textures make this game 11/10!"
-2015-01-24,317360,True,"Beautiful game, would happily spen thousands of $"
+posted,item_id,recommend,sentiment_analysis
+2014-12-21,730,True,2
+2015-01-24,317360,True,2

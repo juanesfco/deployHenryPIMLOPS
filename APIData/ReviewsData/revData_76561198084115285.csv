@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-03-07,4000,True,"One of the best games ever on steam 11 stars out of 5It has awesome single player where you can spawn in rag-dolls and objects and just mess around with themThe multiplayer is the best part of the game, they're are about 14 different game modes, some which are zombie infection, trouble in terrorist town and G-mod flood.My all time favorite memory from g-mod was when i was in a zombie server, we were waiting in a room, hoping that the zombies wouldn't have killed the guys at the front, i managed to jump into a vent at the top where 3 other guys were there loaded with ammunition, i don't know how but the zombies made it in a killed everyone, we were the last people to be gotten at because someone had barricaded the entrance to the vents with chair, books etc.ONE OF THE BEST GAMES ON STEAM MUST BUY!"
-2014-03-01,12210,True,"Pretty good game for playing in your spare time, online is great."
-2014-03-07,12110,True,"5 out of 5 stars even todayIt has an awesome soundtrack, great story, huge open world to explore, buy building, do police missions, do medical missions, steal a tank, and best lighting effects for a grand theft auto game.MUST BUY!"
-2014-05-19,65790,True,"Great Game, one of the mose realistic games i've ever played, only down-fall is the graphics and they're not that bad either."
-2014-03-08,240,True,"This game may be 10+ years old and may look a bit outdated, it is another great fps from Valve, the game has many modes such as zombie, hostage, diffusing C4 and Jail server, not as good as Counter Strike:G.O but still an excellent game to play in your spare time."
+posted,item_id,recommend,sentiment_analysis
+2014-03-07,4000,True,2
+2014-03-01,12210,True,2
+2014-03-07,12110,True,2
+2014-05-19,65790,True,1
+2014-03-08,240,True,2

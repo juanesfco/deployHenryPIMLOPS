@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-12,207230,True,"Great game,too bad the developer give up on this."
-2014-11-22,334660,True,Their chest actually moves.
-2015-01-31,282900,False,"Advantages:Stunning graphics.(60 fps)Nice voices (Except EnglishInteresting story.Cool battle scene.Disadvantages:DLC doesn't work.My background is black and the developers can't solve it.Simply keep crashing.RIP my computer.All the instructions in the game is in controller symbols, not keyboard. Their chest doesn't move Horrible English voice, didn't show a single enthusiasm.Conclusion:I really want to recommand this game,but for now, this game+DLC doesn't worth the price as there are too many bugs, errors, crashes."
-2013-12-29,206420,True,hell yeah its fun.
+posted,item_id,recommend,sentiment_analysis
+2014-12-12,207230,True,1
+2014-11-22,334660,True,1
+2015-01-31,282900,False,1
+2013-12-29,206420,True,2

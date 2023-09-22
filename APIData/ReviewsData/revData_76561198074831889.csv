@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-10,265930,False,"i hate this game so much, i want my money back. i cant believe how boaring and glitchy this game is, i know you SAY you meant to have those glitches but deep down everyone knows you just cant be bothered fixing them i do not recomend getting this, its fun for the first play, but it gets bad and FAST"
-2014-07-10,220160,False,"i am verry dissapointed, i want my money back or something, i know no one will respond, but seriously... i cant believe i bought this. worse still my product key doesn't work on multiplayer, so it never works"
-2013-09-23,238320,True,"fun, scary, and epic, the ultimate combo. its a must for amnesia fans as well, get it"
-2013-02-20,57300,True,get it
+posted,item_id,recommend,sentiment_analysis
+2014-07-10,265930,False,0
+2014-07-10,220160,False,0
+2013-09-23,238320,True,1
+2013-02-20,57300,True,1

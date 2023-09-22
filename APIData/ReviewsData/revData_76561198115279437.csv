@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-01,440,True,I liek TF2
-2013-12-29,550,True,"If you didn't get it while it was free, you missed out buddy. You missed out"
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,440,True,1
+2013-12-29,550,True,2

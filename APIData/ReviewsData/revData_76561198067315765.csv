@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-31,259080,False,this more annoying than a baby crying then and blowing a fog horn every 2 seconds .yes get just cause 2 but don't get multiplayer it is awful
-2015-07-04,400,True,By far best game in the world
-2014-09-10,208090,True,frikin' amazing
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,259080,False,0
+2015-07-04,400,True,2
+2014-09-10,208090,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-11,48700,True,"Graphically it's horrible, that said this is still one of the greatest gmaes I've ever played"
-2016-05-19,433090,True,Officer 'The Muthafuggin' Bradford
-2014-01-17,65740,True,Its better then you think
+posted,item_id,recommend,sentiment_analysis
+2014-07-11,48700,True,1
+2016-05-19,433090,True,1
+2014-01-17,65740,True,2

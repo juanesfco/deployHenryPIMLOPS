@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-07,250900,True,I beat Mom on my 3rd ever run with azael GG OP CHARACTER 10/10 IGN
-2015-06-26,208650,True,"Just Dont Give A Damn About All Those Negative Reviews About Its Issues When It Comes To Performance.If You Like Batman This Is Some Sweet Sweet Delicious Batman. It May Not Be Perfect (It Has It's Issues), But The Thing That Matters Is That It's A Batman Arkham Game.My Experience:My computer is good but not like a 2K ultra graphics rig, at 720p it ran perfectly no crashes no lag, at 1080p its a bit laggy.The actual game was frickin' awesome punchin dudes as batman, robin, nightwing, catwoman and azrael, the story is cool with the death of the joker haunting batman and scarecrow and the Arkham Knight (Who's identity is really predictable) picking on Batman and Gotham.Score: 9.5/10Technical issues but great game."
-2014-10-17,206210,False,it's SHIEEET
+posted,item_id,recommend,sentiment_analysis
+2014-12-07,250900,True,1
+2015-06-26,208650,True,2
+2014-10-17,206210,False,1

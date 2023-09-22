@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-04,242860,True,its a fun game which rewards teamwork and it offers surprisingly addictive gameplayi'd recommend waiting for a sale and getting a four pack so you can play with friends
-2013-12-05,214950,True,"while true it was farily miserable on release, this game has improved by leaps and bounds.strategy and surprising levels of adaptability in prvinces have been patched into this game provinces. Provinces can now be truly customised since the have reworked the province wide effects of building allowing vast amounts of income to be gotten from fully developed provinces, this somewhat makes up for the lack of building slots available in each cityinspite of the bad precedent of mini campaigns the first two released for this game are actually worth playing,CiG in particular will require strategy to win.This game is not what is shown in its trailers(to be fair what game is?) but it is a worthy total war none the less"
-2015-04-15,277450,True,well i dont hate itbut people might have trouble getting into it since its graphics are a bit dated
-2015-06-26,325610,True,"its a good game, i like the gameplay more than rome 2 but it has less replayablity."
+posted,item_id,recommend,sentiment_analysis
+2015-07-04,242860,True,1
+2013-12-05,214950,True,1
+2015-04-15,277450,True,0
+2015-06-26,325610,True,2

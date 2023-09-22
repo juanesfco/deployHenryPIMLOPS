@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-15,221100,False,"Horrible game!The optimization is like it's running on a 32 BIT engine, Video quality is horrible and buggy. This game is just a flop and it was too hyped, I'd rather become a Console peasant then play this ♥♥♥♥♥♥ game."
-2015-06-04,304930,True,Graphics are really realisticPhysics on pointI rate this game 21/10 IGN
-2015-10-31,730,True,Got vac banned
-2015-07-17,290140,True,"Fun RPG, Highly recommended if you are into mmo Rpg games, only flaw is the graphics but not to fussy about it, this game will probably be fun for a good 4-5 months 200 hours or so"
-2015-05-26,230410,True,21/10 IGN would bang again
+posted,item_id,recommend,sentiment_analysis
+2016-01-15,221100,False,0
+2015-06-04,304930,True,1
+2015-10-31,730,True,1
+2015-07-17,290140,True,2
+2015-05-26,230410,True,1

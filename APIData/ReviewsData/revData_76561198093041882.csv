@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-02-04,570,True,es un buen juego lo recomiendo mucho
-2014-02-03,17500,True,es buen juego
-2014-02-02,224260,True,es un juego increible es muy realista
-2014-01-13,233720,True,es buen juego me gusta su jugabilidad
-2013-12-26,440,True,god game :)
+posted,item_id,recommend,sentiment_analysis
+2014-02-04,570,True,2
+2014-02-03,17500,True,2
+2014-02-02,224260,True,2
+2014-01-13,233720,True,2
+2013-12-26,440,True,1

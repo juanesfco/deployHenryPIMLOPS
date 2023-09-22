@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-08-14,381120,True,"Great game, despite bugs and eventual loss of something to do, still worth the money"
-2014-04-07,212680,True,"This is an amazing game, with the new expansion there is a ton of stuff to do, permadeath can be annoying but in this game it is not so bad, sure you lose all your stuff, but sometimes when you die you unlock better more powerful ships with different advantages and disadvantages, I recommend this game for all fans of spaceships and awesomeness"
-2014-03-23,264140,True,"This game is awesome, it is about both adventuring the lands while fighting enemies, and building the perfect boat in which to rule the pixel seas, I rate it about 9.5 out of 10 due to the difficulty, lack of achievements and also lack of steam trading cards, however, as it is only in alpha stage at the moment, these are minor things that could be fixed soon."
-2013-07-02,440,True,This is an awesome game
-2014-05-07,210770,True,"This is a great game, the combination of tower defence and first person shooter is brilliant, I recommend this game to all.If there is anything I had to say was bad about it it is the lack of upgrades to your weapons, bacause as the enemies get stronger, your weapons stay the same, you do get more weapons when you level up, but your primary weapon just doesn't do very well, also as the levels get harder, you can't put more towers down, but that is just part of the fun i rate it 9.5/10"
-2014-07-23,252490,True,"This is a great game, if you haven't played this game you haven't lived"
-2015-05-17,298160,True,"This is an amazing game, if you've ever played Runescape, this is like what Runescape would have been if it remained free and didn't have insane amounts of content members only.In Eldevin you can choose from 6 main character upgrade trees, but you can freely choose which tree to spend your talent points in. The map is enormous, and while you don't often meet other players (unless you are following someone, or you go to one of the popular spots), the vast quest system and varied enemies mean you don't need to find/play with anyone else"
-2016-08-19,275850,True,"Despite the bad initial launch, and eventual repetition, this game is a lot of fun. With the upcoming free updates, this game has the potential to be an amazing space exploration game."
-2015-01-02,247950,True,"while this game is nothing like the first 2 games, it's still a decent game, I got it for $18 and it was worth it, but I wouldn't pay $50 for this game, it is pretty fun though"
-2013-10-09,105600,True,This is an  awesome gameeveryone should get it not just for the epic world but also for the complex gaming experience that is granted by playing this game
+posted,item_id,recommend,sentiment_analysis
+2016-08-14,381120,True,2
+2014-04-07,212680,True,1
+2014-03-23,264140,True,2
+2013-07-02,440,True,2
+2014-05-07,210770,True,2
+2014-07-23,252490,True,1
+2015-05-17,298160,True,1
+2016-08-19,275850,True,1
+2015-01-02,247950,True,1
+2013-10-09,105600,True,1

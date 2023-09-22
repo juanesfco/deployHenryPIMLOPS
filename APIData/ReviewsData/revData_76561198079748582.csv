@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-19,8190,True,gg
-2015-03-09,95400,True,Is rly good 10/11
-2013-10-07,230410,True,its good
-2014-05-14,286340,True,Awesome game. I love it.
-2014-06-20,22380,True,also gg
-2014-06-20,72850,True,El perro. el perro. Es mi corazon. El gato. el gato. El gato no es bueno.
+posted,item_id,recommend,sentiment_analysis
+2014-06-19,8190,True,1
+2015-03-09,95400,True,2
+2013-10-07,230410,True,2
+2014-05-14,286340,True,2
+2014-06-20,22380,True,1
+2014-06-20,72850,True,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-23,427730,True,Please tell me who my daddy is...I can't find him
-2016-03-23,48000,True,Amazing game.But I really wish I could see colour.This game would be beautiful in colour but sadly... I'm completely colour blind
-2015-12-11,730,True,says that Valve need to nerf the revolver in chatgets kicked10/10 would get kicked again
-2015-04-18,230410,True,9 out of Tenno
+posted,item_id,recommend,sentiment_analysis
+2016-03-23,427730,True,1
+2016-03-23,48000,True,1
+2015-12-11,730,True,1
+2015-04-18,230410,True,1

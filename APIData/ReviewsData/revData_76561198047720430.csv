@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-15,33460,False,"Maybe it will work this time?Aaaand uplay launcher has stopped working.Great, back to Dota then."
-2014-05-28,248570,True,"I got this a couple of years back. It's very difficult but is very fun, even when you suck. The mods that come with it are really cool and fun."
+posted,item_id,recommend,sentiment_analysis
+2014-11-15,33460,False,1
+2014-05-28,248570,True,1

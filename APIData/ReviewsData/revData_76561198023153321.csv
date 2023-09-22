@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-17,290060,True,"Minimalistic in its design, and very simple gameplay mechanics, but maybe a little short - Overall worth buying."
-2014-04-26,207230,False,"Got told to suck my own ♥♥♥♥ upon joining a server, then died. Community seems average.."
-2014-05-28,300900,True,"A quirky space-walking simulator, there's not much else to say about this game."
-2014-04-26,17410,True,Probably the best game ever
+posted,item_id,recommend,sentiment_analysis
+2014-04-17,290060,True,1
+2014-04-26,207230,False,2
+2014-05-28,300900,True,0
+2014-04-26,17410,True,2

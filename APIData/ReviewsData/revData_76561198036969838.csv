@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-09-24,363970,True,It is a trap.It will eat your soul.You cannot buy it... because it owns you.
-2015-05-22,319550,True,"Less than half an hour. 100% achievements. If that is what you're after, then this is your game.What happens after speed 1300 is where it gets really exciting."
-2015-05-16,346010,True,"This game is going to be incredible. Heck, at Version 0.08, it's already incredible. I would detail exactly why you should buy this with a lengthy review, but that would only give me less play time. So instead, I just say, buy it. I've had it for a few days and finished the available levels, and wow am I satisfied. Even without the enormous updates ahead, this builder is already worth every cent. The things you can do with the sandbox alone are worth the price tag. The levels will challenge you and force you into inspiration, and from within you a monster will come unto the world of Besieged. Nay, an army of monsters, be they flying, flaming, flipping, or f***ing exploding, they will come; and you will be bringing them to life long after the campaign is over.BUY THIS GAME. 11/selfdestructingfloatingbaloonbomberforts."
-2014-06-26,4000,True,Buy this game. And then do whatever the ♥♥♥♥ you want... and I mean anything. It's that good.
-2014-06-12,15700,True,"This game is ruthlessly unforgiving, and equally as brilliant. It's beautiful, despite it's age, and a childhood classic of mine and anyone else who had a playstation when it's demo disc was floating around. This is gaming royalty; do yourself a favour and play it. The only PC game I can reccomend more highly is the sequel - I can't wait to see what Oddworld Inhabitants do with the New 'n Tasty reboot. 11/10. Would play again."
-2014-06-03,212800,True,"The game's great. Unless you run Windows 8. In that case ignore this recomendation, because he game crashes more often than it is entertaining - which is saying something because otherwise this game is hella fun. Very fast-paced, arcade feel. Love it."
-2014-06-03,286100,True,"Great, classic style platformer with endless replayability."
+posted,item_id,recommend,sentiment_analysis
+2015-09-24,363970,True,1
+2015-05-22,319550,True,1
+2015-05-16,346010,True,2
+2014-06-26,4000,True,1
+2014-06-12,15700,True,1
+2014-06-03,212800,True,2
+2014-06-03,286100,True,2

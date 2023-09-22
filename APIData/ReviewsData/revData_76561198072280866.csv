@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-11,8190,True,"Interesting game.It's a mix between shooter and sandbox...sort of.I'd recommend it, blowing sh*t up is always fun."
-2016-06-05,6060,True,"Great game, great classic.Much better than the newer one."
-2016-05-11,42650,True,"Love this game, already completed it.It's a classic.It's great and you know it."
+posted,item_id,recommend,sentiment_analysis
+2016-05-11,8190,True,2
+2016-06-05,6060,True,2
+2016-05-11,42650,True,2

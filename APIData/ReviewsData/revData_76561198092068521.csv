@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-20,400,True,"muiro bom,principalmente a luta final com a glados e a parte q vc ta pelas tubulacoes e 'lugares q ela n queria q vc estivesse'Não tem portais o suficiente portal/10 -IGN"
-2015-01-02,220,True,20 Years and Barney still owes Gordon that beer.'Much good friends' - IGN beer he owes me/10
-2014-11-24,224260,False,"nao.pq serio,eu odeio esse sistema de morrer lentamente se vc for mordido por uma fracao de segundo.e tbm o time me ve falando:'Ei,gente,eu preciso de medkit urgente' e eles tipo,'ah,deixa ele morrer ele n ajudou nada ate agora'e esse aspecto me irrita muito.com excessao do arsenal q inclui ate arco e flecha na escolha de armas.Mas os mapas sao legais,o estilo de jogo é legal,e o proprio design das armas e dos zumbis me agrada muito pro meu gosto pelo menos,mas eu n recomendo por que  o Time de P.O.R.R.A N AJUDA NE*Engineer chega correndo* Nope. 6/10"
+posted,item_id,recommend,sentiment_analysis
+2015-03-20,400,True,2
+2015-01-02,220,True,2
+2014-11-24,224260,False,1

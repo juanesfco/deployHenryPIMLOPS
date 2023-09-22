@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-09,253710,False,You need a license to view this review.
-2016-04-10,316010,True,"Good fun, a couple of kinks still needing some work, but altogether cheaper then Magic Online"
-2015-11-07,287390,True,"Absolutely amazing game, arich and full story with great gameplay!"
+posted,item_id,recommend,sentiment_analysis
+2015-10-09,253710,False,1
+2016-04-10,316010,True,2
+2015-11-07,287390,True,2

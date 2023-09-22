@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-12,365450,True,"I DUB THUS, THE ~COOLEST~ GAMESo exciting, so real, so much value!11/10"
-2014-06-03,253030,True,"Basically, your ship is a solar powered speed monster but it runs out of power crazy fast if you drop into a shadow or the sun drops down. There are boosts in the game such as speed, jump and a sheild that teleports you out of a crash. The goal is to get the highest score possible and to the highest region before the sun drops below the horizon. The map is updated every day. Awesome game 8/10"
+posted,item_id,recommend,sentiment_analysis
+2016-06-12,365450,True,2
+2014-06-03,253030,True,1

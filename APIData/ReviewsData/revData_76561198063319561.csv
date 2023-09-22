@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-06,24960,True,Killed seven teammates by blowing up a house when they were all inside.
-2013-12-25,8190,True,You can do 9/11 without even scratching the building?!2/10 worst game ever
-2014-06-21,243870,True,10/10 best login que simulator
-2014-09-13,227700,False,Lag Simulator 201410/10 - IGN
+posted,item_id,recommend,sentiment_analysis
+2015-02-06,24960,True,0
+2013-12-25,8190,True,0
+2014-06-21,243870,True,2
+2014-09-13,227700,False,1

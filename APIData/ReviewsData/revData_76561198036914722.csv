@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-23,334230,True,"The jailor jailed a transporter and me, the mafioso tried to kill him but he was immune as he was in jail. As there were no deaths that night I said in chat to jail the same guy. Then that next night we decided not to shoot anyone. So the next day there were once again no deaths. The jailor decided to execute him that night and we shot the jailor on the same night.Would highely recommend"
-2014-01-14,57690,True,"This game is awesome as. The campaign is very challenging. You have to do the things the campaign says to do, and at the same time keep your people and foreign governments happy."
-2012-11-26,440,True,Best game in the world. 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-08-23,334230,True,1
+2014-01-14,57690,True,2
+2012-11-26,440,True,2

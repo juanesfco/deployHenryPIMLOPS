@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-12-27,440,True,Awesome Game
-2016-02-20,238960,True,gg
-2015-06-05,374570,True,PERFEITO FILME. ♥♥♥♥♥♥♥ SE SAIR UM GAME EU COMPRO NA HORA. PQP O ESTILO RETRO É MUITO FORTE E A TRILHA SONORA EH ♥♥♥♥!
-2014-12-21,236110,True,P E R F E C T
-2014-12-16,242720,True,FOOOOOOOOODAAAAAAAA BAGARAAAAAAAAI
-2014-10-04,231060,True,"Awesome game, but worst than first Ragnarök."
-2014-07-22,246280,True,"O meu não abre, como posso analisar o jogo? Será que ele não é compatível com o Windows 7 Professional 64 Bits? Eu vou baixá-lo no Xbox dai vou testar e publicar minha experiência aqui.Se algém souber como resolve esse problema por favor me ajude!"
-2013-12-22,213610,True,Very good game of Sonic which come to PC throught the hapiness of the fans!
+posted,item_id,recommend,sentiment_analysis
+2013-12-27,440,True,2
+2016-02-20,238960,True,1
+2015-06-05,374570,True,0
+2014-12-21,236110,True,1
+2014-12-16,242720,True,1
+2014-10-04,231060,True,1
+2014-07-22,246280,True,2
+2013-12-22,213610,True,2

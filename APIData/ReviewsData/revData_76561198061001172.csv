@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-06,348090,True,I R8 8/8 M8
-2014-06-29,264200,True,good fun must get :3
-2012-09-05,440,True,best game ever
+posted,item_id,recommend,sentiment_analysis
+2015-03-06,348090,True,1
+2014-06-29,264200,True,2
+2012-09-05,440,True,2

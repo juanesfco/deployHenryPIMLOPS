@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-17,730,True,Sahtein Aleha
-2014-05-15,265630,True,'Pass the whiskey' 10/10
-2014-04-02,440,True,Gave me severe clinical depression
+posted,item_id,recommend,sentiment_analysis
+2016-02-17,730,True,1
+2014-05-15,265630,True,1
+2014-04-02,440,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-11,236390,True,"I Love it, i already have a Tiger 1 :D"
-2013-12-18,440,True,"66.150.164.59:27015         dont goto this server, i  repeat do not goto this server"
+posted,item_id,recommend,sentiment_analysis
+2014-10-11,236390,True,2
+2013-12-18,440,True,1

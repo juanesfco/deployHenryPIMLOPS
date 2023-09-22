@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-24,209080,True,Hey stop hoging the pilot seat your a gunner not a pilot. 'repair the ship'. no not until you get out of the pilot seat. Ship destroyed
-2015-01-24,268240,True,Makes you complain more than a girl.
-2015-01-24,322330,True,What about i eat all the berries i collected behind my friends back?
-2015-01-24,239820,True,Image if making games was this easy in real life
+posted,item_id,recommend,sentiment_analysis
+2015-01-24,209080,True,1
+2015-01-24,268240,True,2
+2015-01-24,322330,True,0
+2015-01-24,239820,True,2

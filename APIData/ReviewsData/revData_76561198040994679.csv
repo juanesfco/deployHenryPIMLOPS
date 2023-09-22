@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-09,226700,False,♥♥♥♥♥est game ♥♥♥♥♥est community and just ♥♥♥♥.
-2014-09-05,221100,False,Only buy if you want to deal with all the ♥♥♥♥ and bugs in the game. I do understand its Early Aceess but the devs have had a LONG time to fix ♥♥♥♥ but havent buy at your own risk
+posted,item_id,recommend,sentiment_analysis
+2014-02-09,226700,False,0
+2014-09-05,221100,False,1

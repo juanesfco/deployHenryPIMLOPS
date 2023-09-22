@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-28,311210,True,"This game is the most awesome Call of Duty ive ever known and I really recommend getting this game, the price sadly only includes one Zombies map which kinda sucks but apart from that this game is a boss. Multiplayer has become alot more fast paced and Singleplayer now supports coop which is soo awesome. This game is a must buy!!!"
-2014-02-20,4000,True,"Awesome game, lots of content, especcially if you get addons!!!!"
-2014-07-22,236390,True,Is goood
-2015-04-01,251570,False,"I just hate the game, its been in Alpha forever, I want my money Back!!!!!!"
-2014-01-24,240,True,This game has good first person unlike other games I really recommend this game XD
+posted,item_id,recommend,sentiment_analysis
+2015-12-28,311210,True,1
+2014-02-20,4000,True,1
+2014-07-22,236390,True,1
+2015-04-01,251570,False,0
+2014-01-24,240,True,1

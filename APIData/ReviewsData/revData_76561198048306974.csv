@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-02,48700,True,"pretty good however, for me atleast, the horse combat just doesnt seem to work and the melee combat takes some getting used to. even with my short play time i can see myself putting some time into this game."
-2015-01-03,218620,True,The menus are crap and no one knows how to play and when you find someone that knows how to play thay freak out if you do one thing wrong. all that said i still like this game.7.5/10
+posted,item_id,recommend,sentiment_analysis
+2015-01-02,48700,True,2
+2015-01-03,218620,True,0

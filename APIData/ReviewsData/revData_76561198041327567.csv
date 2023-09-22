@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-19,221100,False,"4/10Good concept, just got bored really quickly and I rather play DayZ (Mod), it's still in apha too."
-2013-12-17,224260,True,8/10
-2013-12-17,221640,True,8.5/10
-2013-12-17,219640,True,8.5/10
-2013-12-17,8190,True,8.5/10
+posted,item_id,recommend,sentiment_analysis
+2014-06-19,221100,False,1
+2013-12-17,224260,True,1
+2013-12-17,221640,True,1
+2013-12-17,219640,True,1
+2013-12-17,8190,True,1

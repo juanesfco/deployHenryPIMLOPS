@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-09,377160,True,"I should be at schoolJust kidding, there should be no school, only Fallout 4"
-2012-06-20,4000,True,"This is the best game I have ever played, possibly the best game in the world. You can do absolultely everything you have ever dreamed of! Garry's Mod can sometimes help you with other games, something not many other games can do. Steam Workshop has many wonderful addons to enhance Garry's Mod, making it simply amazing. Busy multiplayer servers, great singleplayer, it's a must have for anyone, whether you wish to play seriously, or just have some fun messing around. I cannot recommend it enough, it's absolutely fantastic, simple to learn, impossible to master.10/10"
-2015-04-14,271590,True,One day. 17.3 hours. Countless hours on XB360 and XB1. Weeks in Online alone. Must I say any more?
-2015-01-28,239140,True,This game is amazing. I've been trying to create gameplay like this in Gmod for a very long time but it just never worked. Dying Light is a much more polished Dead Island with parkour that's better than Mirror's Edge. Even though it crashes constantly the gameplay makes it all worth it.10/108.5/10 with crashes
-2014-07-16,239820,True,"Really good game, one of those games that is simple yet at the same time surprisingly fun and addictive. It has a short story which is easy to complete if you know how, but one bad game can make or break your company."
+posted,item_id,recommend,sentiment_analysis
+2015-11-09,377160,True,1
+2012-06-20,4000,True,2
+2015-04-14,271590,True,2
+2015-01-28,239140,True,2
+2014-07-16,239820,True,1

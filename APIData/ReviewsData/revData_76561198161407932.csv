@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-10-31,370100,False,unturned rip offworst game ive ever played...literally
-2016-06-21,275390,True,"Good game although i find the dodge mechanics very unfair, as soon as you finish dodging an attack you get hit immediatly. The health regeneration is way too slow, But otherwise pretty good game."
-2016-01-20,433340,True,I Love This Game Its So Fun!But It Will Be Better With Co-Op
-2015-12-04,221300,True,Online Multiplayer Needs To Be AddedSometimes It Counts 1 More Than Needed So If Somemone Rolls 7 Sometimes It Will Move 8 Or 6
-2015-05-21,363970,True,Best Game Ever Sooooo Addicting Go And Download And TAAAAP To Win 9001/10
-2015-04-19,440,True,Very Very Fun I Recommend This Game To Everyone Im %100 Sure That EveryOne Will Love This Game.If You Enjoy Any Multiplayer Games Then Go Download And Play. My Rating Out Of Ten500/10
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,370100,False,0
+2016-06-21,275390,True,1
+2016-01-20,433340,True,2
+2015-12-04,221300,True,2
+2015-05-21,363970,True,2
+2015-04-19,440,True,2

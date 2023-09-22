@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-22,301970,True,AMAZING
-2015-07-18,230410,True,"Amazing. Simply amazing. Graphics are well designed, physics are not as buggy as other games of this type (fighting) and massive customisability allows for hours of diverse gameplay. No, I'm not a paid reviewer that uses fancy words, I just have a good vocabulary."
-2014-12-13,244850,True,AMAZING MUST HAVE GAME
+posted,item_id,recommend,sentiment_analysis
+2014-12-22,301970,True,2
+2015-07-18,230410,True,2
+2014-12-13,244850,True,2

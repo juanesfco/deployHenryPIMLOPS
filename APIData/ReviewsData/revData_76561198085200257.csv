@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-03-13,221100,True,"Very fun game, Loving every bit!, Slow Development but they sure do put out very good updates!, Keep up the great work!"
-2014-10-17,730,True,"Love the competitiveness, one of the best games I have ever played, highly recommended, but if u have a low self esteem brace yourself coz some players be salty."
-2015-08-12,295110,False,"Waste of money, this game ♥♥♥♥ing sucks ♥♥♥♥."
-2015-07-10,33930,True,"One of the best games I have ever played thanks to dayz, the life mods and wasteland :D"
-2015-01-12,222900,False,Very very very boring
-2014-05-16,218230,True,Amazing game great fights amazing moments highly recomend it
+posted,item_id,recommend,sentiment_analysis
+2014-03-13,221100,True,2
+2014-10-17,730,True,2
+2015-08-12,295110,False,0
+2015-07-10,33930,True,2
+2015-01-12,222900,False,0
+2014-05-16,218230,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-31,221100,True,Sudden bullet cracks will give you PTSD!
-2014-06-17,239030,True,Welcome To Arstotzka!
-2015-12-22,393380,True,"Absolutely beautiful game, fluent gameplay, genuinely realistic and if your a fan of Dayz and Red Orchestra 1 and 2 definitely buy it if your looking for a game that has great sound; this will give you PTSD!"
-2016-08-10,223750,True,Burrrtt.... ♥♥♥♥♥♥♥♥ Блять!
-2014-06-17,219150,True,Arhh retro nostalgia :)
-2013-07-26,35450,True,"One of the most historically accuate ww2 fps game ever created allong side RO1, the devs pay attention to detail such as a serial number on a k98 or mosin nagant, and map design such as the map Fallen Fighters square in Russia, the same place the german 6th army surrended in 1945. Shooting and getting kills fills me with glee because it is that satisfying to kill some one with 1 shot in this game when you compare it with the god awful cod franchise it definitely destroyes it with far more superior  quality and gameplay. Thank you TWI for making such a wonderful game."
+posted,item_id,recommend,sentiment_analysis
+2014-08-31,221100,True,1
+2014-06-17,239030,True,2
+2015-12-22,393380,True,2
+2016-08-10,223750,True,0
+2014-06-17,219150,True,2
+2013-07-26,35450,True,1

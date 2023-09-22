@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-15,240,True,10/10 would molest
-2014-05-15,4000,True,"i took it up the bum by a NPC, loved every single moment of it11/10"
+posted,item_id,recommend,sentiment_analysis
+2014-05-15,240,True,1
+2014-05-15,4000,True,2

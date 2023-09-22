@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-31,270880,True,this game is a major improvement from the ets series but theres too much speed camera
-2014-09-09,440,True,this free game rule
+posted,item_id,recommend,sentiment_analysis
+2016-05-31,270880,True,1
+2014-09-09,440,True,1

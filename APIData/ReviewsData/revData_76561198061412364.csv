@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-21,355840,True,"De momento tiene demasiados bugs y poca jugabilidadpero me han encantado los graficos y los efectos, cuando sea multijugador masibo seguro estará increibleSolo agregenle mas armas y seguro estara en muy buen camino"
-2014-07-30,304930,True,"Es un muy buen juego, solo deben mejorar la coneccion para multijugador, pero se puede jugar con hamachi =D"
-2014-07-08,17550,True,Good game (   me gusta este mod =D   )
-2014-01-19,206420,True,nada mal    '-'
+posted,item_id,recommend,sentiment_analysis
+2015-04-21,355840,True,2
+2014-07-30,304930,True,2
+2014-07-08,17550,True,2
+2014-01-19,206420,True,0

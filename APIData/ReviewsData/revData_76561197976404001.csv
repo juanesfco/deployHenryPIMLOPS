@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-09-07,243870,True,pay to win
-2013-12-09,730,True,the best thing about this game is the mute butten
-2014-02-28,239160,True,"you like combat, then ♥♥♥♥ off back to assassin creed you ♥♥♥♥"
-2013-12-09,20920,True,you could finish this game or you could just kill yourself
-2013-12-09,63200,True,"why did i buy this game, should spent the money on a robe to neck myself"
-2015-08-26,24200,True,Super ♥♥♥♥
-2014-02-28,22380,True,its like living in the western suburbs of sydney.
-2013-12-09,202170,True,gta with dim sims and fried rice
-2013-12-09,570,True,Enjoy all the fun of australian serversThats right kids australian serversThe best part of australian servers is the part where everyone speaks and writes in everything apart from english
+posted,item_id,recommend,sentiment_analysis
+2014-09-07,243870,True,2
+2013-12-09,730,True,2
+2014-02-28,239160,True,1
+2013-12-09,20920,True,0
+2013-12-09,63200,True,0
+2015-08-26,24200,True,2
+2014-02-28,22380,True,1
+2013-12-09,202170,True,1
+2013-12-09,570,True,2

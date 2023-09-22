@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-16,259080,True,oooooooooooooooooo my god get this if you have just cause 2 if you dont have just cause 2 get it then get this
-2014-07-24,248820,True,"This is a truly exelent game. The game exels in every way posible from its fast pace action shooting to its beautiful art style. How ever one of the stand out features of this game is the music, it is truly superb and it ties the hole game together.                I definately recomend this game"
-2013-06-15,230410,True,get this game its epic and free
+posted,item_id,recommend,sentiment_analysis
+2013-12-16,259080,True,1
+2014-07-24,248820,True,1
+2013-06-15,230410,True,1

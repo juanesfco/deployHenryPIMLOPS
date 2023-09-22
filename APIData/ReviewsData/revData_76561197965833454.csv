@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-24,228760,True,"Game needs more discounts/lower price to entice gamers to try this fantastic game, which has been around for quite some years now.Has a fantastic community that is limited in numbers.Come on trackmania guys, throw me some decent discounts and ill buy/gift to a bunch of friends.Overall 8.5/10, would recommend to anyone, of any age, and runs on even the slowest of gaming PC's."
-2014-10-21,300380,True,"Suddenly i am taken back to my youth, hunched over an old arcade console spewing 20c coins into the machine to keep my dream alive.This game is a must for any old school racer who needs a nostalgia injection administered by a guy on a bike weilding a baseball bat, Gameplay is nice. smooth, still some work to be done with the AI i believe.Most importantly the Dev who is working on this release is actively patching and updating daily, i have already spoken to him in regards to some of the game mechanics and my input was welcomed and appreciated.I am yet to try co-op or multiplayer as none of my friends own this release yet, but i have no doubt it will be smooth, and any issues that are found will be fixed promptlyGiving this game 8/10, for an indie release especially, this game is fantastic."
-2015-10-29,12210,False,"Funny joke steam and GTA devs.http://puu.sh/l2qCN/df38965654.jpg is what i see on specials, still more expensive then anywhere else, but hey at least u lowered it from the $50 price tag it had prior, so lets load up aussie gta iv store page...http://puu.sh/l2qxW/66b3c1877e.png - thats entrapment you mugs, give me my 10 seconds back."
+posted,item_id,recommend,sentiment_analysis
+2015-08-24,228760,True,1
+2014-10-21,300380,True,1
+2015-10-29,12210,False,1

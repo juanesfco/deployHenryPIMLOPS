@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-06,51100,True,"A very fun game.  With both fast paced hectic modes on smaller maps, to very tactical modes on larger maps.  A very fun game plus it is made by one of the original creators of Counter Strike!  So you know it is going to be good.  Also, free to play!  And no it is not a 'pay to win' game such as Combat arms.  So what are you doing?  You should be playing, right now!"
-2013-12-30,550,True,"This game is great and easy to get into,  any Zombie action fan will fall for this game in a second!  Plus steam workshop content adds a little fun twist to the game like new maps, weapons etc.. Totally worth the price you pay.  Highly recommend."
+posted,item_id,recommend,sentiment_analysis
+2014-01-06,51100,True,2
+2013-12-30,550,True,1

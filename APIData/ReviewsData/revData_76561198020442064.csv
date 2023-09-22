@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-18,380,True,WHY VALVE
-2015-07-18,220,True,why valve
-2015-06-24,205100,True,stabby stabby
-2015-06-24,730,True,"'okay, an awp at mid, gonna nade lo-'"
-2015-06-24,233450,True,"*builds epic prison*I think I did it guys, finally, a fully functioning prison.'♥♥♥♥ THERES A VIRUS'Tries to quarantine them, guards instead decide to all slack off on that day and dont move them to solitary.Hundreds of people died.Then I realised that I had $-1.1mil balance, with -7k per day.Please buy this game."
+posted,item_id,recommend,sentiment_analysis
+2015-07-18,380,True,1
+2015-07-18,220,True,1
+2015-06-24,205100,True,1
+2015-06-24,730,True,2
+2015-06-24,233450,True,1

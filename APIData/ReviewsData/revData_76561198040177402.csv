@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-20,226700,False,Waste of time. Brought it I cant even log in through steam or through an account
-2015-06-06,271590,False,"So I bought this game. $75 No worries I can handle that. 60GB in size, okay now youre pushing me, then 2 painful days of solid downloading later and I try and play online and of course. It crashes everytime, every single time. Rockstar sometimes you can be an award winning game studios that take us on a magical journey and the rest of the time youre just that impatient twelve year old kid who ♥♥♥♥s pies and other household appliences because he cant wait to have sex."
+posted,item_id,recommend,sentiment_analysis
+2014-06-20,226700,False,0
+2015-06-06,271590,False,1

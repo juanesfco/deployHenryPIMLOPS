@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-08-04,218620,True,"Great cooperative fps, working with you friends to achieve a similar goal.Weather that goal is to run into a night club and kidnap the DJ or kill and Elvis impersonator at a casino without anyone knowing whilst wearing a santa mask.Would recomend it to anyone that likes to pull of the occasional heist.10/10"
-2014-10-26,440,True,"Great game, great to play with friends!"
+posted,item_id,recommend,sentiment_analysis
+2015-08-04,218620,True,2
+2014-10-26,440,True,2

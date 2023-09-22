@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-31,310380,True,It was free10/10 would buy again
-2016-08-30,227940,False,Scammers man
-2016-08-13,265930,True,Only the strongest will survive.....not you! The goats for ♥♥♥♥ sake7/10
-2016-08-13,275850,False,"♥♥♥♥. Pretty boring and unoptimised, I expected muiltplayer and got straight up jacked. Quality indie games, amirite."
-2015-02-10,730,True,Get shot from across the map by a AK10/10
+posted,item_id,recommend,sentiment_analysis
+2016-01-31,310380,True,1
+2016-08-30,227940,False,1
+2016-08-13,265930,True,1
+2016-08-13,275850,False,0
+2015-02-10,730,True,1

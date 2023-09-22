@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-06-05,246620,True,RAISE YOUR HAND IF YOU HATE GREENLAND!( ͡° ͜ʖ ͡°)═╝ ( ͡° ͜ʖ ͡°)═╝ ( ͡° ͜ʖ ͡°)═╝ ( ͡° ͜ʖ ͡°)═╝ ( ͡° ͜ʖ ͡°)═╝11/10 Not enough Total Organ Failure.
-2015-09-08,346900,True,Start with a lemonade stand.And end up with a lodsa money.11/10
-2015-07-28,239030,True,Girl gives me a passport.Says sex is male on the passportDoes X-RayGirl has a ♥♥♥♥♥Accepts into Arstotzkaglory to arstrotzka
-2015-05-10,230050,True,Please buy DLC Quest to review the DLC Review.I SAID BUY IT 
-2015-04-23,232090,True,Tripwire after announcing KF2 early accesshttps://youtu.be/ON-7v4qnHP811/10
-2014-09-18,550,True,Non-Laggy game kill zombies millons of zombies ENDLESS FUN!
-2014-09-03,319510,False,"It's very appealing for 8-11-year-olds, that's for sure."
-2014-08-08,218620,True,Is good.
-2014-05-30,4000,True,I only have a couple hours.Days.Weeks.Mods.Help.
-2012-08-02,440,True,"MLG TRADING HATS, CONGA, EVERYBODY SPAMMING POOTIS DENPESER HER! 11/10 its like skyrim with hats- IGN"
+posted,item_id,recommend,sentiment_analysis
+2015-06-05,246620,True,0
+2015-09-08,346900,True,1
+2015-07-28,239030,True,1
+2015-05-10,230050,True,1
+2015-04-23,232090,True,1
+2014-09-18,550,True,1
+2014-09-03,319510,False,2
+2014-08-08,218620,True,2
+2014-05-30,4000,True,1
+2012-08-02,440,True,1

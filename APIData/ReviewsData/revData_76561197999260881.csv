@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-08-16,250260,False,"End credits in 90 minutes. Lots of meh jokes. Did smirk at a few but all the way through I was waiting for the cool stuff and then it ended. Not sure I can be bothered going back for the supposed side missions and achievements. Worth $5? Not at all, maybe a $1."
-2014-01-11,200710,True,Finally loaded this up to take a look and boy did it hook me. I fired it up to kill 30 minutes and almost 2 hours later (single player) and I am enjoying every minute of it. The gameplay is well polished and it doesn't take a lot to figure out how the inventory and skills work. All very intuitive. I am very glad I purchased this one. I feel this one is going to be really competing for my gameplay time over the coming months.
-2014-05-02,3050,True,"There are definitely better games to spend $5 on. As something that came as part of a cheap bundle it is a reasonable piece of entertainment. Was a little annoying to manually setup the controls for each button on my Logitech F310 but once that was done it worked well. The graphics are pretty simple but it gets the jobs done. Very akin to the original CMR on the PlayStation which I spent a lot of time playing.Bottom line, throwing a couple of bucks at it isnt a big waste as long as you recognise that it is an older title."
-2014-04-27,99300,True,"Installed the game, tried to play with keyboard. Fail! Bought a Logitech F310. Win! This game is a lot of fun. The controls are interesting and I found myself driving like a drunk madman most of the time. The gameplay is challenging and I think that is mostly because of the out of control nature of trying to control the vehicle. I am looking forward to going back and trying the initial maps again to master them."
-2014-03-28,265930,True,Is Goat. Is Good. A good bit of fun. Who thought being a goat was such a fulfilling activity.
-2014-03-06,212680,True,"I love a good strategy game, and a quick one even better. This is a great game. I started off perishing quickly but I soon learnt some tricks. The tutorial is enough to get the basics but there is plenty more you need to learn as you go and it doesn't take too long to figure it out. A simple concept but very challenging. Definitely worth the $10."
-2013-12-25,8930,True,Awesome fun as always. Love this game.
-2014-11-30,12750,False,Does not work on Windows 7 x64. After lots of stuffing around trying to follow instructions to make it work I still couldn't get it. The system requirements do say Windows XP/Vista but you really think they would make it compatible with a modern OS.
-2014-05-31,31270,True,"A short game, but humourous and pleasant one. Family enjoyed playing through it with me.  Some puzzles were quite challenging. Some seemed a little lost and hard to grasp where to begin without going straight to a hint. Worth a couple of bucks, not much more. I got it as part of a bundle, probably wouldn't have bought it on its own."
+posted,item_id,recommend,sentiment_analysis
+2014-08-16,250260,False,1
+2014-01-11,200710,True,2
+2014-05-02,3050,True,1
+2014-04-27,99300,True,2
+2014-03-28,265930,True,2
+2014-03-06,212680,True,2
+2013-12-25,8930,True,2
+2014-11-30,12750,False,2
+2014-05-31,31270,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-08-06,208570,True,"Have you ever wanted to get so mad, you're likely to punch a baby in the face? This is the DLC for you!  I'm not talking about a simple slap across the face - mad. No, you'd come in with a dis-orienting right hook followed by a devastating upper-cut, while the grandparents were in the room - kind of mad."
-2012-08-13,8190,True,why not?
-2013-06-24,40800,True,I knew there was a reason I haven't played this game yet. I got to 1-20 before I figured I'd either get blisters on my middle finger knuckles or I'd throw my controller across the room.
-2013-04-27,234710,True,"You have four queens, Ash has four kings. This game is a stich up."
-2012-09-30,31280,True,"Fun game. But, like when you set bots to hard, they don't necessarily play any better, they just shoot you in the head a lot faster. Hard on this game means the likelyhood of you ever getting the card you want is virtually nil."
+posted,item_id,recommend,sentiment_analysis
+2013-08-06,208570,True,0
+2012-08-13,8190,True,1
+2013-06-24,40800,True,0
+2013-04-27,234710,True,0
+2012-09-30,31280,True,1

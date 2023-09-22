@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-15,219150,True,Absolutely great game! The top down design and fast paced gameplay makes this something that should be in everybody's Steam library.
-2016-02-27,250320,False,"Great game, terrible save system..."
+posted,item_id,recommend,sentiment_analysis
+2016-06-15,219150,True,2
+2016-02-27,250320,False,0

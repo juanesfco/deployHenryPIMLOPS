@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-06,730,True,"yer (buy game, much fun)"
-2015-05-29,374570,True,A film made especially for the internet.
-2013-08-14,218620,True,Im sure we all wanted to rob a bank with our friends at some point. :3
-2013-07-15,28050,True,What are you reading this for? BUY THE ♥♥♥♥ING GAME ALREADY!!!
-2012-11-09,4000,True,Funny ♥♥♥♥ happens in this game/mod and is EPIC!
+posted,item_id,recommend,sentiment_analysis
+2014-09-06,730,True,1
+2015-05-29,374570,True,1
+2013-08-14,218620,True,2
+2013-07-15,28050,True,0
+2012-11-09,4000,True,2

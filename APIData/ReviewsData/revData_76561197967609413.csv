@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-10-16,218620,False,"In 2013, producer Almir Listo wrote that 'We've made it clear that Payday 2 will have no microtransactions whatsoever (shame on you if you thought otherwise!)' -- LIAR and ♥♥♥♥ you very much!"
-2016-08-27,275850,False,Not Good... Just not good :( ... I wanted so much more but weeks and still no crash fix and the hype.. I will leave that alone. I like to give all games a fair go but this is just sad.
+posted,item_id,recommend,sentiment_analysis
+2015-10-16,218620,False,2
+2016-08-27,275850,False,0

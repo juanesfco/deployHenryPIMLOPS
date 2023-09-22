@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-08,38400,True,Fallout 1 is a hard definition to define. Its... weird. It will be unfamilar with the modern Fallout players but its... alright!Found a herd of talking cows 10 minutes in.The cows said moo.10/10 - IGN 'Would make cheeseburgers again'
-2015-09-27,4000,True,Spawned Heavy.Spawned Alyx.Put them on a dancing pole.??????Helyx confirmed.
+posted,item_id,recommend,sentiment_analysis
+2015-12-08,38400,True,0
+2015-09-27,4000,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-17,4000,True,"Great sandbox game, awesome fun with friends. The range of multiplayer modes proves how good the game is. I recommend it to anyone looking for another game."
-2013-12-16,49520,True,"Greeaaaattttt gameee omg so awesome, must get this game, graphics = amazing, storyline = amazing, characters = amazing. Jebus, get this game."
-2013-12-16,219740,True,"Fun survival game, much like Minecraft, with some differences. Got some money in ya wallet, pick up this game!"
+posted,item_id,recommend,sentiment_analysis
+2014-06-17,4000,True,2
+2013-12-16,49520,True,2
+2013-12-16,219740,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-13,391540,True,"THe level of detail in this game is magnificent. The story is compelling, the fights are fun, the amount of choices you have, and the ways they impact the game just make it a joy to play.I reccomend that you don't look at any of the game's promo material. Don't ask your friends about this game. Don't ask for help on Yahoo Answers. Instead play it, completely blind. Take the risk, because the reward is just amazing."
-2013-04-18,104700,True,Oi! I reccomend this.
-2013-03-14,440,True,The best team shooter. Play it.
+posted,item_id,recommend,sentiment_analysis
+2015-10-13,391540,True,1
+2013-04-18,104700,True,1
+2013-03-14,440,True,2

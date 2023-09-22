@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-16,4000,True,YOU CAN SPAWN WATERMELONS     10/10
-2014-01-20,212070,True,this game is great now that i know anthony plays it it makes my experience  a lot better
-2013-12-09,440,True,wow best game ever
-2013-12-18,230410,True,its fun but if you fall out of the map or off a bridge and land on a pipe or in a hole you are trapped and have to restart
+posted,item_id,recommend,sentiment_analysis
+2014-02-16,4000,True,1
+2014-01-20,212070,True,2
+2013-12-09,440,True,2
+2013-12-18,230410,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-30,265630,True,my first time on i play this game it is fun so much!
-2014-04-11,440,True,this is so amzing game it is good! and many gamemode
+posted,item_id,recommend,sentiment_analysis
+2014-08-30,265630,True,1
+2014-04-11,440,True,2

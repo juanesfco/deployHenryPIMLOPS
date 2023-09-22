@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-08-23,8850,True,"This game is a worthy successor to BioShock. It improves on key gameplay elements while still delievering a satisfying plot and game. While not as story-driven as the first, it is still an enjoyable romp through the underwater hell known as Rapture. I haven't played the Minerva's Den DLC yet but I hear it is killer! 8/10"
-2015-08-14,7670,True,"Coming back to this game after eight years was tough at first. I wasn't used to the old system of switching between plasmids and weapons and it took awhile to get used to. But after that, Boy was this the killer game of my childhood! It flows well, the story is killer and jumping on the PC instead of the console with the headphones on just made the game that much more immersive. This is a MUST-OWN title for any self-professed gamer and its essential to play through it, first time, without looking up spoilers. Would You Kindly buy this game and enjoy the HELL out of it! :P 10/10"
-2015-08-01,8870,True,"One of the greatest FPS of all time! Smart, witty and clever. Its a game for all gamers whether your new to games or a hardocre gamer there are so many things to love about it. Great Story, Great Combat make for a Killer Game! :D"
-2015-06-12,267530,True,Good game for kids and all of the family. Follows the film fairly well and gameplay is classic lego :) Reconmended for all ages!
-2014-12-27,730,True,Good FPS modelled after realistic gunplay and actual military tactics. A great game to play with mates especially in a 5v5 comp setting. Essential gaming for any gamer!
-2014-08-04,440,True,Great FPS and fun for all skill groups!! Easy to get into and fun to play with mates!!! ENJOY
+posted,item_id,recommend,sentiment_analysis
+2015-08-23,8850,True,2
+2015-08-14,7670,True,1
+2015-08-01,8870,True,2
+2015-06-12,267530,True,2
+2014-12-27,730,True,2
+2014-08-04,440,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-02,220240,True,"Really good game, the storyline is brilliant, gameplay is so much fun, co-op is amazing and really good boobie scene."
-2014-07-04,204360,True,"So fun, better with friends!"
+posted,item_id,recommend,sentiment_analysis
+2014-11-02,220240,True,2
+2014-07-04,204360,True,2

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2013-12-29,440,True,Thus Game Is Awesome!!! And Free!
-2014-08-06,269810,False,If i start the game im stuck in a boat and i cant do anything please fix it!!!
-2014-07-11,1250,True,Oh yeah 5$ thats great!!!!!!!!!!!!!!!!!!!!!!
-2014-06-16,207140,True,This game is awesome pewdiepie played it and other gamers you can laugh with friends and have endless fun you can beat people in game's but they can beat you too but what real important is : F.U.N
-2014-06-03,250320,True,Episode 5 is awesome btw good game if you like this you should check out the walking dead
-2014-03-08,550,True,This Game Changed My Life...
-2014-02-20,219740,True,One Day I Was Bored Of Playing Old Games But Then I Saw This Its Worth Your Money
-2014-01-15,4000,True,You can do everything with garry's mod endless fun alone and with friends
-2013-12-28,113200,True,Someone selled it to me i gave him my team captain ( i had 2 ) Buy it if you love hard and cool
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,440,True,2
+2014-08-06,269810,False,0
+2014-07-11,1250,True,2
+2014-06-16,207140,True,2
+2014-06-03,250320,True,2
+2014-03-08,550,True,0
+2014-02-20,219740,True,1
+2014-01-15,4000,True,2
+2013-12-28,113200,True,2

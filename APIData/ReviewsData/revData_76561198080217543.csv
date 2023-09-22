@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-18,4000,True,good
-2015-11-25,339800,True,Is got Oppai and uncensored version is gud so yes is gud
-2014-07-07,113200,True,the game is super awesome 11/10 would cry again 420 tear it no bad trips all the meat POLYPHEMUS
-2014-04-08,113020,True,It Is fun But A bit boring With out others
+posted,item_id,recommend,sentiment_analysis
+2014-04-18,4000,True,2
+2015-11-25,339800,True,1
+2014-07-07,113200,True,2
+2014-04-08,113020,True,0

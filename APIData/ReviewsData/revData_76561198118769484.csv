@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-15,4000,True,ME FEELING SOOPER DURPY! <3 IT!
-2014-05-13,252490,True,2 RUSTY 4 ME!
-2014-02-14,49520,True,Get It Now! Its Officially 100% Awesome! :3
+posted,item_id,recommend,sentiment_analysis
+2014-08-15,4000,True,2
+2014-05-13,252490,True,1
+2014-02-14,49520,True,2

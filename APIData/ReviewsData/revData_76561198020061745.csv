@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-27,295110,False,"Just, seriously, don't."
-2015-01-28,313120,True,Saving breaks the game
+posted,item_id,recommend,sentiment_analysis
+2015-12-27,295110,False,0
+2015-01-28,313120,True,0

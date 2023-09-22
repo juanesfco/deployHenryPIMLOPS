@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-28,223710,True,"I always like old games over new ones, I prefer fallout 1 to fallout 4, I like halo ce more than halo 3, I couldn't care less if DOOM was revamped as long as the old version still exists, the way old game were made was mostly to fit inside now very obsolete possessing systems, like NES and original xbox, the fashion in which they fit it shows character, as they trimmed out the fat, this is one of those games. A slim middle ages working man with a battle hardened smile that will never fade, even if you're not sure about this game, it doesn't take up much space and is FREEEEEEE! Worth the download time"
-2016-02-10,221910,True,"'there was nothing here, no choice to make, no path to follow, just an empty broom closet' -narrater"
+posted,item_id,recommend,sentiment_analysis
+2016-07-28,223710,True,2
+2016-02-10,221910,True,1

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-01-19,263440,False,Could have been a amazing game if the devs didnt ditch the game and run with our money
-2014-06-06,104900,False,One of the worst games I have played
-2015-03-14,219150,True,Gr8 m8 I r8 8/8
-2014-12-20,241930,True,"This game has alot of the same features of Assassin's Creed but is 10 times better than most of them. So if you have played any and enjoyed them then this is the game for you. It has a good story, challenging combat and is in my opinion the best of all the Lord of the Rings games."
-2014-09-16,206190,True,"Short, But Sweet10/10  Entertaining and worth the money!"
-2014-08-28,261030,True,Kenny All The Way!10/10
-2013-12-23,205100,True,One of the best games I have played in a while!
-2015-07-10,208650,True,"Great story and combat, only problems are the fps drops and tank battles"
-2015-06-09,374570,True,10/10 watched it 3 times and still love it
+posted,item_id,recommend,sentiment_analysis
+2015-01-19,263440,False,1
+2014-06-06,104900,False,0
+2015-03-14,219150,True,1
+2014-12-20,241930,True,2
+2014-09-16,206190,True,2
+2014-08-28,261030,True,1
+2013-12-23,205100,True,2
+2015-07-10,208650,True,2
+2015-06-09,374570,True,2

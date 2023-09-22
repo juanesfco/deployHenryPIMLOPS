@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-11-23,312150,True,"Bom Jogo,Bem Feito,Otimo,Tipo De Grafico Muito Bom"
+posted,item_id,recommend,sentiment_analysis
+2014-11-23,312150,True,2

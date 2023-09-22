@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-03-20,620,True,One of the best games ever!
-2014-07-02,440,True,Awesome!
-2015-01-09,295270,True,It's one of the best football games hands down
-2014-11-08,312990,True,This is the greatest game ever and it's also free!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2014-07-02,249870,True,Can't stop playing!
-2014-04-17,213330,True,A must have for lego fans!
+posted,item_id,recommend,sentiment_analysis
+2014-03-20,620,True,2
+2014-07-02,440,True,2
+2015-01-09,295270,True,2
+2014-11-08,312990,True,2
+2014-07-02,249870,True,1
+2014-04-17,213330,True,1

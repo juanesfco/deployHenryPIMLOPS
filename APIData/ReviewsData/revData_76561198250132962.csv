@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-09-05,55140,False,"I don't know why, I've tried changing all my settings from high to low and I am always on 20fpsI have a i-5 8GB ram geforce gtx 750 so why can't I run the game?"
-2016-01-30,730,True,This game is the best
+posted,item_id,recommend,sentiment_analysis
+2016-09-05,55140,False,1
+2016-01-30,730,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-01,346900,True,"Adventure Capitalism Is A Great Game, You Roll In Infinite Stacks Of Money, Reset Your Game And Get Angel Investors To Large Increasements In Your Money And Go To Space And Unlock New Investments. This Game Is A Great Game 10/10"
-2015-01-15,322330,True,I have been playing for 2 weeks and this is the best dlc i have played in my life! thank you Klei Entertanment for making multiplayer be possible in don't starve! :D
-2014-10-02,219740,True,"Don't Starve is A Survival Type Game You Have To Craft Tools,Make Science Sort Of Things To Make More Items and I Really Like This Game."
+posted,item_id,recommend,sentiment_analysis
+2015-07-01,346900,True,1
+2015-01-15,322330,True,2
+2014-10-02,219740,True,1

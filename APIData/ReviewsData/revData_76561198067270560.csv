@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-04,200260,True,"Yo, I'm terrible at video games which makes me not want to play them, but this game is ♥♥♥♥ hot, even for me. Highlights include: anything with Harley Quinn cos she's the best character. Graphics are sick too. The controls on PC are a bit confusing and takes a while to get used to the camerawork but overall it's fully sick."
-2014-12-10,8870,True,"I love this game more than I love most things. I wish I could play it through for the first time again. It has amazing imagery, and an incredible story. If you like FPS and cool stories and BEING IN THE SKY then yes 100% this game is for you."
-2014-06-18,203160,True,"Tomb Raider is excellent. It makes you fall in love with Lara Croft and then watch her die, over and over again. You will die, a lot. The graphics and combat is excellent, too. I'm also a bit involved in the story as well, I'm loving it. Haven't completed it yet, but will get there."
-2013-12-30,221810,True,"I love this game! So many puzzles and the stories are so dark, I love it. You can only play 3 characters at once and they've given you 7 so you have to play through three times to get all of the stories. My favourite are the ghost twins and the archeologist. If you love thinking puzzles like Portal then you'll love this too."
-2012-07-23,620,True,this game is essentially the reason i got Steam (cos everyone was like oMG GRETA PLAY PORTAL ITS SOOO FUN!!!1!!) and it is pretty fun and i'd like a portal gun.
+posted,item_id,recommend,sentiment_analysis
+2013-12-04,200260,True,0
+2014-12-10,8870,True,2
+2014-06-18,203160,True,2
+2013-12-30,221810,True,2
+2012-07-23,620,True,1

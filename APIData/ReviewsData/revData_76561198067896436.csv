@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-25,237110,True,"jogo muito ♥♥♥♥! meu Deus, to apaixonado.... mas é impossivel passar do scorpion e do quan chi no muito dificl '-'  o dificil foi ♥♥♥♥ tb de passar kkk mas é muito ♥♥♥♥ o jogo!"
-2012-09-27,440,True,um dos melhores jogos q ja joguei se não for o melhor!
+posted,item_id,recommend,sentiment_analysis
+2014-12-25,237110,True,1
+2012-09-27,440,True,2

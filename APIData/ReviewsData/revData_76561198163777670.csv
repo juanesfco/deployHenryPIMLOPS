@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-11-04,221100,False,"Way too many glitchers, i know its a 'Early Access Game' but its been out for over 2 years its just a excuse because of all the lag and glitchers"
-2016-02-02,440,True,"This is a very good game, I know i only have 2+ hours on it, But i just started, and i plan on getting Alot more hours :steamhappy: Would recommend :steamhappy:!"
-2015-06-14,730,True,"Gr8 b8 m8 i r8 8/8 no h8 -IGNGotta go faster -SanicNeeds moar trains -I liek trains kidMud, kip -MudkipGet Shrekt -ShrekSMARK WARD ARVWAH DAHHH -Snupp DogeTHAT'S RIGHT GET NOSCOPED -SqueakerNothing -Baby sun blokeInaudible screams -Other SqueakerThe truth -LoomynatiWeight did you see dat? -Illuminati"
-2016-05-15,273770,False,This May be one of the worst games i have ever played on steam...
-2016-05-15,239820,True,"This is one of those games that got me hocked right away,I only have 2 hours on this game because i got it 2 hours ago but this is quickly becoming one of my favorite Games on Steam. 10/10 :d20: :steamhappy:"
-2016-02-22,550,True,"almost 7 years and still one of the best games i have played, (My other account has 120+ hours)"
-2016-01-27,242760,True,"Please Note: I only have 7+ hours on this account but on my other account i have 75+The Forest is a Horror survival, You start off in a plane, The plane crashers and You are the only survivor Or Are you?You will have to make shelter, fire so on,But be carful...The 'cannibals' Will try to get you and you have to defend your selfI would reccoment this game 100% Worth The Money"
-2015-04-13,304930,True,"I recommend this game, it is such a fun game to play, it is like minecraft and Day-Z in one."
+posted,item_id,recommend,sentiment_analysis
+2015-11-04,221100,False,1
+2016-02-02,440,True,2
+2015-06-14,730,True,1
+2016-05-15,273770,False,0
+2016-05-15,239820,True,2
+2016-02-22,550,True,2
+2016-01-27,242760,True,1
+2015-04-13,304930,True,0

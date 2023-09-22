@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-25,275850,False,"After playing for what feels like years doing the monotonous crafting and resource gathering and finially going out into the universe and hoping for all the things they promised in the mounths before. This game is dull, boring misleading and most of all after spending so much time trying to get to the centre of the universe they give you the middle finger. This game is a HUGE let down and the 60 USD i spent to get it was over priced for the final result, i was hoping to be ble to take controll of a charactors life and choices thought a almost endless galaxy but instead it feels like you in a dull and almost static universe with no goal and nothing to do."
-2015-12-09,730,False,"Gaben, Oh Lord Gaben seems to always try to fix stuff that isnt broken nd change things that dont need to be changed thats Steam :)"
+posted,item_id,recommend,sentiment_analysis
+2016-08-25,275850,False,1
+2015-12-09,730,False,1

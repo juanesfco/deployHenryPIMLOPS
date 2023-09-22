@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-29,322910,True,"Extremely fun strategy game, even for someone who sucks at normal chess. New to the Warhammer Universe but from what ive played so far; Graphics are awesome, easy learning curve to the strategy aspects, cool executions and nullifies the repetitive feel of normal chess, turning it into something i'll continue to play for many hours to come. You sorta have to play for ages to level up your stuff but its worth it. Overall very fun game, and authentic to the 40k universe9/10"
-2013-10-05,8870,True,"Awesome, fun, emmersive game. Classic Bioshock combat, great story (pay attention to it) a definite for all who can afford it. :)"
-2013-06-19,221640,True,"MAD GAME, REALLY ADDICTIVE, JACK IS ♥♥♥♥"
+posted,item_id,recommend,sentiment_analysis
+2015-09-29,322910,True,2
+2013-10-05,8870,True,2
+2013-06-19,221640,True,0

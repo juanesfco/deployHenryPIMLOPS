@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-19,363440,False,"I really want to love this collection, but the frequent crashes and not too frequent but still annoying audio glitches (as well as the input lag and lack of video settings) make this game a borderline pass. I had less lag from an emulator, and emulators are usually known for having lag. Don't recommend this until they patch this out, this is ridiculous."
-2014-11-17,332800,True,"In my opinion, five night's at freddy's 2 brings to the table the pants ♥♥♥♥♥♥♥♥ elements that the first game kind of lacked. It is a lot scarier, and a lot harder than the previous game, and has a much more stable system to keep you on edge. Definitely pick this up, especially if you're a big fan of the first game."
-2016-05-15,427520,True,"Jeez.Factorio is a game where you begin with nothing but a few iron plates (which you are pretty much forced to make a pick out of) and you build a variety of things ranging from conveyor belts to turrets to defend your massive automated system. The game is also addictive to an unhealthy level, with the 2.2 hours I currently have on factorio being from the first launch. :/"
-2015-10-20,359050,True,Beautiful masterpiece 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-10-19,363440,False,0
+2014-11-17,332800,True,1
+2016-05-15,427520,True,0
+2015-10-20,359050,True,2

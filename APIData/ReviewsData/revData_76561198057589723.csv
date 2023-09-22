@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-07,346110,False,Not recommended until fully optomized
-2015-12-07,225540,True,"Hands down the best fun ive had in a game in a long time, highly recommend giving it a go"
-2015-12-07,252950,True,"Can easily lose track of time when playing this game, good game to kill time"
-2015-09-22,363970,True,Can't... stop... clicking...
-2015-08-28,730,True,Got family?Got friends?Not anymore you don’t.
+posted,item_id,recommend,sentiment_analysis
+2015-12-07,346110,False,1
+2015-12-07,225540,True,2
+2015-12-07,252950,True,1
+2015-09-22,363970,True,1
+2015-08-28,730,True,1

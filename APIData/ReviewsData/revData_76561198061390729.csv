@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-21,231430,True,"The game is really challenging and really needs teamwork and cooperation. I really recommend this game, because of the game's difficulty. Challenge is <3"
-2014-07-09,1250,True,This game is fun and can be addicting for me it is one of the best MMFPS Game I ever played. I really recommend this game
-2013-05-19,730,True,"The game is fun, I guess so?"
-2016-01-29,304930,True,DayZ: Low Budget
-2014-01-01,201790,True,"Awesome Game. I Recommend this game because it is fun, especially gores. This game is like a tower defence I really recommend this game"
+posted,item_id,recommend,sentiment_analysis
+2016-03-21,231430,True,1
+2014-07-09,1250,True,1
+2013-05-19,730,True,1
+2016-01-29,304930,True,1
+2014-01-01,201790,True,1

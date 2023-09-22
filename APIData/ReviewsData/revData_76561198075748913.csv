@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-19,33900,True,just love this game!
-2015-08-28,388520,False,urgh wayyyy to much like aw you would be better off playing blacklight retribution ... its free i would not pay for this
-2015-03-10,218620,True,"one of the best gmes I have played, although it is quite large"
-2014-11-14,113200,True,That fun game you play as a seccond game now and againwould recomend everytime!have fun.
-2014-06-23,49520,True,yes...amazing
+posted,item_id,recommend,sentiment_analysis
+2014-10-19,33900,True,1
+2015-08-28,388520,False,2
+2015-03-10,218620,True,2
+2014-11-14,113200,True,1
+2014-06-23,49520,True,1

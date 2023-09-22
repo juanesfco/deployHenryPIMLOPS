@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-01-08,65800,True,hecktic game
-2015-01-06,4000,True,"is banned from 15 TTT servers,15/10 Would get banned again"
-2014-12-07,17080,True,fun.
-2014-11-21,219640,True,If your not laughing in the first 3 minutes of your first game you have no sense of humorI cut 2 people's heads off with 1 swing18/10 Would cut their heads off again
-2014-11-12,8190,True,hooked onto a jet and when the pilot got to the max altitude i ripped him out and dive bombed him in mid-air 10/10 becasue why not?
-2014-11-11,730,True,ive played for almost 10 hours and i think i belong in russia10/10 would russian all over again
-2014-10-11,301520,True,Not Russian Infested45/10 Would Not Russian Again
-2014-07-23,209870,True,full of british ♥♥♥♥♥♥s -5/10
+posted,item_id,recommend,sentiment_analysis
+2015-01-08,65800,True,0
+2015-01-06,4000,True,1
+2014-12-07,17080,True,2
+2014-11-21,219640,True,1
+2014-11-12,8190,True,1
+2014-11-11,730,True,1
+2014-10-11,301520,True,1
+2014-07-23,209870,True,2

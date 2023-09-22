@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-04,570,True,Great Game lots of fun.Endless hours of gaming
-2014-10-09,248570,True,This game is really good but hard at the start
+posted,item_id,recommend,sentiment_analysis
+2014-12-04,570,True,2
+2014-10-09,248570,True,1

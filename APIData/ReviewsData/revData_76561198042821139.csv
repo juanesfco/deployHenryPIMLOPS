@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-27,620,True,"Although the first Portal was better IMO, Portal 2 is just as fun and the campaign, although quite short is still a blast. Portal 2 also has co-operative play and a easy to use puzzle maker which will keep you coming back for more. 9.5/10"
-2015-01-27,440,True,"It's really fun, but the amount of micro transactions and cosmetic items in the game makes me sad. :(However that shouldn't stop you from playing this, as this is still one of the greatest team-based multiplayer shooters in the last decade. 8/10."
-2015-01-27,4000,True,"This is seriously one of the best sandbox games ever made!I recommend getting The Orange Box and/or Counter-Strike Source before buying this though, cause you'll be missing out on more than half of the addon content in the workshop without it.10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-01-27,620,True,2
+2015-01-27,440,True,1
+2015-01-27,4000,True,2

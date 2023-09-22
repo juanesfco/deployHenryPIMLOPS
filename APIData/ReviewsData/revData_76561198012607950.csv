@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-24,241560,True,"Well what can I say about The Crew, An absolutly fantastic Online MMO Driving Sim that has be one of the best so far. Stuning Graphics, Huge Server Supporting Hundreds of Players interacting on one great map. Where they where taking ideas from Atari's TDU/TDU2 concept and other Drivering Sims and making the first true 21st Online Car Sim That truely beats GTAV or any other Real World Sim that has free form driving.The Driving Experience is just inspiring to invision the next installment of this Game. we cant wait if they create Europe Maps or Go Crazy and create a map of the whole world :)."
-2014-02-28,440,True,"Team Fortress 2 is a Half Life 2 Engine based FPS Deathmatch game.If your looking for a game to play online and free, well this is the game to play. If ou just want to play for 5 mins or 5 hours this game is for you , with stunning maps and fast responce time, your looking to have a good old time"
-2014-09-20,9930,True,"Fantastic Game, One of the best Driving Sims of all time. Great Community Group"
+posted,item_id,recommend,sentiment_analysis
+2015-12-24,241560,True,2
+2014-02-28,440,True,1
+2014-09-20,9930,True,2

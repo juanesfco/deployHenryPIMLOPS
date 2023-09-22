@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-08,440,True,"I've only played for a tiny bit, its pretty good."
+posted,item_id,recommend,sentiment_analysis
+2014-12-08,440,True,2

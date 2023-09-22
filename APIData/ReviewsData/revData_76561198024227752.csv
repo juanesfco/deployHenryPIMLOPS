@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-03-15,346010,True,i like it. good solid fun worth the full price.
-2014-01-11,440,True,I was surrounded by fat russians in beanies who force fed me sandwiches and then forced me to laugh by punching me. I like this game10/10
+posted,item_id,recommend,sentiment_analysis
+2015-03-15,346010,True,2
+2014-01-11,440,True,1

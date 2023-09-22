@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-03-15,208030,False,This game is officially dead. Only US East Server and noone playing on it.
-2016-06-28,303210,False,"I can see the message they developer was trying to send, but the fact he's charging money for an apology seems a bit offhanded. Main metaphor comes of as a bit pretentious. I empathise with  'Coda''s thoughts on the Author. This really should have been free and not charging money for it.Very well made though."
-2016-06-30,227680,False,Shovelware. Do not attempt to purchase at all.
-2013-12-16,22300,True,One of the most amazing games ever created! It goes on my list of best games of all time!
-2014-07-02,218620,True,Meth Cooking Simulator 201411/10
+posted,item_id,recommend,sentiment_analysis
+2014-03-15,208030,False,0
+2016-06-28,303210,False,2
+2016-06-30,227680,False,1
+2013-12-16,22300,True,2
+2014-07-02,218620,True,1

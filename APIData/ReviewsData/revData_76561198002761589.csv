@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-19,245550,True,"Solid film and easy to watch, but probably because I play Dota."
-2014-01-14,232790,True,"I highly recommend this game to anyone looking for an extremely enjoyable point and click experience. The puzzles aren't particularly difficult, but it's the plot, setpieces and dialogue (with talents such as Elijah Wood, Jack Black, Pendleton Ward, Jennifer Hale and Wil Wheaton) make it truly a memorable experience. Thanks Mr. Schafer!"
+posted,item_id,recommend,sentiment_analysis
+2014-03-19,245550,True,2
+2014-01-14,232790,True,1

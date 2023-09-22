@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-15,72850,True,"Mods, mods, and many more mods"
-2015-07-25,252950,True,"Whether you win or lose, you'll have fun"
-2013-05-30,55230,True,"Stellport is a city just waiting for you to cause chaos with cars, guns and so much more."
-2012-07-06,105600,True,Unicorns are evil
+posted,item_id,recommend,sentiment_analysis
+2014-11-15,72850,True,2
+2015-07-25,252950,True,2
+2013-05-30,55230,True,2
+2012-07-06,105600,True,0

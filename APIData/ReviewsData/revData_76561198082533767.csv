@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-12,730,True,♥♥♥♥ PRA CARAMBA E VICIA PENAQUE QUANDO EU JOGUEI  ERA TESTE
-2013-12-01,550,True,♥♥♥♥ mais meio  chato e injoadivo
-2014-02-08,13560,False,este jogo nao pegou  quando eu vo joga ele abre o menu e nao responde mais nao sei o problema alguem me ajuda
+posted,item_id,recommend,sentiment_analysis
+2014-01-12,730,True,1
+2013-12-01,550,True,0
+2014-02-08,13560,False,0

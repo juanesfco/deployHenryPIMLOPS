@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-05-21,271590,True,Idiot Heist Team Simulator 2015
-2015-09-13,8870,True,great storyline. left me speechless.
-2014-01-12,730,True,rank up and then rank down simulator. and also operation pass simulator
-2015-02-04,227940,True,gr8 bicycle simulator m8. 8/8
-2014-03-24,222900,True,You will like this gamet [images.t-nation.com]
-2014-06-24,4000,False,Download Simulator. I can't even join a server because i have to download tons of stuff....
-2014-05-26,265630,True,i can shuutzzeim a cowboyy
-2015-05-23,39000,True,Ƒucking curse on chat simulator 201569/10 would Ƒucking play it again!
-2015-01-28,264120,True,i just want to try it.
-2014-12-26,12210,True,it's okay
+posted,item_id,recommend,sentiment_analysis
+2015-05-21,271590,True,0
+2015-09-13,8870,True,2
+2014-01-12,730,True,0
+2015-02-04,227940,True,1
+2014-03-24,222900,True,1
+2014-06-24,4000,False,1
+2014-05-26,265630,True,1
+2015-05-23,39000,True,1
+2015-01-28,264120,True,1
+2014-12-26,12210,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-25,218230,True,"Best F2p games so far, good graphics and community!! 10/10"
-2015-06-20,202970,False,Dont get this stupid ♥♥♥♥en game.. waste of your ♥♥♥♥en time!!!! match macking is worst then my dog takin a ♥♥♥♥. bunch of hacks and trearch doesnt do jack ♥♥♥♥ to help... dont buy this ♥♥♥♥en ♥♥♥♥ game
+posted,item_id,recommend,sentiment_analysis
+2014-05-25,218230,True,2
+2015-06-20,202970,False,0

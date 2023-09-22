@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-17,440,True,Muito Bom!
-2014-05-19,206500,True,NICE!
+posted,item_id,recommend,sentiment_analysis
+2014-10-17,440,True,2
+2014-05-19,206500,True,2

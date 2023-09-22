@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-03-13,730,True,argh wtf those ranks!
-2015-03-13,307880,True,"This game has been very good so far, its ♥♥♥♥ing awesome, you can kill dragons, orcs, skeletons and wolves. its ♥♥♥♥ing awesome!"
-2015-03-13,107410,True,hunkenjunek lol
-2015-02-28,236850,False,hunk a junk lol
-2016-02-24,377160,True,i run witf wofy to town s loot it! fun HahhahaahaxD
-2015-03-16,200510,True,holy ♥♥♥♥ shot saved the world! ♥♥♥♥ing sick game af!!!!! Blakey killed 2 etherals in one turn holy ♥♥♥♥!!!!! ♥♥♥♥ing best game out!
+posted,item_id,recommend,sentiment_analysis
+2015-03-13,730,True,0
+2015-03-13,307880,True,2
+2015-03-13,107410,True,2
+2015-02-28,236850,False,2
+2016-02-24,377160,True,2
+2015-03-16,200510,True,0

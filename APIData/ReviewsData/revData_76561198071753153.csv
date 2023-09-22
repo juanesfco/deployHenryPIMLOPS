@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-19,222880,True,"This game is really good! I find it to the be basically the tacticalness of Arma 3 infantry, but the gunplay of battlefireld! Highly recommended, it also runs very well while still looking very good on the source engine.Downside is that the servers are a bit empty! But that can always change!"
-2015-11-02,730,True," HELP ME MY COMPUTER IS TAKING OVER  I LOVE GABEN AND WILL SPEND MY WALLET. Seriously, this game is great, super fun and competitive and unlike any other FPS out there. Definietly worth playing, especially with good devs and the free DLC maps (operations)"
-2014-07-12,304930,True,I walked into a town and ate moldy corn. 10/10 Death Simulator
+posted,item_id,recommend,sentiment_analysis
+2015-12-19,222880,True,2
+2015-11-02,730,True,2
+2014-07-12,304930,True,1

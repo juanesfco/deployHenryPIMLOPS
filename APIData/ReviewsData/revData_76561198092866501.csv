@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-12-26,440,True,เป็นเกมที่ดีมากๆเลย แถมเป็นที่ 1 ของเกมบน Steam ด้วย :D
-2016-06-20,359550,True,Really Fun game :D
-2015-08-30,307780,True,Super Good Game :3 I love it !!!11/10
-2014-11-08,4000,True,:D
-2014-03-12,550,True,Like Is Game I Love Game Left 4 Dead 2 ♥♥♥
-2015-07-06,346110,True,11/10 Good gameLike ride dinosuar :D
-2014-05-03,226700,True,เป็นเกมที่สนุกมากๆเลยครับ(แต่เกมมันเข้าเซิฟแล้วหลุดบ่อยมากๆครับ) (แต่ก็สนุก)
-2015-06-20,295110,False,Can't login game
+posted,item_id,recommend,sentiment_analysis
+2013-12-26,440,True,2
+2016-06-20,359550,True,2
+2015-08-30,307780,True,2
+2014-11-08,4000,True,2
+2014-03-12,550,True,1
+2015-07-06,346110,True,2
+2014-05-03,226700,True,1
+2015-06-20,295110,False,0

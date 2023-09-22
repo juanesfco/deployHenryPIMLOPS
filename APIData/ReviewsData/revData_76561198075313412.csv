@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-22,4000,True,me gusta este juego es muy adictivo XD
-2013-12-22,224540,True,me gusta muy parecido al minecraft
+posted,item_id,recommend,sentiment_analysis
+2013-12-22,4000,True,0
+2013-12-22,224540,True,1

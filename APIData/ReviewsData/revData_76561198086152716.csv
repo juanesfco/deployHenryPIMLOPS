@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-02,72850,False,Stop trying to find a reason not to buy this game! BUY IT!
-2015-05-22,355250,True,Crashes on startup :/ Was really looking forward to this game.
-2014-06-24,226720,True,11/10 would have no idea hat the story is about but all I know is you shoot spiders and blow ♥♥♥♥ up! 11/10!
+posted,item_id,recommend,sentiment_analysis
+2015-05-02,72850,False,0
+2015-05-22,355250,True,0
+2014-06-24,226720,True,1

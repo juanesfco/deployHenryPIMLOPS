@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-03,72850,True,I killed a chicken and got a bounty 11.1/10
-2014-07-20,34330,True,Sold my daughter.                                                                                                                                                                                           11/10
-2014-04-22,200210,False,This game use to be so much fun untill nexus bought it what ruined the whole game.. do not reccomend i want the old one back !!
-2014-04-22,204030,True,this game i have played since my childhood this is one of the most amazing games ever made you can even kick chickens lol i rally reccomend this game!
-2014-08-07,209080,False,no just no.
+posted,item_id,recommend,sentiment_analysis
+2014-08-03,72850,True,0
+2014-07-20,34330,True,1
+2014-04-22,200210,False,1
+2014-04-22,204030,True,2
+2014-08-07,209080,False,1

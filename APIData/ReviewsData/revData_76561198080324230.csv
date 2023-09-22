@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-02,307780,False,"Do not buy this game. As of 20 January 2016, NetherRealm Studios has officially ended support for Mortal Kombat X on PC. - No Improved Netcode- No Kombat Pack 2 (Leatherface, Bo'Rai Cho, Triborg, Xenomorph)- No New Stages- No Mortal Kombat XL bundleAnd I was looking forward to this XL bundle, such a waste."
-2016-03-14,99810,False,Games for Windows Live is cancer
+posted,item_id,recommend,sentiment_analysis
+2016-03-02,307780,False,0
+2016-03-14,99810,False,2

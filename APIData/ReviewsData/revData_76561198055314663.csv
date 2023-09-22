@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-11-27,224260,True,this game is so good  is awmsome and is  you sure play  is awmsome
-2016-08-13,301520,True,this game is  so fun to play  they should have boss mode
-2016-04-04,263280,True,i lover it
-2014-06-05,262410,False,v
-2014-03-01,250600,False,nu
+posted,item_id,recommend,sentiment_analysis
+2013-11-27,224260,True,2
+2016-08-13,301520,True,1
+2016-04-04,263280,True,1
+2014-06-05,262410,False,1
+2014-03-01,250600,False,1

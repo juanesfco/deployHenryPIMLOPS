@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-04-02,47400,True,"Jogo é exelente mais não recomendo comprar pelo preço original espere uma promoção,comprei esse jogo  junto com toda sua saga e dlc's por 20 a 25 reais se não estou enganado"
-2015-01-02,48700,True,Sem palavras um jogo muito ♥♥♥♥ te prenderar horas e horas esse jogo recomendo muito!
+posted,item_id,recommend,sentiment_analysis
+2015-04-02,47400,True,2
+2015-01-02,48700,True,0

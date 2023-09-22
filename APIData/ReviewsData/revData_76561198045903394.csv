@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-16,391540,True,"It's not very common for a game to both be able to satirise game genre and geek culture while also having an engaging story and enjoyable gameplay. Undertale somehow does this, I'm still not sure how. It's a game that can shift between not taking itself seriously and criticizing you for treating it as just a simple game,Tem out of Tem."
-2015-01-27,237930,True,"Great and immersive story with amazing world building, complex gameplay that manages to put a creative twist on Bastion's isometric RPG style, and a soundtract that is just a joy to listen to at nearly all points of the game. I seriously can't think of any downsides other than the game's length. This is game of the year for me."
-2014-11-26,218620,True,A story of a heroic struggle of 4 brave men against the thermal drill.
-2013-12-06,256410,False,It's like taking any fun card game like Magic Or Yugioh and taking away the fun and crazy
+posted,item_id,recommend,sentiment_analysis
+2015-11-16,391540,True,1
+2015-01-27,237930,True,1
+2014-11-26,218620,True,2
+2013-12-06,256410,False,1

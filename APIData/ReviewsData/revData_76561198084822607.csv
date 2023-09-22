@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-09,224580,True,"Even though it takes a while to get it working, this mod is easily one of the most enjoyable and advanced mods on the market to this date! Could not recomend enough!"
-2014-02-12,209870,False,VERY hard to get used to and very heavy 'pay to win' game style
-2013-12-12,730,True,"Heaps of fun! Verry addicting, makes you wanna play more and more"
+posted,item_id,recommend,sentiment_analysis
+2014-07-09,224580,True,2
+2014-02-12,209870,False,1
+2013-12-12,730,True,2

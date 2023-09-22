@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-09-10,49600,True,There is now way this is good for your brain.
-2015-04-18,234710,True,"Was like 13 when I played this, probably the only 13 year old to have played the Sam and Max games watched the Venture Bros. and actually knew how to play poker before the Poker Night games. (I also played played BL1 & 2 and portal 1 & 2 but so what, every kid with and Xbox had so whatever)."
-2015-04-18,294860,False,Have to be a hardcore animu kawai desu to enjoy this boring... I guess shooter ¯_(ツ)_/¯ If you squint really hard and turn your head it looks a bit like a strategy game.
-2015-04-18,246620,True,"Wonder why there are so many addons when its only in early acess? Because it's one of the easiest games to create customs modes for... seriously like 5 minutes it takes.Good stuff, Cheers!"
-2015-04-18,265630,True,"Unique shooter with good mechanics, active community, cool game modes and a badass cowboy theme. On top of all that its free... why don't you have it yet scrubs!?"
-2015-04-18,107100,True,Tried to get my 5+ years WoW addict mate to come on steam more often so I bought him a game on sale for $3. A few days later he tells me its one of the best game he's ever played. Cheers!
-2015-03-19,224260,True,"Used to play this back in the days when this was still a mod with about 4 nmo maps and 3 nms maps... boy has it come a long way, its impossible not to recommend this game especially when its free."
-2015-03-19,282800,True,100% great fun and 100% target of verbal abuse from judgemental freinds everytime I play this game. 100%/10
-2015-03-12,223710,True,"This was great, I wish there was more content... maybe now I'll go play Affraid of Monsters :)"
+posted,item_id,recommend,sentiment_analysis
+2015-09-10,49600,True,2
+2015-04-18,234710,True,1
+2015-04-18,294860,False,0
+2015-04-18,246620,True,1
+2015-04-18,265630,True,2
+2015-04-18,107100,True,1
+2015-03-19,224260,True,1
+2015-03-19,282800,True,2
+2015-03-12,223710,True,2

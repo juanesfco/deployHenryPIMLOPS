@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-26,4000,True,its not the best because u have to have cs source to actually enjoy the game with all the textures. but its an ok game for 10 bucks 6/10
-2014-04-12,99900,False,gay peice of rubish
-2014-10-06,323500,True,some pretty cool DLC that i dont even know but still asks me to write a review
-2014-02-11,252490,False,♥♥♥♥♥♥♥t peice of garbage 3/10
-2013-12-06,55230,True,really good game. If ur looking for a good challenge and great customization in character and vehicle. i reccomened it and give 5/5
-2013-10-19,218620,True,"this game is amazing. good variety of masks,guns and customization."
-2013-08-10,34880,True,hey you should get this
+posted,item_id,recommend,sentiment_analysis
+2014-07-26,4000,True,2
+2014-04-12,99900,False,2
+2014-10-06,323500,True,2
+2014-02-11,252490,False,1
+2013-12-06,55230,True,2
+2013-10-19,218620,True,2
+2013-08-10,34880,True,1

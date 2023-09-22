@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-19,570,True,nice game. dota2 yeyyyy
-2014-10-14,207230,True,"Ive been enjoying my time playing ArcheBlade but it has a TON of room for improvement.As a gamer who's played a lot of Free-to-Play games, I was very skeptical when I began installing ArcheBlade. Yet I've been playing it for several consecutive hours now and plan to invest even more time into it. I wholeheartedly recommend this game but do so with a word of caution; ArcheBlade is incomplete. So If you're looking for a polished MOBA alternative you might find yourself a bit flustered with ArcheBlade's shortcomings.Pros:+Gameplay is fast and fun and can entertain you for hours+Multiple characters to choose from who, besides a few, all play differently+Graphics are nothing spectacular but pretty nonetheless+Practice mode lets you try every character before you purchase them+In-game tutorial to teach you the basics"
-2014-04-25,271290,True,nice
+posted,item_id,recommend,sentiment_analysis
+2014-04-19,570,True,1
+2014-10-14,207230,True,2
+2014-04-25,271290,True,2

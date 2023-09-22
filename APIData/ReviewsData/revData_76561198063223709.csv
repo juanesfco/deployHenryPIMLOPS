@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-09,8870,True,"This game is insane, one of my favourite shooters too this date. Can't believe how cheap this is for what it is. Well worth a buy!"
-2014-04-21,7940,True,"One of my all time favourite shooters dated back to 2007 this game brought me many hours of gameplay through PS3 to now PC, if you're looking for a shooter which is made for competative multiplayer then give this one a go, keep the Australian servers going!"
+posted,item_id,recommend,sentiment_analysis
+2014-07-09,8870,True,0
+2014-04-21,7940,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-25,261030,True,The feels 2.0
-2015-02-17,730,True,pretty good
-2015-02-09,34900,True,10/10
-2015-02-03,220,True,its half life
-2014-09-25,2310,True,cool
+posted,item_id,recommend,sentiment_analysis
+2014-12-25,261030,True,1
+2015-02-17,730,True,2
+2015-02-09,34900,True,1
+2015-02-03,220,True,0
+2014-09-25,2310,True,2

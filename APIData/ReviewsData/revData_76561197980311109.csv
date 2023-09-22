@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-07-30,3720,True,"great game, super base construction, characters and combat is great.could hav more 'world' / 'globe' features but otherwise BEST GAME EVER"
-2014-05-19,8870,True," Great story, combat and aesthetics. super good graphics. Most definitely recommended."
-2015-01-26,298110,True,"very good game, great with co-op.but the bases and fortresses are too easy, and the enemy forces are too easy, it is an unevan war!!!"
-2015-03-23,319630,True,"this is a beautifuly designed game which seems to build on and even supass that basic framework of the TelTale games.aside from the differant graphics style, what sets this game apart is the characters interaction with the world, less point and click, more second person RPG. thi sis a destinct advantage in my opinion over the much loved teltale game series'.beautifuly designed, great 3D movement, great story :D :D :D"
-2014-09-28,57690,True,"very good game, i prefer this to Tropico 5, i think it has more features, more sensible interface and a more challanging game style"
-2014-11-08,301520,True,"very fun game, lets you build what you want within the games limitations, could have a better tech tree and variety of blocks / armor types / addons / weapons.though it is still a good game :D"
+posted,item_id,recommend,sentiment_analysis
+2014-07-30,3720,True,2
+2014-05-19,8870,True,2
+2015-01-26,298110,True,2
+2015-03-23,319630,True,2
+2014-09-28,57690,True,2
+2014-11-08,301520,True,2

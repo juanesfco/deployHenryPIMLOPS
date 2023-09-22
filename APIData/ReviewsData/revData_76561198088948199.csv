@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-11,10500,True,This game here is a masterpeice. 10/10 for gameplay and strategy and........................tea.
-2014-08-21,8190,True,"An American Special Ops agent armed with a grappling hook, whatever weapon he finds, sheer luck and stupidity/insanity which has a lust for blowing things up in an environment which needs you to blow things up too progress the game. Sooooo what's not to love right?"
-2014-07-28,48700,True,-I will drink from your skull!Famous last words of every sea raider.12/10 will snipe
-2014-06-27,34330,True,One word:BANZAI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-09-11,10500,True,0
+2014-08-21,8190,True,2
+2014-07-28,48700,True,1
+2014-06-27,34330,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-22,550,True,"UhNot too sure what to write here so here's a recipe for Pancakes insteadIngredients:1 1/2 cups all-purpose flour3 tablespoons sugar1 tablespoon baking powder1/4 teaspoon salt1/8 teaspoon freshly ground nutmeg2 large eggs, at room temperature1 1/4 cups milk, at room temperature1/2 teaspoon pure vanilla extract3 tablespoons unsalted butter, plus more as neededNow to make it1. In a large bowl, whisk together the flour, sugar, baking powder, salt, and nutmeg.2. In another bowl, beat the eggs and then whisk in the milk and vanilla.3. Melt the butter in a large cast iron skillet or griddle over medium heat.4. Whisk the butter into the milk mixture. Add the wet ingredients to the flour mixture, and whisk until a thick batter is just formed5. Keeping the skillet at medium heat, ladle about 1/4 cup of the batter onto the skillet, to make a pancake. Make 1 or 2 more pancakes, taking care to keep them evenly spaced apart. Cook, until bubbles break the surface of the pancakes, and the undersides are golden brown, about 2 minutes. Flip with a spatula and cook about 1 minute more on the second side. Serve immediately or transfer to a platter and cover loosely with foil to keep warm. Repeat with the remaining batter, adding more butter to the skillet as needed.6. Procedure for adding fruit to pancakes: Once the bubbles break the surface of the pancakes, scatter the surface with sliced or diced fruit, or chocolate chips, nuts, etc. Flip with a spatula and cook for 1 minute more, being careful not to burn toppings."
-2015-05-09,236430,False,"PLEASE READ: ONLY BUY IF YOU HAVE A CONTROLLER, CONTROLS ARE ONLY CONFIGURED FOR CONTROLLER AND NOT FOR KEYBOARD"
-2015-05-30,730,True,Buy it or die trying
-2014-09-30,218620,True,i highly recomend this game because it will provide endless hours of fun as there is a lot of things to do :)
+posted,item_id,recommend,sentiment_analysis
+2015-05-22,550,True,2
+2015-05-09,236430,False,1
+2015-05-30,730,True,1
+2014-09-30,218620,True,1

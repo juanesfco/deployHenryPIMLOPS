@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-26,304930,True,DayZ for poor people.
-2016-07-07,345180,True,Great RPG game fun to play with ya mates
+posted,item_id,recommend,sentiment_analysis
+2016-01-26,304930,True,0
+2016-07-07,345180,True,2

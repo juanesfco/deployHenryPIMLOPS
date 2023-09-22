@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-17,488310,True,"Disclaimer: the devs gifted me this game after i told them it was my bday (legends lol)This game is one of my favorite VR games at the moment, after a long day at work i come back home and have to play a few games of this just to unwind. Physics are great, everything from serving to hitting just feels right to me, would recommend this to anyone and will be buying an extra copy to gift to a friend just to support the devs!IF YOU HAVE VR BUY THIS GAME!!!!!!"
-2016-08-25,496250,True,"i just put an hour in and i was having a blast being able to vs real people and finding another player really was seamless. I love the customisation option for paddle up as well, i found it has a better UI to it and more in depth options. Overall i love both games but it seems to me at the moment Paddle Up definitely has me more excited to play it over Pong Waves VR."
-2016-07-22,446750,True,"Puzzles were great, nice visuals and controlsI WANT MORE !!!!!!!!!!!!!!!!"
+posted,item_id,recommend,sentiment_analysis
+2016-08-17,488310,True,1
+2016-08-25,496250,True,2
+2016-07-22,446750,True,2

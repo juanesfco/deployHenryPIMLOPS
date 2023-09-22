@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-09-27,211420,True,All your dead is ours
-2014-07-09,241540,True,"Legit zombie survival game, open world / open ended (i think, never finished)"
-2014-07-09,242050,True,ASSASINS CREED: PIRATES OF THE CARIBEAN IS AWESOME
-2014-01-01,220240,True,"Very long to complete, but lots of fun."
-2013-10-18,200260,True,SPooderBAt!!!!!!!!!!!!!
-2011-06-02,105400,False,Bend over and spell RUN cuz you just got swindled out of 50 bucks if you thought this would be anyfun compared to part I
+posted,item_id,recommend,sentiment_analysis
+2014-09-27,211420,True,0
+2014-07-09,241540,True,0
+2014-07-09,242050,True,2
+2014-01-01,220240,True,2
+2013-10-18,200260,True,1
+2011-06-02,105400,False,1

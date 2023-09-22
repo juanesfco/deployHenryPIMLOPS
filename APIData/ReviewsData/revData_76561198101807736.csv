@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-12,344760,False,"Spent 3 days making a base. Man teleported in my base, spawned in steel armour and sword, killed us, broke everything"
-2015-09-13,252950,True,10/10 would fap again
-2016-04-20,236430,True,"THE SUN ♥♥♥♥♥♥♥♥♥♥♥♥, DO YOU PRAISE IT?PRAISE THE SUN!PRAISE THE SUN!PRAISE THE SUN!"
-2015-10-14,399730,True,The new music made me ♥♥♥♥ with excitement and the new everything made me ♥♥♥♥♥♥ 11/10 would fap again
+posted,item_id,recommend,sentiment_analysis
+2015-09-12,344760,False,0
+2015-09-13,252950,True,1
+2016-04-20,236430,True,1
+2015-10-14,399730,True,2

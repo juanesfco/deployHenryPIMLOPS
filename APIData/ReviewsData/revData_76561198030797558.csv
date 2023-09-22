@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-05-28,730,True,G00d game but the community is just a bunch of fuc bois
-2014-04-06,240,True,"Yeah nah, pretty ♥♥♥♥ing decent aye. Worth a Tinny or two."
-2016-05-25,13560,False,"Dated gameplay, dated controls, Terrible level design and the story is generic as anything...Stoped playing at the CIA HQ level.  Has good Visuals and good character modeling but thats it. The bad weighs down  what little good this game has. 3/10"
-2015-11-16,219150,True,♥♥♥♥ing love this
-2015-04-24,570,False,Sure.. This game is great if your parents hate you :)
-2014-06-08,550,True,"Fun with friends, but boring on its own. Shooting zomibes after awhile gets boring. 6/10 :)"
+posted,item_id,recommend,sentiment_analysis
+2015-05-28,730,True,0
+2014-04-06,240,True,2
+2016-05-25,13560,False,1
+2015-11-16,219150,True,2
+2015-04-24,570,False,2
+2014-06-08,550,True,0

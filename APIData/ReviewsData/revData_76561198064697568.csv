@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-13,209870,True,Muito Top
-2014-08-28,730,True,Otimo
-2014-08-27,304930,True,Dazora
+posted,item_id,recommend,sentiment_analysis
+2014-02-13,209870,True,2
+2014-08-28,730,True,2
+2014-08-27,304930,True,1

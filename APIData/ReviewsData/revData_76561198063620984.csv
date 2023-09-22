@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-23,247730,True,"MMO de terror muito bom!, prende a atenção, lembrando que está na beta ainda, mas o gameplay é show!!"
-2014-07-04,107410,True,"-Ótimo Simulador de Guerra!! Pra quem joga FPS, vai achar a movimentação um pouco difícil no começo, recomendo jogar a campanha para se familiarizar com o teclado e seus comandos, antes de tentar o multiplay!!"
-2014-02-21,730,True,Muito mais divertido de CoD!!
-2014-06-28,49520,False,-Gastei dinheiro com esse lixo!
-2015-12-23,359550,True,"-Jogo tático, excelente em extratégia, tem que ter comunicação durante o  jogo, ótimo pro cenário competitivo!"
-2014-02-23,263300,True,"Apenas um port, não têm modo on-line!!"
-2014-02-12,222940,True,"Kof sempre foi ♥♥♥♥, relembrando a época dos contras nos arcades!!"
+posted,item_id,recommend,sentiment_analysis
+2014-07-23,247730,True,2
+2014-07-04,107410,True,2
+2014-02-21,730,True,2
+2014-06-28,49520,False,0
+2015-12-23,359550,True,2
+2014-02-23,263300,True,1
+2014-02-12,222940,True,1

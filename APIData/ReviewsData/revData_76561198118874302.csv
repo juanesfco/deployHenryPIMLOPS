@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-07-21,298600,True,"Love it, it's simple, addicting and a good time waster!"
-2016-07-21,395980,False,"For me atleast this game feels like it would fit in better on mobile/webstore, there is also a few area's where you can glitch through boxes and just walk around the map,  it's a nice idea it really . but i just can't get into it."
-2016-02-22,317400,True,"Top game, love it. handled my portal fix for a while XD"
-2016-02-19,35480,True,"It's an ok game, I probably wouldn't buy it stand alone, but with the Tripwire bundle it's a nice neat side dish."
-2016-02-13,270550,True,Love it.
-2015-11-26,620,True,Fantastic  game
-2015-11-17,252490,True,"Good game, dev messes around with stuff alot but on the whole fun to play and going in the right direction."
+posted,item_id,recommend,sentiment_analysis
+2016-07-21,298600,True,2
+2016-07-21,395980,False,2
+2016-02-22,317400,True,2
+2016-02-19,35480,True,2
+2016-02-13,270550,True,2
+2015-11-26,620,True,1
+2015-11-17,252490,True,2

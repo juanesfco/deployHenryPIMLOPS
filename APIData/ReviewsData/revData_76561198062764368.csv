@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-30,291480,True,"10/10 - Rushing all out using Medic, was kicked for suspected cheating. When you do so well, people think you are hacking."
-2015-06-07,440,True,Intense Gameplay. Amazing Items!
+posted,item_id,recommend,sentiment_analysis
+2016-05-30,291480,True,1
+2015-06-07,440,True,2

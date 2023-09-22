@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-05-18,65790,True,Still better than Call of Duty Ghosts...
-2014-04-30,208090,True,"Some people are saying that this is like Team Fortress 2 and it is in every good way. This game is like getting Quake, TF2 and Gears of War all crammed into one awesome game and dare I say it, this game could compete with TF2. The only thing restricting this games true potential is the crude gameplay that involes nudity, extreme gore and crude body language. Also you can shoot peoples genitles off and that sells it for me."
-2014-01-05,30,True,"For a $5, 2004 game, this has to be some of the most genuine fun I have ever had in a FPS. Once you have looked past the graphics you get a great game with so much structure. Choose either the Axis or the Allies and from there you have a wide range of classes for different weapon types. This game is so well structured because of its community. If someone sees someone in an assult class then they will go long ranged to co-operate with the assult class instead of your average, load-out based FPS where people choose weapons because they like them. I highly reccomended Day of Defeat for these reasons and if you are still tossing and turning, wait until it is on sale when it goes down to $2.50."
-2014-01-08,630,True,"Once again Valve pleases us with a great title. There aren't many free-to-play games in this kind of genre out there. Sci-Fi, top-down co-op is a great combination that we probably won't see done as great as this. Highly recommended to fans of the Left 4 Dead franchise and Alien franchise."
-2014-01-08,252330,True,"Parsec Productions and Blue Isle Studios did a great job when following up the previous game, Slender: The Eight Pages. Upon entering this world I found myself extremely immersed and captivated by the gameplay. The additional chapters added to the game were definitly required to follow up its viral prequel. Recommended."
-2014-05-10,440,True,"I could write a detailed review about this game... But come on, it's Team Fortress 2 dammit!"
-2014-04-18,286080,True,"If there are people like me out there who just weren't satisfied for long enough with the Portal 2 Co-op Mode, then this is the modification for you. This mod had me thinking really hard from level 1 and at level 4 I even brought out a notepad to work out the positions of my players. This game starts at the end of the Portal 2 campaign and helps give some fan-made closure on the Portal series as did Portal Prelude with the beginning of the series. All in all this is a game I would certainly buy if the bugs were patched."
-2014-04-15,277430,True,Instantly in the first 5 minutes I was captivated by how well this works with the Halo series. A great game for when you have some down time and feel like a quick game rather than a lengthy shooter game. Personally I would enjoy this game even more than I already do if it had a multiplayer element. To sum things up it has great gameplay with nice graphics and it doesn't demand a good PC.
+posted,item_id,recommend,sentiment_analysis
+2014-05-18,65790,True,2
+2014-04-30,208090,True,1
+2014-01-05,30,True,1
+2014-01-08,630,True,2
+2014-01-08,252330,True,1
+2014-05-10,440,True,1
+2014-04-18,286080,True,1
+2014-04-15,277430,True,2

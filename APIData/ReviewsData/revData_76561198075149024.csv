@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-15,319630,True,:'(
-2014-01-20,208480,True,:)
-2013-12-26,8870,True,"Good story but the gameplay could be better.Overall, quite good!"
+posted,item_id,recommend,sentiment_analysis
+2016-01-15,319630,True,0
+2014-01-20,208480,True,2
+2013-12-26,8870,True,2

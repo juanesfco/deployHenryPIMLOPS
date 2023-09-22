@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-07,730,True,Vely nie
-2014-11-07,440,True,Superb
-2014-11-07,250900,True,Good game
-2014-12-31,400,True,Very good. Ending credits song :') The feels.
+posted,item_id,recommend,sentiment_analysis
+2014-11-07,730,True,1
+2014-11-07,440,True,2
+2014-11-07,250900,True,2
+2014-12-31,400,True,2

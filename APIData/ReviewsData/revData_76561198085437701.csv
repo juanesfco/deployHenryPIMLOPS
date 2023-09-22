@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-31,7600,True,Great game but would help if it would stop crashing all the time
-2015-09-29,278970,False,32gb of ram played digger online 512mb of ram what the heck it ate my ram
-2015-02-15,323610,True,its amazing
+posted,item_id,recommend,sentiment_analysis
+2015-05-31,7600,True,2
+2015-09-29,278970,False,1
+2015-02-15,323610,True,2

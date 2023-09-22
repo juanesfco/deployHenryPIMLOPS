@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-19,230410,True,"This game has got a lot of features that will get you addicted to it, but the thing that hooked me was the multiplayer. i have enjoyed this game through out all the patches."
-2013-06-19,440,True,GET it it's free and amazing
-2013-10-19,209870,True,Once again a free game but this time it is better than TF2
-2014-01-10,1250,True,"this game has been my long favorite, i have played not much of it, but all my hours are generally in the one session because, this game is very very addictive. When i first got it my mate and I played for about 15 hours over the period of 2 days and i really enjoyed the game so buy it if you wish."
-2016-05-15,252490,True,Naked = Dead : Geared = Dead : Dead = Dead : 10/10
-2016-05-15,105600,True,"Single Player; Good to a certain extent, Once you have defeated every boss the game has to offer you are given a new difficulty and you repeat everything you just did on a harder level; SP rating 6.5/10 :: Multiplayer; A very different experience especialy with your mates. Everything becoms so much more fun, also enjoyable instead of grinding every out solo; MP Rating 8.0/10 :: Get this game if you have a computer that runs like a onion. 9/10 overall."
-2016-05-15,730,True,"Skin insanity took over my life, ♥♥♥♥ ♥♥♥♥♥. Would get demoted 6 times in a row 10/10. G_G"
+posted,item_id,recommend,sentiment_analysis
+2013-12-19,230410,True,0
+2013-06-19,440,True,2
+2013-10-19,209870,True,2
+2014-01-10,1250,True,1
+2016-05-15,252490,True,0
+2016-05-15,105600,True,2
+2016-05-15,730,True,1

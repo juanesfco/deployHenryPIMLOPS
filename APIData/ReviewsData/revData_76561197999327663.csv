@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-05,217690,True,"This is an excellent game. A first person puzzle solver/thriller.The dark story and in game environment/music/events will more than likely give you goose bumps and you still wont be able to stop playing. It's cheap to purchase and I think it's a must buy for any gamer interested in this genre.The game has some aspects which are not at all obvious and I must admit I fell into the trap of referring to the steam forums for help on a few occaisions. Anyone attempting this game should seek some tips before starting but not spoilers (from someone who has finished it), and give it a red hot go without further help."
-2016-03-06,326410,True,"I'm a big fan of this game. I recommend it to anyone looking for an easy game that is relaxing. This game has the standard chose your own upgrades xp system which keeps it interesting.It can feel a bit slow at times, but there's always upgrades to be found and I don't think I have come close to maxing out the speed yet.The game offers a borderlands style mp where friends can join your game."
-2013-12-12,219600,True,"Get your controller out, this is a decent game if you're into sports/basketball"
+posted,item_id,recommend,sentiment_analysis
+2014-01-05,217690,True,1
+2016-03-06,326410,True,0
+2013-12-12,219600,True,0

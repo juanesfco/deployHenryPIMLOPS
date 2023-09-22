@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-25,472060,True,"it's a great game once you learn to play it so, get good scrubadobadoos 10/10 would waste my monks again"
-2015-02-28,6060,True,'when your a jedi You ♥♥♥♥ all the npc' everyone who has ever played Battlefront 2
+posted,item_id,recommend,sentiment_analysis
+2016-06-25,472060,True,2
+2015-02-28,6060,True,1

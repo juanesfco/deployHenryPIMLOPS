@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-27,730,True,much good
-2015-02-21,301520,True,meh its ♥♥♥♥ed up for me but looks pretty epic
-2014-11-28,4000,True,8/8 Gr8 m8-IGN
-2014-11-01,304930,True,$w4G
+posted,item_id,recommend,sentiment_analysis
+2015-05-27,730,True,2
+2015-02-21,301520,True,2
+2014-11-28,4000,True,1
+2014-11-01,304930,True,1

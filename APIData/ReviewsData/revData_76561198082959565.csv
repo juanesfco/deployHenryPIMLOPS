@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-12-10,206500,True,badass game
-2014-12-22,317360,True,THIS GAME IS ALSOME AND VERY  FAST WITH PEOPLE JUMPING AROUND!
-2014-11-12,206210,True,THIS GAME IS ALSOME but there r very less players online
-2014-08-16,51100,True,this game is a peace of ♥♥♥♥ butttttt is alsome and glitchy sooooooo fun glitchy games r fun
-2014-06-08,218230,True,is alsome
-2014-03-01,208090,True,lol
+posted,item_id,recommend,sentiment_analysis
+2014-12-10,206500,True,0
+2014-12-22,317360,True,1
+2014-11-12,206210,True,0
+2014-08-16,51100,True,1
+2014-06-08,218230,True,1
+2014-03-01,208090,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-15,202970,True,Love it brilliant best cod ever made
-2014-02-02,244590,True,"Very fun AND different game, this is like nothing i have ever played before. If youre uneasy i would seriously recommend in buying it. Very very fun game"
-2014-02-01,208090,True,Very good design of weapons system and i would recommend this game :D
-2014-01-18,209870,True,JUST DOWNLOAD IT ITS BRILLIANT
+posted,item_id,recommend,sentiment_analysis
+2014-04-15,202970,True,2
+2014-02-02,244590,True,1
+2014-02-01,208090,True,2
+2014-01-18,209870,True,2

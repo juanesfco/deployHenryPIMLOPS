@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-01,440,True,>Are you Rich? (in Real Life)>Are you skilled?>Do you want to have Golden Weapons?Then this game is for you!
-2015-06-20,245170,True,"When i was customizing the key buttons, i smashed my keyboard.10/10 would smash my keyboard again."
-2014-11-12,332800,True,"Best horror game ever, Over 900000/10."
-2015-05-25,366660,True,this is gud dlceveryone is saying this is bad cuz they cant kill the floodload of civs
+posted,item_id,recommend,sentiment_analysis
+2015-03-01,440,True,1
+2015-06-20,245170,True,1
+2014-11-12,332800,True,2
+2015-05-25,366660,True,0

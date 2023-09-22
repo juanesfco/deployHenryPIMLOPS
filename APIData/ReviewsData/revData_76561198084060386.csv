@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-01,96300,False,"game does not start up at all, i have tried verifying it but still no luck, absolute ♥♥♥♥"
-2013-04-04,8870,True,"Honestly a 10/10, Bioshock has continued to keep its number one spot in my opinion,This game and games before hand have all been so immersive,Time just flied playing this franchise,Keep it up 2K, Game of the year 2013!"
+posted,item_id,recommend,sentiment_analysis
+2014-08-01,96300,False,1
+2013-04-04,8870,True,0

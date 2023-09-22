@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-03,113400,True,ran around doing nothing 10/10
-2015-10-07,233450,True,trap a prisoner in a room 10/10
-2014-10-21,304930,True,Killed my friend for backpack best game
+posted,item_id,recommend,sentiment_analysis
+2015-04-03,113400,True,1
+2015-10-07,233450,True,1
+2014-10-21,304930,True,2

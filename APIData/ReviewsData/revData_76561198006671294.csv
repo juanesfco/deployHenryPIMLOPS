@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-02,273940,False,"If you like to laugh at crappy games and manage to acquire it for some cents, consider a buy. If not, just don't buy it and waste your money."
-2016-01-16,287980,True,"Probably one of the most chilled games I ever came across. I feel like a Zen right after launching it. Perfect for taking a break from FPS or other competitive games, for playing in the morning or in the night hours. Minimalistic, yet atmospheric and challenging. Definitely worth the money, even more when it's on sale."
-2015-09-02,240,True,Ist definitiv eine gute Sache.
-2015-04-22,730,True,"Ist eigentlich ein supi Spiel, aber die Hacker nerven sehr.   ~ Klaus ~~"
+posted,item_id,recommend,sentiment_analysis
+2016-05-02,273940,False,1
+2016-01-16,287980,True,2
+2015-09-02,240,True,2
+2015-04-22,730,True,0

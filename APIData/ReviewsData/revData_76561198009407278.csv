@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2013-08-20,206690,True,Good placement = Definite win. Make good use of the dig & pauses.
-2013-08-20,104000,True,"I found this game abit more challenging as compare to iBomber Defense Pacific, because of the Axis mode."
-2013-08-20,208670,True,"Well, only the Timewalk seems cool here."
-2013-08-20,61100,True,"Something you can try when you're bored, & always stuck at Level 54 -.-"
-2013-05-03,42910,True,Those skill keys are.. hard to remember -.- Have to Esc and check everytime.
-2013-05-03,234710,True,"CPU have better hands compared to Poker Night 1, but still easy to win if you can trick them."
-2013-05-03,31280,True,CPU are dumbs! Easy win even with weak hand.
-2013-04-23,50650,True," The gameplay is good, suggested to try on for APOCALYPTIC mode to unlock more achievements without going through the 2nd time."
-2013-04-23,92800,True,"Mind ♥♥♥♥ed! If you are a Chemical Pyscho, here's for you!"
-2013-04-23,107100,True,"Nice game to try, but you will need to restart it again and again for achievements."
+posted,item_id,recommend,sentiment_analysis
+2013-08-20,206690,True,2
+2013-08-20,104000,True,2
+2013-08-20,208670,True,2
+2013-08-20,61100,True,0
+2013-05-03,42910,True,0
+2013-05-03,234710,True,2
+2013-05-03,31280,True,2
+2013-04-23,50650,True,2
+2013-04-23,92800,True,1
+2013-04-23,107100,True,1

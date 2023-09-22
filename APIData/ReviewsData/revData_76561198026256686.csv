@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-25,12470,False,"Game fails to open up into 'applications', it only goes as far as opening up into 'processes', so the game is broken..."
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,12470,False,0

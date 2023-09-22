@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-19,300,True,Great Game!!i love the game and you can Play as the Americans or The Germans
-2013-09-14,4000,True,"Fun,Weird and Wacky Great Game For The Price You Pay"
-2013-11-09,6060,True,Best Star wars game there is. and Send
-2014-08-29,221100,True,"GREAT GAME, minor bugs, couldn't care less, its only an alpha game."
+posted,item_id,recommend,sentiment_analysis
+2013-12-19,300,True,2
+2013-09-14,4000,True,2
+2013-11-09,6060,True,2
+2014-08-29,221100,True,1

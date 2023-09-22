@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-01,269210,True,its pretty fun aye.
-2016-08-05,369580,False,its a poo
-2016-03-24,353370,False,"this controller is far from perfect but it has great potential, but as it is, i dont think i can recommend it YET.... ive spent hours on configuring a profile for the controller only to have it mess up when i try to save it, because some times it resets all the changes i saved in the profile and puts it back to the default configuration....you can only save 3 configuration for ANYTHING out side of steam, with no way to switch  between them quick and conveniently as it has to be done in steam big picture mode , which crashes randomly sometimes.. when that happens, the controller stops responding and youll need to go back to your mouse and keyboard to open it again,  the controller is too tethered to steam which i feel hinders its utility.touch menu function unfortunately doesnt work on desktopthe gamepads onscreen keyboard is a little buggy as the trackpads dont register touch as responsively near the edges."
+posted,item_id,recommend,sentiment_analysis
+2014-03-01,269210,True,2
+2016-08-05,369580,False,1
+2016-03-24,353370,False,1

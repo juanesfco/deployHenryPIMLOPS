@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-09,730,True,"Cow boy simulator 2015M8, R8 Is GR8 gun, Don't H8. I rate 8/8"
-2016-01-15,440,False,got kicked and temp banned from valve's official server for capping points. Not even a warning given.10/10 would get voted off again.
+posted,item_id,recommend,sentiment_analysis
+2015-12-09,730,True,0
+2016-01-15,440,False,1

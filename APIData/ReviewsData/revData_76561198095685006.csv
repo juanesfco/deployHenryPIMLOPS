@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-10,51100,True,Good 100% hahahaha
-2014-02-26,550,True,OLLLLLLLLLLLLLLLLLLLLo
-2013-12-27,440,True,5555 
+posted,item_id,recommend,sentiment_analysis
+2014-04-10,51100,True,2
+2014-02-26,550,True,1
+2013-12-27,440,True,1

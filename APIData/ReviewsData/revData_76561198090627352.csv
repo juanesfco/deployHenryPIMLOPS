@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-16,407530,True,"Joins a game, disconnected. 5/7 Perfect would play again."
-2016-04-16,17080,True,"Surfs, hit a wall, blows up, die. Rinse and Repeat. 5/7 Would play again."
+posted,item_id,recommend,sentiment_analysis
+2016-04-16,407530,True,2
+2016-04-16,17080,True,1

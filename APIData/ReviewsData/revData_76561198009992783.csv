@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-10,377160,False,eh fallout nv was better ...
-2016-09-16,521340,True, :D
+posted,item_id,recommend,sentiment_analysis
+2016-06-10,377160,False,2
+2016-09-16,521340,True,2

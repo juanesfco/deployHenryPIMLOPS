@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-03-18,214770,True,"I had no expectations going in to this game except that it was a colourful 2D action platformer. I was surprised to find that it had a kind of open level design, simple yet interesting combat system with combos and new moves to unlock, and an amusing story driven dialogue. Nothing too deep here but if you looking for a fun 2D platformer with a twist (of lime), then I highly recommend you give this a go."
-2013-12-09,207610,True,"Play straight through, take the good with the bad, make choices like you only have one chance, don't go back unless you die. If you have any love of the zombie genre you should not miss playing this game."
-2013-03-18,28050,True,"There is a great story in this semi-open rpg/shooter. It's aiming to challenge you on the moral, political and societal issues surrounding human augmentation. It succeeds in challenging your ideas, which is great, but ultimately fails to immerse you in the experience. For me at least, I felt like I was controlling Adam Jensen rather than being Adam Jensen. It's a good game, and the combat, stealth and hacking systems are well executed but I think they fell short of achieving what they set out to create."
-2013-03-18,55230,True,"The variety of zany missions set in this open world gangsta's playground, overshadows the average graphics and combat system. What you end up with is a crazy but ultimately fun game which doesn't take itself too seriously."
-2013-01-18,72000,True,A fun puzzle game with an interesting light mechanic. The atmosphere is not quite as good as Limbo but the puzzles are better. Definately worth checking out if you like the genre.
+posted,item_id,recommend,sentiment_analysis
+2014-03-18,214770,True,2
+2013-12-09,207610,True,1
+2013-03-18,28050,True,2
+2013-03-18,55230,True,0
+2013-01-18,72000,True,2

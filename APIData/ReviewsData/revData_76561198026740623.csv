@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-18,218620,False,"What used to be a game with a vibrant community, the developers decided they would milk the cash cow hard. And hard it was. They decided they would put microtransactions in an effort to give players a feeling like that of a competitive game such as CSGO. This is a 4-player co-op, not a PVP."
-2015-12-26,8850,True,"I've never loved such a storyline as good as BioShock 2. You know that feeling when you finish an amazingly good game, book, or movie? Yeah, I rarely get that from any game. Not this one though. There's this term called 'post-game depression', and that's what I got out of it. I'll be okay tomorrow, but in the back of my mind, this series is the first to make me feel this euphoria.7/7*tips fedora*"
-2016-09-16,319630,True,"This game give Oleg the chills.Oleg not prepare for this.Oleg now post-game depress.----------Ok seriously.Life is Strange is seriously one of those games that gave me post-game depression. Everything that happened to Max really made me feel for her. I didn't want Max to go through any more suffering; I wanted her to help everyone in Arcadia, but that's apparently not possible. Only two games have made me feel this way, Life is Strange and the Bioshock series. Strap yourselves in, boys and girls, this game is a hella scary ride."
-2015-01-05,302080,True,"Very good, made me feel what it intended for me to feel.A Bus Driver."
-2014-01-03,550,True,mfw free
+posted,item_id,recommend,sentiment_analysis
+2015-10-18,218620,False,0
+2015-12-26,8850,True,2
+2016-09-16,319630,True,0
+2015-01-05,302080,True,2
+2014-01-03,550,True,2

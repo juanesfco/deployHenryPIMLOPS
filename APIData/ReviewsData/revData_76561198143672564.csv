@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-15,263280,True,new map plz
-2015-03-11,227940,True,it is good
-2015-11-28,218620,True,i have being playing this game for a long time now. everyone loves it we love your hard work overkill keep it up all i wish you could do is low fps don't use all u have in it please it will work hopefuly anyway i still love the game:3 .
-2015-12-24,304930,False,so bad i hate it soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo much.
-2015-04-04,440,True,it is Awesome:]
+posted,item_id,recommend,sentiment_analysis
+2015-04-15,263280,True,2
+2015-03-11,227940,True,2
+2015-11-28,218620,True,1
+2015-12-24,304930,False,0
+2015-04-04,440,True,2

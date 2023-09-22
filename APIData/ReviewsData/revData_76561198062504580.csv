@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-21,4000,True,Got me wet m8
-2013-10-01,230410,True,"Great game, do missions, fight down bosses. You're pretty much a living, killing machine :D"
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,4000,True,1
+2013-10-01,230410,True,2

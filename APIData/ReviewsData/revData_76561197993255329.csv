@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-09,390670,False,"Game started off great, was wonderful to play and much beter that WOW, now it seems that all interest is lost with this game with low players and mismatched battles and list of bugs your arm long.  I have waited a long time to give this game a review as I thoght it would be one of the best Naval action games but after servers disconnecting since the xmas update things just seemed to have stalled.  No real response from dev's except 'just post a log of your errors'.  If and when the bugs get ironed out of this game I would recommend looking elsewhere."
-2015-12-02,242860,False,"Nice idea, probally the best WW1 out atm but game is just not playable even on a good system.  (GTX960)  If your system can handle it it can be a great squad based game, its no COD or BTField.  A very 1 shot 1 kill game. I hope the devs keep working on it, but till then advise to keep your pennys."
-2015-12-03,359550,False,Haven't been this disapointed since the movie 'Never ending story'.  Can think of better ways to spend $60.  Game looks nice but just google Rainbow 6 problems.  Multiplayer is a joke.
+posted,item_id,recommend,sentiment_analysis
+2016-02-09,390670,False,1
+2015-12-02,242860,False,2
+2015-12-03,359550,False,2

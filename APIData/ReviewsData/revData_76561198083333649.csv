@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-06-30,550,True,muito legal é melhor ainda cooperativo
-2014-06-27,208090,True,mt ♥♥♥♥ vale a  pena
-2014-06-22,440,True,esse jogo é muito daora
-2014-06-25,41000,True,mt ♥♥♥♥ Serious Sam
-2014-08-18,109400,True,mt ♥♥♥♥
-2014-06-26,204360,True,mt viciante mas é mais legal online
-2014-06-22,49520,True,mt ♥♥♥♥
-2014-01-20,206420,True,muito daora vale a pena
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,550,True,2
+2014-06-27,208090,True,2
+2014-06-22,440,True,1
+2014-06-25,41000,True,0
+2014-08-18,109400,True,1
+2014-06-26,204360,True,2
+2014-06-22,49520,True,1
+2014-01-20,206420,True,2

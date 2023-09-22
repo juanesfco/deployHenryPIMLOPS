@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-06,219680,True,marijuana does not enhance the experience of this
-2014-01-01,213850,True,Everyone should buy this game. It saved my marriage
-2015-01-06,253110,True,I like it
+posted,item_id,recommend,sentiment_analysis
+2014-01-06,219680,True,1
+2014-01-01,213850,True,0
+2015-01-06,253110,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-17,22380,True,"♫ NOW I'VE GOT HEARTACHES BY THE NUMBER, TROUBLES BY THE SCORE ♫"
-2013-08-24,35450,True,"Its as hard as a rock, but its fun to play"
-2013-08-12,4000,True,Most fun you can have by yourself
-2013-11-10,730,False,"Welcome to Counter strike global offensive, where aim detection doesn't work and bullets fly off the screen before you even shoot your second round."
-2013-08-30,105600,False,"gameplay is as limp as my ♥♥♥♥, 3/10"
+posted,item_id,recommend,sentiment_analysis
+2014-07-17,22380,True,1
+2013-08-24,35450,True,1
+2013-08-12,4000,True,2
+2013-11-10,730,False,2
+2013-08-30,105600,False,0

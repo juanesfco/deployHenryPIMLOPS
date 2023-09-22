@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-09,346110,True,needs to make taming a bit faster than it is and it needs to make so it tells u when ur tame dies or at low hp
-2015-05-23,264710,True,so scary and amazing  
-2014-11-03,319510,True,this game soo good and hard at the same time night 1 died night 2 made it to 6 am night 3 got jumpscared quit game never played it again
+posted,item_id,recommend,sentiment_analysis
+2015-09-09,346110,True,0
+2015-05-23,264710,True,1
+2014-11-03,319510,True,1

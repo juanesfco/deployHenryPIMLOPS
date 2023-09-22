@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-12,291650,True,i love this game its fun and iteresting 10/10 gonna play again
-2016-02-19,72850,True,one of the best games ive ever played with great dlcs that keep the game alive with countless mods to change the game how you like it i would recomend this game to anyone likeing a medivel feeling
-2016-01-06,440,True,one of the greatest free to plays out there 10/10 would give a cookie to
+posted,item_id,recommend,sentiment_analysis
+2016-07-12,291650,True,2
+2016-02-19,72850,True,1
+2016-01-06,440,True,2

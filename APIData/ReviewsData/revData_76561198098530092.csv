@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-01-31,285160,True,"Some levels are a bit confusing at times, but all in all it's an exceptional game!"
+posted,item_id,recommend,sentiment_analysis
+2015-01-31,285160,True,1

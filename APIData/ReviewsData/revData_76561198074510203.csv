@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-25,226320,True,muito bom inclusive muito bom
-2013-12-23,224260,True,"Looks better in the trailer, but it's fine. It's like a free version of Contagion."
-2014-06-08,263440,True,"It's pretty nice for an alpha game, hoping more exciting updates!Good points:*Cool tribe system*Great dinosaur taming *Good animations*Do not need a boosted PC to play*It's a nice past-time*Nice multiplayer*Updates come oftenBad points:*It's boring when you die and you need to craft all the things again*Kidnapping is weird O_O*Rain everytime"
-2013-12-13,70000,True,Primal Carnage + CS + TF2 + realistic dinosaurs =
+posted,item_id,recommend,sentiment_analysis
+2014-02-25,226320,True,2
+2013-12-23,224260,True,2
+2014-06-08,263440,True,2
+2013-12-13,70000,True,2

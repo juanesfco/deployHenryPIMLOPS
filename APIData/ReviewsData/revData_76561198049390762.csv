@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-05-07,209160,True,"Better than how people make it out to be. With that being said - relatively weak storyline, needs more stealth missions. However it is CoD, they have nailed the FPS formula hence why most if not all games since CoD 4 are very similar. Graphics look great (when on Ultra) but you'll need a beefy PC for Riley's Nvidia Hairworks and Antialiasing. I'm running an i7 6700hq with a GTX 970m and 16GB DDR4 rig, on mixed settings between high and maximum i can get 55-60 fps.7/10 buy only when $25 or less."
-2016-09-17,409710,True,"I haven't encountered any game-breaking glitches or bugs yet. Turned everything up as far as it will let me (which isn't far), and getting very solid frame rates. (Running an i7 6700HQ, GTX 970m, 12GB RAM). Game looks great, audio sounds great. The remaster done is well, but not properly."
-2016-04-22,307780,True,FINISH HIM8/10 would see blood again.
-2016-08-28,275850,False,"Great concept, missing a lot of content that was promised."
-2016-01-11,292030,True,This game makes me want to be Geralt of Rivia in real life. 10/10 would bang Yennifer.
-2015-08-25,346900,True,10/10 would capitalise again
-2014-10-08,72850,True,10/10 would kill the town chicken again.
-2014-03-16,550,True,One of the Best Games i've ever played in a long time.Audio - 10/10Graphics - 10/10Gameplay - 10/10Its a perfect game! Buy it when you can! :D
+posted,item_id,recommend,sentiment_analysis
+2016-05-07,209160,True,2
+2016-09-17,409710,True,2
+2016-04-22,307780,True,1
+2016-08-28,275850,False,2
+2016-01-11,292030,True,1
+2015-08-25,346900,True,1
+2014-10-08,72850,True,0
+2014-03-16,550,True,2

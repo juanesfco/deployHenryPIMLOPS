@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-23,4000,True,well its alright I guess
-2016-05-29,357480,True,10/10 best game ever played rarly played anything else
-2014-10-19,49520,True,YES YES AND A  THOUSAND TIMES YES
+posted,item_id,recommend,sentiment_analysis
+2016-08-23,4000,True,1
+2016-05-29,357480,True,2
+2014-10-19,49520,True,1

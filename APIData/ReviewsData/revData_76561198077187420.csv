@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-12-29,218620,True,Great game with friends
-2014-09-03,570,True,Very challenging than league of legends
-2015-10-23,301520,True,JA SUCKS DUCKS
-2014-05-20,249130,True,Lego games are the best!!!
-2014-01-07,550,True,I know half the people who got this got for free at dec 26 XD
-2014-01-07,214510,True,i never watched any lord of the rings movies this kinda explains a bit of it :D
-2014-01-05,252330,True,Knowing its slender creeps me out :D
+posted,item_id,recommend,sentiment_analysis
+2014-12-29,218620,True,2
+2014-09-03,570,True,2
+2015-10-23,301520,True,0
+2014-05-20,249130,True,2
+2014-01-07,550,True,2
+2014-01-07,214510,True,2
+2014-01-05,252330,True,2

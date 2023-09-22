@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-08-27,212680,True,"Amazing game. It's a rougelike adventure where you are at the helm of a ship that is carrying information vital to the survival of the remaining Federation fleet; the last remaining hope for the federation after their crushing defeat from the Rebels. You will have your ups and downs, sometimes escaping death by less than a second, just to have all your success of escaping near death crush down on you when the next ship you encounter happens to be a Mantis war vessel armed to the teeth. You may lose and you may find the game to be a bit harsh at times, but it can be assured that you will always come back and try to save the Federation from the verge of defeat with what little is at your disposal, time and time again. 9/10"
-2012-08-11,240,True,It's a fully sick game yeah... you can like smoke dank kush and no-scope 12 year olds with one hand. One time I was stuck in a prison cell and I dropped the soap.
-2012-07-14,440,True,"If you like first person shooters and just want to have some hilarious fun, this is your game."
+posted,item_id,recommend,sentiment_analysis
+2013-08-27,212680,True,1
+2012-08-11,240,True,0
+2012-07-14,440,True,2

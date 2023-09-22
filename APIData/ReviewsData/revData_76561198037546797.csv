@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-21,200260,True,制作精良，富有打击感，缺点与前作一样，需要频繁切换蝙蝠眼，使人厌烦
-2014-03-20,207650,False,trarh
-2014-02-04,440,True,SSS
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,200260,True,0
+2014-03-20,207650,False,1
+2014-02-04,440,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-30,620,True,"mto bom comecei a jogar ontem e adorei, achei q ia ser chato por ser um jogo mais de puzzle e só comprei por causa da promoção, mas depois que joguei achei mto bom e divertido, veeeryyy niceee ^^"
-2015-10-22,440,True,|Good FPS | Bad Updates| Play now!|
-2016-01-28,238320,True,"Ô jogo dos satanero que faz meu cu fecha vei mas eu amo muito ele vei. Outlast é um dos jogos mais ♥♥♥♥s de terror que eu ja joguei na minha vida e você lendo isso sabe que eu recomendo muito esse game, muito escuro, perseguidores ♥♥♥♥s que sempre aparecem nas piores horas, ótimos gráficos, muita tensão do nego atrás de você e sem falar na história que é bem bacana ainda mais por causa de sua DLC Outlast Wistleblower que  também recomendo muitow :D."
-2015-09-10,218620,True,"Recomendo bastante este jogo, gostei muito dele e posso dizer que vale a pena comprar, mas a unica coisa de MUITO RUIM MESMO são as DLCs que além de muitas, algumas são até caras demais para o meu gosto, fora isso eu gostei bastante mesmo :)"
-2015-01-30,323180,True,good
+posted,item_id,recommend,sentiment_analysis
+2015-01-30,620,True,2
+2015-10-22,440,True,1
+2016-01-28,238320,True,0
+2015-09-10,218620,True,2
+2015-01-30,323180,True,2

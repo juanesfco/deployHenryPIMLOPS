@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-10,244210,True,"One of the better racing/driving simulators out there, challenging, yet highly rewarding. High level of detail in every aspect, well worth the small price tag. Must have for driving sim fans, post-beta should be amazing."
-2015-05-19,271590,True,"This game is the dog's ♥♥♥♥♥♥♥♥.Buy it, enjoy it, giggle often."
-2015-08-20,320140,True,Great fun & great tunes!
-2015-05-01,321040,True,Thank you for listening to the community and fixing DiRT 3!Now let me throw money at you so I can play your next game.
+posted,item_id,recommend,sentiment_analysis
+2014-10-10,244210,True,2
+2015-05-19,271590,True,1
+2015-08-20,320140,True,2
+2015-05-01,321040,True,0

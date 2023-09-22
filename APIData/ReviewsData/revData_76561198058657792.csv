@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-30,302270,True,too laggy = poo
-2016-02-05,105600,True,banter santer
-2015-06-03,323370,True,yes
+posted,item_id,recommend,sentiment_analysis
+2014-07-30,302270,True,1
+2016-02-05,105600,True,2
+2015-06-03,323370,True,1

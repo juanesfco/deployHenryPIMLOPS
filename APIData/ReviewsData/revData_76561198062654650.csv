@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-19,4000,True,You can do almost anything you like. Heaps of mods.9.5/10
-2014-06-19,440,True,Ruined my life. 10/10
-2014-06-19,243870,True,Addicting as f*ckServers are North America though so expect some lag8.5/10
-2016-08-10,319630,True,I like the main menu music
-2016-08-10,730,True,"Imagine getting all of the Earth's salt, tripling it, then putting it in one community"
-2016-08-10,287700,True,It's pretty good
+posted,item_id,recommend,sentiment_analysis
+2014-06-19,4000,True,1
+2014-06-19,440,True,1
+2014-06-19,243870,True,1
+2016-08-10,319630,True,2
+2016-08-10,730,True,1
+2016-08-10,287700,True,2

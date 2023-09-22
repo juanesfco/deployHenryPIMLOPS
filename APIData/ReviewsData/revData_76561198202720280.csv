@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-02-02,440,True,"Jeżeli jesteś ♥♥♥♥♥iem to wiedz że w te grę na polskich srewerach, jest od ch*ja ty jeb*nych 7 latków. <3"
-2016-02-14,304930,True,It s very good game. Polecam Krzysztof Ibisz
-2015-08-08,730,False,♥♥♥ CI W DUPE GEJBEN !!! DAJ MI KOSE!!!!
-2015-05-10,356670,True,I have 500 rooms <3
+posted,item_id,recommend,sentiment_analysis
+2016-02-02,440,True,2
+2016-02-14,304930,True,2
+2015-08-08,730,False,1
+2015-05-10,356670,True,2

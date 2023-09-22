@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-11,730,True,I LOVE  THE GAME IT IS SOO FUN
-2014-08-03,212070,True,Love it
+posted,item_id,recommend,sentiment_analysis
+2014-08-11,730,True,2
+2014-08-03,212070,True,2

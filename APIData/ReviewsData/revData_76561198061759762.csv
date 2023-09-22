@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-20,322170,True,好玩。
-2016-04-16,257850,False,"Good game, awful developers."
-2016-07-18,211820,True,听说要发布了 呵呵
+posted,item_id,recommend,sentiment_analysis
+2015-11-20,322170,True,2
+2016-04-16,257850,False,0
+2016-07-18,211820,True,2

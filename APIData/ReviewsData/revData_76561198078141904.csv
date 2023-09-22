@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-07,218230,True,"very good game, great graphics"
-2013-12-20,221100,False,wait until it is a compklte and finished game dont buy it to early like i did
+posted,item_id,recommend,sentiment_analysis
+2013-12-07,218230,True,2
+2013-12-20,221100,False,0

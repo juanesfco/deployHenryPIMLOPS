@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-01-07,570,True,"Uninstall, delete, purge all memory of it."
+posted,item_id,recommend,sentiment_analysis
+2015-01-07,570,True,1

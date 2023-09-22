@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-08,304930,True,Good Game !!
-2014-05-20,259080,True,เยี่ยม
-2015-12-24,219640,True,เล่นเพลินๆ
-2015-04-01,218620,True,เล่นเพลินดีครับ
+posted,item_id,recommend,sentiment_analysis
+2014-07-08,304930,True,1
+2014-05-20,259080,True,1
+2015-12-24,219640,True,2
+2015-04-01,218620,True,2

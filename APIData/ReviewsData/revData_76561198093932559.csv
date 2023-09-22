@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-01,99900,True,"A really fun and intriguing game to play. You have a multitude of character accessories and weapons, and it's just so fun beating down countless hordes of incoming enemies. The missions are just a little slow-paced, but I've only gone through the beginning. Overall, a great game. 9/10."
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,99900,True,1

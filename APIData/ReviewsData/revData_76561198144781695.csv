@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-31,238430,True,"BEST GAME EVER LOVE IT,COOL GRAPHICS.COOL MOVEMENTS,COOL MAPS,REALISTICRECOMMANDED FOR SURE!"
-2014-12-20,4000,True,"Best game ever,it's awesome to play with friends.10/10"
-2014-10-12,16730,True,Best game i have ever played!
-2014-08-31,49520,True,It's a very fun game ;)I recommend!
-2015-11-14,24240,True,You can troll your friend by fake revieving lel.
+posted,item_id,recommend,sentiment_analysis
+2014-08-31,238430,True,2
+2014-12-20,4000,True,2
+2014-10-12,16730,True,2
+2014-08-31,49520,True,2
+2015-11-14,24240,True,0

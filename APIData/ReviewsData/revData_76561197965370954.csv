@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-03-08,235540,True,"Great game, great team. They listen to players, patch the game often, put some new content free or really cheap (first paid dlc was 3€).The game is addictive, a bit repetitive but that's what makes it fun : the same maps, different events.Based A LOT on RNG it'll ask you a lot of time to get some items (they've balanced it with the shrine, it's much less random than at start)Go praise Sigmar and kill those filthy rats now."
-2015-12-28,319630,True,Only at the end of chapter 2 on my first run so far but this is a great adventure.
-2013-03-20,550,True,One of the best FPS ever
-2015-12-26,313740,False,IT'S NOT A GAME.It's a novel.And a pretty uninterresting one.
-2013-12-26,50650,True,"pro : interresting, great story, charismatic characters, huge main story, many side questscons : a bit repetitiveGreat game."
-2013-05-04,200710,True,"awesome hack & slash. Fun, fast, enjoyable."
+posted,item_id,recommend,sentiment_analysis
+2016-03-08,235540,True,1
+2015-12-28,319630,True,2
+2013-03-20,550,True,2
+2015-12-26,313740,False,2
+2013-12-26,50650,True,2
+2013-05-04,200710,True,2

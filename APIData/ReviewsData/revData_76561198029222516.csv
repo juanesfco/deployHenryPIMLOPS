@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-20,242760,True,Sick game but not optimised fully yet. Lookign forward to more updates.
-2012-08-18,28050,True,"This is one of those must play games. If you like Mass Effect 2's graphic style and colour scheme, you'll like this, and even if you like Mass Effect 1/2 in general you'll most likely enjoy this. It's super fun playing stealth. Plus, you can stab civilians on the street with your arm blades! What more could you want?"
-2011-12-27,220,True,Great game. Gravity gun for the win.
-2011-11-04,35450,True,"If you are interested in WWII, and want realism then this is definitely the game for you. I suck at it though."
-2013-05-18,570,True,https://www.youtube.com/watch?v=KuAfbxOTYSM
-2011-07-02,440,True,This is a game.
+posted,item_id,recommend,sentiment_analysis
+2015-06-20,242760,True,0
+2012-08-18,28050,True,2
+2011-12-27,220,True,2
+2011-11-04,35450,True,1
+2013-05-18,570,True,1
+2011-07-02,440,True,0

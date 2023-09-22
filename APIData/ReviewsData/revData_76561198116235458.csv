@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-31,730,True,"Counterstrike Global Offensive is a great, addictive and close to perfect PC game with a good mix of intensity, fun and skill.I love this game, my friend told me about it and i just knew i had to get it.Now im addicted to Cs:Go, ive sold all my tf2 items just to buy some cases and test my luckThis has lots of variety (weapons, maps, SKINS, gamemodes and lots of servers and players)To be honest i thought this game was ridiculous and boring a year ago but now that i got it,I love it"
-2015-12-15,440,True,How is this free?
+posted,item_id,recommend,sentiment_analysis
+2016-08-31,730,True,1
+2015-12-15,440,True,2

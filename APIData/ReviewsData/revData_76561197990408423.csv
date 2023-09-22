@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-07-03,292240,True,This is a pretty good kids adventure game. Surprisingly complicated for one and actually contains multiple paths. Make sure you and your child have a high tolerance for puns.
-2015-03-16,319550,True,"A fun little infinite runner, not something I think I will sink a lot of time into but I it was fun to play through and grab all of the achievements, it was nice and cheap.It is singing a similar song to Super Hexagon, but doesn't quite hit the same notes to me."
-2012-07-12,209370,True,"This is a great visual novel. There is not a great deal of art assets in the game, and there are only 2 characters that you are able to interact with, but it manages to tell a very moving tragedy of the final years of a  colony ship."
-2011-12-27,92800,True,A positively mindmelting puzzle game that is more programming than specifically chemistry.
-2011-12-02,72850,True,This game is amazingly open and fun. It has managed to absorb my time in a way that I had definitely not expected. I ended pushing toward the end primarily to reduce my own need to play the game so I could play others. I really look forward to more content being released for it.
-2011-07-04,15520,True,"This is a delightfully absurd game. When I really get in the groove it is great to zoom past buildings getting close without hitting them. The game revels in its own strange world. If you don't already own this, I suggest getting AaAaAA for the Awesome, which contains this game, more levels and VR support."
-2011-02-15,31410,True,"Simple yes, but a heck of a lot of fun, especially once you get yourself a bus.Probably better to get Zombie Driver HD though if you don't already own this game."
-2010-11-22,2300,True,"This is one of my favourite games, partially from nostalgia but it is a game that I have gone back to many a time.It still has a great feeling of speed and gunplay, those interested in it may find it worth looking into sourports like zDoom and jDoom that let you play with a more modern control system, as a  warning though, mouselook does make the final boss trivial."
-2010-11-22,33680,True,"A nice mix of charming and creepy, as a quick warning this game has multiple endings, some of which you will likely need a guide to get to."
+posted,item_id,recommend,sentiment_analysis
+2016-07-03,292240,True,1
+2015-03-16,319550,True,2
+2012-07-12,209370,True,1
+2011-12-27,92800,True,2
+2011-12-02,72850,True,2
+2011-07-04,15520,True,2
+2011-02-15,31410,True,2
+2010-11-22,2300,True,2
+2010-11-22,33680,True,2

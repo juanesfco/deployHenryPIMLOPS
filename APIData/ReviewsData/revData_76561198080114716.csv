@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-18,12210,False,i have no clue how people play this piece of ♥♥♥♥ it basically scrams 'WE ARE MICROSOFT. GIVE US YOUR MONEY'
-2014-05-31,226700,False,im still waiting for steam to allow you to sell games
-2014-05-31,227100,True,"i enjoyed this game a lot. though it can be very laggy and glitchy. the gamplay and kills in the game were very ipressive and i love the xray mode. though i will say this, the levels can get boring and repettative."
+posted,item_id,recommend,sentiment_analysis
+2014-07-18,12210,False,1
+2014-05-31,226700,False,1
+2014-05-31,227100,True,1

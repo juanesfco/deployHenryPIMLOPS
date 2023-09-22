@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-07-03,297120,True,"Looking at screenshots I thought it would be a nightmare to navigate but it works really well. Took me awhile to work out how everything works and the mechanics are still pretty confusing, but a beautiful, minimalistic, dungeon crawl FPS. My one gripe is that some of the enemies are a little OP (turrets shoot you while still in 'powering up' mode, bomb bugs move fast too fast, they get in your face when you shoot them)."
-2014-06-27,238320,True,"Talk to yourself while playing, it helps."
-2014-06-27,239200,False,Don't bother.
-2014-02-10,229580,False,"Boring and tedious. Nice scenary however. As someone who usually goes for this sort of narrative game I can say that I'm just disappointed by how unengaging the 'plot' is, which is really a major flaw considering this is the only thing the game could have going for it as the game-play itself is simply repetitive and uncomplicated.JUST BORING."
-2014-10-30,329830,False,Says it's an hour of gameplay. I did two playthroughs in 41 minutes with about ten minutes of wandering around uselessly. Boring in every way.
-2014-10-30,305620,True,"Collect news papers in Canada's first lumbermill run entirely by wolves. Eat dog food, drink toilet water, live to your full potential!"
-2014-06-26,242760,True,Repurpose limbs as modern art 10/10
-2014-04-23,72200,True,"Seems inaccurate, but still fun."
+posted,item_id,recommend,sentiment_analysis
+2014-07-03,297120,True,2
+2014-06-27,238320,True,1
+2014-06-27,239200,False,1
+2014-02-10,229580,False,0
+2014-10-30,329830,False,0
+2014-10-30,305620,True,2
+2014-06-26,242760,True,2
+2014-04-23,72200,True,2

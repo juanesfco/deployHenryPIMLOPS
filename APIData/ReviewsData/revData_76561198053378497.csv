@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-25,550,True,"Clearly the best game ive ever played with tons of game modes and free community mods and servers,and this version is a complete pack! with all DLC! Rather than xbox360.And for Xmas ITS FREE! even if the game is old it still has desame amount of fun it ever had since the begining.Thanks valve for this wonderfull gem you gave us."
-2014-08-16,221640,False,This Game is so trippy and frustrating it makes me want to Hurl and Have a seizure
-2014-11-03,293860,True,"Played it and completed it on Xbox and got all the characters but my xbox broke so i got this game on steam to continoue playing it, but the only downside is there is very few people playing it in my country"
-2015-08-08,105600,True,Words cannot decribe this awesome game
-2014-09-20,254200,False,"WAY TOO COMPLICATED, THIS GAME IS ONLY FOR SMARTASSES THAT DONT HAVE LIVES,"
-2014-02-16,440,True,Its very very FUN! i love it! very addicting! lots of gamemodes! loads of community plugins/gamemodes! I couldnt get enough of this game it also ruins my grades and takes all my money! 11/10!
-2013-12-23,219890,True,"Tis game blows my mind better than any other game i feel like im lost and i havent even gone through half of it defenetly whorth buying it, it even has tons of morals in the game in leading to success,I dont even know where im going and thats a good thing, its puzzle after puzzle,floor after floor,block after block, this is the most confusing yet most amazing game iv'e ever played."
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,550,True,2
+2014-08-16,221640,False,0
+2014-11-03,293860,True,0
+2015-08-08,105600,True,2
+2014-09-20,254200,False,0
+2014-02-16,440,True,2
+2013-12-23,219890,True,1

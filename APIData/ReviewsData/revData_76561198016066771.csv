@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-19,275850,True,"Let me get this straight. I LIKE THE GAME, However im not happy that they have lied about what is in the game. I just looked at the Preview Videos for the game and none of that has happened in the game NONE. I can see many other players have said the same. SO WHY HAVE THEY LEFT IT OUT??Im so Disappointed. I will however still play the game in the hope they bring it into the game but just disappointed they lied to us."
-2016-01-19,231430,True,Really REALLY Love this game
+posted,item_id,recommend,sentiment_analysis
+2016-08-19,275850,True,0
+2016-01-19,231430,True,1

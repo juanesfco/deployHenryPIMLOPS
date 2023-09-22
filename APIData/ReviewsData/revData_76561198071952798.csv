@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-07,381210,True,"I mess up and everyone dies around meThen killer and I go to Paris to live out the rest of our lives togetherBut one dayThe killer got sick and diedSo me, Dwight Fairfield will become the next killer10/10 Best story line ever"
-2016-01-14,265930,False,"This game is actually cancer I recommend you go buy something else, its fun for the first 10 minutes then you become depressed because you relised you wasted your money on this"
-2016-05-23,218620,True,Payday 2 is a great game... if you like games that crash 6 times before you can even start the game and then crashes another 23 times when you are in the game.And when there is a 230mb update it takes 20 minutes to download and a another 3 hours to installConsistency/10
-2013-11-29,205100,True,This game has one of the bests assassins in gaming history its not just his looks it his powers they arrange from time stopping teleporting and seeing through walls one of the best games ive ever played 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-07-07,381210,True,1
+2016-01-14,265930,False,1
+2016-05-23,218620,True,1
+2013-11-29,205100,True,2

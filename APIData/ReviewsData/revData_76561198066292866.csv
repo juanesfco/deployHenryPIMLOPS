@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-02-22,8870,True,"After the ending, your life will never be the same..."
-2016-02-06,224540,False,Don't own the game and can write a review haha LOL
-2013-10-20,219640,True,EPIC
-2016-03-18,346110,False,Don't have the game but can review it.10/10 IGN AprovedLOL
-2015-05-12,233250,True,"Ok, let's begin the game.50 minutes of gameplay - Wow, i can crash a moon into a planet, nice!1 hour and 40 minutes - Ok, Delta Engines built, begining annihilation1 hour and 50 minutes - Oh no! a moon will crash into my planet!1 hour and 51 minutes - ohshit.jpg2 hours and 30 minutes - Lost the game, my planet has been destroyed and my commander blow up1 minute of gameplay - let's begin this ( again )20/10 - would build Delta Engines again"
-2014-12-20,218620,True,"Best Game ever, BUT , what about a drill that never jams?"
-2013-02-05,440,True,good game!
+posted,item_id,recommend,sentiment_analysis
+2016-02-22,8870,True,1
+2016-02-06,224540,False,2
+2013-10-20,219640,True,1
+2016-03-18,346110,False,0
+2015-05-12,233250,True,2
+2014-12-20,218620,True,2
+2013-02-05,440,True,1

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2012-10-24,1840,True,this thing is really cool for posters and stop motion but don't try to make movies
-2012-10-24,12750,True,its ok but not worth money. got it at summer sale
-2012-10-24,550,True,great and worth 20$ or a tf2 crate
-2012-10-24,99900,True,♥♥♥♥ing spiral sallet
-2012-10-23,212800,True,you jump for crates and its fun
-2012-10-23,209870,True,good since its free
-2012-07-13,48700,True,cool
-2012-02-22,105600,True,dis game iz gud
+posted,item_id,recommend,sentiment_analysis
+2012-10-24,1840,True,2
+2012-10-24,12750,True,2
+2012-10-24,550,True,2
+2012-10-24,99900,True,1
+2012-10-23,212800,True,2
+2012-10-23,209870,True,2
+2012-07-13,48700,True,2
+2012-02-22,105600,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-04,218230,True,This game is to big i want it but download is not fun would buy again.10/10 - IGN
-2013-07-21,219640,True,I like to chop of heads thus Chivalry
-2011-12-31,1250,True,This game is fun with its events and lots of zombie choppings
+posted,item_id,recommend,sentiment_analysis
+2014-12-04,218230,True,0
+2013-07-21,219640,True,1
+2011-12-31,1250,True,1

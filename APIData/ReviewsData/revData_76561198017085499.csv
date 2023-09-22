@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-17,223470,True,"This can't be good for me, but I feel great."
-2016-03-26,449040,True,Feeling Blessed
-2014-01-11,1280,True,Dankest Hour : Euphoria  '420-'69
+posted,item_id,recommend,sentiment_analysis
+2014-12-17,223470,True,2
+2016-03-26,449040,True,1
+2014-01-11,1280,True,1

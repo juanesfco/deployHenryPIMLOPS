@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-21,218620,False,Great wall of 'DLC'
-2016-06-29,391220,True,Played the tomb raider 2013 reboot and this one is way better than the first one+Awesome graphics+Awesome story+More tombs with puzzles +More booty <3<3
-2016-05-21,287390,True,"Got this on sale a while back.  I like games with a good storyline and Metro franchise is definitely one of them. The graphics are good, the monsters are creepy and the humans are ♥♥♥♥♥♥♥♥♥s. This game deserves a perfect 10."
+posted,item_id,recommend,sentiment_analysis
+2016-05-21,218620,False,2
+2016-06-29,391220,True,2
+2016-05-21,287390,True,2

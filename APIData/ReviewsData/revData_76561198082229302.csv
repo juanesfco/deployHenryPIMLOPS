@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-08,730,True,I have been playing this game for A while and after I retired from my parliment duties this game has been helping me forget about my past role as Australia's PM.
-2016-03-29,304730,True,Its hard when you first start off but it is very fun once you get the hang of it!!!
-2016-01-30,353380,True,Very good likes to kill Australian WIFI though
-2015-06-23,33930,True,"Very good with lots of mods aswell, the game never gets old"
+posted,item_id,recommend,sentiment_analysis
+2015-01-08,730,True,0
+2016-03-29,304730,True,2
+2016-01-30,353380,True,2
+2015-06-23,33930,True,2

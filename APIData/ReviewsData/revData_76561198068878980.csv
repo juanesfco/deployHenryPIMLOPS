@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-13,218130,True,Dungeonland is a ♥♥♥♥ing weird ♥♥♥ game. SO IT'S FUN! :D
-2015-02-02,730,True,When I lose to terrorists: ♥♥♥♥ing muslims.When I lose to counter terrorists: ♥♥♥♥ing Americans.10/10 not even racist.
-2014-07-03,224760,True,"An amazing game to soothe yourself to. The puzzle element makes this game really fun. But it isn't as fun as other games with friends, I suggest playing this game if you find yourself with no friends online a lot."
-2014-05-24,570,True,Best virgin simulator out there in the market on PC. Should be called 'How to Train Your Russian' instead of Dota 2.
+posted,item_id,recommend,sentiment_analysis
+2014-04-13,218130,True,2
+2015-02-02,730,True,1
+2014-07-03,224760,True,1
+2014-05-24,570,True,2

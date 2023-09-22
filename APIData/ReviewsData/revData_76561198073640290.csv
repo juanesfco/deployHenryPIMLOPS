@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-25,4000,True,Incredible.....  nuff said
-2014-09-18,570,False,LOL! THIS IS THE WORST S**T IVE EVER PLAYED!!!!!!!!!!!!LIKE WTF I CAN SEE THAT VALVE DIDNT ACTUALLY MAKE THIS AND JUST PUT THEIR NAME ON IT.Rather than wasting time downloading and Uninstalling this just 'obtain' GTA V and have fun.
+posted,item_id,recommend,sentiment_analysis
+2014-07-25,4000,True,2
+2014-09-18,570,False,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-31,253920,True,NATO vs SPECNAZ
-2014-10-17,274290,True,Hermit Simulator 2014
-2014-07-29,20510,False,Gameplay - OKGraphics - OKSounds - OKGore - OKControl - OKBut I couldn't really recommend this game due to its bugginess and glitches. It kinda ruins your playthrough. This gem really needs to be polished more in here for good classic Custom FPS game.PS: I already tried the complete mod as well and other advices but it still doesn't seems working. I kinda had an issue everytime I trade with npcs. Still is there any advice for this issue. Any advice would be much appreciated.
+posted,item_id,recommend,sentiment_analysis
+2014-03-31,253920,True,1
+2014-10-17,274290,True,1
+2014-07-29,20510,False,2

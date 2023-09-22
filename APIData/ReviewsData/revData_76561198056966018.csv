@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-06-17,215470,True,"If you like killing, dinosaurs and killing dinosaurs then this is a perfect game for you."
-2014-08-17,301520,True,"At first I wasn't to intreged by this game but my friend got me interested when I was skyping with him while he was playing it and the insanity of it sounded fun so I downloaded and I have been playing alot since. I highly recommend it, it is a combination of 'World of Tanks' and Lego."
+posted,item_id,recommend,sentiment_analysis
+2013-06-17,215470,True,2
+2014-08-17,301520,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-21,570,True,Haven't played much been Fun so far though.
-2015-07-06,250600,True,"15 minutes of my life spent as a fly that I will never regret, simply stunning and beautiful."
+posted,item_id,recommend,sentiment_analysis
+2015-07-21,570,True,2
+2015-07-06,250600,True,2

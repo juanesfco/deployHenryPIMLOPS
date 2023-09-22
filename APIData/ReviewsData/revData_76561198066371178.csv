@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-14,67370,True,Pretty damn good :D
-2015-10-06,274190,True,Died 1million times 10/10
-2015-02-06,346010,True,why make a siege machine when you can just ram ♥♥♥♥ i r8 8/8
+posted,item_id,recommend,sentiment_analysis
+2015-09-14,67370,True,2
+2015-10-06,274190,True,1
+2015-02-06,346010,True,1

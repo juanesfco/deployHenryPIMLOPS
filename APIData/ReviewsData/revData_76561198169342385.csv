@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-24,252950,True,Rocket League has the perfect balance between fun and competitive gameplay so dont waste your time and buy it
-2015-04-22,4000,True,"With so many gamemodes and physics tools, this sandbox game is excellent value for money at the price. Roleplay servers are popular, things like cops and robbers, Half-Life 2 roleplay, and build mode servers. If it's on sale, pick it up, but keep in mind that the gameplay you get out is completely reliant on what you put in. This isn't a guided experience, this is creativity, and improvisationally based stuff."
-2015-03-09,272350,True,"This game is great for a free game It's quite good, and we enjoyed its gameplay and its team-based offer. We have to wait and see how it evolves, but the base concept leads us to think Ghost Recon Online may have a very bright future. We deeply encourage you to give it a try, especially if you like tactic action"
-2015-02-21,730,True,Just perfect a real Counter Strike game like 1.6 or CSS. Come back to real FPS in esport. Moreover this game is realy not expansive. He is the most epic FPS make by Valve
-2014-12-24,221100,True,It would be nice if they just focused on the bugs in the game
+posted,item_id,recommend,sentiment_analysis
+2015-07-24,252950,True,2
+2015-04-22,4000,True,2
+2015-03-09,272350,True,2
+2015-02-21,730,True,2
+2014-12-24,221100,True,1

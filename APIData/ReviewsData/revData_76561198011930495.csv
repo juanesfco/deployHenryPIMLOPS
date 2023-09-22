@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-21,222730,True,"If you like strategy games then this is worth a look. In Reus you need to have your timing right, as with aiming to meet achievement goals to develop to the next stage in the game. You are in charge of four giants, which create the environment that your settlements of humans live in. Will you develop your environments for the settlements to hunger for war, or live peacefully?"
-2012-07-13,72850,True,"Exploration, customisation and beautiful scenary. Not many games can deliver all of these features in one, though The Elder Scrolls V: Skyrim has done it.I highly recommend this game!"
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,222730,True,2
+2012-07-13,72850,True,1

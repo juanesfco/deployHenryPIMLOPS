@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-02-20,72850,True,GET THIS GAME
-2015-02-15,332500,True,"TL;DR = GRAV is a great game buy it now!ReviewGRAV is a randomly generated world sandbox game. It is very addicting and is fun to play whit all your friends! You can build huge constructions by day and battle monsters by night. I know for a fact that the developers are caring people due to their involvement with a community that I am apart of.Upsides+Very addictive gameplay.+Fun to play with friends.+A variety of different enemy and NPC types.+The game has a good sense of humor.+Dancing!Downsides-When I first ran the game I thought I was running the game on a potato not a $1,000 computer.-Requires some settings adjustment before it runs without lag.-Ran into multiple collision errors (Trees)-If you jump onto a rock next to an ocean the rock likes to throw you in. (Falling into the ocean will kill you.)-No way to change key bindings.Overall Early Access Score = 8/10"
-2012-07-27,105600,True,Get terraria if you like Minecraft
+posted,item_id,recommend,sentiment_analysis
+2013-02-20,72850,True,0
+2015-02-15,332500,True,1
+2012-07-27,105600,True,1

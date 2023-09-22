@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-21,570,True,no hablo engliche
-2016-07-01,252950,True,"If you don't like getting rammed in the A S S, don't play this game. :^)"
-2015-02-11,730,True,This game ruins your life tbh. 8)
-2014-04-26,219640,True,gr8 game 10/10 would bang the knights
-2016-07-01,381210,True,dood this game is hella spooky fam
-2011-04-25,440,True,I think the scouts a hot ♥♥♥♥.
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,570,True,1
+2016-07-01,252950,True,2
+2015-02-11,730,True,1
+2014-04-26,219640,True,0
+2016-07-01,381210,True,0
+2011-04-25,440,True,2

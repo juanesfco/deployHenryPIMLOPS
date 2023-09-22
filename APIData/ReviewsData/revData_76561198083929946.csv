@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-23,22180,True,"Great horror game, awesome scares, amazing atmosphere, overall a great game like the other penumbra games."
-2015-09-23,22120,True,"Great game, amazing story, could've done better on the scares but overall great game like the other Penumbra games."
-2015-08-21,244850,True,Great game!
+posted,item_id,recommend,sentiment_analysis
+2015-09-23,22180,True,2
+2015-09-23,22120,True,2
+2015-08-21,244850,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-11-20,274170,True,Made me kill my whole family.10/10
-2016-05-20,295110,False,"The game is broken, there are hackers everywhere and it's just really boring.I wouldn't waste your money on this."
-2016-05-20,252490,True,A very hard game to start getting into but overall it's a fun game and I would reccomend that you buy it!
-2015-07-04,730,True,One of my favourite games.Gr8 M8 I R8 8/8
-2016-06-17,469990,True,I bought an Oculus Rift just so I could play this game and get closer to my dreams11/10 for almost real catgirls
-2015-05-02,218230,True,"This is my favourite game of all time! It's my most played game, I used to love the first Planetside and the fact that this is free to play makes it even better. I would recomend this game. Thanks SOE"
-2015-11-15,311210,False,This game is complete cancer.I would rather drink bleach than play this.Call of Duty is pretty much dead at this point.Don't waste your money on it.
+posted,item_id,recommend,sentiment_analysis
+2015-11-20,274170,True,2
+2016-05-20,295110,False,0
+2016-05-20,252490,True,0
+2015-07-04,730,True,1
+2016-06-17,469990,True,1
+2015-05-02,218230,True,2
+2015-11-15,311210,False,1

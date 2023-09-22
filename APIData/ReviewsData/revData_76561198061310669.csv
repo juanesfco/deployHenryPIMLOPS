@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-07,219990,True,"basicly a copy and paste job of titan quest with a difernet story, that said i ♥♥♥♥ing loved titan quest and this game is just as good"
-2015-02-03,249990,True,buy it
-2014-12-03,56400,True,"there is not much wrong with this game, if you like the warhammer 40k series or just a RTS fan, this game is a must buy 10/10"
+posted,item_id,recommend,sentiment_analysis
+2016-06-07,219990,True,2
+2015-02-03,249990,True,1
+2014-12-03,56400,True,0

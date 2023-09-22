@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-02,218620,True,다들 처음엔 시체 가방도 밴에 넣어봤을 겁니다.
-2014-11-29,224480,True,커여워
+posted,item_id,recommend,sentiment_analysis
+2014-07-02,218620,True,2
+2014-11-29,224480,True,1

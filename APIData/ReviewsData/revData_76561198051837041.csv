@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-06,224260,True,"This game is good!!! Not all weapons are there like chainsaw, rocket launcher, crowbar, snipers, heavy machine gun and minigun"
-2015-01-04,730,True,I like this game very much!!!!!!! :)
-2014-11-10,440,True,Good game!!! -_-
-2015-02-28,346120,True,I enjoys this game very much. Thiss game has many weapons and meeles.
+posted,item_id,recommend,sentiment_analysis
+2015-03-06,224260,True,2
+2015-01-04,730,True,2
+2014-11-10,440,True,1
+2015-02-28,346120,True,1

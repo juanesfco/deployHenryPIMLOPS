@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-01-20,6060,True,"SWBF2 is my all time favourite game, the most fun game ever to play even after more than 10 years later its still fun to play. Playing with friends or playing the campaign, Rise of the Empire. this game is beyond 10/10"
-2016-01-25,236390,True,"War Thunder is the best air fighter game ive ever played, flying World War II planes especially is so much fun. so for that category I give it 10/10"
-2016-01-20,6000,True,"SWRC is one the most funnest games to play, leading a squad to fight the Reoublic's most dangerous missions."
-2016-01-25,550,True,"L4D2 is honestly the best Zombie game out there, it is so much fun to play, especially playing with friends makes it more fun.I give 10/10 for a Zombie game"
-2016-01-20,440,True,TF2 is fun playing with other people
-2016-01-20,346900,True,This game is good for money making
-2016-01-20,4000,True,"This game is really fun to play, bringing in a huge community together is always fun."
-2015-02-07,730,True,This game is absolutely the best online shooter out there for PC
+posted,item_id,recommend,sentiment_analysis
+2016-01-20,6060,True,1
+2016-01-25,236390,True,2
+2016-01-20,6000,True,2
+2016-01-25,550,True,2
+2016-01-20,440,True,1
+2016-01-20,346900,True,2
+2016-01-20,4000,True,2
+2015-02-07,730,True,2

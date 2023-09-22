@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-16,359320,True,Is good.
-2013-12-22,227680,True,Really Good game if your willing to wait for the updates don't get me wrong this is a awesome game and the devs work there hardest for updates for this game
-2014-03-10,262120,False,Dissapointed Cant even launch the game without it crashing I have met all the Sys Req and it wont work take my word dont by till they get a fix for this issue i will update my Reveiw when this happens.
-2015-01-16,301520,True,good game but recently my blocks have been deleted and I cant get them back why is this happing i just spent so much time gaining credits.
+posted,item_id,recommend,sentiment_analysis
+2015-10-16,359320,True,2
+2013-12-22,227680,True,1
+2014-03-10,262120,False,0
+2015-01-16,301520,True,1

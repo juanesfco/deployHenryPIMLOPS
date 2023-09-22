@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-18,301520,True,much  fun
-2016-06-16,730,True,"I have played with about 3 hackers max whats all the heat about, good game although there are way to many smurfs"
-2015-03-24,304930,True,Game used to be ok now is full of hackers. DEVS DO SOMETHING ABOUT THIS.
+posted,item_id,recommend,sentiment_analysis
+2014-11-18,301520,True,2
+2016-06-16,730,True,2
+2015-03-24,304930,True,2

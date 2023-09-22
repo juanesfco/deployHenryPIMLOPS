@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-01,322330,True,"great game 10/10 Day 80: A giant deerclops came out of the water, dstroyed my base."
-2014-09-30,55230,True,"Really fun game but sometimes the missions are like impossible, so just be aware that it's not an easy game. 10/10 would beat strippers with a ♥♥♥♥♥ again"
-2013-12-19,51100,True,its fun
+posted,item_id,recommend,sentiment_analysis
+2015-02-01,322330,True,1
+2014-09-30,55230,True,1
+2013-12-19,51100,True,2

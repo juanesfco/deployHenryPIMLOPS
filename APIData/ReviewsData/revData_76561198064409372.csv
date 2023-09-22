@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-09-04,4000,True,"Great fun once you learnt how to play. Definitely recommend it for its price, especially when on sale."
-2013-08-14,730,True,Very fast paced. The game starts to open up and is very enjoyable after the steep learning curve.
-2013-12-03,202970,True,"Fairly well optimised. Good port for pc, singleplayer is ok for passing some time though the strike force missions are terrible. Multiplayer does not have many players, incredibly difficult to find a match which is not team deathmatch which is more of the same if you have played the multiplayer of the previous Call of Duties. Zombies is great fun but just about nobody playing around the Australian area. If you really enjoy Call of Duty games and have enjoyed the last couple of them then this game is mostly a better purchase than CoD Ghosts but if you are sceptical about this purchase then there are many other games which would be a better purchase."
+posted,item_id,recommend,sentiment_analysis
+2013-09-04,4000,True,2
+2013-08-14,730,True,2
+2013-12-03,202970,True,2

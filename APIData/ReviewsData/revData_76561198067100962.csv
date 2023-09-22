@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-25,304930,True,Its a pretty gud gameWish player models were better thou...
-2016-02-04,730,True,"You gotta get gud, well im done with this review, solid 8/10"
-2016-09-02,435530,True,"Playing through this game, I'll say i enjoyed it and had fun in many parts. This game is worth the buy if you have the money or wait for a cheaper sale. My main complaint would probably be with how the game ended, wasn't able to tie on the loose ends of the story well enough being too vague on some things. Hopefull they may remedy the story in future expansions, I would look forward to that.My r8 is an 8/10"
+posted,item_id,recommend,sentiment_analysis
+2015-07-25,304930,True,2
+2016-02-04,730,True,1
+2016-09-02,435530,True,1

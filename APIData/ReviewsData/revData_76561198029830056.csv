@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-28,353640,True,Super fun game!
-2015-11-12,341800,True,"Absolutely wonderful, exciting game. Great fun to play with a group of friends, although be aware that it *could* destroy your friendship. And you might also find out that your girlfriend actually isn't as smart as you thought she was. But hey - it is all in good fun! If you like any sort of co-op multiplayer game, this is a must have in your library!"
+posted,item_id,recommend,sentiment_analysis
+2016-07-28,353640,True,1
+2015-11-12,341800,True,2

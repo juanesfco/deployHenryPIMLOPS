@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-10-17,570,True,Good game. If you don't like go back to league of lesbianos
-2013-12-17,730,True,CS:GO IS TOO HARD 3 ME.
-2013-12-23,4000,True,"Fun Game , Many game modes - For further advice ask Anfony (Gmod Expert)"
+posted,item_id,recommend,sentiment_analysis
+2013-10-17,570,True,1
+2013-12-17,730,True,0
+2013-12-23,4000,True,1

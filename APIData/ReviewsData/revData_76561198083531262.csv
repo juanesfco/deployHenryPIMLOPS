@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-11,440,True,Jogue Sa♥♥♥♥♥
-2015-02-25,207140,True,"Bem, por onde começar? Acho, não, tenho certeza que esse é o melhor jogo de corrida que eu já joguei, deixa até mesmo os classicos como Mario Kart e Crash Team Racing no chinelo, o unico jogo de corrida que vi de plataforma 2D, fora é claro a jogabilidade, os power-ups, ganchos, speed-boosts, jogar rankeds é ótimo, com os amigos nem se fala, isso torna o jogo ainda mais divertido."
+posted,item_id,recommend,sentiment_analysis
+2014-05-11,440,True,1
+2015-02-25,207140,True,2

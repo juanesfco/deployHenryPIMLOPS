@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-25,221640,True,Its a great fast-pace rage game. This game is also on the apple app store.
-2013-12-30,228300,True,"Remember Me is a great third person, parkour, fighting game. This game is bassed in the distant year of 2084 where everyone has a device called sen-sen which lets you remember everything, upload and share their memories on the net, as well as remove unhappy or unpleasant memories. But this sen-sen device also can turn people into leapers, which are memory-addicted people who have absorbed too much memories which makes their sen-sen degrade and makes them mutate into a subhuman form. Nilin's ( the character you play as ) job is to destroy sen-sen to stop the leaper plague.This game is full of plot twists, has a unique fighting style, a great sound track and a great moral to it"
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,221640,True,1
+2013-12-30,228300,True,1

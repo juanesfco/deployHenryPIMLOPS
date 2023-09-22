@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-11-13,4000,True,"It is impossible to run out of things to do, highly recommended."
+posted,item_id,recommend,sentiment_analysis
+2013-11-13,4000,True,0

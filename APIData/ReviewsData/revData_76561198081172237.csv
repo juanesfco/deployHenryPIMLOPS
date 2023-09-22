@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-21,230410,True,hola
-2015-03-13,248570,True,buen juego aunke hubo un problema con los server pero es buen juego
-2014-07-24,304930,True,muy buen juego muy buenos graficos asi que lo recomiendoo ;-D
-2014-04-14,113420,True,la verdad no lo jugue pero me gusta xDDD
+posted,item_id,recommend,sentiment_analysis
+2015-03-21,230410,True,1
+2015-03-13,248570,True,2
+2014-07-24,304930,True,2
+2014-04-14,113420,True,1

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-10-08,224260,True,Really fun to play and it's free aswell Though not quite as good as left for dead 2 so when I got that is stopped playing
-2014-09-22,440,True,Fun Game
-2014-04-27,203160,True,This game is amazing it's got one of the best storylines I had ever played its says I have played 0.1 ours but really I have played about 30 I just played it offline and sweet deal on price too the one on ps4 costs 100$ and is ecsactly the same get this game :)
-2013-11-30,49520,True,awesome game
-2014-12-05,8500,False,This game is sh** it lags the fu** out and then it crashes
-2014-10-08,241600,True,Great game gave me 27 hours of gameplay and was just really fun in general
-2014-10-08,200210,False,I played this game for 1 hour then I quit because I reakised how crap it was
-2015-01-15,261640,False,Good game but It's not like borderlands or borderlands 2 because playing the levels over and over gets tiring I don't know why but it becomes not fun after about 20-26 hours (the end of the game)  So overall waste of money and ripoff
-2014-04-29,212070,True,This is such an awesome game it's also free to play which makes it even cooler the graphics on this are really good as well and I can not belive this is going to be playable with the oculas rift :D
-2014-10-08,730,True,This game is amazing and is one of the best or maybe even the best fps game out there also nice and cheap for the amount of gameplay it will bring to youI Highly recommend it
+posted,item_id,recommend,sentiment_analysis
+2014-10-08,224260,True,2
+2014-09-22,440,True,1
+2014-04-27,203160,True,2
+2013-11-30,49520,True,2
+2014-12-05,8500,False,0
+2014-10-08,241600,True,2
+2014-10-08,200210,False,0
+2015-01-15,261640,False,1
+2014-04-29,212070,True,2
+2014-10-08,730,True,2

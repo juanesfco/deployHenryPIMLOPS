@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-13,304930,True,Chegou pra comer cus e bucetas de jogos podres! Melhor que infestation!
-2014-06-27,222730,True,"O que falar desse jogo a não ser que ele é muito bom? Construir um mundo, criar vilas, etc.Se você gosta de jogo estilo o jogo sandbox de tablets, você vai adorar esse!Simplesmente perfeito!"
-2014-06-19,240,True,Dms esse jogo o melhor cs de todos!!!
-2014-06-19,222980,True,Dms esse jogo!!! Recomendo a todos!
-2013-03-28,230410,True,MUITO ♥♥♥♥ recomendo
+posted,item_id,recommend,sentiment_analysis
+2014-07-13,304930,True,2
+2014-06-27,222730,True,2
+2014-06-19,240,True,2
+2014-06-19,222980,True,0
+2013-03-28,230410,True,2

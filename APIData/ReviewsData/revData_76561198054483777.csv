@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-02,34900,True,Cured Cancer
-2014-01-01,8870,True,This is a really fantastic game that has a great story line (abeit difficult to follow at times). It also has incredibly tight gunplay when you turn mouse acceleration off. Truly beautiful.
+posted,item_id,recommend,sentiment_analysis
+2014-04-02,34900,True,1
+2014-01-01,8870,True,2

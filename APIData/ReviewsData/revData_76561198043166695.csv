@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-13,230410,True,The TRUE form of Farmville
-2014-02-23,209000,True,"This is an outstanding and Intrigueing in it's ways, but we will never forget Arkham City for it was personally the best and Asylum which was mutinously awesome. There was something new that was introduced in the batman series was the Multiplayer mode. It was nerve-wrecking to play it and it gave a lot of competitive teamwork. It was a legible attachment to the game, and looking forward to keep playing this. This of course has it's downfalls and the biggest downfall was the suit. I mean would that be a bit heavy for someone who needs to be lightning fast? Look at the logic!. Whatever I say about this game, this game may not be as it should be, but overall it is entertaining and fun with full of possiblities. I would recommend this game for any Batman loving gamer out there!"
-2013-04-10,440,True,"A hilarious making of Valve, they put up a successful game that will make you play it for the fun. Although it gets boring... I've had my experiences with this game, but it gets old and stale. I had that feeling that it will eventually get old. Old or not, this is TF2, and we shall commend it's most outstanding  success in the Steam society!"
+posted,item_id,recommend,sentiment_analysis
+2016-03-13,230410,True,2
+2014-02-23,209000,True,2
+2013-04-10,440,True,1

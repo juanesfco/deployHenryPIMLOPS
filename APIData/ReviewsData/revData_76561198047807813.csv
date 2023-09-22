@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-12-09,346010,True,Physics on point
-2015-12-09,107410,True,Ar    maaaaa      lag
-2015-12-09,271590,True,"Went to pick up hooker, accidentally ran her over."
-2015-12-01,218680,False,I don't even own this game
-2015-11-01,224500,False,You had something going... but then you just rushed it out and never even finished the game...
-2015-10-22,72850,True,"Sick game get it, modding is so good and their are massive dlc sized mods and what not!"
-2015-10-09,220200,True,New1.1 fixed all my problems thank you OldAmazing game has great potential but i'm sorry to say i will not be recommending this game to you until they move to 64bit and fix the ram issue.
-2015-02-18,233250,False,"Wow these devs should just go kill themselfs, ♥♥♥♥ us loyal supporters by publishing a dlc of the game which is the ♥♥♥♥ing game itself then  basicly made the game free and caused us to waste 30 dollars ♥♥♥♥ YOU DEVS"
-2014-05-08,244850,True,<A month after planets added>Seems stable enough pretty good<Planets added >Buggy as hell... can't even walk on a planet without beind randomly killed by nothing also it's nearly impossible to land a lander without it crashing and killing you. proformance is crap and at this time the game is crap.<Before planets>I swear this game and the scale and amount of ♥♥♥♥ you can do it amazeing i swear you can make a ship and hit something and not notice than walk outside and see a massive dent in your ship A++
+posted,item_id,recommend,sentiment_analysis
+2015-12-09,346010,True,1
+2015-12-09,107410,True,1
+2015-12-09,271590,True,1
+2015-12-01,218680,False,1
+2015-11-01,224500,False,0
+2015-10-22,72850,True,0
+2015-10-09,220200,True,1
+2015-02-18,233250,False,1
+2014-05-08,244850,True,0

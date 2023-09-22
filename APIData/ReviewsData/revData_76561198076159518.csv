@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-10,4000,True,This game is great.Thats all i need to sayWhy are you still reading just go buy it... DO IT
-2015-11-01,304930,True,11/10 would starve again
-2016-02-01,353130,True,For the short amount of time i played. I really enjoyed it. The dragons looked cool and each has unique abilities.  My game did glitch a bit with the ability icons but other then that i had fun.
+posted,item_id,recommend,sentiment_analysis
+2016-06-10,4000,True,0
+2015-11-01,304930,True,1
+2016-02-01,353130,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-17,363970,True,great game
-2016-05-31,346110,True,"ARK is awesome,its a great game to play,BUT make sure you have a pretty decent computer."
-2016-06-14,570,False,"okay so lookat all the reviews,everyone says this is a great game.BUT after i got the game i found out all you do is hit the enmy yep thats all you do!This game is the most boring game i have ever played.the only thing i do with this game is look at the monsters and draw them!"
+posted,item_id,recommend,sentiment_analysis
+2016-06-17,363970,True,2
+2016-05-31,346110,True,2
+2016-06-14,570,False,1

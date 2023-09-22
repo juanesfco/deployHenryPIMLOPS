@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-07-15,247730,False,"Very much do no buy this game at the moment.Haven't been able to join a server yet. Either the server browser laggs out for ever causing you to have to force quit the game after 20 mins, or you try and connect to a server and it just returns to the server browser after a couple of seconds of black.If I could get my money back I would."
+posted,item_id,recommend,sentiment_analysis
+2014-07-15,247730,False,1

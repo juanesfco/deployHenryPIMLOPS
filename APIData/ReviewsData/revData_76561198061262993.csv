@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-06-27,730,True,lel wtf i have a problem with the  random freeze in game how to fix it? my pc specs : nvidia gt 740   i5 650 3.2ghz  dual core (i guess)  ram 4gb
-2014-08-15,290650,False,Dont buy this piece of crap
-2015-01-05,238300,True,lol nice weapon and jet :v
-2015-01-18,307340,True,better than CoD 10/10
-2015-10-16,440,True,It's okay.
-2014-12-02,47790,False,idk why i bought this game...
-2015-01-08,247293,True,hmm great
-2014-08-12,263680,True,nice
-2014-11-14,222880,True,10/10
-2015-06-20,218620,True,wah
+posted,item_id,recommend,sentiment_analysis
+2015-06-27,730,True,0
+2014-08-15,290650,False,0
+2015-01-05,238300,True,2
+2015-01-18,307340,True,2
+2015-10-16,440,True,2
+2014-12-02,47790,False,0
+2015-01-08,247293,True,2
+2014-08-12,263680,True,2
+2014-11-14,222880,True,1
+2015-06-20,218620,True,1

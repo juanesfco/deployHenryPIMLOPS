@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-10,221640,True,Store page gave me some facts about hexagons. 10/10
-2014-03-28,49600,True,SO MANY COLOURS!!!
-2014-01-15,34900,False,Not even worth the 50 cents I paid for it.  One of the worst games I have ever played.
-2014-03-28,63710,True,GOTTA GO FAST!
-2014-02-18,206420,True,Killed a ♥♥♥♥♥♥♥♥♥♥ with a ♥♥♥♥♥ bat 10/10 Game of the Year
+posted,item_id,recommend,sentiment_analysis
+2014-04-10,221640,True,1
+2014-03-28,49600,True,2
+2014-01-15,34900,False,0
+2014-03-28,63710,True,2
+2014-02-18,206420,True,0

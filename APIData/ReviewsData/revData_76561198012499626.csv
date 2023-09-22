@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-01-11,8190,True,just cause 2 is wickedly awesome peopals
-2012-10-02,550,True,its great
-2014-01-12,440,True,"spent more money on team fortress 2 cosmetics than on clothes. If i had a choice to do this all again, i would"
-2014-03-29,219640,True,good game
-2016-03-08,202170,True,environmental kills are de beast
+posted,item_id,recommend,sentiment_analysis
+2013-01-11,8190,True,2
+2012-10-02,550,True,2
+2014-01-12,440,True,2
+2014-03-29,219640,True,2
+2016-03-08,202170,True,1

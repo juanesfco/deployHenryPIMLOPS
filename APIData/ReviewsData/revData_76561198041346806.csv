@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-06,221100,False,"This game has been in alpha for almost 2 years, lol."
-2015-06-04,34900,True,This game gave me cancer.
-2014-05-17,219680,True,This is some artsy ♥♥♥♥♥.
+posted,item_id,recommend,sentiment_analysis
+2015-07-06,221100,False,2
+2015-06-04,34900,True,0
+2014-05-17,219680,True,1

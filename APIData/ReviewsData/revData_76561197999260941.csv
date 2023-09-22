@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-25,212630,False,"The terrible mechanics combined with Ubisofts server stability make for a very frustrating player experience, especially in the coop modes with freinds.I couldn't let the games' constant crashes to desktop, terrible AI and cheap shooting mechanics get the better of me, so I finished it out of spite.Once the credits rolled, alt+F4 followed by a hasty deletion of local content could not quench my rage. I regret ever buying this game."
-2013-12-24,234650,True,Amazing recreation. Immersive world with an excellent at style.
+posted,item_id,recommend,sentiment_analysis
+2016-03-25,212630,False,0
+2013-12-24,234650,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-06,218230,True,"If you are like battles that never ends and realistic battles, this game is for you!10/10 - Best game evar!!!!"
-2016-06-23,210770,True,"good when solo, even better with friends"
-2014-06-11,104900,True,Bascially left 4 dead 2 with dinos. The funniest part about the game is that melee weapons are more op than guns!
+posted,item_id,recommend,sentiment_analysis
+2014-07-06,218230,True,1
+2016-06-23,210770,True,2
+2014-06-11,104900,True,1

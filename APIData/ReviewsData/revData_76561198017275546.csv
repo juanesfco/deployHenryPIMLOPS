@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-30,294860,True,"Great gameplay, deep and engaging story.Gorgeous visuals, distinctive art style, excellent voice acting and sound design.Only minor quibble is that I'd like some of the animations to be skippable. But that's a VERY minor quibble.9.5/10"
-2014-12-29,48700,True,"A groundbreaking experience in freedom and flexibility. A true sandbox of pseudo-medieval pseudo-Europe, with no overarching story except what you make for yourself. Want to lead a maruding party of raiders? Go for it. Want to make money hauling goods from one city to another? Go for it. Want to found your own kingdom or help a claimant retake their throne? Among the many things M&B:W gets right is the actual combat. The graphics may be a little clunky, the AI is not as sophisticated as it could be, but the visceral crunch of your lance into an enemy as you charge them down is one of the most satisfying combat moments of gaming."
-2014-02-02,23450,True,"A nice Roman-themed little city builder, It's a great choice for anyone who enjoyed games like Caesar III, Pharaoh, or the Tropico games. Similar scale of cities, with good enough graphics to be pretty and good enough depth in the city-building to provide strategic depth. I've found it to be stable and smooth on a wide range of computers, from low-powered laptops to high-end rigs, so it's also a good game for travelling with.The biggest challenge in the game is the city building rather than the combat, it's more a city simulator than a wargame (again, like Caesar or Pharaoh). "
-2012-12-24,57690,True,"Quirky and addictive, this is one of the most enjoyable city-building games ever. Just the right balance of fun and challenge, with a very creative setting."
+posted,item_id,recommend,sentiment_analysis
+2016-03-30,294860,True,2
+2014-12-29,48700,True,2
+2014-02-02,23450,True,2
+2012-12-24,57690,True,2

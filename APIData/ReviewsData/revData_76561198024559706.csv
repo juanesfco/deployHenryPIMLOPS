@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-30,373420,True,"Still one of my favourite RPG games, the enhanced edition with Tactician Mode is just what I needed."
-2016-02-05,268500,True,> named a soldier after my girlfriend> go on a mission> girlfriend gets killed> reload mission> repeat 5 times> gg saved girlfriend finally> gg its only the second mission10/10 would save her again
-2016-03-18,433080,True,Always love more customisation options. They look great too.
-2016-05-15,433090,True,New alien mechanics and typesNew weapons New story missions New cosmetic features. Not bad for $10
-2014-11-27,204360,True,"Very fun game. Reminds me of the hack and slash games I used to play when I was a kid, but harder :)"
+posted,item_id,recommend,sentiment_analysis
+2015-10-30,373420,True,1
+2016-02-05,268500,True,1
+2016-03-18,433080,True,2
+2016-05-15,433090,True,2
+2014-11-27,204360,True,1

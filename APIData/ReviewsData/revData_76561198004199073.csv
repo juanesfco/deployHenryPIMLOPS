@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-23,284460,True,A great puzzle game that should not be compared with the Portal series. There is no similarity between the two besides jump pads. That's basically it. Anyways it's a great game that gets you thinking and rushing to survive and reach the goal!9/10
-2013-12-17,259080,True,MAGESTIC! <3 11/10
-2015-12-28,339800,True,GOTTA BANG'EM ALL!
+posted,item_id,recommend,sentiment_analysis
+2015-06-23,284460,True,2
+2013-12-17,259080,True,2
+2015-12-28,339800,True,1

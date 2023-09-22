@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-11-30,42680,False,Its good but no controller
-2013-10-01,218620,True,Its Like cod but your a robber and doing more hiest then ever before
-2012-07-10,212180,True,if you played MW3 MW2 black ops  or other MMOs then you will like this game
-2012-05-02,200210,True,every one i rate this game a 10000000 out fo 10 so buy now now now!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2012-04-30,620,True,1000000000000000000000000000000000000000000000 out 1000000000000000000000000000000000000000000000 buy it now!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2013-11-30,42680,False,2
+2013-10-01,218620,True,2
+2012-07-10,212180,True,0
+2012-05-02,200210,True,0
+2012-04-30,620,True,1

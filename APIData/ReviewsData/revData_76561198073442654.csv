@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-05,265210,True,"well santa got a bit drunk and had a breakdown, well lets start from the beginning who likes cleaning up, clearly not me, however who likes exploring the ramage of santa elfs imapled to a wall Rudolph body parts scatterd over the stable, i love it i love looking around and cleaning up santas killing spree i totally rcomend this game."
-2014-04-20,22380,True,so fun
+posted,item_id,recommend,sentiment_analysis
+2014-02-05,265210,True,1
+2014-04-20,22380,True,2

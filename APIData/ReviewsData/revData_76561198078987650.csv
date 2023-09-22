@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-21,211820,True,Good... but .. nothing .
-2015-04-10,113420,False,No entiendo como crearme la cuenta osea me la creo en su pagina con el mail pero en el juego pongo el mail y no me deja entrar de que manera me dan mi nombre de usuario para poder de una vez jugar?
+posted,item_id,recommend,sentiment_analysis
+2015-09-21,211820,True,2
+2015-04-10,113420,False,0

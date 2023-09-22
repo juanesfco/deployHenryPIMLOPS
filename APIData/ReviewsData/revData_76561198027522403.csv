@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-02,262120,True,"THE BEST TOWER DEFENCE GAME I'VE EVER PLAYED!!! Great game play and i love the way you can take controll of your towers to take out that last tank yourself. Maybe not the last tank, 20 waves maybe. It's just so fun."
-2014-01-04,214950,False,"Down right worst game of the series its even worse than Empire at launch, so many glitches, 1 turn per year WTF so there is no point of upgrading your generals because they die in 20 turns, agents are useless, mutiplayer is barebones with MP campaigns more glitchy than in Shogun 2 with a desinc every 2 turns and a crash every 3 assuming you wont have your 80th birthday while the game goes through all the factions turns. P.S They Milk you for the DLCS"
-2015-12-06,232090,False,♥♥♥♥ing keys and skins BEFORE the game is done. Stop the mircotrasactions!
+posted,item_id,recommend,sentiment_analysis
+2014-05-02,262120,True,2
+2014-01-04,214950,False,0
+2015-12-06,232090,False,0

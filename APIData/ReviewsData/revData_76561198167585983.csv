@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-15,239660,True,It's a great Military FPS and very balanced for a Free-2-Play. The only issue for me was that in this game your weapons wear out which means you have to repair them once in a while and can often be a bit pricey. And also it is quite hard to grind when you start off.9/10
-2015-06-04,212180,False,"Great Game but lots of hackers. Go play their other one, Combat arms line of sight. Its improved and apparently very little hackers."
-2015-06-02,209870,True,"It used to be a great game, it was soo good. But now, the community is just... blah. Hardly any1 on. Recommend only for a fun game with friends once in a while."
+posted,item_id,recommend,sentiment_analysis
+2015-06-15,239660,True,1
+2015-06-04,212180,False,1
+2015-06-02,209870,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-29,265930,True,There is no where to start with the review of this game. It is just unable to be explained. Play it to see what I mean.It's good.
-2014-03-29,236090,True,"A great game. I found the story the be fairly well written and easy to follow, despite a few certain twists. I found the fighting very basic, yet at the same time, you could chain all your moves and feel like a total badass. You do not have to complete any of the side quests, and most of them are pretty useless. Overall i found the game to be a fun and enjoyable title."
+posted,item_id,recommend,sentiment_analysis
+2014-03-29,265930,True,1
+2014-03-29,236090,True,2

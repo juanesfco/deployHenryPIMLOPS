@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-25,440,True,"Team fortress 2 is one of the most fun games ive ever played i mean if im sick of the other shooters like planetside 2 (im not syaing its a bad game its certainly not) or ghost recon two i turn to this game, i mean with its adorble cartoony graphics and good trading system and good combat system i could spend a whole day on this"
-2013-12-04,230410,True,This is one of the most fun cooperative experiences i had i mean your able to do so much although the weapon system is odd its a great game.
-2014-04-29,200260,True,This game is amazing ive played through the game about 10ish times not and im am blown out of my mind the combat system is great the stealth system is even better i highly suggest this 10/10
-2013-01-15,49520,True,its a great game
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,440,True,1
+2013-12-04,230410,True,2
+2014-04-29,200260,True,2
+2013-01-15,49520,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-04,240,True,pretty good
-2014-07-19,730,True,you suck penes david
-2015-12-28,319740,True,Story's pretty good except for some dry dialogue and the voice recognition also adds a nice addition to the game although you might find yourself repeating commanding a few times. all in all there came an echo is a great game
+posted,item_id,recommend,sentiment_analysis
+2015-01-04,240,True,2
+2014-07-19,730,True,1
+2015-12-28,319740,True,2

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-04-27,27020,True,I try my hardest I do but the lady keeps on dying
-2015-04-11,57300,True,"98%A better horror game than this doesn't exist, sorry"
-2015-04-27,237760,True,Aggressive
-2014-04-16,203810,True,"The definition of an 'art game' or interactive story or whatever. Real short, real interesting, real pretty"
-2015-06-10,22300,True,Yeah she goes alright
-2015-04-10,214490,True,90%Nearly Amnesia-tier of horror done right. NEARLY. Somewhat frustrating at points but it's still ♥♥♥♥ scary and easily the best Alien game.
-2015-04-10,238460,True,95%Not perfect but as close as you're probably going to get CHRIST BUY IT
-2015-03-07,204360,True,God is among us & he works at The Behemoth
-2015-03-07,322330,True,"Honestly this is probably the most well put together 'Early Access' game I've ever seen and Klei deserve every cent of your money for it. You won't run out of things to do, see and create; in a very broad sense Don't Starve is comparable to Minecraft on ketamine"
+posted,item_id,recommend,sentiment_analysis
+2015-04-27,27020,True,1
+2015-04-11,57300,True,0
+2015-04-27,237760,True,1
+2014-04-16,203810,True,2
+2015-06-10,22300,True,1
+2015-04-10,214490,True,1
+2015-04-10,238460,True,2
+2015-03-07,204360,True,1
+2015-03-07,322330,True,2

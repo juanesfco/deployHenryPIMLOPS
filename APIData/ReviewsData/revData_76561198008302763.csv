@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-27,287700,False,"This is not a Metal Gear Solid game.This is just another generic brown dude-shooter.Of what I've played so far it is easily the worst MGS game story wise. I havent played many other MGS games admittedly (only Snake Eater and Peace Walker, and Gound Zeros I suppose. All the others I watched on Youtube). This is just such a disappointment, it's not neccasarily a bad game, but it was no where near my very high expections. The real problem is, I can't quite put my finger on what exactly I don't like about this game (apart from the 'story'). There are few things though, like Big Bosses voice actor (can't remember his name), he barely says anything, I just find myself begging him to actually talk, and when he does I wish he would stop, the character just seems like another generic action-game protaganist. Its just disappointing.I'll still be playing this game simply because I feel obliged, but I won't be enjoying it nearly as much as I had hoped. The strange thing is, I really quite loved GZ, so again, I am really disappointed."
-2015-12-10,201810,True,"I have over 80 hours played at the time of writing this and just started another playthrough. I have got every single achievement and completed the game in 2 of 4 'bonus playthroughs' (or something) where the game adds new and difficult gimics (no achievements for those). This is without a doubt one of the best games I've ever played, I would easily recommend it to anyone that can deal with a little blood and gore.Buy it."
-2013-06-30,97000,True,"A funny, challenging little Indie game suitable for all ages."
+posted,item_id,recommend,sentiment_analysis
+2015-09-27,287700,False,1
+2015-12-10,201810,True,1
+2013-06-30,97000,True,2

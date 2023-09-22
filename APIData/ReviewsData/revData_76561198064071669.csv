@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-07-08,203140,True,"Not bad, by any means, but not anywhere close to a worthy successor to Blood Money. Choose Blood Money over this."
-2015-06-03,266430,True,"I don't see too much of a point, but who cares? This is awesome!"
-2015-06-02,24980,True,You and your friends are dead. Game Over.
-2015-06-02,620,True,Why is this game not in your library?
-2015-06-02,1510,True,The best hacking game ever made. I wish this was the hacking minigame in Deus Ex.
-2015-06-02,221910,True,I think this is what you get if you divide the source engine by zero.
-2015-01-13,200510,True,"I got this game for free with Bioshock Infinite several years ago. Best deal I've ever made. I didn't know what to expect, but I never expected to find one of the best games ever made. Still playing in 2015.10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-07-08,203140,True,2
+2015-06-03,266430,True,2
+2015-06-02,24980,True,0
+2015-06-02,620,True,0
+2015-06-02,1510,True,2
+2015-06-02,221910,True,1
+2015-01-13,200510,True,2

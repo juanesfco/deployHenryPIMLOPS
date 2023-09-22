@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-28,275850,False,"You're paying for a game that's only selling point is good looks. It's a good game until you get off the first planet. After that it's the same thing every planet, just a new alien and even after all that the space stations are just like every other outpost on the planet. Even the things you name get deleted after 2 weeks or something like that. 1/10 because they lied and -7/10 because this game plays like a pre-alpha."
-2014-10-10,241930,True,"Quite possibly the best Middle Earth game I have ever played. Combines the best of free running, free flow combat and a great story. They captured the Uruk spirit and the way you are able to change the outcome of certain Uruks, if they become YOUR warchief or if you murder them on the spot. I Loved this game."
+posted,item_id,recommend,sentiment_analysis
+2016-08-28,275850,False,1
+2014-10-10,241930,True,2

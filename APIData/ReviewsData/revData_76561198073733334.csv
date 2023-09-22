@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-12,42910,True,Vlad is definitely not a vampire.
+posted,item_id,recommend,sentiment_analysis
+2016-02-12,42910,True,1

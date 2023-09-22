@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-27,24860,True,awsome ilove it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2013-12-19,240,True,awsome game
-2013-10-26,218230,True,wow!
-2013-02-08,440,True,best game ever!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2013-12-27,24860,True,1
+2013-12-19,240,True,0
+2013-10-26,218230,True,2
+2013-02-08,440,True,1

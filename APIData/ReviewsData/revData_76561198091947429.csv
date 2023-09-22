@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-30,230410,True,OMG PERFECT
-2013-12-02,104700,True,"Parece LOL so q em terceira pessoas,pra min é bom"
+posted,item_id,recommend,sentiment_analysis
+2014-01-30,230410,True,2
+2013-12-02,104700,True,2

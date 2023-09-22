@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-22,206210,True,"A great, hyper-kinetic, gadget-filled alternative to too serious shooters like COD and BF. If you want a little more variety in your FPS than just what style of grenade to carry around, this is your game. All for the low, low price of free."
-2014-05-28,4000,True,its a fun game
+posted,item_id,recommend,sentiment_analysis
+2014-04-22,206210,True,1
+2014-05-28,4000,True,1

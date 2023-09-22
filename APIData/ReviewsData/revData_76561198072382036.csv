@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-26,319630,True,10/10 lesbian love
-2015-01-23,570,False,this is ♥♥♥♥
-2013-12-23,4000,True,♥♥♥♥ it good
+posted,item_id,recommend,sentiment_analysis
+2016-01-26,319630,True,2
+2015-01-23,570,False,1
+2013-12-23,4000,True,2

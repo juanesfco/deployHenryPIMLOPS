@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-14,304930,False,i cant connect with mah friends :/
-2014-08-25,205100,True,i like this game because u can do your mission different styles like sealth brutal and more and i hope they make more and i wish there was free roaming after the game that would be more nice
-2014-08-17,440,True,i like this game i recommend it to everyone since its free and alot of hats and MASSIVE FREAKING WEAPONS!!!
+posted,item_id,recommend,sentiment_analysis
+2014-08-14,304930,False,0
+2014-08-25,205100,True,1
+2014-08-17,440,True,1

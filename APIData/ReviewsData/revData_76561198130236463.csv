@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-29,730,True,One of hte best games I have ever played! 10 out of 10
-2015-01-18,440,True,A great game 10 out of 10
-2015-11-25,319550,False,This Game gives kids Fits!
-2015-06-11,4000,True,Its a fun game but it take 3 hours for me to load up a map.
+posted,item_id,recommend,sentiment_analysis
+2015-03-29,730,True,2
+2015-01-18,440,True,2
+2015-11-25,319550,False,0
+2015-06-11,4000,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-13,461560,True,"Aside from me not understanding a bit of the story in this game (I can it was religion-related), the gameplay objective is incredibly simple, and the art for this game is just pure amazing. Would recommend this game for anyone who would like to trade thirty minutes for a calming experience. Once again, the art for this game is just BEAUTIFUL."
-2016-06-19,391540,True,Who wouldn't want to date a skeleton? ;) 10/10 absolutely perfect
-2015-10-15,274190,True,This is just way too good11.01/10
+posted,item_id,recommend,sentiment_analysis
+2016-08-13,461560,True,1
+2016-06-19,391540,True,2
+2015-10-15,274190,True,1

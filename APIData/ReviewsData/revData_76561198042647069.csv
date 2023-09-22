@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-27,344760,False,This game had alot of promise but it is let down by how buggy and near unplayable it is. There is costant lag no matter what your ping so the combat is basically broken with the other players lagging all over the place. How they call this a finished product is beyond me. Codehatch definitely didn't learn there lesson from starforge.
-2016-02-10,383870,True,I finally have a friend10/10
-2015-12-16,570,True,it alrite
-2015-02-10,273350,True,Don't even own the game but it still lets me write a review...10/10
+posted,item_id,recommend,sentiment_analysis
+2015-12-27,344760,False,0
+2016-02-10,383870,True,1
+2015-12-16,570,True,1
+2015-02-10,273350,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-28,233470,False,"Evoland was fun at first, but then became clunky and hard. You can't move and attack, and the skeletons are literally push ypurself up against a wall and spam spacebar...Once you play half and hour worth of game, and die there aren't any save points and you have to play another half hour of the same area... you really can't just log off due to those save points.Would not recommend."
-2015-12-25,113020,True,Beautiful game. Would absolutely recommend to anyone who likes caual atmospheric games!
+posted,item_id,recommend,sentiment_analysis
+2015-11-28,233470,False,1
+2015-12-25,113020,True,2

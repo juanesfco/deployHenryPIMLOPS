@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-02-10,22370,True,Liam Neeson plays your dad 10/10
-2016-02-10,377160,True,Liam Neeson doesn't play your baby 0/10
-2015-12-27,22330,True,Patrick Stewart plays the emperor. 10/10
-2015-12-27,72850,True,I have played over 1500 hrs of this on my 360 and many more on pc.But there's one thing you have to consider before purchasing though...Patrick Stewart doesn't play the emperor. 0/10
+posted,item_id,recommend,sentiment_analysis
+2016-02-10,22370,True,1
+2016-02-10,377160,True,1
+2015-12-27,22330,True,1
+2015-12-27,72850,True,2

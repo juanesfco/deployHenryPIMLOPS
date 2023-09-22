@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-24,278570,False,Jogo mal feito. Nem tente.
-2014-07-26,287450,True,Excelente jogo de estratégia. Aindo procuro um substituto com gráficos e jogabilidade atualizados.
-2014-06-22,39190,False,Que decepção. Descobri tarde demais que o jogo não tem a expansão Legends of Arana!É um produto incompleto e vai dificultar sua vida quando você tentar colocar algum MOD para expandir seu divertimento.
+posted,item_id,recommend,sentiment_analysis
+2014-07-24,278570,False,0
+2014-07-26,287450,True,2
+2014-06-22,39190,False,2

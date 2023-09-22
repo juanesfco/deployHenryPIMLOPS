@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-13,211820,True,grate game like terraria but with star 7.3/8.7 also has space ship KABLAM
-2015-09-03,287700,True,magnum-opus
-2015-02-06,4000,True,7/2 would rate this game a full autism and my seal of approval you only have to join one online sever to contract cancer
+posted,item_id,recommend,sentiment_analysis
+2015-02-13,211820,True,0
+2015-09-03,287700,True,2
+2015-02-06,4000,True,1

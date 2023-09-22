@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-02,8870,False,"It starts off good but soon becomes an under rated shooter. So mutch mindless action that it becomes boring and a 'twist' ending that is not cleverly wrtitten as it was in the first game, but rather apears without mutch to back it. Recreating facts at the end of the game do not count as good writing."
-2014-04-09,212580,False,"Buggy lagfest. Worse port than GTA IV, Dark Souls etc. AVOID.EDIT: Upgraded to Core i5 and 7870, still drops to 10fps at times on lowest settings below 720p."
-2015-07-04,208650,False,"After the download stopped at 19GB and started again from 0%, I finally got to launch the game and was greeted with poor performance (Drops to single digit FPS on a 970), HUD glitches, and got teleported across the city in my first fist fight as well as mukltiple audio droppouts to complete silance.It's simply worse than I expected, and I wasn't expecting much from all I've seen and heard about the game.I got the game with my 970, what a great way to showcase your GPU's nVidia!"
-2016-02-16,302510,True,"On a rainy day, and on sale under $10, it's (possibly) worth seeing some of the sites and rare moments reminiscent of 300 etc.Though ultimately the gameplay, story, and levels are shallow, repetitive, and underdeveloped.*For further consideration:- Performance can be wonky at times (16gb ram, i7 and gtx 970).- Because of the lack of button prompts, an Xbox controller is pretty much a necessity for the quick time events which, for the most part, play themselves anyway."
-2014-01-02,24740,True,One of the best games of last generation. I replay it yearly.
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,8870,False,1
+2014-04-09,212580,False,0
+2015-07-04,208650,False,1
+2016-02-16,302510,True,1
+2014-01-02,24740,True,2

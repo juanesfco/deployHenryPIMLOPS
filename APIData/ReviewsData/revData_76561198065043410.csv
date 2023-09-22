@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-25,265630,True,PASS THE WHISKEY SIMULATOR 2006 IS A PRETTY GOOD GAME 2/10 WOULD STUFF IT IN A TOASTER IF MY MOM LET ME
-2014-06-25,218620,False,Microtransaction simulator seems to be going pretty swell for overkill. i had to change my review to negative because overkill has their heads shoved SO far up their ♥♥♥ that they think they arent actively ruining the game.
+posted,item_id,recommend,sentiment_analysis
+2014-06-25,265630,True,2
+2014-06-25,218620,False,1

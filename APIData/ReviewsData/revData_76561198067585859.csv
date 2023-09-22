@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-01,730,True,What a dank meme of a gameSqueekers everywhere♥♥♥♥ing silverRanking systems ♥♥♥♥edMic spam is aidsSolo queing is aidsGun skins are aidsUnderage gabling is AIDSIGN Rates 11/10
-2015-05-17,340350,True,"This game is just a great bit of banter, especially if u are playing with cammy"
-2015-01-01,440,True,"Fun game, ♥♥♥♥ tons of aussies that seem to be still on there periods tho..."
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,730,True,1
+2015-05-17,340350,True,2
+2015-01-01,440,True,1

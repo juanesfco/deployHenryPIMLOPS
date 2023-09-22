@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-17,236390,False,Extremely a pay to win game!
-2014-05-29,107410,True,One of the best games i've ever played!
-2013-12-18,201790,True,"Jogo muito bacana, divertido, com diversas opções de armas, traps, trickers, personagens, challenges e fases! Recomendo!"
+posted,item_id,recommend,sentiment_analysis
+2013-12-17,236390,False,1
+2014-05-29,107410,True,2
+2013-12-18,201790,True,1

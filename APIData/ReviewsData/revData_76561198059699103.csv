@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-09-22,55230,True,สนุกมาก WOW -0-
-2015-10-20,206420,True,noobbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-2014-04-19,99900,True,WOW
+posted,item_id,recommend,sentiment_analysis
+2013-09-22,55230,True,1
+2015-10-20,206420,True,1
+2014-04-19,99900,True,1

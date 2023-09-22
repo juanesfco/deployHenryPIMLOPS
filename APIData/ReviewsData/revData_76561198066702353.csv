@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-11,267530,True,There So Much fun in this game.
-2015-03-06,354140,True,There so much more to focue on.
-2015-10-15,376870,True,:)
-2014-09-13,319510,True,I did like it. It is a scary game. You do need to be cafeful.
+posted,item_id,recommend,sentiment_analysis
+2015-08-11,267530,True,1
+2015-03-06,354140,True,2
+2015-10-15,376870,True,2
+2014-09-13,319510,True,0

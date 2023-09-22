@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-07,238460,True,Infuriating 10/10
-2014-12-06,630,True,good multiplayer
-2014-06-29,265930,True,I was a goat 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-12-07,238460,True,0
+2014-12-06,630,True,2
+2014-06-29,265930,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-31,204030,True,"Amazing game, prbably the best RPG I have ever played. Excellent story telling and a very epic feel to the game make it well wortht the money and much more."
-2014-07-26,67370,True,"Heaviily recomened this game, although rather short campaing it is incredibly enjoyable."
+posted,item_id,recommend,sentiment_analysis
+2014-07-31,204030,True,2
+2014-07-26,67370,True,1

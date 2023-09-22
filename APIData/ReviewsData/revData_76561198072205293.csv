@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-05-09,250900,True,This game made my nipples hard and makes me love having cancer.10/10 ign play this game.
-2014-08-13,55230,True,Wreck ♥♥♥♥.
-2014-08-13,239820,True,Good game indeed
-2014-07-04,204360,True,"Great co-op game, go get it"
-2014-07-04,226320,True,I somehow can still play this when im bored of it.....
-2014-07-04,12900,True,"DROP THE BASS, WUB WUB WUB BOOOOOOOOOOOOM"
-2014-06-25,107100,True,"A good rpg if i do say so myself , go get it."
+posted,item_id,recommend,sentiment_analysis
+2015-05-09,250900,True,0
+2014-08-13,55230,True,1
+2014-08-13,239820,True,2
+2014-07-04,204360,True,2
+2014-07-04,226320,True,0
+2014-07-04,12900,True,0
+2014-06-25,107100,True,2

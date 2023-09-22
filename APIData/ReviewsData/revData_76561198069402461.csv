@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-11-28,4000,True,"muito bom, a Valve conseguiu criar um jogo que vc pode fazer de tudo."
+posted,item_id,recommend,sentiment_analysis
+2013-11-28,4000,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-19,346110,True,im a ♥♥♥♥ing dinosaur roar
-2016-04-21,252950,True,love it
-2015-03-20,570,True, moo ♥♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2016-03-19,346110,True,1
+2016-04-21,252950,True,2
+2015-03-20,570,True,1

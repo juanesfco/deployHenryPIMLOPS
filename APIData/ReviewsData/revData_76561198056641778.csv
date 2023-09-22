@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-10-31,440,True,"Missing data for object 'OBJ_DISPENSER' in scripts/objects.txtThey better fix this, Even though my hours spent probably reseted. It's a good game."
+posted,item_id,recommend,sentiment_analysis
+2014-10-31,440,True,1

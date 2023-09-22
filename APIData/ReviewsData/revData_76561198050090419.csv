@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-09,218620,True,THIS GAME IS EPIC
-2015-11-20,417860,True,Friend Zone Simulator 2015
-2013-06-10,223710,True,AWESOME
-2013-02-21,91310,True,Good game one of my favourites and the coop is fun to play as well
-2011-10-12,500,True,It is the bessssssssssssssssssssssssssssssssssssssst
+posted,item_id,recommend,sentiment_analysis
+2013-12-09,218620,True,0
+2015-11-20,417860,True,1
+2013-06-10,223710,True,2
+2013-02-21,91310,True,2
+2011-10-12,500,True,1

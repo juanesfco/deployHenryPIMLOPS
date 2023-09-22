@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-02-27,252490,True,"At this point, Rust is my religion."
+posted,item_id,recommend,sentiment_analysis
+2015-02-27,252490,True,1

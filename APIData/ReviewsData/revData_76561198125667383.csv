@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-26,242760,True,"For a group of 4 people, this game is incredibly amazing. I love the idea of the cannibals and all the really cool features like spear fishing, cutting down trees and the little secrets that lay all around the map. 10/10"
-2014-02-27,440,True,"Tf2 is a good game in my opinion, still trying to get the hang of it and figuring some stuff out about it though its still s good game and definatly recommended"
+posted,item_id,recommend,sentiment_analysis
+2014-10-26,242760,True,1
+2014-02-27,440,True,2

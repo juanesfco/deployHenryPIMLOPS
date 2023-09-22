@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-04,212680,True,yusysuyusyusyusyus
-2014-09-24,21090,True,scare
-2014-09-24,4000,True,good
-2014-09-24,440,True,yes
+posted,item_id,recommend,sentiment_analysis
+2014-04-04,212680,True,1
+2014-09-24,21090,True,1
+2014-09-24,4000,True,2
+2014-09-24,440,True,1

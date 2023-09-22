@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-02,219990,True,"Awesome game, great level design and atmosphere, cool classes (though one would want for more :P ), involving and intense gameplay.8/10 would recommend to a friendonly 8 cos it isn't finished, fully expecting final product to be a 10/10"
-2015-06-15,211420,True,"favourite game of all time,10/10atmosphere amazingfighting system crispexploration? yesnarrative? mysteriousbosses? very hardexcellent game don't play if ur casul"
-2015-11-15,72850,True,"With the 5th installment of the Elder Scrolls Series, Bethesda takes us into the land of the north known as Skyrim, As with most Bethesda games there is a huge open map to explore. Skyrim is comparably smaller to the previous maps but much more interesting, with different landscapes such as frosty mountains, plains, hot springs and hill's skyrim has the most interesting landscape thus far. The gameplay is immersive and different with multiple ways to play the game, and all skills can be maxed, if you get bored of being a warrior with a mace and a shield you can start playing with magic at any time or pick up a knife and sneak around slitting throats and cutting purses. The story has a great feeling of importance and grandness to it keeping you absorbed in the myriad of different stories to be told abouts skyrim, aided by the great design and pieces of literature scattered around the world giving more detail to the lore. 9/10 excellent game."
-2015-07-05,105600,True,"Terraria,One of the best and most enjoyable games i have ever played,with more content than any other game, and maps so large and intricate, and creative bosses to test your skill there is always something to explore and find,10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-09-02,219990,True,2
+2015-06-15,211420,True,0
+2015-11-15,72850,True,2
+2015-07-05,105600,True,2

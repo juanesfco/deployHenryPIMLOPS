@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-10,108600,True,"This game in an awesome open world, rpg, multiplayer game (dont forget fighting the zombies.) Running around a town, scavenging and killing zobmies with spoons and drinking soda, what more could you ask for? This game is totally worth the 15$Trust me..."
-2013-12-30,550,True,I can't say anything this game is too good.
+posted,item_id,recommend,sentiment_analysis
+2014-03-10,108600,True,1
+2013-12-30,550,True,2

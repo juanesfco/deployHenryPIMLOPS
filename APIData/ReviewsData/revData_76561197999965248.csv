@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-07-23,388080,True,"Definitely recommend. Works great with games that when alt+tabbed or loses focus, forces itself out of fullscreen and into windowed. Tried with various games, noticed no performance loss."
+posted,item_id,recommend,sentiment_analysis
+2015-07-23,388080,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-19,295110,True,Really good game and fun to play with like friends. Its way better than cod because you actually need skill and strategy to win rather than mindlessly killing people in cod. 10/10
-2015-06-26,333930,True,"Super fast paced tf2 like game. Lots of action almost all the time. Usually your team-mates are garbage and you'll never get ammo, or healing."
-2014-02-28,4000,True,Great game play it all the time never get bored of it !!! A+
+posted,item_id,recommend,sentiment_analysis
+2015-03-19,295110,True,2
+2015-06-26,333930,True,1
+2014-02-28,4000,True,0

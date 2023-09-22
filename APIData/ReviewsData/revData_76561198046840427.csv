@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-19,252490,True,Muito Bom--Grafico Fabuloso--Muitos Server Br e Us--Server com 50 player so 10 EurosCoisas Ruim-Nao pode fazer server em lan.
-2015-02-01,209650,False,Muito Mal Otimizado
-2014-05-31,243470,True,Jogo Muito Bom.Grafícos otimos mas a conduçao do jogo nao e tao boa assim mas da para se divertir Jogo Muito Realista
-2015-12-19,311210,True,"Jogo Muito bom mas com um pouco de queda de FPS no Multiplayer e muito menos queda no modo Zombies.Os Servidores podiam ser igual do BO.O Multiplayer tem algumas salas lagadas.O Zombies um pouco parecido com o do BO apesar de ter o mapa Der Eisendrachen que no BO3 The Giant ainda tendo easter eggs para descobrir,Com um mapa de quem compro o BO3 Shadows of Evil que se passa em Morg City nos anos 40/30 com muitos easter eggs,voltando pro Multiplayer as salas nao demoram pra achar tipo o TDM,Domination,Moshpit Caotico sem lag de travar seu pc inteiro igual antes e nao precisa de um PC da NASA pra rodar.A Campanha nao sei descrever muito mais esta fantastica sem quedas de fps.                                                           Eu Gostei e Recomendo :)"
-2016-07-09,381210,True,"Muito Bom esse jogo so tenho 110 minutos ja to no level 2 da loirinha e do killer da moto serra e mt vicianteFalta ainda um chat para survivors dentro do jogo de voz/texto NOTA:8,5"
+posted,item_id,recommend,sentiment_analysis
+2014-01-19,252490,True,1
+2015-02-01,209650,False,0
+2014-05-31,243470,True,2
+2015-12-19,311210,True,0
+2016-07-09,381210,True,1

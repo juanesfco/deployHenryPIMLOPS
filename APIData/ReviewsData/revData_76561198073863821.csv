@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-29,730,False,♥♥♥♥ig racist game im done with the toxic players
-2014-05-26,248570,True,el mejor juego indie qe pude haber en la tierraThe best indie game in the earth
-2013-03-30,440,True,yo lo e jugadp el ejor
+posted,item_id,recommend,sentiment_analysis
+2015-11-29,730,False,0
+2014-05-26,248570,True,2
+2013-03-30,440,True,2

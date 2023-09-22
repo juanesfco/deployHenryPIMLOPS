@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-04,730,True,i dont have a life bcoz this game
-2015-06-15,219640,True,get_rekted
-2014-11-10,209080,True,ship. burned. drowned
-2014-10-23,24240,True,Of course!
-2013-12-03,570,True,OMG i'm ♥♥♥♥ing reccomend this game to anyone who love games and they want become a serius gamer!
+posted,item_id,recommend,sentiment_analysis
+2014-04-04,730,True,0
+2015-06-15,219640,True,1
+2014-11-10,209080,True,1
+2014-10-23,24240,True,1
+2013-12-03,570,True,2

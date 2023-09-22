@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-20,730,True,*Helpful  Tip*Try 'voice_enable 0' In your console if you play with russians
-2015-07-30,252950,True,Im Pretty sure Football is based off of this
-2014-06-30,218620,True,Love this game I highly recommend if you love the first game
+posted,item_id,recommend,sentiment_analysis
+2015-06-20,730,True,1
+2015-07-30,252950,True,2
+2014-06-30,218620,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-14,219150,True,es muy MUY BUENO
-2013-12-13,440,True,sape
-2014-04-26,243870,True,fasf
-2013-12-12,51100,True,sape
+posted,item_id,recommend,sentiment_analysis
+2014-01-14,219150,True,2
+2013-12-13,440,True,1
+2014-04-26,243870,True,1
+2013-12-12,51100,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-11,301520,True,"Fun game, flying and my robots always flipping over could us some improvement, but other wise, fun game and a great way to spend some free time."
-2013-12-20,72850,True,"Best flippin' game EVER! Great graphics, great fights and powers, worth the money.USE MODS! Not to much, it will lag or glitch it, but worth it!"
-2014-11-15,332800,True,Get.
-2016-04-03,427270,True,"Pros: Good gameplay and characters that are easily taken to. Cons: Opens another window to actually play the game, freezes often in cutscenes and game crashed when i tried to play Online (Last two may just be me though), most things cost gold, which in turn you need to buy for real money, or can be crafted, which requires lots of grinding."
-2015-08-21,375950,True,"The most peaceful game ever! Just sitting here, watching Blu, my plant, grow, while singing to Nail the Snail as he moves along. A great game to calm yourself down, to zen out, or to pass the time with. Water your plants (And your snail) and watch them grow in real time! Name all of your plants (And your Snail (Mine's Called Nail))! Did I mention the steady 60fps?"
-2015-08-06,323370,True,"Normaly MMORPGs aren't my thing, but this game is great! Not a Pay-to-Win, like many other MMORPGs, but ids pay-for-convinience. Aside from a few glitches that I have come across in the tutorial area, most of which are mostly Graphical, this game is almost perfect!"
+posted,item_id,recommend,sentiment_analysis
+2014-08-11,301520,True,2
+2013-12-20,72850,True,2
+2014-11-15,332800,True,1
+2016-04-03,427270,True,2
+2015-08-21,375950,True,2
+2015-08-06,323370,True,2

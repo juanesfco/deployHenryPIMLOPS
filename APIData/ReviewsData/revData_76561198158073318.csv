@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-02-22,306460,True,"Cheap, great DLC. You get a ♥♥♥♥IN GOLDEN KATANA, HOW COOL IS THAT"
-2016-02-22,304930,True,"Great game, recommend it for people who like surviving games."
-2015-12-05,107410,True,"I was driving in a SUV with someone when hear 'ALLAHU AKBAR' in a building, i check out the building, guess they were some crazy serial killers on the lose.10/10 would drive in a car with a stranger lel"
-2015-06-18,218620,True,"Very fun to play with, especially with friends, although the graphics are kinda high so if you have a bad PC then this might cause delays, an ways great game and I recommend it.8/10"
+posted,item_id,recommend,sentiment_analysis
+2016-02-22,306460,True,2
+2016-02-22,304930,True,2
+2015-12-05,107410,True,0
+2015-06-18,218620,True,1

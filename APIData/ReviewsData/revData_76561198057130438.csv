@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-02,440,True,this games is epic get it now!
-2015-11-05,4000,True,10/10 would buy again.
+posted,item_id,recommend,sentiment_analysis
+2014-02-02,440,True,2
+2015-11-05,4000,True,1

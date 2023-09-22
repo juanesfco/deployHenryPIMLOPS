@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-09-01,570,True,"Dota 2 is a game where your goal is to destroy the enemies ancient while defending your own. However Dota 2 is much more complex than it seems, you must farm (getting gold by killing things called 'creeps'), then you must push (attacking towers on any of the lanes) and then you must fight in team fights to win! Dota 2 is extremely addictive so make sure you have an open schedule because you won't be able to stop playing. While Dota 2 is fun it is also very difficult and hard to master but the more you play the better you will get. Overall I reccomend for anyone to have a go at Dota 2, if you don't enjoy it then move on to a different game, have fun!"
+posted,item_id,recommend,sentiment_analysis
+2014-09-01,570,True,2

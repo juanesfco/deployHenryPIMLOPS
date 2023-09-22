@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-04,204300,True,"wow, such awesome, very play"
+posted,item_id,recommend,sentiment_analysis
+2013-12-04,204300,True,2

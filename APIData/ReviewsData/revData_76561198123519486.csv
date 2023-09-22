@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-03-06,236390,True,"its a great game there is some copies of it out there because of its popularity and it has tanks,planes such it has amazing dogfighting in planes and great like sniping in tanks i recommendthis to all people"
-2015-10-08,354640,False,bad game no exit menu no saving this game is really bad so i reckon take it off steam :(
-2015-12-09,304930,True,"this is an amazing game good graphics (could be better) but the gameplay is great like zombies but would like better zombie AI and different types off zombies (crawlers, runners, megas, boomers, jockeys) some names are from left for dead 1 & 2 but you get the point off more types of zombies"
-2015-09-07,304050,True,i reckon it needs work on getting on macintosh or make if you can do that :D if it goes on mac thumbs up
-2015-07-31,105600,False,the games pritty cool i still preffer starbound but i cant play it on mac witch annoys me quite a bit so i give it a 2 star out of 5
-2015-03-06,301520,True,awesome game fun and tier 6 is awesome
+posted,item_id,recommend,sentiment_analysis
+2016-03-06,236390,True,2
+2015-10-08,354640,False,0
+2015-12-09,304930,True,2
+2015-09-07,304050,True,2
+2015-07-31,105600,False,2
+2015-03-06,301520,True,2

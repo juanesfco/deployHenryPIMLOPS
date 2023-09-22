@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-19,4000,True,GOOD GAME
-2014-03-20,12200,True,very classic game and lots of fun to play i cant wait for rockstar to realase a number 2
-2013-11-30,12120,True,this is one of the best gta games even though it has bad graphics i dont care it is still fun to play
+posted,item_id,recommend,sentiment_analysis
+2014-04-19,4000,True,2
+2014-03-20,12200,True,1
+2013-11-30,12120,True,2

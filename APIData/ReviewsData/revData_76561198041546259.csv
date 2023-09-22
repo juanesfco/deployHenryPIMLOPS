@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-14,271590,False,drecks spiel
-2014-01-17,261820,True,"Richtig geiles Spiel eigentlich,also ich würde es nehmen,is ja eh kostenlos."
+posted,item_id,recommend,sentiment_analysis
+2016-07-14,271590,False,0
+2014-01-17,261820,True,1

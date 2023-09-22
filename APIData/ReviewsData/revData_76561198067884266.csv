@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-07-04,50650,False,"Darksiders II is a great game but the pc port is terrible.After your purchase expect frame skipping, random control glitches and sub-par controller support."
+posted,item_id,recommend,sentiment_analysis
+2014-07-04,50650,False,1

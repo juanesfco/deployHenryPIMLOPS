@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-08-04,261030,False,"As others have said far more articulately, with this Season of The Walking Dead your choices don't matter, the characters aren't memorable, the story is depressing to a fault, and the whole thing peaks early at the climax of Chapter 3."
-2014-02-15,220240,True,"Even on my old crate, this runs well and has amazing graphics. You can free roam or smash the story quests really quickly, whatever is your priority. FPS combat gets broken up with relic hunting in old caves and WWII bunkers, hunting wild animals and minigames. You can go guns blazing or secret-squirrel stealth kill the bad guys. Or just rain down dozens of grenades from 250 metres away.All in all, I recommend."
-2013-07-15,220860,True,"This is such a retro homage to old Sierra Quest style games, at least in the graphics.The game is very surreal, you are in a screen with a wacky scenario and have 20 seconds to find a bomb and stop it. The solutions are extremely bizarre and completely wrongheaded, and you keep repeating til you pass the level. Failure is more fun than success because the goal is just to laugh. Get it on sale for a dollar!"
-2012-02-15,102600,True,"Very fun game for the first 2 hours, then the difficulty falls off a cliff and most people stop playing. I've been back to push through a few times but the novelty is gone. A good buy, just know ahead of time that you will probably only get 2-3 hours gaming from it."
-2012-02-15,10680,False,"Great graphics. Clunky consolised controls, poor MP game balance, watered down console-tard storyline. Not even for fans of the Aliens, Predator and/or AvP franchises, unless very very cheap."
-2011-12-30,22380,True,"Probably the best RPG ever made. Four complete factions to join, dozens of endgame scenarios, freeroaming, mod support, choices and consequences. All the bugs have been squashed now, so there's nothing holding New Vegas back - play it."
-2011-07-07,1250,True,Fun game with almost enough gore to keep me happy. They nerfed weapon accuracy back in January so most servers were full of melee Medics and Berserkers. I had levelled Sharpshooter to max so I quit around that point.
-2011-03-26,9480,True,"One of my top ten lifetime games. Just constant fun, especially with a partner in Co-Op."
+posted,item_id,recommend,sentiment_analysis
+2015-08-04,261030,False,1
+2014-02-15,220240,True,1
+2013-07-15,220860,True,2
+2012-02-15,102600,True,2
+2012-02-15,10680,False,1
+2011-12-30,22380,True,2
+2011-07-07,1250,True,2
+2011-03-26,9480,True,2

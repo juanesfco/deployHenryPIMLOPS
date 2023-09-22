@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-10,205100,True,This game can be replayed multiple times and everytime you start a new game you will have more fun than the last time you played. Dunwall is a city full of creative concepts and ideas. P.S. If Arkane studios do not make a sequel than I will find every single one of their employees and ask for a high five but just as they go to high five me I will move my hand so that the high five is failed.
-2016-06-09,365450,True,"I highly recommend, 10/10.Can't wait for the upcoming updates."
-2015-12-09,201810,True,Can't go wrong with a game about killing Nazi's.
+posted,item_id,recommend,sentiment_analysis
+2014-02-10,205100,True,1
+2016-06-09,365450,True,2
+2015-12-09,201810,True,0

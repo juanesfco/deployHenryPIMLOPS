@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-10-30,730,True,"Counter-Strike: Global Offensive is a great game, it has a good gaming community and a great competitive side. With it being constantly updated with new material like new Operations with missions, new player created gun skins and new maps you can never get bored. This game keeps the classic feel of the previous CS games and adds more to it, reimagined but classic maps that youll remember and still love and guns that have different plaiying styles that need mastering individually. This game is a must for any Steam gamer. Yewww!"
-2014-06-25,252490,True,"Dis Gaem made me so angry every tiem and i feel liek haetred in a human bodei... Seriously though, this game is very addictive and well done even for an early access game in alpha. Starting off is quite frustrating unless you know what the hell youre doing (I had no idea what I was doing) random people were killing me and I was constantly dying of hunger, you will deffinately need to look at some YouTube tuts for this game if you want to spare yourself the grief. Highly reccomend Rust if youre into  games like Minecraft and StarForge, excellent progress from an excellent developer! 8/10 SON!"
-2013-03-30,9900,True,This game is Hektic
+posted,item_id,recommend,sentiment_analysis
+2013-10-30,730,True,2
+2014-06-25,252490,True,1
+2013-03-30,9900,True,0

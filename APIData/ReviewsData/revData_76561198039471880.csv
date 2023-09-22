@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-25,550,True,"Well worth getting this Game, hours of fun with friends or on your own."
-2015-02-23,316720,True,"This game is amazing, with an interesting Story, amazing Music and Voice acting too.I'm not gonna lie, this game is Heartbreaking, so if you feel up to that, go right ahead and buy this amazing game.'Please do not divide Heaven in two..'"
-2013-11-25,72850,True,"Amazing game, it has a Huge map and many quests, i doubt i will ever finish it 100% xDthe mods for the game aren't bad either!"
-2015-11-10,345610,True,"I Absolutely Love this game, the Characters are well written and the voice work was done amazingly. this was well worth the money i paid for it. as you can see by my playtime, i have spent a long time going through all the possible Routes and i can happily say i don't think my time was wasted :)"
-2015-02-21,333600,True,"Catgirls, Cakes and Voiced very well (with the exception of the MC)this was worth the $10 i payed for it."
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,550,True,2
+2015-02-23,316720,True,2
+2013-11-25,72850,True,1
+2015-11-10,345610,True,2
+2015-02-21,333600,True,2

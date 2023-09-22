@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-24,200710,True,So I bought this game as a 4-pack when it was on special earlier these summer sales. I gave the game to my friends and from there on I discovered the wonderful world that is Torchlight 2. I played the game so much in the first 3 days I managed to hit NG++.Only 20 hours on this game and every second of that was pure fun. ...The true successor to Diablo II10/10
-2014-04-14,730,True,call of duty is better11/10
-2014-11-14,209650,False,Got shot in the back... as usual 3/10
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,200710,True,1
+2014-04-14,730,True,1
+2014-11-14,209650,False,0

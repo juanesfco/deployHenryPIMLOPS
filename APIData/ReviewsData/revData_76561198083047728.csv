@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-01-02,211400,True,very interesting graphic and platforming ideas combied with good graphics and a zombie ai that starts on a 3d plain then wonders over to your 2d plain puzzles are quick and simple i can use my controller littile short and going down a ladder with the controller is a ♥♥♥♥♥ 9/10
-2014-01-02,233720,True,"bob you must have great health insurance to be operate on by pewdiepie,markiplier and me but have a terrible life style to be in such a odd postion heart kidney lungs bob your ♥♥♥♥e funny and great game ps:i like hurting that dumb brute from team fortress 2"
-2014-01-02,2400,False,intersting at first flaud every other time i can not seem to join a online game and i dont like how no matter how long i wait or plan a kill i can still get caught for some dumb ♥♥♥ reason
-2014-01-02,200170,True,fun....it does seem to be just luck of winning but funny and worth a go
-2013-12-25,212680,True,alright everyone to there stations it time for a FTL jump into AWESOMENESS they give you almost full control over a space ship if your not happy with that your not a gamer well maybe one of those cod losers
-2013-12-24,224260,True,this game is great for youtube videos enough said
-2013-12-24,42160,True,oh guard you sultry nipple....ouch that hurt lets try that again....few kills not bad quite good
-2013-12-24,113400,False,hello?....hello? is anybody there....no okay im gone
-2013-12-24,251990,True,"hard,fun,kinda sexy,awesome in genral i wanna do a video on it but it may be weird for a guy to do it"
-2013-11-11,17500,True,kinda like l4d2 multiplayer its a free game and severs are decent
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,211400,True,2
+2014-01-02,233720,True,1
+2014-01-02,2400,False,0
+2014-01-02,200170,True,2
+2013-12-25,212680,True,1
+2013-12-24,224260,True,2
+2013-12-24,42160,True,2
+2013-12-24,113400,False,2
+2013-12-24,251990,True,0
+2013-11-11,17500,True,1

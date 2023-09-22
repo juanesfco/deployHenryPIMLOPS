@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-13,371660,True,"Speared a bear, it turned around and mauled my face.10/10"
-2014-05-27,243470,True,Watch_Dogs works fine on my PC and hasn't crashed at all.
-2013-12-24,220240,True,Highly Recommend.
+posted,item_id,recommend,sentiment_analysis
+2016-03-13,371660,True,1
+2014-05-27,243470,True,2
+2013-12-24,220240,True,2

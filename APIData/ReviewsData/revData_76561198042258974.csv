@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-09-08,363970,True,pretty alrite.... I dunno
-2014-06-13,236850,True,"This game is my new Rome total war, an extremely realistic strategy game which is challenging to even the most veteran of strategists. At first I was angry, it looked stupid and confusing but after the first hour I couldn't stop playing. EU4 isn't a sellout sequel it is a well designed game even though I haven't tryed the previous ones I'm sure this has to be the best one out of them all."
-2014-03-06,8930,True,This is a good game but SOOO much DLC.... They want all our money
-2014-12-19,304930,False,One word TRASH
-2015-10-16,65980,False,"Not going to fall for your DLC traps anymore civ, this game will not have anymore from me"
-2015-04-11,252490,False,Fix ur ♥♥♥♥ stupid rust makers
+posted,item_id,recommend,sentiment_analysis
+2016-09-08,363970,True,2
+2014-06-13,236850,True,1
+2014-03-06,8930,True,2
+2014-12-19,304930,False,1
+2015-10-16,65980,False,0
+2015-04-11,252490,False,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-23,233250,True,My first victory was won by using a planet as a weapon... GAME OF THE YEAR 10/10!
-2014-07-21,72850,True,People... this just may be... the greatest Eldar Scrolls game... ever...
-2013-10-07,220200,True,PLAY THIS DA BOMB!
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,233250,True,0
+2014-07-21,72850,True,2
+2013-10-07,220200,True,1

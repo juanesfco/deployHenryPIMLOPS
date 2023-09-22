@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-30,346110,True,"I think that Ark is a great game and probably the best game i have ever played. I love dinosaurs, so i love this game. Bit hard on official servers but if you go on singleplayer or a 500x server then it gets quite fun. I have one request which would be to add that you can buy the soundtrack for Ark and Ark Fear Evolved. By the way, good work on Fear Evolved, its awesome!I highly recommend it to everyone who likes dinosaurs and survival games!"
-2016-04-07,274190,True,I bought this game Australian... I came out American
-2016-02-13,4000,True,"It was on a day like any other, two armies fought. Through fire and smoke and blood and hell, they fought. Until at last, I stood on top of what was once the Combine army.And then, as I looked up at the darkening sky with slaughter in my eyes and glory in my veins I saw the body of a dead Strider descending on top of me. As I felt the air being crushed out of my body and all the bones in my body breaking, I yelled about my victory before I sank into the darkness.10/10 Would be crushed by a dead Strider again :)"
-2015-12-10,418070,True,"This has amazing gameplay, amazing graphics, amazing physics and overall, an amazing game.Pros-PUGSCons-There is noneOne question though: How do I get trading cards without buying them?Request: I would like it if you could make an in-game market in which you can spend your pug points and where you can buy different pugs. Or cats. Or penguins."
+posted,item_id,recommend,sentiment_analysis
+2015-10-30,346110,True,2
+2016-04-07,274190,True,0
+2016-02-13,4000,True,1
+2015-12-10,418070,True,2

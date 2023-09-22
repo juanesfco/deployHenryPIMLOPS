@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-05,304930,True,why the hell is it so hard to play with friends
-2015-02-23,4000,True,great game10/10
+posted,item_id,recommend,sentiment_analysis
+2015-05-05,304930,True,0
+2015-02-23,4000,True,2

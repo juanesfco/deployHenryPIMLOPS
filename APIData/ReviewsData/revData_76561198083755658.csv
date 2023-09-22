@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-11-27,22180,True,"All this game taught me is that hitting animals while they are down is super okay. What a mysterious game. However so far this game has great environments and isn't scary, but tense and kinda spooky."
-2014-09-16,288470,True,"Few games live up to childhood memories, this is one of them. This game was a fun as I remember it, worth a purchase if you have played any of the fables. Because this is by far the best."
-2014-03-20,202750,False,"One of the laziest games I have played, you repeat the same thing and get a little closer each time. Dissapointing considering Alan Wake was alot of fun. Don't bother."
-2013-11-25,221680,True,"A fantastic game with a great list of songs, got me playing guitar again! Brilliant for any level of guitar player."
-2015-10-03,303210,True,"Potentially spoilers, sorry.I feel as if Coda isn't a person, as narrator already feels bad for showing his work, but then goes ahead and sells it? It just doesn't feel real.  However this game has a great, deep narrative."
+posted,item_id,recommend,sentiment_analysis
+2013-11-27,22180,True,1
+2014-09-16,288470,True,2
+2014-03-20,202750,False,1
+2013-11-25,221680,True,2
+2015-10-03,303210,True,1

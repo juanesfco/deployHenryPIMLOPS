@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-06,250500,True,SUPER AMAZING
-2013-12-27,250400,False,i really dont recomend this game after i bought it i played it for like 30 -mins and im just like this is OK
-2013-11-08,4000,True,best game!!!
+posted,item_id,recommend,sentiment_analysis
+2014-05-06,250500,True,2
+2013-12-27,250400,False,1
+2013-11-08,4000,True,2

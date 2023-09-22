@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-31,40800,True,"'Super Meat Boy is a tough as nails platformer', Agreed."
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,40800,True,1

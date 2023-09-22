@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-31,620,True,"This is one of my most favourite games, it has an amazing and in depth storyline. The easter eggs like the borealis one are amazing. The plot twists aren't expected unlike most games where you know what will happen next. I'm a huge fan of greek mythology so when I found the oracle turret, my mind was blown! Cave Johnson was definetly a great character to introduce and to help us find out more about Aperture. THE ENDING, I absolutely loved the ending!!"
-2015-08-16,281690,True," Notes before you readtI wrote this review after I felt that I'd 100% the game, this includes, getting all achievements, getting all collectables, max leveling all bending, buying the whole shop, beating all pro-bending and beating the game on every difficulty. This was done in close to 40 hours.At first I was a bit sceptical about this game, but I decided to buy it anyway ($1.50 on sale) and I was very amazed at the amount of detail there is through collectable items, talismans and bending. The graphics are alright, the story doesn't make a lot of sense inside the LoK universe, but the bending is absolutely amazing! Overall I give this game a 9/10."
-2015-01-27,268090,True,"This is a great inspiring soundtrack from one of the best games ever. Definitely one of the best soundtracks ever too, it has so many songs all for a low price, unlike other games that have very few songs and cost heaps, I'm very glad to see that it's in the Steam Music player now."
+posted,item_id,recommend,sentiment_analysis
+2014-10-31,620,True,2
+2015-08-16,281690,True,1
+2015-01-27,268090,True,2

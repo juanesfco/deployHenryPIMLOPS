@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-30,4000,True,el mejor juego que e jugado
-2014-11-05,226700,True,"Es un buen juego de supervivencia si lo juegas en un servidor privado y con amigos es muy divertidopero si lo juegas solo en un servidor publico te sepillan a plomos por esa razon la mayor parte de los jugadores ya no juegan porq estan artos q los maten.Yo lo recomiendo eh , es un buen juego"
+posted,item_id,recommend,sentiment_analysis
+2013-12-30,4000,True,2
+2014-11-05,226700,True,1

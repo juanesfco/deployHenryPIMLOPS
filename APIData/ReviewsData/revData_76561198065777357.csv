@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-07-22,48700,True,"fun , epic , and the battle is sick"
-2014-07-21,265930,True,"please fix the new map it crash when it load , but the game is SICK ! XD"
-2014-07-06,238460,True,i realy recomend this game
-2016-01-16,274170,True,"nice game , i like it , the dificulty for each level is harder than the level before ."
-2014-07-30,204360,True,"i am very happy about this game , so much fun , nice coop and local coop , and keep it going"
-2014-06-26,219150,True,"Nice game i realy realy enjoy it , from collecting the masks , other enemies with different abbilities , and ofcourse the gunsI realy Recommend this game !!!!"
+posted,item_id,recommend,sentiment_analysis
+2014-07-22,48700,True,0
+2014-07-21,265930,True,0
+2014-07-06,238460,True,0
+2016-01-16,274170,True,1
+2014-07-30,204360,True,2
+2014-06-26,219150,True,1

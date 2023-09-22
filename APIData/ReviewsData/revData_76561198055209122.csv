@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-17,322330,True,Beautiful game with lots of stuff to do. And now with multiplayer! <39/10
-2015-08-13,349580,True,"~Eu acho que o jogo tem potencial, só falta uma otimizaçao em render e um botao de reportar caso alguem seja menos lagado que eu xdddddddddd Rebocador de casa Simulator: 7/10"
-2014-12-01,270210,True," Well, this games applies if you plays or likes games like OSU, but dosnt need a mapper to plays your own library. Thanks to ♥❤Surpяise❤♥, my wife."
-2014-11-26,219740,True,I cant swim. 10/10 -Rage Brone [RB]
+posted,item_id,recommend,sentiment_analysis
+2014-12-17,322330,True,2
+2015-08-13,349580,True,0
+2014-12-01,270210,True,2
+2014-11-26,219740,True,1

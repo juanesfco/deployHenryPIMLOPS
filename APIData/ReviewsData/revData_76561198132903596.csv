@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-08-30,252770,False,♥♥♥♥ has never been worse on steam.
-2015-06-04,570,False,I DID NOT TUSK SO I BLEW UP MY ♥♥♥♥ COMPUTER RIP IN PASTA DED ME.exe is not reponding.
-2015-02-01,17410,True,This game sucks youcant no scope and no no full screen.
-2015-04-17,440,True,Gud gam not enough Pootis though.
-2015-04-24,251170,True,Perfect typing game for little ones learning their abcs.
-2015-06-01,252490,True,4/10 -IGN Not enough ♥♥♥♥♥♥♥.
+posted,item_id,recommend,sentiment_analysis
+2015-08-30,252770,False,0
+2015-06-04,570,False,1
+2015-02-01,17410,True,0
+2015-04-17,440,True,1
+2015-04-24,251170,True,2
+2015-06-01,252490,True,1

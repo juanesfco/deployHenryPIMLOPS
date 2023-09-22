@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-09,8980,True,f@%$ing awesome
-2014-04-14,218230,True,f$%^ing awesome
-2014-01-05,218130,True,best game ever!
+posted,item_id,recommend,sentiment_analysis
+2015-08-09,8980,True,2
+2014-04-14,218230,True,2
+2014-01-05,218130,True,2

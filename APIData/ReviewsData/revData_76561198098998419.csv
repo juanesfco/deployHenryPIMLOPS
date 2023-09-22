@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-16,550,True,buen juego lo recomiendo
-2014-10-10,11390,False,deberian pedir 1 dolar por esto esta lleno de bugs
-2014-05-29,246280,True,que mala suerte no lo puedo jugar :(
-2014-02-23,104900,True,excelente juego
-2013-11-29,440,True,buenisimo juego lo recomiendo
+posted,item_id,recommend,sentiment_analysis
+2014-01-16,550,True,2
+2014-10-10,11390,False,2
+2014-05-29,246280,True,0
+2014-02-23,104900,True,2
+2013-11-29,440,True,2

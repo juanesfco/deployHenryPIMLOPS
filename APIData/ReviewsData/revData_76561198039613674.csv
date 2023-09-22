@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-02-14,570,True,ged dman itz! net ahgen!! Anether gaym where i spend all me munies
-2014-10-09,17080,True,Cannot 420 blaze it!!!Stay away from drugs kids
-2014-08-16,270170,True,"This game man this game...This game pulls at the heart-strings, making you want to right the depression that you are facing.I had picked the choices that were right to me, i wanted to see myself through this game without shedding a tear... and i didn't.I shed tears not when in the state of depression but seeing that my choices affected the mental instability that the character faced. 10/10I also adopted the kitten."
-2014-03-20,238280,True,This game is amazing.Being able to play this game with my brother is money well spent in my opinion.The art style is unique and gameplay is fantastic!10/10
-2014-01-29,211820,True,I  have been following this game through development and when i saw 'Steam Early Access' under the title I  bought the game and played it a lot
+posted,item_id,recommend,sentiment_analysis
+2015-02-14,570,True,1
+2014-10-09,17080,True,1
+2014-08-16,270170,True,0
+2014-03-20,238280,True,1
+2014-01-29,211820,True,0

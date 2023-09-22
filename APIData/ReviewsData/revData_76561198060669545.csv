@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-29,265930,True,I now have a certificate in goat physics.11/10 would buy 300 again
-2015-08-16,387860,True,"Of of those 'ten minute games', if you really could call it a game.  I reccomend playing it, its not like it costs anything.  I really like the fish tank, it exemplifies the term 'next gen' like nothing else.  Great game to play with your friends.  Great at parties."
+posted,item_id,recommend,sentiment_analysis
+2014-03-29,265930,True,1
+2015-08-16,387860,True,2

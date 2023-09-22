@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-03-25,29800,True,"Идея игры хорошая, затягивает. Едиственное подкачала реализация. Игре не хватило хорошего моделлера."
+posted,item_id,recommend,sentiment_analysis
+2015-03-25,29800,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-12-06,270150,True,"I have no words for this game. The controls are perfect and intuitive; you know that any mistakes you make are your own and believe me, you will make mistakes.8.8/10"
-2014-05-14,48700,True,"A masterpiece of modern gaming, 9/10"
-2014-11-10,317360,True,Diving Off a platform onto the floor metres below while shooting a guy in the face with an smg while in slo mo.Priceless
-2014-05-09,238890,True,"Not a bad game, just not an awfully good one."
-2013-12-10,31740,True,"This game is great, I love it."
-2014-01-04,36620,True,A fun game with good movement but I wish the combat was fluid instead of button pressing.
+posted,item_id,recommend,sentiment_analysis
+2014-12-06,270150,True,2
+2014-05-14,48700,True,2
+2014-11-10,317360,True,1
+2014-05-09,238890,True,2
+2013-12-10,31740,True,2
+2014-01-04,36620,True,2

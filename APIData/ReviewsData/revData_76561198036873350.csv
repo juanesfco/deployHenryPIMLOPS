@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-24,4000,True,Wooohooo! this game is so freakin awesome...Its have more things to do in that game!
-2015-08-31,317360,True,get gud
-2014-02-02,208090,True,TENOUTTATEN
+posted,item_id,recommend,sentiment_analysis
+2013-12-24,4000,True,0
+2015-08-31,317360,True,2
+2014-02-02,208090,True,1

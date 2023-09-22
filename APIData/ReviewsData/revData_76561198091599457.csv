@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-08-07,252950,True,"vale a pena comprar , mas a unica coisa ruim são os servidores com mto lag, espero que coloquem um server br ou da america do sul"
-2015-01-24,730,True,"otimo jogo para jogar com os amigos , melhor que batata "
+posted,item_id,recommend,sentiment_analysis
+2015-08-07,252950,True,0
+2015-01-24,730,True,2

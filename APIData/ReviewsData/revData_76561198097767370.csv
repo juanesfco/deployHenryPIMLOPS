@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-17,730,True,"This game is really enjoyable to play with friends especially in Casual or death-match mode.this game, made me laugh  almost break my mouse whilst playing competitive but it was good fun"
-2014-01-24,440,True,yay
-2015-08-21,63380,True,"Awesome game, played it a little, but so far it is awesome"
-2015-08-21,252490,True,"Was awesome when it first came out, it has gotten even better with awesome graphics, game play and everything about it"
-2015-08-19,304930,True,"Good game, the community can be worse then dayz some times but normally good people <3"
+posted,item_id,recommend,sentiment_analysis
+2015-08-17,730,True,1
+2014-01-24,440,True,1
+2015-08-21,63380,True,2
+2015-08-21,252490,True,2
+2015-08-19,304930,True,2

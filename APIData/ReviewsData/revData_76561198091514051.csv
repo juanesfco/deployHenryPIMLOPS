@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-07,206210,True,o jogo é legal mais eu n consigo jogar online
-2014-02-03,440,True,é um jogo no estilo cartoon bem divertido de jogar eu aconselho darem uma olhada
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,206210,True,2
+2014-02-03,440,True,1

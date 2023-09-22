@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-13,360870,True,"This game is amazing, I recommend this game to anyone who plays Tic-Tac-Toe at school and always loses. This game doesn't only provide fun, It also gives the knowledge that I needed to become a Professional Tic-Tac-Toe player. I recommend.10/10 -IGN."
-2015-05-02,730,True,"CS:GO is an amazing game, 10/10 I recommend it too anyone who is thinking about buying it."
+posted,item_id,recommend,sentiment_analysis
+2015-05-13,360870,True,1
+2015-05-02,730,True,2

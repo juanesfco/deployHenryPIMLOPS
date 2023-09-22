@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-01,251570,True,"It is a really good game, and i recomend it, but, if you have xp, you still can't run it. XP has a maximum ram of exactly 4 gb, and 1.2 ish is taken up by needed processes, so you have 2.8 gb ram for a 4 gb ram game, and steam won't even open it if you can't manage it. Even if it sais xp operating system, you can't run it. Please do something for this Fun Pimps. Please :(. Still a great game though :)."
+posted,item_id,recommend,sentiment_analysis
+2014-03-01,251570,True,1

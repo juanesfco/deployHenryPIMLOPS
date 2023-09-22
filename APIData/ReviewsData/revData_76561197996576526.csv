@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-03-06,730,True,"gr8 r8 m8, no db8"
+posted,item_id,recommend,sentiment_analysis
+2016-03-06,730,True,1

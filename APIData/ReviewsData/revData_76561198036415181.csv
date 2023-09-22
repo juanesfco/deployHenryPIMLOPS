@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-25,570,True,Reading the top recommendations has made me realise 'hey this game aint so bad after-all'
-2016-01-21,313730,True,Haremrider has:Addicting combat great storyWAIFUSall for the low low cost of your life
-2015-02-14,105600,True,"On the 7th day god made this game, and he saw it was the greatest thing in the world"
-2014-10-30,242680,True,Just one more life... (Dies)Okay last one... (Ded)Cmon one last one... (Die)69/69 Best reality sim made
-2014-01-29,22380,True,Absolute Favorite.
+posted,item_id,recommend,sentiment_analysis
+2014-04-25,570,True,0
+2016-01-21,313730,True,2
+2015-02-14,105600,True,2
+2014-10-30,242680,True,2
+2014-01-29,22380,True,2

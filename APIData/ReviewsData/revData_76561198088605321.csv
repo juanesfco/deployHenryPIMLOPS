@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-05,51100,True,"good gameplay, some bugs but overall enjoyable"
-2015-05-16,227940,True,"the game is amazing, unfortunately it is only available on pc but the graphics weapon design and tactics are awesome"
+posted,item_id,recommend,sentiment_analysis
+2016-01-05,51100,True,2
+2015-05-16,227940,True,2

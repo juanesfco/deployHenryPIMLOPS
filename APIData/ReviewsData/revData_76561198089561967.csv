@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-08-09,238460,True,"This game is a great game to play with your friends, bad to play by yourself."
-2014-11-30,206521,True,"Just skip to Tier 3 it's all the same thing, but Tier 3 gives you better rewards"
-2014-10-05,207250,True,"Now let me be honest here. I am not really good and strategygames like this, but even with that in mind, this game has it'sdifficulty. Before I get to that, I found the graphics and music ofthis game to be fun and enjoyable, but the game play is slightlyunbalanced, but in the early levels of the game, the grenadiers are abit to difficult. You really don't stand a chance, however, thefreeplay matches are actually somewhat enjoyable.The level creator is fun, and is well designed, I would recommendmaking some of your own levels for gameplay.Overall, the game is fun and challenging, to good generals this wouldbe fun and it has replay value.Overall 7/10But 3 Sprockets have made a sequel to it and I haven't tried it outyet but it sure seems better than the original"
-2014-12-31,307070,True,"First 15 minutes I played I got a card and the game wasn't listed as a game that got cards o.o I can say this is a alright game, and it's cool that they used RPG Maker to make it"
-2015-05-23,351800,True,Life Simulator 2015
-2016-09-09,23310,False,The plot is pretty short and the developers have used the difficulty of game to make you invest more hours into the game so you can unravel the plot at a slower pace.Only get this if you find it in a bundle for a dollar with other games included.
-2014-06-26,92800,False,Running Linux? This game ain't gonna load.
-2016-09-02,287700,False,"You have to travel distance, if you want to kill enemies in the open world aspects of the game. Took me 20 minutes to find an enemy camp while free roaming.The world is too empty unless you play the main missions which places enemies in areas where you can locate them easily.Final rating 4/10"
-2015-06-02,368720,True,"I was one of the first people to play it and this game is pretty good, I hope I can play this game pretty soon"
-2015-04-10,259680,False,This game was horrible to look at when I booted it up....
+posted,item_id,recommend,sentiment_analysis
+2014-08-09,238460,True,0
+2014-11-30,206521,True,2
+2014-10-05,207250,True,2
+2014-12-31,307070,True,1
+2015-05-23,351800,True,1
+2016-09-09,23310,False,1
+2014-06-26,92800,False,0
+2016-09-02,287700,False,1
+2015-06-02,368720,True,2
+2015-04-10,259680,False,0

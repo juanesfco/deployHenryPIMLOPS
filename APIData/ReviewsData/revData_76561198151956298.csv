@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-03-07,365590,True,推荐是真的值得玩，不推荐是因为服务器尼玛炸了！！！任务就快过了！服务器炸了！连在国外的我也没能幸免！
+posted,item_id,recommend,sentiment_analysis
+2016-03-07,365590,True,0

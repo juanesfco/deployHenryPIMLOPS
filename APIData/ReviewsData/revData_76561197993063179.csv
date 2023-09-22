@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-27,414190,True,"Great game, played this on iOS back in the day and now happy it has come to PC!  :)"
-2016-06-26,213670,True,"F*cking hilarious game, this is a must buy!"
-2014-07-03,230230,True,"This game is simply one of the best old-skool RPG's since Baulder's Gate 2, best game I have played in a long long while, highly recommend you purchase it, post haste! - 10/10"
+posted,item_id,recommend,sentiment_analysis
+2016-04-27,414190,True,2
+2016-06-26,213670,True,1
+2014-07-03,230230,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-05,50,True,"pretty cool game, all it needed was a bigger storyline"
-2015-08-11,9930,True,"This game is extremely fun!People can go cry because the servers don't work, but seriously, I find the SP way better than MP, with a PASSION!This game is so obscure nowadays, share this game with others.Once you get into it, it's actually really challenging.I give this game 10/10 - Awesome."
-2015-09-04,349480,False,My friend made me get this game.We are no longer friends.
-2015-04-27,10180,True,"Great Campaign, Great multiplayer (excluding noob tubers), Great Maps, Great guns, What more could you ask for?10/10 would join a laggy game again."
-2015-01-01,261820,True,"Pfft, Forget Half Life 3, Act 2 Act 2 Act 2 Act 2 Act 2 Act 2 Act 2 Act 2 Act 2 Act 2 Act 2 Act 2"
+posted,item_id,recommend,sentiment_analysis
+2014-01-05,50,True,1
+2015-08-11,9930,True,1
+2015-09-04,349480,False,1
+2015-04-27,10180,True,2
+2015-01-01,261820,True,0

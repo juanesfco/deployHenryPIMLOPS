@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-16,263440,True,I had fun
-2014-09-02,8930,True," Ultra realistic graphics showcase lush landscapes for you to explore, battle over and claim as your own. Art deco influences abound in the menus and icons in the most well-designed Civ ever developed."
-2014-03-07,200210,True,DIS GAM E IS DA ♥♥♥♥ AND I LUV IT TO BITS AND PEICES
+posted,item_id,recommend,sentiment_analysis
+2014-09-16,263440,True,2
+2014-09-02,8930,True,2
+2014-03-07,200210,True,1

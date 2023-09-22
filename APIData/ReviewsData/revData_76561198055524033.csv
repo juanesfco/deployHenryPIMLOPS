@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-06-13,211400,False,This game is ♥♥♥♥ing terrible.Should've been F2P and a flash game.
-2016-02-17,282050,True,"Somewhat better, after this march patch. It runs slightly better & now they have the Suzuki & Honda pack."
-2015-06-15,295110,False,"♥♥♥♥ing banned me for no reason.'Cheating H1Z1' when I haven't even hacked this game in my lifeGame is garabage, not worth 20$.GGWP m8s thnx for stealing 20$ from me."
-2015-08-31,388520,False,"Battlefield - AirsoftCOD - PaintballIm so sick of the way you can't even one tap in Call Of Duty. If you try slowly firing, your ♥♥♥♥ed, completely.Cod is so fast paced, if you even decide to BREATHE before dying, well, we all know that's impossible, but your gonna get butt♥♥♥♥ed by a donkey with a 10 inch slanger.This game is ♥♥♥ cheeks, 10/10 would uninstall again.."
-2015-06-30,730,True,"Great game, time consuming.*REAL* Black Honshu Karambit - 40$*VIRTUAL CSGO* 'Vanilla' (Black honshu) Karambit - 250$10/10"
-2015-03-15,242760,True,Crashes PlanePlays with friendFriend can't play because he has a ♥♥♥♥♥♥ computerBreaks his computer10/10
-2014-03-10,35450,True,"Great wwii game, definitely recommend it."
-2014-01-23,570,True,"Great game, enjoyable to play with your friends, decent graphics."
+posted,item_id,recommend,sentiment_analysis
+2015-06-13,211400,False,0
+2016-02-17,282050,True,2
+2015-06-15,295110,False,0
+2015-08-31,388520,False,0
+2015-06-30,730,True,1
+2015-03-15,242760,True,1
+2014-03-10,35450,True,2
+2014-01-23,570,True,2

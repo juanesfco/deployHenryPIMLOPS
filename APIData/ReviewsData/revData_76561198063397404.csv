@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-17,17520,True,"If you're a fan of Half-Life 2 and it's episodes, but at the same time you like to play games through with the help of your friends, this game is for you."
-2014-02-15,220,True,A true must-have for any PC gamer. Now we just keep our fingers crossed Valve will release HL3 before we go extinct.
+posted,item_id,recommend,sentiment_analysis
+2014-06-17,17520,True,0
+2014-02-15,220,True,1

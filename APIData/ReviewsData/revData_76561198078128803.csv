@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-24,252950,True,BRUTAL
-2016-06-30,252490,False,MÍNIMO: SO: Windows 7 64bit Procesador: 2 ghz Memoria: 8 GB de RAM DirectX: Versión 9.0 Almacenamiento: 8 GB de espacio disponibleRECOMENDADO: SO: Windows 10 64bit Procesador: 3 ghz Memoria: 16 GB de RAM Gráficos: Nvidia GTX 980 DirectX: Versión 12 Red: Conexión de banda ancha a Internet Almacenamiento: 10 GB de espacio disponibleBuena optimizacion nada que decir
-2013-12-26,440,True,HERMOSO *-*
+posted,item_id,recommend,sentiment_analysis
+2015-07-24,252950,True,0
+2016-06-30,252490,False,2
+2013-12-26,440,True,2

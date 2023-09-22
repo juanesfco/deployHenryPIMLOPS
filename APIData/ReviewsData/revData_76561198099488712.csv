@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-02-15,205710,True,I love it almost as much as i love my right hand
-2016-05-02,236510,False,"Lemme tell you, never ♥♥♥♥ing buy this ♥♥♥♥♥, i only bought it because i was bored as ♥♥♥♥ and it was a dollar, i can't even wank to this ♥♥♥♥, why can't i? Because it's a game but that's besides the point, just buy some other thing, seriously, don't get this."
-2014-04-25,220,True,Great If You're Looking For A Puzzle First Person Game & Combat Is Great
-2014-01-17,2630,True,You Need To Get It
+posted,item_id,recommend,sentiment_analysis
+2016-02-15,205710,True,2
+2016-05-02,236510,False,0
+2014-04-25,220,True,2
+2014-01-17,2630,True,1

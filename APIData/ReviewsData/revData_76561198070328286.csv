@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-08,417860,False,Played game for 10mins and finished... I can tell she is depressed She needs to see filthy frank ASAP
-2015-12-22,393420,True,it's good nuff saidd
-2014-10-18,252490,True,Derp
-2016-03-22,413170,True,Is this a joke
-2014-01-14,218230,True,"This game is epic! good graphics, good guns,rides and good thinking of perks for each class i rate this 28129812798217/10"
+posted,item_id,recommend,sentiment_analysis
+2015-12-08,417860,False,0
+2015-12-22,393420,True,2
+2014-10-18,252490,True,1
+2016-03-22,413170,True,1
+2014-01-14,218230,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-16,297810,False,WHERE THE ♥♥♥♥S MY REFUND???????????
-2015-07-07,226700,True,I bought this game for 50 cent.... I want my F*****g money back-10/10
-2015-12-10,211420,True,"i only a small amount of hours on the pc because my controller broke and i only bought it on steam cause i sold my ps3(it should only be played with a controller so i had to quit it) this was the game that changed my views on every game as soon as you buy this make sure you have a controller, and make sure that you never want to enjoy another combat RPG like you might have before, cause this will ruin you experiance of them and it will make you buy the others like ds2(average,sotfs needed) or bloodborne and soon the upcoming ds3 its evil and amazing at the same time."
+posted,item_id,recommend,sentiment_analysis
+2016-01-16,297810,False,1
+2015-07-07,226700,True,0
+2015-12-10,211420,True,1

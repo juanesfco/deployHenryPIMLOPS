@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-05-01,105600,True,what are you doing reading reviews? you should be playing terraria!
-2014-06-20,72850,True,this is skyrim. no explanation or thoughts besides it is a top 10 game of every gamer ever.
-2016-07-13,224600,True,defiance's memes are truly dank
-2016-08-15,230410,False,neh neh neh na neh
-2016-07-16,313340,True,its a mountain. sometimes theres stuff on the mountain. you can get desk fans' light bulbs' and balloons.its a good game
-2016-07-07,8190,True,buy this game. why?cause i ♥♥♥♥ing said so
-2015-08-14,268750,True,i killed a rabid dinosaur head with legs got a big sword that took to long to swing got a staff that shoots out zombies and barrel rolled in mid air over boars10/10 -ign
-2015-07-25,22380,True,nocked someones head off with a spear and stabbed lizards in the balls10/10
+posted,item_id,recommend,sentiment_analysis
+2015-05-01,105600,True,1
+2014-06-20,72850,True,1
+2016-07-13,224600,True,1
+2016-08-15,230410,False,1
+2016-07-16,313340,True,2
+2016-07-07,8190,True,0
+2015-08-14,268750,True,1
+2015-07-25,22380,True,1

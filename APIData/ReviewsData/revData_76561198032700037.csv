@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-03,6020,True,"A really cool, one of the best, Star Wars games that allows you to weild a lightsaber and use the force in many ways. The multiplayer is really fun (yep, people are still around and love this game as of 2016 despite how old this game really is)! An absoulte must have for Star Wars fans and lightsaber force freaks like myself.9/10"
-2016-07-28,94400,True,"Simple but fun, very fun, and intense, very intense.1v1 me the stab master brah8.5/10"
-2016-05-07,283940,True,"*Childhood relived again*Wow, emotionally moving. Really on par with the popular games out there today.Yet another Fantastic Visual NovelCute little Freddi saves everyone's livesPeanut butter jelly time: 9999999999/10"
-2016-05-07,283980,True,"*Childhood relived*Wow, what an amazing game. Really on par with the AAA games out there.Fantastic Visual NovelSweet James Bond / Batman detective like skills and gadgetsWhat swagSeriously Spy Fox drops puns like a gangsterDon't mess with FoxesThink of Spy Fox when you drink milkGO FISHOur hero: 9999999999/10"
-2016-02-02,233720,True,"[Displays] *Perform a heart transplant*'Um, okay''I have no idea what I'm doing but this looks good'*decimates rip cage**lays lungs on top of patient's eyes in case they see the horrendous sight**throws new heart in a now empty body*'Well he's pretty much dead but I reached my goal, I guess that's how it works in the real world'11/10 Will become a surgeon"
-2015-04-01,204880,True,"So addictive, great for LAN battles, real time strategy that incorporates 4X strategy game elements (RT4X) and ho boy is it good. You take over planets and star systems over other races while constantly panicking about how much there is to focus on when your fighting in numerous places in the galaxy and trying to build your economy (my economy is always bad), #managemuch?Make sure you have lots of hours to spare and that you play this game with friends too. Strongly recommend you give this a try if you like strategy games and you are a sci-fi pleb like myself, as I have absoutely loved and fangirled over this game.Personal Best Strat Gam: 9/10"
+posted,item_id,recommend,sentiment_analysis
+2014-01-03,6020,True,2
+2016-07-28,94400,True,2
+2016-05-07,283940,True,2
+2016-05-07,283980,True,1
+2016-02-02,233720,True,2
+2015-04-01,204880,True,2

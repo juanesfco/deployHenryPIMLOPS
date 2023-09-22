@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-04,270880,True,"I have only played this game for less than an hour, but I can tell you that this game is a fun game. Comparing this to ETS2, I would say that this game has several improvements in terms of gameplay. One of which is the new trailer parking options. I find it very pleasing to be able to choose how you would like to park the trailer.The trucks themselves are quite different from the trucks in ETS. The trucks in this game have long bonnets, and I find it rather difficult to turn since I am used to the bonnet-less European trucks from ETS.Moving on to the map. The map in this game is still small compared to the map in ETS2. Currently, the game only has 2 states in its map.Overall, however, I think that this game is very enjoyable to play, and I find it relaxing to play this game, especially while listening to music."
-2015-11-06,227300,True,"Good game, realistic, and the graphics aren't bad."
-2013-11-29,440,True,TF2 is a very fun game.
+posted,item_id,recommend,sentiment_analysis
+2016-02-04,270880,True,0
+2015-11-06,227300,True,1
+2013-11-29,440,True,1

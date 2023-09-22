@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-27,570,True,'Game is hard'This game has a steep learning curve but rewards players with a truly outstanding multiplayer experience. There's a reason it's got the biggest population on steam. F2P and not P2W.Like a cross between hitting the level cap in WOW in 30 minutes and playing chess in real-time using 10 out over 100 difference pieces.
-2015-09-14,113020,True,Great game I keep coming back to. Worth it just for the old-time piano heist music and french accents. Low graphics workload and minimal need for mouse-clicks means I can play on the laptop near my wife without annoying her. ONLY downside is low/no multiplayer populations when I feel like playing.
+posted,item_id,recommend,sentiment_analysis
+2014-03-27,570,True,1
+2015-09-14,113020,True,1

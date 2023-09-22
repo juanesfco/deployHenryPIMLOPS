@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-04-08,228380,False,"I want to give this a positive review so bad, but there's just nothing much being done on this game anymore. This games strength is definitely within its destruction, the devs just need to make more use of it.Wait a few months. It can be reanimated yet."
-2016-04-08,377160,True,'I've been playing for HOW MANY hours?!'
-2015-07-23,207610,True,A rare experience that reminds even us trigger happy gamers have emotions
-2016-04-08,730,True,"Definitely worth the money. Lots of frantic moments, and a massive (although slightly toxic) community. Only gripe is that as a mapper, the csgo workshop is an absolute moshpit of content, making it very hard to be seriously noticed."
-2016-04-08,244850,True,"Okay so this is my review after I learnt how to play:Wow, just wow. Definitely not an action shooter, although it isn't trying to be one. A stupid amount of depth for space, and its close to being done so expect lots of features. My only gripe is that of time of reviewing a patch that basiclly broke movement came out, but I can have faith the devs will patch it soon enough."
-2015-05-20,242760,True,"Absolutely worth it. It will scare the hell outta you, confuse you, invoke your curious side and then scare the living daylights out of you again. And once more, it has a great dev support that continues to update the game."
+posted,item_id,recommend,sentiment_analysis
+2016-04-08,228380,False,1
+2016-04-08,377160,True,2
+2015-07-23,207610,True,2
+2016-04-08,730,True,1
+2016-04-08,244850,True,1
+2015-05-20,242760,True,2

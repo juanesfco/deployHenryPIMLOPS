@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-20,222880,True,great game
-2014-10-10,238430,True,great game best game i have played i recommend it for all first person shooter likers and left4dead likers
-2014-10-10,203770,True,its very confusing but it gets better and easier
-2014-08-28,304930,True,this game has good survival gameplay
+posted,item_id,recommend,sentiment_analysis
+2015-07-20,222880,True,2
+2014-10-10,238430,True,2
+2014-10-10,203770,True,1
+2014-08-28,304930,True,2

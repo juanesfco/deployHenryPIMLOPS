@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-05,218620,False,"Overkill: we won't do micro transactions, later micro transactions Use to be a good game 0.1/10"
-2015-10-05,331470,True,i've played 7 hours of this game my ♥♥♥♥ fell off :)
-2013-06-09,440,True,this game is really good
+posted,item_id,recommend,sentiment_analysis
+2015-12-05,218620,False,1
+2015-10-05,331470,True,1
+2013-06-09,440,True,2

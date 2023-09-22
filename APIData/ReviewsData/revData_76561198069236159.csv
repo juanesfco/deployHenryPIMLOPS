@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-13,319510,True,for a fun passtime its great but dont play at night
-2015-01-23,295110,True,buy it servers are down and that chrases the game and gives me a error notice LOL
-2015-07-10,333930,False,The first game i hopped into i was rekt by campers and players better than me on a unfair map i couldnt get past anyone without dieing this made me rage i do not recomend this game
+posted,item_id,recommend,sentiment_analysis
+2015-02-13,319510,True,2
+2015-01-23,295110,True,1
+2015-07-10,333930,False,0

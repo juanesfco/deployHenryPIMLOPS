@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-06,242680,True,"This game is one of those 'worth all your time and money' games, like Risk of Rain and Don't Starve, where you can infinitely play it, even after getting all the achievements. However, similar to games like these, when you lose a run, you'll feel like ♥♥♥♥. Something cheesy will ruin your run, and you'll always come back to it. Suckers."
-2015-04-19,219740,True,"The game is good. In my opinion, this game is better than most survival games out there. It is filled with dark humour, has such a great art style, characters are (for the most part) balanced and intresting, and has a surprisingly high skill ceiling, for a game.However, you need a have a wiki with you during the first parts of the game to get far, and requires a lot of time, in order to get into. When you die, it makes you feel bad and depressed. All that hard work and effort down the drain. Hence, it is very difficult to go back into the game after surviving 30-40 days."
-2012-09-26,440,True,AWESOME!
+posted,item_id,recommend,sentiment_analysis
+2016-08-06,242680,True,0
+2015-04-19,219740,True,1
+2012-09-26,440,True,2

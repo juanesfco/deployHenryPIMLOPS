@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-01,391540,True,"In my opinion, it is very rare, these days, to come across games that lean on a simple concept or theme and bloom directly from there -- with SOUL (yes, pun intended).Fortunately for me, when UNDERTALE came into view and after reading a few reviews, I knew I just had to play it.After finishing the game in ~13 hours, I realized so many things. My view about the world widened and the hapiness I had inside felt like it was worth something.Never did such a game give me such happiness and excitement to fight with random encounters (or are they? Haha)This game is surely a 11/10 for me. Cheers to the developers!"
-2016-07-10,304430,True,"This game is very reminiscent of LIMBO. Really good gameplay, really good (and straightforward) puzzles - but even more, really good experience.The story of INSIDE has depth (pun intended) and is intermingled with the gameplay in a very streamlined fashion.Has really good replay value, especially, as with LIMBO, we are left with open ended endings (or do we?).Overally, I think INSIDE is a really good game. You guys must all play it.Simple game, many thoughts."
-2013-11-17,620,True,Want to mess around with physics ---- or even with your head?Most certainly a mind boggler. How can I do this?A 10 out of 10 for this one.
-2013-02-23,1840,True,A very good tool for dynamic story telling in Steam.The best of its kind.
+posted,item_id,recommend,sentiment_analysis
+2015-11-01,391540,True,1
+2016-07-10,304430,True,2
+2013-11-17,620,True,1
+2013-02-23,1840,True,2

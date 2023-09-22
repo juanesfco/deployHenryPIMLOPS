@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-09-14,730,True,Pretty rad
-2012-06-14,440,True,!ENGINEER!
-2013-03-13,218230,True,I LIKE PLANES!!!
-2012-11-18,4000,True,A vast world of Chaos and Trollface
-2016-02-03,357340,True,Cobalt puts the roll in neowait...
-2014-12-03,250900,True,I once got a controllable tear of laser it was gud!Also got Pyromaniac and Pyro with Mr.Mega!
+posted,item_id,recommend,sentiment_analysis
+2015-09-14,730,True,2
+2012-06-14,440,True,1
+2013-03-13,218230,True,1
+2012-11-18,4000,True,1
+2016-02-03,357340,True,1
+2014-12-03,250900,True,1

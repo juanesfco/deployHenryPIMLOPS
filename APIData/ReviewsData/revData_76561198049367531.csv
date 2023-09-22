@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-06,17410,True,holy crap this is the most fun ♥♥♥♥ i have ever played if you dont have this then we are not friends
-2015-01-04,33930,False,i came here for war and got zombies.
-2015-11-25,253250,True,"Really fun game, with really cool devs. Im interested to see what they implement next."
+posted,item_id,recommend,sentiment_analysis
+2014-06-06,17410,True,1
+2015-01-04,33930,False,1
+2015-11-25,253250,True,1

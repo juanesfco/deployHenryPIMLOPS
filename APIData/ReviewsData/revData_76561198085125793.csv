@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-05-19,24200,True,"This game is a MMO game, it has the best customization list i have ever seen and the storyline is just amazing. I highly reccomend this game to all my friends."
-2015-11-02,218620,True,"Payday 2 is an excellent game if you are willing to play with at least one friend. Although try to avoid the DLC's, some of them can be a waste of time and money. I wanna make this review short so i give it an 8/10."
+posted,item_id,recommend,sentiment_analysis
+2013-05-19,24200,True,1
+2015-11-02,218620,True,1

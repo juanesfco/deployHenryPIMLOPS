@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-05,22200,True,WHAT THE OH MY GOD I DONT UNDERSTAND WHY IS WHAT THE OH NO I JUST AHHH!!!
-2014-06-29,274190,True,"Awesome badassery is definitely to be found here – in abundance. This game is ♥♥♥♥in’ TIGHT! Highly recommend to any fans of action movies, badass indie games or just over-the-top violence."
-2014-06-27,219150,True,HOLY ♥♥♥♥ THIS GAME IS AWESOME!!!
+posted,item_id,recommend,sentiment_analysis
+2015-01-05,22200,True,1
+2014-06-29,274190,True,1
+2014-06-27,219150,True,2

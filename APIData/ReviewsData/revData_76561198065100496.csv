@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-17,440,True,This is the best game ever! So addicting and fun.But please market/economy we don't need you to crash on us.
-2013-12-18,570,True,WORLD WIDE! Most Popular Game In The World! Come Play With Me Or Ur Other Friend!
-2014-04-19,200210,True,Always Played During Free Time In My School <3 This GameYES FOR MEH!
-2013-11-06,207610,True,BUY THIS! Anyone Who Wants to Play A Game With Decision Making Sadness And Suspence And A Tailored Experiance Play This Game
-2013-08-13,49520,True,Awesome Fun AND GORE<----Dat Is Ausum!
+posted,item_id,recommend,sentiment_analysis
+2015-04-17,440,True,2
+2013-12-18,570,True,1
+2014-04-19,200210,True,2
+2013-11-06,207610,True,0
+2013-08-13,49520,True,2

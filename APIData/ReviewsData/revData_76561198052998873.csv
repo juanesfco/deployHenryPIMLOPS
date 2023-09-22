@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-29,620,True,"One of the best games of all time!! Briliant story, fantastic co-op. There should be no second thought for this game!! IT'S A MUST HAVE!!"
-2014-07-23,104600,False,"Unfortunetly, every time i go to do something on this game/behind the scenes. It always sends me staright to the review sectionand it never lets me go anywhere from there. It's a real shame because im a big fan of portal 2, and i was very interested, but it may not work for some users i supose. :("
-2016-06-05,203160,True,Pros:Great visuals.Good characters.Open World Environments.Cons:Aids multiplayer.No Cross platforming.Like no tombs throughout campaign. (only side missions)cliche as hell.*agreesive hyperventilating of 16 hours'10/10 would play again for a 17th time
-2015-12-11,8000,True,"One of the best games of all time, I have been a fan since the launch of Tomb Raider: Legends and getting my hands on this was a god send. After purchesing it on all platforms I own, it consistantly continues to satisfy my platformer adiction.Now that it has come to my primarel mac computer, I couldn't be happier. Great for anyone seeking an awesome adventure platformer. It is a must have, you will get many hours of joy out of it. I only wish they would port all the others to mac also. ;)"
-2014-07-27,221910,True,Where to begin! Fantastic game! Amazing story.. or should i say stories. It's a must have and i'd recomend it for anyone!
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,620,True,2
+2014-07-23,104600,False,1
+2016-06-05,203160,True,1
+2015-12-11,8000,True,2
+2014-07-27,221910,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-06,366890,False,"So there's this game called Zombie Zoeds right. And, this game is GREAT!Great as in, it causes cancer with every touch of a button, every step your guy take and every piece of ♥♥♥♥ that comes out of his turd cannon. Rate 8/8, would never play more than 6 minutes.Used it to watch Honey Boo Boo cause its such a 'good' game!"
-2014-09-08,8870,True,"HOLY ♥♥♥♥! Good as game, great FPS and Scares the crap out of you at points in time."
-2015-12-23,385800,True,"I love this game so much. It just inspires me to do so much in my life. I feel as though i can finally leave the rat invested basement at my grandma's house and for a thirty odd, year old guy thats a big step. ;)"
+posted,item_id,recommend,sentiment_analysis
+2015-10-06,366890,False,1
+2014-09-08,8870,True,1
+2015-12-23,385800,True,1

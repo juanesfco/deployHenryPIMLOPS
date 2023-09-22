@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-25,65980,True,"Beyond Earth has a great setting and some very interesting ideas, however it's VERY similar to Civ V and just has a feeling of being incomplete (like only having 8 leaders). Also some parts are just confusing like the 'web' shaped tech tree. It's a cool idea but they really need a tutorial to show some possible paths.I 'would' recommend Beyond Earth, but only when there's a sale or some DLC is released."
-2014-11-08,327410,True,"A charming game made by the same developer as To The Moon. Everything in the game is shown through character animations, thought bubbles and music (there's no text) and I found myself smiling a lot while playing it.Downsides are it's short and there isn't that much gameplay, but it's cheap and very well made. I'd recommened it if you like story focused games."
-2014-11-22,238460,True,"A charming puzzle game made by the same developers of Castle Crashers. Solid gameplay, a great artstyle and hilarious commentary makes this game definitely worth your time. Also it's two player so you can punch your friends."
+posted,item_id,recommend,sentiment_analysis
+2014-10-25,65980,True,2
+2014-11-08,327410,True,1
+2014-11-22,238460,True,2

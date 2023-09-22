@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-23,730,True,Noice
-2015-01-15,221100,True,Some bugs but you just learn to cop and play on. Really fun with friends!
-2015-11-18,377160,True,A great and expansive game. It could be optimized better but other than that I personally think this is one of the best games to have come out all year.
-2015-06-14,350080,True,An excellent game that really does get your heart pumping!
+posted,item_id,recommend,sentiment_analysis
+2015-01-23,730,True,1
+2015-01-15,221100,True,2
+2015-11-18,377160,True,2
+2015-06-14,350080,True,2

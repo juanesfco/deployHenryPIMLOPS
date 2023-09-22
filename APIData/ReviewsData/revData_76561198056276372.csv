@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-27,2620,True,You can shoot people's hats off100/10
-2014-04-04,38400,True,"I'm not good at these games. I can barely make it to the first city. But anyway, from what I've seen, the gameplay is nice, smooth and enjoyable. I'd say check it out, if you have some free time on your hands."
-2013-04-10,31280,True,"Poker. Boring, right? NOPE!"
+posted,item_id,recommend,sentiment_analysis
+2014-04-27,2620,True,1
+2014-04-04,38400,True,2
+2013-04-10,31280,True,0

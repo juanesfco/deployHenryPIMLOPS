@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-23,301520,True,"I really enjoy this game, it's a good chill game and i am relaxed when playing it. Over all great game."
-2016-04-29,730,True,fml
+posted,item_id,recommend,sentiment_analysis
+2014-08-23,301520,True,2
+2016-04-29,730,True,1

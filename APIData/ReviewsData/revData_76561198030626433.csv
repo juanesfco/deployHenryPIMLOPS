@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-01-28,230410,True,:D
-2013-11-29,224260,True,Running zombiez makez me ♥♥♥♥ ma pants!!!!!!!!!!!!!!!
-2015-07-20,49520,True,Brilliant game -Has comedyGreat FightsEver thing you would ever want ina game11/10
-2015-06-19,550,True,Only good for mother f**king Nick cage Mods
-2015-06-19,231430,True,Bloody good game !Great Graphics Great GameplayFantastic Game!
-2015-03-30,236390,True,Brilliant Game; Five Amazing Nations and so many ways to play
-2014-03-07,223710,True,Scary..........
-2014-03-05,208090,True,Weird but .... Good?
-2015-11-30,48705,True,veri gud
+posted,item_id,recommend,sentiment_analysis
+2014-01-28,230410,True,2
+2013-11-29,224260,True,1
+2015-07-20,49520,True,2
+2015-06-19,550,True,2
+2015-06-19,231430,True,1
+2015-03-30,236390,True,2
+2014-03-07,223710,True,0
+2014-03-05,208090,True,1
+2015-11-30,48705,True,1

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-01-24,218680,True,"Very silly, very fun. The dictionary is pretty good, but it's missing quite a lot (come on 5th Cell, 'fedora' should be a word, I want to make all the characters look like euphoric neckbeards) but the challenges are very clever and some of the solutions are a blast. If you want a bit of a relaxing game this is a good place to go."
+posted,item_id,recommend,sentiment_analysis
+2014-01-24,218680,True,2

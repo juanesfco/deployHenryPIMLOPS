@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-02-13,409440,True,Surprisingly very Fun! I recommend this Game to any person who loves puzzle games.
-2014-07-02,242760,True,"Very Fun, A More Realistic Minecraft. Recomended for survival and horror interested gamers."
-2016-02-16,434730,True,I highly recommend this game to the players who have watched the three cube films and enjoyed them! :D
-2015-09-21,345200,True,Apart from the fact that it completely crashed my computer so Ctrl + Alt + Del could not work and I had to restart it is great fun!
-2014-11-20,265930,True,"MMO has changed the game alot and now It is so cool! Since this update, I recommend buying the game"
-2014-05-29,440,True,A very good and fun game for people who just started playing games and getting games on steam. Highly Reccomended!
+posted,item_id,recommend,sentiment_analysis
+2016-02-13,409440,True,1
+2014-07-02,242760,True,2
+2016-02-16,434730,True,2
+2015-09-21,345200,True,2
+2014-11-20,265930,True,0
+2014-05-29,440,True,2

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-11-25,236390,True,if you like flying this is the game:) 3 types of flying to pick from.. come fly with me
-2013-11-25,209870,True,"havnt played much, but so far so good......."
-2012-08-25,730,True,"top fun, join in :)"
-2016-08-13,275850,True,"Top Game 'imo'. no mans sky is my sky, so look out you bleeding heart haters im in the shy waiting!PS. you have to give it a go for 10 to 20 hrs ,  then make your mind up."
-2014-07-22,306130,True,"this is a top game,   and didnt get it until steam had a sale,  because lots off poeple r not happy about it so i hanged off getting it,   Bugga!!   they r sooks ..... u need to try it for your self and come join me and have some fun 5 stars"
-2014-11-22,219640,True,"LMAO all the time top fun,"
-2014-05-27,243470,True, running around online is lmao at times. and the game looks good plays good and all i have is a nvgtx570 so i recommened this game
-2013-11-25,248140,False,i only played the demo and it was ♥♥♥♥..i think the real thing could be better
+posted,item_id,recommend,sentiment_analysis
+2013-11-25,236390,True,2
+2013-11-25,209870,True,2
+2012-08-25,730,True,2
+2016-08-13,275850,True,0
+2014-07-22,306130,True,1
+2014-11-22,219640,True,2
+2014-05-27,243470,True,2
+2013-11-25,248140,False,2

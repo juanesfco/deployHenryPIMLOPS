@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-10,211820,True,"Starbound is a fantastic game the music, the bosses, NPC and the exploration in the game are just great. I was playing before the colonies update came out it still was a good game that is why i am recommending this game."
-2015-10-31,244850,False,I did love the game it was great but the devs raised the min specs you needed to play the game.sorry to say but the game has became a s**t hole of a gameR.I.P SE
+posted,item_id,recommend,sentiment_analysis
+2015-09-10,211820,True,1
+2015-10-31,244850,False,2

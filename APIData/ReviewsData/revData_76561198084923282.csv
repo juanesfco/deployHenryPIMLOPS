@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-02,10180,True,Back when cod wasnt trash
-2016-08-29,220200,True,"Tries to make manoeuvrable aircraft, failsGets bored and puts random parts together to make aircraft, works like a charm10/10"
-2015-09-01,236390,True,Vietnamese kamikaze simulator
+posted,item_id,recommend,sentiment_analysis
+2015-12-02,10180,True,1
+2016-08-29,220200,True,0
+2015-09-01,236390,True,1

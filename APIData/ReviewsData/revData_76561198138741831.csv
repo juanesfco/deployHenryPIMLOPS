@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-11-05,291480,True,"This game is in my good books. The game is really fun and as long as you find a country listing that works, you can find servers that work. So if your unable to play a game, just select another country to find servers from."
-2014-08-30,236390,True,i love dis game bro. it is good when you get used to the controls
-2015-10-13,306460,True,"My reveiw on the normal game said that it is good and the gold makes not much change... but you do get free cloths and skins for wepons that all are gold, you also get many more abilities when it comes to making your character and a free gold lootcrate... you just need a key, still highly recomend"
-2015-10-13,304930,True,I highly recommend this game because it is a fun zombie survival with a great single player and multiplayer game. you can get free cloths or buy them from the store to make you naked character look good with out revealing if you have found cloths or not so muliplayer PVP you are safe from the attck with the reson of 'you had lots of loot' and has many amazing items :)
-2015-10-04,227700,True,I enjoy this game so much and am annoyed that i can't get it on my curent computer... this game has a world were you can go annywhere (basicly) and always have somthing to do :)
-2015-05-04,248570,True,not following a crowd here this game is beast
-2014-09-05,253710,False,i downloaded it and it wouldnt even let me hunt
+posted,item_id,recommend,sentiment_analysis
+2015-11-05,291480,True,0
+2014-08-30,236390,True,2
+2015-10-13,306460,True,2
+2015-10-13,304930,True,2
+2015-10-04,227700,True,1
+2015-05-04,248570,True,0
+2014-09-05,253710,False,1

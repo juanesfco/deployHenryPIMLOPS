@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-30,201810,True,"Refined, old-school shooting that isn't complete brainless. Great for people tired of playing the modern generic tactical shooter.HIghly Recommended!"
-2013-04-13,730,True,Get this game and play with me!
-2013-01-26,440,True,"Well, firstly, this game is deservedly the most played multiplayer shooter on PC. Secondly, it's free to get into, Nuff said, Highly Recommended!"
-2013-01-26,240,True,"One of the most tense and exciting multiplayer shooters out there, getting a kill in it makes you feel like a BAWZ! Highly recommended!"
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,201810,True,2
+2013-04-13,730,True,0
+2013-01-26,440,True,2
+2013-01-26,240,True,2

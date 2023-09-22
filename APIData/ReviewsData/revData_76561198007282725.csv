@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-12-27,209650,False,The game is as dead as Hitler.
-2016-03-21,218620,False,"It was such a good game, all the way until Almir made the worst move he could've done at the time, microtransactions. 2 years prior to this incident, Almir stated himself 'We've made it clear that PAYDAY 2 will have no micro-transactions whatsoever (shame on you if you thought otherwise!)' (Source: http://forums.steampowered.com/forums/showthread.php?t=3127521) However, he openly admits that the incentive behind the Black Market update (the update which introduced microtransactions) was money-based. The success of PAYDAY 2 has also changed Overkill for the worse and diverted their attention and focus to money rather than support. Not only has Overkill shamelessly defyed their own promise and introduced microtransactions, but these microtransactions  BOOST STATS . I've supported this game despite the overflow of DLCs being introduced every month, but this is sadly the last straw, it is much to the community and myself's chagrin to see game with so much potential to decline like this."
-2015-12-16,730,True,"Pretty much ruined my life, that's how good it is"
-2014-12-19,34900,True,How to Profit:1. Bought the game for 20 cents2. Left the game on to get trading cards3. Uninstalled4. Sold trading cards for 25 cents5. PROFIT
-2015-08-28,252950,True,"Terrorist cars trying to allahu akbar in a soccer field, 9/11"
-2016-08-10,252490,False,"XP system has turned the game to complete ♥♥♥♥, no skill required at all anymore :("
-2016-06-07,359550,True,This game has taught me that a shield is a man's best friend.
-2016-08-30,462930,True,Just when I thought I had gotten rid of my Adventure Capitalist addiction :( Rest in peace another 1000 hours
+posted,item_id,recommend,sentiment_analysis
+2015-12-27,209650,False,0
+2016-03-21,218620,False,1
+2015-12-16,730,True,2
+2014-12-19,34900,True,0
+2015-08-28,252950,True,1
+2016-08-10,252490,False,0
+2016-06-07,359550,True,2
+2016-08-30,462930,True,0

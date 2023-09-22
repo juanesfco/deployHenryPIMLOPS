@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-13,417860,True,"Wait, why did i just spend 1 hour breaking my keyboard to be eventually friend zoned by this game?10/10 Neckbeard Simulator, would do in real life."
-2015-11-01,730,True,"cant hit a shot, get yelled at by russians, 5 year olds and druggies.10/10 would listen to rage again"
-2016-01-07,251570,True,"20 non recorded hours on the game, still havent survived night 2. 10/10 realism guess ill die in an apocalypse."
+posted,item_id,recommend,sentiment_analysis
+2016-05-13,417860,True,2
+2015-11-01,730,True,1
+2016-01-07,251570,True,0

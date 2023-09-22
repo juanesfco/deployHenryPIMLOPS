@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-29,224600,True,This game is GREAT!
-2013-12-28,1250,True,FUN game :D
-2013-12-23,440,True,ITS JUST AWESOME! :D
-2013-08-27,730,True,Get it now!
-2013-01-11,570,True,some how it said that i own dota?
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,224600,True,2
+2013-12-28,1250,True,2
+2013-12-23,440,True,2
+2013-08-27,730,True,1
+2013-01-11,570,True,2

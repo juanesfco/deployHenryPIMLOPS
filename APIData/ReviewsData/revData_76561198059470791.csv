@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-07-24,4000,True,"40 GB of addons,and increasing. Don't let the PC system requirements fool you.Corrected requirements:OS: Windows or LinuxProcessor: Anything recent could work (Core 2 quad with descent FPS)RAM: 4 GB minimum, more if you want to play other games at the same timeGPU: Anything recent could work (Geforce 210 with descent FPS)HDD: ~5 GB for base install, >20 GB if you are serious to play this game"
+posted,item_id,recommend,sentiment_analysis
+2014-07-24,4000,True,0

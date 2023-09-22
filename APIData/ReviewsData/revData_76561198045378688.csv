@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2012-07-20,72850,True,Tis goood game
-2011-12-27,440,True,"Fun Game! Lots of Great Items, and awesome hats!"
+posted,item_id,recommend,sentiment_analysis
+2012-07-20,72850,True,0
+2011-12-27,440,True,2

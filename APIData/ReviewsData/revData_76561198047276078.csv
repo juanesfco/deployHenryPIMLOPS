@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-05,311340,True,Step 1: Get a banana. This part is easy and open to some choice. ...Step 2: Identify the top of the banana. Bananas grow in bunches pointing up with the stems on the bottom. ...Step 3: Pinch the top. Get a nice firm pinch on the top of the banana. ...Step 4: Peel. ...Step 5: Repeat. ...Step 6: Eat! ...Step 7: The Beauty of it All.10/10 Would eat again
-2015-03-06,351790,False,Invisible Apartment... Is about a apartment that is invisible.BEST GAME EVERGetting to hear one of my friends speeking like a girl!
-2015-08-03,282900,True,"Loli Simulator, thanks Japan!Would Nep again!"
-2015-03-06,322330,True,Day1: Got lostDay2: People helped me find were there base wasDay3: Gets lots of foodDay4: SOMEONE BURNS THE FOODDay5: Gets more foodDay6: Gets killed by a ghostDay7: Im a spooky ghost still7 Days to die rip off11/10 Best game 2015 - IGN
-2013-05-17,4000,True,"Killed a guy with a bike with one of my frends on it, it was pink and had a bath tub on top!11/10 - IGN"
+posted,item_id,recommend,sentiment_analysis
+2015-09-05,311340,True,2
+2015-03-06,351790,False,0
+2015-08-03,282900,True,2
+2015-03-06,322330,True,1
+2013-05-17,4000,True,0

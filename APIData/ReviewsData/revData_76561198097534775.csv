@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-03,287290,True,RECOMENDO...
-2014-08-20,209000,True,Muito bom  este game vale a pena...
-2014-04-29,550,True,legal!!!
-2013-09-20,44350,True,o melhor game de corrida da atualidade.
+posted,item_id,recommend,sentiment_analysis
+2015-12-03,287290,True,1
+2014-08-20,209000,True,0
+2014-04-29,550,True,2
+2013-09-20,44350,True,0

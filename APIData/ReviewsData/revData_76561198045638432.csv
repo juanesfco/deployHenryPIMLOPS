@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-27,253710,True,love this game been playing it for years
-2015-04-28,310560,True,awsome game been waiting years for a rally game this good
-2014-07-18,263280,True,very fun game makes you think twice before choosing aa rout
+posted,item_id,recommend,sentiment_analysis
+2015-02-27,253710,True,1
+2015-04-28,310560,True,1
+2014-07-18,263280,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-21,22320,True,Better than Elder Scrolls Online
-2013-12-24,22330,True,HEll YES
-2013-12-07,440,True,Ill Start to replay it
+posted,item_id,recommend,sentiment_analysis
+2014-02-21,22320,True,2
+2013-12-24,22330,True,1
+2013-12-07,440,True,0

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-21,72850,True,Killed a chicken and got attacked by the Riverwood Police 10/10
-2014-09-30,319510,True,I screamed. 10/10 would have nightmares over.
+posted,item_id,recommend,sentiment_analysis
+2014-12-21,72850,True,0
+2014-09-30,319510,True,1

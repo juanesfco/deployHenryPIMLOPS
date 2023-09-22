@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-06,4000,True,Is k.
-2015-03-06,6860,True,The Definitive Hitman Title Thats Worth The 8 bucksgr8 b8 m8 i r8 8/8 - Would Be Greater Than Absolution Again
-2015-03-06,346010,True,"Something,Something,Build,Build,BUILD,EVEN MOAR BUILDING,Kill Peasants,Repeat11/10 - Would Build/Kill/Repeat again"
-2015-03-06,218620,False,"Me From Months Ago: Brilliant, JUST MINTMe At This Current Time: CashGrab 2Almir PLS."
-2015-03-06,730,True,"Pros - Everything Other Than The Cons.Cons - Russians, ♥♥♥♥, blatThat is All"
+posted,item_id,recommend,sentiment_analysis
+2015-03-06,4000,True,1
+2015-03-06,6860,True,2
+2015-03-06,346010,True,1
+2015-03-06,218620,False,2
+2015-03-06,730,True,0

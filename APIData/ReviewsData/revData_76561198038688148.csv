@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-19,570,True,"Vale la pena probarlo, pero es muy dificil decir que dota 2 es mejor que LOL o visceversa"
+posted,item_id,recommend,sentiment_analysis
+2013-12-19,570,True,2

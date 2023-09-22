@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-20,222880,True,I find it way more enjoyable than some of the big budget games like C.O.D and Battlefield.Especially since there arn't any 6 years olds screaming how many times the '♥♥♥♥ed' my mum
-2014-10-20,227940,True,"Heros and Generals is a really good game for anyone that is intersted in the war or fps games.The only downside is that most players will end up joining the Germans side making it a lot harder to find games. Good textures and sound effects, but has a few bugs and kinks but ither than that its a pretty good game.8/10"
-2014-10-08,291270,False,Do not Buy this game.I repeat do not waste money on this terrible game.Worst game I have ever payed for.Try the demo before paying for this game
-2014-10-20,219740,True,Excelent game machanics.Im loving the art style.This is probably one of my favourite games so far.I would recommend this game to anyone that is a fan or survival games and/ or adventure games.9/10
+posted,item_id,recommend,sentiment_analysis
+2015-09-20,222880,True,2
+2014-10-20,227940,True,2
+2014-10-08,291270,False,0
+2014-10-20,219740,True,1

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-05-31,730,True,vc vai joga dust 2 que nem um retarda e vai levar headshot kkkkkkkkkkkk
-2015-04-24,72850,False,very bad game i realy dont like
-2016-03-14,378120,True,"jogo ♥♥♥♥ mas é dificil de se jogar , procure alguem q ja jogue ha algum tempo e curta jogo ♥♥♥♥"
-2015-11-08,209870,False,PAY TO WIN
-2015-09-18,252950,False,é enjoativo mesmo jogando com muita gente
-2015-06-26,570,True,muito bacana jogo daora
-2015-05-07,226700,False,jogo de ♥♥♥♥♥
-2014-06-30,214950,True,very good game
-2014-06-26,207230,False,very very very very bad
+posted,item_id,recommend,sentiment_analysis
+2015-05-31,730,True,2
+2015-04-24,72850,False,0
+2016-03-14,378120,True,0
+2015-11-08,209870,False,2
+2015-09-18,252950,False,0
+2015-06-26,570,True,1
+2015-05-07,226700,False,0
+2014-06-30,214950,True,2
+2014-06-26,207230,False,0

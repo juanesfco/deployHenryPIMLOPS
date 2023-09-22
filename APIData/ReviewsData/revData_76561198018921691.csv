@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-23,265610,True,Amazing little game. If you have played and enjoyed the flash versions then there no reason not to get this.
-2014-06-23,239220,False,Unfortunatly this game is starting to feel pay to win :(
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,265610,True,2
+2014-06-23,239220,False,1

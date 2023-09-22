@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-25,304930,True,"Ótimo jogo de apocalipse zumbi,com amigos então,meu deus,o jogo fica o melhor!Recomendo muito baixar ele.E no começo do jogo mesmo,você entra em desespero                    M E L H O R                      J O G O"
-2016-07-15,730,True,me fez matar toda minha familia e meus 2 cachorros10/10
-2013-10-11,4000,True,"O jogo é simplismente sensacional,jogar sozinho é meio chato,mas com amigos,♥♥♥♥ QUE PARIU QUE JOGO LINDO S2"
-2015-06-11,207140,True,BUY IT
+posted,item_id,recommend,sentiment_analysis
+2015-03-25,304930,True,2
+2016-07-15,730,True,1
+2013-10-11,4000,True,1
+2015-06-11,207140,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-19,252490,True,ITS ♥♥♥♥ING AWESOME
-2016-05-31,271590,True,haven't met a modder yet :)
-2014-09-21,440,True,REALLY GOOD
-2015-05-30,244850,True,hhhzhzahaahahhaahahahhahaha
+posted,item_id,recommend,sentiment_analysis
+2015-04-19,252490,True,2
+2016-05-31,271590,True,2
+2014-09-21,440,True,2
+2015-05-30,244850,True,1

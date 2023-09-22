@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-01,305620,True,"The Long Dark is amazing. I can play it for hours, just zoned out and immersed in the harsh world. It is quite difficult to find a good game in the post-apocalyptic survival genre which does not contain zombies, and The Long Dark nails it."
+posted,item_id,recommend,sentiment_analysis
+2016-02-01,305620,True,1

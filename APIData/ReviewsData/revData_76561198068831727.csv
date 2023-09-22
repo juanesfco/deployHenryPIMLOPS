@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-25,7670,True,"This game is an amazing, well crafted piece of work and should be in every one's steam library"
-2015-10-25,238460,True,"DAMN THIS GAME IS GOOD, theres so much fun and rage here that you couldn't possibly refuse...just make sure your playing with a friend though so you can get the best experience."
-2015-10-25,230410,True,Although I can't say that i'm the most avid player of this game (i know people who achieved over 1000 hours) its still quite fun with a lot of potential left in store for thisalthough there is one thing I can say for sure....THIS IS WAY BETTER THAN DESTINY AND ITS FREE
-2015-10-25,227300,True,Its a game about driving trucks...how could you ever refuse.
-2015-10-25,8850,False,I was surprised by this game to say the least as I just couldn't get into it regardless of how much i wanted to play something bioshock related...maybe its because your a big daddy but i can see where people will like it but i'm just gonna have to stay away until I feel like giving it a shot again.
-2015-10-25,8870,True,This game has such a great atmosphere with an engaging story and great music that its hard to believe that some people haven't played it yetif your looking for a FPS with a great story then you have to play this (after you play the originals of course)
-2014-05-22,286100,True,this is love this is life
+posted,item_id,recommend,sentiment_analysis
+2015-10-25,7670,True,2
+2015-10-25,238460,True,2
+2015-10-25,230410,True,2
+2015-10-25,227300,True,0
+2015-10-25,8850,False,1
+2015-10-25,8870,True,2
+2014-05-22,286100,True,2

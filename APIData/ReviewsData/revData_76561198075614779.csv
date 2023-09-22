@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-11,279160,True,"I like the plot :3 , ok no , but also it is fun to play."
-2014-11-11,212041,True,"lo compre por accidente...por un lado , valio la pena, por otro,no pude pasar ninguno"
-2014-11-11,212030,True,"la pase de lo mejor con este juego y me rei mucho ... 'y-y-yaaa esta mueeeerto! ' . tiene golpes por todos lados y la historia me gusto como para que siga mas todavia, y el jefe final me costo 5horas en ganarle (masomenos)"
-2014-10-31,16730,True,"a mi me gusta, a pesar de ser del 2008 , es sabido que no tiene las grandes cosas como un COD u otro , para esa epoca y el presupuesto que habran tenido , esta bien echo"
-2013-12-19,1250,True,bastante bueno como para jugar en un buen equipo un rato largo
+posted,item_id,recommend,sentiment_analysis
+2014-11-11,279160,True,2
+2014-11-11,212041,True,1
+2014-11-11,212030,True,2
+2014-10-31,16730,True,2
+2013-12-19,1250,True,2

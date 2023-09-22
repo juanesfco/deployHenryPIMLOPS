@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-12-28,4000,True,Would watch a serbian film again in gmods cinema
-2015-12-28,220440,True,I Reccomend this game it's good
-2015-12-28,252950,True,"I gotta say this game is boring and repetitive when playing by yourself, but with friends it's good fun"
-2015-12-28,34330,True,10/10 will charge my people into a battle they cannot win again
-2015-12-28,385800,True,"Good time farming game, also make you look like pervert"
-2015-12-28,252490,True,"Run on the road looking for bps not hurting anyone and die, spawn and die overall good dying simulator"
-2015-06-24,730,True,10/10 IGN
-2015-12-28,4570,True,"A classic although i have not spent much time playing on this account, i gotta say it brings back some good memories when i used to play it"
-2015-12-28,236390,True,"Amazing f2p game and is not a play to win game at all, you can grind this game to get your favourite plane even though it may take some time"
+posted,item_id,recommend,sentiment_analysis
+2015-12-28,4000,True,1
+2015-12-28,220440,True,2
+2015-12-28,252950,True,0
+2015-12-28,34330,True,2
+2015-12-28,385800,True,2
+2015-12-28,252490,True,2
+2015-06-24,730,True,1
+2015-12-28,4570,True,2
+2015-12-28,236390,True,1

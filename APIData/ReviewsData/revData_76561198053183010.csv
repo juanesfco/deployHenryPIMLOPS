@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-12,105600,True,"So i pick up this game a little while agoYeh, its ok"
-2016-04-02,94400,True,what am I doing with my life
-2016-04-02,346110,True,Spinos make me want to ♥♥♥♥ing kill myself10/10
+posted,item_id,recommend,sentiment_analysis
+2015-11-12,105600,True,1
+2016-04-02,94400,True,1
+2016-04-02,346110,True,1

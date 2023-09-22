@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-13,236430,True,10/10 would get a semi heart attack from arachnophobia on Freja again
-2013-12-03,49520,True,"Simplesmente um dos melhores jogos que eu já joguei na minha vida,em todos os aspectos. é um jogo fenomenal.Fora isso não tem muito a dizer, o jogo não peca em nada."
-2013-08-11,620,True,simplesmente Valve.
+posted,item_id,recommend,sentiment_analysis
+2014-11-13,236430,True,1
+2013-12-03,49520,True,2
+2013-08-11,620,True,1

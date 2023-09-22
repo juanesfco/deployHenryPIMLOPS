@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-17,282440,True,"This the the best game ever made, If you want a game that is purely skill and stragety play this. Games like COD/Battlefeild/L4D2  takes no skill or stragety to win. People are so amazed when someone gets a Air- Rocket kills in TF2, wait untill you play this. I would recommend this game any time of the week. It is my favorite game of all time"
-2014-10-10,273110,False,there are no australian servers.... kinda rascist
+posted,item_id,recommend,sentiment_analysis
+2014-09-17,282440,True,2
+2014-10-10,273110,False,1

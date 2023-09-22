@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-09,339230,False,this game is fun and very immersive however there seems to be a massive bug where it gives you several rubble/ blockades to use c4 on but i and others have worked out that it doesn't supply enough c4 for all these also there is next to no where if any to locate more piles of c4.
-2015-10-15,349700,True,This game is 10x better then ISS on steam and did i mention the ftp (Free To Play) aspect is so much better then downloading or buying a game your unsure about.
-2013-11-26,226700,True,great game but to many hackers and duplicators!
-2013-12-12,209160,True,great game but not for noobs!
+posted,item_id,recommend,sentiment_analysis
+2015-09-09,339230,False,1
+2015-10-15,349700,True,2
+2013-11-26,226700,True,2
+2013-12-12,209160,True,2

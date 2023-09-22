@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-06,271590,False,No mods = crappy game
-2016-04-18,372000,True,"This game is awesome, especially if you were a fan on RO. I can't stop playing"
+posted,item_id,recommend,sentiment_analysis
+2015-05-06,271590,False,0
+2016-04-18,372000,True,2

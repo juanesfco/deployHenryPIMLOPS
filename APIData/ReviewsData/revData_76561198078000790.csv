@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-25,730,True,Hot game. Got angry so its good
-2014-02-06,206500,True,yes
-2014-10-08,221100,True,sexy
-2014-11-24,238960,True,This game is sexy #swag my yolo engine
+posted,item_id,recommend,sentiment_analysis
+2015-11-25,730,True,1
+2014-02-06,206500,True,1
+2014-10-08,221100,True,2
+2014-11-24,238960,True,1

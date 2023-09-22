@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-28,105600,True,It's alright I suppose...
-2016-06-15,306130,True,Fun and interesting way to remove hours from your life and add them to the game counter.
-2015-12-25,242680,True,rip cuz
+posted,item_id,recommend,sentiment_analysis
+2016-02-28,105600,True,1
+2016-06-15,306130,True,2
+2015-12-25,242680,True,1

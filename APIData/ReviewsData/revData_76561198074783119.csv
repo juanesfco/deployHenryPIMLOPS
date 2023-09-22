@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-06,211820,True,One of the best sandbox games ever
-2015-08-31,380600,True,A very realistic fishing game with very good graphics. I r8 8/8 m8
-2015-06-18,22380,True,Like Skyrim with guns. 10/10 - IGN
-2014-10-18,252490,True,I used a blunt rock to cut chicken out of a pig. 10/10
+posted,item_id,recommend,sentiment_analysis
+2013-12-06,211820,True,2
+2015-08-31,380600,True,2
+2015-06-18,22380,True,1
+2014-10-18,252490,True,0

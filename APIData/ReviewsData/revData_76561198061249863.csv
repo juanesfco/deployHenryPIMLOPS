@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-22,234670,True,"If you like Naruto, you will love this gameIf you don't like Naruto, buy it anyway"
+posted,item_id,recommend,sentiment_analysis
+2014-06-22,234670,True,2

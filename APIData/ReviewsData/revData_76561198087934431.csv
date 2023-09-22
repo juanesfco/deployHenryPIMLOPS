@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-27,250900,True,You will probably end up shooting yourself before you complete this game. Worth.
-2014-08-02,304930,True,Almost as good as cocaine.
+posted,item_id,recommend,sentiment_analysis
+2014-11-27,250900,True,1
+2014-08-02,304930,True,2

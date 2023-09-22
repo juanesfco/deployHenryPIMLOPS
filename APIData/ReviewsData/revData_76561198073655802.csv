@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-08,440,False,"This wasn't the TF2 I played 2 years ago.Should have renamed it like:Team Fortress: Counter-Strike EditionCounter-Strike: Team Fortress EditionTeam Fortress: Global OffensiveCounter-Strike: Cartoon EditionCounter-Strike: Hat Simulator EditionCounter-Strike: Class Editionor any names that you can think of from the present TF2Come on Valve, TF2 is a different gameDon't turn this game into CSGOShame on you volvo.No original ideas, only gets content from other games"
-2015-04-15,570,True,Dota...A game of unequal distribution of professional players and noob players.A game where you can find people blaming teammates until proving he is good.The only game of Valve that can start war between noobs and pros from ragingly blaming team for a houe.I recommend this game for patient people and doesn't rage easily so beware :)
+posted,item_id,recommend,sentiment_analysis
+2016-07-08,440,False,1
+2015-04-15,570,True,1

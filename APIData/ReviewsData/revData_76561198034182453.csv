@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-02-11,230410,True,this game is now my life screw tf2 play this game :)))))))))))))))) wud bang bumchacho in bum 1/10 times
-2015-11-15,373680,True,Its a sick sick sick sick sick game :)
-2013-11-29,72850,True,An amazing game great fun!
-2012-01-30,440,True,Very Good Amazing Game! Its not like CoD or BF3 Its a fun game that sucks you in for hours and hours :D Well recommended. An amazing free to play game!
+posted,item_id,recommend,sentiment_analysis
+2016-02-11,230410,True,0
+2015-11-15,373680,True,0
+2013-11-29,72850,True,2
+2012-01-30,440,True,2

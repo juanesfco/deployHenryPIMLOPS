@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-19,331470,True,"This is one great game. I almost cried at the Alisa good end, the story telling is just so great.I rate 10/10"
-2016-09-02,449800,True,"I swear, this game is amazing. It's a great game to pass time as well as to grind to get those S's and Acheivements. Even though it can be a bit repetitve I found it quite fun! The two things I disliked was the keyboard/gamepad because really in all honesty, you need a controller & the other thing is the voice chat in multiplayer. The voice chat is forced and you can't mute people or turn it off. Other than those complaints that I have, it is a very great game through & through. I like how it covers the first season of the Anime and some content from the Manga. Great Game"
+posted,item_id,recommend,sentiment_analysis
+2016-02-19,331470,True,2
+2016-09-02,449800,True,2

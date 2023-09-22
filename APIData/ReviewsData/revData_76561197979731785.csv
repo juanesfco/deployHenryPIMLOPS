@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-07,236430,True,Played a few hours. It's not bad.
-2014-01-08,252490,True,"Hackers abundant. Despite this however it is a stellar game with almost limitless potenial. THE most polished Alpha i've ever had the pleasure of playing, this game is only going to get better. Goty 201X mark my words."
-2015-09-10,335300,True,"This is the definitive Dark Souls II Edition. Basically, it's 'Prepare to Die', but for Dark Souls II . . .except better!Seriously. If you're on the fence? Get it."
+posted,item_id,recommend,sentiment_analysis
+2015-02-07,236430,True,1
+2014-01-08,252490,True,2
+2015-09-10,335300,True,0

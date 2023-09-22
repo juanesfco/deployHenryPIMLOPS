@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-28,730,True,Good game.
-2016-04-09,388090,True,Gave me cancer and a failing heart 19/87 would sell my soul to freddy again.
-2014-11-24,1250,True,it alright
+posted,item_id,recommend,sentiment_analysis
+2016-01-28,730,True,2
+2016-04-09,388090,True,1
+2014-11-24,1250,True,1

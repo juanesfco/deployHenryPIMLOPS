@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-23,245550,True,Great Documentary!
-2014-11-04,250900,True,It definetely needs some getting used to from the epic original The Binding of Isaac but nonetheless... This is an epic upgrade on visuals and on the game engine itself - I have been able to run the game much longer than the original without performance issues and a solid fps! :D
-2012-09-27,570,True,This is a nice MOAB game.I prefer it to LoL for it's originality and interface but that is just my personal opinion.I highly recommend this game!
+posted,item_id,recommend,sentiment_analysis
+2014-03-23,245550,True,2
+2014-11-04,250900,True,2
+2012-09-27,570,True,2

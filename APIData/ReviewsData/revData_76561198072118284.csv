@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-05,377160,False,"63 hours, bethesda.I loved this gamelovedIt now crashes every. single. time I try to playI was going to give this game a good reviewFix your ♥♥♥♥ing game bethesda"
-2015-07-18,243870,False,"This used to be a good game, before the infinity ♥♥♥♥ came out"
-2016-01-30,262060,True,My highwayman has known cheat and gambler10/10 My leper only has negetive quirks related to ranged attacks
-2015-05-29,374570,True,"Best 30 minutes of my life ever. It deserves all of the awards, medals, achievements, and prizes on earth.ten...thousand out of ten"
+posted,item_id,recommend,sentiment_analysis
+2015-12-05,377160,False,2
+2015-07-18,243870,False,2
+2016-01-30,262060,True,1
+2015-05-29,374570,True,2

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-11-22,302830,False,My friend said this was a good game. I then remembered they had low standards when i booted this game up
-2016-06-04,245170,True,big band can eat it
-2016-08-01,263300,True,Noel is best girl
-2016-03-23,282900,True,This is like if the gameplay Neptunia Victory was slapped onto the original story (except that its completely redone) but it makes you underleveled faster than Victory.But the story and characters are what makes the game (or entire series) a worthwhile experience.
-2016-06-23,730,True,-Hiring Now For A Silver Squad-
-2016-01-11,304930,True,"Eh, it's ok"
-2015-10-20,218620,True,THEY REMOVED MICROTRANSACTIONS!!! REJOICE!!!!!!!!!!!!
-2015-07-02,326480,True,Could've dated a disabled girl but I went for the childhood friend instead.10/10 would restoration patch again.
-2015-06-23,620,True,didn't get me pc version for free with the ps3 one.but i managed coop anyway10/10
-2015-06-12,550,True,Jumped into the first level.Charger push off the building.Instantly Died.10/10 Would Fall Again
+posted,item_id,recommend,sentiment_analysis
+2015-11-22,302830,False,1
+2016-06-04,245170,True,1
+2016-08-01,263300,True,2
+2016-03-23,282900,True,2
+2016-06-23,730,True,1
+2016-01-11,304930,True,2
+2015-10-20,218620,True,1
+2015-07-02,326480,True,0
+2015-06-23,620,True,2
+2015-06-12,550,True,2

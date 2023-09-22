@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-25,730,True,Was that a headshot? No? A body shot? No? A leg shot? Oh wait I died already.
-2015-10-25,570,True,I hope nobody minds these 100 rapiers that I bought for myself and carry in 50 backpacks. 10/10
-2015-10-25,238960,True,Would play as exalt again. 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-10-25,730,True,1
+2015-10-25,570,True,1
+2015-10-25,238960,True,1

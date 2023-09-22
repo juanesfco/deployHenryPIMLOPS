@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-09-30,299360,True,lol and i was about to buy it
-2014-03-24,206500,True,you shood pot in a drop ship mech
-2015-02-06,342980,True,ad drills and when all the enemys are kill on the planet it will have  buildings
-2015-04-13,440,True,i like it
-2015-11-19,244850,True,if this comes on xbox one im going to die.when the game is finish of course.
-2015-04-24,340810,False,my games froze and then i exited and its cep on saying lost connetction
-2015-10-04,218620,True,please add weapon skin customization
-2014-10-29,307290,False,its not leting me play
+posted,item_id,recommend,sentiment_analysis
+2015-09-30,299360,True,2
+2014-03-24,206500,True,1
+2015-02-06,342980,True,1
+2015-04-13,440,True,1
+2015-11-19,244850,True,0
+2015-04-24,340810,False,1
+2015-10-04,218620,True,1
+2014-10-29,307290,False,1

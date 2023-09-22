@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-18,304930,False,"If you want a game that's like DayZ where you also get killed  being newly spawned in by kitted out players for no reason, has an overrall worse fanbase with even younger players who don't know the meaning of teamwork, and with constant hackers to boot, this is the game for you!"
-2013-07-17,225160,True,"Very challenging, but rewarding old-school shooter, with an awesome variety of weapons. One of the harder Build engine games, though."
-2013-05-17,440,True,hud_saytext_time '0'  & voice_enable 0.
-2012-03-24,1250,True,DOSH.
+posted,item_id,recommend,sentiment_analysis
+2014-07-18,304930,False,0
+2013-07-17,225160,True,2
+2013-05-17,440,True,1
+2012-03-24,1250,True,1

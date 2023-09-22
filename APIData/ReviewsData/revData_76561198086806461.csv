@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-04,233720,True,10/10 For Ripping A Man's Heart Out!
-2015-06-04,223470,True,"Let The Flowers Grow People, Cause This Game Is Awesome! (If Your Old Enough.) 10/10 For Urinating On People!"
-2015-06-04,213670,True,ThIs Game Is Hilariously Silly! It Has Almost Everything From Nazi Zombies To Your Parents...... Forget That Part. I Love The Start Gives You To Choose Pick Hair.... Pick Haaaaiiiiirrr. It's Great. If Your Old Enough. Please Go And Try It!
+posted,item_id,recommend,sentiment_analysis
+2015-06-04,233720,True,1
+2015-06-04,223470,True,2
+2015-06-04,213670,True,1

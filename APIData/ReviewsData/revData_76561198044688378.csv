@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-22,250500,True,Such a fun game and really cheap
-2012-06-15,41500,True,yes best game ever can not wait untill  the second one comes out
+posted,item_id,recommend,sentiment_analysis
+2013-12-22,250500,True,1
+2012-06-15,41500,True,2

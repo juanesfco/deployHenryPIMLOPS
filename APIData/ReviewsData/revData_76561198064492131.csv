@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-28,322330,True,"Woody turns into a beaver, eats camp.WX-78 stands near bushes during a storm, sets camp site on fire.20/10"
-2013-12-07,219740,True,CO OP would be awesome! And the ability to build a house maybe- Different game mode something like minecraft?
+posted,item_id,recommend,sentiment_analysis
+2015-02-28,322330,True,1
+2013-12-07,219740,True,2

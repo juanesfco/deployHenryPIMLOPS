@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-12,730,True,Chicken killing simulator 2015 10/10
-2016-03-04,437220,True,is good but...... is good
-2015-12-24,219640,True,thus timoth and thou killuth meuth
-2015-11-22,417860,True,Holy ♥♥♥♥ that was sadGoodbyeGoodbyeGoodbye♥♥♥♥ Brad :c
-2014-01-10,236390,True,Super amazing it's free and you don't need to use micro transactions to get by!!
-2015-10-04,570,True,Missing top
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,730,True,0
+2016-03-04,437220,True,2
+2015-12-24,219640,True,1
+2015-11-22,417860,True,0
+2014-01-10,236390,True,2
+2015-10-04,570,True,2

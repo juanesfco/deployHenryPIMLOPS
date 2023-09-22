@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-11-04,250900,True,"this game is amazing! would rate it a 10/10, if it wasnt for the the fact that it is breaking my computer. Runs fine, the it stops me from playing where everything else keeps on chasing after me, dealing damage to me, and ending up in me dieing..."
+posted,item_id,recommend,sentiment_analysis
+2014-11-04,250900,True,2

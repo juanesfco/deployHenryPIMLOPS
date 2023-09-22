@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-21,211820,True,11/10 Destroyed my social life.
-2015-12-31,230410,True,Not Bad
-2014-09-09,224260,True,"My Friends and I attempted 15 times on different maps  and never finished any, no more room in hell for us. 11/10"
-2015-03-26,273350,False,"Too repetitive and gets really boring, definitely not worth it above $20."
-2015-10-05,232090,True,I NEED SOME DOSH HERE!
-2013-12-26,550,True,ONE OF THE BEST! EVAAAAAAAAAAAAAAAAH <3333
-2013-11-28,105600,True,Awwwwweeesommmeeeeeee!!!! Terraria Is Da Best!
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,211820,True,1
+2015-12-31,230410,True,2
+2014-09-09,224260,True,0
+2015-03-26,273350,False,0
+2015-10-05,232090,True,1
+2013-12-26,550,True,2
+2013-11-28,105600,True,2

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-09-02,209000,True,I'm Batman
-2014-03-04,440,True,HatsHats everywhere
-2014-02-20,49520,True,9/10
-2014-09-24,6880,True,"On the first level, get run over by the carTries again, same thing happens.10/10"
-2014-09-27,620,True,"99% of the 32,159 people gave this a positive.Congrats Valve"
-2014-09-02,218620,True,Overkill have listened to the community and  removed microtransaction
-2014-07-21,730,True,2 good 4 me
-2014-03-10,264200,True,It's a face paced game 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-09-02,209000,True,1
+2014-03-04,440,True,1
+2014-02-20,49520,True,1
+2014-09-24,6880,True,2
+2014-09-27,620,True,1
+2014-09-02,218620,True,1
+2014-07-21,730,True,2
+2014-03-10,264200,True,0

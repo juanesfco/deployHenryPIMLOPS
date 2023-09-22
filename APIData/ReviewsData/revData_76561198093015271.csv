@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-24,252950,True,nice game play
-2015-02-20,440,True,เป็นเกมส์ฟรีที่สนุกมาก อย่างให้ทุกคนมาเล่นด้วยกัน
-2015-10-21,24240,True,สนุกมาก
+posted,item_id,recommend,sentiment_analysis
+2016-04-24,252950,True,1
+2015-02-20,440,True,2
+2015-10-21,24240,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-02-03,32370,True,"For those that haven't played this game yet.If you like:-The Dragon Age series-The Mass Effect series-The Star Wars universe & lore-A battle system similar to the one used in Final Fantasy 12 (Queueing actions + turn based in real time)-A good balance between gameplay and storyIf you don't mind:-Old, dated graphics -Having to configure & mod the game in order to play on modern PCsWTF are you doing? Buy this !@#$ already."
-2015-10-22,319630,True,"Life Is Strange man... The feels...What a pleasant surprise.I did not expect the game to be this good. Or so impactful.For those that like graphic adventure / drama games.Play this game. Seriously. It's quirky, weird and surprisingly endearing. It's one of the best 'games' of 2015."
-2015-07-21,208580,True,"Meatbag!A new update to the game after 10 years? Awesome.Like the first game, this is a must play for Star Wars & RPG fans.Before starting a new game make sure you have the Restored Content Mod installed from the Steam Workshop as it adds a bunch of cut content from the original release.With the Restored Content Mod installed, this game is arguably as good as if not better than KOTOR 1."
-2015-10-28,330830,True,Telltale you magnificent b@#t$^ds!TFTB is set after the events of Borderlands 2 and features characters from the previous games.Storywise its by far and away the best in the Borderlands series. The new characters are so damn likeable.Whether you love it or hate it there's one thing you cannot deny about this title.The opening credits for each episode are amazing.
-2015-01-19,294860,True,"-Played the demo on PSN before it's release, liked it.-Played the game when it was released on PS3 in 2008, loved it.-Played the game again on PC in 2015, still love it.Remains one of the most enjoyable games I've ever played.Surprisingly great port by SEGA, no issues at all."
+posted,item_id,recommend,sentiment_analysis
+2015-02-03,32370,True,1
+2015-10-22,319630,True,2
+2015-07-21,208580,True,1
+2015-10-28,330830,True,2
+2015-01-19,294860,True,2

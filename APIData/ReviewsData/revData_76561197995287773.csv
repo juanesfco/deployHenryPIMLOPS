@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-18,233110,False,Tower defence with rather standard level design and tower design. Levels dont seem very balanced as some require you to sell/build to mess with the pathing of the attackers.Game seems like a bad console port and as I was on my last 2 achievements the game crashed and reset my progress.
-2016-07-16,322910,False,"Great concept of a game, Seems to be a perfect mix of chess and warhammer 40k.Although I would not recommend this game as it seems the AI is completely broken, 3/8 missions and the AI couldn't process any moves and the match would freeze.I once had 3 marines with a 95% hit chance attack a single orc and all 3 missed. Misses seem to happen far to often.If the Devs did some work fixing the bugs in this game it would be great but considering these large bugs nearly a year after release I would suggest not buying it unless you only want it for the multiplayer."
-2014-12-26,276340,True,BEST GAME EVER
+posted,item_id,recommend,sentiment_analysis
+2016-07-18,233110,False,0
+2016-07-16,322910,False,2
+2014-12-26,276340,True,2

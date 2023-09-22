@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-11-25,239820,True,Great Game.
-2016-04-20,440,False,chef
-2016-06-29,730,False,"Daily crashes during competitive matches for which you get a ban if you don't rejoin, had to validate game cache during a competitive match today and yesterday. You've had enouigh time and money to fix this broken game for a while valve, now stop flipping off your customers and do it."
+posted,item_id,recommend,sentiment_analysis
+2013-11-25,239820,True,2
+2016-04-20,440,False,1
+2016-06-29,730,False,0

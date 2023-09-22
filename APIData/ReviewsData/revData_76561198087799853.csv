@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-12,261980,False,Never have I seen level design so awful
-2016-05-17,265930,True,wow im glad i spent mommys money on this and not my own
-2016-08-08,434570,True,hell yeah
-2013-12-26,550,True,"I got the GabeN flashlight mod for this game, makes it 100x better"
+posted,item_id,recommend,sentiment_analysis
+2016-08-12,261980,False,0
+2016-05-17,265930,True,2
+2016-08-08,434570,True,1
+2013-12-26,550,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-23,238460,True,Hit my friends a few times good stuff 10/10
-2014-12-12,213670,True,If you enjoy South Park and its humour you will like this
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,238460,True,2
+2014-12-12,213670,True,2

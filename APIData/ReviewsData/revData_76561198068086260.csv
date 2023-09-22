@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-04-13,72850,True,The benchmark of the Open World RPG. Little can be said on Skyrims shortcomings as the game is an experience that any 'Gamer' should have. The world is alive and it is easy to forget the quests and become a participant in the communities of Skyrim. The game is a brilliant time-sink and it is very easy to rack up hundreds of hours of gametime. The addition of thousands of user created mods enhance your game to your liking. The modding community is active and creative and is constantly producing new and interesting mods that add hours of fun to Skyrim.I cannot speak more highly of a game.
-2014-04-13,257750,True,Rage inducing platformer that leaves a bloody reminder of how terrible you are after each restart. Great game to play with friends. WARNING! Homicidal Tendencies are amplified during your play through. The game does not hold your hand which is to be commended. A real sense of accomplishment is felt after completing the tougher stages which I have found to becoming less present in todays Video Games. Highly Recommended.
-2013-08-12,8870,True,Easily the most enjoyable First Person Shooter I've ever played. Complete immersion in this game is easy to achieve as you cannot but marvel at the dynamic landscapes and cinematic environments. The world of Bioshock Infinite is alive and you are subconsciously drawn into exploring the side streets and alleys for side quests and cash. 10/10 An Amazing Game.
-2013-08-12,208500,True,"Solid Gameplay, Fun Career, Great Graphics are all for naught when you get a 10 place grid penalty for unsportsmanlike conduct. All the frustrating trimmings that makes Formula 1 as tough and entertaining as the real thing. Great game 10/10"
-2013-08-12,44320,True,"Codemasters have done it again!, They are incapable of producing a bad racing game. 10/10 A+ 5 Stars, Loads of Fun."
-2013-08-02,8930,True,Great turn-based strategy game. Highly Recommended. Very easy to sink many hours into.
-2013-07-28,221380,True,This.
-2012-11-13,202970,True,Sam get this game.
+posted,item_id,recommend,sentiment_analysis
+2014-04-13,72850,True,2
+2014-04-13,257750,True,0
+2013-08-12,8870,True,2
+2013-08-12,208500,True,2
+2013-08-12,44320,True,0
+2013-08-02,8930,True,2
+2013-07-28,221380,True,1
+2012-11-13,202970,True,0

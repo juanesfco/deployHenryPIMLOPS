@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-02-01,201830,True,hey guys this is a great game so i think you would like it
-2014-10-07,440,True,this is a great game for nayone who likes first person shooters but be warned IT IS ADDICTIVE AS ALL HELL!!!
-2013-03-12,49540,True,hey guys if you like AVP you will love this apparently its bad but i dont think thats right so get it if you can soo...bbbbbbbbbiiiiiiiiiiiieeeeeee
+posted,item_id,recommend,sentiment_analysis
+2013-02-01,201830,True,2
+2014-10-07,440,True,2
+2013-03-12,49540,True,1

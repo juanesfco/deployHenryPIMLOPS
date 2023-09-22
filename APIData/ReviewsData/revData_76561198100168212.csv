@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-07,252490,True,This is a great game wit fwends i gr8 b8 m8 i r8 8/8 (●￣(ｴ)￣ ●)
-2015-03-22,255710,True,Probobly the best city game i've played in a long time 8/8 M8 :)
-2014-12-10,301520,True,This is a fun and exciteing PVP robot arena with tons of desings to make. very impresssive game :D
-2014-11-01,230410,True,"This is probably one of the most fun, amazing and swagalisious games i've ever played. This game is also free and has lots of options to do in it with a wide range of an arsenal to pick from. ill say this game is a near perfect game (besides the bugs, GRRR!) ill give it a 10 outa 10 :D"
+posted,item_id,recommend,sentiment_analysis
+2015-04-07,252490,True,2
+2015-03-22,255710,True,2
+2014-12-10,301520,True,2
+2014-11-01,230410,True,1

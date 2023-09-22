@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-13,12510,False,"I was recently diagnosed with gonorrhoea, although the itching is unbearable and urination feels like fire is exiting through my urethera, it is still a far more pleasant experience than playing this game."
-2015-11-15,312780,False,"This game looks like it would be a lot of fun to play, that's why i bought it but i'll never know because it doesn't run.I've tried installing physx, i've tried installing windows vcredist_x64.exe (because when i run the game i get a msvcr100.dll error) and i've tried running it in various different compatability modes and still, the game wont load. Either i get the msvcr100.dll error or it just opens and closes right away.I don't know if this is a windows 10 only problem, it might run better on older versions of windows, but unless you're really eager to play this title or are incredibily proficient in programming, i'd give it a miss. Based on the fact that they have a stickied thread for work arounds and I found a few other threads made by others who can't run this game, my guessing is this port is very hit and miss for who it will work for."
+posted,item_id,recommend,sentiment_analysis
+2016-01-13,12510,False,2
+2015-11-15,312780,False,1

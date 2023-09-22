@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-01,227940,True,Hmm MLG P2W game that obviously has tanks and a shitenugget of a US plane. 11/10 would fly to bangkok again
-2014-08-08,227680,True,♥♥♥♥ING REMOVE PVP
-2015-07-17,215470,True,"Game is pretty bad, on games i actually find there are tons of MLG wannabes that want to make fun of you and there is a really short character limit too and sometimes i even have to restart to find servers with people in them. Overall, i give it a 5/10"
+posted,item_id,recommend,sentiment_analysis
+2015-08-01,227940,True,2
+2014-08-08,227680,True,1
+2015-07-17,215470,True,1

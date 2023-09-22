@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-10-08,370020,True,"Templar Battleforce - Review : Omni HorizonTemplar Battleforce - Review: By Andrew Salfinger Rating: 8/10“Templar Battleforce is a must have for all fans of tactical strategy games!” ~ Omni HorizonHello, my name is Andrew from Omni Horizon, Below you will find our first video game review.Read the review @ LINK REMOVED"
-2015-03-17,20500,True,"Got this game yesterday when it was on sale and it brings back so many memorys of this game, but it's the first time playing in on PC I used to rent it from my local video store for the Xbox 360 and fill in love, and I fill in love with it all over again.Red Faction Guerrilla is a greate game and is a must have for FPS / sci fi and if you loved games like Half Life then I bet you will love it."
+posted,item_id,recommend,sentiment_analysis
+2015-10-08,370020,True,1
+2015-03-17,20500,True,2

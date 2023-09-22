@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-02,250180,True,must get use to play in arcades now its just awsome on pc
-2014-03-02,209870,True,very fun needs ways to earn coin quicker other then that very fun its a must play
-2013-12-18,221100,True,mad fun worth it ;
-2014-01-28,222880,True,mad game a must get ;)
+posted,item_id,recommend,sentiment_analysis
+2014-03-02,250180,True,1
+2014-03-02,209870,True,2
+2013-12-18,221100,True,1
+2014-01-28,222880,True,0

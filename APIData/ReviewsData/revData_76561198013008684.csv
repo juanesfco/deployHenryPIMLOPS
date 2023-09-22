@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-07-20,219640,True,"Pick your weapon of choice and hack, slash, smash and/or bludgeon your way through your enemies. Multiplayer is the main focus of the game, single player bots are horrible. A little buggy but great visuals and overall gameplay. On a side note: be wary of archers."
-2013-06-14,35450,True,Quite easily one of the best FPS games out there. Nothing beats machine gunning hordes of Russian troops or Banzai charging American defences through the cover of smoke. 10/10 would bang.
+posted,item_id,recommend,sentiment_analysis
+2013-07-20,219640,True,0
+2013-06-14,35450,True,2

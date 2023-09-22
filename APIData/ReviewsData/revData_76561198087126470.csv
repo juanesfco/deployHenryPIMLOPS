@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-10,428220,True,"Español:Muy buen juego de plataformas, casual, en el que vas viajando a través de los cables de electricidad de la ciudad. Es una idea bastante original, y el juego engancha. La dificultad va aumentando poco a poco, y solo me queda decir que lo recomiendo, desde luego.Inglés:Very good platform, casual game, where you travel trough the electric wires of the town. It's a very original idea, and the game captures us. The difficulty, in addition, increases gradually, and I only have to say that I recommend it, of course."
-2016-04-02,406310,False,"I love that type of games, but... If there aren'r any player online to play with... this game make the same function than a rock on the road, nothing. The developers should add a single player. If not... this game will be forgotten"
-2016-07-08,348340,True,"Cuando lo empecé a jugar me recordó bastante al Angry Birds. Pero el juego en sí me gusta. Además va subiendo de nivel paulatinamente, lo cual es de agradecer. Solo llevo una hora y algo jugando, pero lo recomendaría."
-2016-04-09,247020,True,"Llevo bastantes horas jugadas, y la verdad es que el juego vicia muchísimo, donde empiezas con un mero bar de carretera y acabas con un lujoso restaurante, actualizando comidas, comprando nuevas, y con muchos extra. Lo recomiendo, aunque el modo extremo es mi tarea pendiente, si lo juegan, sabrán por qué."
-2015-11-18,378850,True,"Jugué un rato y no estuvo mal. Juego retro que en principio da diversión. Así que para jugar un ratillo de vez en cuando cuando uno está aburrido, está bastante bien"
+posted,item_id,recommend,sentiment_analysis
+2016-07-10,428220,True,1
+2016-04-02,406310,False,1
+2016-07-08,348340,True,0
+2016-04-09,247020,True,0
+2015-11-18,378850,True,1

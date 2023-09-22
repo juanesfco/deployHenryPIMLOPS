@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-27,265120,True,would like the game more if there was multiplayer or co-op
-2014-11-30,233250,True,game keeps crashing as soon as the title screen appears can anyone help me
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,265120,True,1
+2014-11-30,233250,True,0

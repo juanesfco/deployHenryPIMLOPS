@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-17,255710,True,Cities Skylines is a definite must-play for the city builders who are keen on building that awesome one of a kind city. The gameplay is assertively robust and gives you that pat on the back to do more. It could use more city polices and more base models but I found the game definitely awesome. 4/5 Stars.
-2014-07-20,297810,True,"Landmark is a creative and innovative game, whilst not perfect, it gives more flexibility to one's imagination in terms of gameplay that aren't just constrained by the boundaries of common engines. I recommend this game to anyone who enjoys creating, exploring and crafting. Will be excited for future updates!"
+posted,item_id,recommend,sentiment_analysis
+2015-05-17,255710,True,2
+2014-07-20,297810,True,1

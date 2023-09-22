@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-06,440,True,"one of the best games that i have ever played in my life.its great collecting new weapons and hats, and always alot of fun to play online or offline, by yourself or with friends.9.5/10"
-2014-10-25,218620,True,"if you dont get it, your crazy or theres somting wrong with you10/10"
-2014-10-06,265550,True,"hell fun to just hack and slash and blow up zombies to your hearts content.the only problem with it is the lag, you need a pretty decent computer to run this game properly.for that I give it around a 7/10 or maybe less"
+posted,item_id,recommend,sentiment_analysis
+2014-10-06,440,True,2
+2014-10-25,218620,True,0
+2014-10-06,265550,True,1

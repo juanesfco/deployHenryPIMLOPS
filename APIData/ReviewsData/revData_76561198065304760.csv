@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-27,295110,False,Sucks nuts
-2015-09-06,232090,True,10/10 Would allah another outpost
+posted,item_id,recommend,sentiment_analysis
+2015-09-27,295110,False,0
+2015-09-06,232090,True,1

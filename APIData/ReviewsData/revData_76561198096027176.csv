@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-20,291010,False,This game gave me suicidal thoughts.Worst game I have ever played.Don't waste your time or money on this.
-2015-06-12,8870,True,Amazing.
-2015-04-25,7670,True,pure gold
-2015-03-23,214933,True,Absolutely amazing. I highly reccomend this. One of the best DLC's i've ever seen so far. 2K should be proud.
+posted,item_id,recommend,sentiment_analysis
+2015-07-20,291010,False,0
+2015-06-12,8870,True,2
+2015-04-25,7670,True,2
+2015-03-23,214933,True,2

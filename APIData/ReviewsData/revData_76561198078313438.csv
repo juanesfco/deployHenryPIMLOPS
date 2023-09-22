@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-16,107410,True,"+Solid game, etremley in-depth action and lots of scenarios to play by your self or in a team online. +Graphics are great if you can run it well-Glitchy at times -Not easy to learn every control "
-2014-07-26,304930,True,"Great experience, very good for being in early access. I love the attention to detail in most of the apsects in the game, the reloading of ammunition is a nice touch and the vehicles are fun. Love the style of graphics, dont change it too much please!"
-2014-01-20,261030,True,"Highly intense action scenes. Very interactive and one of the best games I've ever played. I highly reccomend this game to anyone that enjoys a bit of zombie killn' and a compelling story line. I'm not sure if this season will be better than the last, but I can already see some great character development in Clementine."
+posted,item_id,recommend,sentiment_analysis
+2014-12-16,107410,True,1
+2014-07-26,304930,True,2
+2014-01-20,261030,True,2

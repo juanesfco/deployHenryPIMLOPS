@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-03-25,306130,True,it is good
-2016-05-31,364360,True,best game ever 10/10
-2015-12-12,730,True,team based game no team work go back to cod
-2015-04-11,335300,True,good game 10/10
-2015-11-11,377160,True,love this game 10/10 need more Drugs
-2015-06-18,339800,True,boobs and boobs and boobs and more boobs
-2015-04-10,319630,True,good game 10/10
-2014-09-18,440,True,yes
+posted,item_id,recommend,sentiment_analysis
+2015-03-25,306130,True,2
+2016-05-31,364360,True,2
+2015-12-12,730,True,0
+2015-04-11,335300,True,2
+2015-11-11,377160,True,2
+2015-06-18,339800,True,2
+2015-04-10,319630,True,2
+2014-09-18,440,True,1

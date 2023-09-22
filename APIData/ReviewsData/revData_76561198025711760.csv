@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-03-15,261570,True,"This game was simply amazing- Game handled very well- It is stunningly beautiful- The sound track was very very good- Difficulty of the game was fairOnly compaint I had was with a small bug in the game - Appears some people have issues with the game running in slow motion if you play at 1080p resolution - System easily meets the requirements but the game ran in slow motion at 1080p, dropped it to 720 and worked perfectly. Well done Moon Studios!"
+posted,item_id,recommend,sentiment_analysis
+2015-03-15,261570,True,1

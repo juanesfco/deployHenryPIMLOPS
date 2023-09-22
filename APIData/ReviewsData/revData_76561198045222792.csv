@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-11,221100,True,"I spawn and died, oh the gruesome fate.10/10"
-2014-06-11,262150,True,I got wiped out in the first 7 seconds by a girl with a teddybear :U it was gruesome...BGM:10/10Girls:10/10Price:10/10and Pantsu's everywhere :U
-2014-05-10,214190,True,"Railgunned somone half way across the map, 10/10Also got cut by somone while crafting armor :DWill recommend!"
-2014-04-23,227160,True,"One of those games, that you wished for customised ship building fancy layouts, anything you want to your ship.This is the game for you, Worth the money in my opinion :)"
-2014-06-11,204880,True,"Space ponies!Sins of a Solar Empire Rebellion by far in my opinion, is the best RTS game i ever played, in terms of gameplay, graphics, empire building, all are good, got to love the galatic fleet battle parts as well as seeing your fleet get smacked from all directions.Its also quite challenging if you play with others alongside, spices up the heat of the game.11/10 will recommend.Best RTS game i ever played."
-2014-06-11,234160,True,"I blew up my own Strike Suit, after seeing all the other fighters launch from carriers, in which made me want to try and do the same.However not knowing i was grinding my Strike Suit i blew up while testing it, Woops.11/10 will recommend"
-2014-05-13,244850,True,"When having Asteroid settings on Unrealistic:Got Asteroid in the faceGot Asteroid in the Cockpit/Control roomGot Asteroid in the survivor shipGot Asteroid while building somthingAsteroids your best companion in space. 10/10Buy now before you regret choosing not too, personally worth my money to be honest, plus dev's make it pretty interesting each update:).Will recommend!"
+posted,item_id,recommend,sentiment_analysis
+2014-06-11,221100,True,0
+2014-06-11,262150,True,2
+2014-05-10,214190,True,0
+2014-04-23,227160,True,2
+2014-06-11,204880,True,2
+2014-06-11,234160,True,2
+2014-05-13,244850,True,2

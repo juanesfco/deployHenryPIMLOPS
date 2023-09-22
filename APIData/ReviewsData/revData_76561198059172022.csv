@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-03-01,218620,True,Pretty good for 20 hours at least
-2014-09-30,254440,False,"No, just NO"
-2014-12-19,330840,True,"Decent, waiting to see how it goes in the next chapter though"
-2014-09-08,221380,True,Absolute Massacre!
-2014-09-08,233470,True,InterestingWorth buying when on sale!
-2014-04-25,4000,True,Pretty good
-2014-03-26,65800,True,Worth at least ten hours of fun. Great splitscreen co-op for local play
-2014-03-20,245550,True,"Inspiring, although it was a bit depressing to see some people gamble everything and lose"
-2014-03-01,72850,True,Amazing
+posted,item_id,recommend,sentiment_analysis
+2014-03-01,218620,True,2
+2014-09-30,254440,False,1
+2014-12-19,330840,True,1
+2014-09-08,221380,True,2
+2014-09-08,233470,True,1
+2014-04-25,4000,True,2
+2014-03-26,65800,True,2
+2014-03-20,245550,True,1
+2014-03-01,72850,True,2

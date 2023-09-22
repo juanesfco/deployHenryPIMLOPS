@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-11,301520,True,Totally AWESOME I love how you can craft your own bots  but I only wish you could sell your bots on the community market and arts
-2014-10-01,104700,True,the games brocken i could not even get in but if i could i think it would be good
-2014-10-01,226320,True,I like the game mostly I just you could change the view you see and there was offline i'am not saying I don't like fully online but some people want challenge of the game
-2014-10-01,440,True,Yeah it's a fun game I love the graphics love the weapons i love most things about this i just wish it had a better storyline
+posted,item_id,recommend,sentiment_analysis
+2015-04-11,301520,True,2
+2014-10-01,104700,True,2
+2014-10-01,226320,True,0
+2014-10-01,440,True,2

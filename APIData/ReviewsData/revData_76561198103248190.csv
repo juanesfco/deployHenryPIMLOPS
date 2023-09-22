@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-08-29,252490,True,"rust is an amazing game, fune to play with friends, by yourself or even with randoms. The fact that this game is quite unpredictable sometimes anything can happen good things or bad things. so far this game has really showed it's potential to a lot of gamers. this game is great fun i highly recommend getting this game."
-2015-10-24,243870,False,"hello there, oh your new ok well you can click the play button and join a lobby full of 5 year veterans that don't speak English, cool isn't it? tell all your friends and force them to play this PAY 2 WIN GAME! with the most f*#ked up controls and unfair matchmaking. but there's more join today and get an increased, yep increased price on all real cash items. so join today!"
-2015-09-08,291480,False,"fast paced game. maps are pretty small. you can basically cross map kill some one with a pistol. the hitmarkers are massive, as in covering the screen. i got killed because the hitmakers are massive it covered the enemy.pay to win filth! play like planetside 2 or CS:GO, even minecraft is better better than this filth. you will pay about $20 in total just buying essentials. don't get this filthy game!"
-2014-11-06,440,True,"team fortsess 2 is a fun game but, it can get boring after a long time. and it just doesn't seem that fun.(sometimes it is though especially with friends)"
-2014-05-17,570,True,just the best game in the world!
-2014-01-24,218230,True,this game is awesome!!!!!
-2015-10-01,391460,False,"WHAT EVER YOU DO DON'T GET THIS GAME! if you have seen the trailer it's fake! they got a pro player playing it (maybe even a developer). The hitboxes are a a massive lie! go get CS:GO instead heaps better game.browsing the steam store looking for a good game.i stumbled across a game call WARMODE i take a look at it, downloaded it because it only took 5 mins.i ask lord Gaben if this game comes in good, he only said sorry this game only comes in: can't launch game without crashing, 300 ping on every server (mainly because i live in Australia), can't access the main menu, can't access the options or faulty hitboxes.so basically the game comes in bad or really bad right?yeah pretty much, go play CS:GO instead of this filth!"
-2015-07-08,105600,True,this game is so awesome doesn't matter how many times you play it never get boring and especially with friends
-2014-12-12,240320,False,"i thought this game was like rift and other similar games. but no, when you start out you do an easy tutorial. then everyone one hit kills the crap out of you"
-2014-01-02,235400,True,dont play it unless you have facebook cause it kinda sucks so i deleted it
+posted,item_id,recommend,sentiment_analysis
+2015-08-29,252490,True,1
+2015-10-24,243870,False,2
+2015-09-08,291480,False,1
+2014-11-06,440,True,0
+2014-05-17,570,True,2
+2014-01-24,218230,True,2
+2015-10-01,391460,False,1
+2015-07-08,105600,True,1
+2014-12-12,240320,False,0
+2014-01-02,235400,True,0

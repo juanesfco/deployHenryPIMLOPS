@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-23,274940,True,"This is a really great game, when you get into the game you get a couple of scares from the sharks (If you play as the human) playing as the shark is also very fun."
-2015-06-06,346110,True,Ok this game is good but sadly its to laggy i guess you need a extreme good computer i even turned all the graphics down.... Could anyone help me?
-2016-02-25,386360,True,Great game been playing since beta nice to see it on steam
+posted,item_id,recommend,sentiment_analysis
+2015-07-23,274940,True,1
+2015-06-06,346110,True,2
+2016-02-25,386360,True,2

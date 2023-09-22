@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-15,4000,True,This game is brilliantly programed and desined. The work shop make it possible for people to spead the crazy ideas of what they created. The game modes in it have exeaded reputaion and has hightly saticfide me
-2013-12-09,200210,True,Amazing and action packed :)
-2014-10-15,319510,False,DONT BUYunless you have a MASIVE ♥♥♥ COMPUTER. ITS JACK
+posted,item_id,recommend,sentiment_analysis
+2013-12-15,4000,True,1
+2013-12-09,200210,True,2
+2014-10-15,319510,False,1

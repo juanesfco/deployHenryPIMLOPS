@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-09-19,333930,True,This game is good. Install it!
-2014-05-31,218230,True,"Really cool, takes a beefy computer though."
-2015-09-19,252950,True,I did a backflip.I did a frontflip.10/10NO rAHGRETS
-2016-09-10,291410,True,PLAY THIS GAME. It's ♥♥♥♥ing brilliant.
-2015-03-14,730,False,honestly. really good
-2015-01-27,302830,True,Looks ♥♥♥♥. Plays ♥♥♥♥. Is ♥♥♥♥. BUT IT'S SO ♥♥♥♥ING FUN
-2014-08-18,301520,True,So fun
-2014-02-11,208090,True,"I really love this game, the competitive gameplay mixed with a funny edge makes this game great! Try it!"
+posted,item_id,recommend,sentiment_analysis
+2015-09-19,333930,True,2
+2014-05-31,218230,True,2
+2015-09-19,252950,True,1
+2016-09-10,291410,True,2
+2015-03-14,730,False,2
+2015-01-27,302830,True,2
+2014-08-18,301520,True,2
+2014-02-11,208090,True,2

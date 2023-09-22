@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2012-10-25,440,True,"o my god, es muy bueno :O"
+posted,item_id,recommend,sentiment_analysis
+2012-10-25,440,True,1

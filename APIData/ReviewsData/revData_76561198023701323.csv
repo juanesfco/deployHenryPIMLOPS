@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-24,730,True,This game stole my bank
-2015-10-21,333600,True,"Can make ♥♥♥♥ bounce, what more could ask for?"
-2014-11-16,10180,True,"This game is fun, ok."
-2014-12-06,244850,True,"Made a spaceship shapped like a ♥♥♥♥, 10/10 game."
+posted,item_id,recommend,sentiment_analysis
+2014-10-24,730,True,0
+2015-10-21,333600,True,2
+2014-11-16,10180,True,2
+2014-12-06,244850,True,0

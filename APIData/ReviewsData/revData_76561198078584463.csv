@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-03-07,236390,True,"I shot down a russian, the entire team congratulated me."
-2014-07-11,218620,True,My friend died cooking meth. i cri evrytiem
-2015-03-28,358150,True,"Your order? Oh oh yes, rare to medium please."
-2015-03-15,331900,True,Never will get to wear the masks. 11/10.
-2015-07-17,384021,True,Made a cloaker puke.Take that loser! HAHA!-You were downed by a cloaker-
-2015-04-25,72850,True,iz k
-2016-04-12,730,True,"I can deal with the twelve year olds threatning to 'melt' my router with their 2$ booters, that's cool.But the russians, they push me over the edge man, also I'm pretty sure I've learnt every insult in russian in my first few hours."
-2015-04-18,313120,True,"Walked in one foot of water, a shark ate me.11/10"
+posted,item_id,recommend,sentiment_analysis
+2015-03-07,236390,True,1
+2014-07-11,218620,True,1
+2015-03-28,358150,True,2
+2015-03-15,331900,True,1
+2015-07-17,384021,True,1
+2015-04-25,72850,True,1
+2016-04-12,730,True,2
+2015-04-18,313120,True,1

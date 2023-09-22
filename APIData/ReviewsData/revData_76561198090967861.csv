@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-07,620,True,Good. But the begining is boring
-2014-09-03,730,True,A really good game! Love to play it with friends and by myself. Recomended!!!
-2014-09-01,224260,True,Really good zombie game for a free game
+posted,item_id,recommend,sentiment_analysis
+2014-09-07,620,True,0
+2014-09-03,730,True,2
+2014-09-01,224260,True,1

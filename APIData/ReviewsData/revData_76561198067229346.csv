@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-26,212160,False,This game did not work for me as you can see i spent one hour of game time on it so i do not know that much the gameplay is well done i will give it that much but it needs more support for its players and the servers need to be fixed i want to recomend this game but i can not because i did not even get to play it for over 20 minutes
-2015-01-21,230410,True,it's fully sick bro
+posted,item_id,recommend,sentiment_analysis
+2014-12-26,212160,False,1
+2015-01-21,230410,True,0

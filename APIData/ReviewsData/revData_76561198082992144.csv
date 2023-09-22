@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-28,220240,True,"Muy buen Juego, Lo recomiendo mas que nose que, si lo compras te pasaras un muy buen rato, un rato muuuuuuuuy largo si lo queires pasar al 100%"
-2014-06-22,8980,True,"EL MEJOR JUEGO DE ROL QUE E JUGADO (POR AHORA PORQUE UN NO JUEGO AL 2), DIVERTIDO, ES UN BUEN RETO EN EL RECORRIDO 2 Y EL MULTIPLAYER COOPERATIVO ES UNA COMPLETA EXPERIENCIA QUE SE DEBE DE VIVIR, NO SE DEBE VER NI EN VIDEOS QUE TE LO CUENTEN, SE DEBE JUGAR"
-2016-01-28,49520,True,weno weno
-2015-09-11,206420,True,Kul
-2014-10-28,8870,True,"EXCELENTE JUEGO, UNA OBRA DE ARTE HECHO UN JUEGO, Recomiendo este juego a todos los que les gustan los FPS y los Desafios, Puesto que el modo 1999 es para llorar tratando de pasarlo ;-;, aun asi muy entretenido(Analisis Basado en La Version de XBOX360)"
+posted,item_id,recommend,sentiment_analysis
+2014-06-28,220240,True,2
+2014-06-22,8980,True,2
+2016-01-28,49520,True,1
+2015-09-11,206420,True,1
+2014-10-28,8870,True,1

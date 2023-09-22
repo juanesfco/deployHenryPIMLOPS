@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-14,105600,True,I've played this game way to much.JOIN ME IN MY PLIGHT
-2014-11-16,250900,True,"I do not regret this purchase. A much more refined version of the original, and now with synergies abound! Curvy lasers!"
-2013-07-03,241600,True,"A fun game. Rogue Legacy has all that I could want from a game of this genre, and adds in a little bit more to the mix, creating a great gameplay experience."
-2013-01-26,42910,True,An entertaining game with a nice sense of humour. :D
+posted,item_id,recommend,sentiment_analysis
+2014-06-14,105600,True,0
+2014-11-16,250900,True,2
+2013-07-03,241600,True,2
+2013-01-26,42910,True,2

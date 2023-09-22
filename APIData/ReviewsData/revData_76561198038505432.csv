@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-22,227940,False,"get on bike, ride to capture point, kill one or two guys with choppy combat, die, repeat."
-2016-02-29,34900,True,This game truely simulates how it feels to nut on a cat.
-2014-11-02,242880,False,"Imagine a game where you do next to nothing but hide from robots and collect gems. Yep, that's what you were thinking about buying..."
+posted,item_id,recommend,sentiment_analysis
+2015-06-22,227940,False,0
+2016-02-29,34900,True,1
+2014-11-02,242880,False,0

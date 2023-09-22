@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-08-12,368340,True,"Did I just finish playing the free demo? Then did I shell out $24 bucks to play the demo again? And am I now sitting here actually going 'Holy crap this game is so good I'm actually gonna leave a review of it'?Cause I am.I'm not sure if it's the nostalgia or if it's the art style, but this game feels a lot like Megaman, and man did I love games that play like this.But honestly this game is a genuinely fun game that I can play, and I can play it with a laid back feel, listen to the great music and enjoy the game. Do reccomend."
+posted,item_id,recommend,sentiment_analysis
+2015-08-12,368340,True,1

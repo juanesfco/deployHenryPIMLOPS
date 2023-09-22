@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-09-02,24010,True,"Really fun game, i actually like it, although, it would be nice to get some DLC, there's hardly any..."
-2015-02-06,348380,True,"i literally finished the game in 5 mins, it's not really worth $2, i thought there would be a bit more gameplay involved. It's ok i guess"
-2014-06-24,232430,True,"This was a great game, amazing storyline, but words cannot express how great it was"
-2014-06-22,4000,True,"I personally say that this is my favourite game of ALL time, better than minecraft and better than GTA V. All the add-ons to the game are beyond imaginable. You can add almost anything you can think of from, Planes, Cars, Weapons, Huge maps, items and even things from other games!. I give this game an overall score of 1 billion out of 10 and i definetly recommend it. :)"
-2014-05-26,221260,True,"It is technically a fireplace simulator with an odd storyline, you buy ♥♥♥♥ then you burn it"
+posted,item_id,recommend,sentiment_analysis
+2016-09-02,24010,True,1
+2015-02-06,348380,True,2
+2014-06-24,232430,True,2
+2014-06-22,4000,True,1
+2014-05-26,221260,True,1

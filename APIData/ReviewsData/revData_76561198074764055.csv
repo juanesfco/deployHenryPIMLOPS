@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-12-18,22600,True,O PRIMEIRO DE MUITOS
-2014-06-08,230410,True,recomendo purq sim poa
-2013-12-04,4000,True,Muito bom recomendo pq nesse jogo THE ZUEIRA NEVER ENDS FROM HELL
-2014-07-28,304930,False,Viro modinha tipo mainicreft e vai encher de criança nesa poa de jogo só esperem
-2016-08-31,440,True,esperando para a proxima atualização q o spy vai ser tão nerfado ao ponto de ser removido :D
-2016-04-17,55230,True,Tem que dar Bilada nessa ♥♥♥♥♥ >:(
-2016-04-03,220,True,GABE ME COME
-2016-01-23,383080,True,GEMIDOS :D
-2015-08-07,105600,True,Supimpa!!!Minecraft bostaTerraria mito
+posted,item_id,recommend,sentiment_analysis
+2015-12-18,22600,True,2
+2014-06-08,230410,True,1
+2013-12-04,4000,True,2
+2014-07-28,304930,False,2
+2016-08-31,440,True,2
+2016-04-17,55230,True,0
+2016-04-03,220,True,1
+2016-01-23,383080,True,2
+2015-08-07,105600,True,1

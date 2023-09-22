@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-15,379720,True,"While everyone's expectations of the mutliplayer has been lacking, the singleplayer experience is something that fans of the franchise will welcome heartily. Visual fidelity is fantastic (take note that the lowest and highest settings seem to only differ in shadow quality), and the gameplay is both challenging and rewarding.If fast-paced action and optional story is your thing, give it a go!"
-2016-04-16,374320,True,"Friend, please end me..."
-2015-04-22,232090,True,"All servers full, again. Server Browser of the YearI give it 6/6!"
+posted,item_id,recommend,sentiment_analysis
+2016-05-15,379720,True,2
+2016-04-16,374320,True,1
+2015-04-22,232090,True,2

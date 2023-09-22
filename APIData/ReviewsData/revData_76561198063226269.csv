@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-07,49520,True,nice game. but i really want it
-2014-03-16,12210,False,i cant play multiplayer+when i registered it wont work for sure.please fix this problem
-2014-05-14,113400,False,i want free ♥♥♥♥ing G1C NOW!
-2014-04-26,730,False,Because i baught it and It Just Expired
+posted,item_id,recommend,sentiment_analysis
+2014-05-07,49520,True,2
+2014-03-16,12210,False,1
+2014-05-14,113400,False,2
+2014-04-26,730,False,1

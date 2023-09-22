@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-06-25,329860,True,"You can be a cat, 'nuff said"
+posted,item_id,recommend,sentiment_analysis
+2016-06-25,329860,True,1

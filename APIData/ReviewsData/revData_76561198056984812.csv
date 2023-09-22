@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-02,4000,True,"ESSE JOGO TEM MAIS COISA Q TECPIXEL....FPS,CORRIDA,ZUMBI,TERROR,PARKOU,RPG,ANIME.....É UM POÇO DE DELICIA....CE VC QUER COMPRAR UM JOGO TIPO AQUELE TETRIS 1000 IN 1 COMPRA ESSA COISA PQ VC N VAI SE ARREPENDER DE GASTAR O DINHEIRO DO PAO NISSO"
-2014-01-18,550,True,jogo muito maneiro vale muito a pena comprar.
-2014-01-09,620,True,"muito bom os graficos sao bons,nao é muito pesado e é muito divertido jogar tanto sozinho quanto cooperativo"
-2013-12-20,440,True,muito bom um dos melhores jogos de fps!
+posted,item_id,recommend,sentiment_analysis
+2015-12-02,4000,True,2
+2014-01-18,550,True,2
+2014-01-09,620,True,2
+2013-12-20,440,True,2

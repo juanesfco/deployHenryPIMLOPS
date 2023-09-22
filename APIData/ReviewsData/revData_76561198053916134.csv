@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-27,247730,False,"I bought this game but can i play it? No. It does not inform you that you have to pay for the game and then pay for a pack to actually play the game, not only that I cannot log on at all and It was a very frustrating process to link steam accounts and create Nether acounts as well. I will never play this game since I can't and it is false advertising. Money back."
-2014-07-08,550,False,Low Violence....Fun gameplay I guess.
+posted,item_id,recommend,sentiment_analysis
+2013-12-27,247730,False,0
+2014-07-08,550,False,1

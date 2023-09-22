@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-11-26,20530,True,i like the game the geo mod is amazing the squel sucks ive played it red faction 2 sucks red faction 1 rocks i recomend it
-2014-01-28,223710,False,it wont launch no matter what
-2013-11-26,224260,True,this game is good but i wish it was like the beta were you can let those points die and not lose.
-2013-11-09,57300,True,this game is freaking amazing go in blind dont search it up just play and be scared      and have fun!
-2013-08-27,17500,True,its fun but it gets boring after a wile
-2013-04-07,35450,True,this game is awsome i loved it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2013-11-26,20530,True,1
+2014-01-28,223710,False,1
+2013-11-26,224260,True,2
+2013-11-09,57300,True,1
+2013-08-27,17500,True,0
+2013-04-07,35450,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-13,48700,True,This is a great game for people who like knights and big armys
-2014-03-18,261030,True,best game ever go luke :D for the win
-2014-01-07,4000,True,hi i am Discord Whooves and i Recommed gmod its the best game :D
+posted,item_id,recommend,sentiment_analysis
+2014-07-13,48700,True,2
+2014-03-18,261030,True,2
+2014-01-07,4000,True,2

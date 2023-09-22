@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-30,227320,True,"Incredibly simple UI and easily adjustable. The phone app is a great bonus, especially if you get into the habit of entering in your transactions. Currently it lacks an API, but apparently that is in the works, then the possibilities are endless when syncing data from other sources (like bank RSS or transportation card)"
+posted,item_id,recommend,sentiment_analysis
+2014-12-30,227320,True,2

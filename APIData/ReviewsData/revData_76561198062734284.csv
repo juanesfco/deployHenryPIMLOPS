@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-26,264380,True,The game is very good content. I love it <3
-2014-11-22,334660,True,kawaii
+posted,item_id,recommend,sentiment_analysis
+2014-04-26,264380,True,2
+2014-11-22,334660,True,1

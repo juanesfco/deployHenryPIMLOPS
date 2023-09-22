@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-06,292030,True,Want a western Dark Souls? Get this
-2016-05-14,365590,False,"WHAT THE ♥♥♥♥ IS THIS?I BUY THE ♥♥♥♥ING GOLD! YES, GOLD!WORST DECISION I'VE EVER MADEI THOUGHT THIS WILL BE A DOPE GAMEBUT HELL! BORING AS ♥♥♥♥DONT BUY THIS IF YOU DONT WANT TO WASTE YOUR MONEYGOOD JOB UBISOFT"
-2016-01-22,287700,True,"Got minimum spec, but hellit run smooth as ♥♥♥♥also, HIDEO KOJIMA GAME"
+posted,item_id,recommend,sentiment_analysis
+2016-01-06,292030,True,1
+2016-05-14,365590,False,0
+2016-01-22,287700,True,1

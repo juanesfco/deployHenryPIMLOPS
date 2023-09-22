@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-05-31,4000,True,"Best game I have played. It's really fun in sandbox because you can make whatever you want that involves half life 2 and other things. Also a great thing for servers if you want to play Jailbreak, DarkRP, sandbox and much more! You really should get it!"
-2016-03-19,257400,True,goodhas good stuffgood modellingwould recommend for modellingalso has a library of community made animationsveryuseful
-2016-03-28,236870,True,"its a great game if you're a fan of hitman or stealth sorta games. for now i'd probably stick with buying the intro pack until more content is released.in the game you get to play as Hitman™ Agent 47. you get 3 missions, 2 starter missions and 1 main mission. The first starter mission is basically the tutorial mission, the mission that was avaliable in the beta.  the 2nd starter mission is a little more difficult and a bit longer. The main mission is the main mission of the game. It's a big map with a lot of different ways to finish the game.u should get da game. it's a good game."
-2016-05-24,730,True,this game is csgo/10would recommend buying it
+posted,item_id,recommend,sentiment_analysis
+2013-05-31,4000,True,2
+2016-03-19,257400,True,2
+2016-03-28,236870,True,1
+2016-05-24,730,True,0

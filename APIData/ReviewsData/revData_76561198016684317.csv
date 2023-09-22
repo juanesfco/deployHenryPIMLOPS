@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-28,34900,True,11/10 It's like Skyrim with rats
-2015-11-25,377160,True,B R A V O    T O D DRAVOTODD
+posted,item_id,recommend,sentiment_analysis
+2014-03-28,34900,True,1
+2015-11-25,377160,True,1

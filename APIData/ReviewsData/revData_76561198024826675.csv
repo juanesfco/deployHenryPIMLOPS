@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-11-14,265300,False,"I like this game quite a bit, but never have I experience so many crashes playing anything before in my life. It feels like there was no where near enough QA testing done before they released this, even several patches later I cant tell if anything has changed. The hardest thing to fight against in this game is the game LOTF.exe no jokeFIX THIS GAME AND MAKE IT PLAYABLE BEFORE YOU DECIDE TO RELEASE DLC!"
-2014-11-14,246620,True,Many hours to be lost playing this. You too can live out your fantasy of being the evil scientist who tries to end the world!
-2014-11-14,209650,False,No dedicated servers still. Can't recommend until they have them!
-2014-11-14,237930,True,Would love another game like this!
-2015-10-20,351970,False,Audio Fail... Distorted white noise blaring in my ears from the title screen and continues into the campaign. I think I’m entitled to have working sound with my game :(
-2013-01-29,220440,True,"Awesome addition to the DMC series!Better fluid combat mechanics compared to 'Devil May Cry 4' which helps when half a second can be the difference between a kickass combo or the game over screen. The story was meh... not bad but not good either, Game play is what makes this game good and as always in a DMC game the amount of difficulties you need to unlock gives some good replay value."
-2013-01-02,4920,True,awesome game
+posted,item_id,recommend,sentiment_analysis
+2014-11-14,265300,False,0
+2014-11-14,246620,True,0
+2014-11-14,209650,False,1
+2014-11-14,237930,True,1
+2015-10-20,351970,False,0
+2013-01-29,220440,True,1
+2013-01-02,4920,True,2

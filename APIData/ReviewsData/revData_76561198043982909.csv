@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-09,221640,True,"This game is amazing, fun to kill time and rage at."
-2014-09-26,293320,True,Pretty terrifying but slow to start of :D amazing game for $2.99
-2015-09-17,304050,True,"This game is bae <3 You it grabs the best bits from minecraft and adds mounts, dungeons, clubs (clans), challenges and many other amazing things. I recommend you play this right this instant."
-2015-03-22,286500,True,"Took me 5 hours too complete fully, loved it. It was very interesting, as long as all the puzzles to keep you from going bored. I recommend this game if you're sitting at home and want to relax."
+posted,item_id,recommend,sentiment_analysis
+2014-07-09,221640,True,2
+2014-09-26,293320,True,1
+2015-09-17,304050,True,2
+2015-03-22,286500,True,1

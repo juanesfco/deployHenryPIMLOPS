@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-01,242980,False,I was very desperate to get this game for several months.Someone send help!
-2015-07-19,351640,True,"Easy, short, but very satisfying.I managed to to keep a smile on my face for every portion of this game, the combat, while again simple, was quite fun to play with and the story itself wasvery touching.There is no reason NOT to recommend this game."
-2015-04-17,348620,True,"I had confidence this was going to be a game I'd play through while keeping a smile stuck on my face. And yet it managed to be a cherry sweater.If you are a fan of something mysterious, stories about friendship, a loving bond. This game is a must play.Even after finishing it, I do plan to come back to it again very soon."
-2014-06-29,206440,True,"Beyond the expectations.Since the first week of the game becoming available I had been hearing so much praise from those that had completed the game, some even saying it was there favourite. Having seen the trailer, I was eager to play it myself, knowing I'd at least 'like' it.Upon finishing the game, it could quite possibly one of my all time favourites.The plot is extremely creative,While emotionally driven the entire way, it still has good comedy thrown in.We have characters that we want to follow, we learn more about them the further this game goes on.If you are able to purchase the game, I highly recommend it."
+posted,item_id,recommend,sentiment_analysis
+2015-12-01,242980,False,0
+2015-07-19,351640,True,1
+2015-04-17,348620,True,1
+2014-06-29,206440,True,1

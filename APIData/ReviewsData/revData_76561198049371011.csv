@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-18,224260,True,its awesome just awesome and theres baseball bat
-2016-02-22,304930,True,this game is worth the download time and i highly recommend it
-2014-05-16,219740,True,its awesomeno rly
-2014-02-28,440,True,IT IS AWESOME!!!!thats all i can use to discribe its awesomenessIT IS THE MOST AWESOME GAME EVER(in my opinion)
+posted,item_id,recommend,sentiment_analysis
+2013-12-18,224260,True,2
+2016-02-22,304930,True,1
+2014-05-16,219740,True,1
+2014-02-28,440,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-01,244850,True,it fun
-2014-03-09,218230,True,it the best shooter
-2014-09-30,236450,True,its so fun 9/10
-2014-04-12,221100,True,it fun :) but i die a lot :(
-2014-01-27,206210,True,it a good game
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,244850,True,2
+2014-03-09,218230,True,2
+2014-09-30,236450,True,2
+2014-04-12,221100,True,1
+2014-01-27,206210,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-06-12,252490,False,"Barely ran on my computer, many other games run fine but Rust didn't want to co-operate. Wouldn't suggest it to anyone without a high-end computer."
-2015-06-12,10180,True,One of the best CoD games to date!
-2015-06-12,266130,True,"Excellent game, wouldn't buy it for $15 though, grab it while it's on sale!"
-2015-06-04,22380,True,"It's a great game don't get me wrong but it just crashes constantly. The fact you have to download mods just to keep the game stable might put people off.10/10 ign great game other than the crashing but there's mods out there to make it more stable. (I recommend Script Extender and a save game mod, one of these seemed to help stop mine from crashing.)"
-2015-05-14,730,True,"Bought a bunch of cases and keys for $120, got a rusty knife. Might have contracted tetanus.10/10"
-2012-01-25,91310,True,I reccomend it for people who like killing zombies and RPGs. The side quests make the game go further but you don't have to do the side quests. Takes a while to complete but an excellent game!
-2011-12-30,24960,True,Great game for people who  like tactical type of games.
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,252490,False,2
+2015-06-12,10180,True,2
+2015-06-12,266130,True,2
+2015-06-04,22380,True,1
+2015-05-14,730,True,1
+2012-01-25,91310,True,1
+2011-12-30,24960,True,2

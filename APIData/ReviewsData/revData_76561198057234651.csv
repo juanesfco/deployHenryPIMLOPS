@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-11-17,346110,False,"Normally an early access game should be given a fair amount of latitude concerning reviews and recommendations, however the rampant cheating on offficial servers makes it unplayable in the long term. And yes, the official servers can and should be considered a part of the game, and therefore subject to criticism.Private, whitelisted servers are the way to go, but it's hard to get any serious PvP going on those."
+posted,item_id,recommend,sentiment_analysis
+2015-11-17,346110,False,0

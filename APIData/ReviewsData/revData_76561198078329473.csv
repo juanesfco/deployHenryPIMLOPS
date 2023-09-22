@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-20,218620,False,9/11 would offend player base again
-2015-05-18,273070,True,Got a federation with the Acutians and planetcracked every single planet not in the federation already.10/10
-2014-11-28,2400,True,"A tale of mystery and betrayal, murder and corruption, this game is certainly an enjoyable ride. You can be anything from a traditional sniper to Jack Torrance from The Shining, with his croquet mallet and fire axe. The only fault I can find is the master server not connecting."
+posted,item_id,recommend,sentiment_analysis
+2015-10-20,218620,False,0
+2015-05-18,273070,True,1
+2014-11-28,2400,True,1

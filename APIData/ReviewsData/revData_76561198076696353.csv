@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-05-30,242760,True,"The Forest is an open-world survival horror game. It is in its alpha stage and with comes a bunch of bugs but this game is FREAKING FUN, its is also very freaking hard that is if your just starting out like I am. Althought the game isnt much at the moment, if the developers keep going at it, iron out the game breaking bugs this game will turn out to be one of the best survival games of ALL-TIME and I highly recommend it."
-2013-12-24,219640,False,I can not reccomend this games simply because I just don't like anything about it
-2013-12-14,250320,True,"I orginally made a review about this game telling you not to buy it but know that 4 episodes have been released I can absolutely 100% recommend this game. Great storyline, great music and great everything. Buy it right now. Go"
-2015-11-09,377160,True,"It's 1am in the morning and I'm playing this instead of revising for exams, thats how much this game means to me..."
-2014-12-27,12200,True,Learnt how to disect rat balls...
-2014-07-01,221640,True,Smash your keyboard/controller simulator 201411/10
-2014-06-09,219150,True,You should buy this game for the soundrack ALONE and if your a gore freak...
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,242760,True,1
+2013-12-24,219640,False,1
+2013-12-14,250320,True,2
+2015-11-09,377160,True,1
+2014-12-27,12200,True,1
+2014-07-01,221640,True,1
+2014-06-09,219150,True,0

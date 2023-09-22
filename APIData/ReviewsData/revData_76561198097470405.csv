@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-02-03,313120,True,I've being playing this game for 5 minutes and so far I have paddled a raft around a very small island and haven gotten stuck on a coconut tree. Please send for help
-2015-01-03,219740,True,Birds ♥♥♥♥ seeds which other birds eat.10/10 Would cook & eat bird ♥♥♥♥ again.
-2016-03-25,291550,True,"I started playing this game with about 5 friends regularly. Now, after the names and insults I've called them due to this game, we don't talk so much.10/10 - You can fight a caveman with no pupils as a 1 eyed, smug alien."
-2015-04-08,344760,True,"When you take most of the game Rust, set it back a thousand years, add the fighting dynamics of Chivalry, put in the building and gravitational physics of Minecraft and throw in some torture and executing to that similar of DayZ you get a game in which hackers can turn you green.BUY THIS GAME, DO IT NOW!Kanye West's ego/10"
-2015-01-12,245130,True,"After 20 minutes of riding a bike in the middle of nowhere I ran into a rock, the front wheel of the bike glitched into it and kept riding. http://steamcommunity.com/sharedfiles/filedetails/?id=374147484 (screenshot)420/10 Would ride bike into rock again"
-2016-05-10,211420,False,"It doesn't matter what I put here, fanboys will downvote the ♥♥♥♥ out of this regardless."
-2016-05-15,234140,True,"It's sort of like Fallout, except it's fun."
+posted,item_id,recommend,sentiment_analysis
+2015-02-03,313120,True,0
+2015-01-03,219740,True,0
+2016-03-25,291550,True,0
+2015-04-08,344760,True,0
+2015-01-12,245130,True,1
+2016-05-10,211420,False,1
+2016-05-15,234140,True,2

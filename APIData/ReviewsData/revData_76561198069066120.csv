@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-13,319630,True,"Um jogo no qual eu senti algo que nao sem explicar com meras palavras,um dos melhores jogos que joguei ate esse momento em minha vida,recomendo para pessoas que tenham paciencia e que saiba o ingles basico,pois nao existe versão em portugues do jogo.Status:Aguardadando ansioso pelo episodio 5."
-2014-11-23,4000,True,"Bem, oq dizer sobre esse jogo, Atualmente um dos jogos com maior variedade de modos de jogo,possibilidades infinitas de se divertir sozinho e com amigos,recomendo muito entre amigos,nunca leve esse jogo a serio, Gmod é um jogo aonde nada faz sentido e acima de tudo,bem simples de se aprender a jogar."
-2014-01-22,570,True,"Se vc procura um moba de verdade aqui esta ele, dota 2 é o moba mais completo e estrategico q conheço, joguei mts mobas por aie,recomendo."
-2014-11-23,245170,True,"Bem, se vc procura um jogo de luta bom na steam para jogar tanto em off quanto no MP ele esta bem akie, Skull Girls foi uma das compras q eu mais gostei ate o momento, foi um jogo q fiquei com um pé atras pensando: deve ser um daqueles jogos q apela sexualmente para ganhar publico,usa um pouco de apelação sexual sim,mais a qualidade de gameplay e as personagens fazem o jogo ser muito bom, recomendo."
-2014-11-08,440,True,"Atualmente o unico FPS que conheço q se o jogador botar dinheiro nao o torna melhor (P2W) ,recomendo para qualquer um que gosta de fps, é dificil no começo, mais com o tempo vc pega o jeito.10/10 ainda nao se compara a goat simulator ( OBS: goat simulator melhor jogo do ano de 2014)."
+posted,item_id,recommend,sentiment_analysis
+2015-08-13,319630,True,1
+2014-11-23,4000,True,1
+2014-01-22,570,True,2
+2014-11-23,245170,True,2
+2014-11-08,440,True,2

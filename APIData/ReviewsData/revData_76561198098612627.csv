@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-05,207140,True,Fast paced multiplayer fun. Currently on SALE!! TODAY ONLY!!
-2014-04-18,98200,True,its as easy as 1 2 3 4 Bang 5 then your alive or dead
-2014-04-07,212680,True,the ♥♥♥♥ hands down
+posted,item_id,recommend,sentiment_analysis
+2015-02-05,207140,True,2
+2014-04-18,98200,True,2
+2014-04-07,212680,True,0

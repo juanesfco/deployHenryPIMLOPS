@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-18,512340,False,Had to spend a extra 7 bucks just to get the content...Ubisoft you stuffed up this time.
-2016-06-30,379720,True,"Rip and tear...until its done!After playing 45 hours on the campaign on ultra-violence and nightmare, this game has blown my expectations. Honestly after this brutal doom felt like childsplay. The glory kill system never slows down the game, it keeps it fast paced but it does get old...until you get that red orb of argent rage. Lose all mercy, when you gotta go berserk. Optimization? Don't make me laugh I run this on a base model Alienware 13 and I have no issues. Reloading and Story? Sorry, I can't hear you over my Gunfire!666/10"
-2012-11-08,440,True,"Okay after over 3000 hours I will give a good review of this game.After the hours of playing I can say if you are willing to be addicted to a game this isn't the choice, it eats up a great amount of time and can litterally take money off you.This game can be called 'Hat simulator 2015' as it is litterally a hat simulator.Recent updates such as the gun mettle update gave this game elements of another game sold and published by valve: Counter-Strike Global-Offensive or CS:GO, using the reskin part of the stock weapons. So far TF2 is one of Valve's most success full games but due to high amount of players moving to CS:GO due to lost interest in this game I highly suggest you take a look at CS:GO first then look at this unique piece of software that has been developed.Thank you for read and have a good one.-A501UT3Z3R0"
-2016-01-31,201810,True,Classic FPS lineage: CheckFast Paced Shooting: CheckDifferent outcome of past events: CheckHD Graphics: CheckWorks on lower end pcs: NopeBuy this game.
+posted,item_id,recommend,sentiment_analysis
+2016-08-18,512340,False,1
+2016-06-30,379720,True,0
+2012-11-08,440,True,2
+2016-01-31,201810,True,0

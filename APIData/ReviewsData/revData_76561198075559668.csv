@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-07,440,True,tem fortrest 2 is a shooting game to kill people and capture point and defeat the boss
-2014-02-14,208090,True,loadout is a fun game and it is cool
+posted,item_id,recommend,sentiment_analysis
+2014-12-07,440,True,0
+2014-02-14,208090,True,1

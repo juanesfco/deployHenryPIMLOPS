@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-05-03,238460,False,"That voice acting is... Annoying.0/10, needs better voice acting"
-2015-10-08,238910,True,"Usually when I redeem a free game from bundle stars, the game is pretty meh, but not for this game. When I installed it I was tempted to leave it running just for the cards, but it began to look promising. I began to play and I have to say that it's an excellent game.8/10 gg"
-2015-09-30,236510,True,Tried being a sneaky lad and got 360 no scoped randomly by an enemy. Said f*** it and went in spraying and got 360 no scoped randomly.10/10 best video game of all time
-2015-06-26,13570,True,"This game is amazing, it's better than anything COD labeled. Splinter Cell Chaos Theory isn't a 360 no scope simulator or an MLG rekt simulator, it's a stealth simulator. What is so great about stealth you ask? Well I ask back, what is so great about killing?In COD all you are accomplishing is committing mass genocide, while in this wonderful Stealth game you're accomplishing being a sneaky ♥♥♥♥♥♥♥.10/10 The best stealth game created."
-2015-04-03,209000,True,"Nice game, it was great to play as Batman before Arkham Knight hits."
-2015-04-03,8080,False,I lost interest very fast. 
-2014-12-07,203140,True,"Although it ain't as good as Blood Money this Hitman game is great fun and has some good replay value. The level design is top notch, which really pushes the stealth to the maximum.I give this an 8/10."
-2014-11-29,6910,True,Installed it over a year ago and I still haven't finished it. 10/10 most challenging stealth fps.
-2014-11-29,275490,False,Unbearable...
-2014-11-29,6860,True,The disguise system actually works...
+posted,item_id,recommend,sentiment_analysis
+2015-05-03,238460,False,2
+2015-10-08,238910,True,1
+2015-09-30,236510,True,1
+2015-06-26,13570,True,2
+2015-04-03,209000,True,2
+2015-04-03,8080,False,2
+2014-12-07,203140,True,2
+2014-11-29,6910,True,2
+2014-11-29,275490,False,1
+2014-11-29,6860,True,1

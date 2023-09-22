@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-02-26,252490,True,im a haxer
-2015-07-07,295110,True,I liked the game untill i started to buy the T-Shirts and stuff RIP monies
-2015-11-23,377160,True,still cant ♥♥♥♥ piper
-2015-11-07,311210,True,pretty good unless  you get killed by a shotgun
-2015-04-03,204340,True,Great game remember when i played this as a kid now i bought  it and gifted it to my brother and dad brings back old times :) 10/10
-2015-01-17,730,True,CHEF
-2014-12-16,4000,True,its a very good game its worth it
+posted,item_id,recommend,sentiment_analysis
+2016-02-26,252490,True,1
+2015-07-07,295110,True,1
+2015-11-23,377160,True,1
+2015-11-07,311210,True,2
+2015-04-03,204340,True,2
+2015-01-17,730,True,1
+2014-12-16,4000,True,2

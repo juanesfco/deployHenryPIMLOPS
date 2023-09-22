@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-26,403860,True,"Wow.Cannot say that i've had this much fun in a LONG time. Seriously addicting. Cannot stop playing it.Pro's:- Great graphics (Shading, textures etc).- Addicting gameplay.- Un-exploitable environment.Con's:- Can't stop playing...Absolute 10/10 by me."
-2015-10-19,218620,True,"This game is amazing! Best game ive played in a while. I was stuck on Counter-Strike: Global Offensive for so long and now i played this and it is such a better version! I recommend this to everyone who plays csgo, it just a very good simulator of csgo. 100/10"
-2014-02-01,208090,True,Extremely fun and really addictive and the gore is awesomely funny. 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-04-26,403860,True,2
+2015-10-19,218620,True,2
+2014-02-01,208090,True,2

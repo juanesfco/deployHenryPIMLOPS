@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-15,12900,True,BEST GAME EVER!
-2013-07-27,4000,True,I LIKIE DIS game im gonna play TTT
-2014-03-28,70000,True,Great game if you like war other than Ghosts.
-2013-12-21,219640,True,"I LUV THIS GAME!!! Not Reccomended for Windows 8, just incase you have the laptop :)"
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,12900,True,2
+2013-07-27,4000,True,0
+2014-03-28,70000,True,1
+2013-12-21,219640,True,0

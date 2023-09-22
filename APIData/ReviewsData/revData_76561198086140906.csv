@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-30,248820,True,Pene 10/10
-2015-12-25,440,False,Esta en la ♥♥♥♥♥♥ :(
+posted,item_id,recommend,sentiment_analysis
+2016-01-30,248820,True,1
+2015-12-25,440,False,0

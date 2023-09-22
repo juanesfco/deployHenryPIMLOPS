@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-02-08,422420,False,"Well, it's something, but not the jupiter sized planet, persistent universe, that I thought I was paying for."
-2016-03-30,427270,True,I beat Zinwrath! I will beat you too!
-2015-11-27,232810,False,Don't waste your money
-2016-02-25,348460,True,Has potential!
-2016-08-13,275850,False,* Get's boring quickly* Game did not play as promoted by Hello Games
-2016-02-24,201790,True,"Great Game, Check out the next installment 'Orcs Must Die Unchained!'"
+posted,item_id,recommend,sentiment_analysis
+2016-02-08,422420,False,1
+2016-03-30,427270,True,1
+2015-11-27,232810,False,0
+2016-02-25,348460,True,1
+2016-08-13,275850,False,0
+2016-02-24,201790,True,2

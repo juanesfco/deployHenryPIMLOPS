@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-07-16,730,False,joined a server...got kicked 10/10 but seriously pros fun gameplay nice community fun gamemodes cons cooldowns from getting kicked due to a vac error campers noobs being mixed in with pros
-2015-05-23,440,True,really enjoyable and fun pros fun combattradingmost of the community mvm cons some ♥♥♥♥♥♥♥s dominations from 3 or 4 kills 
-2015-04-12,346010,True,this game only gets better with how creative you are
-2015-03-29,209000,True,you can punch people really hard in the face and somehow not kill them 10/10
-2015-04-11,320,False,dont get this game the community is dead no one plays it anymore
-2015-07-29,4000,True,its ok :D
-2013-11-30,72850,True,this game is the best rpg ive ever played
+posted,item_id,recommend,sentiment_analysis
+2015-07-16,730,False,2
+2015-05-23,440,True,2
+2015-04-12,346010,True,2
+2015-03-29,209000,True,0
+2015-04-11,320,False,0
+2015-07-29,4000,True,2
+2013-11-30,72850,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-05-15,219640,True,This game is awsome Try it
-2013-11-30,102700,True,Nice game
-2013-12-08,239660,True,Nice game
-2014-03-11,242720,True,Try this game its cool and fun
-2014-02-28,10090,True,Nice game I like it
-2013-12-28,1250,True,try it its fun
+posted,item_id,recommend,sentiment_analysis
+2014-05-15,219640,True,0
+2013-11-30,102700,True,1
+2013-12-08,239660,True,1
+2014-03-11,242720,True,1
+2014-02-28,10090,True,1
+2013-12-28,1250,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-18,291550,False,"The game itself is an excellent fighter, however, my friends and I often experience unstable connection, especially in ranked matches."
-2016-01-16,239350,True,Fun and challenging.
-2015-12-18,221640,True,Addictive and challenging.
+posted,item_id,recommend,sentiment_analysis
+2015-12-18,291550,False,2
+2016-01-16,239350,True,2
+2015-12-18,221640,True,2

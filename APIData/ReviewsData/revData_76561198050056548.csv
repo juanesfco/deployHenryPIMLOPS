@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-17,304930,True,Trust no one. Not even yourself..
-2013-12-17,261030,True,Soooo many feels~
-2014-06-09,253030,True,"Great casual game, absolutely love it!"
-2013-12-01,94000,True,"Short, enjoyable and relatable. Dem feels ~"
+posted,item_id,recommend,sentiment_analysis
+2016-01-17,304930,True,1
+2013-12-17,261030,True,2
+2014-06-09,253030,True,2
+2013-12-01,94000,True,2

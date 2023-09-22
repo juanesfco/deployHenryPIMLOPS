@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-05-19,221100,False,Bad Rats rip-off. Not even a good one.
-2016-05-15,224260,True,Poo bum
-2015-02-13,268750,True,"If you like this game, you will love Bad Rats!"
-2013-12-24,236850,True,Tit♥♥♥♥♥.
-2016-06-20,292630,True,I've never felt so close to Christ.
-2014-06-30,251570,True,"Summary: 'Oh the Dragon's balls were blazing as I stepped into his cave and I sliced his ♥♥♥♥ing cockles with a long and shiney blade. 'Twas I who ♥♥♥♥ed the Dragon. Sing a lie, sing '♥♥♥♥aloo', and if you try to ♥♥♥♥ with me then I shall ♥♥♥♥ you too!'"
+posted,item_id,recommend,sentiment_analysis
+2015-05-19,221100,False,0
+2016-05-15,224260,True,1
+2015-02-13,268750,True,0
+2013-12-24,236850,True,1
+2016-06-20,292630,True,1
+2014-06-30,251570,True,1

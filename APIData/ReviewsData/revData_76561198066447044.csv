@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-04,13230,True,beat frag game ever
-2014-12-13,214230,True,great game
+posted,item_id,recommend,sentiment_analysis
+2013-12-04,13230,True,0
+2014-12-13,214230,True,2

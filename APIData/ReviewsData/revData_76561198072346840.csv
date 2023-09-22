@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-03-17,243870,True,Good game good graphic
-2015-04-08,355840,True,Graphic so beautiful
-2015-07-12,304050,True,"You,should play it !"
-2015-04-08,346900,True,Hope money in game are real :D
-2015-03-27,317360,True,JUMP SLIDE DIE!!!!!!!!!!!!!
-2015-03-01,230410,True,GOOD Game I Ever play !!! :D
-2014-06-10,222900,True,good game
+posted,item_id,recommend,sentiment_analysis
+2015-03-17,243870,True,2
+2015-04-08,355840,True,2
+2015-07-12,304050,True,1
+2015-04-08,346900,True,2
+2015-03-27,317360,True,1
+2015-03-01,230410,True,2
+2014-06-10,222900,True,2

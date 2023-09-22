@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-27,730,True,"Fun to play for a FPS and better with mates and workshop maps...The Only bad thing is when youre starting out (not talking about community servers). As a beginner, you will get KICKED out from cs servers just for learning how to play the game. Like bomb defusal and deathmatch in the CS Servers. Other than that, Its worth Buying. Yeow...."
-2016-02-24,205100,True,What can i say?... Its awesome and a must play....
-2015-09-14,243870,True,Very team based game... 'Think before you act' My best advice...
+posted,item_id,recommend,sentiment_analysis
+2016-06-27,730,True,1
+2016-02-24,205100,True,2
+2015-09-14,243870,True,2

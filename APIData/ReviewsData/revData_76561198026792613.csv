@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-19,304930,True,"I've played Nether, Dayz, Breaking Point and all the others and where this game is NOW beats all them hands down. The game feels polished and is incredibly fun, best played with friends for a fun, back stabbingly, zombie nommingly hilarious experience. 10/10 would eat rotten cabbage and mouldy water again."
-2015-03-19,344760,True,"This is a disgusting mix of rust, minecraft and game of thrones. Black midgets and fat white men with deep tribal voices awash onto an island and immediately begin slaughtering eachother and taking a throne to see who can tax the most peasants first. But seriously this game is one of the fullest and most fleshed out early access games yet! I know youre worried that the creators are the creator of star forge (eww) but this game has enough meat in it that if the devs up and left ild be upset, but could and would still enjoy the game for many hours right now. The game has more content and gameplay elements to keep and fresh and enjoyable and feels way more fleshed out than Rust or Dayz atm. Deffs a must grab for multiplayer survivors!"
-2013-12-21,227680,False,"This game isnt worth five bucks let alone 10 or 20, save your wallet and give it a miss!"
+posted,item_id,recommend,sentiment_analysis
+2014-07-19,304930,True,1
+2015-03-19,344760,True,1
+2013-12-21,227680,False,1

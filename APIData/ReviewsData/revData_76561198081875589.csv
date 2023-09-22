@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-02,333930,True,This game is Very adicting...... i just want to keep playing it.... its kinda like tf2 but you can buy stuff with credits you earn in game not just micro Transactions!! So yea this game is really good so if your thinking of getting it...   JUST DOOO IT!!Have fun!!!
-2015-09-23,304930,True,pretty good for free
-2015-05-30,730,True,PLEY DIS GAME IT SUPR FUN
+posted,item_id,recommend,sentiment_analysis
+2015-12-02,333930,True,1
+2015-09-23,304930,True,2
+2015-05-30,730,True,1

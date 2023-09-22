@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-02,236150,True,This game will scratch your Sci Fi itch!
-2015-05-11,359320,True,"This game is brilliant, it's immersive and terrific fun to play :)"
-2013-08-12,231430,True,Rodina Mat' Zovyot!
-2013-11-18,2870,True,"From small scale skirmishes to epic ﬂeet encounters, battles in the X Universe know no limits. Choose to ﬁght for the military, work for the police or be a lawless pirate, or if you prefer just ﬁght when you need to defend yourself. 'it's up to you'"
+posted,item_id,recommend,sentiment_analysis
+2016-01-02,236150,True,0
+2015-05-11,359320,True,2
+2013-08-12,231430,True,1
+2013-11-18,2870,True,1

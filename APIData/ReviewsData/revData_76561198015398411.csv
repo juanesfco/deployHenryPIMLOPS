@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-01-23,391730,True,"Roses are red,violets are blue,Crashlands loves me,I love it too"
+posted,item_id,recommend,sentiment_analysis
+2016-01-23,391730,True,2

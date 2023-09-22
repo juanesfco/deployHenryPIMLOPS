@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-12-17,730,True,"Jogo muito viciante , vc consegue ganhar dinheiro vendendo itens e otima jogabilidade ! Mas existem hackers"
-2014-12-17,218620,True,"Otimo jogo , perfeito para fazer estrategias ."
-2015-04-28,220200,True,Jogo muito bom !
-2014-12-17,263760,True,"Um jogo para passar o tempo , mas o melhor dele é que ele esta na steam workshop !"
-2014-12-17,440,True,Jogo divertido com muitos mapas e modos diferente e com poucos cheaters
-2014-08-30,296470,True,"Muito divertido , legal de jogar single player e melhor ainda no multiplayer com os amigos no skype e as skins personalizaveis !!"
-2014-12-17,12210,False,No começo e viciante mas depois fica muito injoativo as missões
-2014-07-14,301520,True,"Otimo jogo , divertido e com muita possibilidade de construções !!!"
-2014-12-17,222900,False,Pouca jogabilidade
-2014-04-14,4000,True,E o jogo q tudo que voce imagina voce consegue criar !!! Liberdade total
+posted,item_id,recommend,sentiment_analysis
+2014-12-17,730,True,2
+2014-12-17,218620,True,2
+2015-04-28,220200,True,2
+2014-12-17,263760,True,2
+2014-12-17,440,True,1
+2014-08-30,296470,True,1
+2014-12-17,12210,False,0
+2014-07-14,301520,True,2
+2014-12-17,222900,False,0
+2014-04-14,4000,True,0

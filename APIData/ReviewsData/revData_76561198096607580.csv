@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-21,10180,True,"Really good- Game of the year 2009. A thrilling first person game with realistic HD graphics and very pleasing user interface. I would rate 10/10. All COD lovers and everyone, its a must play from me. You might not like it as much but its personal opinion. Infinity Ward has done a great job from theme to picture quality to the characters. Try it guys!!!"
-2016-07-06,323470,True,"Amazing game!!!!!!!!! Recommended anyday! Sure there are minor glitches/bugs but very few. Solid Story, solid gameplay, solid graphics, solid plot, solid user interference, solid challenges, should i keep going..... ??? 20/10 Rating. Please play it, worth every millisecond of  your precious time. Enjoy Steam Players ^-^"
-2016-07-06,227940,False,"Not my type, get's boring very fast. Needs improvement."
+posted,item_id,recommend,sentiment_analysis
+2014-07-21,10180,True,2
+2016-07-06,323470,True,1
+2016-07-06,227940,False,0

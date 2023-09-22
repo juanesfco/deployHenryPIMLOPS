@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-09,222880,True,"Awesome and extremely satisfying FPS game. The game revolves around tactics, stealth and teamwork. 10/10"
-2014-02-28,226720,True,"Good game, great gameplay both in the campaign and on Multiplayer. The game does have a slight element of horror in it, like when you're trying to explore an abandoned base and you don't know what's around the next corner. Awesome game."
+posted,item_id,recommend,sentiment_analysis
+2014-04-09,222880,True,2
+2014-02-28,226720,True,1

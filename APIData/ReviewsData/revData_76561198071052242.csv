@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-16,304050,True,pixels... pixels everywhere..
-2015-07-13,218230,True,"I recommend this game to everyone who loves a good MMO FPS, Despite the lag in the massive battles you get into the game is a blast! Literally."
-2014-01-28,252490,True,"Its a absolute perfect game, Very fun"
+posted,item_id,recommend,sentiment_analysis
+2015-07-16,304050,True,1
+2015-07-13,218230,True,1
+2014-01-28,252490,True,2

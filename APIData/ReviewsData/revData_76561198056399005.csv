@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-03,304650,True,"This is a very interesting game. There's been a lot of effort put into the early access game so far, and there's still more to come. I've just scratched the surface, and am keen to keep exploring."
-2014-06-27,97000,True,"A good good game. It can be a little repetitive over time, and would benefit from more challenges to choose from, but that is debatable as there is an attraction in just floating around slowly building up. Overall a great way to kill some time, highly recommended to have in your library."
+posted,item_id,recommend,sentiment_analysis
+2014-07-03,304650,True,1
+2014-06-27,97000,True,2

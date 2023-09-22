@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-08,34900,True,"One day, Keemstar found a dollar in the woods. He was happy. Until one day, I took that fukking dollar and spent it on the Keemstar video game. It's really good with cutting-edge graphics, revolutionary physics and a soundtrack that'll make ♥♥♥♥♥♥ with the fire it contains.rat/10Recommended if you like Metal Gear Solid V."
-2016-06-21,9870,True,Let's watch.this is gonna be a greeaat game.Wow....I'm going to play it.
-2016-04-25,12200,True,"Bully: Scholarship Edition is the updated version of the PS2 classic. Not so much is changed besides a few new classes and a few Christmas missions that suck harder than Village People do on a daily basis. The plot is your typical Rockstar Game plot of trying to be on top except this time, your in a high school. And that's essentially what this is: High School GTA except instead of shooting people and hijacking cars, you ride a radical skateboard and kick a fat kid in the balls. The characters are ♥♥♥♥♥ but they're likeable in a satirical way. Except Gary. Gary can ♥♥♥♥ himself.Overall score: 7/10. Recommended if you like open world ♥♥♥♥ around games such as GTA and Saints Row"
-2016-04-14,2990,True,"If you want it to be quick, Flatout 2 is a ♥♥♥♥ing sick game. Buy it. In a long review, this game is like rubbing mayonaise on your balls. I ♥♥♥♥ing love it. The controls are a bit sluggish but tight nonetheless. It's fun to just smash the ♥♥♥♥ into people in a race and then participate in a stunt course where you can pretend to be Paul Walker by crashing your car, flying out of it and smashing into somthing. The soundtrack consists or mainly rock and pop punk, with a touch of metal and a ♥♥♥♥♥♥ band we call Nickelback. But just because the game has a couple of songs by Pennyback, doesn't mean the soundtrack is bad, because you get songs by bands such as Rise Against, Fall Out Boy, Underoath, Megadeth, Yellowcard and Papa Roach. Overall rating: 8/10Recommended if you like: Racing games, especially ones like Destruction Derby, as it is a similar game."
-2015-10-20,9480,True,Made my character a man with boobs10/10 would David Bowie again.
+posted,item_id,recommend,sentiment_analysis
+2016-07-08,34900,True,2
+2016-06-21,9870,True,1
+2016-04-25,12200,True,1
+2016-04-14,2990,True,0
+2015-10-20,9480,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-26,205100,True,"I definetly recommend this game. There is multiple ways to play this game including stealth, or all-out rage. You can have a select number of supernatural abilities to help you throughout the game. This game is a great game to play and I would recommend this to any type of gamer. Definetly worth the money!"
-2015-09-20,391720,True,"This game... This is a great game. Honestly, never been terrified by a game as much as I was towards this one. They did a great job on everything in this game. I definitely recommend this game to anyone who is down to get terrified."
+posted,item_id,recommend,sentiment_analysis
+2014-03-26,205100,True,1
+2015-09-20,391720,True,1

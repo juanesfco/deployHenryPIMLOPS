@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-02,302510,False,"The Preset Keyboard and Mouse controlls are rubbish so a controller is necissary.I can't distinguish the colors to do the executions, which appears to be central to the gameplay.I have to find something else to do today. What a dissapointment."
-2015-03-05,290770,True,Great StoryAppropriately Gloomy Art DesignAmazing Voice ActingAnd Puzzles That Require 'Outside The Box' Thinking To SolveAn Overall Fantastic Way To Spend An Afternoon.
+posted,item_id,recommend,sentiment_analysis
+2015-09-02,302510,False,1
+2015-03-05,290770,True,2

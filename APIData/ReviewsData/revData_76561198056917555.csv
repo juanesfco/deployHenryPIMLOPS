@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-04-30,446020,True,This is the greatest Mr. Bean simulator since Mr. Bean
-2016-02-27,48700,True,"Started off as a filthy flea ridden peasent, travelling with a trade caravan to the kingdom of swadia. Next thing I know, i'm king Ragnars b!tch, slaying swadian scum left right and center, winning tournoments like a pure champ, hooking up with all the b!tches in Caladria. Eventually, I grew enough balls to tell king Ragnar to shove it, and created my very own empire!Now? Everyone is ♥♥♥♥ing dead, and i'm trying to keep my brain dead lords in line.10/10 would drink from scull again"
-2015-01-31,253710,False,"Its very sad to see how the developers treated this game. You actually have to pay to click on an animal.I saw there where packs you could buy, and i thought that it wasnt that bad. They unlock all the areas and licenses for about the same price you would pay to buy this game if it wasnt FTP but... They aren't packs... They are memberships..."
-2014-03-11,107410,True,"ARMA 3, and absolute major achivement by Bohemia Interactive! I am glad to say that this game has been my favourite game for quite some time and i strongly advise you to purchase this product if you have't already.Buying the digital deluxe edition of this game gave me all the arma 3 game music which i thought was pretty cool considering the music is high def."
-2016-06-21,221100,False,Just play Arma mods. DayZ is dead.
-2016-03-18,295110,False,"Just ♥♥♥♥ing don't, turn away from this page now and save your money."
-2015-04-08,344760,True,"This is a brilliant game! The small glitches dont bother me, and there are always things you can do to suppress those glitches.I have had some terrible experiences with hackers, which made me hate the game but then i was invited to a private rolplay server with average of 30+ per day.Reign of Kings is a brilliant game, and the main 1 reason it has bad reviews is becaue of hackers. I'll admit, i was reconsidering my purchase of this game mearly because of the amount of hackers. All it takes is to be invited to a private server, and then youll see that the game itself is amazing. Hackers pretty much the only big problem.I can't garuntee you will enjoy this game, but the game is actually good, it just has bad hack protection.I recommend purchase of this product."
-2015-11-24,377160,True,"Yeah, it's pretty fun."
-2015-01-15,4000,True,Garry's Mod? Where should I start with Garry's mod...1. Buy it2. Buy it3. Buy it for a friend4. Watch your life fade away into the hands of Garrys Mod.
+posted,item_id,recommend,sentiment_analysis
+2016-04-30,446020,True,2
+2016-02-27,48700,True,1
+2015-01-31,253710,False,0
+2014-03-11,107410,True,1
+2016-06-21,221100,False,0
+2016-03-18,295110,False,1
+2015-04-08,344760,True,1
+2015-11-24,377160,True,2
+2015-01-15,4000,True,2

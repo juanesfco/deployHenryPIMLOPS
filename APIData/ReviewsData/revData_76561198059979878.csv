@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-26,730,True,Good Game Of The Years  10/10 FPS Shoting
-2015-03-24,203160,True,Game Of Year very nice :')
-2015-03-23,72850,True,ไม่ได้ต้องลังเลครับ กดแล้วโหลดมาเล่นรู้เลย
+posted,item_id,recommend,sentiment_analysis
+2015-10-26,730,True,2
+2015-03-24,203160,True,2
+2015-03-23,72850,True,1

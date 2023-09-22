@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-09-03,462930,False,This Game Is Good And All But The Saves Dont Work And After Shutting Down My Computer The Game Keeps Saying Need To Be Online But I Am Online :(
-2016-08-23,250900,True,Awesome Game I LOVE IT
+posted,item_id,recommend,sentiment_analysis
+2016-09-03,462930,False,0
+2016-08-23,250900,True,2

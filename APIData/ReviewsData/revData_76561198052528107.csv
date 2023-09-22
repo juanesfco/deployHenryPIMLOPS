@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-12,24240,False,When I opend the game it just shuts down for some reason :/
-2015-11-17,412400,False,Theres a invisible barrier which did not allow me to reach the other way points. I only reached one and could not go any futher.
-2015-05-15,252490,False,I really wanted to play the game but each time I tried to start it it would crash at Running Self Check if anyone have a idea msg me or something just that Im Dissapointed at the fact it dident wana play.
+posted,item_id,recommend,sentiment_analysis
+2014-11-12,24240,False,0
+2015-11-17,412400,False,1
+2015-05-15,252490,False,1

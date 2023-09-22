@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-12,304930,False,THIS GAME IS BROKEN.
-2015-01-20,34330,True,good game when it works
+posted,item_id,recommend,sentiment_analysis
+2015-07-12,304930,False,0
+2015-01-20,34330,True,2

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-02-07,22380,True,One of my favourite games of all time. A must buy for any rpg/fps fan.
-2015-05-12,247080,True,"A rhythm based rouge like dungeon crawler hybrid. With a killer soundtrack and great gameplay to boot, Crypt of the NecroDancer is one of my favourite rouge likes of all time. A must buy for anyone looking for something different, or anyone looking for a good game in general."
-2014-12-28,19900,True,I've never been more anxious to hear a car in my life.
-2014-08-21,35480,True,Got it for the Dwarfs!? axe in killing floor cause im too lazy to actually play the free to play game.
-2015-04-26,237930,True,One of the most beautiful games i've ever played.
-2013-10-23,239350,True,Great game for those people who love ripping thier hair out one by one :)
-2014-01-13,224600,True,"Defiance, despite its many bugs and glitches is a very fun game. I must say you need quite alot of patiance to play this, as pop in objects and enimes happen alot :l I'd give this game a solid 7.5/8 out of ten."
-2016-02-07,204450,True,This is one of the most enjoyable shooters I've played in a long time.Buy it.
-2015-06-20,204300,True,I suck at this game and people like reminding me.
-2015-04-05,264200,True,Giving me carpal tunnel. 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-02-07,22380,True,1
+2015-05-12,247080,True,2
+2014-12-28,19900,True,2
+2014-08-21,35480,True,1
+2015-04-26,237930,True,2
+2013-10-23,239350,True,2
+2014-01-13,224600,True,1
+2016-02-07,204450,True,2
+2015-06-20,204300,True,0
+2015-04-05,264200,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-01,200050,True,"Reminiscent of the Harpoon naval simulation games of old, this is a top product in that vein, being able to control any number of units available in NATO and Russian arsenals in several different Third World War scenarios, with accurate representation of weapon range, ship and aircraft range, and performance. While the graphics aren't the most current or 'next-gen', they do convey the action on the screen in an easily understandable manner."
-2012-08-27,50300,True,"Yet another favourite title, Spec Ops: The Line is pretty much the video game equivalent of Apocalypse Now with the same sort of descent into madness which the player character, Captain Martin Walker, and his two squadmates are subject to. It sucks you into thinking it's another generic shooter but it is in fact, a complete deconstruction of the otherwise stagnant genre as it is today. Well worth taking a look at, at least."
-2012-05-22,1520,True,"Probably one of the more chilling games I have ever played, you really feel like you're actually controlling the nuclear arsenals of the superpowers you can control. Definitely a game that anyone who intends to go into politics or foreign relations should play."
-2012-03-31,33930,True,"One of the most immersive shooter games out there, helped by the fact that it is actually a military simulator, giving it a more authentic feel to it. Definitely a must have title."
+posted,item_id,recommend,sentiment_analysis
+2014-08-01,200050,True,2
+2012-08-27,50300,True,1
+2012-05-22,1520,True,1
+2012-03-31,33930,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-27,8870,True,"Dealing with themes like religion, racism, and xenophobia, Columbia is a richer and more nuanced setting than even Rapture, and the unveiling of the city’s culture is masterfully executed."
-2014-01-14,49520,True,"If you like piles of guns, lots to do and shoot, and a robust leveling system with a natural coop multi-player aspect and aren't put off by the cel shading, it's a no-brainer."
-2014-01-14,730,True,"Global Offensive is definitely a Counter-Strike sequel -- it looks and feels familiar, with minor tweaks here and there to help balance old issues and surprise longtime players. This is a demanding, skill-based multiplayer game that's as satisfying now as it ever was, but it's for a specific kind of player. If you're not willing to learn to play different than you're used to, look elsewhere. Otherwise, this is a top-tier tactics game that will probably share the long-tailed legacy of its predecessors."
-2014-01-14,440,True,"With its powerful artistic style and blazingly quick, yet accessible gameplay, it's enough to melt the icy cynicism imprisoning the hearts of even the most jaded among us. That being said, it's not the most complex shooter out there."
-2014-01-14,620,True,"Portal 2 is a masterpiece, a work of art that you will love for its ingenious story pop-culture, references to logical puzzles and co-op multiplayer."
+posted,item_id,recommend,sentiment_analysis
+2014-01-27,8870,True,2
+2014-01-14,49520,True,1
+2014-01-14,730,True,1
+2014-01-14,440,True,2
+2014-01-14,620,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-26,245550,True,Emocionante.Valeu a pena assistir e lembrar desses jogos marcantes.
-2014-08-06,304930,True,"Nao consegui jogar online contra players, sempre q desco escada quebro a perna, os zumbis sao dificeis de matar.Falta ajudar como se joga o jogo, mas o jogo eh legalzinho.Vou dar positivo só pq eu q nao devo saber jogar. Mas nao ensina nem no tutorial."
+posted,item_id,recommend,sentiment_analysis
+2014-03-26,245550,True,2
+2014-08-06,304930,True,0

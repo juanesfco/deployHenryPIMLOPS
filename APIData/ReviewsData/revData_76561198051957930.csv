@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-04-01,105600,True,"Terraria... where can i start...Firstly, if you havent already heard of it it's a 2d sandbox game with RPG elements. Some say it's '2D Minecraft'. They are stupid. This game isnt even close to Minecraft, far more loot and armor and much less emphasis on building. A must have game. 10/10. Go on, what are you doing! Go and buy it now!"
-2014-05-11,440,True,'Started wid a Gibus now we're here'Seriously. It becomes more than an FPS when you get a premium account.BEST GAME EVER
-2014-01-03,219830,True,"Before I bought KAG, it been looking at it for a long hile on youtube and I thought it would be AMAZING, but although it is still good, it's not AS good as i thought originally, so still a good game."
+posted,item_id,recommend,sentiment_analysis
+2012-04-01,105600,True,0
+2014-05-11,440,True,1
+2014-01-03,219830,True,2

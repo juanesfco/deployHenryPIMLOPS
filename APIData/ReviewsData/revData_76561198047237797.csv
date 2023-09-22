@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-05-13,4000,True,"Definitely a game worth the $10 (I got it for $2.50 during the March Indie Sale 2013), You can do anything in the game. The only limit is your imagination."
-2016-07-06,221100,True,"Players aren't the real threat; Nor are zombies,the real threat in this game..are the stairs."
-2015-11-19,346110,False,the most annoying part of this game was waiting the 2 hours for the refund
-2015-09-16,227940,False,A good game until you get too good at it and then get perm banned for hacking by a butthurt scrub. 10/10 have to relearn to be bad.
-2016-03-14,238090,False,it's ♥♥♥♥
-2016-07-07,487700,True,this game took over my lifeuntil i found the refund buttonp.s firstp.s.s kek my neck thx bby
-2016-07-11,265630,True,'pass the whiskey' = pasta whiskey
+posted,item_id,recommend,sentiment_analysis
+2013-05-13,4000,True,1
+2016-07-06,221100,True,2
+2015-11-19,346110,False,0
+2015-09-16,227940,False,1
+2016-03-14,238090,False,1
+2016-07-07,487700,True,0
+2016-07-11,265630,True,1

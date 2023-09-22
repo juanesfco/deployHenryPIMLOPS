@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-01,230050,True,FUN GAME10/10
-2015-08-29,346110,True,good fun and you can poop
-2015-07-06,333930,True,this game is really fun i reccomend playing it and its not a really greedy money grabbing freemium game.p.s to devs i dont know vwhere to put bugs/suggestions so ill put it here. the abilities like airstrike and giant laser beam thingy do way to much damage to the EV
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,230050,True,2
+2015-08-29,346110,True,2
+2015-07-06,333930,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-28,233720,True,You can make someone bleed out with a pencil
-2013-12-03,22380,True,"SOOOO GOOD!THIS IS A MUST HAVE! IF YOU LIKE FALLOUT GET THIS IT HAS GREAT CHARACTERS AND STORY, FUNNY MOMENTS AND ALL OVER ITS A FUN GAME! :D"
+posted,item_id,recommend,sentiment_analysis
+2013-12-28,233720,True,1
+2013-12-03,22380,True,2

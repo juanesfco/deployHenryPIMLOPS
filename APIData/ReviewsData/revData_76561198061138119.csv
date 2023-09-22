@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-09-08,365670,True,Blender Time Consumption:10% Skill20% Tutorials15% Animating55% Rendering
-2015-03-14,239820,True,"Named my company Valve, it only took 33 years to release the third sequel of my evergrowing 'Half-Life' series10/10 would wait another 33 years to release a new sequel"
-2015-06-20,368990,False,i r8 8/8
-2015-03-14,218620,False,DLCs are like 7$ each THATS A ROBBERY
-2016-07-27,319630,True,HELLA 10 / HELLA 10Ready for the mosh pit Shaka Brah!
-2014-07-07,570,True,Ok
-2014-06-24,4000,True,10/10 Got Killed by a box
-2015-05-28,730,True,10/10 Would pay to open a box of nothing again
+posted,item_id,recommend,sentiment_analysis
+2016-09-08,365670,True,1
+2015-03-14,239820,True,1
+2015-06-20,368990,False,1
+2015-03-14,218620,False,1
+2016-07-27,319630,True,1
+2014-07-07,570,True,2
+2014-06-24,4000,True,0
+2015-05-28,730,True,1

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-06-06,22370,True,"This in fact, was what i am looking for."
+posted,item_id,recommend,sentiment_analysis
+2015-06-06,22370,True,1

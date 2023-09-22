@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-06,440,True,go play when you want to know
-2016-03-06,730,True,If someone say about ''road to GE'' I think It needs to be repaired road course.
-2016-03-06,570,True,who never play this game = why you born? go inside your mom between legs again
-2015-12-31,322330,True,IT RIKI
+posted,item_id,recommend,sentiment_analysis
+2016-03-06,440,True,1
+2016-03-06,730,True,1
+2016-03-06,570,True,0
+2015-12-31,322330,True,1

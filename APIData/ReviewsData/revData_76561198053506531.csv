@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-05-10,365590,True,"The Division is a very good smooth game, very tactical. One of the bad things are it takes literally 2 whole mags depending on your gun to kill someone and the graphics are alright but not Great, the game is still worth a try! I've only played like 2 hours on PC but PS4 is great lmao"
-2014-03-27,12210,False,SUCKS!
-2014-03-08,224260,True,THis shouldn't even be free it's so cool but yeah I like it SO MUCH!
-2014-01-12,113420,True,This game is like realy good I LOVE IT!
-2014-01-08,99900,True,Good game
+posted,item_id,recommend,sentiment_analysis
+2016-05-10,365590,True,2
+2014-03-27,12210,False,0
+2014-03-08,224260,True,2
+2014-01-12,113420,True,2
+2014-01-08,99900,True,2

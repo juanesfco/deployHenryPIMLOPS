@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-05,218620,True,YOU MAKE METH
-2014-09-26,570,True,This Game is like Drugz. It's super addictive but its freakin expensive.
+posted,item_id,recommend,sentiment_analysis
+2014-09-05,218620,True,1
+2014-09-26,570,True,0

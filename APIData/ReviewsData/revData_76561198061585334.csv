@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-19,313740,True,MELHOR JOGO DA STEAM!!!!
-2016-05-25,108800,False,Uma bosta.
-2015-07-07,252490,False,Rust vem sofrendo de uma má otimização oq torna impossivel ter uma boa performance em um pc ruim (meu caso).Espero que esse problema seja corrigido o mais rapido possível.
+posted,item_id,recommend,sentiment_analysis
+2015-01-19,313740,True,1
+2016-05-25,108800,False,0
+2015-07-07,252490,False,0

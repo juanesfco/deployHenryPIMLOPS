@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-07,6020,True,can someone please tell me how to get it to work
-2014-07-03,244850,True,hay i got the game and started to download it but when it did it reset and makes me redownload it what do i do please help
+posted,item_id,recommend,sentiment_analysis
+2015-05-07,6020,True,1
+2014-07-03,244850,True,0

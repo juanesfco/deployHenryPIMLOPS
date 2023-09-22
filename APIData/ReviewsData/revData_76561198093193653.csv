@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-17,218620,True,สนุกมากครับเล่นกันฮาๆขำขำ
-2015-05-01,298110,True,It a nice GAME but my pc is 32bitcan't play 64bitin the future will make FAR CRY5 ?
-2015-04-14,238960,True,เหมือนDiaBo2เลยครับ
+posted,item_id,recommend,sentiment_analysis
+2014-10-17,218620,True,2
+2015-05-01,298110,True,1
+2015-04-14,238960,True,1

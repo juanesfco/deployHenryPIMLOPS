@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-26,550,True,this a ♥♥♥♥ing awesome game!!!
-2013-10-12,230410,True,friggn awsome!!!!!!!!
-2014-07-22,304930,True,when DayZ meets Minecraft p.s. its a good game sometimes i play it for a full 2 weeks.
-2013-12-11,440,True,this is epic frikin unbeliveble
-2013-11-16,224260,True,this is fabulius
-2013-07-17,17500,True,THIS IS FRIKEN COOL U MUST PLAY IT
+posted,item_id,recommend,sentiment_analysis
+2013-12-26,550,True,2
+2013-10-12,230410,True,1
+2014-07-22,304930,True,2
+2013-12-11,440,True,1
+2013-11-16,224260,True,1
+2013-07-17,17500,True,2

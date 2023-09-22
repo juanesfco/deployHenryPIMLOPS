@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-27,333930,True,game is amazing i like the idea of bronze cards silver cards ect and they give you seperate loadouts
-2015-04-24,265630,False,"i really enjoyed this game until the new update. i cant event join a match, let alone create one"
+posted,item_id,recommend,sentiment_analysis
+2016-02-27,333930,True,2
+2015-04-24,265630,False,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-18,17480,True,"Awsome realtime stratagy game, best i've ever played. 10/10"
-2015-01-18,332800,True,"Frustrating and scary, gave me alot of heart attacks but I deffinitely recommend it."
-2015-01-18,319510,True,"Fun and scary, but definately one of the best horror games i've played."
-2014-01-31,105600,True,This game is a fun adventure game set in a huge 2D world. Hope you enjoy!
+posted,item_id,recommend,sentiment_analysis
+2015-01-18,17480,True,2
+2015-01-18,332800,True,0
+2015-01-18,319510,True,2
+2014-01-31,105600,True,1

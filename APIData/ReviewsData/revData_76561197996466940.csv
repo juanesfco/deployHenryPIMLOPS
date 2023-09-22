@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-04-02,365590,True,"It is a great, Third person, cover based game that is addictive and worth a buy."
-2015-08-22,295110,True,"Great game, very addictive and has plenty of things to keep you entertained with."
-2015-07-06,292030,True,"Great Game, Absolutley worth buying, great story line and some great gameplay"
-2014-07-08,218620,True,Its the bomb
-2013-05-11,224580,True,Its a great first person and third person shooter soo much fun surviving agaisnt humans and Zombies!
+posted,item_id,recommend,sentiment_analysis
+2016-04-02,365590,True,2
+2015-08-22,295110,True,2
+2015-07-06,292030,True,2
+2014-07-08,218620,True,1
+2013-05-11,224580,True,2

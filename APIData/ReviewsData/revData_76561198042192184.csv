@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-13,48700,True,Fantastic Game
-2015-06-17,319630,True,good game but should be sold as a whole rather than in 3 hour chunks
+posted,item_id,recommend,sentiment_analysis
+2015-06-13,48700,True,1
+2015-06-17,319630,True,2

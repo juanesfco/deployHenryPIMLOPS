@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-04-17,440,True,"The Legend! this is the definition of a free-to-play game, just download it"
-2015-04-17,730,True,"Great game - good everything, although at the time of writing this there is a large issue with hacking :S"
+posted,item_id,recommend,sentiment_analysis
+2015-04-17,440,True,0
+2015-04-17,730,True,2

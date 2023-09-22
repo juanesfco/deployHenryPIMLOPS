@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-15,340170,True,"A very different approach version of final fantasy compare to all the others, definitely worth a try if you like action-focus rpg game."
-2015-09-15,203160,True,"It's a fine, no, AWESOME reboot of the series. Definitely worth to try, and looking forward to the upcoming game."
-2015-09-15,271590,True,"Definitely recommend for the single player, it's GTA! While the online gameplay, the connection is not stable if you're not from the server region. So i would not recommend the online play if you're not from the west."
+posted,item_id,recommend,sentiment_analysis
+2015-09-15,340170,True,1
+2015-09-15,203160,True,1
+2015-09-15,271590,True,1

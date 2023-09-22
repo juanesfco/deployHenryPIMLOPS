@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-08-20,303210,True,"An absolute masterpiece, the less you know before you start the better.Just have a go at it."
+posted,item_id,recommend,sentiment_analysis
+2016-08-20,303210,True,1

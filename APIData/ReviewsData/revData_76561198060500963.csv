@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-02,248820,True,Scroll back up and buy this game.
-2015-04-11,300570,True,You design a factory that creates the cells you are being imprisoned in. 10/10
-2014-09-15,218620,True,"This game is very educational, it taught me how to fix drills and throw bags. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-08-02,248820,True,0
+2015-04-11,300570,True,1
+2014-09-15,218620,True,1

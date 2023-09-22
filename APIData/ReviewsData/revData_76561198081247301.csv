@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-05,230410,True,Game is great  PRETTY MUCH WARFARM ill give it TEN   Os
-2013-08-12,1250,True,Awesome Game !!! Always on sale pretty much
-2013-12-14,218230,True, IDONT ♥♥♥♥ING KNOW !!!!
+posted,item_id,recommend,sentiment_analysis
+2015-04-05,230410,True,1
+2013-08-12,1250,True,2
+2013-12-14,218230,True,1

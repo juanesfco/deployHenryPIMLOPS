@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-25,34330,True,"Uma obra-prima. Se você gosta de jogos e nunca jogou um jogo da série Total War, recomendo que comece por esse. Ele é excelente em todos os aspectos."
-2013-11-26,10500,True,"Mosquetes e batalhas navais! Você precisa de mais alguma coisa para jogar? Se você acha que que as batalhas navais de Assassins Creed 3/4 são emociantes, venha jogar esse aqui e se preparar para uma emoção de verdade. E, claro, se você gosta de história e estratégia, e deseja por algumas horas estar na pele de um imperador ou general, esse jogo é indispensável para você."
-2013-11-26,34030,True,Vença com/contra Napoleão e ajude a Europa a trilhar o caminho das luzes. Jogo perfeito e viciante.
-2013-11-25,214950,True,"Total War: Rome 2 é um jogo que exige planejamento estratégico, atenção na administração de impérios e habilidade para lidar com inúmeras variáveis: política, bem-estar público, finanças e, principalmente, capacidade de coordenar tropas em campo de batalha. Se você tem um bom processador em sua máquina e gosta de história e jogos que exigem massa encefálica, esse produto foi feito para você."
+posted,item_id,recommend,sentiment_analysis
+2013-11-25,34330,True,2
+2013-11-26,10500,True,1
+2013-11-26,34030,True,2
+2013-11-25,214950,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-03,220,True,"Absolutely fantastic. Enjoyed 90% of the game, yes some parts are not perfect. But that doesn't matter. Because I had to pick up a can. λ/10Plz HL3. Plz."
-2016-01-12,34900,True,"Honestly one of the best games I have ever played. The fact you can get this game cheaper than a burger at McDonalds is proof that the developers of this game truly care about the community.Graphics: 11/10: If your a fan of an Call Of Duty game, the graphics in Bat Rats will blow you away. Play at 1280x720 for max effect.Gameplay: 9/10: Haven't played a game with this good of physics and puzzles since Halo 2Story: 10/10: Just like Call of Duty but even better. A deep and engrossing story with huge plot twists.Voice Acting: 10/10: Leonardo DiCaprio won't like this one. Oscar incoming. Out of 10, I'd give it a 8.5. Best movie you can buy. Sorry, game. The game is just so unreal I can't believe its not a movie."
+posted,item_id,recommend,sentiment_analysis
+2015-06-03,220,True,1
+2016-01-12,34900,True,2

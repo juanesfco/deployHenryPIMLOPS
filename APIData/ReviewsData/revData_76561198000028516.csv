@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-03,730,True,Ive only played a few hours and i slready needed 2 new mouses and a keyboard
-2014-06-26,253710,False,"to much tedious walking, add a car to drive and id be happy to play"
-2015-06-01,284160,True,100/10 😄😄😄
-2014-06-26,233720,True,i dropped the heart on the floor.
-2014-01-24,105600,True,it great
-2012-12-18,99900,True,it is so ♥♥♥♥♥ AWSOME
+posted,item_id,recommend,sentiment_analysis
+2016-01-03,730,True,1
+2014-06-26,253710,False,2
+2015-06-01,284160,True,1
+2014-06-26,233720,True,1
+2014-01-24,105600,True,2
+2012-12-18,99900,True,1

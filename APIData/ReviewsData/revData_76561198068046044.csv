@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-10-18,221040,True,un juegaso muy bueno para los fanaticos de residetn evil y tambien recomendado para nuevos usuarios
-2014-10-24,730,True,"Yo juego unos cuantos juegos Nextgen pero debo decir que este es uno de mis favoritos, ademas de en mi opinion estar muy bien opltimizado para personas con poca pc.."
+posted,item_id,recommend,sentiment_analysis
+2013-10-18,221040,True,0
+2014-10-24,730,True,1

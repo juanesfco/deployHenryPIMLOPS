@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-19,359320,True,Great game all about space Highly reccomend it
-2015-05-08,206210,True,Really fun worth geting if you are into action and fighting
-2013-12-02,400,True,Portal is a great game it is hard fast and a puzzle game and it is all about stratagy
+posted,item_id,recommend,sentiment_analysis
+2016-03-19,359320,True,2
+2015-05-08,206210,True,2
+2013-12-02,400,True,1

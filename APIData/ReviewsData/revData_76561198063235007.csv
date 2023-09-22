@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-28,10680,True,"I highly reccomend this ! I have played this game countless times on my consoles and finally decided to buy it on steam. Although admittedly I am a tad disappointed in how short it is but that doesn't stop me from loving it to bits, multiplayer is dead last time I checked but hey, you can stalk your prey by running through vents with the shadows being your best friend and hunting down mercenaries using epic weapons and stealthy cloaking.Oh yeah and you can be a human too if you want."
-2014-10-23,72850,True,An epic game that I (personally) never get bored of and probably never will get bored of. EPIC
+posted,item_id,recommend,sentiment_analysis
+2014-11-28,10680,True,1
+2014-10-23,72850,True,0

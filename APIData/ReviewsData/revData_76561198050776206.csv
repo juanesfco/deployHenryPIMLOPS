@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-26,263440,False,biggest ripoff ive witnessed
-2015-01-26,251570,False,picture minecraft + dayz with ugly graphics and horrible online play
-2015-01-26,295110,False,sold some great csgo skins for this and i cant say im not dissapointed. ill never have those skins back and im left with trash
+posted,item_id,recommend,sentiment_analysis
+2015-01-26,263440,False,1
+2015-01-26,251570,False,0
+2015-01-26,295110,False,1

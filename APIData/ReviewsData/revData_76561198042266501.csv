@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-24,48700,True,"great game both single player and multi. The addons and dlc's creat a whole new atmospher while playing. i recommend this to anyone looking for a fun, action packed adventure."
-2011-11-14,24200,True,this game is a good free to play online game. it is definitely one of my best multiplayer games!
-2011-08-25,440,True,this game is awsome
+posted,item_id,recommend,sentiment_analysis
+2014-04-24,48700,True,2
+2011-11-14,24200,True,2
+2011-08-25,440,True,0

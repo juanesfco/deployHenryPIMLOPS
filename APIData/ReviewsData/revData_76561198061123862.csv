@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-09,286080,True,Wibbly Wobbly Timey Wimey10/10
-2014-07-09,218230,False,"Needs admin privileges that it simply doesn't need, and doesn't run on linux..."
-2015-06-27,317400,True,I feel stupid- I decided to run this on a PC that barely meets minimum specs.Don't run this with a Geforce 8700. It lags like all hell. Which means it's probably good. It just lagged too much for me to tell.
-2014-10-10,47810,True,"Christ... This game... This game....If there was ever a game that I recommend to people, this would be the one. Think of it as Mass Effect as combined with Game of Thrones.Story is fantastic, and is great at hooking you in using its backstory system, gameplay is a D&D/FFVII combination, giving it an rpg dice roll feel, and it overall is a very polished game.However, setting up DLC is not an easy task, and will have you fiddling around for a while trying to register everything. My recommendation? Get a bioware account and register the game and its DLC before you load it. Otherwise you will spend four or five hours trying to get it all set up and recognized. There are plenty of great guides to fixing bugs, and the community is rather helpful when it comes to solving issues.Game 9/10DLC Setup 4/10"
-2013-06-14,440,True,Hat simulator 2014! Now just to buy the full version...
+posted,item_id,recommend,sentiment_analysis
+2014-07-09,286080,True,1
+2014-07-09,218230,False,1
+2015-06-27,317400,True,1
+2014-10-10,47810,True,2
+2013-06-14,440,True,2

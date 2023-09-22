@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-03,730,True,Great game. better than Counter Strike: Source
-2013-12-16,219640,True,"The Game is awsome. Very, very fun to play and very gory. However i don't recommend buying the Deadliest warrior expansion. It feels like a different game."
+posted,item_id,recommend,sentiment_analysis
+2014-04-03,730,True,2
+2013-12-16,219640,True,0

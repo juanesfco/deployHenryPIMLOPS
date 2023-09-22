@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-30,255390,True,"Good game, Reminds me of Limbo."
-2015-12-24,329440,True,"Wasnt expecting too much from this, but I was plesently supprised, actually enjoy the cartoonish graphics and different style of play from previous sonic games."
-2014-03-08,234670,True,This game has a good story line in line with the anime. Good mix of RPG and action and a good soundtrack to boot.
+posted,item_id,recommend,sentiment_analysis
+2014-08-30,255390,True,2
+2015-12-24,329440,True,2
+2014-03-08,234670,True,2

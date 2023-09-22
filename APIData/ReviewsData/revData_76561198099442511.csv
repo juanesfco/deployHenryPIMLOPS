@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-18,304930,True,definently recomend it to anyone.  : )
-2014-02-19,4000,True,awesomeness!
-2014-02-10,440,True,best game ever played!!!
+posted,item_id,recommend,sentiment_analysis
+2014-07-18,304930,True,2
+2014-02-19,4000,True,1
+2014-02-10,440,True,2

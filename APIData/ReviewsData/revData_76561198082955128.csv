@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-21,4000,True,If you are gonna buy this game then be ready to have so much fun with crazines ♥♥♥♥ stuff bad screenshots and funny shitz and gigglez
-2013-12-22,220860,True,What the ♥♥♥♥ has this game turned intoXD
-2015-09-29,49520,True,"Jesus, this game is like, 1. The most annoyining side kick ever, Good on ya Claptrap, 2. A very amazing and awesome storyline, 4 amazing characters to play as with all have great abilites, 3. Some crazy people you meet on the way, I am looking at you Tiny Tina, god that girl creeps me. And finally Borderlands 2 is just a very funny, fun, enjoyable game to play with yourself and friends and it has many easter eggs to it btw :D"
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,4000,True,1
+2013-12-22,220860,True,0
+2015-09-29,49520,True,2

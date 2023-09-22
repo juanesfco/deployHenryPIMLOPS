@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-06-07,4000,True,U need cs source and hl2
-2015-07-03,229870,False,"DO NOT BUY, NO ONE IS EVER ONLINE AND YOU CANT PLAY WITH BOTS, REPEAT DONT BUY"
-2015-06-12,310380,True,"This game is ingadging and mainly based on strategy, it take ages to die or get a kill so games end up going on for hours though. 7/10"
-2016-06-07,224540,True,Love this game
-2014-11-01,204300,False,"YES its a great game and loads of people play it yet it gets old, I would not buy id"
+posted,item_id,recommend,sentiment_analysis
+2016-06-07,4000,True,1
+2015-07-03,229870,False,1
+2015-06-12,310380,True,0
+2016-06-07,224540,True,1
+2014-11-01,204300,False,2

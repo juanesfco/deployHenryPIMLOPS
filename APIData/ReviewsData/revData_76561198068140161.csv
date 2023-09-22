@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-01-06,225540,True,You can blow stuff up.
-2015-11-14,265630,True,Light some dynamite and chase people until it explodes killing you and the enemy....10/10 Would Suicide bomb again.
-2015-07-12,8190,True,"Just Cause 2 is a game with many great features. I love this game and I can't wait for Just Cause 3! So here are the Pros and ConsPros:-Open world-Great map with a mix of ocean, snow, desert, city and forest/jungle-Black market system-Cool structures/locations such as miltary bases, big buildings such as the casino, blimp, docks and more-Nice machanics such as being able to shoot tyres, grapple hook, parachute, tether hooking and bing able to destory governement structures-Lots of explosions-Great mods-Criminal factionsCons:-Not enough variety in weapons-NPCs don't care if you point a weapon at them-Some other NPC AI faults-No built in multiplayer (you can still download the free fan-made multiplayer mod on steam, but that doesn't have any NPCs in it)-Not a very good story"
-2014-07-27,224540,True,"All I have to say is SOMEBODY ruined most of the game, but I still give it 5/10. I still do play this game though."
-2014-07-27,4000,True,9.5/10 So much variety! The only con is the game takes ages to load!
-2014-07-26,304930,True,"The only reason I recommend this game is because it is free. It is a bit to hard since the zombies don't go away in the day, plus you loose everything. There should be a setting where you can keep your items. Rehealing is really hard to do. I can never find medicine. Plus the zombies are way too fast! By the way this is pretty much a demo. There is a gold mode but that only really unlocks new skins to wear and some sort of new difficulty called, you guessed it 'gold'. This is only a early access game so I will give it that. I rate it 5/10. I recommend you try the game though. It has it's moments... =)"
-2014-06-27,6060,True,I LOVE this game it is the best experience for Star Wars fans (especially with mods). It is really good for a 2005 game. For parents this game is fine even though it is M. I rate it 9 or 10 yrs+ and 10/10!
-2014-06-27,244850,True,"It's an early access game so I'll give it that for it being this good that is. It is a pretty good game, nice graphics. It is not too violent. Warning itis really laggy on a X32 bit laptop, but mildly laggy on a X64 laptop. Nice graphics as I said before, but I found it quiet empty. Online is fun and so are workshop creations I would give it 6/10!"
+posted,item_id,recommend,sentiment_analysis
+2016-01-06,225540,True,1
+2015-11-14,265630,True,2
+2015-07-12,8190,True,2
+2014-07-27,224540,True,0
+2014-07-27,4000,True,1
+2014-07-26,304930,True,1
+2014-06-27,6060,True,2
+2014-06-27,244850,True,2

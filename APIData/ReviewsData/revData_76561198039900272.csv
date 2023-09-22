@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-02-19,399120,False,"REFUND IT AS SOON AS POSSIBLE (YOU CAN REFUND GIFTS DW)This game is terrible.The game starts off so slow and then goes full on ADD with the pacing once you get your first weapon (which is a Crowbar instead of a Pipe Wrench).The enemies have too much health.The lighting is so dark that you can't see anything.Plus, the author has made it so that you can't install mods, not even skins.Play The Awakening if you want a better Op4 sequel, plus it's free, unlike this abomination."
-2016-06-29,730,False,"I've been falsely VAC banned on this game before, but legitimate cheaters are always plaguing matches.CSS is better than this and that's a simple fact. In CSS you can't spray, there's no RNG and it's more balanced. In CSGO, you can spray with weapons like the Bizon, there is so much RNG with your weapon accuracy and the weapons arsenal is biased in favour of the Terrorist team.One of the biggest turnoffs is the extremely toxic community. Let us compare CSS and CSGO once again: In CSS you had chill, down to Earth people who you could talk to, make friends, learn about the game, etc. CSGO's community on the other hand is full of raging tryhards who flame everyone, even their own team, and act like they're the hot shot who is carrying the team. Additionally, you have a lot of hackers and dodgy Russians on VPNs trying to scam you.Oh yeah, and the ranked system is stupid too because it seems to be completely unable to match up players of a similar skill."
-2014-02-01,220860,True,"Combine Ecstacy with LSD and there you have it, the development process of this game."
-2016-06-29,240,True,"Very balanced and skill-based tactical shooter, it's great. The community is also fantastic, you have some very nice, down to earth people to meet here.Buy this over CSGO."
-2014-11-13,281820,False,boring gimmick ruins this game
-2016-01-31,205950,True,SEGA please port JSRF
-2014-10-02,10180,False,"The campaign is short and boring with a boring plot and the multiplayer is extremely unbalanced and all the new features break the game furthermore. So you can customize your killstreak loadout, okay but a lot of them are broken and one killstreak is called the Care Package and it takes 3 kills to get. With only 3 kills you can get a freaking AC-130 and cut up the enemy team. The worst killstreak is the nuke as it instantly ends the match. There's a barragement of overpowered and underpowered weapons, the ACR wrecks all enemies and the M16 might as well not be there. The map design is horrid, offering infinite opportunities for camping. There's also deathstreaks which can increase your health, give you your killer's loadout, etc.Then there's the community; teenagers claiming to have sexual relations with your mother, idiots who tell you to kill yourself because you're the host and the game is laggy without them realizing that the netcode is horrid, people who run around the map quickscoping/trickshotting instead of playing the game, people who intentionally make their loadout overpowered, etc. It's a blitzkrieg of flawed game design and you shouldn't spend your money on it."
-2014-02-01,4000,True,i give it a crash/10
+posted,item_id,recommend,sentiment_analysis
+2016-02-19,399120,False,1
+2016-06-29,730,False,1
+2014-02-01,220860,True,0
+2016-06-29,240,True,2
+2014-11-13,281820,False,0
+2016-01-31,205950,True,1
+2014-10-02,10180,False,0
+2014-02-01,4000,True,1

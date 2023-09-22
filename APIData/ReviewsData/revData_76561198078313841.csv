@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-09-10,225840,True,skcko
-2016-09-15,252490,True,basically chicken just simply chicken
-2014-02-09,49520,True,Love it
+posted,item_id,recommend,sentiment_analysis
+2016-09-10,225840,True,1
+2016-09-15,252490,True,0
+2014-02-09,49520,True,2

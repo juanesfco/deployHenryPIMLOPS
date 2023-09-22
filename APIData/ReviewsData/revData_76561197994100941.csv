@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-04,222880,True,"At last, an online fps that isn't made for 10 year olds. This is the most realistic game I have ever played. If you run around blindly shooting at everything you see, you will DIE. You have to think you are in a real war and act appropriately to do any good in this game. It will not suit everyone as it is not always fast paced, although there are plenty of frantic moments, but once you master it, you will thoroughly enjoy it. I hope it stays around for a very long time."
-2013-03-18,221080,True,"This is probably the best FPS online game I have played. graphics are fairly dated, but that is the only negative thing to mention. It is fast paced, very fast to load, fast respawning, and damn good fun.Sadly this game was taken down by it's developers. Money trouble I believe..."
+posted,item_id,recommend,sentiment_analysis
+2014-05-04,222880,True,2
+2013-03-18,221080,True,2

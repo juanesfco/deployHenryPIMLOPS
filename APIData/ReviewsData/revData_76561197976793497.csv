@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-08-13,239350,True,"Friggin love this game. So much dying, so much greed, so much exploding. Hardcore platformer with all kinds of awesome items. Very well balanced, just a bit of insanly diffcult mixed with incredably rewarding and satisfying little victories."
-2016-01-21,248820,True,♥♥♥♥ this game is intense!You race agianst the clock as the reaper dogs your heels on every turn.Roll the dice for pick ups.Hope like hell you find the gateway out.
-2015-05-25,251470,True,This game gave me RSI.10/10
-2016-07-21,442080,False,"It sure was just like any other ♥♥♥♥♥♥ MMO.Only with a terrible looking UI.Story had me falling asleep.Enviroments are boring.Combat is beaten dead horse.Quests are... what do you expect, like any MMO.In a word Uninspired."
-2016-07-21,65930,False,Command System is unwieldly. Somewhat unplayable.Not worth the time.
-2015-11-05,295690,True,"Solid Hour of fun. Will come back for more. Much challenge, such reward.  Great play rythym and music to boot."
-2015-06-29,333860,False,"Wow, so good. Its like playing a bunch of garbage thrown together from the Unity asset store. Wait, thats excatly what it is."
-2015-03-14,263700,False,"This is a poorly executed clone of Super Crate Box. The graphics are polished, but the platforming is clunky garbarge.The enemies seem too easy, but when you die it feels cheap and undeserved.  Soo meh."
-2014-09-19,234190,True,Pretty decent
+posted,item_id,recommend,sentiment_analysis
+2014-08-13,239350,True,2
+2016-01-21,248820,True,0
+2015-05-25,251470,True,0
+2016-07-21,442080,False,0
+2016-07-21,65930,False,2
+2015-11-05,295690,True,2
+2015-06-29,333860,False,2
+2015-03-14,263700,False,1
+2014-09-19,234190,True,2

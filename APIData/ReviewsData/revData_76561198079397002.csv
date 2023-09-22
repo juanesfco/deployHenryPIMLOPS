@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-27,109400,True,cant....stop....playing
-2014-09-02,212200,True,"get the game, we make a guild, and we kill evryone P.S. if your a fan of SAO (sword art online) they have this in the game"
-2014-08-23,224260,True,Must get this game and start to play insane fun and finally a game with zombie kids something every other zombie game forgets
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,109400,True,1
+2014-09-02,212200,True,0
+2014-08-23,224260,True,0

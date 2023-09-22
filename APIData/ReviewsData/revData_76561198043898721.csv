@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-30,222880,True,So good.It's like ARMA meets Counter-Strike.
-2015-12-25,391540,True,"It's so good, but I don't want to spoil anything."
-2014-06-03,233150,True,"One of the best arcade games I've ever played. The movement is absolutely spot on. Well worth the money. Also you should check out Vlambeer's other games - they too are arcade styled, small games that are great fun to play."
+posted,item_id,recommend,sentiment_analysis
+2013-12-30,222880,True,1
+2015-12-25,391540,True,2
+2014-06-03,233150,True,2

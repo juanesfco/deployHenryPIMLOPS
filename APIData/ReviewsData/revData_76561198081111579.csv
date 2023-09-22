@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-25,301520,True,Great fun
-2015-06-30,105600,True,"Love the new Update, adds a ton of more items."
+posted,item_id,recommend,sentiment_analysis
+2015-06-25,301520,True,2
+2015-06-30,105600,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-13,730,True,"This is actually a really great game.But sadly there are so many clever cheaters here.There are some programe you can purchase in order to cheat undetected on CS along with other games.If somehow Valve can develop a cheaters free game experience.I must say, this will be a must buy game.Before that, it is kind of annoying.And dun tell me I am too bad for CS. I am experience enough to recognize a cheat or skill."
-2013-01-29,570,True,Dota2 is a great way to kill time.It;s free and fun.Except having noob teammates or they keep dlying in the beginning and dun bother to buy a ward or dust =]
+posted,item_id,recommend,sentiment_analysis
+2013-12-13,730,True,1
+2013-01-29,570,True,2

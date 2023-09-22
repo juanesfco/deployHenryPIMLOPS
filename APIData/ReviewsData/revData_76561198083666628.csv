@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-09,49520,True,-Better than Fallout-Cool Graphics-Cool Guns-Lots of Gameplay-Amazing open world game-Lots a fun9/10 -Can't find someone to play with
-2014-05-26,570,True,Made me lower my Grades!!!11/10 Would ruin my life
+posted,item_id,recommend,sentiment_analysis
+2016-01-09,49520,True,2
+2014-05-26,570,True,1

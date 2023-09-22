@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-06-01,440,True,"ruined my academics, destroyed my life D: 10/10"
-2016-06-01,242050,True,"love watching moses appearing suddenly and cutting out huge chunks of the sea, making the jackdaw fly into the air and watching my crew members falling into the sea 1 by 19/10"
-2014-03-10,10090,True,"Campaign has variety and is fun to play. Zombies mode is addicting and fun as well. Only flaw of the game is that you have to download lots of stuff before playing a multi-player game. In conclusion, pretty well made game with decent gameplay. I would rate this game a 9/10. Good work, Treyarch!"
-2013-09-12,1250,True,A must-get game
+posted,item_id,recommend,sentiment_analysis
+2016-06-01,440,True,1
+2016-06-01,242050,True,2
+2014-03-10,10090,True,1
+2013-09-12,1250,True,0

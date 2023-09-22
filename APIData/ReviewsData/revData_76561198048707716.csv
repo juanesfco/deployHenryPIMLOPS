@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-11-25,213650,True,This is such a fun game. Dwarfs are stupid. Gold spent on dwarven ale. Diggy Diggy holes. and lots of traps.Love it. 9/10 P.S Thanks Simon from (Yogscast) For doing the voice of AWESOMEDWARF! :D.
-2015-12-20,397340,True,"I love this game! cant wait to get back to it! 9/10 for the release! When this game gets more in depth with its parts, it will get a 10."
-2016-08-12,338170,False,"Game is gud, pretty alrite, but one thing is, nobody plays it. fugg ;-;"
-2015-09-17,391460,False,"This game is horrible, if you like the ♥♥♥♥♥iest spawns, physics, sounds and gameplay, go ahead.'WARNING' This game may give you AIDS, HIV, Cancer and a whole ♥♥♥♥load of brain cell loss.Enjoy!"
-2016-02-24,99900,True,1. Go On Steam.2. Download Spiral Knights.3. Play Tutorial.4. Delete Spiral Knights.5. Use Spiral Knight Helm On TF2.
-2016-05-07,449140,True,"I Love the mix of Genres, but my designs are really good and keep being stolen. i haven't found a report button (yet) and i would love to be able to report people stealing my ship designs, because if you've taken a long time figuring the perfect mix to put on a ship, it's great. but someone else just goes and steals it without having to go through all the trouble and it's really annoying. but love the game. 9/10!"
+posted,item_id,recommend,sentiment_analysis
+2013-11-25,213650,True,0
+2015-12-20,397340,True,1
+2016-08-12,338170,False,1
+2015-09-17,391460,False,0
+2016-02-24,99900,True,1
+2016-05-07,449140,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-05,413850,True,Very inspirational. It's touching at times and it gives me the chills. I rate it 10/10 :)
-2015-10-01,7940,True,Been playing this game since 2008 <3 still enjoyed this game till today.
-2014-10-21,730,True,Very fun and a addictive game! Worth your time and money! Recommended!
-2013-04-08,440,True,Awesome first-person shooter game :D
+posted,item_id,recommend,sentiment_analysis
+2015-11-05,413850,True,2
+2015-10-01,7940,True,2
+2014-10-21,730,True,1
+2013-04-08,440,True,2

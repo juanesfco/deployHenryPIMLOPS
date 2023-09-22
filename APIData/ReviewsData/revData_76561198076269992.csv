@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-10,49520,True,"Really fun game! I would definitely recommend this game to anyone! If it's on sale, just get it. You won't regret a single bit you spent on buying this game. Loads of content in this game. Many side quests, story missions are great, lots of interesting DLCs and there is also True Vault Hunter Mode! What are you waiting for? Just get the game now! I have enjoyed this game a lot and hopefully will be getting the DLCs soon. Hope all of you will enjoy this game as much as i did!"
-2013-08-16,440,True,Very fun FPS game! It is not the same as COD or any other normal FPS!Provides a variety of items and is very fun to play! I recommend trying it out and buy something on the Mann Co Store and support Valve!
-2013-12-10,204300,True,Really fun MOBA game to play. Quite a few characters to choose from as well. Didn't seem like a very fun game at first but Ieventually tried it out and i enjoyed it. Would really hope to see more new characters and possibly new gamemodes for this game!
+posted,item_id,recommend,sentiment_analysis
+2013-12-10,49520,True,1
+2013-08-16,440,True,1
+2013-12-10,204300,True,1

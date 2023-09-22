@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-06,444550,True,"Really a amazing game!I loved the fast paced style of the game, coupled with the quick thinking and reaction times needed to make it to the end The graphics are great as well. I would highly recommend this game.   10/10"
-2016-08-28,275850,False,"Read the negative reviews decided to buy the game still. Really enjoyed it at the start until, the sudden realistation hits you that 'there really is nothing else todo in this game but grind resources'.I had hope though that the center of the galaxy would bring something promising, it didn't. Yet another disappointment. I would only buy this game when it is atleast 50-75% off. PROS:  - Steam refunding my moneyCONS:   - Everything else that was promised and wasn't delivered."
+posted,item_id,recommend,sentiment_analysis
+2016-04-06,444550,True,2
+2016-08-28,275850,False,0

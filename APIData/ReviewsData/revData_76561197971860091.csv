@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-01,306620,False,Just bought it tried to play it- no go . Tried to stop it -no go . checked forums -no help . deleted game . much better . another to add to the list of games which dont work from steam.
-2014-08-08,298480,False,This game is terrible costs a lot and doesnt work . Do yourselves a favour and avoid it like the plague . Summation : crap
-2014-06-13,218090,True,This seems to be a simplistic game but it has real strategic depth and is extremely difficult to win though victory is possible
+posted,item_id,recommend,sentiment_analysis
+2014-11-01,306620,False,1
+2014-08-08,298480,False,0
+2014-06-13,218090,True,1

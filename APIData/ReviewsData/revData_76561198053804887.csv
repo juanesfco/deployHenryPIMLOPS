@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-20,104900,True,"this game is awesome, we can shoot the dino until turn to chicken"
+posted,item_id,recommend,sentiment_analysis
+2014-06-20,104900,True,1

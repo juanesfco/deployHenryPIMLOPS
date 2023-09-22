@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-03,440,True,"WHY IS THIS GAME BECOMING LIKE CS:GO?its fun for new guys to play, but it gets boring, at least for me it did.TF:GO"
-2015-06-26,730,True,CS:GO is love CS:GO is life
+posted,item_id,recommend,sentiment_analysis
+2015-07-03,440,True,0
+2015-06-26,730,True,2

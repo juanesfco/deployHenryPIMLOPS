@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-25,4000,True,Pizza is awesome.... 10/10!
-2014-01-21,202970,True,"Call of Duty - Black Ops II is one of the best games I have played in the Call of Duty Series, Only problem is that you can't play private matches (to play with bots) or even play zombies solo without being connected to the internet. Although it is a very great game which I recommend being played, It is still a problem for people who travel alot and want to play some 'Combat Training' or Have Carnage with some zombies without having internet."
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,4000,True,2
+2014-01-21,202970,True,2

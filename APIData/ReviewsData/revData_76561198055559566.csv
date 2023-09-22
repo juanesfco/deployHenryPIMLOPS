@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-12-27,265930,False,"This is a mixed bag. It's fun with friends, but it's not a lasting gimmick. At full price (what I paid), it just isn't worth it. If it's discounted and you want a quick laugh, go ahead. Physics are funny for a bit, but it becomes repetitive and stale rather fast. But to make up for it, there are large content updates every now and again.tl;dr, only worth it for a cheap price"
-2014-12-21,266490,True,"Pros:•Costs less than $4 during a sale.•Reminiscent of LOZ: Wind Waker, even to the point of breaking vases for loot + Link's hat + related items!•Looks pretty on its own, but throw in enough rainbow lens flares and it looks beautiful!•Simple and relaxing.•Tons of dialogue... and I mean TONS.Cons:•Camera control with the mouse is weird and hard to use (probably fine with a controller). You'll adjust to it though.•Not much combat... if you can call it that.----One of the better 3D 'platformer' titles available on Steam. It's absurd to think this started out as an iPhone game!"
-2014-11-08,72850,True,"I'm not much of a fan of the long gameplay which involves walking through caves, but it's real purdy when you add mods."
-2014-11-07,31280,True,"If you're trying to decide between this or the second, especially for the loot, go with this one.It has better unlocks and the CPU cheat less.Now onto the game itself:This is the best experience you'll probably have playing Poker. Even if you're like me and don't know anything about Poker except the absolute basics."
-2014-11-07,234710,True,"I barely know how to play Poker and it's still a blast to play.Full of witty banter and video game references, what's not to love?"
-2014-03-22,233720,True,"I am now qualified to perform Heart Surgery. Thanks, Surgeon Sim 2013! Now, where did I put that hammer...(I am in no way qualified to go near operating tools, or even operating tool simulators)OH GOSH THE HEART IS SQUIRMING OUT ON ITS OWN"
-2013-09-27,207490,True,"A truly amazing game, both in terms of gameplay and graphics. A modern take on the classic Rayman gameplay, and still as funny as ever. You can choose from a wide variety of characters (only 4 when first starting) and play through platforming levels, from classic Rayman lum collecting-helicopter hair flying sidescrolling to other twists, such as controlling a mosquito that can suck in enemies and shoot them back out as you attempt to reach the end of the level, all to save those sexy fairy-nymph things. This is definitely one of the best platformers and also one of the best local multiplayer games Steam has to offer, and I highly recommend it. 9.5/10"
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,265930,False,2
+2014-12-21,266490,True,1
+2014-11-08,72850,True,1
+2014-11-07,31280,True,2
+2014-11-07,234710,True,2
+2014-03-22,233720,True,2
+2013-09-27,207490,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-18,335330,False,GOT BORD IN 1 HR
-2014-11-04,257120,True,'MMMMMMMMMM NICE'that is what i say when i eat stuff in this game butttttttttits best to play with a controller i found it hard to use the keyboard8.99999999999999999999999/10
-2015-01-27,315640,False,NO JUST NOwell it lags LOTSSSSSSSSSS and its just ..... NO SUCKS NO JUST NO get some thing else NO JUST NO!!!!!
-2015-05-31,284160,True,gr 8 but laggy coz my pc sucks
-2014-12-18,240,True,i suck at it but its still fun u need lots of skill to play online
+posted,item_id,recommend,sentiment_analysis
+2014-12-18,335330,False,1
+2014-11-04,257120,True,2
+2015-01-27,315640,False,2
+2015-05-31,284160,True,0
+2014-12-18,240,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-06,266840,True,"Turned soldiers into pigs with god powers, 10/10"
-2015-01-13,8930,False,"The single player in this game is great, but due to recent patches the multiplayer has been broken. Games constantly desync and lag. If you want to get this game for multiplayer wait until the devs patch it"
-2014-12-31,96100,True,"the game is pretty good, the graphics and sounds are not great, just average but the puzzles are enjoyableplus i sold the trading cards for more money then the game cost... profit $$$"
-2014-12-19,63380,False,"This game is disapointing in that, while it promises a authentic ww2 era sniper gameplay, instead what it gives you is a broken mess of a game with broken ai, flawed stealth mechanics and a disapointing story.However the bullet camera is impressive and the graphics look fairly good, however i believe they can not compensate for the underlying flaws this game possesses.Buy sniper elite 3 instead"
+posted,item_id,recommend,sentiment_analysis
+2015-01-06,266840,True,1
+2015-01-13,8930,False,1
+2014-12-31,96100,True,1
+2014-12-19,63380,False,1

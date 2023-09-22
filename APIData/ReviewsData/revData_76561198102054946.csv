@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-05,223710,True,"no apto para niños cardiacos de nivel dios!!!! es terror profundo y lla accion que tiene es muy buena lo recomiendo con 4,5 estrellas que es bueno!!"
-2014-09-26,550,True,bueno que puedo decir con un juego tan bueno que te puedes divertir horas y hras con amigos
-2014-06-28,218620,True,es muy buen juego!!! lo recomiendo
-2014-02-13,440,True,es un buen juego para pasar el tiempo!!
+posted,item_id,recommend,sentiment_analysis
+2014-12-05,223710,True,2
+2014-09-26,550,True,2
+2014-06-28,218620,True,1
+2014-02-13,440,True,1

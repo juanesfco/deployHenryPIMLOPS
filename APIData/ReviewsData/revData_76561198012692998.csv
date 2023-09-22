@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-18,236430,False,Utterly disappointed with the sequel to my second most played game on Steam. Critical misunderstanding of what made the first game great and a focus on unfair difficulty rather than exciting and unique challenges left a very bad taste in my mouth.
-2016-08-07,440,False,"The people left behind working on this game at Valve don't seem to know what either they or the community want out of the game anymore, I'm hopeful that they'll notice TF2 exists again at some point in the future and dedicate some talented developers to working on it again."
-2014-03-03,263680,False,I give it 7/10 Allahs
+posted,item_id,recommend,sentiment_analysis
+2014-09-18,236430,False,1
+2016-08-07,440,False,1
+2014-03-03,263680,False,1

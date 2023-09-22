@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-10,304430,True,"There actually aren't words for the stylised perfection that this game is. 10/10 am playing again. If you're looking for a sign, this is it.Good luck"
-2013-12-22,219890,True,"I don't often feel obliged to write reviews but this game. Wow. It has been a long time since a puzzle game has been able to confound me so easily yet not make me feel stuck. The pacing is incredible. The game is tricky, forces you not to think outside the box, but question whether the box even existed. The tweaks to the laws of physics, the colourful geometry and the cute anecdotes make this game brilliant and gripping from start to finish. Kudos Alexander Bruce. 9/10"
-2016-02-07,256290,False,This game seems breathtaking. Shame I can't play it because of the downed Ubisoft servers.
+posted,item_id,recommend,sentiment_analysis
+2016-07-10,304430,True,0
+2013-12-22,219890,True,2
+2016-02-07,256290,False,2

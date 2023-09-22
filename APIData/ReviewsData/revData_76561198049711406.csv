@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-31,7670,True,"Simply incredible, hack and slash is fun as hell, an enviroment unique and perfect as well as a wonderful story with a mind-bending twist near the end."
-2015-03-24,22380,True,Brilliant in everyway
-2014-12-10,282070,True,"Brilliant, by far my favourite War and Survival game this year it is immersive, realistic and creates a wonderful atmosphere."
-2014-11-11,250900,True,"This not only rekindled my love for the game but brought so many new a fresh ideas, faster, smoother, more entertaining just better in everyway this is the epitome of never ending entertainment."
+posted,item_id,recommend,sentiment_analysis
+2014-12-31,7670,True,2
+2015-03-24,22380,True,2
+2014-12-10,282070,True,2
+2014-11-11,250900,True,2

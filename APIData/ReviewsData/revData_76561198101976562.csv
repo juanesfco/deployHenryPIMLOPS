@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-04-02,292030,True,"Absolutely brilliant! Played the second one and this one is a major improvement. Great story line and characters, and brilliant scenery. 10/10"
-2013-12-04,238960,True,Best game ever
-2016-07-09,391220,True,BEST GAME EVER!!!
-2016-09-17,337000,True,"THIS GAME IS UNBELIEVABLE, A MUST HAVE IF YOU LOVE THE SERIES"
-2016-08-21,252950,True,Great Game. A hell of a ride.
-2014-07-10,212160,True,THIS IS FRICKING AWESOME.......nuff said
-2014-02-01,208090,True,"Great game, graphics remind me of borderlands. Reading most of the negative comments before i got this game, most people haven't recommended this game for 1 reason...the 'matchmaking'. I don't see the problem i have no trouble finding a match. In case you 'negative people', who are against this game, haven't notice have you tried moving closer to your modem or internet source when matchmaking. I only have 3 bars on internet and i've had no proble in the matchmaking session. Guys this is a really good game, you won't be disappointed."
-2013-11-21,230410,True,looks epic
-2013-11-20,39120,True,"Being a game that takes up 15gb of storage, downloading it was slow. Although, this is a epic game especially if you are a fan of rpg's."
+posted,item_id,recommend,sentiment_analysis
+2016-04-02,292030,True,2
+2013-12-04,238960,True,2
+2016-07-09,391220,True,2
+2016-09-17,337000,True,1
+2016-08-21,252950,True,2
+2014-07-10,212160,True,1
+2014-02-01,208090,True,1
+2013-11-21,230410,True,1
+2013-11-20,39120,True,0

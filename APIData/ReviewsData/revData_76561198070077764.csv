@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-22,34900,False,I bought this game when it was on sale for 50cents. Worst decision i have ever made
-2015-06-28,203140,True,Hitman Abssolution is quite possibly the greatest game that I have ever played. So what are you doing? Go and play this game!
-2014-09-21,620,True,"It's fun to think with portals.This is an amazing game, it's funny, challenging and takes a long time to finish. Lots of re-play ability and with a friend, the multiplayer is a blast. This is one of my all time favourite games!I highly recommend it."
-2014-08-13,33230,True,"EVERYONE GET THIS GAME!!!!!This is the best Assassins Creed game yet, with good controls, heaps to do and an amazing story. Play this game and you will understand why its my favourite of all time 9.5/10"
-2013-07-14,4000,True,"This game is amazing! It's like Minecraft mixed with Team Fortress 2. Not only is this game a lot of fun but when you buy certain games maps and weapons from that game come into this one. This game has no story but it doesnt need one, its just a fun sandbox that will provide entertaining gameplay for a long time to come. Worth my money for sure, everyone shuld get this game."
+posted,item_id,recommend,sentiment_analysis
+2014-01-22,34900,False,0
+2015-06-28,203140,True,1
+2014-09-21,620,True,2
+2014-08-13,33230,True,2
+2013-07-14,4000,True,1

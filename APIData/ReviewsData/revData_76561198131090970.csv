@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-03-03,346110,True,"Although you can play this game on mac its not recommended.If you are willing to purchase this game on mac, purchase at your own risk the game crashes alot depeneding on what type of mac you are playing on. The minimum requirements would be:CPU Speed: 2.0 GHz Dual-Core 64-bit CPURAM:4 GBOS: Windows 7 or Windows 8Video Card: DirectX11 Compatible GPU with 1 GB Video RAMFree Disk Space: 20 GB"
+posted,item_id,recommend,sentiment_analysis
+2016-03-03,346110,True,1

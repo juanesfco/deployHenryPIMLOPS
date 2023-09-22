@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-01-08,233470,True,"(Español-Spanish) Buen juego para alguien que desee ver la evolucion grafica, como mecanica de los videojuegos RPG.Ademas de que se divertira encontrando todos los homenajes a otros juegos.Lo malo: -Campaña de 3 horas de duracion.Lo Bueno: -Divertidos logros post-historia                 -Minijuego muy entretenido."
-2014-01-10,241720,True,"(Español-Spanish) Este juego de FPS es bueno.Muy interesante y entretenido, su combinacion de shooter con sandbox de construccion es genial, sus modos de juego son geniales.A la hora de crear contenido es facil, al igual que mapas.Lo unico malo que le veo al juego es que casi nadie lo juega y su multijugador practicamente esta vacio."
-2014-01-07,33680,True,"(Español) Excelente juego, muy entretenido. Eso si lo recomiendo para jugadores ocasionales, ya que el juego es muy corto, pero se puede divertirse con el, el precio me parece justo. Uno se divierte mucho completando todos los logros :)"
-2014-01-06,113200,True,"(Español-Spanish) Excelente juego, su jugabilidad y dificultad es genial para tener largo rato jugandolo para completarlo al 100% recomendado al 100%."
-2016-07-02,356670,True,"Este juego es GENIAAAAAAAAAAAAAL me lo descargue por curiosidad y por que es gratis, al principio se hace lento, como hasta despues de la room 250 el juego se pone mas activo, pero una vez te enganchas no puedes parar, y cada vez que juegas mas te da mas miedo y ganas de terminarlo recomendado a full!"
-2016-06-27,48000,True,"Simplemente perfecto, su ambientacion te hace sentir verdaderamente solo y aunque no tenga dialogos de ningun timpo (ni hablados ni escritos) la historia que tiene es muy profunda pero cada quien le puede dar su propio significado."
-2014-04-03,8870,True,"Obra maestra por parte de Irrational Games, una historia bastante compleja que te hara jugar el juego mas de 1 vez, shooter muy divertido y completo interesante puedes combinar poderes (Vigorizadores) para obtener combos impresionantes y no es necesario haber jugado BioShock 1 ni BioShock 2 para entender la historiaNo puedo esperar para conseguir Burial At Sea!"
-2014-03-09,12130,True,"---(Spanish / Español)---Juegazo! En este juego puedes liberar tu mente retorcida y loca asesinando a todo aquel que se cruze en tu camino.puede ser antiguo y no tener buenas graficas, pero las graficas no son todo.Lo bueno:-Una historia original, muy perturbadora pero ORIGINAL-Diferentes tipos de asesinatos-Tu decides cuanto quieres que sufra la victimaLo malo:-El sistema de disparos no es el mejor que digamos.-Algunos escenarios se pueden volver repetitivos"
-2014-01-10,253920,True,"(Español-Spanish) Juegazo que hace ver que los graficos no importan para tener un buen juego.Es un juego que te pone a pensar para destruir a los enemigos sufriendo el menor daño posible, con bastantes armas para decidir como y con que destruiras al enemigo.Pros-Interesante historia.-Entretenido-Pone a prueba tu inteligenciaContras-No tiene logros.(Los logros hacen mas divertido el juego poniendo otros objetivos ademas de la historia principal)Recomendado !"
+posted,item_id,recommend,sentiment_analysis
+2014-01-08,233470,True,2
+2014-01-10,241720,True,2
+2014-01-07,33680,True,2
+2014-01-06,113200,True,2
+2016-07-02,356670,True,2
+2016-06-27,48000,True,2
+2014-04-03,8870,True,2
+2014-03-09,12130,True,2
+2014-01-10,253920,True,1

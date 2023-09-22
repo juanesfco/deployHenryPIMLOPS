@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-31,301520,False,"So, I made a short sentence saying this game was good. I loved it.♥♥♥♥ Robocraft.Removing tiers, adding megabots, buffing even more ♥♥♥♥ that shouldn't have in.What else do they have?♥♥♥♥ing mechs and shields. Why though? Because idiots like all of us will think its cool because it looks flashy and awesome. It really isn't.They have DLC. On an early access game that was once good. Why?They even removed coloured blocks. And then you have to buy them.Please do not get this game."
-2013-12-18,440,True,IT IS AWESOME
-2014-09-16,304930,True,IS GOOD
+posted,item_id,recommend,sentiment_analysis
+2016-03-31,301520,False,2
+2013-12-18,440,True,2
+2014-09-16,304930,True,2

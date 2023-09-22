@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-04-29,4000,True,Cool game. It's hilarious while playing on singleplayer.
-2016-01-24,225840,True,I'm so glad to see this game on Steam.
-2014-05-27,16730,True,The graphics looks pretty good. I like the setting of the game.
-2014-01-13,17520,True,Really cool mod. It's fun to play this with your friends.
-2014-01-13,70,True,"This game rules! The graphics doesn't matter, the gameplay is."
-2013-04-29,440,True,"Fantastic game, very addictive, the most fun you can have online. There's alot of game modes, maps, items and, most of all, HATS!"
-2013-04-29,220,True,"This game is great. The story is unique, amazing and, awesome!"
-2013-04-29,620,True,"Awesome game. Fun with co-op friends. It's challenging, alot of puzzles to solve, and over all smooth game play."
+posted,item_id,recommend,sentiment_analysis
+2013-04-29,4000,True,2
+2016-01-24,225840,True,1
+2014-05-27,16730,True,2
+2014-01-13,17520,True,2
+2014-01-13,70,True,0
+2013-04-29,440,True,2
+2013-04-29,220,True,2
+2013-04-29,620,True,2

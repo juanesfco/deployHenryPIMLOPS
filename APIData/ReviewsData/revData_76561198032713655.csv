@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-10-17,218620,False,"I used to ador this game, I'v spent so much of my life on it, but over the last 2 years its been on a slippery slop, and the microtransactions have broken the cammels back, I feel used and meaningless to the devs, which breaks my heart since they used to love us and give us free dlc, updates, hats, guns etc and now all we are is wallet fotter, so I find myself writing  bad review simply though disgust with the way we have been treated and lied to.Sorry old overkill, you suck new overkill...."
-2016-06-22,290080,True,"This game was very GOOD. I thouroughly enjpoyed the mix of crafting and survival elements involved in the intrensic design of the game. the visuals are very retro, the squares and triangles are very artistic. The game is designed to make you think about the real world because the controls have to be figured out by trial and error. Just to keep the game interesting, it will remove your ability to lok around, for the purpose of iintuitive gameplay. SPOILERS, the boars in this game are the ultamate end game bgoss, they dont need to follo0w game rules, will walk through anything, and kill you, also they cannot die. I find this to be a play and exploration of our capitalist society and the way we socialy condition -peoiple to follow authority. I got this game for $10 and i actually feel guilty i didnt pay the full $30. Great game, please buy."
-2015-10-23,391070,False,Rubbish
-2015-10-01,332790,True,"This game is fantastic, to get the maximum amount of enjoyment all you need is 2 keys!Alt and F4!"
-2015-10-28,32430,False,"My Grandfather smoked his whole life. I was about 10 years old when my mother said to him, 'If you ever want to see your grandchildren graduate, you have to stop immediately'. Tears welled up in his eyes when he realized what exactly was at stake. He gave it up immediately. Three years later he died of lung cancer. It was really sad and destroyed me. My mother said to me- 'Don't ever smoke. Please don't put your family through what your Grandfather put us through' I agreed. At 20, I have never touched a cigarette. I must say, I feel an overwelming sense of regret for never having done it, because this game gave me cancer anyway..."
-2015-11-03,391540,True,I couldn't be bothered writing reviews  but this game is so bloody good is deserves at least an extra positive vote so here I am.
-2015-10-29,24790,True,"Fantastic game, steam versaion 30fps and clunky stuttery cam movments make it feel and look like trash, dont try and play if your used to 60 fps."
-2015-10-28,267340,False,"Bloons tower defence clone that offers nothing origonal or even any interesting ideas, bland simplistic and nonconsitant art style, cant imagine why its $10."
+posted,item_id,recommend,sentiment_analysis
+2015-10-17,218620,False,1
+2016-06-22,290080,True,1
+2015-10-23,391070,False,1
+2015-10-01,332790,True,1
+2015-10-28,32430,False,1
+2015-11-03,391540,True,1
+2015-10-29,24790,True,1
+2015-10-28,267340,False,1

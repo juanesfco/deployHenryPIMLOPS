@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-30,41060,True,JOGAÇO
-2014-01-19,12210,True,awesone
-2013-12-03,1250,True,o jogo tesudo da ♥♥♥♥♥
-2013-12-05,233720,True,jog muito bom
+posted,item_id,recommend,sentiment_analysis
+2013-11-30,41060,True,0
+2014-01-19,12210,True,1
+2013-12-03,1250,True,0
+2013-12-05,233720,True,2

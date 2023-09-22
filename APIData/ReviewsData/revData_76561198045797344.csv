@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-10-17,233860,True,A very interesting and different take on a strategy game(despite beta bugs) definetly worth lookin into.
-2016-05-13,236430,True,Dark Sword?
+posted,item_id,recommend,sentiment_analysis
+2013-10-17,233860,True,2
+2016-05-13,236430,True,0

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-09-06,99900,False,"No oceanic server. Shame, the game had huge potential"
-2015-10-30,401920,True,8/8 hype worth
-2015-10-20,391540,True,10/10 Flowey spooped me good
-2014-02-25,104900,False,Game doesn't even load
-2013-12-06,218620,True,Very fun with a huge variety of masks and weapon customisations!
+posted,item_id,recommend,sentiment_analysis
+2016-09-06,99900,False,1
+2015-10-30,401920,True,2
+2015-10-20,391540,True,2
+2014-02-25,104900,False,0
+2013-12-06,218620,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-03,241260,True,im a full blown detective now
-2016-06-23,365450,True,i luv it
-2015-12-22,303210,True,"Such a beautiful game. I just finished the game and I've been left speechless. It tore at so many of my emotions. It could mean so many different things to so many different people. Sure, there's nothing wrong with playing some FPS and taking down some zombies, but this is a work of art. This had a deeper meaning. This is a story."
+posted,item_id,recommend,sentiment_analysis
+2016-04-03,241260,True,2
+2016-06-23,365450,True,1
+2015-12-22,303210,True,1

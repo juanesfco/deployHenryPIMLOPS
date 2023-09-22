@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-13,275850,False,"I has high hopes for No Mans Sky, I really did. It seemed like a great exploration based game. The problem is that that isn't what it actually is. It is being ordered around simulator 2016. Mine this, get that, fix this, and go there. The gameplay has little variety and it just isn't fun to play. I am planning to refund it and get my hard-earned cash back. DO NOT buy this game based on the gype, it has little substance. On top of all that I tried to buy a new ship, only to find that it cost 100x more credits that I had 1 HOUR into the game, 10x for a new multi-tool. All I reccomend is to either not buy this game until at least some issues are resolved, or to try it and see what U think."
-2015-08-31,264710,True,"Ok, so I love the idea and the system of this game. but I would reccomend buying it later so that you can have the best experience in the game, for example, i was walking on an island near the aurora and a reaper leviathan came through the ground, which was very scary. I haven't ended up doing much in it because I was really scared  by all thehuge and nasty sea creatures!"
-2016-02-07,34330,True,Total War Shogun 2 is the pinnacle of the Total War series. The only problem I have with it is that it only has 2 player coop.
+posted,item_id,recommend,sentiment_analysis
+2016-08-13,275850,False,1
+2015-08-31,264710,True,1
+2016-02-07,34330,True,1

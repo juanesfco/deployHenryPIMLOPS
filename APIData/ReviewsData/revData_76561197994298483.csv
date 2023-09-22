@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-07-20,219890,True,Thinking mans game 10/10
-2012-12-24,440,True,Best game this summer :-)
-2012-05-03,17500,True,game 4 gangstaz
-2015-01-28,4000,True,"Fantastic lil game to bypass time, its like lego, you can build all the things."
-2015-01-28,256410,True,Fantastic lil game this one.
+posted,item_id,recommend,sentiment_analysis
+2013-07-20,219890,True,0
+2012-12-24,440,True,2
+2012-05-03,17500,True,0
+2015-01-28,4000,True,1
+2015-01-28,256410,True,1

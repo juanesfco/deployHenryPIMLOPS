@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-18,233250,True,"Pros:Artstyle , i absolutely personally love it AI , very intelligent , knows what its doing and kicks real ♥♥♥♥.Cons:Gameplay , it lacks a real backbone and storyline to really set the game off.Performance , optimized to an extent but really hurts lower end systems.Lack of diversity , didnt feel very much like its predecessor 'Total Annihilation' , sadly did not have any 'Experimental' type units :( and every 'Faction' had the same Units.Overall , i rate this 7.6/10Although created completely from scratch , i feel it needed a backbone."
-2015-02-24,730,False,"the worst game you could ever possibly play , only enjoyable thing is competitive , and even then you're getting banned left right and centre for 90% not your fault. 7daybansaplenty"
+posted,item_id,recommend,sentiment_analysis
+2014-12-18,233250,True,1
+2015-02-24,730,False,1

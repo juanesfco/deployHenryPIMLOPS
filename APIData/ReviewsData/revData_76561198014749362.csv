@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-17,204080,False,wtf is dis ♥♥♥♥
-2014-11-21,2590,False,I couldnt even find a weapon at the start of the game
-2014-11-22,33950,False,no pls no
+posted,item_id,recommend,sentiment_analysis
+2014-01-17,204080,False,0
+2014-11-21,2590,False,0
+2014-11-22,33950,False,1

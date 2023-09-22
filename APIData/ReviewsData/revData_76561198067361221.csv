@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-31,242700,True,Injustice: Gods Among Us is the best fighting game i have ever played. A mix between superheroes and Mortal Kombat was a great idea. This is a good step up from Mortal Kombat. Unfortunately i couldnt get the online to work and you need to mess around in the settings and if you dont you will be fighting in slow-motion. Over all this game is great apart from the online and lag. I will give this game a 8.8.
-2013-03-19,72850,True,this game is AWESOME
-2012-12-21,620,True,awsome meow
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,242700,True,2
+2013-03-19,72850,True,2
+2012-12-21,620,True,1

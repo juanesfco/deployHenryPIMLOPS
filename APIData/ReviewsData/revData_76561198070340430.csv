@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-21,206190,True,Cool game
-2015-05-03,232090,True,"After getting this game, i forgot about the rest of my other games"
-2014-07-09,221100,True,Dont really like it but it's still good
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,206190,True,1
+2015-05-03,232090,True,0
+2014-07-09,221100,True,2

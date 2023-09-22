@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-01-28,239140,True,Basically skyrim + zombies + assassins creed had a kid together and produced this wonderful output.
-2016-07-25,496920,True,It's just a prank bro...
-2016-04-15,374320,True,I'm already hollowing on the inside
-2015-11-13,238430,False,C++ crashes its contagious
-2016-03-04,437900,True,I have 10 friends playing with me.All of them are my fingers.
-2015-09-07,287700,True,Those mixtapes are fire.10/10
-2015-02-21,570,True,Should be finishing my uni degree anytime now
-2014-02-10,230410,True,Its like teenage mutant ninja turtles with cards.
+posted,item_id,recommend,sentiment_analysis
+2015-01-28,239140,True,2
+2016-07-25,496920,True,1
+2016-04-15,374320,True,1
+2015-11-13,238430,False,1
+2016-03-04,437900,True,1
+2015-09-07,287700,True,1
+2015-02-21,570,True,1
+2014-02-10,230410,True,1

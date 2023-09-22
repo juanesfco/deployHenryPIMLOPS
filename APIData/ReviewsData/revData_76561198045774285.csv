@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-26,570,True,The best MOBA game ever made since DotA... Furthermore it is free. WHY THE HECK WOULD YOU NOT PLAY IT. SCREW LEAGUE OF LEGENDS
-2015-12-23,730,True,"Well, overall a great game with magnificent maps and awesome community servers. However a terrible competitive system, out of 10 games, you meet trollers in 6 of them and people who afk or abandon early in 2 of them. It's giving us cancer, seriously. Just shut up and play casual/community servers or freaking dota 2 man."
-2015-12-14,8930,True,"Get the complete edition, without the DLCs, it's simply life without weekends."
-2012-08-29,440,True,"This game is damn awesome! Play it, I assure you will not regret! It is free to play too!WARNING: Addictive"
+posted,item_id,recommend,sentiment_analysis
+2015-01-26,570,True,2
+2015-12-23,730,True,2
+2015-12-14,8930,True,1
+2012-08-29,440,True,2

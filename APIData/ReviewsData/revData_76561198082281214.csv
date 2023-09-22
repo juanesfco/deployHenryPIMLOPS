@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-20,252490,True,yes i do recommend but what really people wants in this game is the old version of rust with a good VAC
-2014-12-29,302830,False,ITS SO SHIIIIIIIIIIIIIT why is pll making these block games its gay
-2014-11-29,209870,False,So ♥♥♥♥ i couldnt even play the game
+posted,item_id,recommend,sentiment_analysis
+2015-03-20,252490,True,2
+2014-12-29,302830,False,2
+2014-11-29,209870,False,0

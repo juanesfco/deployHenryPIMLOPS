@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-03-25,200260,True,GREAT GAME!!!
-2013-11-29,236370,True,"A young game, but with good intentions!"
-2014-04-21,239220,True,"Pretty fun, would recommend."
-2014-01-03,49520,True,Great explodie fun.
-2013-12-18,8190,True,Great game.
-2013-11-29,202170,True,"Fun, you play as an under cover cop, wei shen. DRUG BUUUUUUUSSSSSSTTTTTAAASSS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! NINJA KNICS< ROUNDHOUSE KICKS< BEING AWESOME< STEALING CARS WALKING AWAY FROM EXPLOSIONS! WHAT MORE PROOOF DO YOU NEED?"
+posted,item_id,recommend,sentiment_analysis
+2014-03-25,200260,True,1
+2013-11-29,236370,True,2
+2014-04-21,239220,True,2
+2014-01-03,49520,True,2
+2013-12-18,8190,True,2
+2013-11-29,202170,True,2

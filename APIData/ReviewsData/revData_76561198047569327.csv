@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-31,224600,True,"A fun MMO game on steam that has a 3rd person feel to it, whilest still having 1st person view involed. it even has a TV series, but not sure if they are based the same. still a fun game for all you MMO, 1st person, 3rd person or adventureus game players:D"
-2014-01-03,247730,True,"ive played thsi for awhile now and the only gliches or error i've seen is the servers cut out. there are some bugs with the graphics and characters but my computer is probably the reason for it as i have to have the settings to the lowist.other then all of these the game shows real potential to becoming a good game out of beta. i really like the stealthy part of the game as its quite challenging to get past the Nethers and other hostile mobs, including other players.keep up the good work 'Nether'!And Game On!"
-2013-12-23,65800,True,"it's price/s are cheap and affordable, as i got all the DLC's including the game for $14-$18... of cousre it was on sale, but still affordable"
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,224600,True,1
+2014-01-03,247730,True,1
+2013-12-23,65800,True,1

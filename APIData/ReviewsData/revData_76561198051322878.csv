@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-31,440,True,fun
-2013-07-13,48700,True,awesome game
-2015-04-13,730,True,This game is amazing for a number of reasons. AK-47 headshot does backflip and has one of the friendliest communities of any game I have ever played. Even the 12 year olds in this game dont yell at you for top fragging and competive matchmaking doesnt put you with smurfs. The 64 tick is more than enough for me. Who needs 128 tick?I rate this game 9/11
+posted,item_id,recommend,sentiment_analysis
+2014-01-31,440,True,2
+2013-07-13,48700,True,2
+2015-04-13,730,True,1

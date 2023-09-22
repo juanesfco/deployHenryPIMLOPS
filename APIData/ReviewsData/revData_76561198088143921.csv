@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-05-24,242760,True,GET THIS GAME PLS YOU WILL NOT REGRET IM BEING FULLY LEGIT
-2016-04-04,311210,True,got the game not to long ago but is sooooooooooo fuuun
-2016-05-13,437220,True,"Its alright i guess, gameplay could be alot smoother but its an early access game what do you expect. This game is getting alot of hate but its fun."
-2015-05-11,304930,True,1: spawned in2: got a pistol3: recked some zombies4: rated it 10/10
-2014-08-15,262410,True,Great game really good for learning about guns and also having a lot of fun at the same the time i play it at least 2 a day at least.
-2014-04-24,22300,True,This is the best game in da world
+posted,item_id,recommend,sentiment_analysis
+2016-05-24,242760,True,0
+2016-04-04,311210,True,0
+2016-05-13,437220,True,0
+2015-05-11,304930,True,1
+2014-08-15,262410,True,2
+2014-04-24,22300,True,2

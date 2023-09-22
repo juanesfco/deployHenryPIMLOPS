@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-06,440,True,es muy bueno todo lo malo lo compensa facilmente
-2014-02-20,4000,True,muy buen juego nunca te aburres porque hay muchos modos de juego
+posted,item_id,recommend,sentiment_analysis
+2014-04-06,440,True,2
+2014-02-20,4000,True,1

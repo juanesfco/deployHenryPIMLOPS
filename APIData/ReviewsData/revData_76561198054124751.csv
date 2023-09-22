@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-07,113200,False,"The game was good the first time I played it but I forgot about it for a while. Bout a year later when I went to play and reinstall it, the app kept crashing no matter what I did. Even confirming the content never worked nor did the app ever fix. Just so you know the app wouldnt open and then close: Steam would begin the startup and crash it. There would be no homepage for the game or music, just the annoying box that said the app crashed. When I would search online there would be no browser open to fix it. Either my computer is stupid as all hell or it is just a broken game."
+posted,item_id,recommend,sentiment_analysis
+2014-12-07,113200,False,0

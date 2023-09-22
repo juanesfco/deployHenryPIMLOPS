@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-24,245170,True,Excellent fighter. Reminiscent of the classics with inspiration from other games. Definitely recommended.
-2011-07-06,440,True,Without question one of my all-time favourites
-2011-07-06,220,True,Possibly the best FPS I've ever played
-2011-07-06,400,True,"Classic game full of win, epicness and cake."
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,245170,True,2
+2011-07-06,440,True,1
+2011-07-06,220,True,2
+2011-07-06,400,True,2

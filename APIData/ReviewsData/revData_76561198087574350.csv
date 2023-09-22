@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-03,243870,True,it shows seaching for beginner game...BUt sorry its actually packed with all pro... not beginner
-2013-12-12,570,True,Its a nice game... I hope that dota will create some new hero....
-2014-12-05,230410,True,"LAGGG, LAGG ALOT! I CANT EVEN PLAY WELL BECAUSE OF LAGGG, EVEN I SET TO LOWEST SETTINGEVEN ITS LAGG, BUT I STILL PLAY IT ALOT BECAUSE ITS FUN! :))"
-2015-11-02,352460,True,"this game is fun but what the fark happen??????? i just purchase this game today, and everything is fine, when i press ready, and the game start and while the game is loading this game AUTO CLOSE WITH NO REASON   , not crash, is not either not responding or stop working. Please help and fix this fasttt"
+posted,item_id,recommend,sentiment_analysis
+2014-06-03,243870,True,0
+2013-12-12,570,True,2
+2014-12-05,230410,True,2
+2015-11-02,352460,True,0

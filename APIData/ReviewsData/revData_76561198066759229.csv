@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-24,207140,True,Such a fun little minigame that it growing fast and I love it. I find myself playing it when I have spare time. It is especially fun with friends.
-2014-06-24,4000,True,"I love the different kind of game styles you can play in just one game. All the gamemodes are fun in their own unique way, and then there's the sandbox, neverending fun for the imagination. Great to play with friends."
-2014-06-24,259080,True,An amazing game to mess around on with you're friends. I play it so often.
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,207140,True,2
+2014-06-24,4000,True,2
+2014-06-24,259080,True,1

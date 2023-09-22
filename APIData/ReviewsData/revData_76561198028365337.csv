@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-12-21,214230,True,"An enjoyable game to play if you like the TV Show, might be worth waiting for the price to come down though."
-2013-12-28,232430,True,"I enjoyed the game, though it is more of an interactive experience than an actaul game. You should take your time when playing, so that you don't miss anything. Best to get the game when it is on sale, as it only takes around 2.5 to 3 hours to complete."
-2013-12-28,233450,True,"Prison Architect is an addictive game, I look forward to watching it improve over time. As the game is an Alpha, it obviously has a few issues, though Google will help you resolve / work around these issues most of the time."
-2012-07-14,105430,True,"I am quite enjoying this game, although the graphics aren't great."
+posted,item_id,recommend,sentiment_analysis
+2012-12-21,214230,True,1
+2013-12-28,232430,True,2
+2013-12-28,233450,True,1
+2012-07-14,105430,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-24,243870,False,"Pros: Addictive Shooter, Very Tactical, Engaging Combat Scenarios, Balanced Class System.Cons: Unbalanced Matchmaking, Moderate Pay to Win Model, Lack of Noob friendly matches/tutorial, Unbalanced Equipment, Slow Matchmaking, Lacking in different gamemodes and maps.Score: 42.78%Reviewed after playing 20 over matches in game"
-2016-08-25,364360,True,"Short Opinion of the game(not review)ProsMost refreshing of the total war seriesEach factions plays differentlyAmazing sound'Generals' unit is betterConsThe factions management and diplomacy is dumbed down (maybe a pro if you dislike it)Lack of 'variety'(clans in the older games) per faction (fixable by mods)Terrible AI (fixable by mods)I dont include DLC, because this is an overall look for the base game, praise or complain at the DLC page, not here."
-2014-03-11,271290,True,"Pros; Engaging Multiplayer and co-op experience, Vast variety of mech to choose, Addicting gameplay, Fluid movement, Vast mech customization options, Free to play, Fast paced gameplay, Great graphics.Cons: Incredibly broken matchmaking system, Broken spawn points during multiplayer, Not much tactical option during gameplay, Stupidily long progression system.Score: 67.41%Reviewed after reaching level 8"
-2013-12-24,8930,True,"Pros: Great Music, Intriguing history quotes, Epic intros :D, Vast gamplay variety, Addictive gamplay, Challenging to Noobish gameplay difficulties, Incredible single player.Cons: Insanely long normal game, Lack of popular multiplayer, Long progress systems, Hard to find and complex world editor.Score: 87.98%Reviewed during 2013 Holiday Sale"
+posted,item_id,recommend,sentiment_analysis
+2014-05-24,243870,False,2
+2016-08-25,364360,True,1
+2014-03-11,271290,True,1
+2013-12-24,8930,True,2

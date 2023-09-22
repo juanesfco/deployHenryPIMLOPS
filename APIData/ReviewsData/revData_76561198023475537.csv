@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-05,33930,True,"Still haven't found the jump button, amazing."
-2016-01-20,4000,True,It's okay.
-2015-07-19,304050,True,Now you don't have to feel ripped off by Cube World when you play this.
+posted,item_id,recommend,sentiment_analysis
+2016-02-05,33930,True,2
+2016-01-20,4000,True,2
+2015-07-19,304050,True,1

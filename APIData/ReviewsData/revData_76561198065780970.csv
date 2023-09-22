@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-11,730,True,nice game
-2015-10-30,550,True,mosd make this game nicer to play
-2013-11-28,440,True,Great game
+posted,item_id,recommend,sentiment_analysis
+2013-12-11,730,True,1
+2015-10-30,550,True,0
+2013-11-28,440,True,2

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-07-25,218680,True,This game is a very fun and very exciting. Scribblenauts unlimited actully taght me. Unlike school you are learning but haveing fun at the same time. Who needs school when you can play Scribblenauts.
-2014-10-17,208090,False,Its horrible for an MMO no one plays it it took me 3 hours to find a server people were playing on
-2014-10-04,265630,False,"Fistful of Frags is alot better than TF2 but the graphics arent good at all, like TF2 no single player campaign and unlike TF2 it doesnt have enough classes."
-2014-10-17,4000,False,Its a horrible game and i really dont get the point to it. my advice dont get it unless you want to be stupid
-2014-10-31,247120,False,No its a pretty awful game dont get it it always crashes when you start it up and my pc meets all the requirements you need to play it actually my pc beets the requirements whatever you do dont get it its loaded with bugs and glitches.
-2014-11-22,105600,True,"I absolutely love this game it is the greatest game ive ever played its one trillion x better than Minecraft. I really dont understand Minecraft is the 3rd most played game but Terraria is better so it should be the 1st. When I played Terraria I was like Minecraft, whats that. Terraria is the best game for the following resons:.No lag.Guns.Loads of bosses.Easy crafting.Lots of fun.Loads of items.Powerfull weapons.2D for easy mining.Not many mods (obviously if theres not many mods its a great game)Overall I rate Terraria 101/100 its so great:)"
-2014-09-05,200210,False,Its a rubbish game I absolutely hated it and after about a yr of having in my library I unistalled it ferom my pc and removed it from my library and in that time I only played it about 50-60 times.
-2014-08-22,298260,False,Only If is a really great game and I really really enjoyed playing. But I DONT recomend it because tags say horror but theres no horror I dont get it and I hated that in the first room on the first level there is a censord picture and I really wish it was'nt.P.S Check out Locky_408 Youtube channel heres the link: www.youtube.com/user/xLocky408xyou should also check out Tobuscus: www.youtube.com/user/Tobuscusand check out the gretest youtuber ever Pewdiepie link: http://www.youtube.com/user/PewDiePie
-2014-08-15,440,True,"TF2 is alot of fun and its really good but there is a few errors in the game no singleplayer campaing, theres no free for all, people hack and cheat and after a while you get sick of playing it for a while so for this I dont reccomend it unless you cheat or hack and want to do the same thing over and over again but there a VAC servers witch is good and they stop hackers but I dont think they work. But its still a fun game even if you do play with hackers and the acheivments are easy to get unlike othe games ive played so yeah ill rate it 10/10."
-2014-08-09,304930,True,"This game is so much fun but so challenging its a really great game cosidering its early access.I just hope that in future updates they add helicopters,boats, more vehicles (trucks, motorbikes ,tanks), more guns to find on the ground and I hope that the devolopers of this game make it so that zombies are not everywhere you go instead of zombies in an area the mignt be a village that survived and they give you things and there are npcs in the village and I want them to make crafting items easier.But when it comes out of early access i might have to say no."
+posted,item_id,recommend,sentiment_analysis
+2014-07-25,218680,True,2
+2014-10-17,208090,False,0
+2014-10-04,265630,False,2
+2014-10-17,4000,False,0
+2014-10-31,247120,False,0
+2014-11-22,105600,True,2
+2014-09-05,200210,False,0
+2014-08-22,298260,False,1
+2014-08-15,440,True,1
+2014-08-09,304930,True,2

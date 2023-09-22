@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-02-08,104900,True,"Awesome game, recommend getting it. still a few problems but overal great"
+posted,item_id,recommend,sentiment_analysis
+2014-02-08,104900,True,2

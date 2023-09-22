@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-20,270210,True,"Kinda like Vib-Ribbon...anyone know that game? No? I don't care.Still, a lot of fun if you like rhythm games."
-2014-07-21,440,True,"Very fun and enjoyable. Addicitave, as well as chalanging. Basically, it's a millions times better and fun then COD or BF."
-2014-05-29,4000,True,"After several years of my friends begging me to buy the game, many Gmod videos added to my favorites and many looks at the workshop, I finally got it. And you know what? Money well spent.Saying why this game rules is like saying why steam itself is an incredible game platform.There's not much of a story...at all. You just spawn in items and characters and do whatever the hell you want with it. And that's why this game is so cool. It's just you and your imagination where the sky is the limit. You can race a go-kart on a ferry with a Bioshock Big Daddy underwater with a Diamond Sword. If that's not a selling point for you guys, then I don't know what is."
+posted,item_id,recommend,sentiment_analysis
+2015-05-20,270210,True,1
+2014-07-21,440,True,2
+2014-05-29,4000,True,1

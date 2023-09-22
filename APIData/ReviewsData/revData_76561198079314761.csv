@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-10-14,227700,True,Highly Recommended even though it has it's ups and down definitley worth putting in the effort to get/play this game
-2014-01-31,246700,True,Got potential thats all i got to say
-2014-06-09,236090,True,I highly recommend this game so go ♥♥♥♥ING GET IT
-2014-04-19,237310,True,This game is probably one of the best games I have played side scrolls and I hate that so anyway go play this game i highly recommend......I said go play it....GO ALREADY!
-2016-01-23,214970,True,"This game was, is and shall be bloddy amazing, if you don't have it, it's worth the $10.00 you pay for it"
-2014-02-26,209540,True,Got very good potential at the moment hope it dont screw up
-2014-01-14,230410,True,this is a gorgeous game which is known for its combat and the complexity of the gamepls get this
+posted,item_id,recommend,sentiment_analysis
+2014-10-14,227700,True,1
+2014-01-31,246700,True,1
+2014-06-09,236090,True,0
+2014-04-19,237310,True,1
+2016-01-23,214970,True,2
+2014-02-26,209540,True,2
+2014-01-14,230410,True,2

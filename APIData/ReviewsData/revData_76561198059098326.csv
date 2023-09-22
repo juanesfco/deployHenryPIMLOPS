@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-01,428550,True,Momodora Reverie Under the Moonlight= Dark souls + Terraria10/10 its just too hard
-2016-07-04,406150,True,The gameplay had great visual aspects and really good music. It was simple! 10/10 great way to end my depression
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,428550,True,0
+2016-07-04,406150,True,2

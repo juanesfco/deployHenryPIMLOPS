@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-09-18,252950,True,its fun ;)
-2013-12-16,203140,True,fun game
-2013-11-28,202970,True,good  game
-2016-08-14,47410,False,Im gfay
-2016-07-30,252490,False,"Rust, A so called 'Survival Game' was released in 2013 by Facepunch studios.I bought rust in early 2015, I joined a game full of friendlyness and people who wanted to 'survive'Over 1000 hours later, The game has gone to trash. It is not a survival game anymore. Its a clan - KOS - Game where who ever kills eachother wins. The game USE TO be fun. But at its current state is it not worth buying and wasting money on complete udder trash.Goobye rust for now, As i will see you when i next go to the dump."
-2015-06-27,204450,True,"My oh my...This game is one of a kind!Firstly, This game Is a beutifal First person shooter. It really tells a great story and has great sound.Secondly, The shooting is quite realistic and theres you way you will hit every headshot.Thirdly, This isnt cod, It is Call of Juarez Gunslinger, It is a superb game and should be alot more popular.PROS-------ThemeShootingGraphicsPriceStoryLevel up systemCONS------Multiplayer--------Note, this game is beutifal and dont hate it because its a great gameOVERALL RATING------------------9/10"
+posted,item_id,recommend,sentiment_analysis
+2015-09-18,252950,True,2
+2013-12-16,203140,True,1
+2013-11-28,202970,True,2
+2016-08-14,47410,False,1
+2016-07-30,252490,False,1
+2015-06-27,204450,True,2

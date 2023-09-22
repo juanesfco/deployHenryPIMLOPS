@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-23,208650,False,The gameplay and mechanics of the game a great but the perfortmance is utterly laughable for a game running UE3.For a AAA release this sort of performance issues along with a $40 season pass is terrible.Do not recommend
-2014-01-04,221380,True,3 of Britons Longbowman Armies and your done for the game.10/10 wood please
-2013-12-06,8930,True,This is a great game and if you do not own it yet you should heavily consider picking Civ 5 up.Strongly recommmeded for edless hour and replayability.What are you waiting for?
+posted,item_id,recommend,sentiment_analysis
+2015-06-23,208650,False,0
+2014-01-04,221380,True,1
+2013-12-06,8930,True,1

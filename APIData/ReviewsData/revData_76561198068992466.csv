@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-03-07,206440,True,"A story very unlikely to be told, very beautiful and touching in a different way."
-2014-03-24,8870,True,"Explainations are everywhere. This game is amazing, with a place that we couldn't imagine. Beautiful story line, written in a creative way yet scientifically true eventhough it's just a game."
-2012-09-28,440,True,"9 characters with diffrent stats, teamwork, a match that can be won in less than 1 hour, a huge variety of maps, weapon drops. All of them in one game, and it's cheap. Doesn't cost more than 5 dollars to be premium. And i put all the blame to hackers, f2p that doesn't even know how to fire a shot, and annoying people that doesn't chat with international language for ruining the game. But overall, it's still a good game. Oh, and also, hats."
-2014-07-07,105600,True,Best. 2D. Sandbox. Ever.
-2014-04-20,222900,True,"Basically a moba game, set in a zombie apocalyptic world where ones must survive hordes of zombies. And we don't need to stress about MP, there's none. WASD to move. Overall, this game has a 'newer' style rather than other MOBA games. Nice weapons, craftable. Currently not P2W. Simpler GUI. You need to aim. Combining fps and moba is a great idea."
-2014-02-23,259390,True,"still have a lack of story, but 4 bucks for an amazing graphics? it's worth it"
-2014-02-23,218060,True,The only problem that i can find is: the view is too beautiful.
-2014-02-22,4000,True,"ahh, good ol' days. Almost the same as minecraft, but with more items, angles, and workspace."
-2014-02-15,570,False,"Shut it down. Shut it all down. It's taking too much time to just win a match, especially if you only have 2 days at a week to play. I'm definitely not gonna waste my time to just play 15 matches a day, if that even possible."
-2014-02-03,244710,True,"Badgers aren't cute, they're just... adorable. I must admit."
+posted,item_id,recommend,sentiment_analysis
+2014-03-07,206440,True,2
+2014-03-24,8870,True,2
+2012-09-28,440,True,1
+2014-07-07,105600,True,2
+2014-04-20,222900,True,1
+2014-02-23,259390,True,2
+2014-02-23,218060,True,2
+2014-02-22,4000,True,2
+2014-02-15,570,False,1
+2014-02-03,244710,True,2

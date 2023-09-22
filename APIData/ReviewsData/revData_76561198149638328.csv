@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-28,570,True,It is simply awesome but it requires a lot of skill to play professionally.
-2014-11-17,440,True,This game is H.E.C.K.A Awesome. I think it is definetly 100% the best game on Steam that is free.
-2015-11-17,1840,True,"Awesome, its the best.  8.5/10"
-2015-02-21,227700,True,"You might want to think twice about getting this game. It has it's advantages and disadvantages, but it's not entirely all that bad. Here are my emoti-points.:) Fun storyline:( Big game to download:) Awesome weapons:( Undeveloped Graphics Mostly:) Great Interactivity (whether online or not):( Somethimes cheap void detected (this would be a normal face so maybe :l ):) FREE!!!!!!!!!!!!!!!!!!!!!!!!So all in all,  I would probably give a 6.5 out of 10, but compared to other games, if you have Team Fortress 2 and you want a semi-similar genre game, I do recommend you to get this gameGood Day :P"
+posted,item_id,recommend,sentiment_analysis
+2014-11-28,570,True,2
+2014-11-17,440,True,2
+2015-11-17,1840,True,2
+2015-02-21,227700,True,1

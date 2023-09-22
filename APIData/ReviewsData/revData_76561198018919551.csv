@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-25,294860,True,"I've played the entire game on ps3, I finished every mission, every challenge and have almost 2000 hours in the game...AND I CANNOT RECCOMEND IT ENOUGH!Now, It's a bit bias since this is my favourite game of all time, but who cares???P.s: Wavy is best militiaman :D"
-2015-09-05,333930,True,Became a Hispanic doctor who murdered people with a cricket bat underneath a train station22/10
+posted,item_id,recommend,sentiment_analysis
+2015-11-25,294860,True,2
+2015-09-05,333930,True,1

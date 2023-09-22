@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-15,210770,True,es muy bueno asdasdasdasdasdasdasdasdasdasdasda
-2015-10-17,206210,True,"muy bueno, lastima que pocas personas lo jueguen T.T"
-2015-10-14,105600,True,un marjarsh
+posted,item_id,recommend,sentiment_analysis
+2014-08-15,210770,True,2
+2015-10-17,206210,True,2
+2015-10-14,105600,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-10,24010,False,"Boring and overpriced - plain and simple. It's a good thing I bought this for $10 on special, because I enjoyed the game for around an hour, before realising that the basic game you're given, is really only worth $10. Sure you can tell they've tried to make the few routes they provide with the Steam edition visually appealing, and it seems like an authentic experience (I don't know much about driving trains, I'm not a professonal), but if sitting, staring at your screen for an hour, waiting for your train (from the minuscule selection you're provided to start with) to exceed the speed limit a little bit and then pulling a lever slightly is authentic, frankly I don't really care because this 'game' is not necessary - I hate to be harsh, but perhaps if the dlc wasn't so expensive, I wouldn't care as much. I love trains, but this just isn't compelling."
-2013-12-25,238260,True,"Using classic tables, beautiful graphics and realistic physics, it's just a pinball game. And it's so satisfying."
-2013-12-25,208140,True,"If chess and the Spore space stage had a baby, this'd be it - the eternally replayable, incredibly addictive Endless Space."
+posted,item_id,recommend,sentiment_analysis
+2014-04-10,24010,False,1
+2013-12-25,238260,True,2
+2013-12-25,208140,True,1

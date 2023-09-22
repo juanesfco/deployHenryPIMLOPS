@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-05,306130,True,Amazing
-2014-03-21,211820,True,Yes
-2015-04-24,72850,True,Knew it wouldnt last
-2014-04-06,6860,True,"This game summed up in a single word, epic"
+posted,item_id,recommend,sentiment_analysis
+2015-04-05,306130,True,2
+2014-03-21,211820,True,1
+2015-04-24,72850,True,1
+2014-04-06,6860,True,0

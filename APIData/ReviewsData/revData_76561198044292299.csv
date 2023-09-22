@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-03-26,212160,True,This game made me realise the beneficial conquest of social interactions to have in collaboration with others while interaction in electronic entertainment. ( ͡° ͜ʖ ͡ -)
-2015-03-26,230410,True,"Great game, too many people mistake it for a grindfest, but they just dont know how to play the game."
-2015-06-19,34900,True,"r8 this game 9/11, needs more bombs."
-2015-03-26,11610,True,"This game is great, if you like to just stare at Kali's animations that is. Especially in PvP ( ͡° ͜ʖ ͡°)"
-2014-01-15,113400,True,"Great game, terrible servers and bad hackers"
-2013-11-19,440,True,come vs me
+posted,item_id,recommend,sentiment_analysis
+2015-03-26,212160,True,0
+2015-03-26,230410,True,2
+2015-06-19,34900,True,1
+2015-03-26,11610,True,2
+2014-01-15,113400,True,0
+2013-11-19,440,True,1

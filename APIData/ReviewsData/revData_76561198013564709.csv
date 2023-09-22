@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-26,275850,False,"Do not buy, simple. Even if this was in the bargain bin for $5. It is not worth it.Sadly Sean oversold the game as a yes-man in interviews. Again, do not buy.And Steam should do the right thing by refunding disregarding their return policy."
-2016-08-13,447820,True,"Day of Infamy - pure awesome, game reminds me of the days of Wolfenstein Return to Castle or Enemy Territory.It's good to have a FPS that is basic and not running along walls or retro looking skins to stand out...Will be recommending this game as you really do get your bang for buck!"
-2016-05-13,379720,True,its good
-2016-07-15,364360,False,Don't waste your money. I bought this game when it was on sale because I knew I would get screwed over but not to this degree. Very predictable once you get past the honeymoon stage when the excitement quickly runs out....Now Beastman is $15 and blood is $2 (AUD)Game in total honestly is around $20 inc all DLC etc....
-2016-09-03,253250,True,It's fun
-2014-03-08,242920,True,Good game
+posted,item_id,recommend,sentiment_analysis
+2016-08-26,275850,False,1
+2016-08-13,447820,True,2
+2016-05-13,379720,True,2
+2016-07-15,364360,False,1
+2016-09-03,253250,True,2
+2014-03-08,242920,True,2

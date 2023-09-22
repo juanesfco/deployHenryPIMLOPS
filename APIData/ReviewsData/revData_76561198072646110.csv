@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-18,250420,True,"I really like this game, It has alot of things to do and create and id recommend you go play ;D"
-2014-02-13,240,True,"Great game, love the graphics :D"
-2014-04-28,263740,True,"Fun little game to play, love blowing up the opponent!"
-2016-04-27,252950,True,Fun to play for hours as it's very addicting to play the different game modes and arena's. Levelling up and getting all the garage parts is also a different aspect of the game to enjoy. Love the new hoops mode!
+posted,item_id,recommend,sentiment_analysis
+2014-02-18,250420,True,1
+2014-02-13,240,True,2
+2014-04-28,263740,True,1
+2016-04-27,252950,True,1

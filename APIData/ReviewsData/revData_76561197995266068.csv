@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-01,9900,False,Changed  too much of the things that made the game 'fun'
-2014-03-07,39120,False,"Don't recommend, used to play when it wasn't free to play. Support have been unhelpful in regards to getting my old account back."
+posted,item_id,recommend,sentiment_analysis
+2016-08-01,9900,False,1
+2014-03-07,39120,False,2

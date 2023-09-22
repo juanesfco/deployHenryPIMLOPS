@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-01,12110,True,"This game is really good, it has a good story but the missions are a bit to hard."
-2013-12-04,12100,True,this game is really good
-2016-06-12,730,True,"If you wish to purchase CSGO consider the following Symptoms/Issues- Anger Management - Headaches- Becoming Toxic- Broken Keyboard/Mouse- Wasting Money- Dealing With Hackers, Smurfs and Derankers- Wanting To UninstallNote: Most of the symptoms/issues above leads to being ♥♥♥♥ at the game :)"
-2014-11-20,236390,True,the best game!!!!!!!!!!
-2014-09-21,550,True,The Best Game In The World!!!!!!!!!!!!!!
-2014-06-10,243470,True,This game is really good had no problems with it yet
-2014-04-14,261820,True,I highly reccommend this game it has an interesting storyline cant wait for act 2
+posted,item_id,recommend,sentiment_analysis
+2014-07-01,12110,True,2
+2013-12-04,12100,True,2
+2016-06-12,730,True,1
+2014-11-20,236390,True,1
+2014-09-21,550,True,1
+2014-06-10,243470,True,2
+2014-04-14,261820,True,1

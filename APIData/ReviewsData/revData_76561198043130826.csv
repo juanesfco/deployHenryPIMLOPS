@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-04-06,35450,True,"I look through the front of my panzer, when sundenly a flash zooms through the air hiting our tank. I yell at the gunner to shoot the enemy tank that I just spotted. He dosn`t shoot, I franticly look back to see what hes doing but all I see is his dead corpse. I franticly climb into the gunners position, line up a shot, AND BLOW THE T34 STRAIGHT TO HELL IN THE NAME OF THE FUHER.Then I decided to play RO 2, its a good game I guess."
-2014-03-06,15300,True,Its a great simulation game !!!!!!!!!!
-2015-11-24,242860,True,Ill give it positive when it gets optimized.Update-I got a steady 50fps
-2015-09-08,227940,True,"My teammate droped a bomb on meWhile I was in a plane, in mid air.10/10 would get trickbombed by teammate again."
-2015-04-08,25890,True,Tutorial is narrated by a short man who likes to paint(Their crap paintings) and wont stop ranting about the french and evils of the bulshoviks. The man also has absurd facial hair. The tutorial was more entertaining than useful.
-2015-11-18,311210,True,Its weopons actually do damage. 10/10Get frequent 1 hit kills on hardcore with starting rifle.
-2015-09-06,221100,True,"Most recent update, persistance on, minor base building active, barely any bugs, 10-30 guns, veichels, almost working zombies, animals, heat and hpothermia, food and animals, beta probably starting in next few months and I can't see what people are complaining about.Also this Devalopment cycle is short compared to most games. They just released it on the same day they sgot it working."
-2015-04-07,570,False,Dunno why people say its so good.
-2015-04-04,233150,True,Its fun.
-2013-12-22,202970,False,"The single player was disapointing. It felt dull and boring compared to other call of dutys and the ending dident make you fell like you acomplished anything but in call of duty world at war, the ending was amazing and made you feel great!The multiplayer wasent great and it wasent bad, i enjoyed some of it.Dont get this, other cods like world at war are much better."
+posted,item_id,recommend,sentiment_analysis
+2015-04-06,35450,True,1
+2014-03-06,15300,True,1
+2015-11-24,242860,True,1
+2015-09-08,227940,True,1
+2015-04-08,25890,True,1
+2015-11-18,311210,True,1
+2015-09-06,221100,True,1
+2015-04-07,570,False,2
+2015-04-04,233150,True,2
+2013-12-22,202970,False,1

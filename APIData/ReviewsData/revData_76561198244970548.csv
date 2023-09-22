@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-19,240460,True,awesome game great gameplay and massive variety of charecters i highly recomend it
-2016-03-28,385730,False,bad should get 15 insted pin kickouts wont work game always crashes they need to fix the pins
-2016-06-03,391540,False,i need a refund now!
+posted,item_id,recommend,sentiment_analysis
+2016-02-19,240460,True,2
+2016-03-28,385730,False,0
+2016-06-03,391540,False,1

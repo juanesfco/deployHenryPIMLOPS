@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-07-12,442080,True,"I don't know why this game is getting any negitive heat considering how enjoyable it is. Its like WOW with dragons, how can you go wrong!!!"
-2014-01-11,35720,True,"This game is so beautiful! When I first got it I figured it would be something I'd play then throw aside, I was mistaken. This game is just so magical and mystical and GET IT!"
-2014-06-21,235800,True,"Like, omg. Paid $10 for this game and, even though it's in Early Access it is already super good! i've loved the first Audiosurf game and the second. This one is definatly my favorite! Like, buy. right, now."
-2014-03-25,245550,True,Honestly I would be hard pressed to find anything to say that is bad about this Documentry. Valve has shown the excitment of Dota 2 in such a cool way and you really feel you can relate to the gamers. 10/10 would eat a shoe again! :3
-2014-12-08,251990,True,"Even though this game is frustrating its beautiful, it made me cry c': The soundtrack is so sweet and our little queen is to die for <3 Must get"
-2015-06-17,233450,True,"First day I got this game; killed 12 hours of my day, made a kickass prison, and had a riot."
+posted,item_id,recommend,sentiment_analysis
+2016-07-12,442080,True,0
+2014-01-11,35720,True,2
+2014-06-21,235800,True,2
+2014-03-25,245550,True,2
+2014-12-08,251990,True,2
+2015-06-17,233450,True,0

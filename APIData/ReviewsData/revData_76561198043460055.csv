@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-29,8870,True,"Unbelievable. Stunning vistas, compelling story, fast and tense gameplay. Game of the year 2013 - 9/10"
-2012-11-25,207610,True,"This is an exceptional game. Not just for the gameplay, but for the storyline itself. Truly a great game."
-2012-10-05,57300,True,WOw.Truly a great and thrilling game. Get it if you want a scare.
-2012-08-08,8980,True,So addictive! Can't wait for Borderlands 2!
-2012-04-12,105600,True,Too many slimes when Slime Rain event happens6/10- IGN
-2011-08-15,42700,True,Best Game on PC. Yet.
+posted,item_id,recommend,sentiment_analysis
+2014-04-29,8870,True,1
+2012-11-25,207610,True,2
+2012-10-05,57300,True,2
+2012-08-08,8980,True,1
+2012-04-12,105600,True,2
+2011-08-15,42700,True,2

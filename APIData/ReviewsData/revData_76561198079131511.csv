@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-05,273350,False,searching for too long
-2016-03-18,407530,False,"2/6/8 GB RAM will not be enough , requirements are not true ,lower graphic settings won't work"
-2016-02-29,348460,False,Nice graphic but some heroes need Pay to unlock. Party match does not work. Game keep crashing  only 1 free support hero can win the whole game ...
-2015-12-04,261640,True,"I would recommend to buy this game during a sale if you liked borderlands. Short story ,but damn awesome"
+posted,item_id,recommend,sentiment_analysis
+2015-09-05,273350,False,1
+2016-03-18,407530,False,1
+2016-02-29,348460,False,2
+2015-12-04,261640,True,2

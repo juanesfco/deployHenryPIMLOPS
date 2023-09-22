@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-02-17,33230,False,"This game has some big issues with peripherals on Mac, even the Apple USB keybaord. It's a shame Steam don't have basic minimum standards for games, because the Mac port is a hacked together mess."
+posted,item_id,recommend,sentiment_analysis
+2014-02-17,33230,False,0

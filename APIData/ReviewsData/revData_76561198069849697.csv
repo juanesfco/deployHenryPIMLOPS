@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-01-01,218620,True,7.8/10 would throw bags and fix drills again
-2013-12-24,25000,True,"A REALLY under the radar indie game now on steam. Greay levels, excellent level editor and just plain fun. it's one of those games where you stop playing because you realized that 3 hours has passed and you need to eat something. Heaps of replay value and the fact that this is an early APHLA means a promising future for this game. If you like having fun, PLAY THIS GAME"
-2015-04-30,271590,True,"Almost certainly the definitive version of the game. Amazing graphics, runs smooth with little to no drops in FPS (for me at least), great story and gameplay. It does take a little bit to load onto online servers, but when you so get on it is well worth the wait. Loads of content and gamemodes to keep you playing for hoursWell worth the price.      9.5/10"
-2016-03-18,359550,True,>join game>defending>choose tachanka>yelled at in russian>kicked from game10/10 would get kicked by fellow comrades
-2013-11-30,236390,True,"A brilliant flying simulator and wonderful graphics. The action just keep coming and you just keep killing. Research trees and upgrades are amazing in this and to top it all off, its free. PLAY THIS GAME"
-2013-12-24,201790,True,"A great co-op game. if you can, get this game with a friend and dont stop playing until you get to the end. just brilliant"
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,218620,True,1
+2013-12-24,25000,True,1
+2015-04-30,271590,True,2
+2016-03-18,359550,True,1
+2013-11-30,236390,True,2
+2013-12-24,201790,True,2

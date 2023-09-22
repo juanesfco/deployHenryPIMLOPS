@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-28,22300,True,This has to be in the Top 10 of the greatest games ever made.
-2014-08-08,730,True,"Counter-Strike: Global Offensive, the game where you only hipfire and it costs money to stay cool."
-2014-09-06,105600,True,This is my cocaine.
+posted,item_id,recommend,sentiment_analysis
+2014-06-28,22300,True,2
+2014-08-08,730,True,1
+2014-09-06,105600,True,1

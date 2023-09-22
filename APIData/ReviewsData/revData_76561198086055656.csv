@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-22,417860,True,Made a friendLost a friendGot my heart brokeGot redemptionLost a friendLost a love10/10 would shatter heart into a million pieces again
-2014-12-16,221910,True,"A seemingly endless game that will keep you wanting to play for hours just to see if you've found everything there is to find, although play time my cause replayability problems, the sheer creativeness of the game easily make up for it,"
+posted,item_id,recommend,sentiment_analysis
+2015-11-22,417860,True,1
+2014-12-16,221910,True,1

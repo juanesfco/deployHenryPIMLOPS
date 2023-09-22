@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-26,248820,True,"risk of rain is a great game. idk what about it makes me addicted to it, but i am hooked :D"
-2016-07-28,200210,True,"So Deca Games has just bought realm, and in 2 weeks they have released as much stuff as Kabam in 2 Years. My Hopes are up and I'm very excited to see what else they will bring to the game #MakeRealmGreatAgain"
-2015-09-09,440,True,"TF2.Me be on 19 Kill StreakMe see gibus solder, 'free easy kill' Me thinkRandom Crit.I Die.,Random Crits are fair and balanced7/5 Would Cry Again"
+posted,item_id,recommend,sentiment_analysis
+2014-05-26,248820,True,2
+2016-07-28,200210,True,1
+2015-09-09,440,True,2

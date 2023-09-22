@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-12-04,17390,True,I made a human10/10
-2015-12-04,304930,True,Zombies100/10
-2015-11-05,346900,True,"Money, fake money ftw.9/10"
-2015-10-02,246620,True,I want to kill everybody100/10
-2015-07-18,290140,True,"One of the best third person MMORPGS out there, a smooth storyline, great graphics and amazing gameplay, it's incredible! The only con is that the gameplay may seem a bit confusing at first, but you hang on to it after a little while9/10"
-2015-04-16,105600,True,So flatLike a matLike a bunny?So So Funny!90/10
-2015-04-16,219640,True,Gory but fun!
-2015-04-16,570,False,Sort of fun but gets boring after playing it for long. Pretty mixed but I don't really recommend it.
-2012-08-20,109400,True,similar to team fortress 2 only third person and way more weapons.I really recommend downloading
-2012-07-01,440,True,ScoutSoldierPyroStuff like dat. Pyro OP
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,17390,True,1
+2015-12-04,304930,True,1
+2015-11-05,346900,True,0
+2015-10-02,246620,True,1
+2015-07-18,290140,True,2
+2015-04-16,105600,True,1
+2015-04-16,219640,True,1
+2015-04-16,570,False,1
+2012-08-20,109400,True,2
+2012-07-01,440,True,1

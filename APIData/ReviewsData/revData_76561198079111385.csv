@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-23,221640,True,Gay Game R8 10/10
-2014-07-05,222900,True,great game 2 play must get
-2014-04-02,91310,True,Great Game so much zombie blood :D
+posted,item_id,recommend,sentiment_analysis
+2015-05-23,221640,True,1
+2014-07-05,222900,True,2
+2014-04-02,91310,True,2

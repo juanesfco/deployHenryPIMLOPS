@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-12,275850,False,lIar ♥♥♥♥♥... Aint Multyplay
-2016-07-16,273350,True,WoW
-2014-02-07,440,False,WHHHHHHYYYYYYYYYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2016-08-12,275850,False,1
+2016-07-16,273350,True,1
+2014-02-07,440,False,1

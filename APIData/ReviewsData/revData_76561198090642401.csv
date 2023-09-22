@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-28,238460,True,Stampers sexy voice doe
-2015-07-30,352460,True,Region Locked ♥♥♥♥ 
-2014-06-19,219740,True,Grow a Beard!!!
-2013-08-09,212800,True,play for some random fun
-2016-07-25,292030,True,"Dont read any more comments, just buy it ya ♥♥♥♥♥♥♥"
+posted,item_id,recommend,sentiment_analysis
+2015-03-28,238460,True,2
+2015-07-30,352460,True,1
+2014-06-19,219740,True,1
+2013-08-09,212800,True,1
+2016-07-25,292030,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-19,252490,True,Went to admins houseexchanged sexual acts for kevlar and guns???profit
-2012-07-04,17080,True,GOTTA GO FAST!
-2012-06-10,10680,True,Excellent Multiplayer
-2012-03-03,97100,True,A very good game for only $15. I would recommend this game over Call Of Duty.
-2011-12-27,56400,True,Simply one of the best RTS games i have ever played
+posted,item_id,recommend,sentiment_analysis
+2014-09-19,252490,True,2
+2012-07-04,17080,True,2
+2012-06-10,10680,True,2
+2012-03-03,97100,True,1
+2011-12-27,56400,True,2

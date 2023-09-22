@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-19,1840,True,"I'm a Great Expert at Making SFM Animations, Especially Funny/Random Animations"
-2016-04-11,4000,True,This is the Best Game i Ever Played in my Life! :D10/10
+posted,item_id,recommend,sentiment_analysis
+2016-07-19,1840,True,2
+2016-04-11,4000,True,2

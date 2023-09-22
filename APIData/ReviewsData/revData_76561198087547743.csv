@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-22,252490,True,"que buen juego, ahora lo crackeo y lo subo a internet"
-2015-06-22,202970,True,excelente juego pero es una picardia +10 y denunciado
-2014-08-10,550,True,Juegazo
+posted,item_id,recommend,sentiment_analysis
+2015-06-22,252490,True,2
+2015-06-22,202970,True,2
+2014-08-10,550,True,2

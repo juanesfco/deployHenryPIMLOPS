@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-09-04,302380,False,"Não gostei, esse jogo é bem entediante."
-2014-09-04,275490,True,"Não é lá o melhor jogo do mundo, mas é legalzinho de se passar o tempo."
-2014-08-30,4000,True,"Jogo fantástico, o melhor Sandbox que já vi, perfeito para quem gosta de liberdade, criar o que quiser, sem falar dos modos de jogo diferentes e divertidos, como Murder, Prop Hunt, Elevator Source entre outros. Recomendo 9/10"
-2014-07-27,263500,True,"Jogo muito bom, a jogabilidade é semelhante á de um jogo MOBA, como League of Legends e Dota 2, mas é diferente. Não gosto de LOL nem de Dota, mas esse jogo é muito bom, e tem ótimos gráficos."
-2014-06-18,253710,False,"O jogo é bom, tem ótimos gráficos, é realista, o que acabou com o jogo, foi o esquema de ter que pagar para criar uma sala no modo multiplayer, se o jogo é Free-Play, é Free-Play (AVÁ), não pode ter tanta limitação. Resumindo : Não gostei."
-2014-05-30,202090,True,"Jogo muito bom, jogabilidade ótima, temática incrível e etc.Recomendo á todos."
-2014-05-24,248570,True,"Jogo divertido, otimos gráficos, no começo é difícil jogar esse jogo, mas com o tempo vc pega o jeito e se dá bem recomendo á todos esse jogo."
-2014-04-26,51100,False,"O jogo não me agradou, não gostei."
+posted,item_id,recommend,sentiment_analysis
+2014-09-04,302380,False,0
+2014-09-04,275490,True,2
+2014-08-30,4000,True,2
+2014-07-27,263500,True,2
+2014-06-18,253710,False,1
+2014-05-30,202090,True,2
+2014-05-24,248570,True,1
+2014-04-26,51100,False,0

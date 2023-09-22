@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-12,282010,True,"Oh, where do i start? DOS..."
-2016-01-12,440,True,"Unusuals, lolTrade Server Try-Hards, lolTrade Plaza Warriors, lol8 - 12 Year old kids, lollol / lol - Instigator 2016"
-2015-10-30,370100,True," PRO'S - Near same mechanics as csgo with bhops- Great game to play with friends - Only puts you down 2c ( When on sale )- When your fists are stronger than the gun you spawn with- The unrealistic ragdoll when you punch the zombies face in. Which is pretty fun- You can punch zombies from your car even when you're driving- You can use anything as a weapon CON'S - Guns are still broken to the ♥♥♥♥ house, its a minigun-shotgun-singleshot-bolt action-rifle or a mag-7 from csgo- The black zombies spawning on your head ♥♥♥♥♥♥ the crap out of you- How fast the black zombies run- You cant sneak into town to get supplys because most zombies spawn on you- The car sounds dont fade in or out then just snap in- You look at the zombies and they die for no reason- The spelling is terrible( I personally recommend this game )"
+posted,item_id,recommend,sentiment_analysis
+2016-01-12,282010,True,1
+2016-01-12,440,True,2
+2015-10-30,370100,True,0

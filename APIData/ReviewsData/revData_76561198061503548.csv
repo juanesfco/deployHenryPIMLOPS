@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-31,372000,True,OS CASUAL PIRA
-2015-01-09,550,True,loko
-2014-11-01,304930,True,Jogo de africano
+posted,item_id,recommend,sentiment_analysis
+2016-05-31,372000,True,0
+2015-01-09,550,True,1
+2014-11-01,304930,True,0

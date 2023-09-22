@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-11-26,11020,False,dis was bad game homie G.
-2014-02-14,1250,True,Great game with heaps of updates and never get bored if it
+posted,item_id,recommend,sentiment_analysis
+2013-11-26,11020,False,0
+2014-02-14,1250,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-04,113020,True,*Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.* *Breaks wall.*
-2015-07-03,105600,True,Maps usually end up having more signs than ♥♥♥♥ing Las Vegas.
-2015-07-03,9480,True,I've created better roleplaying characters than half of Gmod's community has.
+posted,item_id,recommend,sentiment_analysis
+2015-07-04,113020,True,1
+2015-07-03,105600,True,2
+2015-07-03,9480,True,2

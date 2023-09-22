@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-10-12,49520,True,realy realy  god game
-2015-08-20,213670,True,realy great game but its only 12 hours long
-2014-05-02,209160,False,it sucks bo2 is better
+posted,item_id,recommend,sentiment_analysis
+2013-10-12,49520,True,0
+2015-08-20,213670,True,1
+2014-05-02,209160,False,1

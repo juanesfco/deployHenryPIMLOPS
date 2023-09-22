@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-17,220240,True,"This a very solid game: great graphics, great story, and very tight gameplay mechanics. The ability to explore the open world is fantastic. My only issue with this game is its poor replayability value. The singleplayer experience is only worth playing through twice at most (due to the lack of significant choices you make in the story). The multiplayer is essentially nonexistent, due to a severe lack of available players."
+posted,item_id,recommend,sentiment_analysis
+2014-12-17,220240,True,2

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-30,333600,True,             'My life is complete       Nothing else could compare        Receiving number oneReaching new heights in technology         Realizing one's dream         Is not worth to beauty of this game on my monitor screen.'
+posted,item_id,recommend,sentiment_analysis
+2014-12-30,333600,True,1

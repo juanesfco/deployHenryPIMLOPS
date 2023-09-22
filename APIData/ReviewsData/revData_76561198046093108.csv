@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-07,390310,False,"In it's current state, this port is borderline unplayable unless you dont mind the audio cutting out all the time, the frame rate dropping constantly and playing with a gamepad. Wait till it gets patched/ someone fixes it, or buy it for the wii. It is really worthy of your attention, just not on the pc right now.. :("
-2015-05-16,363970,True,WHY DOES THIS EXIST I HATE THIS GAME WHY MY ARM IS GOING TO FALL OFF SOON SEND HELP
+posted,item_id,recommend,sentiment_analysis
+2016-08-07,390310,False,0
+2015-05-16,363970,True,0

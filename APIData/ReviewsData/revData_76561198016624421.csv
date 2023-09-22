@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-13,105600,True,Terraria is awesome
-2016-04-21,730,True,Best game ever 10/10 IGN
+posted,item_id,recommend,sentiment_analysis
+2016-02-13,105600,True,2
+2016-04-21,730,True,2

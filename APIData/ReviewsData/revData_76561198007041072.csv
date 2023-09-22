@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-24,275850,False,Terrible
-2016-09-01,404013,True,BRILLIANT
-2016-08-31,364360,True,"This is a great game, and i'm putting this review in because some people are giving it negative reviews for no reason other than having some expensive DLC. This is definately worth 60 bucks and if you become as invested as i have it's completely optional to buy DLC to supplement the experience. With each DLC there is a free addition to the game along with the new races appearing in the campaign whether you've bought the DLC or not. DLC only defines yor ability to play new races and the odd unit type. either way the game is an easy 8.5/10 and if you're perked up at all by any of the footage/material then you won't be disappointed."
-2015-01-06,4000,True,Fish
+posted,item_id,recommend,sentiment_analysis
+2016-08-24,275850,False,0
+2016-09-01,404013,True,2
+2016-08-31,364360,True,1
+2015-01-06,4000,True,1

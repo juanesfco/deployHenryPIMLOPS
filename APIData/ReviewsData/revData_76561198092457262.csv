@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-26,243870,True,"get this game, it's amazing but has some tiny bugs, you should get it:)"
-2016-04-01,730,True,Best game on steam
-2015-08-08,304050,True,"very good, tiny bugs but i can live with them :34.5/5"
-2015-04-24,227940,True,it is a realy good game but a bit laggy for Australia.
+posted,item_id,recommend,sentiment_analysis
+2014-04-26,243870,True,2
+2016-04-01,730,True,2
+2015-08-08,304050,True,2
+2015-04-24,227940,True,2

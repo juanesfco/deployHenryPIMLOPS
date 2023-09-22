@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-25,440,True,A very fun game.10/10 Would waste my life on it.
-2016-01-18,730,True,When i mess up in comp people start calling me a ♥♥♥♥♥♥.9/11
-2015-11-27,203160,True,This game has amazing rule 34.10/10Would masterbate to it.
-2015-11-07,219150,True,"Hotline Miami 2 was banned in my country, so I got this, and I love it.Worth the money."
+posted,item_id,recommend,sentiment_analysis
+2015-10-25,440,True,1
+2016-01-18,730,True,0
+2015-11-27,203160,True,2
+2015-11-07,219150,True,2

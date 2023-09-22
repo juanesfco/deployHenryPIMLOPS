@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-23,22300,True,Detonate the Atom Bomb and you'll see why i love this game.
-2015-07-03,221100,False,No just no.
-2014-01-31,550,True,"First off i want to thank valve for making it free on christmas, at fisrt i was not sure if i should get it but now i have i am so glad i got it, i do NOT regret it.This game is so addicting, great level design, great character personalities, great campaign and best of all the satisfaction of mowing down zombies with a axe or a katana. I can see how people say this one off the greatest zombies game ever made.10/10 Well done valve"
-2013-12-24,241540,True,"state of decay is a great game, a lovely sandbox zombie slashing game and always keep you impersed 8/10."
+posted,item_id,recommend,sentiment_analysis
+2014-02-23,22300,True,1
+2015-07-03,221100,False,1
+2014-01-31,550,True,2
+2013-12-24,241540,True,2

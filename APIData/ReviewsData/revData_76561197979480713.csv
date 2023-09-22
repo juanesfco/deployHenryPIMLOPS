@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-01,278620,True,Oh god so many skeletons why are they here help me
-2015-10-28,238910,True,"This game was not what I expected. It's turn based, but play moves very quickly. One action of any type is a turn, so it plays out more like a semi-realtime game. The mechanics seem a little bewildering at first and the lack of a real tutorial puts the barrier to entry a little higher than many people will be able to handle. If you can get past that and spend a mission or two figuring out how it all works, there's a fantastic strategy title here."
-2014-05-12,236430,True,"It's like Dark Souls, but prettier and with improved mechanics. It is awesome. Praise the sun."
+posted,item_id,recommend,sentiment_analysis
+2014-10-01,278620,True,2
+2015-10-28,238910,True,2
+2014-05-12,236430,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-24,274920,True,I'm asian and the avatar's eyes were constantly closed when I used the program. 10/10 Accurate Tracking
-2014-03-24,245550,True,"Though the title may be some-what misleading the documentary is still worth watching,I highly recommend gamers to watch this.It has taught me many things from the experiences of others within it.I think every gamer can easily relate to this even if they do not play Dota 2.One of the most well spent hour and fifteen minutes.If you still haven't watched it yet press that green PLAY GAME button now."
-2013-04-20,440,True,When they say  'The most fun you can have online' they were so utterly right
+posted,item_id,recommend,sentiment_analysis
+2015-12-24,274920,True,2
+2014-03-24,245550,True,2
+2013-04-20,440,True,2

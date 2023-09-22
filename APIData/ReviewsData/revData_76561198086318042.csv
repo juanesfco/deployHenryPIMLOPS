@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-10,323370,True,muito top
-2015-02-28,295110,False,Pay to win
-2013-12-28,221100,True,"Atmospheric awesomeness ...Explore Chernarus+ variant of famous Chernarus map ...the events You may experience ingame will be with You for years to come!it's early alpha, bugs and lack of additional content and equipment are noticeableyet even with all the alpha flaws ... it's DayZ to the bone and zombies lurk outside ... so pick your weapons and group with some friends to survive next day !"
-2013-06-23,570,True,:D
+posted,item_id,recommend,sentiment_analysis
+2015-05-10,323370,True,2
+2015-02-28,295110,False,2
+2013-12-28,221100,True,2
+2013-06-23,570,True,2

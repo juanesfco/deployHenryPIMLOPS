@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-14,243870,True,Fun game to play with friends. It relies on more tactical plays to out flank the enemy and here cover is key!
-2015-01-01,218620,True,An amazing co-op shooter that emphasizes on teamwork and coordination. Skilling your skills to suit your play style and to make the perfect criminal is very intuitive. There is nothing quite like Payday 2
-2013-08-19,8930,True,Great Game!
+posted,item_id,recommend,sentiment_analysis
+2014-04-14,243870,True,1
+2015-01-01,218620,True,2
+2013-08-19,8930,True,2

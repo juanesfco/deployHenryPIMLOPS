@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-20,236850,True,"Europa Universalis IV is a nice yet basic grand strategy title set between the start of the colonisation era to the end of the Napoleonic Wars. You choose a country in almost any area in the world and come to power by utilizing your nation's paper, bird and sword mana.There's like $200 worth of DLC. Most of it is just cosmetic crap that you shouldn't buy."
-2014-04-22,220200,True,Kerbal Space Program is a complex (though fairly watered-down) space simulator in which you launch your rockets and planes to get across the Kerbal Solar System.What really sucks about it is its insane glitchiness which the developers and ignorant community members claim to be entirely the game engine's fault (Unity). The incredibly slow development is also another grand problem this innovative game faces.
+posted,item_id,recommend,sentiment_analysis
+2015-07-20,236850,True,2
+2014-04-22,220200,True,1

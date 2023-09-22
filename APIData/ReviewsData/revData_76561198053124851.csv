@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-01-19,1250,True,purchase gun and kill all that motherf**kers zombie make it blood everywhere
-2013-01-07,440,True,"This is the most awesome free game on steam. If you don't believe, try it out and you will find it how fun it is."
-2016-06-18,17480,False,Not good as RA2Umm actually it sucks.
+posted,item_id,recommend,sentiment_analysis
+2013-01-19,1250,True,1
+2013-01-07,440,True,2
+2016-06-18,17480,False,0

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-06-11,212680,True,Its fun
-2015-02-06,305620,True,"One of the best survival games of all time. Decided to buy it, wanted to play for a bit around 2 hours had passed.Great Game"
-2015-11-13,391540,True,Amazing game with good story and amazing soundtrack. You will not regret purchasing this.
-2015-05-02,219640,False,Horrible completely unplayable on mac. My mac meets the requirements but whenever i get near to another person i lag out so much so i switched to an aussie server and i had 20 ping but still lagged. Another problem is that the sound is all broken up.I wish for a refund. This game is ♥♥♥♥!!!
-2015-04-18,440,True,Hat Simulator
-2014-08-23,319510,True,I was ♥♥♥♥ed up the ♥♥♥♥. I regenerated because my ♥♥♥♥ was ♥♥♥♥ed up.Got to night 4 never playing this againWasn't ready for freddy.....Please make this for mac. Please it would make my day.
-2014-08-23,8930,True,"I was an English Queen, fighting Gandhi, who discovered Atomic Bombs in 1500 and made Christianty 1000 years before Christ.Yes"
-2014-05-12,219740,True,On on the most challenging and fun game you will ever play!
-2014-03-27,570,True,Fun
+posted,item_id,recommend,sentiment_analysis
+2015-06-11,212680,True,2
+2015-02-06,305620,True,2
+2015-11-13,391540,True,2
+2015-05-02,219640,False,0
+2015-04-18,440,True,1
+2014-08-23,319510,True,2
+2014-08-23,8930,True,1
+2014-05-12,219740,True,2
+2014-03-27,570,True,2

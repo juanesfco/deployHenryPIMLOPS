@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-01,268750,True,"Having always enjoyed rogue likes, I picked this game up in a steam sale for  %50 off. So far I must say, its really good. I have been enjoying myself constantly while playing this. Although im not too far in, i can see myself playing this game alot more in the future.I rate this game 9/10 -"
-2014-06-21,570,True,"Good game, try it. Its FReeeeeeeAnd hatsLots of hats"
+posted,item_id,recommend,sentiment_analysis
+2014-12-01,268750,True,2
+2014-06-21,570,True,2

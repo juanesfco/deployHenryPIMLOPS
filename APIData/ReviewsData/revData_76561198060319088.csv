@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-15,1840,True,"Though I'm not exactly 'James McVinnie' at the Source Filmmaker, it is a great little tool that allows you to completely change your view of the TF2niverse to your will with models, maps and animation. The downside is that you have to have a really good computer to run this program, and this isn't cannon-fodder, it is HARD to learn it.4/5"
-2014-05-31,70,True,"Truly Valve's masterpiece. No cutscenes and fun, challenging, continuous gameplay. I recommend Half-Life to anyone who's ready for an adventure.4.5/5"
-2014-05-31,265630,True,"A game much like Team Fortress 2, Fistful of Frags is a fun western shoot-em-up which involves four teams to fight each other with ye olde weapons. The game runs on the Source Engine, which can lead to hilarious events with ragdolls and can cause some pretty spectacular kills.3.5/5"
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,1840,True,2
+2014-05-31,70,True,2
+2014-05-31,265630,True,2

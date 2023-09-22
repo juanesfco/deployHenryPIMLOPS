@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-22,387290,True,"As a huge fan of Super Metroid and Hayao Miyazaki, this highly artistic 2D platformer with sublime gameplay is simply a masterpiece. Its hard to imagine what they could've done better; perhaps a few more different types of enemies? I'm so happy they invested in this single player adventure in this era and the price is a no brainer for all the work they put in this game. Vote with yuor wallet please, and let's show the world we want more games like this."
-2014-07-20,246700,True,"Finally, a challenging game that's not for the faint hearted. If you love Quake3 and flight sims, this game's perfect for you."
+posted,item_id,recommend,sentiment_analysis
+2016-05-22,387290,True,2
+2014-07-20,246700,True,2

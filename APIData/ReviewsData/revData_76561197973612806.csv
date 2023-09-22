@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-07-14,1250,True,"Great fun to play with randoms or mates, doesn't get old"
-2011-07-04,500,True,Killing zombies with mates... What's not to love about that? Still a great game even with the sequal.
-2010-12-20,240,True,"Still an swesome FPS, that requires more skill than 'COD'. If you can find a decent server that the same people keep coming back to it can also be a heap of fun."
+posted,item_id,recommend,sentiment_analysis
+2012-07-14,1250,True,2
+2011-07-04,500,True,2
+2010-12-20,240,True,2

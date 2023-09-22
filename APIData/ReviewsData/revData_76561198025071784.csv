@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-09,225080,True,"A sentimental adventure game that captivates the player through orchestral audios, beatifull visuals and simple game mechanics that ties the player closer with the story. This short (sometimes slow) but sweet gallery of creativity, in my eyes is the Portal of story-driven adventure games. Tobuscus rated it his game of the year, i call it a masterpeice. Barring the short play time of this game, if you have the funds don't hesitate to engage with this expieience of a game."
-2015-04-25,241930,True,Really entertaining yet short open world game. It has Arkham/ Ac's mechanics of combat but it has this really great mechanic underneath that breings fresh ingenuity to the genre. 4/5 haven't played the dlc :P
-2013-11-17,224820,True,"Fun quick paced, exciting."
-2013-05-30,220780,True,"An emotiona rolercoaster ride of a game. Let it's simple puzzle platformer status and lack of 'hyper 3d graphics' not fool you. For the charecter development, soundtrack and overall graphics scheme, ties together to form a sentimental joyride of a game. Memomarble. Play it"
-2011-12-27,94200,True,"I highly recommned this, its especially great if you have several mouses lying about because then you can have an awesome time playing with a freind, but it is also riddiculously hard."
+posted,item_id,recommend,sentiment_analysis
+2014-01-09,225080,True,0
+2015-04-25,241930,True,2
+2013-11-17,224820,True,2
+2013-05-30,220780,True,0
+2011-12-27,94200,True,2

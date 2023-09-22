@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-11-14,245130,False,if u dont know the dev team has drop the development of the game and is focusing there abilitys some where else so it not worth buying
-2015-05-29,242860,True,"good game, good game, only problem is the sight glitch other then that good game"
-2015-05-27,227940,True,"Ahh every game where u can kill nazis are all ways in my good books, this games takes the cake tho"
-2014-01-17,33930,True,"Very well made,nice to play,really makes u think. buy this game or u will die"
-2014-01-02,244850,True,i recommended this game highly as it is like minecraft but in space and with guns so yea WHY U STILL HERE GO BUY IT!!!!!!
-2013-12-17,236390,True,great game best flight game i have ever played and it was easy to learn to fly but dogfighting takes a little longer.for newcommers use the starting planes all the time and get a lot of money up aswell so when u get the better planes you can repair them after battle SO have fun!
+posted,item_id,recommend,sentiment_analysis
+2015-11-14,245130,False,0
+2015-05-29,242860,True,1
+2015-05-27,227940,True,2
+2014-01-17,33930,True,1
+2014-01-02,244850,True,2
+2013-12-17,236390,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-31,17410,True,Good side game to play every now and again.
-2015-12-28,351290,False,"So when I first got this game it was good, I had some fun times wondering around, finding recourse, then making a house. Time passes and I have another crack at this game. It takes me like 10min to join a server, when I do theres no one on, legit couldn't find anyone, couldn't find any wepones, couldn't find anything. If you wan't a game where you wait an hour to join then finally get on, just to walk around in small town and do nothing, I highly suggest you try this."
+posted,item_id,recommend,sentiment_analysis
+2015-12-31,17410,True,2
+2015-12-28,351290,False,1

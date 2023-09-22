@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-22,245910,True,good but short
-2014-11-23,113204,False,i did not buy it and its saying i have it???????????????????????????????????
-2015-11-08,204360,True,8/10 good game
-2014-08-12,208090,True,great game only elamet it needs is ground
+posted,item_id,recommend,sentiment_analysis
+2014-11-22,245910,True,2
+2014-11-23,113204,False,1
+2015-11-08,204360,True,2
+2014-08-12,208090,True,2

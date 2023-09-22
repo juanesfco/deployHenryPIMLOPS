@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-14,248820,True,0/10 not enough rain
-2014-01-22,221100,True,i had a fist fight with a guy then got shot.10/10
+posted,item_id,recommend,sentiment_analysis
+2014-10-14,248820,True,1
+2014-01-22,221100,True,1

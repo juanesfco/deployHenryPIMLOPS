@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-25,730,True,"better than COD and Battlefield, just buy it. 10/10"
-2013-12-22,216250,True,its awsome
-2013-12-02,4000,True,:)
-2013-12-02,218620,True,its fun the first few daysbut after thati dont think of it that greatly
+posted,item_id,recommend,sentiment_analysis
+2014-06-25,730,True,2
+2013-12-22,216250,True,1
+2013-12-02,4000,True,2
+2013-12-02,218620,True,2

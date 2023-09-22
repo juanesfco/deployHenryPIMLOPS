@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-31,208090,True,YES
-2016-09-15,335150,False,rip dis game cant even sign up for gods sake
-2016-09-15,4000,True,This game Sandboxis gud
-2016-09-15,550,True,i john and im here to approve this game is full of fun
-2016-08-13,304930,True,its nice
-2013-12-19,440,True,This game is amazing it has alot of cool stuff and LOTS i mean LOTS of hats.Best Game EVAR.
+posted,item_id,recommend,sentiment_analysis
+2014-01-31,208090,True,1
+2016-09-15,335150,False,0
+2016-09-15,4000,True,0
+2016-09-15,550,True,1
+2016-08-13,304930,True,2
+2013-12-19,440,True,1

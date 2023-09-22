@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-05-30,570,False,not even gonna say bad
-2016-03-29,8930,True,3 bucks on ♥♥♥ XDDDD
-2014-05-09,223470,True,damn dude
-2014-10-20,319510,True,YEAI ♥♥♥♥ MAH PAYANTS
-2014-07-27,224540,False,10/10 would kaya again
-2015-10-29,730,False,used to be goodthen got pretty popularnow its toxic af and i cant stand it
-2015-02-20,242760,True,this game ♥♥♥♥ing sucks10/10
-2014-11-24,239820,True,10/10 would DDoS again
-2014-07-14,440,True,yeah cuz
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,570,False,0
+2016-03-29,8930,True,1
+2014-05-09,223470,True,1
+2014-10-20,319510,True,1
+2014-07-27,224540,False,1
+2015-10-29,730,False,2
+2015-02-20,242760,True,0
+2014-11-24,239820,True,1
+2014-07-14,440,True,1

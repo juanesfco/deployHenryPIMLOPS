@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-06-05,20,False,Horrible should be free go play Team Fortress 2
-2016-04-23,230410,True,This game is very good and addicting it may seem to be a pay to win game but it's not you can get evrything in this game free except platinum but you can get by trading
-2014-12-11,215080,True,I love this game very good game for people who like mmorpg  and is really good to play with a friend or more anyway it is a really good game
-2014-08-14,17020,True,love the game its great
-2014-01-08,24200,True,great dc game
-2013-12-14,109600,True,awsome game i love it
-2012-10-22,440,True,i Love this game
+posted,item_id,recommend,sentiment_analysis
+2015-06-05,20,False,0
+2016-04-23,230410,True,2
+2014-12-11,215080,True,2
+2014-08-14,17020,True,2
+2014-01-08,24200,True,2
+2013-12-14,109600,True,1
+2012-10-22,440,True,1

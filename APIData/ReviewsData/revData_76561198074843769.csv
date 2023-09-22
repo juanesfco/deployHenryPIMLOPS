@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-23,4000,True,i love this game
-2015-07-19,730,True,great game lots of fun
+posted,item_id,recommend,sentiment_analysis
+2014-02-23,4000,True,1
+2015-07-19,730,True,2

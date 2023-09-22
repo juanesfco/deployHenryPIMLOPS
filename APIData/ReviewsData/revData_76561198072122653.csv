@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-23,346110,False,"can't play, need to add support for intel! also can't play on family pc."
-2014-08-01,440,True,sick ♥♥♥♥!
+posted,item_id,recommend,sentiment_analysis
+2015-07-23,346110,False,1
+2014-08-01,440,True,0

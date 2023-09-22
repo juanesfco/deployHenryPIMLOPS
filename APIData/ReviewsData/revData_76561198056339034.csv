@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-04,319510,False,it's gay
-2015-10-02,292030,True,MUST PLAY GAME!
-2015-11-22,20920,True,Good game play good yes
-2015-09-08,206420,True,"Good fun, dubstep and stuff 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-11-04,319510,False,2
+2015-10-02,292030,True,0
+2015-11-22,20920,True,2
+2015-09-08,206420,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-27,107410,True,"Downloaded Arma, and then opened it. Proceeded to do a horrible tutorial, but after that, it was just beautiful. Opened an RPG server, and ran 2 miles to get to an atm, and ran 2 miles to a shady car salesman. Bought a car, spent the next half hour trying to figure out how to actually get into it. After I finally managed to glitch into it, I underestimated it's ability to travel at light speed, which in turn caused me to crash into a wall. After that, my car was a smoking mess, with a top speed that a sloth could outdo.10/10 would crash again"
-2015-11-01,234670,True,Beat Madara with Sakura10/10 would defy physics again
-2015-06-03,115320,True,"Jump twenty metres into the air, and kick a civilian in the face with such power that they die. Proceed to grab a truck, and throw it at more civilians. Make tendrils come out of arms, grabbing and killing more civilians. The hours stretch. More civilians die. By the time you have finished the game, you are questioning your sanity and you will realise your true blood lust. This game will turn you into a psychopathic murderer.69/10"
-2015-01-24,8190,True,"Spiderman, Rambo, and Michael Bay.20/10"
+posted,item_id,recommend,sentiment_analysis
+2015-03-27,107410,True,1
+2015-11-01,234670,True,1
+2015-06-03,115320,True,2
+2015-01-24,8190,True,1

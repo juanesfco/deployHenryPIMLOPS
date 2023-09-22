@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-02,232090,True,Veryfun game but it's need more perk and weapon pls add more but it's very fun i love it
-2015-10-16,271590,False,rockstar i just got banned in gta online for no reason fix this NOW i want to play gta online and i pay for the game so if you not going to fix this i need my money back rockstar
-2013-06-30,440,True,very funnnn
+posted,item_id,recommend,sentiment_analysis
+2015-09-02,232090,True,2
+2015-10-16,271590,False,0
+2013-06-30,440,True,2

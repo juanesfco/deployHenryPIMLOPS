@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-04-09,440,True,Virei gamer por causa desse jogo... esse jogo marcou minah vida! <3
-2015-12-11,221380,True,Um clássico de RTS! Incrível!
-2015-11-01,203140,True,Muito bom!
-2015-10-12,204360,True,Super bom!!!!!!!
-2015-09-02,17390,False,"Cell stage is funny, like the creature stage, but the games turns into an Age of Empires after tribal stage, this games is boring, very boring, i don't recommend to buy it, it's funny just in the beggining"
-2015-07-06,250400,True,"Jogo ótimo recomendo 'pa' caramba véi, jogo ótimo, zerei com Jack, e quase com Abby, e vou comprar as DLC's tbm"
-2014-09-27,218230,True,"muito bom, controle de territórios legais e guerras sensacionais"
-2014-09-03,12210,True,Um ♥♥♥♥ jogo!
+posted,item_id,recommend,sentiment_analysis
+2016-04-09,440,True,2
+2015-12-11,221380,True,2
+2015-11-01,203140,True,2
+2015-10-12,204360,True,2
+2015-09-02,17390,False,0
+2015-07-06,250400,True,2
+2014-09-27,218230,True,2
+2014-09-03,12210,True,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-19,218620,True,DLC Price > Game Price - - i give 9/10
-2014-10-23,730,True,Buy this pls why ?1u get money from this game2fun with your friend
-2016-08-21,381210,True,เป็นเกมที่เล่นแล้วสนุกดี แต่บัคเยอะไปหน่อย เล่นให้ความรู้สึกโอเคเลย *-*
-2013-12-04,4000,True,เกมส์หนุกๆซื้อเถอะ
+posted,item_id,recommend,sentiment_analysis
+2014-10-19,218620,True,0
+2014-10-23,730,True,1
+2016-08-21,381210,True,2
+2013-12-04,4000,True,2

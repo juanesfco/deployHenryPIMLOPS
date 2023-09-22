@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-14,105600,True,"more than enough content to keep a person occupied for meny hours.for a game that is $10 it has more content than most AAA games and i is still geting new stuff. the game features a mix of adventure, action and creativity. you like killing hords of mobs... checkyou like exploring to the edges of the earth... checkyou like exploring the vast underground network of caves... checkyou like building EPIC houses... check10/10 would recomend"
-2014-12-19,301520,True,Fun enough yet quite stratigical
-2014-11-17,250900,True,"based on my first impresions the game is solid but is easyer than the original, synergys are amazing and some of the new items are great. some however are very much so brokenif you where a fan of the first game this is for you, if you never played it I would recomend playing it.if for some reason you disliked the original i would advise against perchasing the game:note that altho i did not encounter any issues there are some floating about"
-2014-06-14,8930,True,its good
+posted,item_id,recommend,sentiment_analysis
+2015-07-14,105600,True,2
+2014-12-19,301520,True,2
+2014-11-17,250900,True,2
+2014-06-14,8930,True,2

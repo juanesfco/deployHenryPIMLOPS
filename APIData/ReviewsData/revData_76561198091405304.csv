@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-02,223750,True,"Great Game, Don't get put off like I did because the controls are confusing, do your research and you will love this game"
-2014-02-08,236390,True,AWSOME BWAWAWAWAWWAWAWAWJBHAEUAVHB EHIBSAAPI
-2015-06-24,252490,False,"played the game on lowest settings possible, looked bad, ran at 12 fps... wow what the hell, battlefield looks 20 times as good and i can run it at high settings with 60FPS, seriosly check out some optimisation, used to be able to run rust (old) and when the new ones came out i still got good framerates, so what did you cange to make it look worse and have a worse framerate. 'overall i r8 this gr8 g8 game 8/8 m8, like minecraft but with more shadows.'-IGN, [TFTW] Mr.Trollinski."
+posted,item_id,recommend,sentiment_analysis
+2016-02-02,223750,True,1
+2014-02-08,236390,True,1
+2015-06-24,252490,False,1

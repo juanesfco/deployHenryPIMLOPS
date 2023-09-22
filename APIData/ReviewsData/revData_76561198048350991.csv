@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-31,730,True,"HEEELL, YEAH!!! if ur looking for a competitive slow game, this one, is ur game"
-2015-12-30,299740,True,"idk if this'll get through to the dev team cause I couldnt find their email so herreee it iss, Yea so my mate and I saw Miscreated and it looked like a ♥♥♥♥ING AMAZING GAME, Like no joke it looked good as, but we were soon dissapointed when we relised our laptops couldn't handle the graphics of the game, this may be something big to ask but if u guys could put in options to just to tune down the graphics like No grass, No shadows etc or something just so we can play the game at a steady 60 or even 50 would be really good, but yeah I managed to get by with 25fps and I actually met some people and got killed a lot by zombies but yea, lower the required specs for 50 - 60 fps and I rekon u might get a bigger community."
-2015-08-31,218620,True,"Awesome Bank robbing simulation, little dodgy and far fetched but fun af with mates"
-2015-04-01,203290,False,"This Game Looks Awesome, ONe problem, I HAD THE LOWEST SETTINGS ON, I MEAN THE LOWEST OF THE LOWEST AND I PLAYED OFFLINE AND GOT 0.000001 FPS!, would've loved this game, but oh well, couldn't even play it!"
+posted,item_id,recommend,sentiment_analysis
+2015-08-31,730,True,0
+2015-12-30,299740,True,1
+2015-08-31,218620,True,2
+2015-04-01,203290,False,1

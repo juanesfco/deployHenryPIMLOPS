@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-29,105600,True,taikamieka heilumaan ja haku niiden avula saat sä nähdä kaiken
-2016-04-18,374320,True,best game ever :3
-2016-03-16,391540,True,nice :DDDDDD
+posted,item_id,recommend,sentiment_analysis
+2014-05-29,105600,True,2
+2016-04-18,374320,True,2
+2016-03-16,391540,True,2

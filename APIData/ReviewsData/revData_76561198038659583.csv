@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-18,4580,True,Great game!Best of the 'Dawn of War' series.
-2015-06-09,346110,True,"40 hours into the game I can say this:Ark Survival Evolved is one of the most brutal and unforgiving survival games I've ever played and I can't get enough.The game never holds your hand and walks you through it. You are thrust into this deadly world in which you must learn the ropes as fast as you can.The game had a few issues on Early Access relief (which is to be expected), but the devs have worked tirelessly to fix this and it is a game I would recommend to any fan of the survival game genre."
-2012-05-13,440,True,best........ game.......... EVER!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-06-18,4580,True,2
+2015-06-09,346110,True,0
+2012-05-13,440,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-09,226320,True,"Marvel Heroes was pretty bad when it came out a few years ago, but now, it's so much bloody fun. Some really bad pricing regarding costumes and that ♥♥♥♥ though."
-2016-07-03,267490,False,"It's a port of a bloody handheld game, what would you expect?"
-2016-07-03,200260,True,The greatest superhero game of all time.
-2016-07-03,206190,True,Old but gold. Not a very long investment but still something that I have fond memories of many years later.
+posted,item_id,recommend,sentiment_analysis
+2016-05-09,226320,True,0
+2016-07-03,267490,False,0
+2016-07-03,200260,True,2
+2016-07-03,206190,True,2

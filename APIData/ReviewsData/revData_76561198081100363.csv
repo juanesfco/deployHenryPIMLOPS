@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-23,202970,True,"Sin duda uno de los mejores de la serie Call of Duty, recomendado 100%"
-2014-02-23,570,True,Recomendable 100%
+posted,item_id,recommend,sentiment_analysis
+2014-02-23,202970,True,2
+2014-02-23,570,True,1

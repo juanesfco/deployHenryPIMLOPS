@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-03,369580,True,I have never played a game better than this one the golden llama approves of this game 10/10
-2015-12-06,201810,True,♥♥♥♥ING LOVE THIS GAME 1/1
-2015-01-31,244850,True,great game endless amount of things you can do
+posted,item_id,recommend,sentiment_analysis
+2015-07-03,369580,True,1
+2015-12-06,201810,True,1
+2015-01-31,244850,True,1

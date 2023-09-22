@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-06,220240,True,AMAZING GAME! fantastic story and a very nice active open world to explore. I would defenatly advise anyone that has not bought this game to do so right now!
-2014-01-06,202170,True,"GTA 4 but chineese, and what i say by that is very true. Very good game and i will defenatly poor some more hours into this game especially after completing the main story. Many, many side missions and objectives to do and is a great game for anyone that would in like GTA 4."
-2014-01-06,252490,True,"Very good game, but unfortunatly at the moment while the game is in alpha some code and aspects of the game need to be fixed to then make a tremendous game. Also do not go into this game being someone that wants their loot for ever, this is not the game for you!"
+posted,item_id,recommend,sentiment_analysis
+2014-01-06,220240,True,2
+2014-01-06,202170,True,2
+2014-01-06,252490,True,1

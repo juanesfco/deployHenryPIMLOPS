@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-05-24,12120,True,Still the best GTA game only this time you can have slightly better graphics and install Winnie The Pooh mods for your kids to play10/10
-2014-09-04,270170,False,even before the whole 'Zoe Quinn' saga i still thought this game was ♥♥♥♥
-2014-05-24,225140,True,This game has a strip club11/10
-2014-05-24,211600,True,Spent the whole first mission throwing vases and plates at guards10/10
-2014-05-11,42910,True,i killed my friend with a rock10/10 GOTY
-2014-02-15,223470,True,One of the best games ever made sure it has problems but what game doesnt its nothing but violent fun which is what all video games should be FUN never before has a game made me giggle like a little girl as i ♥♥♥♥ in peoples mouths only to see them puke on the ground i reccomend this game to anyone who wants FUN
+posted,item_id,recommend,sentiment_analysis
+2014-05-24,12120,True,2
+2014-09-04,270170,False,1
+2014-05-24,225140,True,0
+2014-05-24,211600,True,2
+2014-05-11,42910,True,0
+2014-02-15,223470,True,1

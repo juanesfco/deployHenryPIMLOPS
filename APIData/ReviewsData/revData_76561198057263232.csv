@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-27,48000,True,I wish i bought it...
-2015-04-17,227280,False,"this would be a great game, you know if it didn't crash and lag as much. seriously i love this game but i can only play the first few levels due to the extreame lag and consitant crashing. the limited options in settings doesn't help either. would only recommend to those with a REALLY good computer."
+posted,item_id,recommend,sentiment_analysis
+2016-06-27,48000,True,1
+2015-04-17,227280,False,1

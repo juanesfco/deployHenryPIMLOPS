@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-06,221100,False,"Poorly optimized garbage. Why am I writing a review about the engine in an early alpha? Because as long as they're using the Arma 2/parts of the Arma 3 engine this game will be an absolute poor commercial release. Bohemia seems to be a positively recieved company because of the Arma series, but if you take a look at the rest of their games, they are absolute trash. The game engine too, is absolute trash and is poorly optimized. It would be 10 times better if they licensed a better more commercial engine. This game is deemed to fail without a better engine."
-2014-01-24,4000,True,I played this mod about 9 years ago. It's awesome. Play it.
-2014-02-25,241540,True,"The game may appear simplistic on the surface, though it's a very entertaining game. The main campaign will definitely be your money's worth. I definitely recommend it, as it is the best zombie survival game I've played in years."
+posted,item_id,recommend,sentiment_analysis
+2014-12-06,221100,False,1
+2014-01-24,4000,True,2
+2014-02-25,241540,True,1

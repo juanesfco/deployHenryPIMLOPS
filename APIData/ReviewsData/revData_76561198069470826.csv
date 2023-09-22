@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-18,271590,True,Vrroooooom explosion shooty noise!
-2014-03-21,570,True,YES
-2015-11-28,218620,True,This game is terrible. Would not recomend. I only played this for like an hour cos it was so bad
-2016-03-14,296470,True,This game is more sexual than GTAV. 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-09-18,271590,True,1
+2014-03-21,570,True,1
+2015-11-28,218620,True,0
+2016-03-14,296470,True,2

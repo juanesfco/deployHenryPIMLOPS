@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-10,318430,True,"just, so good"
-2015-01-08,234670,True,Buy if you are a fan of naruto or fighting games. Buy if you arent
-2014-12-27,4000,True,"Such a good game, i dont think i even need to review it"
+posted,item_id,recommend,sentiment_analysis
+2015-03-10,318430,True,2
+2015-01-08,234670,True,1
+2014-12-27,4000,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-08,570,True,it is dota!!!
-2013-09-05,440,True,It was interesting
+posted,item_id,recommend,sentiment_analysis
+2014-02-08,570,True,1
+2013-09-05,440,True,2

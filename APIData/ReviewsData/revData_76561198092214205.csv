@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-03-18,268500,True,Really great and I recommend this for Xcom Veterans and Newbies.
-2015-11-18,398100,True,Cant run it for some reason. Send help.
-2015-11-18,264200,True,I am Bruce Norris now.
-2015-11-13,260230,True,The time it takes to complete the game times the amount of time everybody played this game= the time it takes to stop crying
-2015-02-20,270370,True,"Its not letting me select offline , online or settings"
-2014-09-17,4000,True,Awesome
+posted,item_id,recommend,sentiment_analysis
+2016-03-18,268500,True,2
+2015-11-18,398100,True,1
+2015-11-18,264200,True,1
+2015-11-13,260230,True,0
+2015-02-20,270370,True,1
+2014-09-17,4000,True,2

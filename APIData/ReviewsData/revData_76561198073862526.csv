@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-01-04,2700,True,"This is one of the best games that I have ever owned. It never gets old, I always find myself going back to play this classic. It has kept me entertained for many hours! Would highly recommend to anyone."
+posted,item_id,recommend,sentiment_analysis
+2016-01-04,2700,True,2

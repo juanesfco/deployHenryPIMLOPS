@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-10-31,730,True,:3
-2014-10-31,80,True,:v
-2014-10-31,210170,True,:3
-2014-10-31,203160,True,:3
-2014-10-31,440,True,:3
-2014-10-31,570,True,:3
+posted,item_id,recommend,sentiment_analysis
+2014-10-31,730,True,2
+2014-10-31,80,True,1
+2014-10-31,210170,True,2
+2014-10-31,203160,True,2
+2014-10-31,440,True,2
+2014-10-31,570,True,2

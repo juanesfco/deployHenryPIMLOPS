@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-08-30,388520,False,20/21 minutes were spent on a black screen 0.6/10 its not even good
-2015-08-13,333600,True,I did not get this game to press 'p' and i do not have any knowlage of an r18 patch.
-2015-07-31,383080,True,I dont have 2 other clicker games open to hide the fact im playing this.Left this on its own for 3 months came back and no progress10/100
-2015-07-15,39000,True,yes
-2015-06-27,440,False,gets boringi could buy more hats for less money
-2015-04-01,730,False,0/10 knives cost less IRL
+posted,item_id,recommend,sentiment_analysis
+2015-08-30,388520,False,2
+2015-08-13,333600,True,0
+2015-07-31,383080,True,2
+2015-07-15,39000,True,1
+2015-06-27,440,False,2
+2015-04-01,730,False,0

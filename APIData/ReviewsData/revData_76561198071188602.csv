@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-06-02,440,True,hggggggggggg
-2016-02-22,205230,True,Recomendo muito esse jogo! sem explicações tamanha diversão que me proporcionou desde as lutas com mini chefes até as lutas com os bosses finais ! muito bom Nota 1000000000 alêm de ter vários tipos de finalização e sequencias para apertar muito bom mesmo! não me arrependo da compra
-2015-07-13,345520,True,Infelizmente a Dc mais uma vez nos decepecionou talvez fantou um pouco mais de divulgação....
-2015-06-28,206210,True,kkk
-2015-05-22,24200,True,dsa
+posted,item_id,recommend,sentiment_analysis
+2015-06-02,440,True,1
+2016-02-22,205230,True,2
+2015-07-13,345520,True,0
+2015-06-28,206210,True,1
+2015-05-22,24200,True,1

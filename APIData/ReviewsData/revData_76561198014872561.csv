@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-12,221100,True,"I got held hostage and got handcuffed, and then got forced to eat disinfectant. Then they beated me with a crowbar while calling me a peasant. 11/10"
-2014-06-07,242760,True,"I was being attacked by some tribesman, and as i killed the last one i got flung halfway across the map into a mountain. 11/10"
+posted,item_id,recommend,sentiment_analysis
+2014-01-12,221100,True,0
+2014-06-07,242760,True,1

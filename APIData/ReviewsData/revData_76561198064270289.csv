@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-29,730,True,You can paint your gun for $5..WHAT A BARGAIN!
-2015-05-17,320590,True,If u like flash games because they waste 20mins of ur life then you should get dis
+posted,item_id,recommend,sentiment_analysis
+2014-11-29,730,True,1
+2015-05-17,320590,True,0

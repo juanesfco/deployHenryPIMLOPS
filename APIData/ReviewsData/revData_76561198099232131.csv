@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-16,239660,True,ITS LOOK PRETTY GOOD AND IT REALLY REALSTIC STYLE I GUESSS
-2014-09-30,251670,True,good game BUT since there is tf2 in it couldn't you like if you do this you get a tf2 item? cuz that bring some tf2 players in
-2014-01-17,231430,True,pretty good graphics and fun
+posted,item_id,recommend,sentiment_analysis
+2014-02-16,239660,True,2
+2014-09-30,251670,True,2
+2014-01-17,231430,True,2

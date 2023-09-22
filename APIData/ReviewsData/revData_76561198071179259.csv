@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-11-09,620,True,"10/10, all class. Easily in my top 3 games of all time, a genius game. The perplexing puzzles and thoughtful level design make this game so memorable. Sarcasm and Sardonic humor is sprinkled throughout. Never for one moment does any thing in this game seem like a lazy or poorly crafted addition. Everything works!"
-2014-10-31,265930,False,Completly useless and overhyped. Only buy for 30 minute gameplay. 4/10
-2014-01-14,8930,True,Great Strategic Gameplay. Unfortunately the games seem to go on and on and on. Still a good game. 7/10
-2013-11-30,224540,True,"Awesome Game, as long as you go into it forgeting that AoS classic exists. Although the two share the same name, they are completly different concepts. I am beginning to warm to Jagex's AoS more and more by the day...The game is competent in all aspects, but you are going to need a really good rig to get the best out of it.But will never be as good as AoS Classic! Classic is free, and you can download/play it at http://www.buildandshoot.com^ Classic will run on EVERY computer (Looking at you, Felix's HP!) ^"
-2014-01-14,4000,True,Fun Shennigans! $2.49 at some point in all Steam Sales. 10/10!
-2013-11-30,400,True,"Awesome Game, only just behind its sequel. A bargain at $2.49, a game everyone should have. 9/10"
+posted,item_id,recommend,sentiment_analysis
+2014-11-09,620,True,1
+2014-10-31,265930,False,0
+2014-01-14,8930,True,2
+2013-11-30,224540,True,2
+2014-01-14,4000,True,2
+2013-11-30,400,True,1

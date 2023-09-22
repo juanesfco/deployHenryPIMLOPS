@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-31,304730,True,hello :3
-2013-12-26,24010,True,hello Train Simulator 2016 20% cooler friends my games Zootopia :3
-2016-07-13,363970,True,kill you what?
-2015-11-24,350750,True,nice :3
+posted,item_id,recommend,sentiment_analysis
+2015-03-31,304730,True,2
+2013-12-26,24010,True,2
+2016-07-13,363970,True,1
+2015-11-24,350750,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-17,261030,True,GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOD!!!!!!!!!!!!!!!
-2013-12-03,4000,True,GOOOD
-2013-11-30,200260,True,Gud game
+posted,item_id,recommend,sentiment_analysis
+2013-12-17,261030,True,1
+2013-12-03,4000,True,1
+2013-11-30,200260,True,0

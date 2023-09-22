@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-11,109600,False,not many types of armour
-2014-12-23,236390,True,I LIKE BLOWING ♥♥♥♥ UP
-2014-07-09,291480,True,It is a fantastic game although you might need to improve the hitmarker a little bit butside that it is amazing =)
+posted,item_id,recommend,sentiment_analysis
+2013-12-11,109600,False,0
+2014-12-23,236390,True,1
+2014-07-09,291480,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-31,4920,True,"High skill curve, high amount of knowledge to play correctly. Do not buy if codfag."
-2014-02-22,570,True,"this game sucks, you cant even jump"
+posted,item_id,recommend,sentiment_analysis
+2014-10-31,4920,True,2
+2014-02-22,570,True,0

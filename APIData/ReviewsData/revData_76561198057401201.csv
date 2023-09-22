@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-11,270570,True,alright game i clocked it in 88min pretty easy a normal point and click game
-2013-11-29,218130,True,AWSOME
-2013-11-15,1670,False,♥♥♥♥ game controls are bad dosent say how to control i cant move ♥♥♥♥
-2015-05-29,360480,True,This game is love this game is life
-2015-05-29,42160,False,This game is bad :D That all i can say about this game
+posted,item_id,recommend,sentiment_analysis
+2014-06-11,270570,True,1
+2013-11-29,218130,True,1
+2013-11-15,1670,False,0
+2015-05-29,360480,True,0
+2015-05-29,42160,False,0

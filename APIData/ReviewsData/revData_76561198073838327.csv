@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-26,221640,True,Punched my desk in rage and fractured my finger.10/10
-2015-11-29,311210,True,A breath of fresh air in an ever repeating genre!
-2014-10-10,292120,True,"No matter the complaints about the games performance, The game is still amazing."
-2016-08-27,227300,True,Stupidly relaxing.
-2015-10-23,402180,True,"Gifted for the story, Stayed for dem anime tiddiez. 10/10 - IGN"
-2014-05-08,204300,True,"Only in this game, Can I live my dream of wearing no pants and killing octopi.TedMcPain/10"
+posted,item_id,recommend,sentiment_analysis
+2013-12-26,221640,True,1
+2015-11-29,311210,True,2
+2014-10-10,292120,True,2
+2016-08-27,227300,True,0
+2015-10-23,402180,True,2
+2014-05-08,204300,True,1

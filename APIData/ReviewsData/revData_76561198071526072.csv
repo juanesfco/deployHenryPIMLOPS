@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-27,407530,True,nice game needs to be optizminzed
-2016-09-11,402570,True,"Atlas isn't Dota meets Xcom, it's more like, perfection meets perfection."
-2016-02-06,291550,True,please fix the lag and please fix cassidy her sleadge hammer is op im not wining why? cus we played 2v2 she was the only one left it was me and my frined vsing 1 person cassdy my friend and 2 lives i had 1 we lost btw cassidy had 1 life
-2016-09-11,457197,True,"I BETCH YA THIS IS MADE IN CHINA, like this keyboard aswell, SO THAT MEANS ITS GOOD"
-2016-03-04,304930,True,"Screw H1Z1, Get Unturned. why?1)easy to find severs2)zombies dont glicth3)you can make groups4)free and fast download5)the founder of the game always updates it6)super hard to find bugs7)why are u still reading8)get the game already"
+posted,item_id,recommend,sentiment_analysis
+2016-03-27,407530,True,1
+2016-09-11,402570,True,2
+2016-02-06,291550,True,1
+2016-09-11,457197,True,2
+2016-03-04,304930,True,0

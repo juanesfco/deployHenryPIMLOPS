@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-10,362890,True,"這遊戲是HL迷一定要玩的遊戲, 上世紀的神作的重製版, 重製的工作做得相當完美, 劇情方面完全不用擔心, 多人模式也十分有趣, 如果有其他兩部資料片重製也一定會買。"
-2014-07-11,440,True,世上最公平，最有趣的線上多人射擊遊戲，Team Fortress 2
+posted,item_id,recommend,sentiment_analysis
+2015-05-10,362890,True,2
+2014-07-11,440,True,2

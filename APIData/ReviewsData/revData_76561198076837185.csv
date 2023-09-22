@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-03,218680,True,fun
-2015-08-17,385800,True,Its Good
-2015-05-07,313740,True,Good.t 
+posted,item_id,recommend,sentiment_analysis
+2014-06-03,218680,True,2
+2015-08-17,385800,True,2
+2015-05-07,313740,True,1

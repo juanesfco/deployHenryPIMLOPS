@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-01,335330,False,worst game ever EVERYTHING! YES EVERYTHING! is pay to win! you have to pay for weapons which HAVE A TIME LIMIT!and if you run out of blocks you have to pay $1 to get 50 more! even for things like glass windows! you even have to pay to TEST your map! 0/10 worst game EVER!
-2015-02-20,346120,True,"loads of weapons to chose from, including the chaingun! :3"
-2015-01-10,233250,False,all of the units and buildings are invisible! :(
-2015-07-19,245370,True,"A great real time strategy. etherium has a few units and 3 races to chose from. each with their own units buildings and abilities. it has a unique weather system that could either help you or flatten you. the multiplayer servers arnt the best but are still functional. the ai is incredible! better than any other ai in other RTS games. there are a few bugs and gui issues in conquest mode, but overall its a great RTS.RATING: 4/5"
+posted,item_id,recommend,sentiment_analysis
+2015-02-01,335330,False,0
+2015-02-20,346120,True,2
+2015-01-10,233250,False,0
+2015-07-19,245370,True,2

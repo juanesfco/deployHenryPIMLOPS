@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-03,346110,True,People are saying the graphics ar bad. Its early access people you hav to expct it. Overall gameplay is awesome..
-2014-05-01,206210,True,The game is great apart from the fact that the multiplayer is dead. There is nearly no chance of finding a game.
-2014-04-05,4000,True,This is my favourite game 99999999999999999999999999999999 Thumbs up
+posted,item_id,recommend,sentiment_analysis
+2015-06-03,346110,True,2
+2014-05-01,206210,True,1
+2014-04-05,4000,True,0

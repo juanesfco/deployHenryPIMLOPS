@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-24,383120,True,"Although the occasional bug still crops up from time to time, they tend to be funny or hilarious, rather than frustrating. Getting into space used to be quite easy. Technically it still is but your decisions now must guide just how long that will take. I quite enjoy the game as you can scrounge for food and base materials as you make the initial base. Then you can make better equiment and defences that allow you to leave the planet to gather rarer resources to make even better ships. This game has the potential to outrun other games of the same genre. I will be playing this game for a long time to come!"
-2014-09-25,290080,True,Its a VERY slow starter but the game has a lot of promise. I reccomend it.
+posted,item_id,recommend,sentiment_analysis
+2015-12-24,383120,True,1
+2014-09-25,290080,True,0

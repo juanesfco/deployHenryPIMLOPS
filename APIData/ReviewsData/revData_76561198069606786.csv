@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-19,304050,True,"This was a very fun game, me and my friends had a great time playing and surviving together. This company defently knows how to make some fun games. i loved every concept of this game, however the waiting queue is very boring, however it is fairly fast to log in and it is updated very freqently 9.5/10"
-2016-08-06,4000,False,The amount of ♥♥♥♥♥♥♥s on Rp is insane but i like the other gamemodes :) 7.5/10
-2015-07-19,22370,True,-Amazing Game-Graphics could be better-Beutiful story line.-Millions of different possibilites when you talk and use your actions.-Found some pretty funny easter eggs.-Loved the aliens.-10/10
-2015-07-19,550,True,-Good Graphics.-Good Story Line.-Valve game = already a good game.-30% Scary 70% Awesome.-Lots of fun to be had along side with the workshop skins.-8.5/10
-2015-07-19,223710,True,10/10 would sh!t my pants again
+posted,item_id,recommend,sentiment_analysis
+2015-07-19,304050,True,1
+2016-08-06,4000,False,0
+2015-07-19,22370,True,2
+2015-07-19,550,True,2
+2015-07-19,223710,True,1

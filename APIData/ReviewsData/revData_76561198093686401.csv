@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-11-22,570,True,"Your teammates will give you Cancer, Ebola and HIV."
+posted,item_id,recommend,sentiment_analysis
+2014-11-22,570,True,1

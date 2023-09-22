@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-04-07,219910,True,"Entertaining, in a sadistic way. Worth giving a try."
-2012-07-21,8980,True,"part fps, part rpg, sounds like it would be the worst of both but it's far from it, definately worth picking up."
-2012-07-13,18020,True,good 8 hours of gaming if your a penny arcade fan
+posted,item_id,recommend,sentiment_analysis
+2013-04-07,219910,True,2
+2012-07-21,8980,True,0
+2012-07-13,18020,True,2

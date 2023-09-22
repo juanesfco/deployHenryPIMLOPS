@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-16,49520,True,"otimo coop, rende muita diversão, gráfico otimo, jogabilidade melhor ainda"
-2015-12-16,8870,True,"this game have the best ending of all games, this game is epic"
+posted,item_id,recommend,sentiment_analysis
+2015-12-16,49520,True,2
+2015-12-16,8870,True,1

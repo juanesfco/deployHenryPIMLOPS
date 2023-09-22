@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-09-30,130,True,"Half-Life 1'in ikinci resmi eklentisi, tıpkı 'Opposing Force' da olduğu gibi senaryoyu farklı bi macera ile yaşamamıza olanak tanıyor..."
-2015-10-01,20,True,"Team Fortress tutkusunun başlangıcı;half-life 1 grafikleri, meşhur levyemiz vb. kısacası silahlar karışık, hl'danda var oyunun kendi özel silahlarıda var; kısacası eğlenceli dakikalar bizleri bekliyor..."
-2015-10-01,104600,True,"Sadece 4 Türk Lirasına Portal 2'nin daha proje aşamasından bugünlere nasıl geldiğinden tutun, yapımcılarının hayatlarına, VALVé'nin gizli ofisinin 3 boyutlu resimlerine kadar harika bir yolculuk... :)"
-2015-10-01,730,True,"Kalite olarak 'Counter-Strike Source' dan öyle çok ahım şahım bi fazlası olmasada getirdiği yenilikler alınması için yeterli bir sebeb oluyor; yeni oyun çeşitleri, yeni haritalar, önceki cs oyunlarında olmayan silah skin'leri, yanıcı el bombası (t'ler için molotof) , yanıltıcı ses bombası, öldüğümüzde seçdiğimiz yaşayan bir bot'u yötebilme şansımız vs. kısacası VALVé yapmış gene :) ee bizede bu heyecanı yaşamak düşüyor..."
-2015-10-01,17530,True,"Araçlar ile savaşmak, takım oyunu tadı ve Source motoru farkıyla..."
-2015-10-01,3483,True,"Zaman geçirmek için bire bir, mantıklı düşünüp ona göre hamle yapmak gerekiyor;free olan bu oyunu asıl güzelleştiren ise 'The Orange Box!' paketindeki Valvé oyunlarının bazı seçmece resimlerinin arkaplana ustaca yerleştirilmiş olması..."
+posted,item_id,recommend,sentiment_analysis
+2015-09-30,130,True,1
+2015-10-01,20,True,2
+2015-10-01,104600,True,2
+2015-10-01,730,True,2
+2015-10-01,17530,True,0
+2015-10-01,3483,True,2

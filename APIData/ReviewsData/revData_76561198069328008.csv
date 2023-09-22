@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-08-15,730,True,Great Game . Game revolves aorund spending money on pixels that will get you no where in live
-2015-04-18,218620,True,"Friend gets downed by cloacker , why not just shout at him to get the ♥♥♥♥ up and he will. 9/11"
-2015-03-29,34330,True,SHAMEFUL DISPRAY
-2016-01-30,387990,False,♥♥♥♥ing cancerous multiplayer game is pretty good but mutiplayer is unplayable i would also like to see bearing that go up and down please mutiplayer is cancer cannot move ♥♥♥♥ing fix it
-2015-08-14,367240,False,Stuck in a door never playing it again
-2015-04-13,234190,True,Tries to jump down and kill enemies dies from the jump.  11/10
-2015-01-05,35450,True,BUY IT
+posted,item_id,recommend,sentiment_analysis
+2015-08-15,730,True,1
+2015-04-18,218620,True,1
+2015-03-29,34330,True,1
+2016-01-30,387990,False,1
+2015-08-14,367240,False,1
+2015-04-13,234190,True,0
+2015-01-05,35450,True,1

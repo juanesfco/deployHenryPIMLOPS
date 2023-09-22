@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-11-07,24200,False,"Connection stability has become a bit of a joke since Daybreak took over, it seems.Great game, just no longer playable for me."
-2015-07-16,333980,True,"I feel like I should be ashamed of loving this game, but it is hilarious. A lot of meta humor and tongue-in-check fun poking at a lot of gaming tropes, wrapped around a pretty decent game."
-2015-05-29,253980,False,"Bucket of ♥♥♥♥ that doesn't work. If you aren't running this on the original intended hardware, it's worthless."
-2015-04-04,301910,False,"There are admittedly a few funny moments, but feels very much like a extremely cut-down version of what we've seen so far. Kinzie can be played as, but the game continues to give ♥♥♥♥♥♥♥s to Johnny Gat and throws Kinzie to the wayside, despite if you choose to play the entire ♥♥♥♥ing game with her.No homies, so no banter/dialog. No personalisation of your player, because god forbid we put Gat Almighty in a ♥♥♥♥ing clown suit or something.Honestly, you're better off watching the cutscenes on youtube than buying the game."
-2015-02-28,319630,True,"Sweet mercy was this game amazing. Exceptionally short first episode, but then admittedly it was $5. The reversing time puzzle mechanic was fun to mess around with, and the characters were amazing; and the story managed to capture that horrible awkwardness that is being a teenager at school.Definitely following this game, can't wait for the whole season to be out."
-2015-02-06,313120,False,"I was very keen for this game in the early stages, though as development has gone on, my interest has waned.Poor UI and lack of consistency amongst interactions are rife here, and speaking with the developer, they seem to be under the impression that having a bad UI adds to the immersion and replayability of the game.This one is getting permanently uninstalled, and forgotten about."
-2014-12-26,209370,True,"Surprisingly a good Visual Novel. While the two main characters are somewhat interesting (though, I swear, *Mute's 'men are superior' lines kept getting to me!) there are a plethora of other characters to get to know. Kind of. I mean, you are on a derelict ship, reading old log files, but the sordid history of the families and the long-dead people on the ship are interesting. A little hard remembering the names, especially if you don't speak korean (or like most western audiences, are used to Firstname Surname formatting of names)All in all, a pretty good story, and I have been going through it trying to unlock all the logs (which thankfully accumulate through play throughs, as I am not sure it is possible to do in one game)Only thing I wish this game had… was badges and cards. I mean, seriously, where are my badges and cards?"
-2012-03-20,203810,True,"Not a game in the traditional sense... more of an interactive story, maybe? Hard to define (as saying it is a game will give you certain preconceptions about the game) and it took me all the way through the first chapter and part way through the second to shake off my concept of what the game SHOULD be and appreciate it for what it was...I am going through my second playthrough right now, I am loving the speculation on the steam boards and other places over who the character is, the meaning of the game, the meaning of the stories told...I would suggest keeping an open mind with this game, and you might be wonderfully surprised by this tale of loneliness, loss and finally death. It has changed my opinion on whether games can be art."
-2011-08-04,50130,True,"Man, this game ♥♥♥♥ing rocks... and I got it at a steal...It's a little less open world as GTA, and much smaller world... but great characters, some funny dialogue, serious story line but not too depressing. Awesome!"
+posted,item_id,recommend,sentiment_analysis
+2015-11-07,24200,False,0
+2015-07-16,333980,True,2
+2015-05-29,253980,False,0
+2015-04-04,301910,False,1
+2015-02-28,319630,True,1
+2015-02-06,313120,False,0
+2014-12-26,209370,True,2
+2012-03-20,203810,True,1
+2011-08-04,50130,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-30,250900,True,"The Binding of Issac: Rebirth is a remake of the classic game, The Binding of Issac. TBOIR has:- Great 16-bit inspired graphics- An intruiging storyline- Memes- About 500 or more items to collect- Also you fight your mumBuy it now."
-2015-01-19,40800,True,This game makes you wanna be a vegetarian. 10/10 would experience again.
-2015-01-09,270450,True,"Buy this game and you wont have to go out and go to parties anymore because this game has more flashing lights than if you bought 3,000 Disco Balls. 101/10 IGN. But on a serious note this game is one of the most unique games out there and if you wanna have a good time playing with balls (haha) then buy this game."
-2014-11-29,105600,True,Amazing game with lots to do. Everyone who says this is a copy of Minecraft... sigh... they still haven't learned.
-2014-04-27,274190,True,"Everyone should get this game, its amazing!!!!!!!!!!!!!!!!!!"
+posted,item_id,recommend,sentiment_analysis
+2015-01-30,250900,True,2
+2015-01-19,40800,True,0
+2015-01-09,270450,True,1
+2014-11-29,105600,True,2
+2014-04-27,274190,True,2

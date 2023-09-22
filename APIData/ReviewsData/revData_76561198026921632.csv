@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-22,297100,False,"Between the cringeworthy dialogue, poor voice acting, unintuitive UI, and lacklustre gameplay, I can recommend this product, but not as a game - as an example. This is no Descent: Freespace, Wing Commander, or Strike Suit Zero."
-2014-05-05,261760,True,"While it's a solid concept, after playing through gaining my first three spell elements it feels like there's not much variety in spells or enemies, the levels are straightforward, and the story could be better. Keeping an eye on this nonetheless."
+posted,item_id,recommend,sentiment_analysis
+2014-06-22,297100,False,0
+2014-05-05,261760,True,2

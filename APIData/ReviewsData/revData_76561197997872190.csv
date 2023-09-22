@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-10-31,287290,True,"I played it for 2 seconds. I took one step forward and then paused, setup the screen resolution and graphics detail and game UI options. I'm annoyed it won't let you change resolution at the start but oh well. I then spent 40 minutes trying to figure out how to link my Steam account to my Capcom account. It was painless, just a lot of reading and setting stuff up. And that's my early experience. It looks like a beautiful game, terribly long setup process though. 9/10I'll play the game tomorrow. No gameplay review will be posted."
-2015-12-24,364050,False,A nice brainwashing tool for psych wards maybe.
-2015-12-23,222880,False,"The gameplay is fun and addictive at first but the gamemodes become repetitive after a while. Also the AI spams RPGs constantly which often times wipes out your entire team before a single bullet is shot. Enemy AI can sometimes spawn right beside you or you'll respawn right beside a group of them resulting in your quick death.The friendly AI is annoying because they just follow you everywhere. They don't follow orders and they don't go anywhere on their own. Often times, they'll crowd around you and get you killed.The only positives I can give this game is the gun battles that do happen without RPG spam and the enemy AI is fun to play against. I'd make this a positive review if RPGs were made optional or decrease their number among the AI and the ability to issue orders to friendly AI via the voice command menu. The way the game handles spawns is funky in a lot of ways and needs revising. As it is, the current build leaves me feeling unsatisfied."
-2015-12-30,340300,True,Only real men play this game.
-2015-12-25,287120,True,I had lots of fun with this game. Nice techno/dance music too.
-2012-08-16,12900,True,"I love this game above all others, it's the only game I know that can be relaxing and an adrenaline rush at the same time."
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,287290,True,1
+2015-12-24,364050,False,2
+2015-12-23,222880,False,1
+2015-12-30,340300,True,1
+2015-12-25,287120,True,2
+2012-08-16,12900,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-23,440810,False,"Absolute trash, no effort put in at all to bring this to PC, filled with constant mobile gaming annoyances, no controller support. Wouldn't recommend at 90% off, let alone the 75% off I paid. Refund requested."
-2015-12-09,352960,True,"Not bad, John"
+posted,item_id,recommend,sentiment_analysis
+2016-06-23,440810,False,2
+2015-12-09,352960,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-02,55230,True,Saints Row The Third is an epic open world game. The missions are all require you to do completely different (and ridiculous) things each time and the customisation this game allows is amazing.
-2013-12-16,211820,True,It is a really promising and imaginative game I would highly recommend trying it out. Only problem is there are a lot of bugs still in there but it is an early access game so bugs are expected
+posted,item_id,recommend,sentiment_analysis
+2014-06-02,55230,True,1
+2013-12-16,211820,True,1

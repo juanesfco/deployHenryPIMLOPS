@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-02,730,True,Perfect game. Full of strategies and team-work. It really is the best FPS shooter out there.
-2014-01-25,221100,True,Found a Mosin in a house and got ♥♥♥♥♥ by a Zombie.11/10 Would play again.
-2015-06-29,218620,True,"Barrel of laughs, cheap as chips, buy it.Bring a few mates and have a jolly ol' time screaming at them if they ♥♥♥♥ you up, really is worth it."
+posted,item_id,recommend,sentiment_analysis
+2015-04-02,730,True,2
+2014-01-25,221100,True,1
+2015-06-29,218620,True,2

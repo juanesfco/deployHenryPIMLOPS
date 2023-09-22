@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-28,203770,True,"This game is very fantastic. This is best Paradox game that I ever play. This could be the 2nd Game that is in my favorite list below Medieval II: Total War Kingdoms. So I really recommend you this game. Worthful and especially for those who likes the Medieval, Crusade, or Levantian history... I bet they will like this game. Why do I recommend this game? first of all, I really like the Crusade history and levantian history and second, this game has a great gameplay, history, and graphic. Well then, Thank You."
-2014-02-28,25890,True,Very great strategy game.
+posted,item_id,recommend,sentiment_analysis
+2014-03-28,203770,True,1
+2014-02-28,25890,True,2

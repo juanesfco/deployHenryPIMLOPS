@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-11,24200,False,"This game has an independant loader and makes it difficult to load, you have to create a seperate account then it won't run. I Kept getting a 'LaunchPad was unable to connect.' error and hen i went to the site provided by them the help was unable to assist with the problem. I had to wade through the material they had on file and still could not find an answer to the problem. I then tried to log a ticket with Sony and the account I had just made was invaild and I was reqquired to make another avvount with Sony to log a error and ask for some help. Not to self and a warning to all stay away from Sony online games. they just screw you over and waste your time."
-2013-11-26,39160,True,This game has an excelent story line and beautiful character development. An excelent choice.
-2015-11-14,386360,False,Don't bother with this game it has a eliteist community that doesn't take the time to help out new players. its simply a pay to win game. NOT WORTH THE TIME TO PLAY AND LEARN
-2015-08-01,363970,True,"Very cool, able to leave it running in the background and it basically plays itself."
+posted,item_id,recommend,sentiment_analysis
+2014-05-11,24200,False,0
+2013-11-26,39160,True,2
+2015-11-14,386360,False,1
+2015-08-01,363970,True,2

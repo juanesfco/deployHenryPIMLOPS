@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-02-17,208090,True,Todos lo jugaban yo solo queria ser popular (͡º ͜ʖ ͡º)
-2015-12-25,233610,True,10/69( ͡° ͜ʖ ͡°)-IGN
-2015-12-24,55230,True,mui vueno
-2015-03-14,730,True,10/420 A cheap copy of call of duty-IGN
-2014-04-02,570,True,"bueno,sere breve pense que era una ♥♥♥♥♥♥ pero con ayuda de amiwos(skapeland)(chupapicos)vi que era muy bueno xd y ahora soy un viciado de ♥♥♥♥♥♥ :D"
-2014-02-26,4000,True,la wea wena
+posted,item_id,recommend,sentiment_analysis
+2014-02-17,208090,True,2
+2015-12-25,233610,True,1
+2015-12-24,55230,True,2
+2015-03-14,730,True,2
+2014-04-02,570,True,2
+2014-02-26,4000,True,1

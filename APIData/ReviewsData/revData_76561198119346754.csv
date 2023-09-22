@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-07,220240,True,geiles spiel
-2014-01-04,72850,True,Das spiel ist Action reich man hat viele Freiheiten aber die Grafick hat unter der geschwindig zuleiden
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,220240,True,2
+2014-01-04,72850,True,1

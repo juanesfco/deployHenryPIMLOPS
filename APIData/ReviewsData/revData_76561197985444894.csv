@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-18,255710,True,在SimCity系列跟Cities XL系列兩家擺爛之後，城市模擬經營類的遊戲界終於來了一股清流。
-2014-11-03,550,True,WE WANT L4D3 !!!
-2013-07-19,200710,True,不錯玩！亦可去Steam Workshop下載繁簡中文漢化包。
-2013-06-27,39800,True,雖然只是小品遊戲，但4人co-op還挺爽快的。
-2013-06-23,48700,True,騎馬與砍殺！本來是玩謎版的，但後來覺得好玩，所以入正支持一下！
+posted,item_id,recommend,sentiment_analysis
+2015-03-18,255710,True,1
+2014-11-03,550,True,1
+2013-07-19,200710,True,2
+2013-06-27,39800,True,1
+2013-06-23,48700,True,2

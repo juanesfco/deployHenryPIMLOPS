@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-05-14,34900,True,"Too often have I seen an amazing game swept under the rug. I thought I experienced top-of-the-line gaming when I played amazing games such as Farming Simulator, but I've been bested. With an emotional story line, Bad Rats allows you to play with amazing features such as archery, realistic physics and perfect video settings. I often get sucked into the amazing gameplay. It's an enthralling game which needs to be given more love. With realistic and heart-wrenching character development, you truly begin to understand life as one of the 'Bad Rats'."
-2016-03-07,394310,True,"i had to task manager close it because i couldn't save.i couldn't save because you can't save on the job screen.my job screen froze.i couldn't click anything to get out of the screen.other than that, great game."
-2016-03-06,401920,True,"worthdidnt exactly double the content, but still added more than enough content for the extra shekels used up"
-2016-01-31,377160,True,Regional codes.
-2016-06-25,17520,True,"like thredbo's slogan, i like it."
-2016-01-23,405640,True,"pretty good, not gonna dedicate my time to hunting achievements through."
-2015-10-21,391540,False,stale as ♥♥♥♥.
-2015-08-30,313740,True,So much story. It's in-depth and is actually a relatable plot.kek.
+posted,item_id,recommend,sentiment_analysis
+2015-05-14,34900,True,2
+2016-03-07,394310,True,2
+2016-03-06,401920,True,2
+2016-01-31,377160,True,1
+2016-06-25,17520,True,1
+2016-01-23,405640,True,2
+2015-10-21,391540,False,0
+2015-08-30,313740,True,1

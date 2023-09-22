@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-22,212500,True,I'm writing this review at 40 hours but I have a feeling this is going to increase. There is so much in the game and no microtransactions needed so far.
-2014-03-25,47410,False,"Great procrastination game. Ruined my schooling. 5 starsEDIT:I put up with the moster pay-to-win players my being friendly but after being wiped out 5 times or 4 different worlds I will have to not recommend it. On world 7 I played passively but was in a house for the protection but still managed to getted wiped out by another play, most likely a pay-to-win player. Pretyy much if you want to do good in this game you have to spend money, lots of money."
-2014-01-17,212180,False,"I start by saying how good this game is. There are so many things you can do and so much fun to be had, but, there are so many hackers! And most guns and equipment have to be bought with real money. I used to like this game but it has become bad now :/"
-2013-12-20,550,True,Love the story so far and the online play. The gamemodes give variety. Unfortuatly not many people play some gamemodes so there aren't people to play with unless you get friends.
-2013-12-11,200710,True,Really like this game and woudld recommend you to buy it. I have hardly explored all aspects of the game but still love it
-2013-10-02,440,True,"Very quirky kind of game, love it, Just wish it had local co-op"
-2013-02-11,65800,True,"Love the game, but it is kind of hard; so it's best played with friends."
+posted,item_id,recommend,sentiment_analysis
+2014-06-22,212500,True,1
+2014-03-25,47410,False,2
+2014-01-17,212180,False,2
+2013-12-20,550,True,2
+2013-12-11,200710,True,1
+2013-10-02,440,True,2
+2013-02-11,65800,True,2

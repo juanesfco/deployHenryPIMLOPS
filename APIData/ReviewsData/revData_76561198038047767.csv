@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-08,282350,False,it keep lag like CRAZY
-2015-11-17,378120,True,INJURIESSSS!!!!!!!!!!!!!!
-2015-02-16,48700,False,it used to be good till the laucher BUG occurs..... it just said launching then PLOFF! gone.... this game just will not launch for me anyhow....
+posted,item_id,recommend,sentiment_analysis
+2014-10-08,282350,False,0
+2015-11-17,378120,True,1
+2015-02-16,48700,False,2

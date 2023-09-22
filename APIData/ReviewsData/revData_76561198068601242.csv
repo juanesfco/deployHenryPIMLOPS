@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-28,236390,True,"10/10 amazing game, NOT PAY TO WIN, those people only complaining because1/ they are bad2/ they just want jetsif you are playing just for the jets and high tier, don't play"
-2014-04-08,221100,True,"This game is great, really, it is. But to play it you need at least 4-5 hours to get all the gear, travel to the right places, and kill some people along the way. This game is a must buy, because once the full release is out, expect the price to sky-rocket."
-2013-12-24,209870,True,real gud
+posted,item_id,recommend,sentiment_analysis
+2014-10-28,236390,True,2
+2014-04-08,221100,True,1
+2013-12-24,209870,True,2

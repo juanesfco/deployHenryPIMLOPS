@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-05,218230,True,long time to get anywere! but truely a fun game.
-2014-04-13,243870,False,"I cant launch the game GG, won't even get past 'connecting to servers...'"
+posted,item_id,recommend,sentiment_analysis
+2014-03-05,218230,True,1
+2014-04-13,243870,False,0

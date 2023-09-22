@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-04,22370,True,"Amazing game for a game 6 years old! This is one of my faverout games, the adventureing element is better then the one in Skyrim! WARNING! Don't Buy this game on steam! Unless you have vista or below the game will not run. Buy this for 360 of PS3. 10/10 For 360 not PC!"
-2014-10-08,227300,True,Great simulator and game. For some reson it is really really fun (in a calming way.). Hundreds of hours of play time and often on sale. The only problem is sometimes it can get very frustrating. Ecspecally when you crash and you get stuck so you have to quit the job your doing or sometime the AI game run into you and you get fined. Overall great game but sometimes frustdrating 9.5/10
-2014-05-19,2700,True,"This game is the best. You get to make a Theme Park. You can play the game in carrer mode,Sandbox mode or you can make you own game type. You get to build roller coasters track by track or use ones that are already made for you. This is one of my favorite games and it is so fun. 10 out of 10"
-2014-04-07,231430,True,"Great game, Better then the first one. Is a great RTS and the story is told realy well + The graphics are great. But the game can get a bit frustrating at times 8.5/10"
-2016-01-06,8870,True,"HOLLY CRAP! This game is absoultlyperfect! Amazing combat, Amazing Graphic, Perfect characters and an absolutly perfect story that had me staring at my computer with a mix of amazment! Get this game! you wont regret it! 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-01-04,22370,True,1
+2014-10-08,227300,True,1
+2014-05-19,2700,True,2
+2014-04-07,231430,True,2
+2016-01-06,8870,True,2

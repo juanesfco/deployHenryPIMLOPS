@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-29,379720,True,"Esse jogo...Compre ele agora!jogo SANGRENTO PRA CARAMBA,gráficos extremamente bonitos, com bastante violência e que com certeza,vai lhe render umas belas e boas horas de diversão, relaxante e desafiador ao mesmo tempo. Somente a campanha do jogo já é motivo o suficiente para você o comprar.considero esse o MEU jogo do ano de 2016!10/10-Yokido Game Analysis"
-2016-07-22,211820,True,"Eu amo muito esse jogo!Eu conheci esse jogo enquanto procurava jogos como terraria, lá por 2013.E até hoje eu adoro! A trilha sonora é muito bonita, dando aos jogadores uma sensação de que você está descobrindo um mundo novo, lembrando os novos jogadores como um no mans sky 2D. Super recomendado!"
-2016-02-24,304930,True,cebolitos
-2015-11-13,322330,True,BAUM
-2014-06-20,236430,True,epico
+posted,item_id,recommend,sentiment_analysis
+2016-07-29,379720,True,0
+2016-07-22,211820,True,2
+2016-02-24,304930,True,1
+2015-11-13,322330,True,1
+2014-06-20,236430,True,1

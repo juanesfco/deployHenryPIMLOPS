@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-16,383080,False,This is a truly awful idle clicker.
-2015-10-17,375820,True,"This is a fun and clever puzzling with an intriguing dark back story.Fundamentally, it's a game that teaches programming. It also requires some mathematical knowledge because puzzles include multiplication and division with only add and subtract instructions available, as well as the Fibonacci sequence, the difference between div and mod, and more.If you're a coder, or have a logical and mathematical bent, you will enjoy the game. If you are an FPS player only then this has nothing for you. I think it is a good way of introducing mathematical logic and programming concepts to young children, as well as being engaging for adults too.My video review"
-2015-09-22,385830,False,I got this for free and that price is about right. It's not really a very fun game. It's a laborious slow side-scrolling shooter with awkward keyboard controls. The gamepad may make the game easier to control but it won't make it more fun.
+posted,item_id,recommend,sentiment_analysis
+2015-08-16,383080,False,0
+2015-10-17,375820,True,2
+2015-09-22,385830,False,1

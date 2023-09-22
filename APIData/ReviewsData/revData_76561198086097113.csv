@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-09,251570,False,"Please don't buy this game.its bad every 10 minutes max you live for. please dont buy, get DayZ or something"
-2015-09-18,367580,True,"Great Game, sadly a bit short but worth a play, very relaxing. i highly recommend playing. it is such value for moeny. one game everyone should play."
+posted,item_id,recommend,sentiment_analysis
+2014-01-09,251570,False,0
+2015-09-18,367580,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-20,283960,True,One of the best games I've ever played. I recommend this to any MLG CoD players or anyone who likes nostalgia as much as weed mixed with coke and a LSD pill on the side.
-2014-03-24,227280,True,"Despite the low metacritic score, this game is a really great game. The platforming is soild and it takes alot of skill to pull off some of the stages. On the downside though, the screaming guy gets really annoying and reptitive after you keep having death after death. But his sayings are always funny the first time you hear them. 8.5/10"
-2015-01-23,249990,True,Balfus is a d1ck 10/10 would spam spacebar again
+posted,item_id,recommend,sentiment_analysis
+2015-06-20,283960,True,2
+2014-03-24,227280,True,1
+2015-01-23,249990,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-14,252950,True,"A really amazing game, i reccomend playing competitive with friends because in casual some people are very.... goal hungry.This game is one of my best games on my pc.It destroys friendships and anuses/ani (idk the plural form C:)All round a great game 10/10 ^.^"
-2014-12-27,35450,True,"An amazing game, this game hard to understand at the start, but as soon as you realise that you need to play super slow, it becomes an amazing action packed game.10/10"
-2012-12-31,440,True,"A pretty time consuming game, with a very good economy. Although after a while it just didn't feel the same, and i quickly got bored of it, all round a great game to sink some time into :)"
-2014-12-14,48700,True,"An amazing game, a pretty steep learning curve, but so much fun. I just wish that more people played the multiplayer for it. 10/10 :D"
-2013-03-20,240,True,"I picked up this game to get the Garrys Mod textures for the different modes e.g jail break, of course not expecting to like the game.... Well i was horribly wrong, i fell in love with this game. This is an incredibly good game, a large variety of different game modes. Definitley worth picking up.10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-07-14,252950,True,1
+2014-12-27,35450,True,1
+2012-12-31,440,True,2
+2014-12-14,48700,True,2
+2013-03-20,240,True,1

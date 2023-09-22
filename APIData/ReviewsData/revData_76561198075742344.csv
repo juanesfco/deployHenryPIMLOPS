@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-26,218620,False,"Can't play after the updates, people who doesn't know how to play the game, after playing the game crashes and The ♥♥♥♥ing black screen"
-2015-08-30,333930,True,5/10 lots of bugs and bad servers.BTW this game needs a better training facility
-2015-04-30,104700,True,"it needs blood when get hit, and some others changes, 9/10"
-2016-01-04,239140,True,What can i say? Nice graphics and nice story and charactersThe only thing wrong: it should be playable for all graphics cards even the lowest ones like 12 fps or 6But nvm nice game 8/10
-2014-11-22,440,True,"Well, this game is the best i ever played but when i was downloading this game (again) i was like in 30%, but i connected today and it was 0% well if valve can fix this things i will be more happy and i will play more this game."
+posted,item_id,recommend,sentiment_analysis
+2016-03-26,218620,False,0
+2015-08-30,333930,True,0
+2015-04-30,104700,True,1
+2016-01-04,239140,True,2
+2014-11-22,440,True,2

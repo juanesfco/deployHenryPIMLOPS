@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-05,113420,False,its ♥♥♥♥in ♥♥♥♥. dont bother.
-2013-12-16,218230,True,"this game has curves, and I like curves"
+posted,item_id,recommend,sentiment_analysis
+2014-12-05,113420,False,1
+2013-12-16,218230,True,0

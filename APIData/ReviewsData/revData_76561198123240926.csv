@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-09,356670,True,The first 50 rooms was funny and then ♥♥♥♥ got serious.10/10 Would Change Pants Again
-2014-05-23,221100,True,It's a fun zombie survival game
-2015-11-11,349700,True,Downloads gameStarts loading a server (to join)30mins laterstill hasnt joinedgame crashesgg 10/10 would crash again
-2015-11-27,417860,True,"This is a very depressing game, I recommend playing this game when something hasnt happend. I kinda wish that there was another ending. I deffiently recommend this game."
+posted,item_id,recommend,sentiment_analysis
+2015-08-09,356670,True,2
+2014-05-23,221100,True,1
+2015-11-11,349700,True,1
+2015-11-27,417860,True,0

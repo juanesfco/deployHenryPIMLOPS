@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-06,49520,True,Much loot. Very fun. Wow.
-2014-10-10,45760,True,10/10 it's okay.
-2014-02-18,252490,True,Walking Simulator 2014
+posted,item_id,recommend,sentiment_analysis
+2014-02-06,49520,True,2
+2014-10-10,45760,True,2
+2014-02-18,252490,True,1

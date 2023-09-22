@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-11,17510,True,"Great sword based game, although it takes time to get use to the sword controls, it brings something new into a team deathmatched based game."
-2014-11-30,201810,True,"One of the greatest fps's ever made, it's nothing like call of duty infact the game tries to aim away from call of duty. The shooting is fluid and fast paced. This is a great sequel to the popular fps wolfenstein."
-2014-11-19,218620,True,Payday is love payday is life.
-2014-05-08,221100,True,"As buggy as dayz may seem, it's a fantastic game, I've put a good 50hours on this in about a month. You will make fun about this game about how glitchy it is but you will still love."
+posted,item_id,recommend,sentiment_analysis
+2014-10-11,17510,True,1
+2014-11-30,201810,True,2
+2014-11-19,218620,True,2
+2014-05-08,221100,True,2

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-06-04,234140,True,"Mad Max is a great game, it runs well and looks great and is fun to play. Would recommend it to anyone looking for a good game."
+posted,item_id,recommend,sentiment_analysis
+2016-06-04,234140,True,2

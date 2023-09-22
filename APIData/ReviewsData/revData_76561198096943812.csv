@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-13,381210,False,low spec not play!!! am use gt730 in 9-10FPS plz who know my computer low spec not play is bad Plz read my Review Sun
-2016-06-26,433850,True,Good Play it fun to play
-2016-07-13,271590,True,is fun beacuase play with friends
-2016-06-26,4000,False,slowlife to load in game
-2016-06-26,730,True,have fun alot of skins
+posted,item_id,recommend,sentiment_analysis
+2016-07-13,381210,False,0
+2016-06-26,433850,True,2
+2016-07-13,271590,True,2
+2016-06-26,4000,False,0
+2016-06-26,730,True,2

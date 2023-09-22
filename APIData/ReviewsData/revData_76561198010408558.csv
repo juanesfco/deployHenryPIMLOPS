@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2011-06-24,45300,True,"A wonderful plane simulator that boasts arcade and Realistic modes for the hardened Aerial fans or those looking for a good time. Sadly, the multiplayer aspect is essentially dead to due to the games age but what a great play this game has been!"
-2011-06-24,4500,True,"A great atmosphere, I modded the game using stalker complete mod 2009 since I was recommended to do so, to get the most out of this experience. An experience, I have thoroughly enjoyed. The thrill and sense of achievement that occurs within this game is unique. Wiping out a random wave of mutants or finally finding yourself a desert eagle or a dragunov sniper rifle really shows that the simple things are often the best. Sorting out your equipment constantly is an amusing experience as the player may have to decide to drop that much loved rapid fir AK-47 for a newer weapon  that boasts better abilities. I have thoroughly enjoyed this game and like fallout, the gameplay can range form 10 hours to even 100 hours or so. This is a game whose sequls I shall pursue with great interest!"
-2011-06-24,43110,True,"A personal favourite of mine, having read the books, I believe the game does a great job of producing a concise survival-horror product. I have played through twice and can honeslty say that I eagerley await a sequel or DLC! Sporting an amazing sense of atmosphere, great graphics, a wonderful story and amazing moments that leave the player in awe, this is not an experience to be missed. Unfortunatley, minor bugs and an average stealth system detract from such a beautiful game."
-2011-06-24,8190,True,"A great game for passing time, I found myself just going around driving barges and an armoured car for the giggles rather than trying to figure out where to go."
-2011-06-24,17470,True,"Great game, horrible movement via mouse on the PC compared to consoles. NOTE: this is note a biased console statement, PC is masterrace!"
-2011-06-24,47700,True,"C&C4 moves away from the usual comman and conquer into a different style of RTS that is a love/hate concept. For me, I lacked the interest to sport this new system online among the determined strategists out there. It is recommended you see how the new style works before you purchase the game so as to determine wether you will be wasting your hard earned dorra!"
-2011-06-24,50510,True,"A very fun spin off of the flash game, boxhead. Sporting decent graphics and just a nice little game to get some simple zombie action."
-2011-06-24,10680,True,"If you have any interest in the alien vs predator series, ever wanted to feel what its like being in the shoes of the characters or simply just wanted to be an invisible badass with thermal vision, then this is the gamne for you. Alien vs predator does the job of placing you in the shoes of either alien, marine or predator, in a way I couldnt have imagined. From the nauseating speed and manouverability of the alien, the overuling sense of superiority as the unseen predator or the fear striken, weapon toting marine. This game has it all and the campaigns each left my completley fulfilled. Disapointing though was the lack of dedicated servers which caused me to lose my interest in the multiplayer of the game which, if you were patient enough to enter, was extremley entertaining and challenging. I do believethey plan to add dedicated servers tho in the enar future!"
-2011-01-03,1250,True,"Amazing, addictive, great fun with friends and amazingly cheap"
-2010-12-26,31220,True,"amazing game, great humour and engaging story"
+posted,item_id,recommend,sentiment_analysis
+2011-06-24,45300,True,2
+2011-06-24,4500,True,2
+2011-06-24,43110,True,2
+2011-06-24,8190,True,2
+2011-06-24,17470,True,0
+2011-06-24,47700,True,0
+2011-06-24,50510,True,1
+2011-06-24,10680,True,1
+2011-01-03,1250,True,2
+2010-12-26,31220,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-09,730,True,"Just ... Just ... CS:Source which was awesome, but 10 times better.And the new 'skins' and weapons make this game even more awesome, as you try to collect them."
-2016-02-09,289650,True,"So, I pre-orded the game, I was very excited, but well godamn, was I wrong. The game was so bad I quitted, and didnt even toutch it for a few months, waited for it to be fixed, and now it is.I played the game again and now I do feel like completing the story, and stuff.After the fix I think the game jumped from a 6/10 to a 8/10I now recomend this game and am deep sorry if you also pre-orded it, hope this helps"
-2016-03-23,32360,True,"The nostalgia it brought me was enough for me to buy the game, this is the most adventorous point and click game you will find,  characters will stay in your mind for weeks after you play it, the story is very interesting! I also recommend you buying the second game! Telling another tale which is even better in my opinion!Buy this game, its worth every penny."
+posted,item_id,recommend,sentiment_analysis
+2016-02-09,730,True,2
+2016-02-09,289650,True,0
+2016-03-23,32360,True,1

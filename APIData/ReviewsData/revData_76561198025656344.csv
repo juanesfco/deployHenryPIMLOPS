@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-23,236510,True,Play it with friends you wont be dissapointed
-2014-12-18,218620,True,So much dlc
-2014-07-21,207170,True,A beautiful take on the dungeon crawl rouge-like games of old if you enjoy a challenge and being frustrated by puzzle then definitely buy it
+posted,item_id,recommend,sentiment_analysis
+2014-09-23,236510,True,1
+2014-12-18,218620,True,2
+2014-07-21,207170,True,2

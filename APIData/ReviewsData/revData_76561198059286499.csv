@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-27,12210,True,Grande jogo de bons graficos boa jogabilidade e de grande historia Muito bom!!
-2014-01-29,17410,True,Good physics and gameplay :)
-2013-12-24,730,True,Ótimo jogo :)
-2013-12-20,200260,True,Otimo jogo com grande graficos e boa jogabilidade
+posted,item_id,recommend,sentiment_analysis
+2014-03-27,12210,True,2
+2014-01-29,17410,True,2
+2013-12-24,730,True,2
+2013-12-20,200260,True,2

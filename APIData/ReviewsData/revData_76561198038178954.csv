@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-18,389570,True,"the game is decent, it is a bit of a rip off  but they pulled it off okay, everyone is saying it's laggy but that's only when its peak hour which makes sense, people need to play a bit more before making reviews"
-2015-12-06,370100,False,"11/10, updates aint even fixing bugs and sound is way too ♥♥♥♥ing loud"
-2015-11-21,417860,True,uugh!.... right in the feels.
-2015-05-18,348620,True,"Great story, i loved it, i want the dlc now just for more"
+posted,item_id,recommend,sentiment_analysis
+2015-12-18,389570,True,2
+2015-12-06,370100,False,2
+2015-11-21,417860,True,2
+2015-05-18,348620,True,2

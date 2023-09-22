@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-02-02,208090,True,Best Game I've Played In A Long Time + Its Free To Play So You Have No Reason Not To Play It.
-2014-04-04,265930,True,This game is the G.O.A.T. of all goats in the entire goaterverse Potato/Cheese
-2014-03-19,113200,True,The Binding Of Isaac Is A Really Fun Game With A Lot Of Rage Quits (P.S. Don't Snap You Computer In Half)
-2012-12-21,440,True,You will cumsplode your pants off when you see this game
-2015-09-06,314410,True,First room I...*bet up a mushroom with a face and got stoned*The mushroom drop a potion*Drunk potion and my face turned into an ♥♥♥♥10/10
-2014-04-05,8190,True,Cheese???
-2015-02-15,250900,True,"Definitely the best game in it's genre,                                                                                                                                              I only have two words for people considering whether to buy this game or not: BUY IT"
-2014-07-05,218620,True,payday 2 is potato.nuf said
+posted,item_id,recommend,sentiment_analysis
+2014-02-02,208090,True,2
+2014-04-04,265930,True,0
+2014-03-19,113200,True,1
+2012-12-21,440,True,0
+2015-09-06,314410,True,2
+2014-04-05,8190,True,1
+2015-02-15,250900,True,1
+2014-07-05,218620,True,1

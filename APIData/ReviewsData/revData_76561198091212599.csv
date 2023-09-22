@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-30,12830,True,"If you like war sims, or just like the tactics of one or just can't run Arma, then this game is for YOU!"
-2014-06-20,10180,True,"You can throw knife in friendly's croutches to make them look like purnuses, I like it! :D"
-2014-02-22,209160,True,"Simple review:Campaign was a little predictable but still quite good.Mulitplayer feels a bit too easy to die and you feel quite cheated when you die if you have low ping, But still very addictive"
-2014-11-09,318430,True,I've played about 3min and it's already pretty amazing.
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,12830,True,0
+2014-06-20,10180,True,2
+2014-02-22,209160,True,1
+2014-11-09,318430,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-15,242680,True,The missile that blew up next to me and killed me dropped a health pack.
-2016-07-21,283640,False," PROS - Art style is pretty cool.- Sanctuary system allows you to create a base to suit your playstyle.- Skill tree is straightforward and effective. CONS - Unlike Dark Souls, which is hard but fair, this game is pretty unfair in its difficulty.- Skill tree provides no real sense of progression, as health increases with level.- Stamina bar drains in like two swings.A lot of people compare this came to Dark Souls, and it's clear why. It's extremely obvious in it's inspirations. The game incorporates a lot of ideas from Dark Souls, but implements them very poorly. In Dark Souls, dying to a boss is mostly due to lack of skill. In Salt and Sanctuary, however, I found many of the mechanics, and the enemy and boss AI to be poorly programmed. Rolling is unreliable, and blocking is clunky. There's very little indication of the stat requirements of the gear you'll find. Many of the attempts to create difficulty has resulted in things such as enemies and bosses that don't let you get up after being knocked down. I really wanted to enjoy this game a lot, and honestly I do like it, but it could have been so much better."
-2015-12-02,391540,True,A game hasn't made me weep since Okami
+posted,item_id,recommend,sentiment_analysis
+2016-03-15,242680,True,1
+2016-07-21,283640,False,1
+2015-12-02,391540,True,0

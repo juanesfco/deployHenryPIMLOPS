@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-16,243870,True,pretty fun game for a free tp play. Lots of action. Awesome
-2014-07-26,298260,True,"weirdist game ive ever seen, pretty boring. quit after 2 levels"
-2013-11-28,33930,True,"what can i say, This is one of the best games on steam. A very good realistic military simulator with lots of to be had. I have spent almost 200hours on it. And its perfect for dayz"
+posted,item_id,recommend,sentiment_analysis
+2014-04-16,243870,True,2
+2014-07-26,298260,True,0
+2013-11-28,33930,True,2

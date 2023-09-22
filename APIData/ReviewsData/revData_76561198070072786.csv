@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-04,417860,True,"I tried so hard and got so far, but in the end, it doesnt even matter."
-2014-04-03,265930,True,"They told me I could be anything...so i became I creepy, buggy goat..."
-2014-02-22,400,True,Portal is a great game and gives a good amount of fun and brain teasing to the user
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,417860,True,1
+2014-04-03,265930,True,0
+2014-02-22,400,True,2

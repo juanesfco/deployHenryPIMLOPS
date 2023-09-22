@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-04-05,236850,True,Best Grand strategy game ever 10/10
-2016-06-29,394360,True,Started as the Germany Reich and changed from fascism to democracy then annexed all of europe 10/10.
-2015-08-28,244450,True,"The best WWII strategy game ever created! The only thing which could have been done better are the animations of soldiers, but the rest is just pure awesomeness!!"
-2014-12-17,221100,True,"There's plenty to complain about in DayZ. You can spend your early hours with the game just wandering through the woods or searching empty houses for supplies. The game offers very little in the way of guidance when you start. Once you finally get some decent gear, you can lose it in a flash if you're caught by surprise by a couple zombies or a trigger happy player. Still, the loose and harsh nature that many people hate about DayZ is also why people love it. Yes, finding fresh food or water so you won't die can be annoying. On the other hand, it forces players to converge on the supply-rich towns where the zombies are most concentrated. The hunt for scarce resources and ease of death forces players to either band together, hunt each other, or become sneaky hermits. You can make the game into a co-op shooter, survival horror, deathmatch, or somewhere in between. The game's what you make of it. 8/10"
+posted,item_id,recommend,sentiment_analysis
+2016-04-05,236850,True,2
+2016-06-29,394360,True,1
+2015-08-28,244450,True,2
+2014-12-17,221100,True,1

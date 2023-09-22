@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-28,241320,True,"it's a fun game and all, but i'm so done with fishbuns.SO. DONE."
-2013-08-24,31270,True,The animation and story is very engaging and interesting. I think the style of art is very cute :3
-2013-02-09,440,True,Probably the best f2p game on Steam. I really recommend you try it out because it is a great game with many features!
-2013-12-25,550,True,zombies. nuff said.
-2014-06-14,243280,True,"I'm a sucker for cute characters and that was the main reason why I bought this game. I really, REALLY underestimated the greatness of Poof. Once I started playing, I couldn't get enough of it. The game started off very simple but as I spent more time on it it became trickier and the missions became harder to accomplish. Don't let looks fool you. This seemingly adorable game is full of surprises, fast-paced action and is devilishly addictive. I keep coming back for more and it's worth it every time."
+posted,item_id,recommend,sentiment_analysis
+2014-07-28,241320,True,1
+2013-08-24,31270,True,2
+2013-02-09,440,True,2
+2013-12-25,550,True,1
+2014-06-14,243280,True,1

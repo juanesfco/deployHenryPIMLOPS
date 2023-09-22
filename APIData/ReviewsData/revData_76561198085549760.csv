@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-06,282440,True,I fast actioned pace game which is enjoyable for anyone who has very fast reflexes. P.S: You'll need them
-2015-12-20,209870,False,bad
-2015-12-25,51100,False,"No, just no"
-2014-11-06,319510,True,I wasn't ready for Freddy. Are you?
+posted,item_id,recommend,sentiment_analysis
+2014-11-06,282440,True,2
+2015-12-20,209870,False,0
+2015-12-25,51100,False,1
+2014-11-06,319510,True,2

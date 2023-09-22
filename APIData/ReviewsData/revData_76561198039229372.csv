@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-21,292030,True,Has dynamic beard growth. 10/10
-2016-02-09,383870,True,"Put simply, a short but sweet game worth the experience. And you get a pet turtle."
+posted,item_id,recommend,sentiment_analysis
+2015-05-21,292030,True,1
+2016-02-09,383870,True,1

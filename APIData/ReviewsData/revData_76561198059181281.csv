@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-15,269310,True,"First of all,this game is in Alpha,so that means that i will make another Review.Infectonator:Survivors it's a very addictive game,but sometimes you can make big rages.You need to play the original Infectonator! series to know a little more how the game worked(PS:This game is a spin-off)but the game itself it's very simple,but dosen't mean that is easy,i recommend to those that like different things,this game is very very innovative,with his TD with RTS is like any other game that you has seem before(PS: I laughed a lot when i looked at the Worker new art.LOL)"
-2014-03-07,105600,True,"Terraria is a very cool game,even its said it's that 'minecraft clones',but they are tottaly different games.  Terraria is base in exploration,figthing and little in building; its a very fun game, even its grafics not that good,its a fun and vicious expirence. I recomend for the ones that are not Minecraft fanboys or for that ones that are not lazy to exlore."
-2014-06-23,4000,True,"Well,I'm recommend this 'cuz,well,everyone like HL2 rigth? How about messing up with HL2 objects and characters?!  Garry's Mod is not really a game,cause it's uses things from HL2 and other games that use Source engine. But the most coll part is the add-on. No,seriously,EVERYONE can make a add-on for Gmod. Add-ons aren't just 'mods',they can be buildings,maps,ect & etc.The multiplayer is not thaaaaaaaat good,but it's pretty fun when playing with friends in sandbox mode. Well,I recommend this game for those player that like to have fun with Source(Ps:Never,never,play a server in a sandbox mode,it has a ton of useless add-on that dosen't work.)"
-2014-03-03,6850,True,"It's a pretty hard game,but its very fun,and being old dosent mean that is bad.It need a tecnique of the player to pass trough the stages,and you need to be very sthealth,or you end up killed or failing the mission.I recomend this game to those that like challenges."
+posted,item_id,recommend,sentiment_analysis
+2014-04-15,269310,True,1
+2014-03-07,105600,True,0
+2014-06-23,4000,True,1
+2014-03-03,6850,True,1

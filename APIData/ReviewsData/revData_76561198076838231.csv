@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-20,218620,True,The bots are more useless then in CS:GO.
-2015-12-31,303210,True,Beautiful game11/10
+posted,item_id,recommend,sentiment_analysis
+2016-01-20,218620,True,1
+2015-12-31,303210,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-06,231430,True,"A great game, cool and epic battles and units"
-2014-12-23,274940,True,"Fun to play, however it sometimes tuff to turn around and shoot"
-2015-08-24,8930,True,"very addicting, very fun and very cool. BUY IT!!!"
-2015-07-04,10500,True,"This game is quite good in combat, in some good areas of campaign and maybe a little bit of multiplayer. However I'm dissapointed in the acheivements. I play many nations in the grand campaign on easy and normal to earn the the level acheivements, however I still didn't get it. I even conqured india to earn that conquest of india acheivement and I still didn't get it. This game has screwed me over the acheivements, however if u play all the nations and still have fun with the multiplayer ur going to love it."
-2015-06-19,233450,True,This game does get addicting as you play it for hours!!!!!
-2014-07-11,440,True,VERY FUN and VERY COOL!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-06-06,231430,True,2
+2014-12-23,274940,True,2
+2015-08-24,8930,True,2
+2015-07-04,10500,True,2
+2015-06-19,233450,True,0
+2014-07-11,440,True,2

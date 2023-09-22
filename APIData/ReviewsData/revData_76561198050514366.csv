@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-24,107410,True,i got told to kill myself
-2014-07-14,229870,False,I played this game at the eb games expo and loved it. Everything in it was fluid and worked well. Not to mention it was very fun. When it came out i thought this is going to be good. All i got was a laggy peice of crap that doesnt work well. would not reccomend.
-2016-07-24,4000,True,good game too few game modes though
+posted,item_id,recommend,sentiment_analysis
+2016-07-24,107410,True,1
+2014-07-14,229870,False,1
+2016-07-24,4000,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-29,20900,True,Its nice.
-2015-04-25,91310,True,10/10 third person gameplay.
-2014-12-05,238430,True,In hunted mode I tried to shoot my friend in the head with a hunting rifle as he was looking through a glass window.Plate glass took it like a champ to protect his face from my bullet and promptly shattered.10/10 window. #neverforget2014
+posted,item_id,recommend,sentiment_analysis
+2015-09-29,20900,True,2
+2015-04-25,91310,True,1
+2014-12-05,238430,True,1

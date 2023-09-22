@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-14,105600,True,"Great multiplaer, mediocre single player. Can't go wrong with a sale though!"
-2015-04-29,242680,True,10/10 Would bang
-2013-12-22,219150,True,"This game is definitely in my top 3 for favourite games of all time. The combat is fast pased and the music gets your blood pumping (which only adds to the experience). The game also includes my favourite level in any game ever, and not to give anything away, but it has something to do with police. Underneathe the gameplay is a messed up story compelling you through each level as you begin to wonder WHY you're murdering all these people. Overall, I don't think I can reccommend this game to you enough."
+posted,item_id,recommend,sentiment_analysis
+2015-06-14,105600,True,1
+2015-04-29,242680,True,1
+2013-12-22,219150,True,1

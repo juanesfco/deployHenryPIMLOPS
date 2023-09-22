@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-12-03,327890,True,Why cant making toast be this easy in real life?
-2014-11-10,440,True,pretty dece
-2014-08-29,230410,True,It's not the best FPS on the market but it's probably better than League of Legends.
-2014-07-08,212160,True,Not too shabby. :^
-2014-01-05,113400,True,"MMMMMMM Yes, quite."
-2013-03-29,4000,True,funny
+posted,item_id,recommend,sentiment_analysis
+2014-12-03,327890,True,2
+2014-11-10,440,True,2
+2014-08-29,230410,True,2
+2014-07-08,212160,True,1
+2014-01-05,113400,True,1
+2013-03-29,4000,True,2

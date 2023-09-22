@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-13,8870,True,"This game is ferocious in its pride as a shooter, which is drastically outweighed by its proud ferocity in being a deep, complex, story driven game. Bioshock Infinite is a brilliant yet fantastical adventure that will take you through sprawling heavenlike cities littered with false propogander, and down into the dark, withdrawn areas which are smothered in desperality. This game is a true master peice featuring beautiful scores and mind blowing sites. Irrational Games have truly outdone themselves this time, and with just under 20 hours of gameplay in the bag I can safely say whether i'm in the train or i'm on the toilet, I will never forget this game. 10/10"
-2016-06-02,275180,True,"Great game, lovely atmosphere."
+posted,item_id,recommend,sentiment_analysis
+2014-02-13,8870,True,1
+2016-06-02,275180,True,2

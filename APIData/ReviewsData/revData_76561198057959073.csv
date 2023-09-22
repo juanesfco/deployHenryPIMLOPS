@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-12-22,218620,True,"Pros:This game is like no other.Every player works together as a team.Shooting mechanics are awesome.The inclusion of stealth makes the game replayable.Butt ton of heists.DLC is extremely cheap.Cons:DLC, tons of it.AI is sometimes very buggy and unrealistic.Overall: 9/10 Almost a Masterpiece."
-2014-12-26,200210,True,DECA TOOK OVER AND EVERYTHING IS GOODFast paced 2d mmo shooter thing that is addicting and made me spend $10.
-2014-10-09,630,True,"Too fun to describe. Play it now, short download. will give you a tf2 hat."
-2013-12-25,550,True,Great Game! Not Even Scary! Ohh The Maps And mods it has.. its a must have!
-2014-05-11,252490,True,2 rusti 4 mi                   -Some guy
-2016-01-07,298240,False,Horrible P2W piece of garbage.
-2016-07-11,273350,True,Really fun.Nuff said.
-2016-03-26,273110,False,"pay to win piece of sht that is impossible to play in Australia. Maybe get an oceanic server, ching chongs?"
-2015-07-06,730,True,dont buy this
-2015-07-06,211820,True,Very fun and expansive and even more fun with friends.ten out of f**king ten.
+posted,item_id,recommend,sentiment_analysis
+2014-12-22,218620,True,0
+2014-12-26,200210,True,1
+2014-10-09,630,True,2
+2013-12-25,550,True,0
+2014-05-11,252490,True,1
+2016-01-07,298240,False,0
+2016-07-11,273350,True,2
+2016-03-26,273110,False,1
+2015-07-06,730,True,1
+2015-07-06,211820,True,2

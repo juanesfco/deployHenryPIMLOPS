@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-12,270550,True,"If Zeus and Chuck Norris had a love child, it would be this game. It punches sharks in the face for breakfast."
-2015-08-03,274940,True,"Once all the twelvies aren't playing, and you're up against people who know what they're doing, it's a great game. When all slots are filled it's highly balanced. It's controls are responsive and nothing beats sniping a shark while hanging upside down in the corner with a harpoon.The only problem is the AI. In a game where majority of the gameplay is based off line of sight, and moving without being seen, an AI really destroys it. They can always see you, and never miss as a shark or a diver. They ruin any game almost instantly, but besides that, it's worth buying it when it's on sale.Not entirely sure if it's worth paying full price however, as that's around $80 for you and 3 other friends. And it isn't completely worth paying full price for it."
-2015-06-26,333930,True,"With the golden rule 'Don't be a ♥♥♥♥', how could you go wrong?"
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,270550,True,1
+2015-08-03,274940,True,2
+2015-06-26,333930,True,1

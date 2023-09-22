@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-03-23,8870,True,Obra maestra.
-2014-12-22,204300,True,-Have a character called yuri-Have no lesbians -0/10
-2014-04-18,230410,True,"Esta wea se crashea, pero igual buena onda."
-2015-07-01,105600,True,It's ok
-2015-10-08,287700,True,Igual como que no queda claro quien creo el juego.
-2014-07-26,274520,True,"hmm.. this game is .. dark, well i have some.. nails and OMFG WTF IS THAT"
-2014-07-16,304930,True,This game is ♥♥♥♥ing awesome!
+posted,item_id,recommend,sentiment_analysis
+2015-03-23,8870,True,1
+2014-12-22,204300,True,1
+2014-04-18,230410,True,2
+2015-07-01,105600,True,2
+2015-10-08,287700,True,0
+2014-07-26,274520,True,0
+2014-07-16,304930,True,2

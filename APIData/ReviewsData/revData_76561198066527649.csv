@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-06-14,364420,True,It's like Magicite with gunsAnd giant bossesAnd awesome weaponsAnd a lot of things that will kill youAnd a giant BROCCOLIOMFG I LOVE THIS GAME
-2015-12-09,322330,True,"This game is very good,but the multiplayer sucks"
-2016-07-14,262060,True,> 4 Heroes> Really tough fight> Better run> Run from fight> Heart attack x4> Death's door x4> Heart attack x4 again> Lost everything> Cried forever1000/10 Would die again...and again...and again...
-2016-07-27,200210,True,This game is kool
+posted,item_id,recommend,sentiment_analysis
+2016-06-14,364420,True,2
+2015-12-09,322330,True,0
+2016-07-14,262060,True,1
+2016-07-27,200210,True,0

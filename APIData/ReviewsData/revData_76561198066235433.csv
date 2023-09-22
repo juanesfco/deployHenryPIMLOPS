@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-21,340170,True,Great game but my brother always play this though
-2015-10-21,39120,True,I love this game...
-2016-05-05,466910,True,Hope they could enable the other features soon...
-2015-10-21,730,True,Headshots....more headshots....
-2015-10-21,323470,True,Good game.
+posted,item_id,recommend,sentiment_analysis
+2015-10-21,340170,True,2
+2015-10-21,39120,True,1
+2016-05-05,466910,True,0
+2015-10-21,730,True,1
+2015-10-21,323470,True,2

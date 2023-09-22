@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-08,221380,True,"Its Age Of Empires 2, you think its gonna be bad?"
-2015-02-04,262060,True,"2nd dungeon, Plague Doctor went crazy and started stabbing herself, kept failing to cure party members and everyone died. 10/10."
-2014-08-10,238460,True,"Should buy this for the music and humour alone, 10/10"
-2014-07-25,227940,True,This is a very in depth and rewarding game. Do eeeet.
+posted,item_id,recommend,sentiment_analysis
+2013-12-08,221380,True,0
+2015-02-04,262060,True,0
+2014-08-10,238460,True,1
+2014-07-25,227940,True,1

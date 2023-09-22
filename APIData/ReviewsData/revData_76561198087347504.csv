@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-26,375950,True,>ThirstyOh cool lets spray this>SatedWouldnt hurt if I do it again>Overwatered.Oooh what happens if I do it one more time?>DeadR.I.P Plantie
-2013-06-04,440,True,"I recommend TF2, for all FPS players, its fun, and its free."
-2015-08-28,372800,True,Indestructable TreesIndestructable WallsIts like GTA but without guns and ♥♥♥♥♥es.
-2015-08-18,363970,True,"Passionately wait for the meter to rise for your hero and you journey through various stages, ending up staring at your computer screen for more than 4 hours."
+posted,item_id,recommend,sentiment_analysis
+2015-08-26,375950,True,2
+2013-06-04,440,True,2
+2015-08-28,372800,True,1
+2015-08-18,363970,True,2

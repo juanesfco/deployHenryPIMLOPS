@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-11,247950,False,"This game's fun to play, on other hand.. Co-Op is broke as ♥♥♥♥."
-2014-11-03,288470,True,"Hey guys,I've been playing this game for a while. In my own opinion, it is one of the great games, as I never got to play the original Fable:TLC as a kid. Objectively, the gameplay is the same as original, as I have watched the TLC's videos on youtube. It doesn't deviate in anyway. Pros:- Same gameplay controls as original (From what I've seen in youtube for TLC)- Their UI is different to the original (In my opinion, that's pleasin' to my eyes compared to the original)- Their graphics differ greatly, as they use Unreal Engine. Anniversary has more colours, shadows and details- It is moddable- It does have ALL TLC's DLCS included in it.- They did add new equipment to this game such as  Snowspire Guard Outfit and the Jackarse- It has the new difficulty that makes this game a bit challengingCon:- For anyone that have played TLC, they won't see any differences in it.- No mouse support in the menu and inventory. TL;DR - Worth getting it if you want to relive nostalgia in a new skin, or you never had a chance to play the original Fable in my opinion. You may not find it any different to original Fable, just loaded with a bit of new equipment, that's all."
-2016-02-14,252950,True,One line to sum up this game. 'Happy is the man who can hit his balls'
+posted,item_id,recommend,sentiment_analysis
+2014-08-11,247950,False,1
+2014-11-03,288470,True,2
+2016-02-14,252950,True,2

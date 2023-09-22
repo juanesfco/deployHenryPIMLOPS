@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-01,208090,True,this game is freaking awesome. while shooting you can spill guts blood and even have a hole from your chest to ur stomach. besides that its like the future from borderlands 1 or 2.
-2016-07-15,271290,True,good
-2014-08-30,319130,True,"bit glitchy and it has a few bugs which makes the screen turn black, but other than that i got so scared at 8:30 in the morning. I love it"
+posted,item_id,recommend,sentiment_analysis
+2014-02-01,208090,True,2
+2016-07-15,271290,True,2
+2014-08-30,319130,True,1

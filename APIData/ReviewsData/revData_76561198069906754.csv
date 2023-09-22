@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-09-12,218230,True,"As much as I would like to love this game, it just doesn't work for me!Every time I start the tutorial, it would crash after 3 seconds.I have tried reinstalling and all that stuff, but noting works.btw. my computer is on the low side of 'types of computers'."
+posted,item_id,recommend,sentiment_analysis
+2015-09-12,218230,True,1

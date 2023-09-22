@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-28,274900,True,"Good Game, I have played beta of it and it was fun"
-2014-03-10,238240,True,Terminator + Terraria = Edge of Space
-2014-04-01,265930,True,I glitched out of the map as the queen demon with a jetpack goat 11/10 would definetly do again
+posted,item_id,recommend,sentiment_analysis
+2014-07-28,274900,True,2
+2014-03-10,238240,True,1
+2014-04-01,265930,True,1

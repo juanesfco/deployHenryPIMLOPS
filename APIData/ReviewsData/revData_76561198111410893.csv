@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-12,224260,True,2nd best zombie game!
-2013-12-09,218230,True,bs cant play 
-2013-12-08,440,True,good game better than other 1st person screen and more to do
+posted,item_id,recommend,sentiment_analysis
+2013-12-12,224260,True,2
+2013-12-09,218230,True,1
+2013-12-08,440,True,2

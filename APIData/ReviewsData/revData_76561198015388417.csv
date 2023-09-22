@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-02,284390,True,One of the best games of 2014 hands down. Amazing atmosphere considering what gamers are used to these days in terms of graphics. Not a nostalgic pixelated adventure game but a really refreshing take on story telling in gaming.
-2014-06-22,58520,True,Potentially the worst RNG ever made in a game but still stupid amounts of mindless violence / sports fun.
-2015-02-02,218640,True,A game for jerks.
+posted,item_id,recommend,sentiment_analysis
+2015-02-02,284390,True,2
+2014-06-22,58520,True,0
+2015-02-02,218640,True,0

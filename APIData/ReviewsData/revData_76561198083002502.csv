@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-31,17470,True,"Esse jogo é muito massa, a história dele é sensacional!"
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,17470,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-19,730,False,"Comp community is such a sad place, i got kicked for using a shotgun"
-2015-07-05,10090,True,xxxx
-2013-12-23,4000,True,HANDS DOWN BEST GAME
+posted,item_id,recommend,sentiment_analysis
+2016-01-19,730,False,0
+2015-07-05,10090,True,1
+2013-12-23,4000,True,2

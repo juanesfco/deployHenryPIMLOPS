@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-11-29,630,True,No one plays this soooo...
-2014-11-29,570,True,it's ok
-2014-08-08,730,True,"The aiming system is ♥♥♥♥ed, the ranking system is ♥♥♥♥ed, the matchmaking system is ♥♥♥♥ed, the awp is ♥♥♥♥ed, the dak dak is ♥♥♥♥ed, the negav is just bad and a fun addicting gameplay. 10/10"
-2014-01-20,216150,True,A waste of time. LOL JKSlol
-2014-12-25,211440,True,WTF Magma Claw (deshan: the immortal dragon LOL) fked his mum
-2014-11-29,113020,True,Dunno wut the game is about
-2014-11-29,220780,True,"Thomas Is Alone, an inspiring story of Jimmy (Caeser) in his jungle."
-2014-11-29,113200,True,"This is what god will do to you if you dont worship him. Amazing storyline, outstanding graphics, ♥♥♥♥ed up monsters to fight, unique random map generator for infinite generic stages. At the end of the day, you just wasted a ♥♥♥♥♥♥♥♥ of time playing this game. 10/10"
-2014-11-29,440,True,"This game is very generic (cough* cough* theraptorpack) but overall a good FPS with high tech graphics  and amazing strategic gameplay with the minimun requirements:OS: Windows® 7 (32/64-bit)/Vista/XP Processor: 1.7 GHz Processor or better Memory: 512 MB RAM DirectX: Version 8.1 Network: Broadband Internet connection Hard Drive: 15 GB available space Additional Notes: Mouse, Keyboard that leaves you thinking, What the ♥♥♥♥ 9/10"
+posted,item_id,recommend,sentiment_analysis
+2014-11-29,630,True,1
+2014-11-29,570,True,2
+2014-08-08,730,True,0
+2014-01-20,216150,True,2
+2014-12-25,211440,True,2
+2014-11-29,113020,True,0
+2014-11-29,220780,True,2
+2014-11-29,113200,True,1
+2014-11-29,440,True,2

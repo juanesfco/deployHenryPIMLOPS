@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-19,218620,True,A game about throwing bags and fixing drills. I recommend this game to people interested in these activities. Also there's this shooter mini game.
-2016-02-20,271590,False,♥♥♥♥ online service
-2015-01-15,213670,True,Most likely the ONLY GOOD and COMPLETE game that has ever been made by Ubisoft
+posted,item_id,recommend,sentiment_analysis
+2014-09-19,218620,True,0
+2016-02-20,271590,False,1
+2015-01-15,213670,True,2

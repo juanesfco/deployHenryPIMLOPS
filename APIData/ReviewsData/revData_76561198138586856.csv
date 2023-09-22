@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-09-18,620,True,best game ever
-2016-02-20,204360,True,best game evah
-2016-01-24,4000,True,Best game ever
-2016-01-21,299420,False,i tried to play this game when i try to build my block disappears and i can't build anymore 0/10
+posted,item_id,recommend,sentiment_analysis
+2016-09-18,620,True,2
+2016-02-20,204360,True,2
+2016-01-24,4000,True,2
+2016-01-21,299420,False,0

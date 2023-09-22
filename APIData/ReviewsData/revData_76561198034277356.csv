@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-01-31,289760,True,Never has asexual reproduction been so fun
-2013-07-14,230410,True,"This is a good game for the first couple of hours but it gets a bit repetitive after that. The combat is satisfying and enemies explode into glorious showers of blood but there are a LOT of repeated assets and enemies, making this a game that you should get if you feel like something fun to play for a couple of hours, and it's for the wonderful price of nilch, so you should probably pick it up."
-2012-09-07,440,False,"boring and repetitive, and hats"
-2013-11-26,51100,False,"This game is ♥♥♥♥. The graphics are ♥♥♥♥, the gameplay is ♥♥♥♥ and the gamemodes are ♥♥♥♥. It had some cool concepts but they are smothered in ♥♥♥♥, don't get this game"
-2013-08-30,107100,True,"This is probably my favourite game of all time. The story is AMAZING, the way the level builds in fron of you is AMAZING and combat is AMAZING, this game is just amazing in every way and like I've said many times before; JUST F**KING GET THIS GAME ALREADY!!, and f**k you nixon"
-2013-11-06,231160,True,THIS GAME IS CREEPY. And thats all you need to know
-2013-08-30,224760,True,"This is probably the most mind funking game I have ever played (after antichamber). You play as a little pixelated white dude that has the power to turn his 2D world around in 3D. Oh and he wears a fez, which is freakin amazing and is the reason why you should get this game, because fezzes are cool (the rest of the game is good aswell but fezzes are cooler)"
-2013-06-14,219890,True,"This is probably my favourite puzzle game that I have ever played. The graphics are very basic but thats how it's ment to be. If the visuals were too complex, the puzzles would be way too hard to solve. I don't want to give too much away but the game constantly makes you go 'how the f**k does that work', which is a very nice feeling to have after have an endless amount of logic games. So go and get this game, it isn't that expensive."
+posted,item_id,recommend,sentiment_analysis
+2015-01-31,289760,True,2
+2013-07-14,230410,True,2
+2012-09-07,440,False,0
+2013-11-26,51100,False,0
+2013-08-30,107100,True,2
+2013-11-06,231160,True,0
+2013-08-30,224760,True,1
+2013-06-14,219890,True,0

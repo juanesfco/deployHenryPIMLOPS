@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-26,212500,True,Would chase chickens again whilst listening to the Benny Hill Theme.10/10
-2015-08-29,570,False,"If u liek dis game or want it, install League of Legends."
-2015-08-08,104900,True,I ate a sandwich
+posted,item_id,recommend,sentiment_analysis
+2015-06-26,212500,True,1
+2015-08-29,570,False,0
+2015-08-08,104900,True,1

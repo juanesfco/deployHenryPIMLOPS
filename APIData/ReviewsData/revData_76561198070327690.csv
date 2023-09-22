@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-20,214420,True,Great Game
-2013-12-02,218230,True,PLEASE MAKE THIS GAME ON MAC
+posted,item_id,recommend,sentiment_analysis
+2014-01-20,214420,True,2
+2013-12-02,218230,True,0

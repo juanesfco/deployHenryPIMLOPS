@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-22,12210,False,"Seriously... I had to use a commandline.txt file to fix graphics, and sign in to GFWL to save my progress? And sometimes still doesn't work properly... It's a awesome game if you can make it work!"
-2013-11-29,105600,True,"This game is awesome, enough said."
+posted,item_id,recommend,sentiment_analysis
+2015-06-22,12210,False,1
+2013-11-29,105600,True,2

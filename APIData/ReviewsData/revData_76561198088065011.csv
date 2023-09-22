@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-02-05,219700,True,This Games is based on stragety and tactics although it was great.
-2014-01-31,99900,True,This is my favourite game of my life and I spent my time mostly playing this.
-2014-09-25,570,True,The reason why people have no life is because they are addicted to Dota. Whoever plays Dota should have a limit of matches per day. For me I only play 5 matches a day.But I have a life.
-2014-03-01,239220,True,I actually enjoyed this game SO much I give it 9/10 for the raid in players castles.
-2014-02-16,20920,True,This games is awsome like hell.
+posted,item_id,recommend,sentiment_analysis
+2014-02-05,219700,True,2
+2014-01-31,99900,True,1
+2014-09-25,570,True,0
+2014-03-01,239220,True,1
+2014-02-16,20920,True,1

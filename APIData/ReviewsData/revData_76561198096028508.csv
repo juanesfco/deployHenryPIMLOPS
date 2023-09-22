@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-16,310380,True,i would actually play this game if i wasnt running 10 fps with over 500 ping
-2015-05-24,273110,False,when i finish a game it stops working and i have to exit the game
-2015-04-26,303390,True,10/10 ign
-2014-11-14,220240,False,dont get this gae the serves are down DONT GET IT!!! lost 7.50 on that.
+posted,item_id,recommend,sentiment_analysis
+2015-08-16,310380,True,0
+2015-05-24,273110,False,0
+2015-04-26,303390,True,1
+2014-11-14,220240,False,0

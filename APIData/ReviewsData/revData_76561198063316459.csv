@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-10-15,304930,True,DayZ for computers that can't handle it.
-2015-02-03,218620,True,Nothing releases my Dopamine quite like pulling a successful stealth heist. makes my dong hit the ceiling.
-2014-10-15,12210,False,"Wish I could play this with more than 20fps, sh*t and lazy port."
-2014-10-15,265630,True,Bandidos master race.
-2014-10-15,72850,True,I just can't be bothered playing it XD
-2014-10-15,550,True,"Fun game, too bad I have to use a third-party mod to play it to its full intention. Thanks Australia."
-2014-10-15,4000,True,A hot game to sink my gherkin into whenever im bored.
-2014-10-05,230410,True,A hot game full of dismemberment and gore and awesome character models. fun to play with not to eat.
-2014-06-22,202970,True,Some nice hot fun whenever your gherkin needs a jerkin.
+posted,item_id,recommend,sentiment_analysis
+2014-10-15,304930,True,1
+2015-02-03,218620,True,2
+2014-10-15,12210,False,2
+2014-10-15,265630,True,1
+2014-10-15,72850,True,1
+2014-10-15,550,True,1
+2014-10-15,4000,True,0
+2014-10-05,230410,True,2
+2014-06-22,202970,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-11,105600,True,Awesome 2D Sandbox Game! JUST AWESOME!
-2015-03-16,570,True,Hey Guys Dota2 IS Very COOL !
-2014-10-02,550,True,#1 Zombie Game! Trust me! It's better than CoD: Zombies
-2014-06-28,730,True,Awesome FPS Game!
-2014-05-01,440,True,Epic!
+posted,item_id,recommend,sentiment_analysis
+2014-07-11,105600,True,2
+2015-03-16,570,True,2
+2014-10-02,550,True,1
+2014-06-28,730,True,2
+2014-05-01,440,True,2

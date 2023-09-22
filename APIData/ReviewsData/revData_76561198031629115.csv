@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-01-02,4000,True,"So much fun, best way to kill time"
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,4000,True,2

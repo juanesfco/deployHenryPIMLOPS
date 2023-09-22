@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-22,204300,False,A steamy pile of horse-poop.
-2013-12-22,218060,True,A good game to chill-out to. Very relaxing.
-2014-01-11,252330,True,Such follow. Much scare. WOW!
+posted,item_id,recommend,sentiment_analysis
+2013-12-22,204300,False,1
+2013-12-22,218060,True,2
+2014-01-11,252330,True,2

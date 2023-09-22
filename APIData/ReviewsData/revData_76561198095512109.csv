@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-25,232430,False,It was OK but only took less then an hour. I don't recommend it just because of that.
-2015-11-14,371420,True,A really intense racer. The mario kart of PC.  Graphics are top notch. Controls are as smooth as butter. This rollercoaster of a story will have you in tears by the end. The music puts Hans Zimmer to shame.
-2014-07-04,34900,True,A masterpiece
-2014-07-13,220,False,It's boring. It's overrated. It's dull.
-2014-12-26,200210,False,Bad game. You can trust me. My play time is high
+posted,item_id,recommend,sentiment_analysis
+2014-06-25,232430,False,2
+2015-11-14,371420,True,2
+2014-07-04,34900,True,1
+2014-07-13,220,False,0
+2014-12-26,200210,False,0

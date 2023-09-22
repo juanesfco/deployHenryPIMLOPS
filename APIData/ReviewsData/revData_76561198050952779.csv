@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-02,570,True,GOOD GAME
-2015-01-27,109600,True,"Like playing alone on this game..Whenever it's called 'Multiplayer', i still bored..But, nice game and story..I have no time to level up :D"
-2014-10-28,245550,True,gg
-2014-07-17,304270,False,"this is bad, i wanted this game..but, it's not avaliable on my country..this is steam right ?just remove it from steam, we're 'Chaser' know about another server can bring it us with no blocking some countries>:("
-2014-08-09,304930,True,good game with pewds
+posted,item_id,recommend,sentiment_analysis
+2014-07-02,570,True,2
+2015-01-27,109600,True,2
+2014-10-28,245550,True,1
+2014-07-17,304270,False,0
+2014-08-09,304930,True,2

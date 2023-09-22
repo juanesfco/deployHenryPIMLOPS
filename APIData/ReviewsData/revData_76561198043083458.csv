@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-03,33440,True,"Fun, but unstable.If I were to rate it out of 5, it'd miss out by only one star to be a 4 out of 5 simply because of how many times the game has either froze or outright crashed. In addition, the graphics are somewhat underwhelming, but the gameplay more than makes up for that.Now... If there's only a way to make the rear-view mirrors actually behave like rear-view mirrors in Driver San Francisco... Currently they display a zoomed in portion of what is ahead of you (instead of showing what's behind). Quite odd to say the least."
+posted,item_id,recommend,sentiment_analysis
+2014-03-03,33440,True,1

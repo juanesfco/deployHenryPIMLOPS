@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-23,337000,True,"Forget the microstransactions they aren't needed. Forget FPS drop that can be fixed. This game is god damn great. The missions all have multiple ways about, they feel properly difficult at times, the story is intriguing and full of mystery already. The world feels lived in, living and breathing. If you want a game with a great story and really good gameplay. Buy! This! Game!"
-2016-06-18,363970,True,It's alright.
-2016-07-11,273350,False,"This game is highly unbalanced in favour of the hunters. Your starting monster is the Goliath, god forbid you have to use this thing. With the ability for them to track you anywhere on the map, it's almost impossible to actually gather food and enter stage 2 or 3 without being instatly trapped and losing half your health. At stage 1 you're going to die and you can't fight back. Unless the hunters are somehow incompetant and don't use the planet tracker then you'll magically make it to stage 2. Otherwise, you're ♥♥♥♥ed as a beginner. No perks, no other monsters."
-2014-06-20,211420,True,"This is possibly my favourite game of all time. Despite the shotty job that they did porting it over to PC, some simple to install mods make this game one of my best experiances on, any platform. The challenge it gives you, is the perfect thing for anyone who wants to test their 'skills' as a gamer. The way the community has decided it works is, in my opinion, quite good. The higher your level, the worse you're doing, and having a higher level makes the game harder since the better players that you could summon for help have lower levels then you would think. This is a almost perfect game, if it didn't have the issue of people modding characters to be OP despite their level and eqiupment. None the less, this is an amazing game and anyone considering buying Dark Souls should buy it while they can. you won't regret it."
+posted,item_id,recommend,sentiment_analysis
+2016-08-23,337000,True,2
+2016-06-18,363970,True,1
+2016-07-11,273350,False,1
+2014-06-20,211420,True,2

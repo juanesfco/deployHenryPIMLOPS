@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-03,46540,True,This game is better than cancer.
-2014-05-06,105600,True,trust me its good
+posted,item_id,recommend,sentiment_analysis
+2014-04-03,46540,True,1
+2014-05-06,105600,True,2

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-01-26,241540,False,It's a good game. But it has horrible optimization and the developers abandoned it for an 'Enhanced Version.'
-2015-09-19,221100,True,"If you can get past all the hackers and glitches, this game is a solid Apocalypse survival game."
-2016-02-15,305620,True,I can't feel my hands... or anything.
-2016-01-07,4000,True,"I haven't spent long with the game, It's pretty cool so far."
-2016-01-05,730,True,Help... Me...
-2015-10-27,38410,True,Became a porn star 10/10 would do mutant again.
-2015-09-19,40800,True,"This game made me rage, that means it did its job."
-2014-11-14,72850,True,Found a man at a campfire... with 2 trolls. 10/10 Equality
+posted,item_id,recommend,sentiment_analysis
+2016-01-26,241540,False,0
+2015-09-19,221100,True,0
+2016-02-15,305620,True,1
+2016-01-07,4000,True,1
+2016-01-05,730,True,1
+2015-10-27,38410,True,1
+2015-09-19,40800,True,0
+2014-11-14,72850,True,1

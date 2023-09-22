@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-17,269210,True,itz preddy gud
-2015-04-17,221100,True,pretty good.a bit bland.step up the devolopment pls.
-2015-02-09,440,True,noice game i rate it 8/8 m8
+posted,item_id,recommend,sentiment_analysis
+2015-06-17,269210,True,1
+2015-04-17,221100,True,2
+2015-02-09,440,True,0

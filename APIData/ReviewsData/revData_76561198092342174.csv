@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-27,245470,True,Democracy 3 is an amazing game it can help students learn more about the goverment and the way it works.
-2014-09-13,295710,False,"I Highly do not suggest this game it's tedious, slow and the controls are horrible. The online play is slow the game is laggy and the big takiling tutourial head scares the living daylight out of you! I suggest turning the volume off as this game has the worst audio I have ever heard it's the same repeditive loop of the same thing. But I did quite enjoy the Idea and the carnage but it wasn't enough to save the game I would give the game 4 out of 10!"
+posted,item_id,recommend,sentiment_analysis
+2014-01-27,245470,True,2
+2014-09-13,295710,False,0

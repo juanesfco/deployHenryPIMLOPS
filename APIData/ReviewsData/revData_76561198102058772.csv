@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-02-09,319510,True,Pros-Fun and stressing gameplay-Getting dat coin on youtube-The secretsCons-I was not ready for freddy-Furries-ALL THE THEORIES-Considering not ever going to Chuck e. cheese9/10 would play again
-2015-09-27,200260,True,"I found out who killed Bruce Wayne's parents, it was a man...AND HIS NAME IS JOHN CENA!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-2015-05-10,440,True,"2,200 hours of pure ♥♥♥-kickin' fun! This is a must have for all people who have a steam account! People say ''TF2 is a CoD copy!'' and When they do I check TAB To see how many times this A-hole had been dominated. If you're just starting off I highly reccomend Soldier he is a Great Starting off Character. He has Decent Health and Damage and racist remarks that'll keep you laughing for days! If You want to be The favourite on your team Switch to medic and heal some folks or Equip Blutsauger, Medi-Gun and Bone-saw and just go full on Battle medic. A Great gamode to start off in is Control Point. It shows you how to get around efficently with great big maps. But whatever you do Avoid being seen wearing the gibus at all times unless painted. This has to be the very best F2P game there is. 10/10"
-2015-08-17,226320,False,"I wanted to like the game, but then I couldn't play it. ._."
-2015-11-03,238460,True,Stop reading the reviews and buy the game!!!
-2015-05-16,45760,True,Do I recommend this game? YES! YES!
-2014-03-28,24200,True,I <3 This game! I totally recommend you get it!
+posted,item_id,recommend,sentiment_analysis
+2015-02-09,319510,True,1
+2015-09-27,200260,True,0
+2015-05-10,440,True,2
+2015-08-17,226320,False,0
+2015-11-03,238460,True,0
+2015-05-16,45760,True,0
+2014-03-28,24200,True,2

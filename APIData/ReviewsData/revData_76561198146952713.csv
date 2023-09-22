@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-12,230410,True,AM CRAZY
-2016-04-01,10,True,GoODGAmP!!!
-2014-09-14,228300,True,good
+posted,item_id,recommend,sentiment_analysis
+2016-05-12,230410,True,0
+2016-04-01,10,True,1
+2014-09-14,228300,True,2

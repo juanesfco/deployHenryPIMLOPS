@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-30,34900,True,"9/11This game saved my life and cured my depression, After playing this game i was able to get a girlfriend."
-2015-08-28,331600,True,Got this game for the same price that i got Bad Rats. 10/10 would buy 20 copies again.
-2014-03-07,211420,True,This game is too good
+posted,item_id,recommend,sentiment_analysis
+2016-06-30,34900,True,0
+2015-08-28,331600,True,0
+2014-03-07,211420,True,2

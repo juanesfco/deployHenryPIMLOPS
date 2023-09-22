@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-21,91310,True,very fun to play with friends and yourself but scary (i dont really like zombies lol)but i love it
-2013-12-01,219640,True,its fun
-2013-11-30,730,True,pretty cool
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,91310,True,2
+2013-12-01,219640,True,2
+2013-11-30,730,True,2

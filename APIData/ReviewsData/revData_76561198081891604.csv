@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-10,206420,True,"Really Fun, but really weird (not in a bad way)."
-2014-09-10,4000,True,"Great game, but don't play if you don't want to get addicted to a game and spend hundreds of hours playing it :D"
-2014-01-27,238010,True,"Epic game, especially if you like sneaking around and using tactics to kill."
-2015-09-27,241540,False,"Get the new one, for me this version of the game doesnt even start."
+posted,item_id,recommend,sentiment_analysis
+2014-09-10,206420,True,0
+2014-09-10,4000,True,2
+2014-01-27,238010,True,0
+2015-09-27,241540,False,0

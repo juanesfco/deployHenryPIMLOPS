@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-20,221100,True,cara o jogo é compretamente ♥♥♥♥ vale apena sim ele n ta ruim assim igual q o povo tava falando
-2016-01-20,231430,True,cara ♥♥♥♥ de mais vale apena sim
-2015-03-26,345520,True,Muinto ♥♥♥♥ vale apena jogar esse jogo
+posted,item_id,recommend,sentiment_analysis
+2016-01-20,221100,True,0
+2016-01-20,231430,True,2
+2015-03-26,345520,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-09,235580,True,"I personally am not a fan of the civilisation series but If you have some friends over skype, It can still be quite fun once you get to know the basics."
-2015-12-09,223470,True,"Run around, ♥♥♥♥ on people, kick dogs, police brutality, Basically a poor mans GTA with a lot of questionable features. Story is pretty funny as well."
-2015-12-09,319630,True,"Life is Strange is an absoultly amazing game about a beautiful girl named max who everyone seems to like. Except a bunch of ♥♥♥♥♥. Then you discover that you have the ability to rewind time for short periods and it's time for those ♥♥♥♥♥ to pay...Hue hue hue. Despite the seemingly questionable school setting, there are many twists and turns to this story that kept me waiting impatiently for the next episode to come out. This game is truly a test of morals as well as some sneeky detective work which is why life is stange is considered an amazing game in my books."
-2015-12-09,4000,True,"Great sandbox game with plenty of multiplayer games to play such as the hilarious trouble in terrorist town and deathrun. The amount of times I have felt literal pain from laughing too much from bsing in TTT I cannot count, Definitly worth it for the $10 I paid."
+posted,item_id,recommend,sentiment_analysis
+2015-12-09,235580,True,2
+2015-12-09,223470,True,1
+2015-12-09,319630,True,1
+2015-12-09,4000,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-26,222880,True,Insurgency. A game that breaks barriers. More realistic than any other shooter. Couldnt ask for anything better.
-2013-07-14,218230,True,"MY FAV GAME OF ALL TIME! AND ITS FREE!!!!! WHAT MORE COULD YOU ASK FOR?!?!.......Anyway, planetside 2 is the ONLY sci-fi space shooter MMO that works! It does have queit a few bugs and gliches here and there, but overall AMAZING!"
-2014-04-06,205100,True,"Really nice game, very hard at times (i rage quit a little bit) but other than that, amazing game! It has a wonderfull in depth story, great stealth gameplay, beautiful looks, realistic AI movments, and fun to play. 8/10 from me!"
-2013-04-02,550,True,"u find zombies.you kill zombies. sounds fun to some, borring to others. BUT THIS GAME IS A 4.5/5 FROM ME!. IT IS SO FUN JUST MIDSESLY KILLING ZOMBIES AND PLAYING WITH UR FRIENDS LEAVING THE NPC'S TO DIE!!!! :D"
+posted,item_id,recommend,sentiment_analysis
+2014-05-26,222880,True,2
+2013-07-14,218230,True,2
+2014-04-06,205100,True,2
+2013-04-02,550,True,2

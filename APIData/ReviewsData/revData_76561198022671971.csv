@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-28,220240,True,A very fun open world game that mixes the first person shooter with rpg elements.
-2014-09-18,730,True,gr8 game m8 i rate 8/8
-2014-03-16,213670,True,"Amazing game just like a playable version of the tv show. Nazi zombies, abortions, hundreds of references, fart magic, Mongolians, Mr Slave so many things that make this game great! The turn based fighting is actually fun and functional and a lot more then you would expect from a South Park game. 9/10 exactly what you would expect and more from South Park."
-2014-01-21,218060,True,This is a very fun game and is a lot better then the original BIT.TRIP Runner but for some reason I'm not sure if it's just me but playing this game actually hurts my eyes and half the time I can't tell what is going on but I'm sure if you're not ♥♥♥♥♥♥♥♥ like I am you'd be able to enjoy the game more then I can. Also a gamepad is a must as this has ♥♥♥♥♥♥ keyboard controls and using a controller is much more enjoyable even when I can feel my eyes getting absolutely ♥♥♥♥ed up by this game.
-2013-12-26,237110,True,"I haven't played any of the earlier Mortal Kombat games but so far I have really enjoyed Mortal Kombat 9 so far. With all the combos, fatalities and overall violence this game has to offer this is definently a game I would recommend to anyone who is into fighting arcade games."
-2013-10-20,218620,True,"Money, masks, weapons, heists, masks, leveling, masks, classes, drills, oh did I mention masks?"
-2013-11-24,206420,True,"Pretty much Saints Row: The Third with super powers. With crazy weapons, innovative missions (Saints of Rage was amazing) and gimp suits what can go wrong?"
+posted,item_id,recommend,sentiment_analysis
+2013-12-28,220240,True,1
+2014-09-18,730,True,0
+2014-03-16,213670,True,2
+2014-01-21,218060,True,2
+2013-12-26,237110,True,1
+2013-10-20,218620,True,1
+2013-11-24,206420,True,1

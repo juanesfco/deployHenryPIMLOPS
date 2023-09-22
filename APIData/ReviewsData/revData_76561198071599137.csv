@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-03-07,550,True,Good game.
-2014-07-17,304930,True,One of the most fun games I have ever played and even more fun when playing with friends. Unturned is a very fun zombie survival game that is absolutely free to play for everyone and I see a lot of good things to come for the future updates for this game. 10/10 for me.
-2014-06-22,24240,True,"A very good game if you like police shotouts and stealing from the banks. If you wanna be a criminal, wear a clown mask and pointing guns at the cops and civilians, this is the game to play."
-2014-05-28,225600,True,A very good game to play!
-2014-08-03,6060,True,This game is truly a gamespy classic. A game that will be remembered as one of the best games that Lucas Arts ever made. This game will be cherished forever.
-2014-08-03,234670,True,A fun game if you are a fan of the anime series. There is a lot going on this game and there is so much to do in it such as side events and doing challenging missions to earn more items.10/10 for me but the multiplayer still needs a bit more fixing to do but overall great game.
+posted,item_id,recommend,sentiment_analysis
+2014-03-07,550,True,2
+2014-07-17,304930,True,2
+2014-06-22,24240,True,1
+2014-05-28,225600,True,2
+2014-08-03,6060,True,1
+2014-08-03,234670,True,2

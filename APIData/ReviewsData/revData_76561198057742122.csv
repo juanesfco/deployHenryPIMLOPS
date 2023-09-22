@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-03-02,299360,True,There are blocks.10/10
-2016-02-16,313740,True,This is a better stealth game than Metal Gear Solid. Had to hide this game anytime anyone walked in.10/10
-2016-01-28,402180,True,I sold my AWP | Hyperbeast for all of the Sakura Games. Was it worth it? You can ask that to the 10 empty tissue boxes laying on the floor.
-2016-01-20,223470,True,Buttsauce.
-2015-10-22,230290,True,Universe Sandbox² The game that will jumpscare you everytime you are looking at a planet and zoom in too fast.10/10 not enough zoom                            ~IGN
-2015-09-12,12200,True,Roblox is really good. http://www.roblox.com/
-2014-06-14,244850,True,WE NEED MORE PLAYERS!!! BUY THIS GAME!!! >:D
-2013-12-18,620,True,Portal 2 was an awesome comeback from Portal and it still is. One of the best games valve ever released. I give it 9.7 out of 10
-2013-12-18,209160,False,"I honestly felt that Ghosts' multiplayer was a huge disappointment compared to MW3, and the reason I'm comparing Ghosts with MW3 is because Black Ops 2 is not made by IF. Going to back to the multiplayer topic, this has been one of the rare case scenarios where a Call Of Duty game has a campaign better than the multiplayer. I hereby rate multiplayer 4 out of 10 and the campaign 7 out of 10."
+posted,item_id,recommend,sentiment_analysis
+2016-03-02,299360,True,1
+2016-02-16,313740,True,1
+2016-01-28,402180,True,1
+2016-01-20,223470,True,1
+2015-10-22,230290,True,0
+2015-09-12,12200,True,2
+2014-06-14,244850,True,2
+2013-12-18,620,True,2
+2013-12-18,209160,False,1

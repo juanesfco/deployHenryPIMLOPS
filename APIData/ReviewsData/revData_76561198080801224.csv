@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-29,65930,True,so far its such fun to play its so good you should get it its 2.99 up till 1 of feb
-2015-10-13,301520,False,game ♥♥♥♥
-2014-10-27,224260,True,this game is the best geme
-2014-05-17,221910,True,best game ever
+posted,item_id,recommend,sentiment_analysis
+2016-01-29,65930,True,2
+2015-10-13,301520,False,0
+2014-10-27,224260,True,2
+2014-05-17,221910,True,2

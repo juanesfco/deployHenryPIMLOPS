@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-18,244850,True,GOOD GAME LOVE IT TO DEATH
-2014-09-25,253710,False,"Possible the worst game ever, you start up the game to a confusing menu followed by the fact that the only thing u can hunt is grass, why would u play this game why, if you want to go hunt and be nick sterianos just go outdoors and do it."
-2013-12-05,214950,True,GG
+posted,item_id,recommend,sentiment_analysis
+2014-10-18,244850,True,2
+2014-09-25,253710,False,0
+2013-12-05,214950,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-06,22380,True,Great game with a excellent story and a fanatisic atmosphere.
-2012-12-26,12120,True,Really fun game its a must buy if you like the GTA franchise.
+posted,item_id,recommend,sentiment_analysis
+2014-01-06,22380,True,2
+2012-12-26,12120,True,1

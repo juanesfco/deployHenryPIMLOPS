@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-29,257080,True,good
-2016-08-26,230270,True,Finally. 10/10
-2013-12-26,207140,True,BEST GAME EVER
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,257080,True,2
+2016-08-26,230270,True,1
+2013-12-26,207140,True,2

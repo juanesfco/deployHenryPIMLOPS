@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-06-29,200510,False,"Attention: Users with 21:9 monitors should not purchase unless they want to play in 1080p and not the full resolution, due to cursor problems not solved after three years of being released."
+posted,item_id,recommend,sentiment_analysis
+2015-06-29,200510,False,2

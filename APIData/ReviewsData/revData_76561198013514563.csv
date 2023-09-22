@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-30,275850,False,"Very misleading from the initial gameplay, dissapointing and not worth the buy"
-2014-06-27,219740,True,Very fun!
-2015-06-21,222880,False,pile of ♥♥♥♥ game
+posted,item_id,recommend,sentiment_analysis
+2016-08-30,275850,False,1
+2014-06-27,219740,True,2
+2015-06-21,222880,False,0

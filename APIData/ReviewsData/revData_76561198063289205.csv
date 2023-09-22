@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-01-03,4000,True,this game is very good apart from some servers being abit laggy and sometimes takes a while to load but apart from that it is a good game. very fun
-2014-03-01,227100,True,this is the most fun game ever 320 no scope
-2014-03-12,11240,False,"this game is really bad the set up lvl is stupid. Even after 10 mins i thiught that this game sucked. So, really, if you want to waste money than this is the game for you."
-2014-02-14,220160,True,Trials Evolution: Gold Edition is one of the best games i have ever played. i has all sorts of maps from hill climbs to freefallers. the one thing that i dont like about it though is the tilting but thats just me. All that aside it is a really good game. 90/100
-2013-11-26,218620,True,this game is a good game even though the updats and download are big they dont take long. good fun game. :D
-2014-04-09,8190,True,best jc ever so many things you can do
-2014-03-26,249130,True,"This game is a very good game for all ages. it dose not make anyone of any age feel like their ;eft out. Although the missions a fair =ly long but hay, thats lego games. One thing i found a little bit anyoing was the fact that free roam had to be unlocked; its unlocked after you finish the story but still it would be nice. This game is a game well worth what you pay for it. 9/10"
-2014-01-04,9480,True,very very laggy the co-op is not very good but it is still an ok game
+posted,item_id,recommend,sentiment_analysis
+2014-01-03,4000,True,2
+2014-03-01,227100,True,2
+2014-03-12,11240,False,0
+2014-02-14,220160,True,2
+2013-11-26,218620,True,2
+2014-04-09,8190,True,2
+2014-03-26,249130,True,1
+2014-01-04,9480,True,1

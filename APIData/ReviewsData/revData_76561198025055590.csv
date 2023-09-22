@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-01,72850,True,"After I walked out of the first cave an Orc attacked me, so I killed him and took all his clothes. 10/10"
-2011-02-05,12500,True,"This game can be extremely  fun to play if you can just get over the fact that this game hates you. I don't mean that the game is designed to go against you.  I mean the game hates you with a passion. The designers of this game created the first artificial intelligence system designed to mimic the actual emotion of hate.  When you are sleeping, the game is plotting your downfall. Other than that, it is insanelly addictive and mimics the Civilization style 'just-one-more-turn'."
-2010-12-18,25900,True,"Fantastic and a very underrated game. If you like the Heroes of Might and Magic series, get this game! It is single-player only, but well worth the money and the time."
-2012-09-06,48220,True,"Might & Magic Heroes VI has the potential to be a superb game, but is held back by one minor and one monumental flaw.The graphics as expected are superior to previous titles in the series. The music and faction/unit versatility is on par at best, though being able to split your upgrades in the previous iteration makes unit upgrades in VI seem like a step backwards. Spells and gear are fairly versatile, though once more there is the issue of an optimal' gear set and spells which effectively make 3/4 of your arsenal obsolete.One of the  two places where the game falls short for me is the story and character script, which whilst brilliant for most games, just isn't as captivating and moving as previous iterations of Heroes. The second issue, which happens to be the largest deterrent, is the sheer amount of bugs, glitches, freezing and crashes which makes playing the game incredibly frustrating. Seriously Ubisoft... get your ♥♥♥♥ together and fix this!"
+posted,item_id,recommend,sentiment_analysis
+2014-01-01,72850,True,1
+2011-02-05,12500,True,0
+2010-12-18,25900,True,1
+2012-09-06,48220,True,2

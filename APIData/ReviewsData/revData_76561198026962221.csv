@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-29,413150,True,"I've sunk every bit of free time i've had into this game so far, and i'm still amazed at the sheer amount of content and depth there is here. This game is a must buy for fans of Harvest Moon."
-2016-09-18,242680,False,"Sub 60 FPS? Check.No Fullscreen option? Check.Unfinished and highly unpolished? Check.Highly unbalanced gameplay that gears completely towards good RNG? Check.Abandonded by devs? Check.Pro tip: Go buy Enter The Gungeon, not this steaming pile of abandonware ♥♥♥♥."
+posted,item_id,recommend,sentiment_analysis
+2016-02-29,413150,True,1
+2016-09-18,242680,False,2

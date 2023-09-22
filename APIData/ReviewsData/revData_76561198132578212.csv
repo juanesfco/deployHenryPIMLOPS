@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-12,440,True,Really addictive game for me :)
-2015-03-08,218620,True,"With friends, it's pretty great"
-2015-07-03,104900,True,"If you can run it on your computer, definitely get it! It's definitely worth more than $1, so I don't see why people wouldn't want to get this game"
+posted,item_id,recommend,sentiment_analysis
+2014-04-12,440,True,1
+2015-03-08,218620,True,2
+2015-07-03,104900,True,1

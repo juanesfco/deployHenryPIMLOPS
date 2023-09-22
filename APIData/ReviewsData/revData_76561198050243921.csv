@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-24,402180,True,10/10 didn't see any hentai but still beat the game (and myself)
-2015-12-23,417860,False,"No matter how much of a ♥♥♥♥ or gentleman you want to be to Emily, you're going through the same damn path. Like the ♥♥♥♥ing ♥♥♥♥♥ ♥♥♥♥ was about to ask Emily to talk about things then he deletes the ♥♥♥♥ing message and says 'do anything fun last weekend?' ♥♥♥♥♥ I ALREADY KNOW YOU SUCKED BRAD AND TRAV OFF YOU ♥♥♥♥♥!"
+posted,item_id,recommend,sentiment_analysis
+2015-12-24,402180,True,0
+2015-12-23,417860,False,2

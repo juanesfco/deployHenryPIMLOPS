@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-04,218620,True,Great Game Lots of fun hours spent in this game
-2014-03-19,221100,True,"Great Game, still needs abit of work but its getting thereeven though it is in early access(Recommended)"
-2014-07-05,91310,True,great story but the side quests becomerepetitive
-2014-07-05,72850,True,Great story and Graphics
-2014-05-27,202090,True,This Game is quite good but it could use a bit more improvements but it is still in beta
-2014-03-20,224260,True,Good game for a mod
+posted,item_id,recommend,sentiment_analysis
+2016-01-04,218620,True,1
+2014-03-19,221100,True,2
+2014-07-05,91310,True,2
+2014-07-05,72850,True,2
+2014-05-27,202090,True,2
+2014-03-20,224260,True,2

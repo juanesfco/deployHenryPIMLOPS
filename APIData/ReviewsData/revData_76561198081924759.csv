@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-07,227940,True,'its just a prank'- Adolf Hitler 1945
-2015-11-01,271590,True,!0/10 I killed 7 kids today :3
+posted,item_id,recommend,sentiment_analysis
+2016-01-07,227940,True,1
+2015-11-01,271590,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-05,243870,True,เยี่ยม
-2013-12-09,570,True,lolz
-2014-07-19,730,True,Good game gg
-2015-07-30,304930,True,เกือบจะมัน
-2016-07-20,301520,True,nice game to play with friends.
+posted,item_id,recommend,sentiment_analysis
+2014-10-05,243870,True,1
+2013-12-09,570,True,2
+2014-07-19,730,True,2
+2015-07-30,304930,True,1
+2016-07-20,301520,True,1

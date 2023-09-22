@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-25,224580,True,"Did anyone else know that my mum was banged by hundreds of children? Me neither!I enjoy watching the noobs get kicked for talking in side chat.I also enjoy calling my murderer a ♥♥♥♥♥♥, and over exaggerating. :)"
-2015-01-25,730,True,"Entertained me for a couple of hours.It's okay, I guess."
-2014-12-25,251570,True,"Good, fun game to survive with friends.I LAG DOWN TO 3FPS WHEN I LOOK NORTH, SOMEONE PLEASE HELP ME.The graphics are not as pretty as the could be, but at the same time, they're surprisingly suitable for the game.I CAN PLAY THE GAME WITHOUT LAG FOR A FEW HOURS THEN ALL OF A SUDDEN I LOOK NORTH AND I GET MAJOR LAG.The dogs scare the ♥♥♥♥ out of me sometimes. This is mainly when i'm trying to be stealthy but i turn around just to find a ♥♥♥♥ing mutt ripping my face off.OH GOD I JUST HOPE THAT MY GRAPHICS CARD IS FAULTY, I AM GETTING A NEW ONE AND IF IT STILL GETS THE RANDOM LAG, I WILL ♥♥♥♥ING DECAPITATE MYSELF.Oh, and I recommend the game."
-2014-12-25,242760,True,"I was a bit disappointed. I was hoping to find out how many children had banged my mum. But no luck on this game. :(You need to play this game to enjoy it. (Logic 101)And finally, 5 plus a day, that's the healthy way."
-2014-03-08,252490,True,"If you like Minecraft, you're sure to like rust. It's only in alpha stages, but it's epic.Surviving with friends, pvp, (kitpvp servers are a must play!) or just plain survival, no pvp. Like minecraft, you can have 'mods' except these mods are more like bukkit plugins. You can find servers with economy, pvp arenas, teleportation, door sharing, kits, and because it's in alpha stage, you're bound to find some really funny bugs. Like when you shoot somebodies head, it stretches out and usually their bodies go flying. Anyway, i recommend this game to everyone, and especially my friends who used to play minecraft."
+posted,item_id,recommend,sentiment_analysis
+2014-12-25,224580,True,2
+2015-01-25,730,True,2
+2014-12-25,251570,True,1
+2014-12-25,242760,True,0
+2014-03-08,252490,True,1

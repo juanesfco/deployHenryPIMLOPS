@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-28,262410,True,"Good game, good for earning achievements aswell."
-2014-07-27,304930,True,Alright.
-2014-07-27,248570,False,Unentertaining.
-2014-07-27,105600,True,Good enough.
-2014-07-27,440,True,I dunno.
-2014-07-27,228940,True,Fun and enjoyable racing game.
-2014-07-25,11020,True,Pretty Fun in my opinion.
+posted,item_id,recommend,sentiment_analysis
+2014-07-28,262410,True,2
+2014-07-27,304930,True,1
+2014-07-27,248570,False,2
+2014-07-27,105600,True,2
+2014-07-27,440,True,1
+2014-07-27,228940,True,2
+2014-07-25,11020,True,2

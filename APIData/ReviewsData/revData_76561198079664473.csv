@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-31,440,True,Not bad.
-2014-07-15,304930,True,It's better than Minecraft. I swear.
-2015-11-01,271590,True,I only bought this game for the sex/strippers
+posted,item_id,recommend,sentiment_analysis
+2014-10-31,440,True,2
+2014-07-15,304930,True,2
+2015-11-01,271590,True,0

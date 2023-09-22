@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-10,105600,True,"I managed to match my boots to my skin colour so I no longer looked like I was wearing pants, then spent half an hour using the grappling hook to scoot across the ground while my friends battled bosses. 10/10, will grapple again."
-2014-07-10,227300,True,"I became genuinely upset that I couldn't tie a teddy bear mascot to the front of my truck. Massacred a few cars to make myself feel better, then spent an hour trying to reverse into a space.  9/10, will bump to 10 once the Devs release a patch for Teddy the Travelling Trucker."
-2014-07-10,72850,True,"Got too distracted by a spoon I couldn't steal to actually kill the dragon. 10/10, will mod it until unrecognisable."
-2014-07-10,8930,True,Spent six hours building roads on every tile I could so I could get my warriors anywhere I liked on the map in one turn. Lost because my partner discovered space travel while I was still in the dark ages. 9/10 will lose several times again.
+posted,item_id,recommend,sentiment_analysis
+2014-07-10,105600,True,0
+2014-07-10,227300,True,2
+2014-07-10,72850,True,1
+2014-07-10,8930,True,1

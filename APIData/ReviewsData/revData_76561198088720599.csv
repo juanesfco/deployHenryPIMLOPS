@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-21,301520,True,"I would rate it average.Use to be fun in old day but the freaking repair fee ruin it.cm,on some times the game give me less reward than the repair fee i needed"
-2014-01-28,206500,True,This game is awesome should try.but the new update srew my game it seems the update when it finish keep telling me to install it again and again
-2013-07-22,105600,True,This Games Is AWESOME YOU GUY SHOULD TRT IT!!!
+posted,item_id,recommend,sentiment_analysis
+2014-08-21,301520,True,1
+2014-01-28,206500,True,1
+2013-07-22,105600,True,2

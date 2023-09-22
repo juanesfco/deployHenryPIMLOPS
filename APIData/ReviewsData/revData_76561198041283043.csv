@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-09,225080,True,A really good game. Nice to see how they used the controls that way. 10/10
-2014-05-14,239030,True,Glory To Arztotzka
-2013-06-02,44350,True,Crap. The first one is SO much better.
+posted,item_id,recommend,sentiment_analysis
+2014-07-09,225080,True,2
+2014-05-14,239030,True,1
+2013-06-02,44350,True,1

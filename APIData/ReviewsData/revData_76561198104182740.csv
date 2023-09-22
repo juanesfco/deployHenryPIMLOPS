@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-29,730,True,What if i told you that i have never seen a russin in csgo
-2014-06-04,271290,True,its a great game evan tho ive only been playing for a short time some say its better than titan fall just because of the fact its F2P but others say its better because of the gameplay like me
-2013-09-26,440,True,play it
+posted,item_id,recommend,sentiment_analysis
+2015-09-29,730,True,1
+2014-06-04,271290,True,2
+2013-09-26,440,True,1

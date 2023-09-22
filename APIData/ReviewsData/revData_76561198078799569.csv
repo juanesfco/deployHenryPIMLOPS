@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-05,214630,True,Good game
-2014-04-13,570,True,Wow man this game made me ♥♥♥♥♥♥♥ AND ♥♥♥ SQUIRT!
-2014-08-29,42680,True,Good game I like the game
+posted,item_id,recommend,sentiment_analysis
+2015-01-05,214630,True,2
+2014-04-13,570,True,0
+2014-08-29,42680,True,1

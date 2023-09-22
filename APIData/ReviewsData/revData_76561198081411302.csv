@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-07,304930,True,this is a very addictive game to play even more addictive when you play online with friends and build a community i rate this game 9/10
-2016-01-13,334040,True,"This game is so amazing. It has so many features I could nearly drown in sand and bleach, and dont even get me started on the 8k resloution man this is so optimized it nearly gave me Downsyndrome... Please go buy this game and come play with me it is worth the 60c man........... DO IT"
+posted,item_id,recommend,sentiment_analysis
+2014-08-07,304930,True,1
+2016-01-13,334040,True,2

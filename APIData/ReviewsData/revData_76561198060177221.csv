@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-01-21,200510,True,'This operation is the last hope of humanity.Here are ten soldiers who can't hit ♥♥♥♥ at point blank range.'
-2016-02-03,427810,True,"I've had games where it felt like I was fighting the interface more than the game before but this is the first time it was enjoyable.Also a much cheaper trip than most drugs.Although, probably a game to avoid if you have epilepsy because holy flashing lights, Batman. (People still make Adam West Batman jokes, right? ...please tell me I'm cool)"
-2016-03-26,250520,True,"'This is a thing I want more than anything in the world. Please, I'll give you ANYTHING if you can get it for me.''No problem! Just gimme some directions and I'll be on my way.''It's west.''...yeah, ok; see this place is a ♥♥♥♥ing nightmare labyrinth of collapsed tunnels and high level enemies I need to avoid, and there's no map screen or anything, so could you be a LITTLE more specific?''...south west?'(It was east.)"
-2016-06-22,262790,True,Would repeatedly fail hard mode speed-run acheivement again
-2016-06-14,388880,True,I am thankful for the frequent freezes and crashes or else I probably wouldn't have stopped playing.
-2016-02-05,268500,True,"Oh hey, that Waiting Game I've heard so much about finally came out!...okay seriously I'm actually loving pretty much everything about this- the new overworld interface and the way it ties into the story, new (and the return of old) alien types, new and pretty clever mechanics.But I've got all the settings on minimum and it's taking like FOUR MINUTES to load each map, and another four to load the overworld after each mission, which means you can basically cut my displayed playtime in half to get a more accurate reading. I mean, it's not a dealbreaker for me, because it IS really great, but...Jesus.Edit: Feb 5 patch seems to have improved the issue somewhat, still pretty laggy outside of cutscenes though."
-2016-08-12,407900,True,*Starting game on easiest difficulty*'Well this is nice and relaxing. Probably could have afforded to try a harder mode.'*15 minutes later*'OH SHIII-'
-2016-05-25,8870,False,"More like Bioshock: In Name Only(That was terrible)(Not as terrible as this game, though)"
-2015-12-01,45100,False,I paid one dollar for this and I think I was overcharged.
-2015-11-10,228260,False,"This is a game that I would really, REALLY like to enjoy. I've installed and uninstalled it repeatedly, trying to get into it. There are SO many good ideas in here, but it's just TERRIBLY executed.Tile yields for cities seem to be completely random, with no bearing on the type of tile or any kind of visual cues to clue you in. You can't check what status effect icons mean in battle, which wouldn't be too bad except that each icon can mean multiple things, so good luck with that. Haven't been able to find a way to check a unit's range in a fight, either.It's a shame, because I love the way the overworld drops into the fights, which gives a double layer of strategy, plus the use of outposts to grab resources without having to start a whole new city if there's one spot you want to grab is something a lot Turn Based games could learn from.This is a perfect example that just having great ideas doesn't necessarily translate into a good finished product. Pretty much every issue this game has stems from an awful UI, which seems like it could have been solved with a little playtesting.Hoping to see another crack at it, in the meantime, Civ V is that-a-way."
+posted,item_id,recommend,sentiment_analysis
+2016-01-21,200510,True,1
+2016-02-03,427810,True,2
+2016-03-26,250520,True,2
+2016-06-22,262790,True,0
+2016-06-14,388880,True,1
+2016-02-05,268500,True,2
+2016-08-12,407900,True,1
+2016-05-25,8870,False,0
+2015-12-01,45100,False,1
+2015-11-10,228260,False,1

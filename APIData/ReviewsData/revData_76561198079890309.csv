@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-14,204100,True,Bullet time is the ♥♥♥♥
-2015-02-28,262060,True,yeah its fun 9/11 would dark again
-2014-09-19,266510,True,simply amazing 
-2014-12-15,248860,True,I was minding my own bussiness when i was rudely woken up by 6 melon heads.My trible war club had a lot of fun that night.8/8 m8
-2014-10-24,226700,True,this gave my cancer ebola
+posted,item_id,recommend,sentiment_analysis
+2014-08-14,204100,True,1
+2015-02-28,262060,True,1
+2014-09-19,266510,True,2
+2014-12-15,248860,True,2
+2014-10-24,226700,True,1

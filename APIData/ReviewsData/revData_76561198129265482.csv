@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-16,227300,False,"oh my god, this is SOOO boring, now its in the trash where it belongs."
-2015-04-02,22380,False,"Boring, dry landscape and terrible graphics. I don't care if you can 'fix that with mods' you get what you buy."
+posted,item_id,recommend,sentiment_analysis
+2016-05-16,227300,False,0
+2015-04-02,22380,False,0

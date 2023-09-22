@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-18,203290,True,this game is Amazing and i recomend it to all of my friends and anyone else who likes FPS games
-2014-08-27,10090,True,this game is amazing i recommend this to everyone
-2013-06-04,105600,True,terraria is super fun and u should buy it people say its a rip off of minrecraft but buy it play it and you'l know hiow diffrent it actully is
+posted,item_id,recommend,sentiment_analysis
+2014-12-18,203290,True,2
+2014-08-27,10090,True,2
+2013-06-04,105600,True,2

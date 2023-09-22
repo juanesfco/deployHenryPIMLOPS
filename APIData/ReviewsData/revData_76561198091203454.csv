@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-01-05,221100,False,if you like dried up man faeces this is your type of game10/10 would like dried up man faeces again
-2016-05-17,379720,True,BEST GAME 2016 10/10 would shove my fist down some fat ♥♥♥♥ers throat for him to explode
-2016-01-05,239140,True,is goodenough said
-2016-02-21,242760,True,REALLY ♥♥♥♥ING COOLthis game over the last year has had some major improvements its seriously worth getting
-2015-11-13,332500,False,gayyyyyyyyyyyyyyyyyyyyyyyyyyy
-2015-06-02,10090,False,ha gaaayyyy
-2016-08-29,72850,True,YOU WILL NEVER GET BORED OF THIS GAME IT IS ALL I NEED
+posted,item_id,recommend,sentiment_analysis
+2016-01-05,221100,False,0
+2016-05-17,379720,True,2
+2016-01-05,239140,True,1
+2016-02-21,242760,True,1
+2015-11-13,332500,False,1
+2015-06-02,10090,False,1
+2016-08-29,72850,True,0

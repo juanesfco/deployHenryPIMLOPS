@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-25,230410,True,The Bomb
-2014-08-16,224600,True,Its a bloody good game so i recomend getting it
-2014-07-12,24200,True,Get this game you won't regret it i promise you
+posted,item_id,recommend,sentiment_analysis
+2014-07-25,230410,True,1
+2014-08-16,224600,True,0
+2014-07-12,24200,True,0

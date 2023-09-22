@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-28,49520,True,Majinate ;3
-2013-12-27,224260,True,muy buen juego :3 me encanto
-2014-02-06,208090,True,juegaso
+posted,item_id,recommend,sentiment_analysis
+2015-07-28,49520,True,1
+2013-12-27,224260,True,2
+2014-02-06,208090,True,1

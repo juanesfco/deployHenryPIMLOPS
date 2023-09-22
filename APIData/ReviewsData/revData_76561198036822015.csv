@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-22,317360,True,"Quite a bit of action and a fair amount of boogaloo. It's free, it's fun, download it and give it a go."
-2015-07-27,224260,True,An excellent game. Well worth a play.
-2014-11-14,205100,True,It's an excellent game. Starts off a little slow but after a while you really start to get invested in the story and it yields rewarding dividends.
+posted,item_id,recommend,sentiment_analysis
+2015-02-22,317360,True,2
+2015-07-27,224260,True,2
+2014-11-14,205100,True,2

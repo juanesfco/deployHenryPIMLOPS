@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2012-05-05,205610,True,"Awesome, so much better than 1 and 2 :)"
+posted,item_id,recommend,sentiment_analysis
+2012-05-05,205610,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-03,258970,True,"awesome game everyone needs to give it a go , i spent many a coin in my youth on this game"
-2014-11-26,305260,True,boring but a quality time consumer if that makes any sense
-2014-08-01,304930,True,1 UP ON MINECRAFT
+posted,item_id,recommend,sentiment_analysis
+2016-06-03,258970,True,2
+2014-11-26,305260,True,0
+2014-08-01,304930,True,1

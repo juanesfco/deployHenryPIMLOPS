@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-22,290080,True,"I love this game! The great survival aspects with a twist of medieval really creates a fun and exiting game. Most people only dislike this game because of how long it takes to even make a simple house, or needing skills, but this game is all about the realism behind what people had to deal with back then - and remember Life IS feudal"
-2013-12-24,440,True,BEST GAME IN THE WORLD (so far)
+posted,item_id,recommend,sentiment_analysis
+2016-03-22,290080,True,1
+2013-12-24,440,True,2

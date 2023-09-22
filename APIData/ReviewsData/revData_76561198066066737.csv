@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-31,299360,False,"They executed the (team) game in a poor way, there is no 5 man squads, no descent voice communication and no indicator to tell you if your talking or not in game and there are a crap ton of griefers."
-2014-12-22,1520,False,"this a broken game, the steam authentication is broken and the multiplayer crashes the game whenever I try to join the server. evan though I only payed $1 for this game, I feel that that dollar was throwen into the sea. the game is very unstable which can really ♥♥♥♥ me off sometimes!"
-2015-11-13,409510,False,"bloody horrible, is literally a game made in Unity and the graphics are either crappy cheaply made 3D visuals or google images.... I'm not kidding..............Don't play this game what so ever! It is pure crap"
-2015-09-05,355180,True,"It's a great game, would suggest you play it.recommendations for devs:Add workshop to the game (the 4 maps get boring)Add more maps to the game"
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,299360,False,0
+2014-12-22,1520,False,0
+2015-11-13,409510,False,0
+2015-09-05,355180,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-13,252490,True,This is perhaps the best survival game i've ever played so far . It's definitely worth the money . Rust still has many hackers and hopefully they would be banned soon .
-2014-06-04,242760,True,"This game seems promising , actually it's pretty good and enjoyable . However , the forest is lack of challenging and it still has major saving issue need to be fixed .To be honest,  I wouldn't recommend this game for those people who are considering  to buy this game in this time . Recently this game is unplayable due to alpha title :  it has ton of glitching and bugs ,cannibals Ai are extremely aggressive but you still can survive forever if you know their behaviour likely . The development has announced that they will add co-op in this game and it works with oculus rift which is amazing news .  The forest is definitely worth the money until they fix saving issue ."
-2014-06-13,219740,True,This game is addictive . I highly recommended don't starve for anyone who likes challenging and hardcore style . It's really fun and the development has announced that they will add multiplayer in this game which is cool . Buy it now otherwises it gonna increase prices
+posted,item_id,recommend,sentiment_analysis
+2014-06-13,252490,True,2
+2014-06-04,242760,True,1
+2014-06-13,219740,True,1

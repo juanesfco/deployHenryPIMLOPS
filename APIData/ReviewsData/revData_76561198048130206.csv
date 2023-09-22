@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-07-12,630,True,Everyone should play it so Daniel stops bothering me :P
-2011-12-27,102600,True,"The games title says it all. Be as merciless as possible, they are only Orc's."
-2011-09-23,400,True,"It's a good game with an interesting concept behind it and will give you some laughs as well, for those who are still alive!"
+posted,item_id,recommend,sentiment_analysis
+2012-07-12,630,True,2
+2011-12-27,102600,True,0
+2011-09-23,400,True,2

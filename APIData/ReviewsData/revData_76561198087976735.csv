@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-01-09,235460,True,"Good game but if you have a bad graphics card, go to settings and change graphics to low"
+posted,item_id,recommend,sentiment_analysis
+2014-01-09,235460,True,1

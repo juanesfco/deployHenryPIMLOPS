@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-05,221100,True,"This is a great game if you like survival, zombies and the fear of seeing a bandit. Yes, this game is still in an early access alpha stage but it will get better and better as the developers created new items, increase graphics quilty and fix bugs or glitches."
-2016-06-13,10090,True,This was when Call of Duty was original and not just copying every single mission but making it more futuristic. This was the real call of duty. I think this is one of my favorite games because I can play with friends on veteran mode to see who's better. Overall i give this game a 9.8999/10. This is one of the best games I have layed on steam.
-2016-02-13,295110,True,"This is a great game. You scavenge, you fight zombies and you can choose to be a bandit or someone who just helps people out. I would recomend this game to anyone who likes DayZ but thinks its too hard. In this game you find weapons alot easier than in DayZ and you can get skins to make your character look awesome."
-2013-06-06,4000,True,you can get all kinds of maps
+posted,item_id,recommend,sentiment_analysis
+2016-03-05,221100,True,2
+2016-06-13,10090,True,2
+2016-02-13,295110,True,1
+2013-06-06,4000,True,1

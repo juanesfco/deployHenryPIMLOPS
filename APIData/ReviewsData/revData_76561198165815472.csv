@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-06-15,248820,True,Need to make lan and online servers easier to setup
-2015-07-08,300400,True,"good game, please make a feature where you can change from blue to other colours, LIKE ORANGE,"
-2015-05-23,214190,True,THIS IS A GOOD GAME2 bugs we found-cannot even login to MBER account anymore-scores of randoms not showing
-2016-01-26,252490,True,please fix animals running up rocks
-2015-02-13,259080,True,"str8 8/8, no h8"
+posted,item_id,recommend,sentiment_analysis
+2015-06-15,248820,True,1
+2015-07-08,300400,True,1
+2015-05-23,214190,True,2
+2016-01-26,252490,True,1
+2015-02-13,259080,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-02-07,224260,True,good
-2013-07-19,570,True,It's good  but it would be good if they did more work on it
-2014-02-21,208090,False,HATE IT!
-2014-02-07,47410,False,hate it
-2014-01-16,200210,True,pretty good
-2013-12-15,235400,False,i didnt like it
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,224260,True,2
+2013-07-19,570,True,2
+2014-02-21,208090,False,0
+2014-02-07,47410,False,0
+2014-01-16,200210,True,2
+2013-12-15,235400,False,1

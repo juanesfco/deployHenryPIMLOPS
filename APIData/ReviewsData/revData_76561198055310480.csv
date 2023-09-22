@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-09-16,730,True,"very cool very handsome, i like it"
+posted,item_id,recommend,sentiment_analysis
+2014-09-16,730,True,2

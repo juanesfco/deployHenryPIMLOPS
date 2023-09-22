@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-01-14,304930,True,Some things are better left....Unturned.
-2016-05-17,407420,False,I love the complete silence other than my guns.
-2015-04-27,48700,True,I was able to mount and i was able to blade people with my band of warriors. 10/10
-2013-12-19,221100,True,"A really great and good looking game.Also gasmasks.(Old review)Yeah, yeah, no. This game is still in alpha. I advise you wait to buy this game until it comes out of alpha. Which will be a while.(Old review again)I take that back, they have added a lot and i would say if helicopters were added Dayz Standalone would be on point with the original Dayz mod."
-2016-02-04,268500,True,Advent soldiers can hit on Commander difficulty.
-2016-04-15,359550,False,Creating Squad...
-2015-12-25,200510,True,"Elite soldier pack has helmets. 10/10, my guy died in style.Story time.I had my epic squad, and we decided it was time to assualt and alien base. This squad had destroyed everything the aliens had thrown at us. Long thin agent aliens, the dumb grunts, and the giant mutons.The squad entered the base, clearing through it easily. The Mec did most of the work. That was until the squad heard a sound, the sound of death. A giant looking bug walked out, it looked easy to be taken down. The squad opened fire shredding the bug apart. Then 5 poured out. The squad was torn apart and injected with the bugs babies, the end.TL;DRThe giant bugs destroy everything."
+posted,item_id,recommend,sentiment_analysis
+2015-01-14,304930,True,2
+2016-05-17,407420,False,2
+2015-04-27,48700,True,2
+2013-12-19,221100,True,2
+2016-02-04,268500,True,1
+2016-04-15,359550,False,1
+2015-12-25,200510,True,1

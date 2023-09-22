@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-09,236390,True,This F****ing Game is the the best game of all tyme!!!!!
-2014-07-14,227940,False,i do not recommend this game to people who have low end PCs because it is not optimized at all.
+posted,item_id,recommend,sentiment_analysis
+2014-02-09,236390,True,0
+2014-07-14,227940,False,0

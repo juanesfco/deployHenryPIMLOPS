@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-14,211820,True,"♥♥♥♥ yes i do, steam. thanks for asking."
-2015-10-25,22330,True,"Best game of all time, in order of logic:RPG is my favourite genre in which i have sufficient experienceElderscrolls is my favourite RPG series in lore and gameplayOblivion was the first one i played so isn't OTT like morrowind or humble like skyrimBest Game in Best Series in Best Genre of Best Entertainment medium."
-2014-06-26,105600,True,"yeah, i spent alot of time on it so why not get it? if oyu don't understand my gist yet, all the games that ireview in this casual manner have ruined my life with endless fun."
-2014-05-13,570,True,"why yes, i  do recommend this game."
-2014-01-01,730,True,"the only reason this game doesn't have a higher metascore is because it was reviewed when it was first released. in 'flashback' articles you'll see prevoulsy scorning critics giving it 10s because it's improved so much. maps have been added, crates like TF2, weapon skins, so many community contributions, map tweaks, gameplay upgrades, new game mode, the list continues. this game needs more players, all noobs welcome, the community can teach you the tools of the trade even if uyou're hopeless. :D have fun on CSGO, deffinitely worth anyones time (in my case, 400 hours of time (right now anyway))"
+posted,item_id,recommend,sentiment_analysis
+2013-12-14,211820,True,2
+2015-10-25,22330,True,2
+2014-06-26,105600,True,0
+2014-05-13,570,True,0
+2014-01-01,730,True,2

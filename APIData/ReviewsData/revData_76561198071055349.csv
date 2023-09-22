@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-18,7670,True,Would you kindly buy this game?Would you kindly try this game?Would you kindly play this game?Would you kindly?Would you kindly?Would you? 10/10 
-2014-09-11,205100,True,best game of all time
-2014-07-28,104900,False,♥♥♥♥ this game.
+posted,item_id,recommend,sentiment_analysis
+2015-01-18,7670,True,2
+2014-09-11,205100,True,2
+2014-07-28,104900,False,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-10,730,True,"This game is such fun and helpfull ! You can learn Russian in less than 2 weeks.You can be racist in less than 1 weekAnd the most important, you can break your PC more than 10 times a year!This game is AWESOME.11/10♥♥♥♥ ♥♥♥♥♥ id nahui"
-2015-12-13,386360,True,"This game has such great community, i wont play DotA or LoL again. Thank you guys !"
-2015-12-08,413850,True,I love it.
+posted,item_id,recommend,sentiment_analysis
+2015-06-10,730,True,1
+2015-12-13,386360,True,2
+2015-12-08,413850,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-19,243870,True,this game is very fun
-2016-03-13,570,True,Thanks.Blue screen-------4 single draft ----- remaining 1 -------blue screen again  --------- got banned 1 day ---------5 single draft.:)
-2015-03-26,345520,True,-Like DOTA2
-2015-03-06,230410,True,I am a NINJA lol
-2015-01-24,236390,True,I like this game
-2014-11-18,440,True,Fun
+posted,item_id,recommend,sentiment_analysis
+2014-04-19,243870,True,1
+2016-03-13,570,True,1
+2015-03-26,345520,True,1
+2015-03-06,230410,True,2
+2015-01-24,236390,True,0
+2014-11-18,440,True,2

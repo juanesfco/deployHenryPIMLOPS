@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-29,394380,False,"I contracted several S.T.D's from looking, downloading (forgive me mom) and playing. :|"
-2016-05-29,304930,True,There is no community only high pitched 9 year olds. It can be good if you find the right servers.
-2016-04-13,105600,True,"Great game, but there are to many exploits."
+posted,item_id,recommend,sentiment_analysis
+2016-05-29,394380,False,1
+2016-05-29,304930,True,2
+2016-04-13,105600,True,2

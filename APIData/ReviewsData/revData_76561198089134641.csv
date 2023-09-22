@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-03-04,440,True,Centinela al Frente...
-2014-07-06,291480,True,"Mal optimizado, ya me hice las jodidas cuentas de mrd en todas las malditas paginas que me mandan , pongo el juego y me sale un error y asi por los siglos de los siglos , no lo e jugado asi que no puedo decir que es malo , simplemente no me quiere iniciar 5/10"
-2014-06-16,302380,True,Vale la pena echarle un vistazo
-2014-05-28,243870,True,"Sinceramente el que no lo descarge porque es 'malo' o no le gustan los Fps es un tarado..... 100000000% recomendado este hermoso juego, lo malo es que es pay to win ,   demasiado p2w mucho pero mucho p2w y las armas para conseguirlas con dinero del juego tienes que echarle bolas"
-2014-07-19,230410,True,P2w
-2014-06-18,224260,True,9.5/10
-2014-06-16,38830,False,Lo bueno que se podria decir acerca de este juego es el sombrero de tf2 mas nada...
-2014-06-14,65790,False,"Ni me carga, se queda pegado como si fuera Gta 15125365 y lo estuviera jugando en una piedra"
-2014-01-29,209870,True,este juego es yuca
+posted,item_id,recommend,sentiment_analysis
+2014-03-04,440,True,1
+2014-07-06,291480,True,0
+2014-06-16,302380,True,2
+2014-05-28,243870,True,2
+2014-07-19,230410,True,1
+2014-06-18,224260,True,1
+2014-06-16,38830,False,2
+2014-06-14,65790,False,1
+2014-01-29,209870,True,0

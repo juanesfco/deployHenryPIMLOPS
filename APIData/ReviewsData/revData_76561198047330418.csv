@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-26,730,True,head shots are op
-2014-10-27,620,True,"Portal 1 was very good, but Portal 2 is better. A lot more complicated than the 1st Portal!"
-2014-06-29,4760,True,"One of the best Total War games ever. Seriously, you have to try this if you haven't tried this."
-2014-02-14,4000,True,"Even though you need games like, Half Life 2, Counter Strike Source and other ♥♥♥♥, this games is still pretty sick and the gamemodes here are amazing. For example, DarkRP TTT, Murder, Sandbox and Zombie Survival. You can't just say I'm too bored with Gmod, since there's a TON of ♥♥♥♥ to do here. 9/10 rating. God Bless Gary"
+posted,item_id,recommend,sentiment_analysis
+2014-08-26,730,True,1
+2014-10-27,620,True,2
+2014-06-29,4760,True,2
+2014-02-14,4000,True,0

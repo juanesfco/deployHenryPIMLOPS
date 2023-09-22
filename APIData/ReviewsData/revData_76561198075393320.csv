@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-23,222880,True,great game if you are pactiant
-2014-07-21,304930,True,pretty good 10/10-IGN
-2014-04-19,241640,True,if you like to get scared ♥♥♥♥♥♥♥♥ play this game (lots of jump scares)
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,222880,True,2
+2014-07-21,304930,True,2
+2014-04-19,241640,True,0

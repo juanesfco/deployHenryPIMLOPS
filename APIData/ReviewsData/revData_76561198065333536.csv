@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-01,72850,True,I love it!The Elder Scrolls saga hasn't failed meAND IT NEVER WILL.Keep 'em coming Bethesda.
-2014-01-01,550,True,"It's fun... I'll give you thatBut to me there's just something missingThe game seems incomplete IMO.But all-in-all really, REALLY, cool and fun game.Worth buying, and while your at it buy the first game."
-2015-07-04,346900,True,May not be much but it is REALLY FUN!
+posted,item_id,recommend,sentiment_analysis
+2014-01-01,72850,True,1
+2014-01-01,550,True,1
+2015-07-04,346900,True,2

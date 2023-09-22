@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-11-08,271570,True,Only played it for two minutes... AND I ALREADY LOVE IT :')
-2014-09-12,570,True,This is a great game i recommend to all whom are bored
-2014-07-18,304930,True,can you play this game offline?
-2014-10-25,218620,False,Look this game is no where near the requirements it sais it needs. It is terribly optimised and was no where near the specs I could play. I dont recommend it the gameplay is good. But I can't run it cos they ♥♥♥♥en lied to me.
-2016-03-19,310080,True,"You get really into the game and get sucked in, but then you look up and realise they're ♥♥♥♥ing pidgeons"
-2014-12-13,230410,True,One of the best games i've played but needs to have offline mode
-2014-09-26,264140,False,"Honestly I have barely anytime on this game because after recruiting about 6 pirates i got bored. Its setup to have the same thing everywhere, its not interesting like its previous games terraria and starbound, there are many bugs and there is no base story and nothing to do. Just beat 4 bosses its so godamn boring that i cried knowing i spent $10 on this terrible game. People get off this page and find a better $10 game example Killing Floor or Garry's Mod something actually bareable"
+posted,item_id,recommend,sentiment_analysis
+2014-11-08,271570,True,2
+2014-09-12,570,True,1
+2014-07-18,304930,True,0
+2014-10-25,218620,False,1
+2016-03-19,310080,True,1
+2014-12-13,230410,True,2
+2014-09-26,264140,False,0

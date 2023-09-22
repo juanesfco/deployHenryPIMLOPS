@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-18,550,True,"Um jogo mt divertido , altamente recomendado"
-2014-09-10,319510,True,"Ótimo jogo , levo muitos sustos XD"
-2014-08-20,244850,True,Jogo muito bom várias horas de gameplay e atualizações constantes
+posted,item_id,recommend,sentiment_analysis
+2014-08-18,550,True,1
+2014-09-10,319510,True,2
+2014-08-20,244850,True,2

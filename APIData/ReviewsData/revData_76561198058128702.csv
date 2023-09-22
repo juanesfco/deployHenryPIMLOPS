@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-19,252950,True,get it NOOOOWWWWW
-2014-12-28,49520,True,because its a game
-2014-11-24,72850,True,"finished on console, amazing game."
+posted,item_id,recommend,sentiment_analysis
+2015-07-19,252950,True,1
+2014-12-28,49520,True,0
+2014-11-24,72850,True,2

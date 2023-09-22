@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-11,292120,False,Nice game but IT DOES NOT SAVE! Hours of my progress are lost!
-2015-12-26,307880,False,Graphics tearing + No one plays this anymore
-2015-02-14,210770,True,I love Tower Defence and I love FPS games. They are both combined in this game. Awesome much! :D
+posted,item_id,recommend,sentiment_analysis
+2015-01-11,292120,False,1
+2015-12-26,307880,False,1
+2015-02-14,210770,True,2

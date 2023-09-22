@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-30,299460,False,"worse than bad rats, it gives me a headache from dealing with its terrible physics engine, and the camera angles are frustrating as hell because sometimes without warning it will change on it's own and annoy the crap outta you. Also, there's no tutorial, all you're told is 'here's a backpack, here's a leaf, collect tears (the players tears, mind you, because that's what this game wants from us, and oh boy, it has received)'."
-2016-09-07,418190,True,"A very fun little game, with a heartwarming plot and fresh battle mechanics that work surprisingly well.I highly recommend picking this up, there are a few problems with the game itself (couple of bugs and lack of direction at times) but I'll cover what I discovered here...After defeating Mr Undead you will have to break the barrier, which is the the building to the north of where you entered that room from, if you enter on the left side of that door it might crash the game, so make sure to enter from the center (or maybe it was coincidence that it worked whe I entered through the middle, but hey, it worked for me!)After you break the barrier, there is a extra bit of pathway on the top left behind the barrier, walk onto that square and move left to proceed to the next area! I spent 40 minutes going in circles around the dungeon trying to find a character with directions, heh.anyway, a very good game for the price, doesn't take too long to beat (only took me 5 hrs) and I am hoping very much for a sequel. Also, if you enjoyed this, you might enjoy the labyronia rpg series, if you haven't already tried it, ty have fun :)"
-2015-10-13,209080,True,"It has the worlds most amazing tip box, I highly recommend this tip-box reading simulator while you endlessly wait for 2 more players."
-2016-01-18,264240,True,8/10 would bang all the chicks.
-2015-03-04,99910,True,"This is a highly strategic puzzle game, it has childish graphics, but isn't only for children. If you're a smart adolescent/adult that enjoys crushing the hopes and dreams of kids, then this game is for you. This is a skill-based game, where you can gain renown or infamy among the community. I highly recommend trying it out."
+posted,item_id,recommend,sentiment_analysis
+2015-10-30,299460,False,0
+2016-09-07,418190,True,1
+2015-10-13,209080,True,2
+2016-01-18,264240,True,1
+2015-03-04,99910,True,1

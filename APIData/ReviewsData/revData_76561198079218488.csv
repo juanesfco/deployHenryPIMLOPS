@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-08,283290,False,pense num jogo lixo esse e 10 vezes pior
-2014-10-11,266070,True,Empolgante
-2014-03-18,440,True,uma delicia cara
+posted,item_id,recommend,sentiment_analysis
+2014-11-08,283290,False,0
+2014-10-11,266070,True,2
+2014-03-18,440,True,0

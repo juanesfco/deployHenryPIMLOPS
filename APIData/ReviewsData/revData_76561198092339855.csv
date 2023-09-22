@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-28,382780,True,"Good Movie and relatable in some way, also had some good laughs and felt better for my self :D"
-2015-10-19,319630,True,"Gotta say, Life is Strange is the best story interactive game I have ever played, also some of the toughest decisions in gaming I have ever made. This game deserves an overwhelming positive rating just as it has in this precise moment or even greater. If there might be a sequel in the future or maybe just another succesful game from the creators I would not hesitate to buy it. This game has taught two things: Do not tamper with the past, you will unleash chaos and if you do, fix it until the situation is beneficial to both you and society. Friends always matter.-Let me add something. Chapter 5 has been a dazzle, just great."
-2013-12-23,49520,True,"Great game, can have hours and hours of gaming non-stop."
+posted,item_id,recommend,sentiment_analysis
+2015-10-28,382780,True,2
+2015-10-19,319630,True,2
+2013-12-23,49520,True,2

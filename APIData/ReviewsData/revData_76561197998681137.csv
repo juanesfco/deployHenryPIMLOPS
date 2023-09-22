@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-24,22330,True,i recommend this game to sean collins
-2016-01-01,24960,True,"my favourite battlefield game still has a community and even some servers to play on in AUS,"
-2014-05-24,236090,True,"fun game, nice visuals, pretty good voice acting, entertaining storyline, addictive combat, nice balance of humour and seriousness in a game, good game length for its price. probably  the best 2D side scroller game ive played"
+posted,item_id,recommend,sentiment_analysis
+2013-12-24,22330,True,0
+2016-01-01,24960,True,0
+2014-05-24,236090,True,2

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-04-22,22380,True,'You take a sip from your trusty Vault 13 canteen'
+posted,item_id,recommend,sentiment_analysis
+2016-04-22,22380,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-20,331470,True,"Love it. Love it. And since I can read cyrillic script, I can play it in Rusian or English. Love it."
-2014-05-29,4000,True,One does not simply not buy Garry's Mod. I recommend you do buy it if you don't have it.
+posted,item_id,recommend,sentiment_analysis
+2014-11-20,331470,True,2
+2014-05-29,4000,True,1

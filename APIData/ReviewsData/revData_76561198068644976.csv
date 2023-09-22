@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-01,271590,True,"♥♥♥♥♥♥♥♥♥♥s, cars, guns and ♥♥♥♥♥♥ bags.I r8 8/8 m8 would masturb8 2 it again."
-2015-03-27,730,True,Idk if I can say it's bad at this point with how many hours I've put into it and skins I have... But I guess it's aight'
-2015-02-01,440,True,"Buy hat worth more then IRL hats,Throw your ♥♥♥♥ at people,Be a ♥♥♥♥ on a server conclusion: Conga/Camping/Trading/BeADick Simulator 201510/10"
-2012-08-05,105600,True,"You may think it's a copy of minecraft, but really it's far from that. There are sevral bosses, more bioms, weapons, armour and blocks."
+posted,item_id,recommend,sentiment_analysis
+2015-09-01,271590,True,1
+2015-03-27,730,True,1
+2015-02-01,440,True,2
+2012-08-05,105600,True,2

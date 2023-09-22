@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-10-04,42910,True,QRQRASE!!!!
-2014-10-04,72850,True,So much realistic on horse physic.10/10 would play.
-2014-10-04,49520,True,Mad Moxxi's panty is blue10/10
-2014-10-04,3390,True,got eaten by oyster 10/10
-2014-07-25,3620,True,One of my favourite childhood games.10/10
-2014-07-19,206440,True,This game made me cry like a girl.
-2014-06-25,234670,True,Good story.Epic gameplay.10/10 would buy.PS.Not recommend if you don't have any gampad.
-2013-09-26,45400,True,Best 1$ I have ever spend
+posted,item_id,recommend,sentiment_analysis
+2014-10-04,42910,True,1
+2014-10-04,72850,True,2
+2014-10-04,49520,True,0
+2014-10-04,3390,True,1
+2014-07-25,3620,True,1
+2014-07-19,206440,True,0
+2014-06-25,234670,True,2
+2013-09-26,45400,True,2

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-07-08,406150,True,Three things: dollar for dollar the best game I've played in a long time. Minute for minute also the best. And basically those things aside - cheap and short - it was still a great game. MOAR FOR THE LOVE OF GOD GIVE US MOAR
-2016-08-17,275850,False,"Didn't live up to the enormous hype. Didn't even live up to more conservative outlooks. Marketing and even developer language was carefully chosen to paint a pretty picture but basically lies by omission. I don't want to hate NMS but it's just not very good in ways that would have been easily fixable. Truth is this game is too simplistic and there isn't much to it, but it's at the same time very fiddly. The exploration and planets don't make up for this and a lot of what you might have seen in the teaser trailers can't be found in-game. Even the way the game itself was portrayed is different enough that it left me wondering why. On the plus side I did play it fairly obsessively for 15 hours but after that I got sick of doing the same thing over and over again. I jumped past five systems in a row without stopping out of sheer boredom. In the end I can't recommend it."
-2016-02-25,274500,True,"It's like someone went back in time and kidnapped a game developer and said 'welcome to 2016, now you're going to make the best game ever'. This game is kick effin ♥♥♥."
-2015-04-24,271590,False,"Buggy piece of ♥♥♥♥. Rockstar learnt nothing from their earlier releases. As much as it grieves me to say it, don't waste your money on this game. No matter what you imagined, you won't find what you're looking for here."
-2016-02-26,407840,False,"Kind of crap. You choose a character and spawn at some kind of ship in an otherwise empty map. You can run around for a while and shoot but that's it. There's no enemies or anything. There's a thing at the top that says 'READY UP R' but who knows what that really means. There's no way to interact with it. Maybe there's more to come? Wasn't enjoying it anyway, I hope I didn't pay much for this as I don't even remember how it ended up in my library. Entirely forgettable. Oh yeah, it thinks it's an Oculus Rift game but all it does is apply distortion to a single full-screen camera view. You'll need to disable your HMD to play this... game. If that's what this is. Probably just avoid this one as your life is precious and you shouldn't waste it on stupid, badly written games."
-2016-08-24,290300,False,Was told this is better than NMS. It's not.
-2015-06-27,317400,False,"Glad I didn't pay anything for this - but then, if I had maybe we could have spent some time playtesting this. Couldn't get past the first red forcefield. Boring as ♥♥♥♥ really. Voice acting is weird and awkward. A lot of stuff made no sense and was just irritating. I wouldn't bother unless you feel the need to be disappointed."
-2016-05-14,379720,True,"No button mash events, was pleasantly surprised. 10/10 Game of the year no button mash events."
-2013-08-15,22610,True,Yay
+posted,item_id,recommend,sentiment_analysis
+2016-07-08,406150,True,2
+2016-08-17,275850,False,1
+2016-02-25,274500,True,1
+2015-04-24,271590,False,1
+2016-02-26,407840,False,1
+2016-08-24,290300,False,2
+2015-06-27,317400,False,0
+2016-05-14,379720,True,0
+2013-08-15,22610,True,1

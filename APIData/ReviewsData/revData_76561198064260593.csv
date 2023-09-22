@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-29,304930,True,"This is a perfect game if you like crafting stuff, killing zombies in various ways and just in general trying not to die, because you know. Dying is unhealthy and in extreme cases, may cause death"
-2016-04-04,730,True,Pays $2 or something for a key.Opens crateGets item worth 0.000000000000000000003 cents10/10 IGN will fill Gabens Money Bath again
-2015-07-03,49520,True,bruh beast game 10/10 IGN
+posted,item_id,recommend,sentiment_analysis
+2016-07-29,304930,True,1
+2016-04-04,730,True,2
+2015-07-03,49520,True,0

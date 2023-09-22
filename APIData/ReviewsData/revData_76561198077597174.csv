@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-08-02,440,True,Great Game.
-2016-02-10,234710,True,This game is more rigged than a stacker machineI also got a robot drunk10/10
-2016-02-10,346900,True,I wish this was real life
-2016-02-10,220780,True,"The game where I actually cared about rectangles and their feelings, (and figured out the fact that I had no friends, but that is ok, I made friends with other rectangles that are actually myself).11/10 would be alone again!"
-2016-02-10,318430,True,"It's my life simulator, except I am a pig!10/10"
-2016-02-10,290890,True,The worst racing game I have ever played0/10
-2016-02-10,283080,False,"The game that I bought for full price but goes on sale a day later as well as beating it in 3 hours, not being able to refund it.10/10"
-2016-03-08,326460,False,Besides the fact it says I am on a loading screen that never connects best game ever!10/10
+posted,item_id,recommend,sentiment_analysis
+2014-08-02,440,True,2
+2016-02-10,234710,True,1
+2016-02-10,346900,True,2
+2016-02-10,220780,True,1
+2016-02-10,318430,True,1
+2016-02-10,290890,True,0
+2016-02-10,283080,False,2
+2016-03-08,326460,False,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-26,290080,True,You need a good computer but game is pretty fun!
-2015-11-08,271590,True,Awsome game fun and play with friends :)
-2015-01-26,4000,True,its by far the best
+posted,item_id,recommend,sentiment_analysis
+2016-06-26,290080,True,2
+2015-11-08,271590,True,2
+2015-01-26,4000,True,2

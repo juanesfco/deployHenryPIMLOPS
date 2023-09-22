@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-13,570,True,Played for a bit...enjoyed it. ( ͡° ͜ʖ ͡°)
-2013-07-26,212680,True,Great game. Funner than what I expected.
-2013-05-18,200210,True,good to play with friends
-2011-10-30,440,True,AWESOME
+posted,item_id,recommend,sentiment_analysis
+2015-09-13,570,True,1
+2013-07-26,212680,True,2
+2013-05-18,200210,True,2
+2011-10-30,440,True,2

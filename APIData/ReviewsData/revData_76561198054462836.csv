@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-12,730,True,this is a good game
-2014-08-30,209160,False,"this game is horrible on pc.when you load the game it come out a black screen,and tons of lag."
+posted,item_id,recommend,sentiment_analysis
+2014-01-12,730,True,2
+2014-08-30,209160,False,0

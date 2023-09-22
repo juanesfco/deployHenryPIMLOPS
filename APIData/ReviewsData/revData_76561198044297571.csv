@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-27,208090,True,GG       GG      GGGG      GG GG      GG     GG
+posted,item_id,recommend,sentiment_analysis
+2014-03-27,208090,True,1

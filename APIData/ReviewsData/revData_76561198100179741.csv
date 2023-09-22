@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-28,22380,True,hmn +10 huejo cuñao weno
-2014-11-09,730,True,juego culiao wenon
-2014-06-27,222900,True,lo camvio por el left 4 dead 2 xd
+posted,item_id,recommend,sentiment_analysis
+2015-10-28,22380,True,1
+2014-11-09,730,True,0
+2014-06-27,222900,True,1

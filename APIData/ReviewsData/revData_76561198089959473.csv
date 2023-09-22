@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-20,252490,True,The new version is great and all but i have all the details of the game turned all the way down and still getting 10 fps
-2015-05-28,107410,True,Good game to have
+posted,item_id,recommend,sentiment_analysis
+2015-06-20,252490,True,1
+2015-05-28,107410,True,2

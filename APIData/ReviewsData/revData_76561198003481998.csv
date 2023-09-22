@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-25,240440,True,Great stuff from Blendo!
-2016-07-25,304430,True,Yus
+posted,item_id,recommend,sentiment_analysis
+2016-07-25,240440,True,2
+2016-07-25,304430,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-15,4000,True,This game i gotta say the best sandbox game there ever is! This sandbox game allows you to make any creation or any form of art like posing ragdolls and taking a screen shots of them! This game is very creative i highly recommend this game if you want to create.
-2015-03-21,248570,True,Best game of decaptation! I kinda accidentaly ripped my legs off and my opponent just ripped my head off!But good game!10/10
-2015-03-14,346120,True,"Pretty good game its nice and simple and addicting once played. Theres some server bugs here and there, for example connection times out whenever you try to connect onto a server and some TPC errors when you try to connect onto a server. I cant even connect into a server anymore because of those. But i recommend you to play this game its a simple gun game."
+posted,item_id,recommend,sentiment_analysis
+2014-01-15,4000,True,1
+2015-03-21,248570,True,2
+2015-03-14,346120,True,1

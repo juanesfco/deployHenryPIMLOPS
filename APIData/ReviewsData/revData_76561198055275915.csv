@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-12-04,225540,False,"In its current state, I can't recommend this game. I can play BF4 at ULTRA getting 50-60 FPS, but this game is unplayable with everything on low. Yes, I am impacted by the AMD glitches, and yes, I updated to beta drivers, it doesnt work. I can't even get past the first level because of how laggy it is. I dont care about NVIDIA waveworks, and hairworks, and gameworks, whatever. The game should work just as well on all systems, and its like Avalanche completely forgot AMD existed. The 'Quality Assurance' manager is a bit of a joke considering how unplayable this game is. Do not buy it until it is fixed."
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,225540,False,0

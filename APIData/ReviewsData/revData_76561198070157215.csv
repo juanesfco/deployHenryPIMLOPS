@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-16,368340,True,An awesome game that I see plenty of potential in. Right now this game is already amazing and I look forward to what they do with the game in the future.
-2016-05-16,391540,True,From playing this game from start to end I have to say that this game was truly worth my time. I don't think that I will find a game that truly makes me feel the same way that Undertale did for a long time. So if you have enough money I would recommend buying it. It's worth your time and I also recommend going into the game without knowing a thing about it.
+posted,item_id,recommend,sentiment_analysis
+2016-07-16,368340,True,1
+2016-05-16,391540,True,0

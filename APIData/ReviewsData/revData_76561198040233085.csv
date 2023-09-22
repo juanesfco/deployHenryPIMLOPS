@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-22,299660,True,A simple idea for a game but one of the most enjoyable games I have ever played. It is as much as game as it is an experience with the 'spacey' music it has. This game is a couple of dollars well spent.
-2015-07-11,234630,True,"There are games that do certain things better but imo this is the best overall. I mainly played GT series on PS before pCars. Anyone that says you can't play with M&K or controller is just being an idiot you can play fine with them. Pros:The best racing game I've played in terms of:Graphics,Sound,Tracks.Cons:Lack of cars,AMD runs poorly on Ultra (just turn particles to low, fixed it for my friend at least.)"
+posted,item_id,recommend,sentiment_analysis
+2014-09-22,299660,True,1
+2015-07-11,234630,True,2

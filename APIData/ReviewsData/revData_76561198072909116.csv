@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-20,241930,True,"This game never gets old. There is so much to do. I didnt even touch the story mode when I first got it, because I just couldnt stop hunting captains and war cheifs and things like that. I have around 80 hours and I have only 84% on the game.If you want a game that is fun, challenging and also time consuming Middle-earth: Shadow of Mordor is for you!"
-2015-08-06,253030,True,I downloaded Race The Sun for free when I saw my friend playing it. I am glad I did. The game is stunning and very addictive. I have intalled it on my school laptop to play in spare time. Race the sun is a great time killing game. A game to play after a hard day.
-2015-01-15,310370,True,This game was wonderfull just the simpleness of the game just moved me. Fantastic.
+posted,item_id,recommend,sentiment_analysis
+2015-06-20,241930,True,1
+2015-08-06,253030,True,1
+2015-01-15,310370,True,0

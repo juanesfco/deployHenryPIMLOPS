@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-08,550,True,"Left 4 Dead 2 is not a horror game. But, it makes up for that because Left 4 Dead 2 is fun (especially with friends and mods), has a lot of replay value (with new campaigns, L4D campaigns and mods) and is super ♥♥♥♥ing bloody (thanks Government)."
-2014-07-07,224280,True,Good for starters.
-2014-06-17,620,True,For all that owns a MacBook ProBe warnedIt's blurryBut this game is awesome and it's best if you give it a go. :)
-2013-09-09,104600,True,"This could be the cheapest game on Steam. Well, it's not a game... whatever At least it's cheap as."
-2013-09-09,50,True,You want a decent Half-Life 1 game that's cheap? Get this.
+posted,item_id,recommend,sentiment_analysis
+2015-11-08,550,True,1
+2014-07-07,224280,True,2
+2014-06-17,620,True,2
+2013-09-09,104600,True,1
+2013-09-09,50,True,1

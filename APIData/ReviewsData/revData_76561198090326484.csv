@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-06-02,570,True,Mt Massa
-2013-12-12,8930,True,Um jogo de estrategia bom ...
+posted,item_id,recommend,sentiment_analysis
+2013-06-02,570,True,1
+2013-12-12,8930,True,2

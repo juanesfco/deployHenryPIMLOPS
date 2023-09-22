@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-10,216250,True,Quite fun as i played this on free weekend
-2014-02-08,49520,True,quite fun at the start
-2014-02-06,8930,True,:D yes its great
+posted,item_id,recommend,sentiment_analysis
+2014-02-10,216250,True,2
+2014-02-08,49520,True,2
+2014-02-06,8930,True,2

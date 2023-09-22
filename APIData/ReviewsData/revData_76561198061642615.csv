@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-24,364360,True,"This is probably one of the best Total War games on launch. I was able to get into the game fine (I've read about some people not being able to launch the game or getting a black screen, but it's expected that there would be some sort of bugs on launch). Optimisation is the best out of any game released by CA. I've got nearly all of the most recent games in my library, and it is definitely the best performing. The battles are awesome, magic animations look absolutely amazing and cavalry charges are the best I've ever seen. One of the most well polished triple A games I've seen for a very long time. Kudos to CA and well worth the wait!"
-2015-04-15,300080,True,"Having played the game briefly and read quite a few of the reviews, I felt like I needed to point out that the game, while under the badge of a Total War game, is not what hardcore fans would expect of a game under this title. This is not a negative thing, and I quite enjoyed playing the game, due to the simplicity of it. It is on a level of Clash of Clans or the like, and appeals more to the casual gamer, then to that of a hardcore Total War fan. I found it enjoyable to play, as I'm a huge fan of most games in a Medieval period."
+posted,item_id,recommend,sentiment_analysis
+2016-05-24,364360,True,2
+2015-04-15,300080,True,1

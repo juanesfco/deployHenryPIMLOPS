@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-24,51100,True,Крутяк
-2015-05-30,440,True,еееееееееекрутая игруха!!!!!!!!!!!!!!!!!!
-2014-10-30,224540,True,щ07 н
+posted,item_id,recommend,sentiment_analysis
+2016-06-24,51100,True,1
+2015-05-30,440,True,2
+2014-10-30,224540,True,1

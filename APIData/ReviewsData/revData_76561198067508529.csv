@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2013-02-21,570,True,Best RTS game out there IMO. Simply fantastic.
-2016-08-25,381210,False,what the ♥♥♥♥ is wrong with the match queues?? i can't find a match as a 2-man without attempting at least 15 times. fix this ♥♥♥♥ please
-2014-11-28,47920,False,"I had high hopes for Shift 2 but NOPE, EA just had to F!CK IT UP! 0/10. The handling is equivalent to driving a f!cken BULLDOZER on a racetrack.. and on top of that, the compatibility is just crap. Crashes every start up. Validating file integrity will NOT help!! ♥♥♥♥ GAME!!!"
-2015-11-09,115320,True,"blow sh!t up, rip brawlers apart, eat zambies, turn your arm into a blade... 10/10 ok :)"
-2015-11-09,55230,True,blow sh!t uuuuppp! hell yeah :)
-2015-06-14,242760,True,"FKN LOVE THIS GAME!! the atmosphere, theme, setting! cannibals scary af though :(hopefully more elements are added consisently through development!! still fun :)"
-2014-12-30,233130,True,"2Fun.. srsly,"
-2014-03-08,264200,True,"Very fast paced game. Fun, intense and everything you'd want in a stickman based game!"
-2013-12-07,1250,True,It's all about the co-operation or you dead fo' sure. Well-made slow-mo kill effects. Overall fun game!
+posted,item_id,recommend,sentiment_analysis
+2013-02-21,570,True,2
+2016-08-25,381210,False,0
+2014-11-28,47920,False,0
+2015-11-09,115320,True,2
+2015-11-09,55230,True,2
+2015-06-14,242760,True,1
+2014-12-30,233130,True,1
+2014-03-08,264200,True,1
+2013-12-07,1250,True,1

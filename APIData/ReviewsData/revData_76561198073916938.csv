@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-08-15,730,True,The first competitive game I played someone told me to kill myself.10/10
-2015-05-04,6060,True,rip multiplayer
-2016-07-24,496920,True,"Scroll up, dont read ♥♥♥♥, dont watch ♥♥♥♥ and DO NOT PAT THE ♥♥♥♥ING SHEEP! 666/10 tho"
-2015-04-29,220200,True,Scott Manly simulator 2015
-2014-04-13,277430,True,"This game is a perfect showcase of what a mobile port should be. The graphics have been amped up, the music score is incredible, the gameplay feels true and halo-like and all the dirty discusting micro transactions have been thrown out. Buyers should know that there are no micro transactions and thier is full controller support. Also the fact that this is single player only (with daily challenges to keep longjevity). Great game, sadly there is no multiplayer, buy it to show microsoft that we want Halo 3 on PC!"
-2016-08-14,379720,True,"♥♥♥♥, YES!"
-2015-12-31,235460,True,"This is a memeAlso, ♥♥♥♥ U SAM IT TOOK ME 200 AND 73 ATTEMPTS TO BEAT U WTF10/10"
-2014-01-20,244850,True,This game is amazing its like minecraft in space and I hate calling it that because its awesome would reccomend buy it :D
+posted,item_id,recommend,sentiment_analysis
+2014-08-15,730,True,1
+2015-05-04,6060,True,1
+2016-07-24,496920,True,1
+2015-04-29,220200,True,1
+2014-04-13,277430,True,2
+2016-08-14,379720,True,1
+2015-12-31,235460,True,1
+2014-01-20,244850,True,2

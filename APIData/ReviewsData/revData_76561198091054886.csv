@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-18,322330,True,"A Good Survival Game , That's What I Can Say"
-2016-04-07,440,True,Best Free Game I've Ever Played!!!!! :D
+posted,item_id,recommend,sentiment_analysis
+2016-08-18,322330,True,2
+2016-04-07,440,True,2

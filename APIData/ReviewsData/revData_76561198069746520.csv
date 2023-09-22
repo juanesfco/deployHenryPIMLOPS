@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-26,570,True,So many russians♥♥♥♥♥ ♥♥♥♥/10
-2013-12-03,212180,False,"Rubbish copy of Counter Strike which is a good game but they have ruined it. Hate this game worst graphics worst lag no australian servers WTH this is what to expect from most F2P games there are some exceptions (TF2, Dota 2, Raceroom Racing Experience, Blacklight Retribution, Not many more :( ) 0.5/10 horrible game dont waste your time downloading buy Counter strike (any version) and you will be way more satisfied"
-2013-09-07,96300,True,"Great with friends fun solo, zombies mode is the best"
-2014-02-11,22000,True,"really good indie game, a break from AAA titles"
+posted,item_id,recommend,sentiment_analysis
+2014-05-26,570,True,2
+2013-12-03,212180,False,0
+2013-09-07,96300,True,2
+2014-02-11,22000,True,1

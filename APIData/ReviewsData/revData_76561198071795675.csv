@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-12,247120,True,"If you have Portal 2, DOWNLOAD THIS ALREADY!!!! IT IS EPIC!!!I think these controls are easier than just a plain old mouse and keyboard, screw the mosue USE YO HAND!!!"
-2013-12-18,241640,True,"haunted memories may be a better remake of haunted the real slender, but it has higher quality and quite a lot better story line"
+posted,item_id,recommend,sentiment_analysis
+2014-07-12,247120,True,1
+2013-12-18,241640,True,2

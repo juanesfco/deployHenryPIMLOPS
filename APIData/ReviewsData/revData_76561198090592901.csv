@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-01,375950,True,> Names plant 'young child'> Names snail 'Jared Fogle'> Waters plant> Waters snail> Jared Fogle is wet
-2015-02-19,304930,False,it's like minecraft
-2014-11-29,440,False,Pros of the game:- fun times- hats- bread- international- competitiveCons of the game:- Pay to win game- Its community- Its economy- broken hitregs- at times too competitive
-2015-09-08,359050,True,i don't even have a shower
-2015-02-15,72850,True,I tried to kill a dragon but it glithced through the ground and died10/10 would bug again
+posted,item_id,recommend,sentiment_analysis
+2015-09-01,375950,True,1
+2015-02-19,304930,False,1
+2014-11-29,440,False,1
+2015-09-08,359050,True,1
+2015-02-15,72850,True,1

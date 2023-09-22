@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-10,292120,False,facepalm
-2015-11-24,311730,False,"juego muy bueno pero el online es un chiste ,ni puedes invitar amigos, ni crear sala  ,tarda muchisimo en encontrar partida .no lo recomiendo nada si tienes pensado jugar online este no es tu juego"
-2015-08-04,730,True,el cambio de servidores españoles muy bueno cambio a positivo mi voto
+posted,item_id,recommend,sentiment_analysis
+2014-10-10,292120,False,1
+2015-11-24,311730,False,1
+2015-08-04,730,True,2

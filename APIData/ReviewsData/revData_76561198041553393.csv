@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-05-30,243470,True,"Great game, even if there are a few problems. Popping seems to be a big issue and have caused me to crash on many occasions. The graphics are also not as good as they could be but things like the lens flares and water look really cool. The weapon sounds feel a little weak, as if they all have silencers. Hacking people's bank accounts is a bit overpowered, seeing I almost got $100 000 within half an hour of just hacking. Side missions are great. Story is very interesting. The atmosphere is, in my opinon, the best thing about the game."
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,243470,True,2

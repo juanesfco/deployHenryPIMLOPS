@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-15,730,True,This game ruined my life. 8/10
-2015-12-26,63380,True,"the multiplayer on SEA Servers is unstable, but that's okay"
-2015-07-06,333930,True,"absolutely pay to win, 5 dollars for a single case? but hey it's free nothing to worry about it."
-2015-06-17,204450,True,"A game without Uplay, absolutely fantastic with wild west action shooter, gonna shoot some bad guys in the wild west now, one of the best action shooter games i've ever play.+Good shooting mechanics+The graphics are good+Good storyline+Nice Cel-Shading+Bullets dodging is fun+Wild west Atmospher+Explosions and Gore!+Quick draw is fun+Good Narrations+Nice combo system9/10!!!"
+posted,item_id,recommend,sentiment_analysis
+2015-08-15,730,True,0
+2015-12-26,63380,True,2
+2015-07-06,333930,True,2
+2015-06-17,204450,True,1

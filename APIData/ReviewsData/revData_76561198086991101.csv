@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-25,233250,False,"Was a very good game during BETA,Unless planetary weapons have been balanced, such as the planet-destroying laser, the game is lopsided.Would Not recommend unless changes are made, as initial leader in unit fabrication will most likely develop this planet laser first. As the weapon has no use limit, you are free to destroy every planet until the enemy command comes to your planet.I wish the beta was back :("
-2015-01-11,222880,True,"-11/10 IGN ' Like Call of Duty, but with guns '"
-2013-04-03,212680,True,"Very fun to play, but what ever you do, DO NOT GET INVESTED IN THE GAME! IT WILL E THE END to you and your PC! (Collateral Damage)"
-2013-04-03,570,True,"If you like games that are full of action, bursting with Magic or just a great awesome MMO, Dota 2 by Valve is an AWESOME game for YOU!"
-2013-03-25,220200,True,"Great Game if you love Science, Explosions or Building Random stuff that can blow up in your Face!"
+posted,item_id,recommend,sentiment_analysis
+2014-12-25,233250,False,1
+2015-01-11,222880,True,1
+2013-04-03,212680,True,0
+2013-04-03,570,True,2
+2013-03-25,220200,True,1

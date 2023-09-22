@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-01-15,332800,True,"Nice, fun and scary game well made."
+posted,item_id,recommend,sentiment_analysis
+2015-01-15,332800,True,1

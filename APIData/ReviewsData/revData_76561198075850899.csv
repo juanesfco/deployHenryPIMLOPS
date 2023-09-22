@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-15,218230,True,"Compared to the stunning trailer, the gameplay graphics look like they've been drawn by a dyslexic, blind 4-year-old! Still, a great game and definitely worth downloading!"
-2014-07-26,91600,True,ye bruh
-2014-07-18,224260,True,its fun
-2013-12-13,227300,True,"Really fun. there's also a multiplayer, apparently."
+posted,item_id,recommend,sentiment_analysis
+2015-08-15,218230,True,2
+2014-07-26,91600,True,1
+2014-07-18,224260,True,2
+2013-12-13,227300,True,2

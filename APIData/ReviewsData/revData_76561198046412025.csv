@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-30,310380,False,"Stuck in some kind of server limb. Everythign is black, i can see my ship and some other ships in the blackness. I can shoot my cannons and stuff but my whole HUD is gone and im stuck. I've been like this, logigng on and off of the game, steam and restarting my computer but im still stuck in this limbo. I can't jon a new game because it keeps saying i have to rejoin this perpetual game thats beign going on for hours."
-2015-08-22,252950,False,Logged in one day and all my progress was lost because of  'corrup save files'? **** off I paid 20 dollars for a broken game?
-2014-10-24,730,False,Actually such a ♥♥♥♥♥♥ ♥♥♥♥ing  game. Every game has a hacker you guys ♥♥♥♥ing suck ♥♥♥♥.
+posted,item_id,recommend,sentiment_analysis
+2016-01-30,310380,False,1
+2015-08-22,252950,False,0
+2014-10-24,730,False,0

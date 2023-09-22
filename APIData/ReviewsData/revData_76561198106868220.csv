@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-23,242920,True,All of my yes. ;3;
-2013-12-21,400,True,Deepest puzzle game I've ever played. Intense storyline and constantly challenging your ability to solve problems. And kill psychpathic robots. 10/10 would recommend.
-2016-02-12,397430,True,My childhood revisited. Yes. All the yes. <3
-2015-12-11,346110,True,"Game of the Year 2k15 or riot!Seriously, I've had no major issues with this game that haven't been fixed or that aren't being looked at by the devs already. I have never seen a dev team so open and dedicated as Wildcard. This game is by far my favourite of all time, a title that hasn't changed even once since I was a child.With more and more content released every week or two and the tweaks and optimisations along with it, I have the utmost respect for the team and this amazing game that they've made.ALSO: RIDING YOUR DINOS. SERIOUSLY. <39001/10"
+posted,item_id,recommend,sentiment_analysis
+2014-02-23,242920,True,1
+2013-12-21,400,True,1
+2016-02-12,397430,True,2
+2015-12-11,346110,True,1

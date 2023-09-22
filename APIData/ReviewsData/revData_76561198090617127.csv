@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-10-07,730,True,"CS: GO is a really fun game, especially when your playing competitive mode "
-2014-03-25,440,True,"This is a great game to play with friends, you will find yourself playing that game over an hour as i have witness that because its a game in my opinion to get distracted and only concentrate on the game"
-2014-01-13,6060,True,"Star Wars Battlefront II is my greatest childhood video game ever. This is the best shooter game in my opinion, buy it and play with me and have fun :D. If you like playing story modes/campaigns then this is the game for you. You start off playing as the Grand Army Of The Republic, go through classical battles like Kashyyyk, when you fight a long side the wookies to destroy the Droid Army. After when you play as the Republic you now have turned to the Galactic Empire and fight againt the Rebels to have peace and justice in the galaxy. I won't spoil too much of the game because otherwise ou would probably won't play it because you know what it is about. Now the Multiplayer, Multiplayer is only on PC, I dont think it has multiplayer on the consoles. But anyways if you are the kind of person who likes to play online, then i recomend this game to you. in Multiplayer mode you are able to play as Jedi's/Sith if you get the most kills. Your able to fight in space battles which is pretty good."
-2014-08-19,239820,True,"Game Dev is literally one of the funnest games I've ever played and I really Recommend it to people. You make games, build your own consoles and other good things. Its really fun if your playing with your friends so you can see who can survive the longest in the game before you get bankrupt.                                                                         I rate this game 10/10"
-2014-06-30,49520,True,"Borderland 2 is one of my favourite PC games, it is massively fun and I really recomend it to people who like fps"
-2014-06-30,10500,True,Empire Total War is a great game if you like strategy war type's of games.
-2013-11-11,10180,True,Call of Duty Modern Warfare 2 is a great game!
+posted,item_id,recommend,sentiment_analysis
+2014-10-07,730,True,1
+2014-03-25,440,True,0
+2014-01-13,6060,True,2
+2014-08-19,239820,True,1
+2014-06-30,49520,True,2
+2014-06-30,10500,True,2
+2013-11-11,10180,True,2

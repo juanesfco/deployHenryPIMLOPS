@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-30,310380,True,Great game considering its in early stages  but half the time i cant play due to crashing as soon as i join a server
-2014-04-14,226700,False,"During night, you have a execution hood over your head so its not exactly easy to see, well you cant see. The open world enviroment makes you feel really intense, as you can therefore be killed by it!I never even tried to get to town because i was scared a zombie was gonna hit me 10 meters away since thats what they did in last time i played in fact they most likly have'nt fixed any of the bugs since there are so many still around  a good example is that while i was trying to find a torch so i might be able to play the game i walked into a tree that some how killed me if i knew trees would slay you i wouldnt of even tried to play the game again dont even get me started on other players."
-2015-04-19,40100,True,This game is every thing i was wishing for its flawless gameplay combined with not being hard to learn plus this game gets straight to the point which makes it a excellent choice for someone who likes to have fun instead of spending  10 minutes trying to figure out what everything does. As of yet while im still learning the game in many ways i have not won a single   1 v 1 match and the community is rather small but they are friendly and easy to get along with apart from one guy who was raging over the fact i was using strategy in a strategy game. If u get this game and cant find a player match bot matches are fun with a smart ai that makes you think your opponent is a human player although i recomend trying to get a friend to play this game with as the game is much more enjoyable with friend to play it with.
-2014-04-08,570,True,Dota 2 is a top down MOBA {Multiplayer Online Battle Arena
-2012-05-15,440,True,its a fun team first person shooter with lots of different classes
+posted,item_id,recommend,sentiment_analysis
+2015-01-30,310380,True,1
+2014-04-14,226700,False,1
+2015-04-19,40100,True,1
+2014-04-08,570,True,2
+2012-05-15,440,True,2

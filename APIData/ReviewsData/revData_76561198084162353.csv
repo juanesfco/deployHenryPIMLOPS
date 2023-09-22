@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-02-24,215080,True,BONTA 4EVER!!!!!!!!!!!
-2014-04-26,243870,False,esta lleno de hackers y es demaciado pay to win.
-2014-02-01,208090,True,"esta muy bueno lo recomiendo, tiene muchas MUCHAS parte para mejorar tu arma y mejor aun no nesesitas pagar nada de tu bolsillo para personalizar solo te dejan usar el dinero para personalizar a tu personaje.esta bueno lo recomiendo a todos :3"
-2014-01-16,440,True,:D
-2014-01-11,113400,True,si esta bueno :D
+posted,item_id,recommend,sentiment_analysis
+2016-02-24,215080,True,1
+2014-04-26,243870,False,2
+2014-02-01,208090,True,2
+2014-01-16,440,True,2
+2014-01-11,113400,True,2

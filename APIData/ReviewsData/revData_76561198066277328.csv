@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-01,570,True,"One of the best . DotA is like an amazing chess game and soccer , strategy, teamwork, and hours of fun.'It's for  all of us ' ~Teechies"
-2016-07-05,219150,True,"PLAYED JUST ONE HOUR .... AND DAWG , THIS GAME IS AWESOME AS HELL , SUCH  AWESOME  AS DRIVING A BIKE IN HELL"
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,570,True,2
+2016-07-05,219150,True,2

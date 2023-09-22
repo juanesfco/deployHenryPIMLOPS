@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-07,281990,True,"Stellaris, in its current state, is what can be best described as the bones of a game that has great potential, and, once fleshed out, would be shining example of Grand Strategy. Despite this, i still find myself playing this game for hours on end, and with the help of the huge array of mods available through the steam workshop, you can make Stellaris just that bit more beefy. If your a fan of the genre, than this game is definatley worth it."
-2015-11-10,377160,True,"Not sure whats with all the negative reviews, game runs fine despite a few minor problems, and cant wait to to continue playing."
-2016-01-02,391540,True,like paying 8 dollars to have your emotions gang-♥♥♥♥♥ and dumped in a alley. worth it.
-2015-12-22,292030,True,"Probably one of the best games ive ever played, no wonder it got game of the year."
+posted,item_id,recommend,sentiment_analysis
+2016-08-07,281990,True,2
+2015-11-10,377160,True,0
+2016-01-02,391540,True,2
+2015-12-22,292030,True,2

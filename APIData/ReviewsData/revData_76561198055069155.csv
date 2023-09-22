@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-25,49540,True,Can't wait for the game of the year edition.
-2016-08-12,275850,False,Game barely runs on my computer and I have a GTX 980 but graphics aside the game itself is boring as batshit.
-2014-06-14,201810,True,"Wolfenstein: The New Order is a surprise on every level. I obtained the game through perhaps unethical means to try it because why not, after a decent first mission i was intrigued but where the game truely got me was when i put my controller down in title sequence. Every cut scene is filled with more cinematic flare than most movies these days and the gameplay complies thematically, it's such an effective combination i purchased the game legally after but a few missions. This game is really fun to play but so are alot of games, what sets Wolfenstein: The New Order apart is that its story doesn't interupt the fun, but instead adds a great deal to it. Do buy this game."
-2014-01-07,206420,True,AWWW ♥♥♥♥ YEAH
-2013-11-25,242050,True,SO FUN AND SOOOOOOOOO PRETTY :)
+posted,item_id,recommend,sentiment_analysis
+2014-01-25,49540,True,0
+2016-08-12,275850,False,0
+2014-06-14,201810,True,2
+2014-01-07,206420,True,2
+2013-11-25,242050,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-11,207610,True,My soul was crushed by this game.10/10 would break down crying again.
-2015-06-30,230050,True,Master of Day 1 DLC10/10 would buy DLC again
-2015-06-13,440,True,My TF2 Experience in a Nutshell:Jumps across the map using sticky bombsGets a kill with a hamshankGets covered in urineHead get's decapitated by a golf club.11/10 would be covered in urine again.
-2015-03-23,72850,True,"I highly reccomend this to anyone who wants to have a good ol' fantasy adventure, mods allow the player to customize their game to what they want.And remember the saying: 'mod it till it doesn't run!'"
+posted,item_id,recommend,sentiment_analysis
+2016-01-11,207610,True,0
+2015-06-30,230050,True,1
+2015-06-13,440,True,1
+2015-03-23,72850,True,2

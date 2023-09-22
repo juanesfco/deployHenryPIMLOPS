@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-01,265930,True,Awesome... thats all I can say
-2015-01-01,4000,True,This game is insaneBut fun at the same time
-2015-01-01,219740,True,"Hard to start, but love the consept"
-2014-11-24,440,True,This game is just awesome
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,265930,True,2
+2015-01-01,4000,True,1
+2015-01-01,219740,True,2
+2014-11-24,440,True,2

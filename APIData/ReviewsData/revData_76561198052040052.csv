@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-21,346110,True,Like Rust with Dinasaurs
-2015-05-16,271590,True,This is one of the greatest games I have ever played. Highly recommended.
+posted,item_id,recommend,sentiment_analysis
+2015-06-21,346110,True,1
+2015-05-16,271590,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-10,233610,True,Wow
-2013-11-30,214950,False,Very dissapointed. Game is too easy. Graphics options do not make a difference as i can run it on extreme at 45fp and on low at 50 fps with no visual difference. Ai is idiotic. Made the mistake of buying it on release.
-2015-07-09,252950,True,wow
+posted,item_id,recommend,sentiment_analysis
+2015-02-10,233610,True,1
+2013-11-30,214950,False,1
+2015-07-09,252950,True,1

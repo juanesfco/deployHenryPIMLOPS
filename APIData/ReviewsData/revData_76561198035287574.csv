@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-01,72850,True,"If you've played a game, you should know that Skyrim is amazing. Definitely a game to play before you die."
-2016-01-20,266110,True,"Awesome game, fits me perfectly. It's got the rogue-like feel of the Binding of Isaac but it's an FPS. I love it."
-2015-12-07,409670,True,"It's free, quick download, it's about an hour of fun (if you go for the hard mode victory). Yeah, I recommend this. Nice music too :)"
+posted,item_id,recommend,sentiment_analysis
+2015-12-01,72850,True,1
+2016-01-20,266110,True,2
+2015-12-07,409670,True,2

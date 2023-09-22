@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-18,236450,True,"Addicting, score whoring fun!"
-2015-01-14,40800,True,"22kg of meaty fun! This game is charming, very challenging and has a nice amount of replayablity with hidden levels and custom levels. What are you waiting for? Time to kick some fetus in the pants and save Bandage Girl!"
-2015-01-14,250180,True,"So many cheap deaths, I would have hated to play this in an arcade. This game was made for one true purpose, to take peoples money. Would play again!"
-2015-01-10,241600,True,"A fun, challenging rouge-like game that offers lots of diversity and replayability. The way the game manages character deaths and the level up system is both refreshing and unique. The art style is simple but charming. This game will likely appeal to fans of other rogue-like games , for example Binding of Isaac. I thouroughly recommend this game to those of you who enjoy a challenge or are fans of action, RPG, and rogue-likes. Would play again 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-08-18,236450,True,2
+2015-01-14,40800,True,2
+2015-01-14,250180,True,1
+2015-01-10,241600,True,1

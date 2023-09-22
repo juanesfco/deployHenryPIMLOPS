@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-16,234650,True,Love the game so far but it keeps crashing after the Holmes and Pietzel fight. Probably a problem on my side and would reccomend regardless
-2015-08-19,1510,True,Love the idea but having graphical problems that make it unplayable. Probs just going to stick with Hacknet for now and refund this.
+posted,item_id,recommend,sentiment_analysis
+2016-06-16,234650,True,1
+2015-08-19,1510,True,1

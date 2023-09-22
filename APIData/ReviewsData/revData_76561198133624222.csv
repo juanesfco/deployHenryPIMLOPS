@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-24,238320,True,"One of the best horror games ive ever played, has you on edge the entire way through! 10/10"
-2016-04-04,19680,True,"fun game, pretty ♥♥♥♥ed up but is awesome! 10/10 would bang!"
-2016-03-14,386360,True,"Not as easy as people think it is, requires some skill and practise, really fun, lots of kill stealing ♥♥♥♥♥♥♥s, but overall great game, 10/10 would smite again!"
-2016-07-22,323470,True,my dream of becoming a super saiyan is true!! 10/10 would destroy eveyone as Beerus again because they stole my pudding!!!
+posted,item_id,recommend,sentiment_analysis
+2014-09-24,238320,True,2
+2016-04-04,19680,True,2
+2016-03-14,386360,True,2
+2016-07-22,323470,True,2

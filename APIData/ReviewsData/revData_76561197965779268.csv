@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-20,234650,True,"AN excellent adaptation of Shadowrun rules, if you like isometric, RPG's you will love this, magic, cyberwrare, guns, a robust editor is also included to flesh out your own adventures HIGHLY RECOMMENDED"
-2015-07-09,333930,True,"If you enjoy a shooter, with some good old objective based play then give this a try. Over the years I have played them all but seem to find Dirty Bomb a breath of fresh air. The Mercs are fun, the loadout system is unique, the Devs (Splash Damage) and Publishers (Nexon) are really enthusiastic and supportive of the community as well as willing to listen to the players in shaping the game. In the end its FREE its FUN and I HIGHLY RECOMMEND"
+posted,item_id,recommend,sentiment_analysis
+2014-03-20,234650,True,2
+2015-07-09,333930,True,2

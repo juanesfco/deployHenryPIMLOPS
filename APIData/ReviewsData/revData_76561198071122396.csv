@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-02-21,440,True,Convinced me to put over $100 dollars in my steam account and basically waste it on dress upsThere's also some fighting 10/10Would recommend to friends and family
-2015-10-25,346010,True,I love this game I made a car called the Allah Akbar
-2016-02-21,377160,True,Glitches to the skybox then fell for 15 seconds and survived 10/10 most realistic skydiving simulator 2015
-2016-08-29,521570,True,kill me.
+posted,item_id,recommend,sentiment_analysis
+2016-02-21,440,True,0
+2015-10-25,346010,True,1
+2016-02-21,377160,True,2
+2016-08-29,521570,True,1

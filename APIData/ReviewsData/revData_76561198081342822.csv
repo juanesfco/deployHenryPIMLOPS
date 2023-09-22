@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-27,221100,False,"I know I will get alot of hate for saying this, but this game.. is the BIGGEST PILE OF ♥♥♥♥ EVER, it is nowhere near finished, zombies still dont drop anything, zombies still walk through walls, and doors, and everything else, and of course the millions of annoying new features they add instead of fixing the zombie issues, like how about.. freezing to death, while bleeding to death, while starving to death, while being chased by zombies who hit you from 10 feet away, and also take around 100-200 hits to kill because most of those hits either miss, dont do anything, or are weakened because your weapon decides that it wants to take a break and sends your fists out instead."
-2014-10-10,214490,True,"Alien: Isolation..You would think that this game would be either a lag-fest, or another Colonial Marines, but not at all.Alien: Isolation is a really good game in my opinion, they don't send enemies at you too early, and if they do, they are easy to outrun or hide from, or possibly take them out one by one, lots of cool gadgets and tools to help you get around Sevastapol.Buy this game, even my craptop can run it without lag."
-2014-07-30,107100,True,"Loved the game, loved the soundtrack, still love the game, still love the soundtrack, I can say the only person I wouldnt reccommend this game to would have to be somebody I loathe, this game is worth every cent, buy it!"
-2014-03-15,233470,True,"Great game, worth buying, I wish I could purchase the soundtrack, it is amazing, its fun, but it really could be longer, I was quite dissapointed to see how short it was. If you like, Pokemon, Final Fantasy, Dragon Quest, or Legend Of Zelda, you might enjoy this."
+posted,item_id,recommend,sentiment_analysis
+2014-10-27,221100,False,0
+2014-10-10,214490,True,1
+2014-07-30,107100,True,2
+2014-03-15,233470,True,2

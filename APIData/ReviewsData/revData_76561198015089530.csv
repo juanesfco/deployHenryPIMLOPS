@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-08,265930,True,I wanted to be a banana when I was little. I played this and now I want to be a goat.
-2014-02-21,209080,True,"Incredibly fun game. Airship combat featuring 2v2, 3v3 and 4v4 team based gamemodes of Deathmatch and King of The Hill. Frequented by community ambassadors who will teach people anything they need to know, this game is easy to learn but hard to master. Always being updated with new content and bug fixes, and the devs are very active within the player base as well. There are ALWAYS people playing this, so it doesn't matter where you live, you can always find a game to jump into. Most people have microphones too, so don't be afraid to engage in some crew banter to make everyone's jobs easier.If you love being involved in quality teamwork where every person makes a difference, consider picking this game up and playing with your close friends or make some new friends to regularly experience the joy of blowing someone else's ship up. Join a clan or fly solo, make a name for yourself, and become the most feared airman of the skies!"
+posted,item_id,recommend,sentiment_analysis
+2014-04-08,265930,True,0
+2014-02-21,209080,True,1

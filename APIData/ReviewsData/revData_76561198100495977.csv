@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-22,365300,True,"Jogo bonito... jogo formosoVale mt a pena jogar, pode ser curto mais vale a pena"
-2016-04-01,304930,True,"Ótimo jogo, bom pra joga com os brother e mata eles tbm :)"
-2015-04-11,346900,True,"è bom para passar o tempo gostei dele, daria uma nota 9/10"
+posted,item_id,recommend,sentiment_analysis
+2016-06-22,365300,True,2
+2016-04-01,304930,True,2
+2015-04-11,346900,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-18,342200,True,EVERYONE!!!  GET IN HERE!!!Solid 8.5/10Pros: Has mechsCons: long ♥♥♥ wait times in 2-4 person groups.
-2014-02-12,271290,True,"Its what you get when you jam Mechwarrior, all twitch shooters, Counter Strike and gunzerking in Borderlands 2 in too one VERY good F2P shooter."
-2015-04-10,244850,True,"The most relaxing game you can play by yourself, the way i play it anyway."
-2014-02-10,208090,True,9/10 - NEEDS BIGGER GUNS!!!!
+posted,item_id,recommend,sentiment_analysis
+2015-12-18,342200,True,1
+2014-02-12,271290,True,2
+2015-04-10,244850,True,1
+2014-02-10,208090,True,1

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-01,570,True,"Sla, acho q LoL é melhor, mas vai de gosto, né... Mas recomendo mesmo assim."
+posted,item_id,recommend,sentiment_analysis
+2014-12-01,570,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-30,4000,True,"Overall such a great game. Sandbox : Great and Fun to learnMultiplayer: So many gamemodes whether it be Hide n Seek or Death Run. With G-mod the game is fully made to your liking, you can chill out with mates on your favorite gamemode or learn how to build a car on sandbox.The possibilities are endless, unlike this review.10/10"
-2014-11-26,8190,True,"Should You Get This Game? Of courseEven though it came out a while ago? Yes, The Game is equal to if not even better than 2014's latest games.Just Like GTA, except you get a grappling hook and it is MUCH CHEAPER"
-2014-03-09,730,True,Awesome FPS. Wayy Better than COD!
-2013-12-31,440,True,Best Free to play game out there!
+posted,item_id,recommend,sentiment_analysis
+2014-12-30,4000,True,2
+2014-11-26,8190,True,1
+2014-03-09,730,True,2
+2013-12-31,440,True,2

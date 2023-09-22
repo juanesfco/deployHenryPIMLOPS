@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-04,440,True,Tengo armas de pan mutante que gruñen y ladran 10/10
-2015-02-28,31280,True,Aceptalo quieres comprar este juego por los items de team fortress 2...
-2015-02-01,34900,True,10/10 would profit againEncerio solo sirve para ganar dinero con las cartas de resto es horrible se crashea cuando te vas a salir del juego....
+posted,item_id,recommend,sentiment_analysis
+2015-03-04,440,True,1
+2015-02-28,31280,True,0
+2015-02-01,34900,True,0

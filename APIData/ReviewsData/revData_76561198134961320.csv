@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-30,730,True,"This game is very good, i would rate it 7/10 the only problems i have with it is that there are some parts that are a bit unrealistic. However this game is easily one of my favorites and is thoughtfully enjoyable to play."
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,730,True,1

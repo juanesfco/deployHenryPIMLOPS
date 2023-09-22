@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-12,275850,False,"I was afraid this would happen. PC gamers have been screwed a lot on console to PC ports lately. Stuttering issues and brief freezes, even on the lowest settings. I can't play like this.EDIT: Let's just add crashing at certain points to that. Stuttering and freezing fixed itself but now doing things like searching for monoliths at beacons can cause crashes."
-2014-06-28,274190,True,Awesome game. I have just one request. I really hope that you find a way to add a Nicolas Cage character into this game.
-2014-01-02,227300,True,"While it may seem dull to most people, I found this to be quite the interesting game. It's just about accurate to the real thing. I have heard complaints about the car AI but in my opinion, it's still realistic as drivers can be just as braindead in real life.This sort of simulation is not for everyone obviously, but if you're looking for a good simulation about traveling all over different parts of europe, shipping supplies in a truck, there's no better game than this one."
+posted,item_id,recommend,sentiment_analysis
+2016-08-12,275850,False,0
+2014-06-28,274190,True,1
+2014-01-02,227300,True,2

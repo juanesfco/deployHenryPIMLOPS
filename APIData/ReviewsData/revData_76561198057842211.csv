@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-03-21,242760,True,"such a good game, but needs to work on how quick the cannibals arrive to your location and the multiplayer, myself and some friends play the multiplayer but i cant seem to see any sharks or fish"
-2014-11-19,730,True,love it?
+posted,item_id,recommend,sentiment_analysis
+2015-03-21,242760,True,2
+2014-11-19,730,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-06,346010,True,Absolutley loving this game. This has serious potential to become the next Kerbal Space Program
-2013-12-16,259080,True,"The first time I logged into the beta server all those months ago I was greeted with a flaming passenger jet hurtling past my screen. The lag was terrible, shots wouldn't hit anything and the rocket launcher was insanely overpowered. Yet, despite all this I had the most fun I'd had in a game for ages.In the subsequent beta tests the lag became far less noticable and in the prerelease version it was down to no more than internet speed. One should approach this game as something akin to Planetside 2; but as one constant battlefield, with no commander and the ability to spawn a Hercules Jet whenever you want. This game is the embodiment of chaos, and I loved every second of it."
+posted,item_id,recommend,sentiment_analysis
+2015-02-06,346010,True,1
+2013-12-16,259080,True,0

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-01,71340,True,It's not Boom
-2014-11-05,7670,True,Would you kindly play this epic game
-2015-12-28,292630,False,This game is proof that Jesus Christ died in vain and changed his middle name to f**king - AVGN
-2015-09-27,323470,True,"This game is incredible, the best DragonBall Z game in years. Get to play the saga's from the original (and awesome) tv series plus the new film to expand the DBZ universe, you get to customise your character from a variety of different races, statistical perks and mentors. In what other game could you become a Z-fighter which is an interesting approach to make me a little more invested in the game. Pros:+ A unique and interesting campaign+ Elaborate character customization  + Appropriatly styled graphics (suited from the tv series) + Different yet enjoyable gameplay mechanics+ Nostalgia!Cons:- Levels can vary in difficulty (their either too easy or too hard)- Online features don't function properly Inconclusion, as a huge DragonBall Z fan I personally found this game to be very enjoyable and recommend this game to fans alike. 9/10"
-2015-03-14,8870,True,"Just when you thought that first person shooters were becoming stale and generic, it bounces back HARD!! with this epic masterpiece of a game.  Pros:+ A fantastic story + Spectacular visuals and graphics + Excellent voice acting + Beautiful soundtrack+ A surprising superb endingCons:- Gets a little languid during the middle chapters of the game (but not by too much)Verdict:This game has completly set a new standard for shooter games and gaming in general, with an exceptional story combined with spectacular looking visuals makes an extreme combination for a devine experience. While it may not be perfect I would highly rcommend this game to just about everyone (it gets a little violent so sorry kids) who looks for a good qaulity story with a couple hours to kill.  Rating: 9/10    'Call of Duty eat your heart out'"
-2014-09-29,8930,True,Got nuked by Ghandi  10/10 for historical accuracy
-2012-04-29,440,True,"Once upon a time I had a life, then I was intoduced to this marvelous spectacle known as Team Fortress 2 and completely ruined it. This MMOFPS is amazing I've played over 1000 hours so far and can't get enough of it. Team Fortress 2 is an awesome game and is extremely addictive, complete and loaded with action this is a great game for all gamers because it's free. Unique weponary to choose from, intriguing gamplay, customisable characters and multiple game types to play on this game will not disappoint you. 9/10WARNING: side effects of this game may include: having no life  losing money on crates losing friends and obsession for hats"
+posted,item_id,recommend,sentiment_analysis
+2015-10-01,71340,True,1
+2014-11-05,7670,True,1
+2015-12-28,292630,False,0
+2015-09-27,323470,True,2
+2015-03-14,8870,True,2
+2014-09-29,8930,True,1
+2012-04-29,440,True,2

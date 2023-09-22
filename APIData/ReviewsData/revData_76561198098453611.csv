@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-21,440,True,best game ever lots of fun thing to do and awesome maps and updates
-2014-11-14,730,True,it would be good if it launched on my computer but i like it from what i have seen and played on friends computers
-2014-03-18,550,True,i like horses
+posted,item_id,recommend,sentiment_analysis
+2014-01-21,440,True,2
+2014-11-14,730,True,2
+2014-03-18,550,True,1

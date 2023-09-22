@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-15,239030,True,"Great game, innoative and unique. If your a big indie games buff this game NEEDS to be in your collection."
-2016-01-15,233450,True,"If you like those business/tycoon/multi-management sort of games. This might end up being one of your most favourited games. Your aim is to build and maintain a maximum security prison whilst managing your prisoners needs, security, staff and your amount of revenue. Overall it's a great game with lots to do that will have you playing for hours. =)"
+posted,item_id,recommend,sentiment_analysis
+2016-01-15,239030,True,1
+2016-01-15,233450,True,2

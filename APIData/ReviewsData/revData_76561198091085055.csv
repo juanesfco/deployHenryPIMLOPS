@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-06-11,244850,True,Really fun game.
-2016-04-15,394870,True,Really fun! Its alot of enjoyment for under a dollar.
-2015-09-26,301520,True,good if you want to be a future engineer !
-2015-09-23,440,True,10/10 would tf2 again
+posted,item_id,recommend,sentiment_analysis
+2016-06-11,244850,True,1
+2016-04-15,394870,True,2
+2015-09-26,301520,True,2
+2015-09-23,440,True,1

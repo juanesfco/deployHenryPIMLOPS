@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-05-28,221100,False,Zombies kill you in 5 hits.
-2014-03-28,249380,True,"I played the first, second and tdr 200 ( TDR was crap), But this... Oh man this is One and two put together to make this baby, It's pre-alpha and it's amazing to play. 10/10, Buy it.."
-2014-02-27,34900,True,Worst Game Ever. 10/10
-2015-11-03,440,True,i am using hacks
-2012-09-15,4000,True,Great game.
-2014-04-08,9480,True,Better then SR3 and SR4.
-2014-05-17,252490,True,"Caveman ♥♥♥♥♥♥♥ everywhere, I really think they're small."
-2012-12-22,96300,True,"I owned the early Beta and got a free copy, The game is alright but fun."
-2013-10-01,247120,True,This is possibly the worst dlc ever because you need a ♥♥♥♥♥iy kinect like camera
-2014-04-25,286080,True,"7 Minutes of playing, I was still confused. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-05-28,221100,False,1
+2014-03-28,249380,True,1
+2014-02-27,34900,True,0
+2015-11-03,440,True,1
+2012-09-15,4000,True,2
+2014-04-08,9480,True,2
+2014-05-17,252490,True,1
+2012-12-22,96300,True,1
+2013-10-01,247120,True,0
+2014-04-25,286080,True,0

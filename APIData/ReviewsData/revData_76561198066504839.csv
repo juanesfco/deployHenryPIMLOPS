@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-10,393420,True,k
-2015-05-24,104900,True,1. earn 50 0002. buy a helicopter3. crash helicopter 4. exits game5. starts up game again6. repeat8/8 is great
-2015-05-17,730,True,its aight
-2014-11-05,218230,True,It's not COD 0/21 -IGN
+posted,item_id,recommend,sentiment_analysis
+2015-12-10,393420,True,1
+2015-05-24,104900,True,2
+2015-05-17,730,True,1
+2014-11-05,218230,True,1

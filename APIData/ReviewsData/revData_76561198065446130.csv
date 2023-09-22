@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-04,730,True,tfw you kick one person and het a 7 day ban
-2015-01-22,303390,False,The best part of this games is closing it...
-2012-09-02,440,True,Iz good
+posted,item_id,recommend,sentiment_analysis
+2016-03-04,730,True,1
+2015-01-22,303390,False,2
+2012-09-02,440,True,2

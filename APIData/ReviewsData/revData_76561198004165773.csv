@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-02-06,209870,False,"On NBN and after a 6GB install which went smoothly on steam, there's another `4-10gb update which is REALLY slow. A lot of people had the same problem so I tried manual patch, but even those files download at max 70kb/s....do not have patience for this"
+posted,item_id,recommend,sentiment_analysis
+2014-02-06,209870,False,1

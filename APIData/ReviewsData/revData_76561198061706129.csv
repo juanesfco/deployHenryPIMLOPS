@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-08,219740,True,well i did starve
-2015-04-20,730,True,"Its like Skyrim but with guns, russians and BS teamates."
-2015-04-19,4000,True,10/10 
+posted,item_id,recommend,sentiment_analysis
+2015-07-08,219740,True,1
+2015-04-20,730,True,1
+2015-04-19,4000,True,1

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-01-20,218620,True,"such a fun game, lots to do and great with friends"
-2015-01-19,65980,True,"A great game, lots of fun but a bit tedious in the beginning."
-2015-04-07,304030,True,good game in my opinion but needs some more stuff to do 
-2014-12-22,204300,True,so fun but after a wile gets very repetitive but stil very fun
-2015-01-07,233250,True,"Well here is my point of view to this game:- Endless funExplosions, nukes, lasers, canons, torpedoes, missiles, tanks, planes, bots, ships, death stars, moons with thrusters on them, bots and infantry, epic bases, lots of artillery, lots of bombingBasically the ultimate, epic, futuristic, fun RTS game I have played in a wileBut I must say I am WARNING you if you do not like OP STUFF and EXPLOSION'S do not play this game"
-2015-05-28,301520,True,need some work but has great potential
-2015-03-26,40100,True,"verry fun, much nuckes, very explotions"
+posted,item_id,recommend,sentiment_analysis
+2015-01-20,218620,True,2
+2015-01-19,65980,True,1
+2015-04-07,304030,True,2
+2014-12-22,204300,True,2
+2015-01-07,233250,True,0
+2015-05-28,301520,True,2
+2015-03-26,40100,True,2

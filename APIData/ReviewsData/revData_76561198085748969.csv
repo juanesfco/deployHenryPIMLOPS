@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-23,257750,True,BEST GAME EVER ITS SUCH A GOOD PLATFORMER :D:D:D:D::D:D:D:D:D:D:D:D
-2014-12-08,204030,True,This Is By far my fav game its so much fun its got fun quests and you can just explore i used to play it 24/7 on my xbox not the xbox 360
-2015-04-14,271590,True,its gta 5 so yeah dont know what to say so mlg420noscope 3fast5u
-2014-12-06,206420,True,MY FAV SAINTS ROW GAME
-2014-09-14,42910,True,I lost 7 friends playing this dont juge
-2014-06-17,204360,True,10/10 i just have so much fun it may say i dont play it much but i love it so much and im a pro :3 GET THE GAME!!!
+posted,item_id,recommend,sentiment_analysis
+2014-01-23,257750,True,2
+2014-12-08,204030,True,1
+2015-04-14,271590,True,1
+2014-12-06,206420,True,0
+2014-09-14,42910,True,1
+2014-06-17,204360,True,2

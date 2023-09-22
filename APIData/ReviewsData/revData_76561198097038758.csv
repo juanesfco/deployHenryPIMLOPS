@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-07,218620,True,This is a very good game for many reasons but it can get quite repetitive and there are a lot of dlc BUT! It is a very good game and very fun with friends!
-2015-12-01,225540,True,"This game is amazing!!! Super fun! Plus the modders will make it even better! But right now the game runs like ♥♥♥♥, my game has crashed about 3-5 times and the fps drops sometimes to like 12 or 20. When the devs fix this, this game will be amazing!! But it is day 1 so calm down guys just it will be fixed!"
-2015-11-21,417860,True,"Emily is a ♥♥♥♥♥, she is acting nice and ♥♥♥♥ but she is a ♥♥♥♥♥."
+posted,item_id,recommend,sentiment_analysis
+2015-11-07,218620,True,2
+2015-12-01,225540,True,2
+2015-11-21,417860,True,2

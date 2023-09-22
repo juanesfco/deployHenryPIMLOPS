@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-03-15,113200,True,This game is great. GET IT NOW!!!
-2013-12-13,240380,True,OMG THIS GAME IS SOOOO GOOD< I WANT MORE STUFF
-2013-11-29,39140,True,OMG THIS IS THE BEST GAME EVAR SEPHEROITH IS THE BEST BOSS EVARBUY THIS GAME AND OWN IT FOREVAR
-2014-04-15,258590,True,"Meh, it's ok. Go play one of the ones on DS/3DS instead."
-2014-01-02,550,True,Zambies
-2013-09-07,4000,True,"If Minecraft with mods and The Sims had a baby (Mutant Baby!), this would be it."
-2016-06-03,363970,True,its okay
-2016-04-13,427730,True,It's a fun game. There's just one problem.No-one plays it anymore.
+posted,item_id,recommend,sentiment_analysis
+2013-03-15,113200,True,2
+2013-12-13,240380,True,1
+2013-11-29,39140,True,2
+2014-04-15,258590,True,2
+2014-01-02,550,True,1
+2013-09-07,4000,True,1
+2016-06-03,363970,True,2
+2016-04-13,427730,True,1

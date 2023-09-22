@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-20,303390,False,This game has quite a bit of prommise but atm there is very little.The weapons work but have no ammo or the need to reload.The graphics are also pretty good when set to prefect quality but then again i can notice very little differnce between the three settings.
-2016-02-11,441600,True,Yay10/10
-2016-01-20,295110,False,This game has been abandedned no new features have been relised for months now
+posted,item_id,recommend,sentiment_analysis
+2016-01-20,303390,False,2
+2016-02-11,441600,True,1
+2016-01-20,295110,False,0

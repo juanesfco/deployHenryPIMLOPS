@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-08-14,224540,False,"Don't buy it. It's pretty boring, the old Ace Of Spades is better. MUCH better. And since I'm brazilian, I can't play with a ping more than 100ms. And people only play TDM, Zombies and SOMETIMES classic.Download Build And Shoot or OpenSpades. It's free.Build And Shoot is the classic Ace Of SpadesOpenSpades is the classic Ace Of Spades with better graphics."
-2015-08-09,211260,True,"Great game. Awesome soundtrack, awesome level design, EVERYTHING in this game is awesome. I just love it. 11/10."
-2015-12-08,4000,True,OH BABY THIS GAME.THIS GAME IS SOOOOOOOOOOOOOOOO GOODLIKEBRUHBRUHBRUHBRUHI WASTED MY ENTIRE LIFE WITH DISAND I'M ADDICTEDI CAN'T STOP DOWNLOADING MODSSOMEONEhELP
-2016-07-07,10090,True,No exo-jumps :)
-2015-12-08,109400,True,"I don't know, this game is really regular. I only play it when I don't have absolutely nothing to play. But I'm gonna recommend it. Part of it is fun."
-2015-12-08,105600,True,>starts game>create world and character>get killed by a pink slime>gg>10/10 would die by a gay slime again
-2015-12-08,219740,True,"This game is really REALLY fun. And if you don't like surviving, just play around, there's LOTS of mods."
-2015-12-08,20,True,Pretty ♥♥♥♥in' good.
+posted,item_id,recommend,sentiment_analysis
+2016-08-14,224540,False,2
+2015-08-09,211260,True,2
+2015-12-08,4000,True,0
+2016-07-07,10090,True,2
+2015-12-08,109400,True,1
+2015-12-08,105600,True,1
+2015-12-08,219740,True,1
+2015-12-08,20,True,2

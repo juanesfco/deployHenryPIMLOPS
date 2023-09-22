@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-22,339800,True,"Every time I start this game up, I get messages from people that say things like 'why are you playing this game?', 'stop doing this', or 'is this becuz u dont have a gf?'."
-2014-05-25,39000,True,You can play even if you have no money 10/10 its alright
+posted,item_id,recommend,sentiment_analysis
+2015-06-22,339800,True,0
+2014-05-25,39000,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-11,218620,True,"Great fun with friends or alone, many challenges"
-2014-12-24,234670,True,great game
+posted,item_id,recommend,sentiment_analysis
+2016-01-11,218620,True,2
+2014-12-24,234670,True,2

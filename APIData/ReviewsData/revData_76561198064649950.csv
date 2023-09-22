@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-24,287390,True,Played 10 minutes and couldn't play anymore because my Mac couldn't run it fast enough but i strongly recommend it. This game Battlefield 4 is awesome
-2015-07-12,268420,True,Uninstalling this game. 10/10 would uninstall again
+posted,item_id,recommend,sentiment_analysis
+2016-07-24,287390,True,2
+2015-07-12,268420,True,0

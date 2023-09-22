@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-06-23,299860,False,"Great game, fun to play with friends. But at its current state I can't recommend it. There is just not enough people playing and not enough things to do. Sure there is always base building, but once you have actually finished your base, you have completed the game. recently had vehicles released but have not had the opportunity to try them out. If the game once again picks up in players I will consider playing it again. But at the moment, I would look around for a different game. Unless of course you have a big group of friends to play with."
-2015-12-23,332500,True,Great game
-2015-12-25,287390,True,"This game left me in awe. Don't even think about it, just buy it."
-2015-08-20,361314,True,Good.
-2015-07-12,274940,True,"Fantastic game! Really does give you a scare when a shark grabs you out of nowhere. If you want a enjoyable game that gets your heart racing, I highly recommend Depth!"
-2015-06-23,730,True,No Kit. No Clue.
-2014-06-28,218620,True,"Good game, fun and engaging"
+posted,item_id,recommend,sentiment_analysis
+2015-06-23,299860,False,1
+2015-12-23,332500,True,2
+2015-12-25,287390,True,0
+2015-08-20,361314,True,2
+2015-07-12,274940,True,1
+2015-06-23,730,True,1
+2014-06-28,218620,True,2

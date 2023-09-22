@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-22,105600,True,nOOT AS good as Minecraft tho(Just a pran k BRO)
-2016-09-11,22300,True,This ♥♥♥♥ gud
-2013-07-14,207610,True,This so sad:( PLAY IT
-2015-07-08,271590,True,mATE IT HREAT AND APS with paes.IDK what the hell i was saying it good
+posted,item_id,recommend,sentiment_analysis
+2016-07-22,105600,True,2
+2016-09-11,22300,True,1
+2013-07-14,207610,True,0
+2015-07-08,271590,True,2

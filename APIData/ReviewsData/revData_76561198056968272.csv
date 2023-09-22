@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-02-07,240,False,Counter-Strike 1. Manure
-2015-07-11,219640,True,Chivalry: Medieval Warfare. Steamy
-2015-07-11,6020,True,Star Wars. Quaking
-2015-05-20,99900,True,Robot Runescape. Groovy
-2015-02-07,730,True,Counter Strike 2. Masterpiece
+posted,item_id,recommend,sentiment_analysis
+2015-02-07,240,False,1
+2015-07-11,219640,True,1
+2015-07-11,6020,True,1
+2015-05-20,99900,True,1
+2015-02-07,730,True,1

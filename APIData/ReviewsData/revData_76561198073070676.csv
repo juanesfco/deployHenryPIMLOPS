@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-02-13,49600,True,if anyone wants free epilepsy this is the game for you!
-2014-04-11,246620,True,very nice game
-2016-03-25,365590,True,"When society falls, we meme."
-2016-08-06,311210,True,ez game
-2016-02-21,359550,True,fun game and all but the ranking system is a bit ♥♥♥♥♥ played a game of ranked im silver 4 and there is a diamond on the other team what a crazy game
-2015-11-20,216150,False,the anti cheat or whatever takes up 50%-70% of my cpu usage
-2014-10-16,301520,True,Funny Fun Builed anything and still Drive it guns and now a healing gun Omggggg :P
+posted,item_id,recommend,sentiment_analysis
+2016-02-13,49600,True,1
+2014-04-11,246620,True,2
+2016-03-25,365590,True,1
+2016-08-06,311210,True,0
+2016-02-21,359550,True,0
+2015-11-20,216150,False,1
+2014-10-16,301520,True,2

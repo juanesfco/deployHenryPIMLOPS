@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-29,8870,True,5/7 people would get their feels fixed after playing this game. Worth every penny I spent and every time and feels I invested.
-2014-02-17,250600,True,"Worth 5 minutes of my life. It makes me wonder what is the purpose of life.Damn, I'm never gonna kill a fly again, unless of course it touches my food or something...'I tried so hard, and got so far. But in the end, it doesn't even matter'"
-2014-02-16,440,True,10/10This game mostly relies on your skill and not on how long you play it. All class and items are balanced and one class beats the other. Love the cartoony graphics and especially the hats. Recommended to all
+posted,item_id,recommend,sentiment_analysis
+2015-12-29,8870,True,1
+2014-02-17,250600,True,2
+2014-02-16,440,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-10-14,221100,False,This is still in Early Access? Lol
-2016-09-03,395180,False,"Not recommended for the price of $34.99 USD. Its just a new map, mostly reskinned units, addition of 10 or so units with new weapons and a handful of new vehicles. While it has more content than previous DLCs, its not worth $34.99Wait for sale $20 and under"
-2015-10-27,17080,True,Ah yes i remember this
-2015-09-22,217920,False,"Yeah nah like this game is no good. Too easy, pretty much an on rails shooter you see at the arcade."
-2015-11-02,244850,True,The devs started on a new Engineers game before finishing this one. But what is here is worth $25 assuming you have friends around to play with. Everything in this game is time consuming. Its not minecraft where its simply pick up and put down. It goes something like Harvest/Mine/Gather/Whatever > Process into desired material > create the block (weld and stuff) and then finally place it. Physics are nice. The player animation for flying is a bit weird and awkward but i cant think of anything to replace it with. Workshop has plenty of addons to download. Have Fun
-2015-09-28,326480,True,Mint
+posted,item_id,recommend,sentiment_analysis
+2015-10-14,221100,False,2
+2016-09-03,395180,False,2
+2015-10-27,17080,True,1
+2015-09-22,217920,False,1
+2015-11-02,244850,True,1
+2015-09-28,326480,True,1

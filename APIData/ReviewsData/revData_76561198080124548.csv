@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-25,570,True,Instead playing Lol play DOTA 2 every thing is FREE!!
-2015-09-05,730,True,r8 this 9/11be the terrorist in hostage mode gamecamp forever EZ win EZ kills
-2015-08-29,302830,True,For MLG's OnlyIm MLG
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,570,True,2
+2015-09-05,730,True,2
+2015-08-29,302830,True,1

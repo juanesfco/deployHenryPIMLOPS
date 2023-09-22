@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-23,221100,True,"Ran around with no pants on and started handcuffing people. Then I went home and played some DayZ, it's a pretty good game."
-2014-08-22,730,True,played a little and it was meh.
+posted,item_id,recommend,sentiment_analysis
+2015-01-23,221100,True,2
+2014-08-22,730,True,0

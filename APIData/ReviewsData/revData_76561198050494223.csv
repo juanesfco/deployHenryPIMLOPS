@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-06,313010,False,"Even though the several ad-ons to this game is very genious, but when I get stuck into the game it crashes I recomend if you want to play this game without constant crashing, I recomend you stick to Cities XL Platinum, even though Platinum crashed for some, it never happened to me."
-2015-11-30,17390,True,My first addiction. :)
-2015-05-03,24780,True,"My Childhood Game! Defiantly recommend, If it doesn't work on a newer device, you might have to tamper with your game settings, the Game is great for imagination, and for business study. I have played this game since I was 9, now 16, hope you enjoy it as much as I have, :)"
+posted,item_id,recommend,sentiment_analysis
+2015-02-06,313010,False,0
+2015-11-30,17390,True,2
+2015-05-03,24780,True,1

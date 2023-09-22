@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2012-02-02,4000,True,one of the best games ever get it :)
-2013-12-31,203290,True,lovely lovely little game most recommened oh and its fre
-2016-06-23,313080,False,"Game is ded and needs the developers back,but the game is ded"
-2014-01-21,224580,True,its a great game mod BUT the one on the website is the one with the servers not this one
-2015-03-17,330100,True,"This is a great game to play every now and then but its so fun to just watch the game with the ai battles or the evolution pool let the final race be, very good game indeed, i wouldn't mind a buggy multiplier though (unless it was to crash the game) good job developer you made a good game"
-2014-02-26,244850,True,anything but crap and under. a great game
-2013-01-07,4920,True,this is pretty much like dystopia but much more advance and strict.the winning team will always be the best team work or commander
+posted,item_id,recommend,sentiment_analysis
+2012-02-02,4000,True,2
+2013-12-31,203290,True,2
+2016-06-23,313080,False,0
+2014-01-21,224580,True,2
+2015-03-17,330100,True,2
+2014-02-26,244850,True,0
+2013-01-07,4920,True,2

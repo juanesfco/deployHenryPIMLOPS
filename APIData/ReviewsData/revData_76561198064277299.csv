@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-14,259080,True,LOVE IT can't wait til Just Cause 3 comes out!!! so excited!!!!!
-2014-11-03,317360,True,Epic Game Basiclly a Free Version Of Counter Stirke (Kinda)
-2015-12-25,8190,True,Amazing Game
+posted,item_id,recommend,sentiment_analysis
+2013-12-14,259080,True,2
+2014-11-03,317360,True,1
+2015-12-25,8190,True,2

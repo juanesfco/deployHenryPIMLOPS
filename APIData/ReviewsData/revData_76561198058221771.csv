@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-04-02,218230,True,battlefield de baixa renda
-2016-01-23,236110,True,Vc conhece três pessoas (amigos) e eles tem tempo pra jogar com vc e gostam ? se sim então pode jogar caso contrário não tente
-2014-08-19,248390,True,"Perfeito pra quem gosta do gênero survival esse é um excelente exemplar desse genero, incrivelmente divertido e empolgantenão joguei muito ainda, mas ja recomendo como uma execelente compra."
-2014-06-21,72850,True,Uma D-E-L-Í-C-I-A  Medieval
+posted,item_id,recommend,sentiment_analysis
+2016-04-02,218230,True,1
+2016-01-23,236110,True,1
+2014-08-19,248390,True,2
+2014-06-21,72850,True,1

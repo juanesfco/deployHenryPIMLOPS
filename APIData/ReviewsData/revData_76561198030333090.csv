@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-10-19,1250,True,"I WANT DRUGS!, NOAW!"
-2014-10-17,231430,True,The perfect WWII strategy game.
-2014-10-16,44350,True,"Sexyness Galore. Seriously, go buy the game if you haven't already.Imagine a cinematic racing movie but you are the main actor controlling the car on a career to be the best of the best. 10/10 Sexy gameplay and visuals."
-2014-09-20,282440,True,Brings back so many memories from Quake
-2014-09-04,9900,True,Can have a Space party while off duty in space missions.10/10
-2014-04-06,244850,True,"Space Engineers is just purely awesome for a early access game, you build things in space such as spaceships and space stations, all in your own way! in survival you mine for resources in asteroids to create building materials.Hopefully more features would come in future updates!.8.6/10"
-2014-04-05,239220,True,"You imagine a game where you enter flying castles and earn very high value, awesome, epic golden, badass, Treasurery, Gold and Loot. with your very own castles aswell.This is that game.50/50"
-2013-10-23,238960,True,"A VERY good RPG Game with a Huge Variety of Classes, Weapons, Clothing and Powers you can combine your powers to create even bigger and Stronger ones and create your own Skills to Styles and to Finishing Blows ! I would recommend this 9/10"
+posted,item_id,recommend,sentiment_analysis
+2014-10-19,1250,True,1
+2014-10-17,231430,True,2
+2014-10-16,44350,True,2
+2014-09-20,282440,True,2
+2014-09-04,9900,True,1
+2014-04-06,244850,True,2
+2014-04-05,239220,True,2
+2013-10-23,238960,True,2

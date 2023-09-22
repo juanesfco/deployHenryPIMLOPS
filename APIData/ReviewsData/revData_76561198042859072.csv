@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-09-22,219150,True,Stop looking at this review and buy it already
-2013-11-20,72850,True,"Amazing game. Heaps of Classes to choose from and various paths you can choose. Whether it be an archer, a cold hearted assassin, or a brave and courageous warrior. Skyrim is the game for anyone wanting a true RPG with realistic graaphics and fun gameplay. The main quest is great. While it is short, there are many side quests to do. It takes over 120 hours to finish the entire game. That is truly enormus! The game is open-world, and you have a sense over danger and exctitment rushing through you when you are exploring caves, looting dungeons, and more! Skyrim is a fantastic game that anyone can play9.5/10"
-2014-08-22,47870,False,"Need for Speed is a shadow of its former self. If you are looking for a fun, stable, customizable, open-world and value for money racing game then look elsewhere."
-2014-09-22,312990,True,Michael Bay presents: The Expendables 3: Broforce Edition
-2014-09-13,4000,True,You can make rideable cruise missiles12.5/10
-2013-08-21,240,True,"A different take on the FPS universe. It features diverse gameplay and intense engagements. A great alternative to Call of Duty, Battlefield, ARMA, etc. Buy this game either on it's own or in the Garry's Mod bundle"
+posted,item_id,recommend,sentiment_analysis
+2014-09-22,219150,True,1
+2013-11-20,72850,True,2
+2014-08-22,47870,False,1
+2014-09-22,312990,True,1
+2014-09-13,4000,True,1
+2013-08-21,240,True,2

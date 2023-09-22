@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-19,292030,True,Tutorial area took me 8 hours to complete.I regret nothing.
-2015-02-26,239140,True,"The story was predictable, side quests were mediocre and the final boss was a Vaas wannabe that was simply awful (it was the worst QTE that I've seen in years).And yet I've loved it! It soaked me for 31 hours and I know I'll be returning to this game. Combat is satisfying, parkour in my opinion was even better than in Mirror's Edge and the atmosphere! The first 10 hours of the game were incredibly tense and the first night was simply terrifying!Pick it up, trust me. I don't like Dead Island, I'm not really interested in zombie games but this one was worth every penny."
-2016-05-27,379720,True,That's the best FPS I've played in years! I loved every bit of it... Even credits were great!I really hope they'll make a single player expansion. 
-2015-06-23,208650,False,"This game is a mess. It's unoptimized and locked at 30 fps, frames can drop below 10 fps on a decent machine.Avoid it at all costs and only buy after it's been heavily patched."
+posted,item_id,recommend,sentiment_analysis
+2015-05-19,292030,True,1
+2015-02-26,239140,True,1
+2016-05-27,379720,True,2
+2015-06-23,208650,False,0

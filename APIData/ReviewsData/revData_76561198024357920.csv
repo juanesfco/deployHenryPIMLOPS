@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-12-05,290080,True,"Super Spiel, zwar noch zu wenig online Spieler aber das wird noch"
-2016-08-16,2100,True,"einer meiner Top RPG games, man kann so vieles mit seinen Feinden machen und seiner umgebung und wenn man bedenkt das es schon so 10 jahre alt ist und die neueren games meistens sowas geiles nicht drin haben, dan ist es wirklich einfach nur TOP !"
-2016-07-13,104900,True,"Ich finde es ist ein Sehr Gutes Spiel, schon 60 stunden gezockt, wenn man den dreh erstmal raus hat mit dem ingame kaufen dan geht es schon einfacher, als erstes wenn man rein kommt und man hat einen credit von 5000 sollte man erstmal zu den Augments gehen und sich von den 2500 credit upgrades das upgrade holen das 2x mehr cash bringt beim töten und dan wenn man 7500 credits hat sollte man sich das 50% mehr cash upgrade holen und dan geht die sache schon einfacher und man kann sich somit leichter besseres zeug kaufen wenn man gut im Dino Killen ist 'Immer auf den kopf schießen, bringt mehr schaden'#einer meiner Lieblings spiele"
-2014-01-19,241540,True,Geiles Spiel (würde ich jeden empfehlen)
-2016-02-23,367500,True,"Sehr Gutes Spiel, mehr burgen und so wären schön aber der rest ist einfach spitze"
-2014-09-24,47400,False,würde ich auch nicht weiter empfehlen
-2014-06-26,34030,True,best game !
-2016-07-13,249230,False,"Ich muss ehrlich sagen ich hab gerade mal 1.4 stunden gespielt, weil das Kampf system so scheiße ist das es keinen spass mehr gemacht hat, man war Risen 1 gut aber es wurde immer schlechter, 2 war noch auszuhalten aber das 3 ist einfach nur zum KotzenRisen 1 bleibt das Beste Risen Game"
-2014-07-17,227940,True,fantastic game
+posted,item_id,recommend,sentiment_analysis
+2014-12-05,290080,True,2
+2016-08-16,2100,True,2
+2016-07-13,104900,True,2
+2014-01-19,241540,True,2
+2016-02-23,367500,True,2
+2014-09-24,47400,False,1
+2014-06-26,34030,True,2
+2016-07-13,249230,False,0
+2014-07-17,227940,True,1

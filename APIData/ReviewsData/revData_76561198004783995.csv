@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-04-06,105600,True,Minecraft but cooler!
-2011-07-24,41300,True,Very funy game! Well worth the 5$ (Half price till midnight)
+posted,item_id,recommend,sentiment_analysis
+2013-04-06,105600,True,1
+2011-07-24,41300,True,1

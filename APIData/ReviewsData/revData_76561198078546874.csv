@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-29,440,True,es un buen juego y destaca bien en graficos
-2014-02-19,242720,True,poner server para mas jugadores
+posted,item_id,recommend,sentiment_analysis
+2014-04-29,440,True,2
+2014-02-19,242720,True,2

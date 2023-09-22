@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-15,208090,True,Freking. Amazing.
-2013-12-22,259080,True,"My top mod of the year. Basically take everything in JC2, and add other people doing the same thing you'd do, and you get the awesomeness that is JC2-MP."
-2013-09-26,8190,True,BADASS EXPLOSIONS AND CAR CRASHES AND ERHMAGWADNESS...Nuff' said.
-2015-12-03,225540,True,A great improvement on JC2 (an amazing game) with minimal peformance issues.9/10
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,208090,True,2
+2013-12-22,259080,True,2
+2013-09-26,8190,True,1
+2015-12-03,225540,True,2

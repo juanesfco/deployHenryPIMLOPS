@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-01,440,True,My 1st personal favorite FPS... I really recommend it if your poor and cant afford one of those awesome games on steam that needs payment... And if your also bored of playing other free games
-2016-03-10,221910,True,The broom closet ending was my favorite
-2014-10-14,730,True,Very good game... I recommend you using your dollars on this game
+posted,item_id,recommend,sentiment_analysis
+2014-10-01,440,True,2
+2016-03-10,221910,True,2
+2014-10-14,730,True,1

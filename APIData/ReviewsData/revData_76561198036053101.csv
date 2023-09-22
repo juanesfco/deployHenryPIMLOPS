@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-07-14,219640,False,they turned it into a console port
-2016-05-27,310380,False,Ive had nearly and hour with the game running and it goes so slow I have had absolute zero game time and 99.99% loading screens
-2015-04-20,107900,False,this game used to be one of the best third person shooters ive ever seen and I used to love it but now the servers are all dead and its a pay to win
-2015-04-10,218230,True,"this is a fps dream, you'll be fighting on the ground and you can look up and see all the aircraft fighting and bombing and you have to use teamwork to complete objectives, it has battles that consist of hundreds of players and it looks like a crazy light show, although it is a bit of a pay-to-win it has some cinematic battles."
-2015-01-30,730,True,This is a fun fps but theres more hackers on here than on combat arms
-2014-12-14,4000,True,"A great game with many features, you can roleplay, play zombies, trouble in terrorist, and sandbox and much, much morethe only downside is that once you have bought the game you need to get Half life 2 episode 2 textures and counter strike: source to get the most out of your experience but otherwise its amazing."
-2014-07-22,304930,False,this game is great if you like games that tried to copy dayz in every SINGLE aspect so if your too broke to get dayz or arma 2 then this is perfect for you.
+posted,item_id,recommend,sentiment_analysis
+2016-07-14,219640,False,1
+2016-05-27,310380,False,0
+2015-04-20,107900,False,2
+2015-04-10,218230,True,1
+2015-01-30,730,True,2
+2014-12-14,4000,True,2
+2014-07-22,304930,False,2

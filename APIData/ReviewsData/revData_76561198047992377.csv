@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-16,250760,True,"100% Game Of The Year, it's an old school platformer that is tough at times and really fun! Just buy it!"
-2014-05-28,241600,True,"If you are good you don't die, if you aren't you die a lot"
+posted,item_id,recommend,sentiment_analysis
+2014-07-16,250760,True,1
+2014-05-28,241600,True,2

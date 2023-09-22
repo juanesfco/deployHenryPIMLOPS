@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-11,332800,True,10/10 would take kids here for birthday
-2015-07-21,319630,True,"Well for starters, when I write reviews they are usually just for the lols. This is not the case. This game is genuinely a masterpiece and i have never played a game that made me feel so many emotions that range all over the spectrum, i mean hell I thought The Last of Us was emotional as hell. one minute its happy then desparation then wanting to cry like a baby (points in the game specifically made me question my manhood due to how much i was trying to not break down like a baby) this game honestly does show alot of great points that are true in real life as well, like value those close to you and despite this being the internet and it not being known to be shown but, showing compassion and taking the time to give a helping hand could possibly save someones life. It is funny that a troll on tf2 would find such a great love and change of perspective from a game, call me names call me what ever the hell you like. I never thought i would go deep about a game but simply put this game, while it may not be for everyone, is a really great game and i honestly say it is worth more that just 20 dollars. 100/10"
-2015-07-05,6020,True,10/10 lets you cut people into sushi if the proper cheat is enabled
-2015-03-12,55230,True,"10/10 has Sasha Grey, so fun for whole family."
-2014-02-23,32430,True,"Seriously, this is one of the best starwars games there is! critics were stupid how they rated it, well concidering how it is the most sold starwars game, i highly recommend it to any other starwars geeks out there like i am."
+posted,item_id,recommend,sentiment_analysis
+2014-11-11,332800,True,1
+2015-07-21,319630,True,2
+2015-07-05,6020,True,1
+2015-03-12,55230,True,2
+2014-02-23,32430,True,1

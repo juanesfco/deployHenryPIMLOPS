@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-08,265930,True,Absolute baaaaaaaaaall of fun!
-2015-06-08,346110,True,"Unless you have one of the best computers in the world, i can't reccommend it. However, keep an eye on it until it is optizmized so mid range PC's can run it"
-2015-06-07,304930,True,"2.0, meh, 3.0 ::::::::::)))))))))))))))"
-2015-02-14,236390,True,good tonk gameplay. good plane gameplay... stealth jet not stealthy ;(
+posted,item_id,recommend,sentiment_analysis
+2014-11-08,265930,True,2
+2015-06-08,346110,True,2
+2015-06-07,304930,True,2
+2015-02-14,236390,True,2

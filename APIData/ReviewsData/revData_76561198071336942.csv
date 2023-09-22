@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-02-06,249130,True,Best lego game along with Lego Batman DC superheroes.
-2015-11-19,368500,True,This game is a lot better than AC:U
-2015-11-11,377160,True,Great game with great graphics.
-2015-03-10,311560,True,This is a good game. 10/10
-2014-11-15,289650,True,Best AC game along with AC II.
-2015-08-06,267550,False,Not a very good game. 6/10
-2015-01-21,72850,True,One of the best RPG games that exists.10/10
-2015-01-19,730,True,One of the best fps games in the world!10/10
+posted,item_id,recommend,sentiment_analysis
+2014-02-06,249130,True,2
+2015-11-19,368500,True,1
+2015-11-11,377160,True,2
+2015-03-10,311560,True,2
+2014-11-15,289650,True,2
+2015-08-06,267550,False,0
+2015-01-21,72850,True,2
+2015-01-19,730,True,2

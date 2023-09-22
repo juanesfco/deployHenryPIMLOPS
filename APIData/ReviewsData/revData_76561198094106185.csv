@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-16,250600,True,The music in this game is just epic.10/10
-2014-01-25,230410,True,"I really like the game mechanics jump,slide,wall run and much more"
-2013-12-04,630,True,good team work is require
+posted,item_id,recommend,sentiment_analysis
+2014-03-16,250600,True,0
+2014-01-25,230410,True,1
+2013-12-04,630,True,2

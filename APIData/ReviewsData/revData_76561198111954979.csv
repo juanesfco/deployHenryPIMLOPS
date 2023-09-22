@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-06,241640,True,น่ากลัวมากๆๆ
-2014-04-29,570,True,มันดี
-2014-04-17,269390,True,เหี้ย
+posted,item_id,recommend,sentiment_analysis
+2014-09-06,241640,True,0
+2014-04-29,570,True,2
+2014-04-17,269390,True,1

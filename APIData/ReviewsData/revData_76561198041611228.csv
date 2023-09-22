@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-02,105600,True,What can I say? It's an awesome game and have a nice price. I and my friends have a lot of fun playing this. Superb game!! It would be way better if it gots workshop!
-2015-03-22,440,True,"I played a bit, and it's cool ..."
-2014-11-30,4000,True,muito bom
+posted,item_id,recommend,sentiment_analysis
+2015-08-02,105600,True,2
+2015-03-22,440,True,2
+2014-11-30,4000,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-18,333930,True,"I like smooth gameplay, especially if its an FPS. You know what's also nice, if the scope is accurate... it is accurate.The way everything works is smooth and flowing (gameplay and mechanics, whatever you wanna call it).This is how a shooter needs to feel like.Try it, you won't be disappointed."
-2015-06-08,319630,True,Love the game!!Ep. 1 has amazing music to fit the moods. The story is amazing. I mean this is a proper story with consequences.This story justifies a ~$80 ish pricetag. Not Call of Duty.Don't need amazing graphics or hardcore physics to make an amazing game.Do I recommend? Heck yeah!
-2015-01-15,209650,True,"My honest opinion is mixed. I have only had MW2, MW3, BO, and everything before MW2.I actually love the game, single player and multiplayer. (even though its pretty much old, old, and recycled for alot of people)It brings everything (not literally) they've made in the old and new CoD games to make AW and for me, it actually feels like something new. (since I didn't buy CoD games after MW3)This may not be the same opinion from those who bought every CoD game.On the otherhand, I have become sick of developers saying they will implement this and that and release crap ports that are NOT optimized for PC.The game has:Graphical errorsNO Dedicated server (The developers don't know how to keep their word)NOT optimized.Multiplayer is almost dead (I love the multiplayer :( )"
+posted,item_id,recommend,sentiment_analysis
+2016-06-18,333930,True,2
+2015-06-08,319630,True,2
+2015-01-15,209650,True,1

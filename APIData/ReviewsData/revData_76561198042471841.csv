@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-02-15,570,True,great with teh friends
-2014-02-13,221380,True,Great classic.
-2013-12-15,8870,True,A must play.
-2013-12-15,203810,True,"A fully confusing, profound and stunning game. I lost track of the amount of screenshots I took, the skies in this game were something to behold. Dispite the inability to run, jump or do anything other than  expore, this is a journey that is emensely complex, travelling a beautiful landscape while and going through letters being read to. A game that makes you feel emotions like none other."
-2013-12-11,219890,True,"This was so amazing, it hurt my brain just playing it... A must play."
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,570,True,2
+2014-02-13,221380,True,2
+2013-12-15,8870,True,1
+2013-12-15,203810,True,1
+2013-12-11,219890,True,2

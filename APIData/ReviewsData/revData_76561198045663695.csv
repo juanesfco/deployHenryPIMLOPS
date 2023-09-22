@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-05,220,True,awsome just awsome.
-2013-11-29,250580,False,do not get this game it is so ♥♥♥♥ it is the worst game in the history of fps gaming in pixel form.do not buy save your money.
+posted,item_id,recommend,sentiment_analysis
+2013-12-05,220,True,1
+2013-11-29,250580,False,0

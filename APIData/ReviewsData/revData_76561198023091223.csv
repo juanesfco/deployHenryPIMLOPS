@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-21,230410,True,"Good gunplay, good frames, fun abilities, tons of ways to play the game, some nice new lore. The game is a grind but that's the whole point. I totally recommend."
-2014-12-22,730,True,"If you play this game, get a mike."
-2014-12-21,220200,True,"Probably one of the best indie games I have ever played. Its a very good break away from grindy or shooter games, and allows you to sit back, relax and have a bit of fun piloting spaceships. The game always seems to have a sense of humor where ever you go, and the open world style of play is a nice change to linear storylines. The game also challenges you to think about what you're actually doing, but doesn't punish you too harshly for losing (destroying your ship, stranding your crew etc) compared to other games. The quicksave feature is also very nice.Overall, this game is a very nice change from almost every other game I have played, with very little 'grind' elements, a good sense of humor and a nice open world system. The price is cheap, go and get it.10/10"
-2014-12-21,33930,True,"Even though ARMA 3 may be out, this came still kicks ♥♥♥. The open world single player campaign, the modded multiplayer servers where you fight wars against AI's and the well fleshed out mission maker allow you to explore any scenario you like. The gunplay is solid, but you have to take it a lot slow than other FPS such as Battlefield or Call of Duty.Overall, this is a marvellous open world shooter which has some nice extensibility.10/10 would recommend."
+posted,item_id,recommend,sentiment_analysis
+2014-12-21,230410,True,2
+2014-12-22,730,True,0
+2014-12-21,220200,True,2
+2014-12-21,33930,True,1

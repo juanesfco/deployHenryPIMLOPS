@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-02-10,49520,True,How to play1. Get good2. Be good 3. Win game
-2015-12-20,417860,True,finished in 40 mins game was good. 10/10 would talk to emily again.
-2015-07-08,730,False,ITS HARD
-2014-10-24,440,True,awesome game 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-02-10,49520,True,2
+2015-12-20,417860,True,2
+2015-07-08,730,False,0
+2014-10-24,440,True,2

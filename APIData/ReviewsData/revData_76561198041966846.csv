@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-01,222880,True,Best shooter I have ever played.
-2014-02-25,236390,True,Very ♥♥♥♥
-2014-02-25,212680,True,uber ♥♥♥♥
-2014-02-25,220200,True,excellent ♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,222880,True,2
+2014-02-25,236390,True,2
+2014-02-25,212680,True,1
+2014-02-25,220200,True,2

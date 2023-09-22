@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-25,295110,True,This game is one of the greatest zombie survival games I have played I rate it 8/10
-2015-09-30,51100,True,This is a good stratigic game although some of the mechanic are a bit wonky :/
-2015-04-25,298110,True,Great game
-2015-01-24,265630,True,This game is a fun FPS for people who like a mix of Old Western with new physics I'd recommend for anyone one who has a lot time on there handShrinko- KILL ME IF YOU CAN
+posted,item_id,recommend,sentiment_analysis
+2015-04-25,295110,True,2
+2015-09-30,51100,True,1
+2015-04-25,298110,True,2
+2015-01-24,265630,True,1

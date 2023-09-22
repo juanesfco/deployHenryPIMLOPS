@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-15,396900,True,"As of writing this review there are 3 tracks - one in early development, but these tracks are very promising and the core gamplay is already solid, I cant wait to see the finished product."
-2014-08-25,200510,True,Good deals
+posted,item_id,recommend,sentiment_analysis
+2016-02-15,396900,True,2
+2014-08-25,200510,True,2

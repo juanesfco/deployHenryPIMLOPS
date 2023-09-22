@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-09,250900,True,Great game. The gephics are much better than the first one and the new items and monsters a nice touch.GET IT!
-2016-06-11,22380,True,"Truth is, The Game Was Glitched From The Start"
-2015-06-10,202970,True,This game in my opinion has much better zombies than Advanced Warfare could do with a lower price
+posted,item_id,recommend,sentiment_analysis
+2014-11-09,250900,True,2
+2016-06-11,22380,True,0
+2015-06-10,202970,True,2

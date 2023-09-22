@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-20,227700,True,"Its like Warcraft+Borderlands,but Fps"
-2013-12-13,620,True,Sometimes logic is just mind blowing
-2014-12-22,400,True,"Great story,great game,requires logic and science to past. (I support Aperture science than Black Mesa)"
+posted,item_id,recommend,sentiment_analysis
+2015-05-20,227700,True,1
+2013-12-13,620,True,1
+2014-12-22,400,True,2

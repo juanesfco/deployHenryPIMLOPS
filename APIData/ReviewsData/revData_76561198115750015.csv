@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-25,8930,True,best turn based strategy ever play as any civ old or new
-2015-10-08,10680,True,"This is a really good game if u r a fan of the Aliens vs Predator franchise, u can play as any of the 3 species, my personal fav is is the Xenomorph. The tag says that it is horror but I found that it is really only horror when I played as the Marine, and with the Predator all u need to do is go through and Wolverine everything in sight. 8/10"
-2015-07-28,17390,True,A great game for people with great imaginations and who want the ability to conquer the galaxy through war or who want to buy their way to the top with money
-2015-07-28,3170,True,"This game has good graphics and has a good turn based fighting system, and u can get ur own pet dragon which is really cute and funny to watch"
-2014-07-26,202970,True,Great game good for people who love fps games. Great weapon handling and accuracy
+posted,item_id,recommend,sentiment_analysis
+2014-04-25,8930,True,2
+2015-10-08,10680,True,1
+2015-07-28,17390,True,2
+2015-07-28,3170,True,2
+2014-07-26,202970,True,2

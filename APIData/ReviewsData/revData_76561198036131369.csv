@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-02-19,252490,True,"Man I don't even know what to say, this game is so fun! Great survival feel, a little like minecraft except a little more advanced. Definitely recommend to anyone, no matter what ''type'' of gamer you are."
-2015-08-29,286690,True,"Great game, great atmosphere, really enjoyed it."
-2016-02-24,429570,True,"It's Telltale, enough said."
-2016-02-13,330840,True,"Too good not to be played, Telltale reallt have outdone themselves."
-2015-04-07,344760,True,"Funniest thing I've played in while since Rust, definitely recommend."
-2016-03-01,371660,True,"Don't know why all the hate, I'm having no issues and am enjoying it so far.Edit: Still enjoying the game so much, runs really well and am having no problems."
-2016-08-08,550,True,"How can you dislike this game? Awesome campaigns, great characters, endless amounts of fun. Various gamemodes spice it up a little bit, and if you get bored of the original campaigns, fear not, download a custom map and you're off for plenty more fun."
+posted,item_id,recommend,sentiment_analysis
+2014-02-19,252490,True,2
+2015-08-29,286690,True,2
+2016-02-24,429570,True,1
+2016-02-13,330840,True,2
+2015-04-07,344760,True,1
+2016-03-01,371660,True,1
+2016-08-08,550,True,2

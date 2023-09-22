@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-08,242860,True,"great game. solid graphics, guns feel right. isnt too easy to get kills either, so they feel really satisfying when it happens.gameplay is a little repetitive. overall a great game"
-2014-07-08,550,True,classic. love it!
-2013-12-28,113200,True,great game. simple but addictive like tetris or pacman.
+posted,item_id,recommend,sentiment_analysis
+2015-07-08,242860,True,2
+2014-07-08,550,True,2
+2013-12-28,113200,True,1

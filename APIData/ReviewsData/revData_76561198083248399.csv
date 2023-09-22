@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-30,265930,True,There is a game where you can be a goat.It is called Goat SImulator.Being a Goat is fun.There is a room where you can crash your game.10/10
-2014-10-29,252490,True,"Loving the new update, there is one problem, my mac lags a lot on the new update which forces me to play on the lowest graphics, it is a great game overall though 9 1/2 /10"
-2014-10-03,49520,True,BOODIFUL
-2014-10-01,312150,True,"This game, now the trailer looks quite babiesh but once you play a few matches you really get into it, i got to rank 4 in my first match so fun, but there is a few things, you need to add crouch and sprint, this would just make it more interesting to play as you run away from your enemies, apart from these two errors, a great game! Good work"
+posted,item_id,recommend,sentiment_analysis
+2014-11-30,265930,True,0
+2014-10-29,252490,True,2
+2014-10-03,49520,True,1
+2014-10-01,312150,True,1

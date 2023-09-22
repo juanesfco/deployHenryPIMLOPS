@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-03-26,230410,True,Click That Play Button CLICK IT!!!!!
-2013-01-02,72850,True,Awesome Game!!!!!!!!! FUS RO DAH!!!!
-2016-01-15,367500,True,10/10 Best Game Would buy again
-2012-09-18,209870,True,Pure Awesomeness
-2014-12-19,331440,False,"Needs more features , better animations pls , and a bigger inventory + coop"
-2014-04-24,236430,True,Best Game 2014 10/10 You Can Have A Mario MustachePledge Yourself To The Brendomir Covenant
+posted,item_id,recommend,sentiment_analysis
+2013-03-26,230410,True,1
+2013-01-02,72850,True,1
+2016-01-15,367500,True,2
+2012-09-18,209870,True,2
+2014-12-19,331440,False,2
+2014-04-24,236430,True,2

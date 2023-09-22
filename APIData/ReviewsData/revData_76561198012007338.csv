@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-01,8930,True,I forgot about life.
-2016-02-25,322500,True,Check out this game! It's the most innovative shooter I've played in years.
-2015-09-10,203770,True,I have exams to study for...♥♥♥♥ it. Probably learn more playing this anyway.
-2013-03-15,227100,True,"Do you like Nazis? Well, you probably shouldn't play this then.You are going to kill alot of them."
+posted,item_id,recommend,sentiment_analysis
+2015-02-01,8930,True,1
+2016-02-25,322500,True,2
+2015-09-10,203770,True,2
+2013-03-15,227100,True,1

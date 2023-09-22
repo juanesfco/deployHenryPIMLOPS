@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-22,12210,False,Nao consigo jogar ele meio que trava e nao responde
-2014-06-25,570,True,"o jogo e d+ pode ter apenas 1 mapa porem existem varias partidas, varios herois, varias combinaçoes"
+posted,item_id,recommend,sentiment_analysis
+2016-04-22,12210,False,2
+2014-06-25,570,True,1

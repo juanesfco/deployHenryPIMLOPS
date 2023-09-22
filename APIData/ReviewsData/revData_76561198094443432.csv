@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-13,248570,True,awesome game
-2016-04-26,291550,True,Great Gameplay
-2014-09-27,266430,False,bad
+posted,item_id,recommend,sentiment_analysis
+2014-06-13,248570,True,2
+2016-04-26,291550,True,2
+2014-09-27,266430,False,0

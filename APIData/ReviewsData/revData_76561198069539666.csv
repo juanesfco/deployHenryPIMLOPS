@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-11,263180,True,this is the pinnacle of my education of basic words. i now know how to spell baer
-2014-05-16,238460,True,Blew friend's grenade back at him. 10/10 would blow again. (No sexual implement here)
-2014-05-07,300,True,"Dod:S is a fantastic game, set during WW2. It plays like an arcade Red Orchestra, with capturing control points. Genuinly fun game. Buy it!"
+posted,item_id,recommend,sentiment_analysis
+2016-01-11,263180,True,1
+2014-05-16,238460,True,0
+2014-05-07,300,True,1

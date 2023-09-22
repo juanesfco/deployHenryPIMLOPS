@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-25,8930,True,"FANTASTIC! Addictive,brilliant!! everything from graphics to gameplay its great!!"
-2015-04-04,4700,True,"Excellent game. You can rewrite history, e.g. Scotland exterminates England, Byazantines destroy the Turkish and Islamic nations can take the Papal states. 10/10"
-2014-11-13,10500,True,"Excellent game, It makes you wanna learn about 18th century Europe!"
-2014-02-21,22370,True,"Friggin Fantastic! Should buy this game great story, characters, setting, weapons and much more! :)"
+posted,item_id,recommend,sentiment_analysis
+2014-02-25,8930,True,2
+2015-04-04,4700,True,2
+2014-11-13,10500,True,2
+2014-02-21,22370,True,2

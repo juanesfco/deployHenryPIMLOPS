@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-30,243470,False,"♥♥♥♥♥♥ Game. Not worth any price. Pirate it if you really have to play it...but its not worth it, no matter what the price. (Not even worth $1). Played better games that were free such as 'How do you do it'. Story and Gameplay is average but gets SUPER repetitive (Like alot)"
-2015-01-25,4000,True,Totaly Recommend... Many Gamemodes so u never get board and an entire world of workshop content
-2014-12-31,72850,True,GREAT GAME!!! Spooky in crypts and great overall gameplay. Buy it when its on sale though....
-2014-12-30,221910,True,Great Game... 10/10 Get when on sale though....many endings :D
-2014-12-26,206420,True,Highly Recommened. Great game... Fun game....Just upgrade your dubstep gun to max and ur good....best gun ever
+posted,item_id,recommend,sentiment_analysis
+2015-12-30,243470,False,1
+2015-01-25,4000,True,2
+2014-12-31,72850,True,2
+2014-12-30,221910,True,2
+2014-12-26,206420,True,2

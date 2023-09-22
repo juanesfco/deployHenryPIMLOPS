@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-30,440,True,gr8 m8 i'll r8 8/8
-2016-04-30,340810,True,"This game I would recommend, but that recommendation is slim.Deepworld is more of just some timewaster hobby than it is a game, most quests I have done are too restrictive or I deem are impossible due to the current state, the world doesn't have a unique pattern of scenery, griefing seems to be the top contendor of that issue and the game still has current bugs and glitches that are yet to be patched even though they are simple to encounter, and the idea that the ENTIRE game revolves around online play is despicable, maybe add some sort of singleplayer mode or custom, since the game kind of revolves on Terraria, take tips off them.But, there are some reason that I have that make me feel this game could be one of the best. The skill bar is a fantastic idea, more unlockables and it makes the game more challenging and addictive! Different weather and environmental hazards such as acid rain keep you on your toes!While I said this game was more of a hobby, I didn't mean a bad one."
+posted,item_id,recommend,sentiment_analysis
+2015-06-30,440,True,1
+2016-04-30,340810,True,1

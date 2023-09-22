@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-10-16,226580,True,"Do I recommend this game? Yes, if you are like me. A sim race fan who has not played an F1 game since 98' on Playstation 1.As this is the first of my PC F1 game purchases I don't feel ripped off by lack of content, I got what I paid for, which is a visually attractive and reasonably realistic feeling racing simulation.It does not compare to iRacing, but it is still a hell of a lot of fun!"
-2014-05-14,211500,True,"A great gateway game into SimRacing, whilst not as realistic as iRacing as far as car handling goes, content, graphics, sounds and general game direction make this a great pickup, it's free!"
-2014-10-26,308420,True,"It took me 11 minutes of gameplay to realise this is going to be good, it's like Hexen/Heretic/Quake/Doom but with nice graphics, modern controls and an okay storyline."
-2013-12-16,251570,False,"Disapointing considering the price, even with a -15% promotion."
-2014-10-26,221680,True,"Want to learn guitar or bass but don't want to pay weekly fees to an instructor? Buy this game!Want to play guitar or bass casually in the same vein as guitar hero/rock band after a few brews with some buds, buy this game!Want to better your guitar skills or learn new songs? Buy this game.Interested in buying this game but not sold on the song list or official DLC? Buy this game and then go to http://customsforge.com/.Downloaded custom NOFX content and got drunk then played bass as sloppy as Fat Mike does IRL 10/10"
-2014-10-26,219150,True,"If you like Tarantino films, you will love this game."
-2014-09-22,282440,True,"Quake is one of the forefathers of FPS games.Quake live is free, it's easy to pick up and it has minimum system requirements.Balanced/Competitive/Challenging gameplay that is smooth, fluent and easy to learn but difficult to master.10/10PS: If you ever get a chance to watch live QL matches on Twitch, don't miss it. It is hands down one of the most exciting of the spectator E-Sports to watch and follow."
+posted,item_id,recommend,sentiment_analysis
+2014-10-16,226580,True,1
+2014-05-14,211500,True,2
+2014-10-26,308420,True,2
+2013-12-16,251570,False,1
+2014-10-26,221680,True,0
+2014-10-26,219150,True,1
+2014-09-22,282440,True,2

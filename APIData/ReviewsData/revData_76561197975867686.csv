@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-04,221020,True,"Definitely worth 5 bucks and under. As a dickey little town game its pretty solid, just could have been waaaay better.Dont think it quite deserves the panning people are giving it, but its pretty frustrating that there isnt regular updates, especialy considering it just needs content, content and more content. Serioulsy, just more content."
-2014-06-21,212680,True,"It was the best of times, it was the blurst of times?!?"
+posted,item_id,recommend,sentiment_analysis
+2015-02-04,221020,True,1
+2014-06-21,212680,True,2

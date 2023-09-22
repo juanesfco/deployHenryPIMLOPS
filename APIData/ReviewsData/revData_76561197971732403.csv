@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-07-12,263280,True,This game really surprised me.  I thought it looked really boring but it's the complete opposite.  It's loads of fun and just when you think you've found a safe passage you get stuck.
-2014-07-12,265930,True,Such a pity this doesn't have online co-op.  It's so much fun to play.  You can do the most random things and really funny things happen.
-2014-03-02,212680,True,This is an incredible little game.  Worth every cent you pay for it.  There's nothing on the market like it and I love running my ship.  This game even runs on my netbook that sports a 1.6ghz Atom processor and runs on Ubuntu Linux.  I've yet to beat the game but have spent countless times trying different ship configurations and you unlock more ships as you go.
-2014-03-02,200510,True,This game took me by surprise.  I've not played the earlier versions but this game is incredible.  The multiplayer has to be the most intense I've ever played.
-2014-06-05,256330,True,This has to be one of my all time favourite racing games.  The cars are amazing.  The tracks are incredibly well designed and its great that competitors can't run you off the track in multiplayer.  The cars handle really well and there is just so much going for this great rally game.  The weather effects are really amazing and the graphics are great.
-2016-09-10,406150,True,I absolutely loved this game.  Took me a little while to work out the movement mechanics but it was a load of fun.  A little short but lots of fun.  I'm hoping they make more levels or some DLC.  Take my money. First 100% in a steam game on this.  I also loved the electro sound track.
-2014-10-09,293860,True,A simple but fun game to play with friends.  Always a few laughs when someone gets scared.  Similar to Slender Man but in a multiplayer format.
-2014-03-12,218620,True,This game is four player co-op at its best.  Sometimes its a made dash from the cops as it gets to intense.  Definitely a wild ride.
+posted,item_id,recommend,sentiment_analysis
+2014-07-12,263280,True,1
+2014-07-12,265930,True,1
+2014-03-02,212680,True,1
+2014-03-02,200510,True,2
+2014-06-05,256330,True,2
+2016-09-10,406150,True,2
+2014-10-09,293860,True,1
+2014-03-12,218620,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-30,220240,False,Game crashed every time.Unable to fix it after months of back and forth with Ubisoft.Be warned!
-2011-03-21,440,True,BEst Multi FPS Online of all time!!!!You can play this game FOREVER!!
+posted,item_id,recommend,sentiment_analysis
+2013-12-30,220240,False,0
+2011-03-21,440,True,2

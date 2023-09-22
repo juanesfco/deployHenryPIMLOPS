@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-09,211820,True,"This is a must play sandbox game. Even though its only the beta right now, its probably one of the best sandbox games i have ever played."
-2014-12-13,261920,True,Christof told me to rate this benchmark because it is do
+posted,item_id,recommend,sentiment_analysis
+2013-12-09,211820,True,2
+2014-12-13,261920,True,1

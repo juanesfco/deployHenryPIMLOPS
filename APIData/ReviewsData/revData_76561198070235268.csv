@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-17,239030,True,"Joined a terrorist orginization, betrayed them, got executed.10/10"
-2016-07-02,72850,True,enb mods for this game look better than remastered
-2015-12-07,417860,False,This is made by people who don't really understand how a branching story with multiple endings work. Don't bother wasting 50 something MB on this game.
-2013-11-27,4000,True,"This game is creative, funny, silly, entertaining. It does everything, gives you shooters, hide and seek, sandbox & most of all MELONS! GET THIS GAME IT IS EVERYTHING YOU WANT IT TO BE! :D"
+posted,item_id,recommend,sentiment_analysis
+2015-04-17,239030,True,1
+2016-07-02,72850,True,1
+2015-12-07,417860,False,1
+2013-11-27,4000,True,2

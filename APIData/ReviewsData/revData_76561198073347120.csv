@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-11-11,252330,True,"esta gueno, te mantiene espectante todo el tiempo,esta pa juegarlo solo en una pieza, con audifonos y la puerta cerrada"
-2014-02-08,250420,True,"excelente juego, para pasar el rato, muy bueno, pocos requeriminetos, descarga rapida y mucho tiempo de diversion asegurada, y puedes matar hipsters, lo recomiendo 100%  graficas extilo antiguo, y es F2P, aunque costara 10 usd lo compraria."
-2013-11-07,7840,True,"muy bueno, comprenlo, shooter y de carreras, esta excelente 10/10"
-2013-09-01,241600,True,"muy bueno, muchas clases, pocos requerimientos y es de lo mejor, es dificil, se necesita mucha habilidad,  a medida que avanzas en el juego se torna mas dificil, nunca te aburriras, es un juegazo, es indie, compatibilidad total con controlador, te permite una precision mucho mayor"
-2013-06-29,109400,True,es un excelente juego por permitir apuntar de manera rapida y muy precisa
+posted,item_id,recommend,sentiment_analysis
+2013-11-11,252330,True,2
+2014-02-08,250420,True,2
+2013-11-07,7840,True,2
+2013-09-01,241600,True,2
+2013-06-29,109400,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-05,231060,False,TUDO BUGA NADA FUNCIONA FEIJOADA
-2015-10-11,242880,True,Hard as a f***
-2015-06-01,304930,True,Minecraft with zombies !! WOW !
-2015-06-01,8190,True,"GTA with a grapling hook... yeah, that's a nice one !"
-2015-05-31,570,True,"Simplesmente consumiu minha vida por completo, se eu me arrependo ? É claro que não :3"
+posted,item_id,recommend,sentiment_analysis
+2015-11-05,231060,False,1
+2015-10-11,242880,True,0
+2015-06-01,304930,True,2
+2015-06-01,8190,True,2
+2015-05-31,570,True,2

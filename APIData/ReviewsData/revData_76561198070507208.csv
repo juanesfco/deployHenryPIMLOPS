@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-27,8190,True,Just Cause 2 is a highly explosive game you can do what ever the ♥♥♥♥ you want. I recomend it to anyone who wants a thrill seeking action/adventure do what the ♥♥♥♥ your heart desires game
-2015-10-02,240,True,I am sexy
-2015-04-24,730,False,10/10
-2014-08-15,304930,True,i like to put toAST IN MY ♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,8190,True,0
+2015-10-02,240,True,2
+2015-04-24,730,False,1
+2014-08-15,304930,True,1

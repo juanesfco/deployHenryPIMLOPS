@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-06,204300,True,Cool game :thumbsup:
-2016-01-25,224540,False,It was good until the the DLC but the reast is great
-2016-01-10,299360,True,FTP
-2014-09-28,218680,True,goood
+posted,item_id,recommend,sentiment_analysis
+2014-04-06,204300,True,1
+2016-01-25,224540,False,2
+2016-01-10,299360,True,1
+2014-09-28,218680,True,2

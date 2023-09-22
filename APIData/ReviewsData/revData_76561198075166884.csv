@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-11,221100,True,"I find the game CAN be fun with friends but the AI is so bad, the zombies walk through objects so often"
-2014-01-14,251570,True,"This game is perhaps one of the best games i've ever played. On single player the game challenges the player and it's a lot of fun but multiplayer playing with a friend is twice as good. I definately recommend the game to all different types of players, It's 1st person, a shooter and a zombie survival. AWESOME IN A GAME"
-2015-02-02,224540,True,"Ace of spades is a fun game when you have people to play, such as friends, classmates etcBUT... Ace of Spades at the moment has barely anyone on, especially in Australia"
+posted,item_id,recommend,sentiment_analysis
+2014-02-11,221100,True,0
+2014-01-14,251570,True,2
+2015-02-02,224540,True,1

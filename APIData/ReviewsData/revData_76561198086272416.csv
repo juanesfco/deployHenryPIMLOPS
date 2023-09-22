@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-28,301520,False,It's now become a crate unboxing simulator.
-2015-03-06,440,True,Hats are everything
-2016-06-18,271590,True,"GTA V Logic - Cops run you over, instant 2 stars. 10/10 IGN"
+posted,item_id,recommend,sentiment_analysis
+2016-04-28,301520,False,1
+2015-03-06,440,True,1
+2016-06-18,271590,True,1

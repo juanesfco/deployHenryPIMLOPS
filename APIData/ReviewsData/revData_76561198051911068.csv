@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-31,252490,True,This is my favorite game.
-2014-08-15,304930,True,I like it. Just i always die. cause i just started playing.
+posted,item_id,recommend,sentiment_analysis
+2015-12-31,252490,True,1
+2014-08-15,304930,True,1

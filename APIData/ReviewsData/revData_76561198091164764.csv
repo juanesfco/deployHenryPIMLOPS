@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-08-09,221100,False,Es una terrible bosta un juego injugable NO!!! lo recomiendo para nada es una terrible CAGADA anda demasiado mal estuvo 6 años en early access y no lo actualizan. Esta lleno de bugs (errores) y lo peor de todo es que no me lo quieren rembolsar en verdad un robo
-2015-04-19,238280,True,Demasiado bueno para ser verdad.
-2016-08-14,218620,True,Juegazo 10/10 pero los bots son medio enfermos de la kbza
-2015-02-15,230410,True,"Exelente juego, muy divertido jugarlo con amigos ademas de lo  entretenido que es contruir y conseguir los warframes. :)"
-2014-02-17,570,True,mmm pues es muy buen genero moba buenas graficas muy viciante y es mas divertido si juegas con amigos entre lol osealeague of leyends y dota 2 tiene mas jubabilidad dota 2 totalmente recomedado pero seria mejor un server latino jaja
+posted,item_id,recommend,sentiment_analysis
+2016-08-09,221100,False,0
+2015-04-19,238280,True,2
+2016-08-14,218620,True,0
+2015-02-15,230410,True,2
+2014-02-17,570,True,2

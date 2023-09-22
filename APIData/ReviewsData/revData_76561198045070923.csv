@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-05-30,35450,True,An all right game i need a better computer to make graphics better gameplay is nice
-2014-05-20,265630,True,Da intro song will give you wi little boner
-2012-07-12,2600,True,mmmmmmmmmmmmmmmkkkkkkkkkkkkkkkkkkkk
-2011-12-28,240,True,VERY GOOD FUN GAME
+posted,item_id,recommend,sentiment_analysis
+2012-05-30,35450,True,2
+2014-05-20,265630,True,0
+2012-07-12,2600,True,1
+2011-12-28,240,True,2

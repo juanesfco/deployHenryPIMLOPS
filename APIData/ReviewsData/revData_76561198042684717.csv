@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-29,265930,True,The sheep approves of the goats
-2016-01-16,384110,True,9/10 would get infected again
-2016-08-17,351970,True,The music and the battle system makes the game for me especially the BGM for the trials dungeonsand there are goats near the town of Elysia that too...
+posted,item_id,recommend,sentiment_analysis
+2015-11-29,265930,True,1
+2016-01-16,384110,True,1
+2016-08-17,351970,True,0

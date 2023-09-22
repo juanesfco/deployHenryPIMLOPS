@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-11-26,55230,True,"This game is so much fun, buy it!It features on of the best Customization i've ever seeThere is so much fun things in this game, i've spent hours on this awesome gameThe game can get repetetive and some missions are boring and some missing content removedbut this game is a lot of fun either you are playing with a friend or alonePlay it, it's worth it"
-2016-05-12,253430,True,Still a better game than CoD Infinite Warfare.Like CS:GO meets Minecraft.
-2012-07-15,4000,True,"This is like real life, you can build anything and use half life weapons, also there are mods to get online.i have also heard you can create animations with this gamethis is one of my favourite games to play."
+posted,item_id,recommend,sentiment_analysis
+2013-11-26,55230,True,1
+2016-05-12,253430,True,1
+2012-07-15,4000,True,1

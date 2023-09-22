@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-23,391540,True,gr8 game ♥♥♥♥ fandom
-2016-08-23,72850,True,Like Fallout without guns
-2016-08-23,49520,True,Like Skyrim with guns
-2016-01-17,440,True,I'm ♥♥♥♥ aat the game but it is still awesome
+posted,item_id,recommend,sentiment_analysis
+2016-08-23,391540,True,0
+2016-08-23,72850,True,1
+2016-08-23,49520,True,1
+2016-01-17,440,True,2

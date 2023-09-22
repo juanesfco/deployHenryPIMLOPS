@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-01-25,299720,False,"Multiplayer support is very basic, you have to manually forward the needed port (26999), connect directly to the host's game via IP, and that dosen't work anyway.This game is not worth your time or your $10, stay away."
+posted,item_id,recommend,sentiment_analysis
+2015-01-25,299720,False,0

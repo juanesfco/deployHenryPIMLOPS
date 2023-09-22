@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-05-31,440,True,An amazing and adictive game. Once you start playing you can't simply stop! Not only that but it's free! There should not be a single person without this game in thier Steam library!
-2015-03-29,274170,True,"This game is like the first Hotline Miami except harder, quicker, bloodier, gorier, and most of all BETTER 10/10"
-2014-11-27,24240,False,"The game itself has a very interesting concept but falls short in several areas. From the start of the game it feels a lot like Left 4 Dead but cops and robbers style. A problem (It's somewhat minor depending on how you feel about it) is the voice acting. It's laughable. Another big problem is the fact that it tries to make some sort of story but it's undetectable. And the fact that you can so easily shoot a civilian when a cop is right next to them is pretty agrivating. If you want a similar play style but a better experience, then just play Left 4 Dead 2."
-2013-12-01,219150,True,Such a great game! A little short (I beat in about 6 hours) but it's full of action! There is not one moment when its full of action! But that's just the game. The music in this game is outstanding! In this game you die as quickly as the enemies so it requires a lot of trial and error unlike a lot of the current games. But it's a nice fresh game which is amazing and a must buy!
-2013-04-14,620,True,"Very puzzling but a beutiful game. Once you figure out a test chamber you will think to yourself 'Well ♥♥♥♥, how did I not figure that out?' then you will want to go kill yourself because of how stupid you feel for not figuring it out, but then you remember you have to beat the game to make yourself feel worthy again."
-2013-03-29,240,True,My favorite C.S. in the whole series! Full of action and very community based. It really feels like you are plays a genuine Valve game. I highly recommend this!
-2013-03-20,7670,True,This game is simply amazing! The unique-ness of the story and things you can do is just breath-taking! Definetly worth 20$
-2013-02-01,220,True,If you liked the first one you will for sure fall in love with this game! It was fun and fast pased! Totally worth the money!
+posted,item_id,recommend,sentiment_analysis
+2013-05-31,440,True,1
+2015-03-29,274170,True,2
+2014-11-27,24240,False,1
+2013-12-01,219150,True,2
+2013-04-14,620,True,0
+2013-03-29,240,True,2
+2013-03-20,7670,True,2
+2013-02-01,220,True,2

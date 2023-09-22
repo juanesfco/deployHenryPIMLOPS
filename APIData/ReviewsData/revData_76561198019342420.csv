@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-09-06,72850,True,If you're into open world RPG's then this is your type of game
-2013-06-26,12140,True,Max has a HD face and you will get a free dose of V if you play
-2013-03-31,202170,True,Bad boy game
+posted,item_id,recommend,sentiment_analysis
+2013-09-06,72850,True,0
+2013-06-26,12140,True,2
+2013-03-31,202170,True,0

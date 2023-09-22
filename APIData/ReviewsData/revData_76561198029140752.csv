@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-16,235210,False,Game crashes a lot. Worth if it's $5 i reckon.Turning down all the gfx and putting the game into windowed mode helped a little.
-2016-08-20,243930,False,This game is not good.The story makes no sense at all.The combat is slow and the same throughout the whole game.And this game is very very hard. even on easy i had trouble beating it.Not recommended
-2016-08-17,209730,False,worth a fiver
-2014-09-16,39210,False,"Please be aware! Your free game time begins when you create your account, NOT WHEN YOU START PLAYING THE GAME, LIKE NORMAL GAMES!!!!!! I did not know this and so lost my money as far as i'm concerned. Not even gonna bother. All I did was update the game through the launcher. Thanks for nothing Square Enix"
-2016-08-21,233290,True,Great story. Worth buying for the ending alone.If you want action this is NOT the game to buy
-2014-09-29,203160,True,About as cheesy as a John Cena movieOr Shoot Em' Up. oh god shoot em' up was cheesy. Like Pont l’Eveque level cheesy
+posted,item_id,recommend,sentiment_analysis
+2016-08-16,235210,False,0
+2016-08-20,243930,False,0
+2016-08-17,209730,False,2
+2014-09-16,39210,False,1
+2016-08-21,233290,True,2
+2014-09-29,203160,True,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-22,252490,True,Awesome game! A few people who kos but u can always get ur revenge :)A lot survival tatics and also fun with friends!
-2015-01-21,222880,True,No Gaben 11/10
-2014-12-01,730,True,"Gabe Newell 12/10, Would fiddle with"
-2013-12-22,221100,True,Awesome game based of the mod! A little bit buggy due to it being early access alpha.
+posted,item_id,recommend,sentiment_analysis
+2013-12-22,252490,True,2
+2015-01-21,222880,True,1
+2014-12-01,730,True,1
+2013-12-22,221100,True,2

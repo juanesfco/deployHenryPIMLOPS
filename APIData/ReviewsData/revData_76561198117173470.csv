@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-24,730,True,"CSGO is a really great game, involving stratigies, money and making new friends. Play both Terrorists and Counter-Terrorists in this endless game of fun!"
+posted,item_id,recommend,sentiment_analysis
+2016-02-24,730,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-15,432020,False,♥♥♥♥ this game
-2014-05-24,55230,True,dank
+posted,item_id,recommend,sentiment_analysis
+2016-01-15,432020,False,0
+2014-05-24,55230,True,1

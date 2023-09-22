@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-28,330830,True,must have if you a borderlands fan or a tell tale fan.
-2014-01-01,211400,True,"This game is visually stunning, the background and colour palette choice is so well done. You can’t help but to stay around a bit a soak in the surrounding. The music works really well with to generate that gloomy atmosphere but never interfering with the game itself. The jump mechanic can sometime be funny but besides that it worth a buying."
+posted,item_id,recommend,sentiment_analysis
+2016-06-28,330830,True,1
+2014-01-01,211400,True,1

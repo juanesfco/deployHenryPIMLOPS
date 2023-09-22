@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-12,99700,True,"Bought it having no idea what it was about.. a rounding up purchase...but was not diappointed.Simply put, it's a great quirky little physics game.  At times it feels like herding cats, quickly rolling into 'I'm an idiot' when you realise the solution.10/10 if you get it for the right price."
-2014-03-03,250600,True,"A cross between real time strategy, flight simulator and survival horror.It was much like my first sexual experience, quick and confusing, but I was ready to go again straight away.10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-08-12,99700,True,1
+2014-03-03,250600,True,2

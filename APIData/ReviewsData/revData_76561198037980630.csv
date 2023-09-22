@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-08,248570,False,"Juste hum comment dire, un jeu tout simplement nul"
-2014-12-13,113400,False,"Un jeu qui tente de copier GTA mais au final, cela donne un jeu plein de bugs et de cheaters.Je le découseille reellement !"
-2014-08-23,227700,False,"Bourré de bug, besoin d'une maj d'urgence. Et des kits pas équilibrés"
-2014-03-14,107410,True,cool
+posted,item_id,recommend,sentiment_analysis
+2014-06-08,248570,False,0
+2014-12-13,113400,False,0
+2014-08-23,227700,False,2
+2014-03-14,107410,True,2

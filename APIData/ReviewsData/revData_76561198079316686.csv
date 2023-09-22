@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-22,17580,True,"the games good, but the tutorial is really bad, all it teaches is to move around, not about how games are played, and to make cyberspace less complicated. but in general it is good"
-2015-03-18,218620,True,2 words - REALLY GOOD!
+posted,item_id,recommend,sentiment_analysis
+2014-04-22,17580,True,1
+2015-03-18,218620,True,2

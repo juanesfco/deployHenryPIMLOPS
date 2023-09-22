@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-01,440,True,this is a very fun game and spend my free time playing it personaly i thnk it is a very good game and you who are reading this should give it a go.
-2016-09-07,218230,True,"I love planetside 2, there are not many other games like it, i really like to squad and ouitfit system and for free i encourage people to give it a go"
+posted,item_id,recommend,sentiment_analysis
+2014-02-01,440,True,2
+2016-09-07,218230,True,2

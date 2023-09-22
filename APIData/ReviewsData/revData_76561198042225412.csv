@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-26,295110,False,Promised: Open world zombie survival game.Delivered: Battle royale as main game and survival is more like optional game-mode.Failed: To deal with cheaters.Also Regular Battle Royale is a joke. Most people keep teaming up and killing others.
-2014-12-30,242760,True,Great game 10/10. A few bugs and glitches but nothing game breaking.Still in Early Access. But getting better with each update.
-2014-09-25,233450,True,Best Early Access game purchase I have made. Having loads of fun playing it...
-2014-07-19,730,True,It's great fun to play with you friends in any mode... although competitive matchmaking needs to improve...
+posted,item_id,recommend,sentiment_analysis
+2016-01-26,295110,False,2
+2014-12-30,242760,True,1
+2014-09-25,233450,True,2
+2014-07-19,730,True,2

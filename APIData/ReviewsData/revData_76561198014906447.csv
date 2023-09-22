@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-25,236110,True,Amazing Game Pros - Great Quality GraphicsUpdates Frequently ITS FRICKEN DUNGEON DEFENDERSAwesome GameplayCons -No Turtles on treadmills
-2015-08-28,391460,False,"Pro's - Nice Graphics,Fast Paced,COD and CS mixCon's - Russian and US servers only meaning Tons of lag .... like alot of lag,Lag,Lag,Lag,Lag,Lag,Lag,Lag*GLICHOVERHERE*   Lag,Lag,Lag"
-2016-07-10,288470,True,"Fable Anniversary - A Open World 3rd Person RPG a remake of its original 5 years ago, this game gives you alot of choices and different ways to do everything wether its a good choice or bad ... its has a very fun and interesting Magic system with the sword being very basic just mashing the same button over and over again ... the bow it fun with a cool aiming system and unique charge up with all weapons getting special elements like Fire and lightning that are all usefull vs different things ... alot this game really changes the life of the character with buying houses ( alowing to get married ) or buying a store ( expensive but gains money over time ) being evil ( lockpicking houses and stealing ) and being good ( killing Evil enemys count ) ...."
-2016-03-21,26800,False,Personally I found this the most boring and dumbest games ive everyplayed with constant boring-ness and dumbness-nessTo sum my review this game sucks....alot110 - To much water
+posted,item_id,recommend,sentiment_analysis
+2015-09-25,236110,True,2
+2015-08-28,391460,False,2
+2016-07-10,288470,True,1
+2016-03-21,26800,False,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-07,324080,True,"Prós: jogo bonito, boa jogabilidade, tem boa variedade de blocos e itens para construção.Contras: como diz na descrição do jogo 'acesso antecipado', jogo apresenta diversas falhas, poucos crafts.Se você busca um jogo para liberar sua criatividade construtiva é uma boa opção, agora se busca desafios de sobrevivência terá poucas horas de jogo."
-2015-12-03,239140,True,"Muito bom e divertido, recomendo."
-2016-05-20,301640,True,"Muito bom,  vale a pena quando estiver na promoção."
+posted,item_id,recommend,sentiment_analysis
+2016-01-07,324080,True,1
+2015-12-03,239140,True,2
+2016-05-20,301640,True,2

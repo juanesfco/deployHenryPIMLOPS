@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-20,440,True,Tem potencial
-2015-07-20,226700,False,"Esse jogo é uma bostaPor incrivel q pareça eu nem jogar consegui, comprei por influencia de um amigo, e agora estou com essa ♥♥♥♥♥, tentei rembolsar mas pelo visto as 3 horas q eu passei tentando logar no servidor conta como horas jogadasNa moral, vai a ♥♥♥♥♥, não comprem esse esterco, deviam me pagar por ter essa ♥♥♥♥♥.SIM, EU TESTEI NO MINIMO, NÃO FOISIM, EU TENHO OS REQUISITOS"
+posted,item_id,recommend,sentiment_analysis
+2016-01-20,440,True,1
+2015-07-20,226700,False,1

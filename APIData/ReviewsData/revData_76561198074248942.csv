@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-11,332800,True,"I have only played a total of approximately 15 mins, and I am amazed. FNAF 2 is much better than the original in terms of horror and gameplay but playing the old one occasionally is still fun too. I love this game already, 10/10! Good Job Scott!"
-2014-08-29,261030,True,"This game is my number one favourite game, nothing can beat it. Love the story!! So emotional"
-2015-07-27,388090,True,Fantastic Game. Atmosphere is amazing. The listening mechanic is a real game changer. I personally love the game and believe it truly IS the best one out of them all. 10/10
-2015-09-20,346110,True,Extreme. Too Good. Must Get. TAME ALL THEM DODOS
+posted,item_id,recommend,sentiment_analysis
+2014-11-11,332800,True,2
+2014-08-29,261030,True,1
+2015-07-27,388090,True,2
+2015-09-20,346110,True,2

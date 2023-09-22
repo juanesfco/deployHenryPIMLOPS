@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-08,250320,True,"Great game, great graphic style, great characters, great story, everything about it is great, as expected from TellTale, and the finale just leave you the needing for more. I´ll anxiously wait for its second season."
-2014-05-13,261030,True,"really great story, characters, effects, backgrounds and choices that will judge your morality, totally deserves game of the year as its predecessor"
+posted,item_id,recommend,sentiment_analysis
+2014-07-08,250320,True,2
+2014-05-13,261030,True,2

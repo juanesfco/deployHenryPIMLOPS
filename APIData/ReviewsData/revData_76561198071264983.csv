@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-26,237310,True,AWSOME GAME MAKES ME WANA TYPE IN CAPS :oDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-2016-01-18,354290,True,"I like it alot, its fun"
-2014-11-27,207230,True,its a cool game and i dont mind playing it at all.
-2014-04-20,570,True,its not a bad game
-2014-01-25,550,True,i totaly recomend this game i excpecialy like the dark carnivel because of there mini games :o)
-2014-01-20,206420,True,greatest game i ever played
+posted,item_id,recommend,sentiment_analysis
+2014-04-26,237310,True,0
+2016-01-18,354290,True,2
+2014-11-27,207230,True,1
+2014-04-20,570,True,1
+2014-01-25,550,True,1
+2014-01-20,206420,True,2

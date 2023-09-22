@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-04-25,72850,False,"This game was made great by mods and the modding community. Through those mods it remained relevant and purchased far longer than it otherwise would have. But Bethesda and Valve are now willing to destroy that community -and in Valve's case, potentially destroy the modding communities of countless other current and future games- in order to wring the last drops from the cash cow.If you're considering buying this game right now, you should keep your wallet closed until and unless Valve and Bethesda admit their mistake and put the paid workshop to sleep. Skyrim without mods is a mere shadow of the game you've heard people talk about, and in the near future it could cost many times the base purchase price to mod it properly."
-2013-12-27,8870,True,"If you have any taste for story-driven games, play this. Do yourself a favour and avoid even the smallest spoilers before finishing it; even most reviews give away too much."
+posted,item_id,recommend,sentiment_analysis
+2015-04-25,72850,False,1
+2013-12-27,8870,True,2

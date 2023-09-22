@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-11,282800,True,idek
-2014-03-29,206420,True,you can dress up as a toilet and run around naked 10/10
-2014-03-15,234710,True,"you get to play poker with a talking dog, what else do you need?"
+posted,item_id,recommend,sentiment_analysis
+2016-04-11,282800,True,1
+2014-03-29,206420,True,1
+2014-03-15,234710,True,1

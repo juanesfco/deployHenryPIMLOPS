@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-02,211820,True,"Epic game. If you like space, you should buy.If you like sandbox games, you should buy.If you like space alpacas, you should buy."
-2015-01-14,218620,True,"Amazing game. Got plenty of hours clocked offline and online and still not bored. Good range of weapons and heists. Updated regularly with plenty of new stuff.You can even buy cute, innocent masks, kill thousands of law enforcers and still look fabulous. Highly recommended if you like fixing drills and lying on the floor shouting at your friends when they don't pick you up."
-2014-01-25,206420,False,I retract my last review and rant towards the game. This one is more to the non dedicated graphics cards. why are some games able to be run on intel cards whuile others can't. I'm keeping this review as a no but if you have dedicated graphic cards then i recomend it from what I've played so far.
-2014-04-01,233720,False,Seriously? Making us pay for the things that come futomaticly with the ios version of the game is just a giant kick in the area where the sun dont shine. I recomend that you just the the ios version so you dont need to pay even more.
-2013-07-30,105600,True,great game. highly recomend it.
+posted,item_id,recommend,sentiment_analysis
+2015-05-02,211820,True,0
+2015-01-14,218620,True,2
+2014-01-25,206420,False,2
+2014-04-01,233720,False,1
+2013-07-30,105600,True,2

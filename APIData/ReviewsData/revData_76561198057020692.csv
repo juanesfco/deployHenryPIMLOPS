@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-23,22380,True,Some of the best gamplay i have ever seen
-2015-01-09,330840,True,nice
-2013-03-18,550,True,Good
+posted,item_id,recommend,sentiment_analysis
+2014-01-23,22380,True,2
+2015-01-09,330840,True,2
+2013-03-18,550,True,2

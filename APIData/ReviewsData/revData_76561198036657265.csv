@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-06-19,360950,True,"I have played this game on a score or so occasions and i see great potential, and hopefully that potential will be realized cos' it looks fantastic in VR and plays very nicely. The developers have quite some work to do and hopefully that gets done in the next six months. I am reading a lot of negative reviews but let's face it when you buy something tagged Early Access if you think it sucks, you are likely a victim of your unrealistic expectations. This game is, based upon game play so far, ptentially one of the best VR games on the market to my mind, and that is without any doubt. Good luck!"
-2016-08-18,512630,False,Teleport feature is OK but we must be able to rotate on the spot - as implemented in AltSpace VR. This feature is a MUST.
-2016-06-06,450390,True,This is the best demonstration of the promise of VR at the moment. An engrossing introduction...
-2015-11-01,239140,True,"This is one of my favourite games. Runs nicely for me now on ubuntu, stable...all good! Recommended."
+posted,item_id,recommend,sentiment_analysis
+2016-06-19,360950,True,1
+2016-08-18,512630,False,2
+2016-06-06,450390,True,2
+2015-11-01,239140,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-28,391460,False,Lula nn aprova!!!
-2015-08-20,238960,False,"É chato, e não abre"
-2014-02-12,440,True,Ótimo jogo tinha no meu outro pc.E agora estou instalando nesse muito bom mesmo.
+posted,item_id,recommend,sentiment_analysis
+2015-09-28,391460,False,1
+2015-08-20,238960,False,0
+2014-02-12,440,True,2

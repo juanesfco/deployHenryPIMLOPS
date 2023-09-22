@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-07,219150,True,"This game is sure to break your face.... The story is engaging, and as my friend said 'A masterpeice of a game'The soundtrack gives you emotion as you play the game. It's not just one song that plays over and over again, but a vary in soundtrack that keeps you engaged and excited. As for gameplay, this game is fast paced, action packed and forgiving. This game is perfect for people who have always wanted to let their emotions out through games. If you die, just restart, but angrier, that anger helps fuel the gameplay to it's best."
-2013-03-20,440,True,PLAY NOW OR I WIIL SNEAK INTO YOUR HOUSE AND KILL YOUR FAMILY
+posted,item_id,recommend,sentiment_analysis
+2015-05-07,219150,True,1
+2013-03-20,440,True,1

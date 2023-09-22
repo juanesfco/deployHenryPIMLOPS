@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-30,295110,True,"In my First 3 minutes of the game i had to kill a dog which kept whining when i attacked it, after it died i tried to take out my anger on zombies by fist fighting them, i died instantly..."
-2015-07-17,293260,True,this game is so much fun i suggest downloading it. Essentially it is a table top version of DND
-2015-06-08,4000,True,<3
+posted,item_id,recommend,sentiment_analysis
+2016-01-30,295110,True,0
+2015-07-17,293260,True,1
+2015-06-08,4000,True,2

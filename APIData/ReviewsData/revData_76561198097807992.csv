@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-01,220,True,"this is a must buy for steam users, one of the best games ever."
-2014-03-12,221100,True,it haz zombies n ♥♥♥♥
-2015-03-14,4000,True,Pretty addictive game.
-2015-01-09,48700,True,"Really good medieval simulation lots of fun yet graphics are outdated really good combat system. some mods i recommend are brytenwalda, the last days of the third age, clash of kings."
+posted,item_id,recommend,sentiment_analysis
+2014-11-01,220,True,2
+2014-03-12,221100,True,1
+2015-03-14,4000,True,1
+2015-01-09,48700,True,2

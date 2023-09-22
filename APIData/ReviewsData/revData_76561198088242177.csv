@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-05-16,550,True,topN1
+posted,item_id,recommend,sentiment_analysis
+2016-05-16,550,True,1

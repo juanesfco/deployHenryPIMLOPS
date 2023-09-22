@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-12,214490,True,"One of the best Alien games ever made! If you don't own it, get it! If you havent finished it, finish it!This is my game of the year I don't think any other game is going to offer the same experience that I have just gone through. This makes Outlast look like a minigame."
-2013-10-19,220200,True,"If you like anything to do with space then this is the game for you!!!!It is one heck of a challenge to start off with but is very rewarding once you are a pro at building space stations :P , It kinda makes me wonder how they did this stuff in real life."
+posted,item_id,recommend,sentiment_analysis
+2014-10-12,214490,True,1
+2013-10-19,220200,True,2

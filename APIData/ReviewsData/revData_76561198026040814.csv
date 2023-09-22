@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-26,211420,True,The only game that is fun on the basis of constantly losing (both the game and your will to live)10/10 would die againPRAISE THE SUN
-2015-08-07,214950,True,Leaves city to conquer random plebs in the westArmy ambushed by plebs in forestRekt by plebs in westAthenians invade and take citiesArmy in ruinsCities ablazeFood shortage ensuesRebellion in last cityGG Athenians10/10 would lose again
-2013-12-25,222750,True,"This game is a verry realistic take on the strategy genre. rather than massing expendable meatshields and throwing them at your enemies, every single unit death is a game changing event, sometimes completely de-railing your strategy entirely.9/10"
+posted,item_id,recommend,sentiment_analysis
+2015-11-26,211420,True,1
+2015-08-07,214950,True,0
+2013-12-25,222750,True,0

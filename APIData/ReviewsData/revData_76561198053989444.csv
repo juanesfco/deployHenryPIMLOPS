@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-05,221100,False,"What ever you do, DO NOT PLAY THIS GAME.Its so bad i'm not even kidding. It should cost the same as Badrats.Terrible Controls.Horrible Graphics tha kill your computer no matter what GPU you have.Full of 12ies that all you a ♥♥♥♥♥♥ and a ♥♥♥♥. SO Yeah Don't Play this Game"
-2015-11-24,246900,True,"Ladys and Gentlemen Its time to take up arms against the worst enemy of all... GERMS.You take the fight to the messes in this mundane and boring simulatior. Cleaning up after horrible events have occured.Take the fight to the enemy on various battlefields.Surprisingly fun and enjoyable. Would Recommend The Fun caused by friends making more mess than beforeFinding the hidden bodys, and putting ogether the events that caused these horrible messes.The Most Fun you Can have With a Mop other than Jousting..BUY IT, PLAY IT, CLEAN IT!!!"
+posted,item_id,recommend,sentiment_analysis
+2016-02-05,221100,False,0
+2015-11-24,246900,True,1

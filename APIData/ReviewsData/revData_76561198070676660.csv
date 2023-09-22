@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-11-30,204360,True,"ridiculous, stupid and pointless....those are the best attributes about this game that makes me wanna play it!!!!!! its got cool graphics, great gameplay and co-op. get it while its on sale"
-2013-11-25,209000,True,"This game may have not gotten 10/10 like arkham city, but in my opinion it is a strong equal.....if not better"
+posted,item_id,recommend,sentiment_analysis
+2013-11-30,204360,True,1
+2013-11-25,209000,True,1

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-06-08,292030,True,"You're not a true RPG player if you don't have at least ONE of the Witcher games in your library and if you want to buy a Witcher game, make sure it's this one."
-2016-05-04,377160,True,"Can't blame other's thoughts on the game but I'm pretty sure the user reviews here will become 'Mixed' when time passes.*Edit: Wow, I predicted it. I hope the ratings don't go down to negative. Cause' the game has enough problems as it is."
-2016-05-17,218620,True,"I'm surprised the overall ratings for this game aren't 'negative' or 'mixed' yet. Still a decent game though. Just buy the game and DLCs during a sale to actually play the game without spending a lot of money.*EDITSince Update 100 came out and microtransactions were removed, the game is now going back to its roots. Overkill listened to the community and that the next generation of safes will be completely free, except for the old gen. You'll still need to use a drill to open them. The revamped skill trees introduced by Update 100 have changed the way you play the game, in my experience at least. Some skills were nerfed (Inspire) others were buffed (Sentry Guns) and some were merged with other skills. In a way, this new system allows more roleplay and tactics during heists. Oh, and the update made Akimbos and the Saw to be usable by default which should have been in the game from the start. Anyway, Overkill also announced that they now own all the rights to the Payday franchise. Which means that they'll support the game throughout this year to the end of 2017. I don't know what'll happen to the game at this point. Overkill gained most of their fans back and they support them in return. So I guess that the game will survive after all."
-2016-05-01,72850,True,Why are you reading reviews for this game?
-2016-04-30,241930,True,"Found a captainHe called me man-swineI shived him in the gut with my son's broken sword10 seconds later...I met him again with a metal plate on his headHe remembered what I did to himSaid he won't fall for the same trick againI shived him again in the gut30 seconds later...I found him again with leather bandages covering his headSaid he will kill me this time, no mercyI cut off his head and he didn't come back.10/10 Uruks have the best medics."
-2015-09-25,105600,True,"Basically 2D Minecraft with demons, slimes, guns, magic, more bosses blah blah blah, just get the game already."
-2014-04-24,22380,True,You'll never regret buying this game cause' you'll never stop playing it!
-2014-02-21,4000,True,Bored and want to make something outrageous??? This game is just for you.
+posted,item_id,recommend,sentiment_analysis
+2016-06-08,292030,True,1
+2016-05-04,377160,True,1
+2016-05-17,218620,True,1
+2016-05-01,72850,True,0
+2016-04-30,241930,True,2
+2015-09-25,105600,True,2
+2014-04-24,22380,True,0
+2014-02-21,4000,True,0

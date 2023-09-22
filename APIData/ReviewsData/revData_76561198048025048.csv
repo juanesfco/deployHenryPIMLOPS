@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-24,17390,True,"This game allows me to shape a species in the way that the Flying Spaghetti Monster and the Invisible Pink Unicorn shaped us, in the beginning days,In this game i am a God, i am a Devil, i create warmongerers, i create peacekeepers, i conquer the galaxy, i destroy other races that threaten my chosen people, i dictate that my creations must evolve to survive, and it is my hand that shapes their bodies and minds.Of course, none of that happened in real life, because if a God shaped us, i'd imagine we'd look way cooler.Like, horns and stuff.Yeah."
-2014-01-24,6060,True,"Classic star wars game, fun as heck, played it before the days of steam and i intermittenly play it now, Yeehaw.(The Empire is by far the best Faction of them all)"
-2014-01-24,211820,True,"The Sky's the limit, i suppose, I have never played Terraria and as such i cannot make a reliable comparison, but Starbound kept me playing for hours at a time, never wanting to leave the game.Try it yourself, you might just fall in love."
-2014-01-24,219640,True,"Good game, lots of fun to hack opponents to death in a test of wit and endurance.Can be a bit lackluster, but overall fun."
-2014-01-24,6020,True,"Classic old game, i had heaps of fun playing it as a youngling, and i'm having heaps of fun replaying it as an.... older thinga game that Time shall not weary, a game that in my opinion has stood the test of time, being just as fun to play today, though graphically unremarkable, as the day it was released.Also it has Multiplayer and i'll wreck ya because i'm the best non-canonical Sith lord in the Galaxy.This game is Supercalifragilisticexpialidocious, to put it in one word, though it's not truly a word."
-2015-04-22,241540,True,"Great game, certainly had me hooked into it for a great many hours. smashing zombies and, on occasion, sneaking around zombies was a pleasurable experience.just don't die if you're playing as your favourite character. send others out to die."
+posted,item_id,recommend,sentiment_analysis
+2014-01-24,17390,True,0
+2014-01-24,6060,True,2
+2014-01-24,211820,True,2
+2014-01-24,219640,True,2
+2014-01-24,6020,True,1
+2015-04-22,241540,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-14,218620,True,Great game! Its good to just pull off amazing Heists with friends! Would Recommend to Lets players and such!
-2015-07-23,252490,True,Amazing game. Updates alot and makes the game better with every one!
-2014-06-20,105600,True,Amazing Game I love it
+posted,item_id,recommend,sentiment_analysis
+2015-07-14,218620,True,2
+2015-07-23,252490,True,2
+2014-06-20,105600,True,2

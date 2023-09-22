@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-14,730,True,"Novo jogo da série Counter Strike que deixou seus fãs de boca aberta, alguns meio decepcionados, mas que no fim acabavam se acostumando. O jogo se manteve fiel a série, continuou com a mesma jogabilidade, até mesmo um pouco melhorada, os gráficos inovaram, por ser um jogo que não mantinha nos gráficos. Os mapas continuaram os mesmos, porém com adição de outros, nada que não deixasse nós jogadores satisfeitos com o game.Recomendo!"
-2015-03-14,209650,False,"Jogo mal feito para a plataforma PC! Não possuí um Boost para melhor performance, servidores de má qualidade, ainda dublagem e interface não estão traduzidas.Não recomendo a compra para jogar o Multiplayer, caso queira comprar para campanha você terá uma pequena vida útil em cima do jogo, pois mesmo com uma boa história uma hora ela vai acabar, e você não terá utilidade com o jogo.Nota final: 7,5"
-2015-03-11,227940,True,"Recomendo!Pode ser um bom passatempo nas horas em que aquele seu jogo preferido já não está mais tão divertido, o jogo possuí um jogabilidade um pouco instável, porém apesar das frequentes atualizações e por ser um jogo Early Acces (Acesso antecepidado) consegue manter uma jogabilidade boa comparado aos outros jogos desse gênero e que estão nessa fase.Pode ser divertido se for jogado em uma turma de amigos."
+posted,item_id,recommend,sentiment_analysis
+2015-03-14,730,True,0
+2015-03-14,209650,False,0
+2015-03-11,227940,True,1

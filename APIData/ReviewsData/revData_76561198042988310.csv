@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-17,304930,True,I killed a guy with a hammer and took his pants 11/10
-2015-04-24,223710,True,Polygon simulator 2015
-2015-04-24,346900,True,"meh, not that addicting"
-2014-08-11,230410,True,"Before Playing This i was a nobody, after playing warframe i can safely say that it will not just take your virginity but it will also make you a super ninja Headcrab guy who takes others virginity, so yeh. 11/10 would play again"
+posted,item_id,recommend,sentiment_analysis
+2014-07-17,304930,True,0
+2015-04-24,223710,True,1
+2015-04-24,346900,True,1
+2014-08-11,230410,True,2

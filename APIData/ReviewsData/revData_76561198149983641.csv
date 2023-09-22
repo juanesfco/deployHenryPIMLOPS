@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-29,209080,True,More fun than a Shotgun-barrel of monkeys
-2015-01-13,310370,False,This isn't what I didn't pay for
-2015-01-13,70,True,When I bought this game I didnt think that all the hype was true. I have never been more glad to be so wrong. I rate this game 11 bananas
+posted,item_id,recommend,sentiment_analysis
+2015-01-29,209080,True,2
+2015-01-13,310370,False,1
+2015-01-13,70,True,1

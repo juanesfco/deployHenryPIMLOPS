@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-06,322330,True,so cool and cold
-2015-06-12,242880,True,very good
-2015-12-28,104900,True,bashing dinos are fun
-2015-02-27,244850,True,is gud
-2014-12-17,218230,True,this game is good but with out the transextuals
-2013-12-25,252490,True,f
+posted,item_id,recommend,sentiment_analysis
+2015-06-06,322330,True,0
+2015-06-12,242880,True,2
+2015-12-28,104900,True,2
+2015-02-27,244850,True,2
+2014-12-17,218230,True,2
+2013-12-25,252490,True,1

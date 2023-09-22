@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-20,205100,True,prolly the best game ive ever played
-2013-04-27,219740,True,This is an awesome game 10/10
-2015-11-10,416640,True,Got a problem? Nanobots...every time...beautiful
+posted,item_id,recommend,sentiment_analysis
+2016-06-20,205100,True,2
+2013-04-27,219740,True,2
+2015-11-10,416640,True,1

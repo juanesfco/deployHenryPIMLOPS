@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-07,24010,True,cool game
-2015-10-06,4000,True,Fun game. I like TTT.
-2015-10-06,730,True,So the ever famous Counter Strike. A somewhat good game. Infact im playing it now as i write this. If your new to the game then watch out. There are alot of good players in this and you will get rekt. Definetely not a game for those who are bad at FPS's. Invest at least 1 hundred hours if you want to get good. Thats it glhf.
+posted,item_id,recommend,sentiment_analysis
+2014-06-07,24010,True,1
+2015-10-06,4000,True,1
+2015-10-06,730,True,2

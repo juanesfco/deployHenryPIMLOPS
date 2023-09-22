@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-03-24,51100,False,PAY TO PLAY BOYS  MICRO TRANSACTIONS WINS YOU THE GAME
-2015-08-30,375950,True,10/10 helps me sleep on time everyday
-2016-09-11,226320,True,"I have played so many Free to Play games, but so far this is the only example of how good a F2P game could be.  Replayability :- 7/10  Constant updates :- 10/10  Events every month :- 10/10  Dev's interaction with players :- 9/10  Real F2P aspect :- 9/10  Inevntory management :- 3/10  At the start of the game you are given all heroes to play for free until they reach level 10, level 60 is max for unlocked heroes. Once you are done deciding which hero you want you can unlock 1 hero for free to lvl it to 60 (I suggest taking Deadpool 1st, since he has no energy cost and is fun to play).   Everytime you play the game, the game will drop Eternity Splinters for you to pick up, don't ignore them. You can use those Eternity Splinters to buy more heroes from the 'Eternity Splinter' vendor. You don't need to spend real/steam money for playing the game. The only thing you can might need to spend money is the costumes, but random costumes can be crafted too when you do Prestige. Prestige is releveling a hero from 0 to 60 once again, everytime you prestige you get a original costume of a hero, you can use 3 of the original costumes to craft 1 random costume.  There is atleast 1 event going on every month which will keep you hooked up to the game. The devs make sure the events are glitch-free.  The only thing I don't like about this game is that the default inventory is too short, and the Eternity Splinter price of STASH is also too high (600 Splinters) which takes long time to aquire compared to Random hero unlock box (175 Splinters).  Overall rating for the game :- 8/10"
-2016-02-06,570,True,1. suka ♥♥♥♥♥  2. putank ina mall    3. sir its me your brother la  4. support killsteal!  reported !  5. PING PING PING PING PING PING PING                                                    S.O.L.O.M.A.T.C.H.M.A.K.I.N.G.
-2016-02-06,304930,True,still better survival game than Dayz and H1Z1
-2016-02-06,386360,True,Dota 2 and League had sex and gave birth to this 3rd person MOBA
-2016-05-09,346110,False,"Thanks for the 10fps I guess...?  Edit :- I already knew this was all going to happen, Devs if you really want your playerbase to suggest your game to other people you gotta stop milking the money out of us, and ffs stop adding 2 dinos every month. The game is never going to be complete or gonna get out of early access soon enough if you keep doing this"
-2016-06-16,218620,False,"this 'game' was using more than 60GB of my hard disk. Looking back, I think it wasn't really worth it. Just uninstalled today and I feel like there are better things worth 60GB of data. Thanks to my friends for gifting me some of the DLCs, but I am not really enjoying the game so far...everytime I try to join a public lobby, I get kicked out of it for no reason, even if I ask first (if stealth/loud and safe to join?) before joining the actual game. Also 80% of payday lobbies are full of people using cheats, and I am pretty sure devs are going to do nothing about it."
+posted,item_id,recommend,sentiment_analysis
+2015-03-24,51100,False,1
+2015-08-30,375950,True,0
+2016-09-11,226320,True,1
+2016-02-06,570,True,1
+2016-02-06,304930,True,1
+2016-02-06,386360,True,1
+2016-05-09,346110,False,1
+2016-06-16,218620,False,2

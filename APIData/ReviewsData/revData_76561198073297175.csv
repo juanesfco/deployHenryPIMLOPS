@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-05,238960,True,just yes
-2014-07-09,570,True,Better than LOL
+posted,item_id,recommend,sentiment_analysis
+2014-09-05,238960,True,1
+2014-07-09,570,True,2

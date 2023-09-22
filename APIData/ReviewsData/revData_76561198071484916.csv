@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-24,221910,True,"This is truly a unique experience, i highly reccomend it"
+posted,item_id,recommend,sentiment_analysis
+2014-03-24,221910,True,2

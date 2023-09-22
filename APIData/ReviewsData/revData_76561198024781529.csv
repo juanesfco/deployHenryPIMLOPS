@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-04,107410,True,"Solid game much funOne of the best Military Shooters in the last couple of years. Althought, it has a steep learning it is a extremely relalistic and immersive."
-2014-12-23,221100,True,"Very intresting game. Deafinitely not for everyone, a couple of my friends bought the game tried it once and didn't enjoy the different action pace. This game will be very slow and mellow for 60% of the time then in the matter of moments you will be faced with many descisions that might lead life or death.'the real draw of DayZ is a combination of the risk of losing everything, or potentially coming out on top and winning everything' - Brian Hicks, DayZ Producer."
+posted,item_id,recommend,sentiment_analysis
+2016-02-04,107410,True,1
+2014-12-23,221100,True,1

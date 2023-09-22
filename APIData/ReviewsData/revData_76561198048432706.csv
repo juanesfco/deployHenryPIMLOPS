@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-08,247304,False,WHERE IS THE GUN AND THE SWORD?
-2015-01-23,301910,True,"i like this game because even though it dosent have much story, it give a wide branch of new superpowers and flying system that i really enjoy. the only wepon you will find from prevoius games is the .42 Fletcher, for the price of the game, this is really worth getting, also worth noting that if your not into the sctivities from saints row 4 DO NOT GET THIS GAME, the game is really comprised of the sctivities with twists, and a new one here and there. if you like the old acivities GET THE GAME, if you dont DO NOT"
-2014-04-16,4000,True,"this game is very fun, you can di whatever you like, have that be scared out of your pants by things people make up. or just screwing around in general. you can make your own unique inventions or use other poeples one and critizes/compliment them"
+posted,item_id,recommend,sentiment_analysis
+2014-11-08,247304,False,1
+2015-01-23,301910,True,1
+2014-04-16,4000,True,2

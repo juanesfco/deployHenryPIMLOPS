@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-08,271590,False,"Rockstar has provided us a sequel to a great game series, ultimately winning over many reviewers with its single-player story whilst having its multiplayer experience leaving an unsatisfying feeling due to its hyped bank heists which released about six months or more after the game had been released and the multiplayer servers and mechanics being downright broken."
-2015-11-17,377160,True,"A sequel which was over-hyped and as a result failed to live up to extremely high expectations.Albeit being a much-needed sequel, it could use many improvements. Although it is still a masterpiece it its own. Fallout 4 is a great game and I do recommend it but it has strayed into FPS more than an RPG."
-2015-05-12,252490,True,pretty fun survival game.u get assblasted everytime u start.if u get enough to not get assblasted u get raided.repeat every week.its still fun tho.
-2016-03-09,437220,True,"- You and 15 other players are placed into a battle-royale, hunger-games arena, you must fight and be the last man or men standing depending on the current two gamemodes you have to pick from.- You must scavenge, craft, and kill other players in order to gain loot and come in first place; trap houses, craft smoke bombs, craft poison darts, scavenge explosives and kill other players by throwing man trackers at them, glorious fun!Summarised in afew sentences; this game is extremely fun even in its alpha stage at the moment, it has lots and lots of potentinal to become something big; possibly even an Esport if a perfect balance is achieved and most players would agree with me that this game for a measly $15 is worth the money.In conclusion, you need to buy this game, NOW, BUY IT NOW."
-2015-02-04,4000,True,"Garry's Mod provides thousands of hours of fun for a measly ten dollars which to me is a steal.The game is extremely customisable by its community and playerbase in which they have developed many gamemodes, featuring Trouble in Terrorist Town, Winter Survival, Cinema and Roleplay gamemodes."
+posted,item_id,recommend,sentiment_analysis
+2016-01-08,271590,False,2
+2015-11-17,377160,True,2
+2015-05-12,252490,True,2
+2016-03-09,437220,True,1
+2015-02-04,4000,True,1

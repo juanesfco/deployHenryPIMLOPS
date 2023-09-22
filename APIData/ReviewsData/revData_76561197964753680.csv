@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-29,8870,True,"great storyline, loved the twist"
-2015-06-27,333930,True,Awesome game. Loads of quick explosive and gun filled fun
-2014-01-18,232790,True,Love the retro mode!
-2013-12-12,218620,True,awesome game if you find the right crew to play with you!
+posted,item_id,recommend,sentiment_analysis
+2014-10-29,8870,True,2
+2015-06-27,333930,True,2
+2014-01-18,232790,True,2
+2013-12-12,218620,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-18,227680,False,♥♥♥♥ ass game all round
-2016-03-29,251570,True,keep thoose updates flowing game is becomming a muth♥♥♥♥ing beast
-2015-06-06,264710,True,awsome game nothing else like it
-2014-06-19,263440,False,♥♥♥♥ing ♥♥♥♥ house game
+posted,item_id,recommend,sentiment_analysis
+2015-05-18,227680,False,0
+2016-03-29,251570,True,0
+2015-06-06,264710,True,0
+2014-06-19,263440,False,0

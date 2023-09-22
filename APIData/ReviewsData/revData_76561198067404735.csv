@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-07,348090,True,"I tried to kill my friend with the RPG, but i accidently hit the pillar and it backfired at me.I never have laughed so hard this year."
-2015-02-22,218620,True,This is art Mr. White!
-2015-08-28,384020,True,Shooting bullets out of your katana has never been so real!
-2015-02-23,24240,False,Its all Green Hat ♥♥♥♥er's fault.
+posted,item_id,recommend,sentiment_analysis
+2015-03-07,348090,True,2
+2015-02-22,218620,True,1
+2015-08-28,384020,True,2
+2015-02-23,24240,False,0

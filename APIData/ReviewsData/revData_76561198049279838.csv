@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-16,221100,True,"All it's bugs aside this is a fun game.Gonna be great with the new renderer. :DI'd recommend getting it, but only if you can handle the random bugs. (Like the game eating your guns sometimes and desync((Stahp devouring my m4s!)))."
+posted,item_id,recommend,sentiment_analysis
+2016-02-16,221100,True,1

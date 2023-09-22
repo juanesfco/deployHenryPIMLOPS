@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-29,222880,False,not good for me
-2016-01-17,730,True,"worst recoil ever, but its a good game"
+posted,item_id,recommend,sentiment_analysis
+2016-05-29,222880,False,0
+2016-01-17,730,True,0

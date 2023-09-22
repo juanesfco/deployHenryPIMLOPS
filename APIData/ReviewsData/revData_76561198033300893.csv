@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-15,387370,True,"Quite enjoyable so far yet difficult, the tutorial does not seem to explain much overall, I really like the idea of sending up multiple rockets overtime and how you can send up a rocket beforehand with extra supplies for your settlers on the next launch, very cheap worth buying."
-2016-03-26,391540,False,Ehhhhhhh
+posted,item_id,recommend,sentiment_analysis
+2016-01-15,387370,True,2
+2016-03-26,391540,False,1

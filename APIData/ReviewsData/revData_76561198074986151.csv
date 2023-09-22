@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-10,252490,True,ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken ooh like a chicken chicken juicy and tender
-2014-09-25,440,True,poo
-2014-09-10,4000,True,This game is a great game although it suffers from a HIGHLY agesist communtity. Seriously guys get a life.
+posted,item_id,recommend,sentiment_analysis
+2014-09-10,252490,True,0
+2014-09-25,440,True,1
+2014-09-10,4000,True,0

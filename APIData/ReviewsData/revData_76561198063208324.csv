@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-08-24,301520,True,"Best game ever 10/10, no lag AT ALL amazing graphics, and its FREE! I really recommend this game!"
-2013-11-28,200510,True,AWESOME YOU SHOULD DEFINETLY GET THIS!
-2014-11-05,13640,False,Boring...
-2014-11-09,105600,True,AWESOME 9.5/10!!!
-2014-10-31,304930,True,Its Awesome
-2014-07-20,620,True,BEST GAME EVER 10 OUT OF 10!!!!!!!!!
-2014-04-23,286080,True,It adds another awesome level of confusion to this AWESOME game
+posted,item_id,recommend,sentiment_analysis
+2014-08-24,301520,True,2
+2013-11-28,200510,True,2
+2014-11-05,13640,False,0
+2014-11-09,105600,True,2
+2014-10-31,304930,True,2
+2014-07-20,620,True,1
+2014-04-23,286080,True,2

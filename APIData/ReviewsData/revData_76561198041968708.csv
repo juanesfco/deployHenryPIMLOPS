@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-05-30,8980,True,"Wasn't expecting to find this as addicting as I have. Farewell social life, it was nice having you back for a while :P"
-2013-04-03,12120,True,"All we had to do was follow the damn train, CJ!"
-2012-12-29,108710,True,"I actually really liked this game. I like how it pays homage to what it's influenced by, like Stephen King novels, the Twilight Zone, Twin Peaks etc. Some of the mechanics are a little annoying, but I found the story unique and engaging enough to distract me from that. I recommend that you treat this game as more a supernatural/drama/thriller rather than a horror. While it might have it's moments (I stress the word 'might') it's a game about a horror story, not an actual horror game :D"
-2012-09-19,620,True,You're going to need to scrape your brain off the wall after this one :D
-2011-12-21,440,True,"Its free to play now, YOU HAVE NO EXCUSE!"
+posted,item_id,recommend,sentiment_analysis
+2013-05-30,8980,True,2
+2013-04-03,12120,True,1
+2012-12-29,108710,True,1
+2012-09-19,620,True,2
+2011-12-21,440,True,2

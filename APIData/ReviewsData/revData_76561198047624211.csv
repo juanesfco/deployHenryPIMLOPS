@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2012-07-09,440,True,"80% of my time on this game has been for reflecting rockets, 10/10 would reflect again."
-2015-01-06,72850,True,mods ┈┈┈┈┈┈▕▔╲┈┈┈┈┈┈┈▏▕┈┈┈┈┈┈┈▏▕▂▂▂▂▂▂▂▂▂╱┈▕▂▂▂▏▉▉▉▉▉┈┈┈▕▂▂▂▏▉▉▉▉▉┈┈┈▕▂▂▂▏▔▔▔▔▔▔╲▂▕▂▂▂I
+posted,item_id,recommend,sentiment_analysis
+2012-07-09,440,True,0
+2015-01-06,72850,True,1

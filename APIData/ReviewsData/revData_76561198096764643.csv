@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-14,550,True,"This game is awesome , you go through an intense campaign with other players or friends , you try to stay alive till the end or you can be a zombie and try to infect the survivors ,it has lots of missions and there will always be fun ."
-2014-02-14,440,True,"This game is awesome ! It is the best free to play game out there so far , there are 9 differnet charecters ,all of them with unique skill sets and weapons , there are also millions of game modes you can play . Its filled with thousands of map some custom made by players and others officaly by the game, so why not play it ?"
-2014-02-14,208090,True,"best third person shooter I've seen so far , not only is it free 2 play but you can even cuztomize your gun , it can either be a rocket which one shot kills some one and if you miss it would become a sticky bomb or a machine gun which shoots out bullets which make your oppenent light on fire , its really easy and casual so why not buy it ?"
+posted,item_id,recommend,sentiment_analysis
+2014-02-14,550,True,2
+2014-02-14,440,True,2
+2014-02-14,208090,True,2

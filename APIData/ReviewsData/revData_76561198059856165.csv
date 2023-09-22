@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-18,42960,True,Very good game. However if you dont like the nitty gritty details this is not for you. Takes time to learn everything you need to know how to function your Country. Very Informative.
-2014-07-18,221380,True,Honostly one of if not the best game for it's time Era and my personal favorate. If you like Old World games this is it for you.
-2014-07-19,1250,True,"Great game to play, even more so when your angry."
+posted,item_id,recommend,sentiment_analysis
+2014-07-18,42960,True,2
+2014-07-18,221380,True,2
+2014-07-19,1250,True,1

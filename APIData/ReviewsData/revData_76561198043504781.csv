@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-04-07,620,True,Almost no reference to the ♥♥♥♥en cake!10/10                    /10
-2015-03-26,570,True,"Dota is a good ga- *Sorry, I dont know what i was thinking*This should be in Russian.Это хорошая игра, но, черт побери, есть так много русских ..."
-2014-03-21,70,True,HL1 = HugeThis game is about 6x larger than COD or Assassins creed graphics are a tiny bit dated but apart from that its brilliant9/10
-2014-03-21,55230,True,Really...REALLY...REALLY! Fu*ked up... '-'8.5/10
-2014-03-07,50300,True,"This Game Made Me Cry... BEST GAME EVER!11/10But really, its so f**king sad..."
-2014-01-07,244810,True,The most British game you will ever play... 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-04-07,620,True,1
+2015-03-26,570,True,1
+2014-03-21,70,True,0
+2014-03-21,55230,True,1
+2014-03-07,50300,True,1
+2014-01-07,244810,True,1

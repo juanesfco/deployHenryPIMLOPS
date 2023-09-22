@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-12-04,11020,True,FUN PC GAME WITH CRAZY TRACKS CHECK IT OUT IF U <3 RACING!
-2015-11-17,440,False,Eh.. I think ill save my money for CS:GO
-2015-12-21,34900,False,"If you are looking for the cure for cancer, you are far from it."
-2015-12-20,730,False,♥♥♥♥ communtiy
-2015-11-25,22380,True,yes.
-2015-05-28,105600,True,Hurry up 1.3 ;/
-2014-06-25,200710,True,Favorite game.
-2014-03-15,98800,True,Very fun RPG/Free roam game. 10/10 Its soo fun!
+posted,item_id,recommend,sentiment_analysis
+2013-12-04,11020,True,1
+2015-11-17,440,False,0
+2015-12-21,34900,False,1
+2015-12-20,730,False,1
+2015-11-25,22380,True,1
+2015-05-28,105600,True,1
+2014-06-25,200710,True,1
+2014-03-15,98800,True,2

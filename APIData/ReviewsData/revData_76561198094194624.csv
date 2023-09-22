@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-09,107900,True,like i love to play but i stooped didnt really know why
-2016-06-26,8930,True,"This be amazing gamu, I pray with my friends. I rikey cuz Gandhi nukey. Also I like turn based strategy games... Gey"
+posted,item_id,recommend,sentiment_analysis
+2014-06-09,107900,True,2
+2016-06-26,8930,True,2

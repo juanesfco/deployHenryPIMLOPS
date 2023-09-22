@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-25,17080,True,no one plays it anymore only hackers
-2015-02-11,49520,True,dont get it it sucks #############
-2016-03-12,4000,True,this game is AMAZING!!!
-2015-06-21,204360,True,This GAME IS AWSOME!!!
+posted,item_id,recommend,sentiment_analysis
+2015-07-25,17080,True,1
+2015-02-11,49520,True,0
+2016-03-12,4000,True,2
+2015-06-21,204360,True,0

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-29,113204,True,"BEST DLC EVER!Anyone who already owns Binding of Isaac must own this dlc because it add so many new enemies, bosses, floors, items and even a NEW CHARACTER!"
-2014-11-29,113200,True,"ISAAC, AND HIS MOTHER...Best voice actor ever! Every game needs the person who did the intro in Binding of Isaac in every game.THIS GAME IS COMPLETELY AWESOME!"
-2014-02-28,105600,True,I'M WASTING MY LIFE ON THIS GAME! SO GOOD
-2014-06-25,212680,True,Really good. Has a retro feel with modern space mechanics. 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-11-29,113204,True,2
+2014-11-29,113200,True,1
+2014-02-28,105600,True,1
+2014-06-25,212680,True,2

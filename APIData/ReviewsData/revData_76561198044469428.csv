@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-11-28,550,True,I WANT A REFUND. I BOUGHT THIS GAME FOR 20.00$! >:C
-2015-10-16,218620,True,"DO's:Bring some friendMake unsual build, but useful for the teamDON'TS:Buy DLC at full priceCheat"
-2015-04-01,242680,True,"First of all, its like Hotline Miami and the Binding Of Isaac, but more on the Hotline Miami Side,Second, you can get hit multiple times, BOI SideThird, Characters are alot, BOI SideFourth, Guns alot of them, HM SideFifth, Upgrades, kinda BOI SideFun games, but try not to rage like Hotline Miami 1/2"
+posted,item_id,recommend,sentiment_analysis
+2013-11-28,550,True,0
+2015-10-16,218620,True,2
+2015-04-01,242680,True,2

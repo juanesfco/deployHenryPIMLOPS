@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-19,251990,True,"You'll only fully appriciate this game after much trial and error. You manage over a queen-in-training, with multiple routes to  ensure she survives and possibly thrive. All choices seem to have very harsh consequences, even some as far as fifteen turns back. If small precious little princess Elodie dies, you'll proceed to regret not saving as frequently. Compelling environment in the sense of lore and backstory to captivate the biggest nerds.Not for those prone to rage quitting on initial attempt."
-2016-02-05,348620,True,"Short. Sweet. Heartwarming.Cantus the protagonist is more or less anti-social, he enjoys going out to the ocean but not much else. He meets the mysterious Maris who seems to want to befriend him more than anything else. The two bond by collecting seashells. Really innocent and warm experience."
-2015-12-10,417860,True,Never have I been disappointed at a game and still recommend it.1/1
+posted,item_id,recommend,sentiment_analysis
+2016-06-19,251990,True,1
+2016-02-05,348620,True,2
+2015-12-10,417860,True,0

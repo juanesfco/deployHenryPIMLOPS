@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-07-29,221100,True,"Spawned.Found a shovel, child's briefcase and a lime hat.Get into a house.A bambi is outside.I told him come in I'm friendly.Shovel his face till his death.11/10Will play it forever."
-2013-12-03,236390,False,"This game now is really stupid!!With the new updates and ♥♥♥♥!!Seriously, why the hell the repair cost is too high and you gain a little amount of RP and lions now eventhough I destroy enemy airplanes and base.And why the Russians are too OP now??(sorry for my bad English)"
-2014-03-24,218620,True,"This game is AWESOME!!!Buy it now!!But, you must have 3 good, best or close friends that play this game.Because, this game is really need to have a really good teamwork.Or not, the heist will be fail."
-2016-06-30,730,True,BUy it cuz it is worth it
-2014-07-10,242050,True,Awesome game with awesome graphics and EPIC Story. It's so epic that it made me cry.Buy it.YES! BUY IT NOW!!
-2014-06-29,8930,True,Great game for people who loves history.This game improve my score on history.
-2014-05-26,228400,True,"Good game because of the gameplay, graphics and story.But, the campaign is bit short. It just take me 7 hours to complete all of it.And I can't play multiplayer."
-2014-04-05,550,True,"A good game to play with friends that loves teamwork, horror and KILLING DEM ZOMBIES!!!"
-2014-01-11,219640,True,"This game is really awesome.You should buy this game.But, if you using NVidia GeForce GT630, you will get some random crash."
-2013-12-16,218230,True,"I really recommended this game to the people that have strong PC.I know its free-to-play game. BUT, you'll need a STRONG PC to play it.I can't play it because of my processor. My graphic card is awesome though."
+posted,item_id,recommend,sentiment_analysis
+2014-07-29,221100,True,1
+2013-12-03,236390,False,0
+2014-03-24,218620,True,2
+2016-06-30,730,True,2
+2014-07-10,242050,True,2
+2014-06-29,8930,True,1
+2014-05-26,228400,True,1
+2014-04-05,550,True,1
+2014-01-11,219640,True,0
+2013-12-16,218230,True,2

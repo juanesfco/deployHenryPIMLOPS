@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-18,264380,True,All I can say is.............. Manly tears were shedSoundtrack was greatStory was amazing10/10
-2013-12-13,203160,True,"Wow, this game is amazing. For me this is game of the year 2013. Story and gameplay are just great. I was just blown away in the first 5 minutes of the game. Voice acting is crisp and is very well done. Cutscene were amazing and they made you really feel for each of the chartacters. Combat, sealth and cover system felt so natural. After completing it I had remembered that it was a reboot which made me excited for the next game,"
+posted,item_id,recommend,sentiment_analysis
+2014-11-18,264380,True,1
+2013-12-13,203160,True,2

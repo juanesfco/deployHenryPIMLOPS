@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-20,313120,True,This game is a good one if you like The Forest but with Stranded Deep it is a water version
-2015-07-05,440,True,Great game fave of the free to play...Do i recommend this game?Ummmmm...let me think...hell yeah i recommend it
-2015-06-22,304930,True,This is a good free-to-play game if you are looking for that single-player survival or multi-player with friends. I have enjoyed this game so much that if im not playing one of my paid games im playing this.
+posted,item_id,recommend,sentiment_analysis
+2015-06-20,313120,True,1
+2015-07-05,440,True,2
+2015-06-22,304930,True,2

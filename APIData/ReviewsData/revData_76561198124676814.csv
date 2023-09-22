@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-10,219740,True,"incredible, great. it has dark drawings and an amazing storyline, with everything the william carter puzzles & forbiden knowledge  makes it eligible for the awesomerest game in the history of everything!!!!!! (sorry for bad grammar- if any)"
-2014-09-25,38410,True,"despite the fact that the graphics are horrible, I can't see where the action points are, it's funny how they move so slowly"
-2014-05-09,224480,True,EGGcelent
-2014-01-29,213650,True,"easy, gets boring though"
+posted,item_id,recommend,sentiment_analysis
+2014-02-10,219740,True,1
+2014-09-25,38410,True,0
+2014-05-09,224480,True,1
+2014-01-29,213650,True,0

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-04,230410,True,"really amazing game, havent had to spend any money yet lol but really good game"
-2014-01-20,730,True,is it just me but everytime i finish one match and start the next the game crashes???? but overall verrrrrrrrrrrrrrry good
+posted,item_id,recommend,sentiment_analysis
+2015-07-04,230410,True,2
+2014-01-20,730,True,1

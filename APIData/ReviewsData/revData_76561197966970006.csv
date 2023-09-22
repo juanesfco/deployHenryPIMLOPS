@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-12,241540,True,"A real suprise buy! Its definately one of the best open world survival games involving zombies, Rust and DayZ could learn a thing or two from this game. I highly recommend you get this game you won't be disapointed."
-2014-08-01,238090,True,"Excellent game, good value and especially coop feature makes it highly entertaining playing with a friend to complete missions and is a great feature sadly missing from most games. Downloaded content is good value and extra campaigns are excellent with hopefully more to come. Definately worth it."
-2016-01-12,214490,True,"Quite simply one of the best first person horror adventure games I have ever played ( but i am a fan of the alien). The tension and game play make for an awsome experience, totally enjoyable game and scary."
+posted,item_id,recommend,sentiment_analysis
+2014-01-12,241540,True,2
+2014-08-01,238090,True,2
+2016-01-12,214490,True,1

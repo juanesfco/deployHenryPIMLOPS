@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-19,226459,True,"Poradnik dla graczy :)By uaktywnić DLC należy1) odpalić biblioteke i prawym przyciskiem myszy nacisnąć na far cry 3 i wybrać wyświetl nr seryjny2) w menu gry w ustawieniach należy znaleźć ,dodatki premium,3) wpisać kod czyli nr seryjny jaki ma DLC4) cieszyć się grą :)"
-2016-04-01,325723,False,Nie opłacalne ♥♥♥♥♥♥ które strasznie wnerwia człowieka. Zadania się mieszają i robią się błęd a na dodatek człowiek nie wie co ma zrobić bo nie dostanie żadnego oznacznika na mapie. Tabela z zadaniem się zatrzyma i koniec. Jednym słowem wielkie dziadostwo.
-2014-12-06,245130,True,great game but it lagging now they need to be optimalized at all but great game witch bright future
-2015-01-31,41070,True,SERIOUS AWESOME GAME
-2014-08-01,304930,True,awesome game
-2014-04-26,250340,True,AWESOME GAMEEEEE
+posted,item_id,recommend,sentiment_analysis
+2016-08-19,226459,True,2
+2016-04-01,325723,False,0
+2014-12-06,245130,True,2
+2015-01-31,41070,True,1
+2014-08-01,304930,True,2
+2014-04-26,250340,True,2

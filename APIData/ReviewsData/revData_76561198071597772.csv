@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-02-08,219740,True,vale apena ter
-2015-08-08,319630,True,"Muito bom, entreterimento por muitas horas, dificil de se viciar por ser episódico, mas ainda sim muito imersivo e com escolhas completamente envolventes e importantes, gerando várias situaçoes variadas por gameplay"
-2015-07-10,292030,True,"muito bom, muito bom mesmo, mas cuidado se voce ter uma tendencia viciosa que nem eu tenho, cuidado extremo para nao perder sua vida social, muitas horas serão sacreficadas nesse jogo, mas nao serao atoa.The Witcher 3 Wild Hunt é simplesmente gigante e muito imersivo, talvez o melhor jogo RPG da atualidade, e na minha opinião esse jogo merece facilmente um GOTY"
+posted,item_id,recommend,sentiment_analysis
+2013-02-08,219740,True,2
+2015-08-08,319630,True,2
+2015-07-10,292030,True,1

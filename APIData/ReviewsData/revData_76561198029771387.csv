@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-16,268050,True,"The graphic requirement is quiet high....my poor Geforce GTX 560 is spinning its life away....No matter! I just bought a GTX 980 just for the sake of this game, if this graphics card cant handle it, I'll just smash my computer."
-2014-10-11,292120,True,"Stop whinging you bunch of primary school kids. Its 16 bucks game which was converted from PS3, what are you all complaining about? You want the best experience, go get a console. I'm just glad that I get to save 500 bucks not get getting a consle and get to FF on PC. So yea, u are paying a fraction you morons."
+posted,item_id,recommend,sentiment_analysis
+2014-10-16,268050,True,0
+2014-10-11,292120,True,2

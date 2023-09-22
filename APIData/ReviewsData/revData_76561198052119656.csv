@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-07,485380,True,Launches gameLooks through a couple websitesHears FootstepsCloses Game
-2015-07-17,271590,True,Great story if this is the first time you have played it other than that the online is pretty ♥♥♥♥ alot of loading and hackers
-2014-12-31,1520,True,Time to blow up Asia for 99c in the holiday sale 11/10 IGN11/10 Machinima
+posted,item_id,recommend,sentiment_analysis
+2016-07-07,485380,True,0
+2015-07-17,271590,True,2
+2014-12-31,1520,True,1

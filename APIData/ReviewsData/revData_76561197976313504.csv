@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2011-07-30,70300,True,"Really underrated indie game. It'll only take about 2 or 3 days to finish, depending on how addicted you get to it, but this is really a super fun game where there's no jumping, only reversing gravity, with a few twists and a surprisingly decent plot along the way. The game plays like super meat boy, but I hated super meat boy, and I love this."
-2011-07-04,105600,True,"It's more than super mario bros crossed with minecraft. A lot more. Get this game, it's a must-have."
-2011-03-05,21660,True,Great game. Never gets old. Even better if you buy an arcade stick off ebay to play with it.
-2011-01-05,2760,True,"If you played NWN1 and wasn't sure about whether to get NWN2, rest safely assured you will be pretty impressed by what they did with this. This platinum version also includes not 1, but 3 campaigns."
-2010-12-17,440,True,"If you're not playing it, you should be"
-2010-12-07,10150,True,"it's Grand Theft Auto combined with the Matrix, on steroids"
+posted,item_id,recommend,sentiment_analysis
+2011-07-30,70300,True,1
+2011-07-04,105600,True,2
+2011-03-05,21660,True,2
+2011-01-05,2760,True,2
+2010-12-17,440,True,1
+2010-12-07,10150,True,2

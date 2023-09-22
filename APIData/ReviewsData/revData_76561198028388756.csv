@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-27,227480,True,This game is like sex:You can play by yourself just fine. But to have a great time you need someone else besides your left hand.
-2014-12-29,550,True,"9000/10, Would mod 200 times again."
-2016-06-14,72850,True,"Can't get enough of Skyrim-jobs,"
-2016-06-05,333930,True,#SaltyLikeTom
+posted,item_id,recommend,sentiment_analysis
+2016-05-27,227480,True,2
+2014-12-29,550,True,2
+2016-06-14,72850,True,1
+2016-06-05,333930,True,1

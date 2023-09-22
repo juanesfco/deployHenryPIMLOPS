@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-19,218620,True,You can shout at people to revive them.10/get up you ♥♥♥♥♥♥♥
-2015-11-13,311210,False,Fix your ♥♥♥♥ing game
-2015-05-24,242860,True,"This game is soo fun, many explosions, machine guns, grenades, gas bombs, its all you could aks for in a world war 2 online game."
-2014-08-30,269050,True,"play this game, it is the most story intensive game i have played since to the moon, highly recommended."
-2011-08-02,105600,True,this game rules
+posted,item_id,recommend,sentiment_analysis
+2014-12-19,218620,True,1
+2015-11-13,311210,False,0
+2015-05-24,242860,True,1
+2014-08-30,269050,True,1
+2011-08-02,105600,True,0

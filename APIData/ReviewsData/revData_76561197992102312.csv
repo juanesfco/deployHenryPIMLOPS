@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-08-24,326160,False,Ever finished a dump and then had your finger go through the toilet paper when you wiped?That's pretty much how I feel about having been a Kickstarter contributor for this sorry excuse for a scam game.
-2013-12-23,230700,False,Utter crap at any price - don't bother.
-2013-12-23,204240,True,Quirky and cool. A great 2D puzzle game.
-2013-09-20,72850,True,Another great game from Bethesda. 'Tis a shame that Steam has to be running to play it (I would rather have the overheads used by Steam to shove more mods into Skyrim).
-2012-12-31,208140,True,Great game (if you like turn-based strategy games).
-2011-12-29,440,True,Great f2p PvP action. A game I keep returning to again and again.
-2011-05-03,22330,True,Single-player swords & magic Action/RPG. Amazing array of mods available (I am currently running 160+ mods - some of which I created myself). Warning: Modding can become as addictive as the game itself.
+posted,item_id,recommend,sentiment_analysis
+2016-08-24,326160,False,1
+2013-12-23,230700,False,0
+2013-12-23,204240,True,2
+2013-09-20,72850,True,2
+2012-12-31,208140,True,2
+2011-12-29,440,True,2
+2011-05-03,22330,True,2

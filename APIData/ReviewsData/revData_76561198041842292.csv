@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-25,496920,True,"Wow that was an unexpected ending. Definitely a very intelligent game! Only takes a few minutes (I have 0.1 hours upon writing this review) and was definitely worth it.The less you know beforehand the better the game will be as well, so just go ahead and try it."
-2016-08-26,275850,False,A record number of missing features. The Honest Game Trailer of NMS is actually correct.
-2016-07-25,319630,True,"Amazing game!! I was on the edge of my seat the whole time! Not the kind of thing I would normally play, or run into while looking at games but this was seriously amazing."
-2016-07-02,278360,True,"Although the game is a little short (I finished in under three hours), it has a lot of replayability as the gameplay itself is really unique and interesting. I also really like the method of storytelling (the game does have dialogue, and an interesting story).I did get the game in the summer sale for roughly $3.00 NZD, and it is DEFINITELY worth it! Possibly the game I'm the most glad I got in the summer sale, because otherwise I probably wouldn't have risked buying it."
+posted,item_id,recommend,sentiment_analysis
+2016-07-25,496920,True,1
+2016-08-26,275850,False,1
+2016-07-25,319630,True,2
+2016-07-02,278360,True,1

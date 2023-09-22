@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-21,6060,True,"This is the game of my childhood! I love how I can now play it on my computer, I must say that this is one of the best games ever and deserves a spot in gaming history :D"
-2015-05-19,236390,True,War Thunder is a Free to Play (FTP) game developed by Gijin Entertainment. It is a PvP and PvE (AI) game focusing on tank and plane battles. This game is great for people looking to fly their favourite plane and or tank.
-2014-09-21,4000,True,Garry's Mod is one of the best games I have. This game is very very addicting and fun to play. If you don't have get it NOW. All the gamemodes are very fun and a great game to play with friends.
-2014-09-21,32370,True,"This game is amaing. Absolutly amazing. The charaters are awesome and fleshed out, the story is awesome, and the gamepley is fantastic. I can say that this is my favorite RPG of all time. In my opinion, no other RPG beats it. Not even Skyrim. The gameplay is different from most role-playing games. First off, you can't jump. Second off, before you fight, it always pauses so that you can plan your attacks (one of the coolest things about the game). You can also take control of your party members so that you can tell them attaks you want them to do. You can tell Bioware really thought out this game. So withthat, I conclude my review."
-2014-09-21,730,True,"CS:GO. The 3rd Major installment in Valve's Counter Strike series. I've found myself playing it a lot lately. It's a nice change from the normal ADS, shoot, kill, respawn, wash rinse repeat that Multiplayer FPS games have become. It does have a difficult learning curve though. If you expect to login the first time and be Global Elite, you've got another thing coming. I've played around 150 hours now and I still find myself very low on the Ranked Spectrum. It's an amazing game, and if you're like me and things like cosmetics appeal to you, this is perfect! I love going into a game and hearing people saying they like my skins. Don't know why, I just always have. "
+posted,item_id,recommend,sentiment_analysis
+2014-09-21,6060,True,2
+2015-05-19,236390,True,2
+2014-09-21,4000,True,2
+2014-09-21,32370,True,2
+2014-09-21,730,True,2

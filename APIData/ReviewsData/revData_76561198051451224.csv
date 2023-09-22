@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-01,99900,True,a good game
-2014-10-01,206420,True,the third one was good but this... this is AWESOME
-2014-10-01,219740,True,good game but needs more dragons
-2014-10-01,214770,True,much fun. very wow. awesome
+posted,item_id,recommend,sentiment_analysis
+2014-10-01,99900,True,2
+2014-10-01,206420,True,2
+2014-10-01,219740,True,2
+2014-10-01,214770,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-05-31,70000,True,Great game would recomend 10/10 IGN
-2015-07-29,24240,True,buy this if you love fixing drills
-2016-07-29,432020,True,This game changed my life 10/10  IGN
-2015-12-27,440,False,Got banned for no reasson LOL
-2015-12-07,730,True,11/10 IGN
-2014-02-08,208090,False,bad game i would never play it agen
-2013-12-28,259080,True,best  mod ever
+posted,item_id,recommend,sentiment_analysis
+2016-05-31,70000,True,2
+2015-07-29,24240,True,2
+2016-07-29,432020,True,0
+2015-12-27,440,False,2
+2015-12-07,730,True,1
+2014-02-08,208090,False,0
+2013-12-28,259080,True,2

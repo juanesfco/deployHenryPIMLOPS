@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-02,208650,True,"I have to say that after an atrocious release, it is fixed although it's very late. Other than that the game is absolutely excellent with a great story, characters, gameplay and Gotham city looks beautiful"
-2015-12-16,238320,True,Started gameWent into asylumWalking through tight areaThrown out windowQuit game9/10
-2015-01-02,209080,True,ITS AMAZING
+posted,item_id,recommend,sentiment_analysis
+2016-06-02,208650,True,2
+2015-12-16,238320,True,0
+2015-01-02,209080,True,2

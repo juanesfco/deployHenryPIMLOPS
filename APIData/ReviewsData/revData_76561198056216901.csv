@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-08-13,275850,False,"The game is built around the 'procedural universe' gimmick, which gets old very quickly. The gameplay is built around the gimmick, rather than the gimmick around the gameplay."
-2016-08-28,250600,True,lol
-2016-08-27,355150,False,Game is based on a gimmick. Its crap.
-2016-08-24,427520,True,One of the best.
-2016-08-21,230410,True,Just started out and I love it.
+posted,item_id,recommend,sentiment_analysis
+2016-08-13,275850,False,1
+2016-08-28,250600,True,2
+2016-08-27,355150,False,0
+2016-08-24,427520,True,2
+2016-08-21,230410,True,2

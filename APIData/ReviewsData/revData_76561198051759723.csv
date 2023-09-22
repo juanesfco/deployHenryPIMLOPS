@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-11-15,410340,False,"Please do NOT hide negative reviews, they help people to understand the upside and the downside of the game is."
+posted,item_id,recommend,sentiment_analysis
+2015-11-15,410340,False,0

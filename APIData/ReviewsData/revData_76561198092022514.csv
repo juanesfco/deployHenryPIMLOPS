@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-03,422400,True,"Muy entretenido y una coleccion de armas prometedora, un buen soundtrack, 9/10"
-2016-06-01,218620,True,"Tiene una jugabilidad y tematica muy buena :D, El poder subir stats para caracterizar a tu manera de jugar es buena, lo que si le falta la cantidad excesiva de dlc que posee, es algo descarado..."
-2014-08-17,261820,True,"Buen juego, no importa el desarrrollo que tiene con tan solo que de desarrolladores nuevos es un muy buen trabajo,un buen mod y a la espera del act 2 :DD tiene todo lo escencial de un juego de esta categoria no importa los graficos si no una jugabilidad buena"
-2014-02-17,224260,True,"exelente aporte :D¡¡¡ es una buen mod basado en half life 2 muy bueno aparte de ser co-op situaciones reales ej puedes infectarte, cortes profundos etc xDDDDDDDD"
+posted,item_id,recommend,sentiment_analysis
+2016-07-03,422400,True,2
+2016-06-01,218620,True,2
+2014-08-17,261820,True,2
+2014-02-17,224260,True,1

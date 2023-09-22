@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-27,322170,True,"Been playing this game for 6+ months now. Love the game, addictive too! Recommended for everyone!"
-2016-06-21,451000,True,Haven't even spent an hour and already hooked! Great visuals and simplistic gameplay. Pretty good game.
-2016-06-18,239820,True,Loved the game to bits! Played for two days and got to the end game stuff. Can't wait for an expansion or sequel!
-2015-09-11,346110,True,"I love this survival game, I play almost everyday for a least 2 hours. A must have game."
-2015-07-17,304930,True,"Great game! Played it lots of times, enjoyed it so far!"
+posted,item_id,recommend,sentiment_analysis
+2015-08-27,322170,True,1
+2016-06-21,451000,True,2
+2016-06-18,239820,True,0
+2015-09-11,346110,True,0
+2015-07-17,304930,True,2

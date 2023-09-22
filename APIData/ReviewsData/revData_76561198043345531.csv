@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-06-01,324080,True,only played 60 minutes of this game but i can tell its going to be a long love of building and mining
-2013-12-11,252490,True,warning if your playing with friends that just started you will see alot of caveman themed nudity.
-2015-05-09,104900,True,its a dollar well spent
-2015-01-22,218230,True,still better than cod.
-2014-08-25,257710,True,beat ultra rank
+posted,item_id,recommend,sentiment_analysis
+2016-06-01,324080,True,1
+2013-12-11,252490,True,1
+2015-05-09,104900,True,1
+2015-01-22,218230,True,2
+2014-08-25,257710,True,0

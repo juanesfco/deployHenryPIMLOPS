@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-23,219890,True,"Es toda una experiencia que no debería ser llevada a palabras. Si gustan de los juegos de puzzles, lo disfrutarán bastante. Puede llegar a hacerse algo breve una vez que aprendes su mecánica, y no hay que dejarse llevar por la primera impresión que pueda causar."
-2014-01-02,238320,True,Uno de los mejores juegos que he jugado. Miedo al por mayor garantizado. Aquí mi análisis http://www.17bits.cl/2013/09/analisis-outlast/
-2014-01-02,221910,True,Totalmente recomendable. Aquí mi análisis http://www.17bits.cl/2013/10/analisis-the-stanley-parable/
-2013-11-29,211420,True,http://www.17bits.cl/2013/11/segunda-opinion-dark-souls-prepare-to-die-edition/
+posted,item_id,recommend,sentiment_analysis
+2014-02-23,219890,True,2
+2014-01-02,238320,True,2
+2014-01-02,221910,True,1
+2013-11-29,211420,True,1

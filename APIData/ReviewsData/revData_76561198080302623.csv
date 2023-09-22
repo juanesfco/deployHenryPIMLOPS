@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-08-28,236390,True,Great game 10/10
-2014-08-17,209870,False,shitest games ever
-2013-12-22,440,True,This is an awesome Games i ever play i making lots of new friend and get lots of stuff plz rate it :D
-2014-11-08,218230,False,So much lag -_-
-2014-08-16,91310,False,such ♥♥♥ a sucks games i ever seen its said i have promblem but when u create an new slots and i choose Sam b nd not working soo its a ♥♥♥♥ games in the steam
-2014-11-07,24200,True,awesome games :D
-2014-01-12,200210,True,Its a awesome games i keep getting lots of good loots and i will player everyday :D
+posted,item_id,recommend,sentiment_analysis
+2015-08-28,236390,True,2
+2014-08-17,209870,False,1
+2013-12-22,440,True,2
+2014-11-08,218230,False,2
+2014-08-16,91310,False,1
+2014-11-07,24200,True,2
+2014-01-12,200210,True,2

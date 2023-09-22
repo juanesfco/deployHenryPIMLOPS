@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-18,263280,True,very fun game recommend it verg good graphics and lots of fun
-2015-07-05,107410,True,"awsome game,one of the reasons i like it is because you can drive vehicles which you cant in manty games i definetly recommend this game"
-2014-12-02,206210,True,"it is fun and funny, an amazing multiplayer game against bats and jokers"
-2014-10-02,113400,True,good/dun game
-2014-04-14,72850,True,really fun with action and adventure get thousands of items and very very fun game with dragons and monsters and of course people
+posted,item_id,recommend,sentiment_analysis
+2014-10-18,263280,True,2
+2015-07-05,107410,True,0
+2014-12-02,206210,True,2
+2014-10-02,113400,True,0
+2014-04-14,72850,True,1

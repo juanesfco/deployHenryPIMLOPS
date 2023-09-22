@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-28,200210,True,"Addictive game play, endless hours to play and with the new owners coming in much more potential. Already put tons of hours into this game and will be putting even more into it."
-2014-01-20,105600,True,"I love this game it is in my top 5 games list and i highly recomend this to everyone. It is full of fun, cahllenge, exitement, exploring, digging, fighting, jumping, dying and much much more and when you put all of that in to one game you have a great game and that is what this is (when it launches :/)"
-2013-12-31,211820,True,absolutely amazing i would recomend this game to anyone that would like to have hours upon hours of endless fun
+posted,item_id,recommend,sentiment_analysis
+2016-07-28,200210,True,1
+2014-01-20,105600,True,2
+2013-12-31,211820,True,1

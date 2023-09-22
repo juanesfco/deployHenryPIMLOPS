@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-01-26,300570,True,"It's a great puzzle game, with elements akin to minecraft and factorio in that you automate a production line to meet the demands at the outputs. A lot of sequencing and thinking required to get the best efficiency per block used. Feels pretty polished and the difficulty increases as you progress. You can also revisit past puzzles to try and make them more efficient or beat your friends in the two categories by making a superior 'factory.' Great little game that should give anyone's brain a tease."
+posted,item_id,recommend,sentiment_analysis
+2015-01-26,300570,True,2

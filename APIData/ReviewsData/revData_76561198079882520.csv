@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-13,220,True,"Wow this game is hard and confusingsv_cheats 1Wow, So simple the game was."
-2016-06-24,224260,True,'ONLY GOT 5 MAGS!''8 SHOTS AND I AM OUT!'*puts gun to face**press the trigger*dead.I love this game.
-2016-05-27,24240,True,"Hox, follow me! Dallas is down! Dallas is in custody! Chains is down! Chains is in custody! Hoxton is down! Hoxton is in Custody! I'M DOWN!'Wow guys, let check if I can break you guys out.'"
-2015-02-28,39000,True,Nasa + Moon + John Madden + Text To Speech + Players + Ai + Ui + 2010 Game + Space + Co-op + Simlation + Insanity + Trolls = Moonbase AlphaEasy And Simple.
-2014-02-12,250260,True,Short Game But Lot of Funny Jokes
+posted,item_id,recommend,sentiment_analysis
+2016-01-13,220,True,0
+2016-06-24,224260,True,1
+2016-05-27,24240,True,0
+2015-02-28,39000,True,0
+2014-02-12,250260,True,1

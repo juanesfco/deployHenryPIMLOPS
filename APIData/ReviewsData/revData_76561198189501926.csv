@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-06-12,305620,True,"PROS:-In depth mechanics and realistic gameplay-Lots to explore-Amazing music and artstyle that really creates an atmosphere-Steady updates that add more and more content to the gameCONS-Needs some way to move faster (snowmoblie?), as traversing the land is painfully slow, especially when your encumbered (which is most of the time)-The system of curing materials is tedious (you have to leave items indoors for 5 or so days), and needs to be changed. I rarely stay around the same area for long, as I wish to continue exploring.Love it! 8/10!"
-2015-06-12,301520,False,Since they removed tiers this game has gone downhill. I just can't enjoy it anymore.
-2015-06-12,334230,True,"PROS:-Interesting concept-Fun, strategic gameplay with pleanty of roles-No two games are the same, this keeps me coming back to play more-Decieving people is pretty entertainingCONS:-Players not playing the game properly (eg. a mafia voting a allied mafia as guity) or being afk in vital parts of the game-Some roles are boring to play (eg. lookout)Overall it is a fun and unique game. It is also worth getting it on steam for the extra town points and less lagg."
-2015-05-17,299360,True,PROS:-Really fun-Balanced-Interesting conceptCONS:-People trolling-A little repetitive after a while (needs more game modes)-At first my virus protection was stopping me from playing it7/10
-2015-04-17,346010,True,"Great graphics, super fun, but there needs to be more tuorials telling you what does what."
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,305620,True,2
+2015-06-12,301520,False,1
+2015-06-12,334230,True,1
+2015-05-17,299360,True,1
+2015-04-17,346010,True,2

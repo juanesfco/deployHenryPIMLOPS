@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-17,319630,True,This 'game' is amazing! It actually gives you choices that aren't clean cut and straight forward. It tells an amzing story so far and would highly recommend it if you want to lose your mind trying to make a decision!
-2014-03-08,216250,True,"Dead Island Riptide is one of the most entertaing games I have ever played. With fun combat, a great story, and an absolutly brilliant atmosphere, this game has it all. In my professional opinion you should get this game right now... why are you still here?"
-2015-11-11,42000,False,Intensly boring would not reccomend to anyone ever.
-2014-12-21,4000,True,Great game for pretty much anyone but especially if you have a creative mind or a bunch of friends to play with.
+posted,item_id,recommend,sentiment_analysis
+2015-07-17,319630,True,2
+2014-03-08,216250,True,2
+2015-11-11,42000,False,0
+2014-12-21,4000,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-18,386880,True,"Adorei o jogo, pena que ainda não tem Multijogador que é uma pena, mas em breve vai ser adicionado... só que os caras estão enrolando, pelo que eu vi vai ter multijogador de até 4 pessoas e vai ter que usar programas como Hamachi e Tunngle ( No meu caso não é um problema)."
-2014-12-06,4000,True,"Sim, gostei muito pois a diversão é muita, com o tanto de mods que existem, não tem como enjoar"
-2015-12-14,307170,True,"Não entendo o sentido desse jogo, mas é divertido, sempre da uma vontade de jogar novamente, não sei o motivo, mas da."
+posted,item_id,recommend,sentiment_analysis
+2015-09-18,386880,True,2
+2014-12-06,4000,True,2
+2015-12-14,307170,True,1

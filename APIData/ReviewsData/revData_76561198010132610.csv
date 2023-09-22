@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-04,20900,True,"I walked into a stranger's house at 4 in the morning, woke him up and we drank about 12 beers. He then gave me a book.Pretty good I guess."
-2015-07-17,333930,True,The least pay-to-win game I've played.
-2012-07-20,20500,True,"This is a must for $5 (if you're reading this while the steam sale is on), or $20. Either way this game is very fun and addicting, mainly the reason why is the destruction. Seeing a huge building come crumbling down is satisfying and rewarding. BUY IT!"
-2011-08-21,13140,True,"If you're looking for a realistic, army shooter game, this is the game for you!And hey, It's free! so give it a try."
+posted,item_id,recommend,sentiment_analysis
+2015-08-04,20900,True,2
+2015-07-17,333930,True,0
+2012-07-20,20500,True,2
+2011-08-21,13140,True,1

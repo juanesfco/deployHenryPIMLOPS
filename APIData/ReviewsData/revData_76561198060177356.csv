@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-19,266840,True,one of my favs games
-2014-09-23,99900,True,good game
-2014-02-05,204300,True,good game
-2014-02-05,4000,True,very very good game to play and get
+posted,item_id,recommend,sentiment_analysis
+2014-12-19,266840,True,1
+2014-09-23,99900,True,2
+2014-02-05,204300,True,2
+2014-02-05,4000,True,2

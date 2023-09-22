@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-21,104900,True,olha ojogo é muito bom e até q recomendo
-2014-01-05,236390,True,bom jogo bom para sedivertir nao é aquele jogo q da para pousa sair da base jogar de multiplayer mas é meito bom eu recomendo
+posted,item_id,recommend,sentiment_analysis
+2014-02-21,104900,True,2
+2014-01-05,236390,True,0

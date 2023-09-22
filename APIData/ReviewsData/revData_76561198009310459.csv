@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-11,287700,True,Hey guys. I think this game is good.
-2016-04-24,252950,True,Like a freakin dealer giving a customer some samples... The free weekend was all a big ruse...
+posted,item_id,recommend,sentiment_analysis
+2015-09-11,287700,True,2
+2016-04-24,252950,True,2

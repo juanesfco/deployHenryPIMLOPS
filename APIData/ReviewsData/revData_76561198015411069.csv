@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-01,214190,True,"If you like games, then maybe you'll like Minimum, a minimalistic shooting...... GAME! That's right, a game just for you gamers.The best thing about this game is the gameplay. Have you ever played a game without gameplay? It's impossible! But that's irrelevant, because this game boasts some serious game.In closing, a truly game-like experience."
-2014-12-29,102500,False,Meh. Just a bit typical.
-2014-08-08,49520,False,"Borders. Lands. There are two of each in this rich sequel to the critically acclaimed game of borders.More of the same, really. 1/10"
-2014-12-25,200710,True,Torches. Lights. XP. Loot. My pack is full. Kill the baddies.My pack is full.Beat the boss.My pack is full.Stop leveling so fast! Just kidding. What year is it?Maybe the multiplayer is better.
+posted,item_id,recommend,sentiment_analysis
+2015-03-01,214190,True,0
+2014-12-29,102500,False,0
+2014-08-08,49520,False,1
+2014-12-25,200710,True,2

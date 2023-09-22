@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-30,207610,True,"This game was a game that i will never forget, the storyline was a 10/10 from me and it had alot of hard choices to make and alot of shocking moments such as sacrificeing a life for another or just killing off a member in your group that you didn't like (Lary). In the end it was a great game with an excellent story to it and i cannot wait to play season 2."
-2014-08-03,230410,True,"If you want to be a badass ninja and get alot of badass weapons and gear and you are wondering whether to get this game, then choice is simple."
-2014-11-21,220240,True,"In this game you are playing as a man named Jason Brody, a man who came to the island to have a nice holliday with his girlfriend, his brothers and his brothers girlfriend. Trapped and forced to kill to survive Jason is turned into a hunter to survive this rule less island of insanity and decay."
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,207610,True,1
+2014-08-03,230410,True,0
+2014-11-21,220240,True,1

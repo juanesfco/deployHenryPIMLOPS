@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-30,99900,True,kys
-2015-06-18,306130,True,its SO HARD to get coins in this game but the game is gud gr8 b8 m8 i r8 8/8
-2016-01-03,72850,True,"Skyrim is an awesome game, and so is it's modding community.Here are some Pros, and ConsPros:long gameplayreplayabilitymultiple gameplay stylesawesome modsdecent graphicsgood dlcsmost enemies level with younot too hard or too easyCons:easy puzzlescan easily become op confusing and long areasand finally *drumroll*................ it has an exit buttini rate this game 11/10"
+posted,item_id,recommend,sentiment_analysis
+2016-07-30,99900,True,1
+2015-06-18,306130,True,0
+2016-01-03,72850,True,1

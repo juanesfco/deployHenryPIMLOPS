@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-28,224260,True,Awesome mod and nice game. Zombie and infection system thingy. One of the best zombie game for me!
-2014-02-28,570,True,"This is a really good game. I like this because there are tons of cool stuffs. Cool weapons, magics, even monsters are nice. And graphic is nice too."
+posted,item_id,recommend,sentiment_analysis
+2014-02-28,224260,True,2
+2014-02-28,570,True,2

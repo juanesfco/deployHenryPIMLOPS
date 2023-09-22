@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-04,221640,True,I crashed into a wall and got a boner. 10/10
-2013-12-04,208090,True,"When I first played this game it was very easy to get used to. With quick action from TF2 but as you get more health and the weapons are not as powerful, you require more stratigic moves as in Dota 2 or even LoL. A great combination! I recomended this game to many of my friends and we play it all the time. Great game,10/10"
-2015-02-28,346010,True,"I would never usually buy a game in Early Access after the complete failure (in my opinion) of DayZ standanlone (which still doesn't have choppers), but after looking at gameplay of this I thought I would give it a try. Besiege has a fantastic engine which feels so smooth running at 60fps. I have yet to find any game changing bugs and the only thing 'Early Access' about it is the lack of content, the way it should be. I would highly recoment this game to people to try out, and at this cheap price there is no point in pirating it."
+posted,item_id,recommend,sentiment_analysis
+2014-01-04,221640,True,1
+2013-12-04,208090,True,2
+2015-02-28,346010,True,1

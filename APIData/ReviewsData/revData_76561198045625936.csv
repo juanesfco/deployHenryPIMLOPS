@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-02-19,440,True,MAIKRAF
-2015-07-27,282780,True,The game i always wanted! Good!!!
-2015-04-28,271590,True,Zukulento.
-2015-02-24,201805,True,3 nuevos niveles muy exitantes ( ͡° ͜ʖ ͡°)
-2015-05-21,307780,True,best game mi biblioteca
-2012-07-18,4000,True,muy bueno =P
-2015-07-25,252950,True,POR QUE AUN NO LO COMPRASTEEEEEEEEEEEE??
-2011-10-30,99900,True,wwwwwwwwwwwwwwwwwwwwww
+posted,item_id,recommend,sentiment_analysis
+2015-02-19,440,True,1
+2015-07-27,282780,True,2
+2015-04-28,271590,True,1
+2015-02-24,201805,True,2
+2015-05-21,307780,True,2
+2012-07-18,4000,True,2
+2015-07-25,252950,True,1
+2011-10-30,99900,True,1

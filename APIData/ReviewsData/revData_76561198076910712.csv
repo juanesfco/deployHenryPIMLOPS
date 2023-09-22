@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-09-03,438490,True,Great game 10/10 Alisa best girl
-2016-05-16,333930,False,"I like the game but i cant open it anymore since i update my driver,it says your ideo card does not support alpha blending floating point render target. can u fix this(it was fine before i update my driver).if u fix this i might give it another try"
-2015-12-26,304050,True,"It's realy fun and addicting game,specialy when u play with friend.lots of mount,allies,and classes u can choose,even its grindy its fun(sorry bad london:))"
+posted,item_id,recommend,sentiment_analysis
+2016-09-03,438490,True,2
+2016-05-16,333930,False,1
+2015-12-26,304050,True,1

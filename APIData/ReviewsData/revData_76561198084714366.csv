@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-22,17740,True,"this is unbelievable, so much potiential, play it!"
-2014-08-20,230410,True,"This has a potiental to get amazing, it's a free game! How could you rate it?I like the game, although it's not the best. It's worth the hard drive space. I don't like the game's mechanics and code source, I think it's JavaScript instead of pythonbut overall it's great"
+posted,item_id,recommend,sentiment_analysis
+2014-08-22,17740,True,1
+2014-08-20,230410,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-20,227940,True,i liked it
-2014-06-29,200210,True,this is a epic game for friends!
-2015-01-26,218620,True,this is a really fun game u all u play it! GOOD JOB PAYDAY :D
-2014-07-08,730,True,EPICCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC EVERYONE SHOULD PLAY IT SOMETIMES RAGE AND SOMETIME KCUF YAY THIS GAME IS GONNA BE A 9/10 FOR RAGE in game sometimes
+posted,item_id,recommend,sentiment_analysis
+2015-11-20,227940,True,2
+2014-06-29,200210,True,0
+2015-01-26,218620,True,2
+2014-07-08,730,True,0

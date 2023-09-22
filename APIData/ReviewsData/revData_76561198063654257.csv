@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-03-09,227680,False,I lose my money buying this..
-2014-01-19,221380,True,"Great game of Strategy , make your own economy. your own army and fight , great medieval game."
-2013-11-06,48240,True,"ótimo jogo de Estrategia / Simulação, ele representa um futuro onde o nivel do mar se estende muito , fazendo de continentes pequenas ilhas , prefiro o Anno 1404 mas o 2070 tambem é muito legal. Recomendo"
-2015-04-02,91333,True,Nice work
-2013-06-15,231430,True,Muito Show esse jogo
-2013-01-11,48700,True,"É muito legal este jogo, envolve ação , com estrategia e Rpg, Legal D+5/5"
-2012-06-02,22600,True,GooD GamE
+posted,item_id,recommend,sentiment_analysis
+2015-03-09,227680,False,1
+2014-01-19,221380,True,2
+2013-11-06,48240,True,2
+2015-04-02,91333,True,2
+2013-06-15,231430,True,2
+2013-01-11,48700,True,2
+2012-06-02,22600,True,2

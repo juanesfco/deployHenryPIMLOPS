@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-06,332800,True,best laxative i've used in ages
-2015-06-26,22300,True,I shot a man and put his corpse in the toilet for stealing my sweetroll as a kid. 11/10.
-2014-09-20,319510,True,"much game, such spook, wow, very robot, many scare, wow"
+posted,item_id,recommend,sentiment_analysis
+2015-02-06,332800,True,2
+2015-06-26,22300,True,1
+2014-09-20,319510,True,1

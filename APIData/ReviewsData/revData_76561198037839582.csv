@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-23,570,True,"What can I say? The game is amazing well made blah blah blah.....I mean like i met a drug dealer who I stayed up 2 nights straight playing it with and he tought me this, you gotta risk it to get the biscut      ill remeber that for the rest of my life"
-2013-04-11,230410,True,One of the best looking free2play games out there
+posted,item_id,recommend,sentiment_analysis
+2014-09-23,570,True,1
+2013-04-11,230410,True,2

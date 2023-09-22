@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-14,440,True,Best First Person Shooter... Ever.  For all time.  In fact... best game ever.  There will never be a Team Fortress 3 because Team Fortress 2 is the perfect shooter.
-2014-01-19,222730,True,"Reus is a God game where you seed the world with plants, animals and minerals for your NPC villages.  There are heaps of different resources to use, each with different synergies and requirements and trying to manage them all in a way that will satisfy whatever projects your villages are currently trying to complete makes for a different game every time.  You can pause the game at any time to figure out what you're doing, and you need to, there's so much going on in a single game.  Highly recommended if you enjoy giving your brain a workout.  I'm loving it."
-2014-09-27,258970,False,"Looks like it could be a good game.  However, it's currently unplayable due to the fact that you cannot rebind any keys.  Everytime I try to talk on TS, I throw my shield.  Effectively stunning myself and blowing a cooldown ability every time I try to talk in a cooperative game is extremely frustrating.  Not recommended before rebinding keys is patched in."
+posted,item_id,recommend,sentiment_analysis
+2014-02-14,440,True,2
+2014-01-19,222730,True,1
+2014-09-27,258970,False,1

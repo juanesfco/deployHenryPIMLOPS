@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-07-18,330830,True,I want season 2 and i want it now god dammit!
-2015-10-20,319630,True,Best feels trip i've ever had.
-2016-08-04,498240,True,So far so good
-2016-07-25,250320,True,I'll huff and puff you to jail.
-2016-06-17,221100,False,This game is still in Alpha.
-2016-07-06,201830,False,Residentsleeper
-2016-09-17,385760,True,Best nba2k game so far. All these bad reviews are from people playing the games on a potato and or don't know how to update their drivers.
-2015-09-11,287700,True,Hold me while i cry ;_;
-2014-07-23,304930,True,Has hitmarkers 10/10
-2014-07-04,730,True,Can flashbang teammates 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-07-18,330830,True,1
+2015-10-20,319630,True,2
+2016-08-04,498240,True,2
+2016-07-25,250320,True,1
+2016-06-17,221100,False,0
+2016-07-06,201830,False,1
+2016-09-17,385760,True,1
+2015-09-11,287700,True,1
+2014-07-23,304930,True,1
+2014-07-04,730,True,1

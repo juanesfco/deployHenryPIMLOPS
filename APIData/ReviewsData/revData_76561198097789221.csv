@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-10,570,True,the best game ever !!! it was a hard game at the beginning but then it started to be fun and cool !!!
-2015-04-20,245550,True,"best movie in my whole life, not a game but a very good movie. Thumbs up"
-2014-01-06,4000,False,"what the F*&# is this game , this is the worst game ever , please beware worst game ever , you will get very bored and no refunds , i am saving your life"
-2014-06-29,248570,True,"fun game, you can do some cool ninja moves, not reccomend for new players"
-2014-01-06,35720,True,"Tricky and Awesome game , worth buying , but don't buy this if you are not patient. :)"
-2013-09-27,440,True,awesome game
+posted,item_id,recommend,sentiment_analysis
+2013-12-10,570,True,1
+2015-04-20,245550,True,2
+2014-01-06,4000,False,0
+2014-06-29,248570,True,1
+2014-01-06,35720,True,2
+2013-09-27,440,True,2

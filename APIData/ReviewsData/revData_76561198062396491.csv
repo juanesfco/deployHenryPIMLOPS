@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-31,359050,False,my friend gave me this game without any contextwhat the ♥♥♥♥
-2016-01-17,377160,True,made an old lady overdose on drugs10/10
-2013-12-12,105600,True,"A great game to play with some intense moments like fighting a boss or forced to fight for your life in a cave or dungeon. Also a great game to play whilst waiting for another game to download. When you are playing with your friends it's funny to watch the chat when your friend is being swarmed by Demon Eyes or Zombies. I definently reccomend this game for anyone to comes by it, heck, it can even run on your Grandma's PC."
+posted,item_id,recommend,sentiment_analysis
+2015-12-31,359050,False,0
+2016-01-17,377160,True,1
+2013-12-12,105600,True,1

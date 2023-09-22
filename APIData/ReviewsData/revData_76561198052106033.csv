@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-18,291550,True,Lovin' it!
-2016-03-05,304930,False,Doesn't ♥♥♥♥ing work.
-2016-02-06,424280,True,"This game is amazing, my mates and I have had a lot of fun with this game; my only worry is that this game will end up having paid power-ups (extra lives and such). Hopefully that doesn't happen."
+posted,item_id,recommend,sentiment_analysis
+2016-01-18,291550,True,1
+2016-03-05,304930,False,1
+2016-02-06,424280,True,1

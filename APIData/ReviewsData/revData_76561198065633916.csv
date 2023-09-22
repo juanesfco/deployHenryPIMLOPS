@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-06,72850,True,"Beware, Skyrim will life-steal the ♥♥♥♥ out of you."
-2014-04-03,570,True,"Well played valve, well played............"
-2014-06-22,233270,True,"I won't go to bed, until everyone is dead!"
-2014-02-05,223710,True,Were a nappy whilst playin' this ♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2014-02-06,72850,True,1
+2014-04-03,570,True,1
+2014-06-22,233270,True,0
+2014-02-05,223710,True,1

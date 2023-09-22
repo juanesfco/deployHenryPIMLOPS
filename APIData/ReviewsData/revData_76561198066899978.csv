@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-05,8870,True,"holy ♥♥♥♥ing ♥♥♥♥, just finished it, sooooo gooooood!!!"
-2014-11-12,730,True,"brilliant, highly recommend it :)"
-2014-02-27,221100,True,i absoultely love this game but when i went into water my gun fell out and now i spawn about 50m in the air and fall to my death... plz fix this bug ASAP
+posted,item_id,recommend,sentiment_analysis
+2015-11-05,8870,True,1
+2014-11-12,730,True,2
+2014-02-27,221100,True,1

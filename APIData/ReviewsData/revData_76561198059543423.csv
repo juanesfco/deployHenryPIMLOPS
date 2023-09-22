@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-24,38830,False,thanks for the free hat
-2015-12-02,417860,True,i should be talking to real girlswhy live.
-2014-03-27,440,True,wasted 4 hour to gain a free hat
+posted,item_id,recommend,sentiment_analysis
+2016-07-24,38830,False,2
+2015-12-02,417860,True,2
+2014-03-27,440,True,1

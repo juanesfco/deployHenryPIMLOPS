@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-30,55230,True,dis game is ze best
-2015-11-23,301520,True,2 good 4 me
-2016-06-10,271590,True,i cannot run the game help please
-2016-01-30,9480,True,"I'll start off by saying that the pc port is absolute ♥♥♥♥. Even on the best hardware around this game will not stay at a stable 60 fps on high settings. But I still prefer the pc version over the console version. On the xbox 360 and ps3 the game often goes below 30 fps and crashes from time to time. At least the pc version never crashed when I played it and it never went below 30 fps on my pc. Also the online doesn't work anymore because gamespy closed down, so if you want to play with a friend you need to use hamachi or evolve and run a lan game."
-2015-11-07,304930,True,i love  this  game becasue i like survivor games
-2014-07-27,224540,True,i like this is fun and awsome mostly i play sniper :D
+posted,item_id,recommend,sentiment_analysis
+2016-01-30,55230,True,2
+2015-11-23,301520,True,2
+2016-06-10,271590,True,0
+2016-01-30,9480,True,1
+2015-11-07,304930,True,1
+2014-07-27,224540,True,2

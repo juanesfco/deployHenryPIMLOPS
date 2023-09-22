@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-23,570,True,is a good moba game i higly recomend it
-2014-03-14,440,True,best game i've played
-2014-07-20,299700,False,after you had to pay for the game it got awful dont buy unless you want nostaligia of the game
-2013-12-31,550,True,good game
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,570,True,2
+2014-03-14,440,True,2
+2014-07-20,299700,False,0
+2013-12-31,550,True,2

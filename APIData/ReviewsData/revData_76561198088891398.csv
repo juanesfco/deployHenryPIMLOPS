@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-07,206420,True,"ok i said the third was a good game but this this is just great, there is just no other way to put it"
-2014-05-07,286100,True,"this brings back a lot of memories just for the artwork and simple game machanics, definately get this game if you like 2D side scrolling puzzle gaming :)"
-2014-02-07,204360,True,"great to play with friends, and has a great story if you can call it that :3"
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,206420,True,2
+2014-05-07,286100,True,1
+2014-02-07,204360,True,2

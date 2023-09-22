@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-09-30,285900,True,"Well I bought this game at 3 in the morning and probobly wasn't thinking straight... well I can tell you... this was a great!!! one of the best split second decisions of my life, this game is hilarious. 9/10 because im all alone and can't play it with anyone.. :(*EDIT*Okay so ive had this game for a good 2 years now, playing it on and off and such, it's had some... ordinary updates but all together stayed a pretty good game, if anything i'd say its certainly improved! I still recommend this game but I also maybe recommend waiting for it to go on sale."
-2014-12-17,331470,False,well um... i don't know what the ♥♥♥♥ im playing here... its certanly interesting and boring at the same time... uhhh. yeah... 4/10 not enough love triangles
-2015-01-03,282070,True,Hit a hobo with a shovel 10/10
-2014-09-30,224280,True,I downloaded the lite version because im cheap and it was better and easier than I expected 9/10 only because I wish I had more background music :3
-2014-08-25,204360,True,"Grand! Snazzy! Built for ♥♥♥♥♥ez!I really love this game, played it on Xbox 360 for ages, Just had to get it on PC! 10/10Also there is a Deer that is propelled by ♥♥♥♥.... how is that not amazing"
-2014-01-17,440,True,"A pretty well made game, quite balanced, quite fun only reccomendation, add a few more maps"
+posted,item_id,recommend,sentiment_analysis
+2014-09-30,285900,True,1
+2014-12-17,331470,False,1
+2015-01-03,282070,True,1
+2014-09-30,224280,True,2
+2014-08-25,204360,True,2
+2014-01-17,440,True,1

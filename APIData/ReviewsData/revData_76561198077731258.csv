@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-06-09,225540,True,BEST. GAME. EVER.
-2016-08-18,550,True,ZOMBIES YAYYY
-2015-01-18,302830,True," After seeing the reviews on this game, i decided not to get it, thinking it was bad. What a mistake i made. this multiplayer shooter my look like a minecraft ripoff gone wrong, but it isn't. this game was recommended to me by my friend yesterday. and i haven't stopped playing it since. Yeah, i know people can spawncamp with op weapons, just join a different server. So what if the graphics are bad, its in early access so it will get better. I honestly think this is a good game and you should definitely give it a go."
-2014-07-02,440,True,Team Fortress 2 Is a game where you can laugh with your friends about that guy you just shot.
+posted,item_id,recommend,sentiment_analysis
+2016-06-09,225540,True,2
+2016-08-18,550,True,1
+2015-01-18,302830,True,1
+2014-07-02,440,True,1

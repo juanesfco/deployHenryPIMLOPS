@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-04,230410,True,Legal jogo de alien (eu acho)
-2014-08-15,214850,True,lol legal
-2014-07-25,304930,True,Um das coisas q eu axei q num ia comenta e q esse jogo e legal Hu3
-2012-10-15,440,True,muito legal
+posted,item_id,recommend,sentiment_analysis
+2014-07-04,230410,True,1
+2014-08-15,214850,True,2
+2014-07-25,304930,True,2
+2012-10-15,440,True,2

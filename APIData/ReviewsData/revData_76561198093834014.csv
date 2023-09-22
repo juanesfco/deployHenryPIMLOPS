@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-11,48700,True,Very interesting game
-2014-06-27,440,True,never stops to amaze me
-2014-01-29,250420,True,"Very interesting, a game worth the time"
+posted,item_id,recommend,sentiment_analysis
+2014-07-11,48700,True,2
+2014-06-27,440,True,1
+2014-01-29,250420,True,2

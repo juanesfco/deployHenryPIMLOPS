@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-27,3390,True,it's basically the cell stage in spore but forever
-2014-04-11,265210,True,disturbingly arousing
-2014-01-22,57300,True,I just did a really cool burp
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,3390,True,1
+2014-04-11,265210,True,0
+2014-01-22,57300,True,2

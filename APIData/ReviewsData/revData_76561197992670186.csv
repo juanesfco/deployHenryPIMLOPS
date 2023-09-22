@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-16,219150,True,"My favorite of all time. A brillant and neo-noir inspired story, one of the best soundtracks I've ever heard, perfectly brutal and fast paced combat. If you ever spend $10 on indie PC game in your life time why not give it a try Hotline Miami"
-2014-04-17,211820,True,Starbound Is a very good game and I can only see it getting better as it's beta helps Chuckle Fish iron outs bugs and game play
+posted,item_id,recommend,sentiment_analysis
+2014-08-16,219150,True,1
+2014-04-17,211820,True,2

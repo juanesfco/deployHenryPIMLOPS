@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-11-24,730,True,i hate this game so much its my favourite
-2014-09-01,35720,True,possibly the most beautiful game ever. I loved it from start to finish. 100% recommend (especially if its on sale)
-2014-07-18,201790,True,crazy fun
-2014-04-08,212680,True,"♥♥♥♥ this game, i love it"
-2014-09-01,200710,True,"Seriously good fun, it can get a little repetetive at times but if youre planning on playing with friends 100% recommend"
-2015-05-17,107100,True,"holy ♥♥♥♥ dick this game is good,Play with a controller if you have one but dont be scared off if you dont. I didnt play it with one and its still fine. :)"
-2015-05-05,32400,True,"Downloaded this with no idea what to expect after getting it in a humble bundle. It is honestly one of my favourite games and probably my favourite star wars game. Occasionally you get lost and a walk through can be handy just to find where you have to go to next but other than that it it great. It is fast paced, the shooting is actually pretty good, the movement feels solid and I expect to finish then game some time soon.Definitely recommend."
+posted,item_id,recommend,sentiment_analysis
+2014-11-24,730,True,0
+2014-09-01,35720,True,2
+2014-07-18,201790,True,0
+2014-04-08,212680,True,1
+2014-09-01,200710,True,2
+2015-05-17,107100,True,2
+2015-05-05,32400,True,2

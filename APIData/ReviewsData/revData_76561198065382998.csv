@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-08,72850,True,This game taught me how to steal.10/10 - Would put a pot in someone's head again.
-2016-07-31,440,False,volvo what have you done
-2015-12-12,730,False,I R8 this upd8 8/8
-2015-04-14,271590,True,After 10000 years in development...It has been worth the weight.
-2014-04-23,620,True,BEST GAME EVAH :3
+posted,item_id,recommend,sentiment_analysis
+2014-09-08,72850,True,0
+2016-07-31,440,False,1
+2015-12-12,730,False,1
+2015-04-14,271590,True,2
+2014-04-23,620,True,2

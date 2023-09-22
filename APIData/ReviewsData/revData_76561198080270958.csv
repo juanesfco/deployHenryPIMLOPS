@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-18,221910,True,"No se por donde empezar a describir a este juego si no solamente tenemos que seguir la historia que nos cuenta el narrador pero es cosa nuestra obedecerlo o no , demostrando que el juego incluso diria que romperia la cuarta pared, el juego en si conoce muy bien al jugador promedio, saviendo que cada accion que hagamos el narrador soltara algunas frases que nos sacaran mas de una risa, en si el juego puede ser aveces corto, pero en si es un buen juego para salir de la rutina ( en mi caso shooters), en fin mi opnion es si merece la pena yo creo que si, si estas aburrido de cualquier juego te recomiendo este ya que creo que te sacaras unas buenas risas"
-2014-03-20,220,True,"Un FPS algo viejo pero bueno, tienes una buena historia mas bien una historia epica , tiene accion y su buena dosis de misterio que te haran querer que sepas que paso despues merece la pena cada centabo como dijo alguien una vez tiene ese no se que que te hace amarlo simplemento juega 1 hora de este juego y quedaras maravillado con el universo de Half life"
-2014-01-12,620,True,Lleno de humor y desafios mentales buen juego merese la pena
-2013-02-28,440,True,Por culpa de este juego no tengo novia....
-2014-11-18,72850,True,Adictivo.
+posted,item_id,recommend,sentiment_analysis
+2014-10-18,221910,True,1
+2014-03-20,220,True,0
+2014-01-12,620,True,2
+2013-02-28,440,True,0
+2014-11-18,72850,True,1

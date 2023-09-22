@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-06-01,107410,True,"A really nice game. If you want to play a realistic tactic shooter, Arma 3 is the way to go. Do missions or just have fun in some modes. I would recommend to play this game with at least one friend !"
-2015-05-18,440,True,"A game for in between. Despite all this, a good game (:"
-2015-06-01,230410,True,A game for in between. Nothing special
-2015-06-01,304930,True,Nice Game
-2015-05-07,730,True,"top game. mm sucks sometimes cause of many russians and hacker, but its a nice game"
-2015-05-18,236390,True,"A game for in between. Despite all this, a good game (:"
-2015-05-14,570,True,"Pretty nice game, but I prefer LoL :/"
+posted,item_id,recommend,sentiment_analysis
+2015-06-01,107410,True,1
+2015-05-18,440,True,1
+2015-06-01,230410,True,1
+2015-06-01,304930,True,1
+2015-05-07,730,True,1
+2015-05-18,236390,True,1
+2015-05-14,570,True,2

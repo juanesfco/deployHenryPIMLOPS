@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-10,4000,True,You can make sex
-2014-11-27,221100,True,Cant even sit on chars.
-2014-11-27,219740,True,Cant even jump.
-2014-12-05,730,True,you can jump in this game
+posted,item_id,recommend,sentiment_analysis
+2015-03-10,4000,True,1
+2014-11-27,221100,True,1
+2014-11-27,219740,True,1
+2014-12-05,730,True,0

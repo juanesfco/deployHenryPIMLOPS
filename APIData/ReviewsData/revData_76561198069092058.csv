@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-08,273110,False,Completely Butchers CS 1.6 0/10 - IGN
-2014-10-12,241930,True,Orc Killing Simulator 2014
+posted,item_id,recommend,sentiment_analysis
+2015-06-08,273110,False,1
+2014-10-12,241930,True,1

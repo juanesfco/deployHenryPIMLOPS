@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-01,214490,True,"this game is amazing, the atmosphere is perfect if your alien fan or like horror games this is for you"
-2010-11-23,40100,True,♥♥♥ shit up
+posted,item_id,recommend,sentiment_analysis
+2014-12-01,214490,True,2
+2010-11-23,40100,True,0

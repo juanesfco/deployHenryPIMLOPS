@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-22,224600,False,"> Playing with friend> Go to pick up ammo, game crashes.> Verify files> 273 files failed to validate> Begins updating 14.7 GB11/10 would self delete game mid game again"
-2016-06-14,219640,False,Worst game I've ever played
+posted,item_id,recommend,sentiment_analysis
+2016-05-22,224600,False,0
+2016-06-14,219640,False,0

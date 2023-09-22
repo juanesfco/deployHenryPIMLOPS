@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-11-18,332800,True,I touched my self to this
-2014-08-16,222880,True,Good Game
-2014-07-23,105600,True,Terraria has a great crafting mechanic and neat 16-bit style graphic. Seasonal update brings various nifty items you can build/equip/craft. Best when played with friends.
-2014-05-03,221100,True,"Cool Zombie, Free roam, sandbox, MMO."
-2014-03-19,72850,True,"The Elder Scrolls V: Skyrim is one of the best games I have ever played. Skyrim is a snowy and unforgiving place that has been struck by war. The Imperials and the Stormcloaks fight for the land and the freedom of Skyrim. Then there is You; A Prisoner (Like in all of the Elder Scrolls games) Captured by the Imperials and sentenced to death, and out of all of a sudden a dragon appears and attacks the local town you are in. The rest of the game is all up to you and your decisions."
-2014-08-06,211820,True,Starbound so far is a good game. Just imagine Terraria and Mass effect had a baby. Keep in mind what ever bugs you may encounter in the game will hopefully be patched soon and God help us if chucklefish deletes everyones worlds and characters again!
-2014-12-13,730,False,Source is better
-2014-12-12,218230,True,Is good
-2014-11-28,4000,True,Is good but full little vannoss fanboys kids running around destroying your stuff
-2014-11-27,212680,True,One of the best games I have ever played!
+posted,item_id,recommend,sentiment_analysis
+2014-11-18,332800,True,1
+2014-08-16,222880,True,2
+2014-07-23,105600,True,2
+2014-05-03,221100,True,2
+2014-03-19,72850,True,2
+2014-08-06,211820,True,1
+2014-12-13,730,False,2
+2014-12-12,218230,True,2
+2014-11-28,4000,True,2
+2014-11-27,212680,True,2

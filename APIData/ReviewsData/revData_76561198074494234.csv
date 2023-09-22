@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-01-22,730,True,SUPER RECOMENDADO.
-2016-02-29,43110,True,c:
-2015-09-13,389570,True,"MUY BUENO TODO, PEROOO, SE DESCONECTA CUANDO LLEGO A LAS 100,000 DE MASA!!"
-2015-01-24,570,False,"Pesimo juego, mala jugabilidad, la camara alejada le pone peor al juego, tardas 2000 horas en tratar de encontrar una partida, es mas para frikis gordos que no tienen nada que hacer ¬¬"
-2016-02-07,339610,False,>:c
-2016-01-30,265630,True,Buen Juego.
-2016-01-22,240,True,El precio mata pero muy buen juego.
-2015-12-26,219640,True,"Muy bueno para disfrutar con amigos, se los recomiendo"
-2015-11-24,417860,True,LO QUIERO EN ESPAÑOL! :D
+posted,item_id,recommend,sentiment_analysis
+2016-01-22,730,True,2
+2016-02-29,43110,True,1
+2015-09-13,389570,True,2
+2015-01-24,570,False,0
+2016-02-07,339610,False,1
+2016-01-30,265630,True,2
+2016-01-22,240,True,2
+2015-12-26,219640,True,2
+2015-11-24,417860,True,2

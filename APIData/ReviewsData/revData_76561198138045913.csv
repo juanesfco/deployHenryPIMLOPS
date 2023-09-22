@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-08,208090,False,"I played this a year ago and it was dead then, apparently its still dead"
-2015-08-25,70100,True,It was a nice experience but it takes a while to learn.
-2015-08-09,334230,True,Open steamlaunch town of salemlog infind random gameTheres two guys named Jesus and GodGod votes to lynch Jesus and says 'only you can save this damned town'Jesus diesJesus comes back to life from retributionist playertown wins10/10
-2015-06-20,42120,False,dont even bother. its dead
-2015-06-01,102500,True,One of the best underrated RPG'S of the last generation
+posted,item_id,recommend,sentiment_analysis
+2015-09-08,208090,False,0
+2015-08-25,70100,True,2
+2015-08-09,334230,True,0
+2015-06-20,42120,False,0
+2015-06-01,102500,True,2

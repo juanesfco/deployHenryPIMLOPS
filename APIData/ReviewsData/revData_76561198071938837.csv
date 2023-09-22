@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-19,339800,True,"This game is a fun and addicting mix of puzzle and Dating sim. The dialogue made me audibly laugh out loud on more than one occasion and despite the fact that the game is silly, I want to get all the achievements. I would love to see more of this game. More girls. More Puzzles. More everything"
-2014-06-21,207210,True,"Fun game that reminded me of being a kid all over again. Fun, yet infuriatingly difficult at times."
+posted,item_id,recommend,sentiment_analysis
+2015-02-19,339800,True,2
+2014-06-21,207210,True,1

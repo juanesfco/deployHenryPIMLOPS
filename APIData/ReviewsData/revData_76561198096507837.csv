@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-09,304930,True,IS Funny to me
-2014-07-12,242720,True,waiting simulator
-2014-03-19,238960,True,Good for ME
+posted,item_id,recommend,sentiment_analysis
+2014-08-09,304930,True,2
+2014-07-12,242720,True,1
+2014-03-19,238960,True,2

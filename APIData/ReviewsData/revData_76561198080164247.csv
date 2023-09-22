@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-02-03,208352,True,What map contains the stock scenarios of this Locomotive?
-2014-02-17,211500,True,I like it because there is a FORDGTGT1 ::DD::DD!!!!
+posted,item_id,recommend,sentiment_analysis
+2016-02-03,208352,True,1
+2014-02-17,211500,True,1

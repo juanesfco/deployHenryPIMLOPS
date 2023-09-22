@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-25,427520,True,"This is an example of early access done right.  The Devs consistantly hammered out any bugs and kept the game stable before moving onto the next piece of new content.  They regularly release updates and keep the community in the loop on the development of Factorio.  The game already has enough content to keep people playing for ages.   Awesome Game, Community and Developers."
+posted,item_id,recommend,sentiment_analysis
+2016-02-25,427520,True,1

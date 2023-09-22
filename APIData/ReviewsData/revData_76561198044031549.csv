@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-19,440,False,a bootleg of super nintendo brothersif u have no money or a really bad pc i would reccomend xd ok
-2016-08-19,4000,True,a really good community
-2016-08-19,211820,True,space
-2016-08-19,10180,True,accuratly describes the 2016 olympics in one of its campaign levels yet it was released in 2009 👌
-2016-08-19,252490,True,my favourite third person side-scroller from my favourite developers kojima
-2015-12-13,417860,True,getting dumped by a ♥♥♥♥ simulator 2005
+posted,item_id,recommend,sentiment_analysis
+2016-08-19,440,False,1
+2016-08-19,4000,True,2
+2016-08-19,211820,True,1
+2016-08-19,10180,True,1
+2016-08-19,252490,True,1
+2015-12-13,417860,True,1

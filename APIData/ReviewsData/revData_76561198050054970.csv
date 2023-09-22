@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-21,224540,False,"Este jogo parece ser legal no começo,mas depois que voce joga percebe que é muito sem graça o jogo. Não funciona em notebooks com Intel(R) Graphics. E é muito dificil achar um jogo multiplayer que tenha Brasileiros."
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,224540,False,2

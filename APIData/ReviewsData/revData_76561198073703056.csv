@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-05-04,205350,False, pessaol eu tenho um poblema  só que o poblema o vc redist eu ja abaixei mesmo asim o mortal  kombat nao abre eu ja verifiquei a intergridade dos aquivos e fala que falta o visual c e dai ele fala que  abaixar só que parece que meu pc bloquea o visual c nao deixa eu abaixar nao abre ne huma janela ne huma nao abre nada e saio alquem ja teve esse poblema pod eme ajudar eu desintalei e nao funcionou
-2015-06-19,330840,True,muito foddddddddddda esse jogo vc é fã da série gosta de jogo de escolhas  ESSSE JOGO PERFEITOOOOOOOO ♥♥♥♥♥ É MUITO BOM VALE A PENA
-2015-01-28,218230,False,jogo de ♥♥♥♥♥
-2015-01-21,19000,True,da muitto medo esse jogo vale a pena
-2014-12-23,242050,True,isso foi a escolha da julia intao foi muito bom !!!!!!!!!!!!!!!! =] https://www.youtube.com/watch?v=Nz6UollSRuM
-2014-10-29,218620,False,bom ojogo é muito  bom só tem uma coisa que um tinha as missaons do mapa vai mata o chefe dos policiais vai manda o payday 2 toma no cu payday 2 é muito rpg  éssa ♥♥♥♥♥ e o payday 1 é melhor tchau vou compar o um voces qyue se ♥♥♥♥m
-2014-09-30,323500,True,cara eu to escrevendo a opniaom dessa dlc se eu nem tenho kkkk
-2014-08-10,12210,True,jogo ♥♥♥♥aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2014-07-23,50650,True,jogoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ♥♥♥♥ para ♥♥♥♥♥♥♥
-2014-01-20,206420,True,sim émuito bom para carrrrrralho
+posted,item_id,recommend,sentiment_analysis
+2015-05-04,205350,False,1
+2015-06-19,330840,True,1
+2015-01-28,218230,False,0
+2015-01-21,19000,True,1
+2014-12-23,242050,True,2
+2014-10-29,218620,False,2
+2014-09-30,323500,True,2
+2014-08-10,12210,True,0
+2014-07-23,50650,True,1
+2014-01-20,206420,True,2

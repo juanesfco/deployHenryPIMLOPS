@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-07-06,105600,True,Sandbox+Indie+2D+Epic stuff=This Game 10/10
-2014-06-14,253980,True,"Good game,Good graphics,good gameplay history.Very funny"
-2014-07-18,304930,True,"One of few apocalypse survival games that truly grows from the community. The dev works on this everyday and is always looking for feedback and opinions on how the game is shaped, also constantly putting out strawpolls to the community and listens to us.Unturned is played how you want, example, if you only want PVE you can select your server and if you want a PVP experience with your PVE you can select PVP enabled on your server, and yes, you can host your own servers on your computer.It starts out like many other apocalypse survival games: you start out with your fists and 4 slots for your inventory. You have a lot of places you can wander to when you spawn, like a cabin camp, small town, military base, and many more. Your main mission when you start is to grab a melee, some food with drink, and a backpack. Once you've acquired these necessities, you may wish to find a gun if you want to PVP, or you may want to collect seeds to start a farm, or even start chopping down trees to make yourself a cozy place to spend the night.The PVP system is great also, server hosts can select if players can bring in loot from their server (best for PVP) or not be able to bring loot in (Best for PVE Immersion). Their is a leaning system so you can peek corners also. You can also SHOOT OUT OF CARS (but not from the drivers seat of course)! Load some of your buddies in the trunk of your truck and do a hillbilly drive-by if you wish!The towns are well structured for PVP also, their are lot of CQC battles to be fought, and also small hills for sniping, but snipers can be easily flanked if you don't post up right!Base raiding is also important in PVP too. People on public servers will build structured bases equipped with sniper pits, plenty of windows, and escape routes! You must observe a player's base and attack it strategically, you never know how many players may be in there!Now, time to farm my crops and build my base, I recommend you do so also!"
-2014-07-02,222900,True,WASD!
-2014-06-14,220,True,One of my 10/10
-2014-06-14,212800,True,Very funny... BOX GAME!
+posted,item_id,recommend,sentiment_analysis
+2014-07-06,105600,True,0
+2014-06-14,253980,True,2
+2014-07-18,304930,True,1
+2014-07-02,222900,True,1
+2014-06-14,220,True,1
+2014-06-14,212800,True,1

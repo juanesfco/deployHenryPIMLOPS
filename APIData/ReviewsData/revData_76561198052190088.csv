@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-03,423880,True,For a short game it has an extremely powerful story. A bit too real for me.
-2016-01-04,270550,True,Fun game. Worth every cent. Great with friends.A couple bugs but nothing too bad (even though we lost because of one)
-2015-08-10,227940,True,"Like War? Like FPS's? Like divebombing players with planes? THEN THIS GAME IS FOR YOU. Heroes and Generals is one of the better War FPS games out there. Sure i havent played much of it, but what I have played I enjoyed every second of it. At the moment the game is a bit glitchy but that is to be expected. I suggest giving the game a go (with friends makes the experience even better).And remember keep your memes fresh."
+posted,item_id,recommend,sentiment_analysis
+2016-04-03,423880,True,1
+2016-01-04,270550,True,1
+2015-08-10,227940,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-01,221100,True,not mod game
-2014-01-01,4000,True,this is not game mod
-2014-10-14,214490,True,'Not CoD'   -2/10 IGN
+posted,item_id,recommend,sentiment_analysis
+2014-01-01,221100,True,0
+2014-01-01,4000,True,2
+2014-10-14,214490,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-05-30,222900,True,"Se você gosta de jogos moba, vai gosta do novo Dead Island.É muito daora de jogar, craftar armas, matar os zumbis.... wow"
-2014-02-17,208090,True,"Excelentíssimo jogo!! baixa agora, joga, quanto antes melhor!!!"
-2013-11-28,440,True,o melhor jogo no mundo!!!!!!
-2014-03-02,231330,True,"ótimo, excelente gráfico!!!"
-2013-12-17,211820,True,"Excelentíssimo jogo..... incrível, muito bom!!!"
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,222900,True,1
+2014-02-17,208090,True,2
+2013-11-28,440,True,1
+2014-03-02,231330,True,2
+2013-12-17,211820,True,2

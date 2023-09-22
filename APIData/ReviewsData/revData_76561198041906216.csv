@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-02-08,391540,True,I like this game so much make me hapi boy 10/10 ign enough water
-2014-09-20,4000,True, Pretty Good. Buy it on a discount
-2014-06-15,63380,True,"Good coop and it,s free. 10 out of 10"
-2014-01-21,550,True,pretty fabu lous  if u ask me. feels like eating a burger
-2014-02-04,208090,True,Get ur ♥♥♥♥ together loadout. U suck at matchmaking
-2014-01-02,233130,True,Buy this game when it is 10 dollars. Gameplay is fun.Characters are funny. Sword play and gun play is fun. This game is good
+posted,item_id,recommend,sentiment_analysis
+2016-02-08,391540,True,1
+2014-09-20,4000,True,2
+2014-06-15,63380,True,2
+2014-01-21,550,True,2
+2014-02-04,208090,True,1
+2014-01-02,233130,True,1

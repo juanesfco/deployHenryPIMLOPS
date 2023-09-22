@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-06-15,271590,True,Over 400 hours of playtime still not lvl 100
-2014-10-10,208480,True,Wanna learn history? Assassin’s Creed®
-2015-08-06,55230,True,I shot an old man who survive 2 wars
-2015-07-23,333930,True,♥♥♥♥ don't be
-2015-05-13,104700,True,This game had a good run but it is now deadRest in peace little prince we would miss you
-2015-03-16,218620,True,The number one thing you'll say is WTF is shooting me!!!!
-2015-03-16,233720,True,Wanna new computer?buy this game
-2015-03-16,203160,True,I pulled a rusted metel out of my stomach then heated the tip off an arrow and insert it into my stomach
-2013-03-10,440,True,Before you play is game please consult your doctor Tf2 is not for anyone
+posted,item_id,recommend,sentiment_analysis
+2016-06-15,271590,True,1
+2014-10-10,208480,True,1
+2015-08-06,55230,True,1
+2015-07-23,333930,True,1
+2015-05-13,104700,True,1
+2015-03-16,218620,True,0
+2015-03-16,233720,True,0
+2015-03-16,203160,True,1
+2013-03-10,440,True,0

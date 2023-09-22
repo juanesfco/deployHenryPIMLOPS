@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-15,730,True,'You miss 100% of the shots you don't take.'In this game you seem to miss 100% of the shots you DO take.
-2014-09-07,630,True,The doors are the most dangerous part of this game.
-2014-04-06,212680,True,Amazing game. One of the best I've ever played.
-2014-02-28,570,True,"Haven't played much, but it seems ok."
-2014-02-28,440,True,Best hat simulator around.
+posted,item_id,recommend,sentiment_analysis
+2015-03-15,730,True,0
+2014-09-07,630,True,0
+2014-04-06,212680,True,2
+2014-02-28,570,True,2
+2014-02-28,440,True,2

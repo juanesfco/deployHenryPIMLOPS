@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2013-05-19,22370,True,The best of the fallout series
-2013-05-19,203810,True,"Weird as ♥♥♥♥, the entire game sets a false sense of unsafty while exploring the reaches of this strange island....."
-2013-05-19,211400,True,awesome quick indie game that has a rewarding story line
-2013-05-19,205060,True,Hard
-2013-05-19,204300,True,Awesome
-2013-05-19,12900,True,not as interesting as you would think
-2013-05-19,108710,True,"awesome if your not a little ♥♥♥♥♥ like jupp, its pretty ♥♥♥♥ed up haha"
-2013-03-19,110800,True,good if you smart like mick
-2012-10-22,16600,True,i like this alot it is fun and it dosent cost that much money. so you should consider buying it or add it to your wish list so you dont have to spend your money.
-2012-05-24,200210,True,so quick
+posted,item_id,recommend,sentiment_analysis
+2013-05-19,22370,True,2
+2013-05-19,203810,True,0
+2013-05-19,211400,True,2
+2013-05-19,205060,True,0
+2013-05-19,204300,True,2
+2013-05-19,12900,True,2
+2013-05-19,108710,True,2
+2013-03-19,110800,True,2
+2012-10-22,16600,True,2
+2012-05-24,200210,True,2

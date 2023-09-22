@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-18,72850,True,its the best game ever! VUS RO DA !
-2015-12-26,730,True,Why i like CS:GO 1. i have knifes2. fun game3. i can trollWhy i hate CS:GO1.SMURFS2. im Baddddddggwp :D
-2014-12-28,241930,True,This game is possibly the best game ive ever played awesome graphics and awesome gameplay. 100/10
+posted,item_id,recommend,sentiment_analysis
+2013-12-18,72850,True,2
+2015-12-26,730,True,2
+2014-12-28,241930,True,2

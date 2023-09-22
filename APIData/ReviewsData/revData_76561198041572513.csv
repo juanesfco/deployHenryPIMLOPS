@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-30,214870,True,'Aww shxadit! I should've had Fraps running for that!'
-2014-10-26,317360,True,What Brink wished it could be.
-2014-07-08,24960,False,Broken beyond repair.
-2014-06-02,250180,True,One of the best ports I've ever seen in my life.
-2014-02-20,234710,True,Really love this game.I hate video-poker.Oh the sad horror.
+posted,item_id,recommend,sentiment_analysis
+2015-05-30,214870,True,2
+2014-10-26,317360,True,1
+2014-07-08,24960,False,0
+2014-06-02,250180,True,2
+2014-02-20,234710,True,0

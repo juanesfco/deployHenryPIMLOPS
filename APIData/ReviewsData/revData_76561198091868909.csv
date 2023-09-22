@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-04,440,True,tbh this game was better 2 years ago :/ thanks for the great memories. rip tf2
-2016-09-11,113200,True,i cri everytiem i die in this game
-2016-09-11,550,True,definitely not worth $20 but fun if played with friends :>
-2016-09-11,730,True,Your daily dose of salt :>Great source of cancer! :)
+posted,item_id,recommend,sentiment_analysis
+2013-12-04,440,True,2
+2016-09-11,113200,True,0
+2016-09-11,550,True,2
+2016-09-11,730,True,2

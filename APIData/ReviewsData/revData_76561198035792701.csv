@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-01,200210,True,"Other than fustrating when you die, this game is awesome fun. The added effect of permadeath is a great feature."
-2014-07-01,18500,True,One of the best TD's out there. Great gameplay and the difficulty is just amazing.
-2014-07-01,238460,True,"Buckle your pants!~ Battleblock theater is such a hoot! You will laugh, cry, rage quit and even celebrating every win. This game has it all"
-2014-07-01,107100,True,"Bastion, just WOW.The story is well written, the graphics are the best I have seen for a platformer, and that soundtrack!The graphics just blow your mind, the vibrant colours and the detail are just breathtaking. Story is just so interesting and it makes you want to turn the page and read another! The music, well I listen to take soundtrack so often that I can just hear it when I sleep!I would recommend it to everyone and well its worth every penny!10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-07-01,200210,True,2
+2014-07-01,18500,True,2
+2014-07-01,238460,True,2
+2014-07-01,107100,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-06-27,214420,True,Its is good I like it
-2016-06-26,365670,True,I LIKE HATZ.
-2016-06-26,440,True,TF2 HERE WE GO... its a good game buy it Gaybin says so.
-2016-06-26,4000,True,GMOD I have played more then 1hour just not on this account its a good game buy it Gaybin says so.
-2013-05-06,221260,True,fun game for pryos
+posted,item_id,recommend,sentiment_analysis
+2016-06-27,214420,True,2
+2016-06-26,365670,True,1
+2016-06-26,440,True,2
+2016-06-26,4000,True,2
+2013-05-06,221260,True,1

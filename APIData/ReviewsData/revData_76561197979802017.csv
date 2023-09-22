@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-13,379720,True,"Great graphics and level design that runs smoothly, tight and sharp feeling controls, crisp weapons. Definitely worth a buy."
-2015-07-10,238960,True,Grinding Gear Games are simply one of the best game developers that have ever existed
+posted,item_id,recommend,sentiment_analysis
+2016-05-13,379720,True,2
+2015-07-10,238960,True,2

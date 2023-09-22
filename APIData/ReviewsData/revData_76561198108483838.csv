@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-25,550,True,"Un juego facil, sencillo y divertidisimo, ideal para jugar con amigos. Recomendable y jugable"
-2013-10-07,440,True,"A diferencia de Team Fortress Classic, Team fortress 2 deberia ser el 3 o el 4. Aun asi la diferencia es muy grande, es un buenisimo juego, muy recomendable y viciable"
-2015-08-14,291210,True,"Excelente juego, lo conoci cuando aun estaba en Facebook. A pesar de que no pesa mucho el juego, tiene unos graficos aceptables, lo recomiendo!!"
+posted,item_id,recommend,sentiment_analysis
+2014-01-25,550,True,2
+2013-10-07,440,True,2
+2015-08-14,291210,True,1

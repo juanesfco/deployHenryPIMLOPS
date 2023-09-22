@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-22,730,True,0/10-IGN: Needs a Nazi Zombie mode and drivable TransFormers.
-2015-05-22,4000,False,69/10-IGN: Rip off of CoD and MineCraft.
-2015-05-22,304930,True,2/10-IGN: Less zombies more Puzzles.
-2015-05-22,232430,True,3/10-IGN: Needs more Nazi zombies.
-2016-07-20,252490,True,A game where you learn that people have unintuitive swear words when they have countless words to use. Makes offending them under their noses alot more fun.10/10 would ♥♥♥♥ with people again.
+posted,item_id,recommend,sentiment_analysis
+2015-05-22,730,True,1
+2015-05-22,4000,False,1
+2015-05-22,304930,True,2
+2015-05-22,232430,True,2
+2016-07-20,252490,True,1

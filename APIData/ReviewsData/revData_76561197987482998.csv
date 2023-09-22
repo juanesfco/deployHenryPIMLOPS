@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-19,49540,False,"This Game is an absolute piece of ♥♥♥♥ and i wish i could get a steam credit for it, Do not buy it."
-2016-01-02,214490,True,Scary as hell for the first hour then you just become anxious
-2014-11-19,203290,True,"For a beta... its better than alot of paid games. Try it, its free"
+posted,item_id,recommend,sentiment_analysis
+2016-05-19,49540,False,1
+2016-01-02,214490,True,0
+2014-11-19,203290,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-08,227780,True,You can throw grenades on space10/10
-2014-05-10,8870,True,"Oh god, I don´t know where to start from.Bioshock Infinite, the latest chapter in the bioshock saga. Haven´t you played the other 2 bioshocks? Well play this anyway. The story of this game may bring to your mind memories from the other 2 bioshocks but it´s not actually necessary to play them to fully understand this game. Seriously, the story of this game is so perfectly made but pretty hard to understand because this game is involved with going back and forth in time, but once you understand it you will find that Ken Levine(producer along with irrational games) is a genius. And if you enjoy this, buy the DLCs. You will need to know more about the first bioshock if you want to enjoy them, but believe IT IS WORTH IT. I have finished this game around 4 times and I will never regret that. 10/10"
-2014-03-05,224820,True,"If you are reading this..BUY THE GAME. This is one of the most addictive and fun games I've played in a while. It's fast and fluid gameplay makes you want to play more, not to mention the loving hard difficulty this game has. So stop reading this and try it, for your own good"
+posted,item_id,recommend,sentiment_analysis
+2014-08-08,227780,True,1
+2014-05-10,8870,True,1
+2014-03-05,224820,True,2

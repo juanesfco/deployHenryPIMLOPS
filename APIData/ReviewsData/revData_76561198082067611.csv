@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-17,275850,False,Its my first review but i can say this plain and simple: Its just not worth the price.A game like this should be worth less than half and not doting an AAA pricetag.
-2016-08-17,292030,True,why are you reading the reviews? Go back up and click purchase ASAP
-2016-08-17,230410,True,"While there might not be much going for me right now, this game is really going to suck up the precious hours of free time you have. This game is going to be very overwhelming when you start, even more so then when i started, but dont worry since theres an absolute amazing community that loves this game that will get you on track."
+posted,item_id,recommend,sentiment_analysis
+2016-08-17,275850,False,1
+2016-08-17,292030,True,1
+2016-08-17,230410,True,2

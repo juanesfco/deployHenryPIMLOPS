@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-01,209650,False,"This game is dead, because of all the issues it has. Apparently throwing DLC at the game fixes the issue. (sarcasm). There are less than 2000! people currently! I personally get no matches in anything, the only thing I can do is play the campaign and I didn't pay $70 for a horrible campaign. I would want a re-fund if I didn't actually like the multiplayer (when I could play it!) instead of pumping this game with DLC try some TLC and fix everything, customers do not respond well when you do not deliver! This is even worse than that E.T game, that got s h i t canned all those years ago. DO NOT BUY THIS GAME, YOU WILL GET NO MATCHES LET ALONE PLAYABLE MATCHES."
-2014-12-12,238320,True,"Best horror game I have played to date. That includes Whistleblower DLC, really good story, smooth gameplay, intense atmosphere and beautiful graphic detail as well as sound quality being very much on point."
+posted,item_id,recommend,sentiment_analysis
+2015-07-01,209650,False,0
+2014-12-12,238320,True,2

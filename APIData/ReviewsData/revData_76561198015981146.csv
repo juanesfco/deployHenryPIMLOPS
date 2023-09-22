@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-10-11,203290,False,"Choking the enemies is SO MUCH FUN, aside from that I didnt really like this game"
-2015-10-11,13140,True,"The game is quite decent, but unfinished. I used to have a LOT of fun playing it, and its quite realistic, but at the same time there was a LOT of people that just kept playing it like it was CoD (run n' gun). For me, the only real problem with this game  is that it was abandoned by the developers with so much to still be implemented, but nevertheless I recommend this game"
+posted,item_id,recommend,sentiment_analysis
+2015-10-11,203290,False,1
+2015-10-11,13140,True,1

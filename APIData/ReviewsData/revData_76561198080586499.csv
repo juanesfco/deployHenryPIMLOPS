@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-26,239140,True,The only AAA game of 2015/2016 where there are no micro transactions and DLC isn't cut content.I rate 10/10
-2016-03-22,218620,True,chef
-2016-02-26,222880,True,"The game went to ♥♥♥♥ as soon as NWI released the update where they changed the respawn locations of most maps. And the community has become slightly more cancerous ever since Day of Infamy. If they fix the respawn positions back to how they were, then this game will be worth buying. But for now, it's only worth buying when it's on sale. Apart from that, this game is fantastic."
+posted,item_id,recommend,sentiment_analysis
+2016-02-26,239140,True,0
+2016-03-22,218620,True,1
+2016-02-26,222880,True,1

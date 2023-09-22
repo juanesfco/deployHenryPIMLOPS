@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-26,221100,True,just a brillient zombie survivle mmo pvp
-2014-11-25,227940,False,just crap
-2014-11-10,113420,True,everyone must play this game if you are a fan of fallout you will ador this game like fallout its a free rome game with crafting and all that but the difference is that it is a mmo SOOOO its perfect
-2014-12-13,250500,True,what a strange game this is
-2014-12-10,8930,True,its probely one of the best civilization games so far
-2014-11-15,72850,True,vaejbgvavbuxvbajdvbafd vaejv HO MY GOD THIS IS TH BEST GAME EVER 
+posted,item_id,recommend,sentiment_analysis
+2014-08-26,221100,True,1
+2014-11-25,227940,False,0
+2014-11-10,113420,True,1
+2014-12-13,250500,True,0
+2014-12-10,8930,True,2
+2014-11-15,72850,True,2

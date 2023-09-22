@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-28,343710,True,Atmosheric and unnerving!A mystery to uncover and evil to avoidNot for the faint of heart...or impatientCheck out my impressions here:https://youtu.be/B7ZGyAbxXws
-2015-07-28,327500,True,Geometric Bullet Hell has never been so good! Very accessible and its Macro mode is a great Rogue-Like additionCheck out my full impressions here:https://youtu.be/XsKrKftUeCQ
-2015-07-28,327520,True,Fantastic Puzzle Platformer that is beautifully crafted and has a wonderful story to fall into.Check out my full impressions here:https://youtu.be/NrUUWTce78w
+posted,item_id,recommend,sentiment_analysis
+2015-07-28,343710,True,0
+2015-07-28,327500,True,2
+2015-07-28,327520,True,2

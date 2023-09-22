@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-03-19,287390,True,This is a very good game because of the graphics and gamplay but it would be better if it had multiplayer.
-2016-07-11,273350,False,"Ai as monster in matchmaking should at least be more balanced because they only aim for medics not any 1 else, I always attack the med when i am the monster but im not as brutal as the ai because everytime i ply as medic ai always tries n kill me n not any 1 else, the ai will chase me down till i die. pls balance the matchmaking ai as monster because for me medics r useless when ai is the monster in matchmaking. But i still like the game."
+posted,item_id,recommend,sentiment_analysis
+2015-03-19,287390,True,2
+2016-07-11,273350,False,0

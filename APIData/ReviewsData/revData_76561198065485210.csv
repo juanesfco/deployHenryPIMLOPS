@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-02,218620,True,"Top CO-OP game!yesthis is it,the Heist Simulator :D playing with friends is ,very very different experience"
-2015-01-08,203160,True,the dramatic adventure game this game like a real reaction of a girl is survive from the island dramatic bouncy sexy lara
-2014-02-09,208090,True,"Very Fun,Best FTP cause without pay anything it's still Fun and exclaimed"
+posted,item_id,recommend,sentiment_analysis
+2015-07-02,218620,True,2
+2015-01-08,203160,True,0
+2014-02-09,208090,True,2

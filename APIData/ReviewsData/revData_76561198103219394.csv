@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-21,440,True,It's similar to Pokemon. You gotta collect them all. Except you collect hats not pokemon.
-2014-09-30,266210,True,"It's cheap and fun. With a coupon or a special sale, it's definitely worth it."
-2014-03-02,70300,True,It's amazing how there either constantly smiling or being unhappy. Loved it. 10/10
-2014-09-30,224760,True,It's one of those games which is really interesting for some people while really boring for others. I was one of those who found it fun since I'm a fan of puzzle-platformers and enjoy exploration games as well.
+posted,item_id,recommend,sentiment_analysis
+2014-02-21,440,True,1
+2014-09-30,266210,True,2
+2014-03-02,70300,True,2
+2014-09-30,224760,True,1

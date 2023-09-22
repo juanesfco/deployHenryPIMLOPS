@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-09-13,7670,True,Best story driven shooter of its time.
-2016-01-16,368900,False,You are Bob.You are Brilliant.11/10x10
-2015-11-28,358960,True,"Its one of the first endless runner games and its perfection in every way!Many different gamemodes, challanges, leaderboards, achievements and even a 2 player mode!This game is the greatest thing youll ever buy for .99c!!"
-2015-05-11,303800,True,"This board game is partly luck but also a good part stratergy. Play with 4 people over the one tablet or laptop is easy and a lot of fun. The rules are overwhelming at first but youll get the hang of it pretty quickly, just have a practice game againt bots.10/10, works flawlessly, alot of fun, no bugs, runs on MAC and Windows, cheap price $5-$10. I could not find a reason to lower the score.NOTE: for those of you who DONT like board games such as D&D or monopoly, this will NOT be for you."
-2015-04-18,282440,True,"Quake Live is free to play done right. The only thing you have the option of paying for is a subscription to Live Pro which adds more social and competive things such as game recording and clans.Unlike other quake titles, this game is everything about Quake III but with LOADOUTS! Some people are haters and some dont mind it like me. you pick a power weapon and a secondary weapon and spawn in, die within 20 seconds because your bad, git gud, rinse and repeat. on rare occasians youll surive to get upto a 5 killstreak which brings in MOAB's.....THANK GOD THERE NO KILLSTREAK WEAPONS! if a play has been alive for ages and is doing good, he doesnt get another helping hand to make him immpossible to kill. instea, power ups are placed on the map and have a set timer spawn.overall, its a great game in everyway almost.8/10 -1 Pay for LAN, -1 Loadouts kinda suck"
-2015-01-12,111600,True,"Not real sure how to describe this crazy game.... its a side scroling shoot'em up with some corney jokes, unique to say the least gameplay, and a heck of alot of non-sense. it is fun but will leave you bored within a couple hours. pick it up on sale for a luagh, it truely is unique and it has coop even if steam dont say it does.7/10"
-2014-12-06,209730,False,"Played alot offline.This is a simple hack n slash game like Diablo. the main attraction for me to get this was how much i love Diablo and Path Of Exile. The best part is that it has LOCAL MULTIPLAYER! but ya know what? the game still sucks.if you want a good hack n slahs, try Diablo and Path Of exile. and if you wnat LOCAL MULTIPLAYER try Guantlet.This game is simple bland and simple and not at all entertaining about 3 hours in.Overall 4/10 - It tried and failed pretty hard but the parts taht work, work well."
+posted,item_id,recommend,sentiment_analysis
+2016-09-13,7670,True,2
+2016-01-16,368900,False,1
+2015-11-28,358960,True,2
+2015-05-11,303800,True,2
+2015-04-18,282440,True,1
+2015-01-12,111600,True,0
+2014-12-06,209730,False,1

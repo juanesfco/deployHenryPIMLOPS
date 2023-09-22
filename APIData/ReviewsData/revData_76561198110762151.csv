@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-04,304930,True,Minecraft and DayZ's love child.
-2015-12-31,620,True,GlaDOS is still a ♥♥♥♥♥.10/10 IGN
-2015-09-26,730,True,"I don't really have a review for this game, but, I do have an Apple Pie recipe.Ingredients    6 apple cooked large    3/4 cup water    1 tbs sugar to tastePastry    2 cup self-raising flour    125 g butter    2 tbs sugar    1 egg    2 tbs waterSTEP 1 Peel and slice apples into a medium size pot with sugar and water.STEP 2 Bring to boil and simmer until cooked. Drain and cool.STEP 3 Sift flour into mixing bowl and add sugar and butter. Rub in with fingers until mixture resembles crumbs.STEP 4 Add beaten egg and water.STEP 5 Roll out half the mix with rolling pin adding flour as needed. Cover bottom of greased and floured pie dish with rolled out pastry, add apples and repeat with the rest of the pastry on the top.STEP 6 Cut around edge of pie dish with a knife and press layers together with a floured fork. Brush with a little milk and sprinkle with caster sugar.STEP 7 Bake at 180C (170C fan forced) for approximately 45-60 minutes until brown."
-2015-05-25,1250,True,Best zombie game on PC by far in my opinion!
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,304930,True,2
+2015-12-31,620,True,1
+2015-09-26,730,True,0
+2015-05-25,1250,True,2

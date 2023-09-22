@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2012-10-01,72850,True,"Play this game, or the gaming world will disown you. It is a simple as that."
-2013-09-23,4560,True,"It easily is the best, true to it's genre (Total War is part turn-based so it doesn't count), Real Time Strategy game on the planet"
-2013-08-31,203770,True,"You may need a million and one DLC's that cost the price of the actual game, but with or without them the game is still oddly addicting"
-2013-08-20,17700,True,possibly one of the most fun arcade first person shooters ever made
-2013-03-25,25890,True,"If you are into strategy, then buy this game, it is a simple as that"
+posted,item_id,recommend,sentiment_analysis
+2012-10-01,72850,True,0
+2013-09-23,4560,True,2
+2013-08-31,203770,True,0
+2013-08-20,17700,True,2
+2013-03-25,25890,True,0

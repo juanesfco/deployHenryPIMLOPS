@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-29,245170,True,Yes...........( ͡° ͜ʖ ͡°)
-2016-06-11,247730,True,worth for 5 dollary doos
-2016-08-21,437220,True,most people who give this game a bad review are just ♥♥♥♥ and don't wanna put time in to it
-2016-07-01,379720,True,veri gud gaym
-2016-08-06,381210,True,luv it
+posted,item_id,recommend,sentiment_analysis
+2014-12-29,245170,True,1
+2016-06-11,247730,True,2
+2016-08-21,437220,True,0
+2016-07-01,379720,True,1
+2016-08-06,381210,True,1

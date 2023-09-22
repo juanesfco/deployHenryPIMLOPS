@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-12,236390,True,at least let us download the latest patch of this game.... downloaded game to have to download a 8 gig patch...
-2016-01-01,290300,True,"Forgetting gaming for a few seconds, if you like Blues Rock, then the cost of this game is justified based on the soundtracks alone. The Game is a Bonus.the  game reminds me of Spaz ( Spare Pirates and Zombies ) with a different camera view and in 3D  without the zombies....worth a playthrough"
-2015-12-15,295110,True,"I glad they are testing how many hacks can run on this thing, awesome work"
-2015-03-28,301520,True,What you always wanted out of your lego set! highly recommend
+posted,item_id,recommend,sentiment_analysis
+2016-08-12,236390,True,0
+2016-01-01,290300,True,0
+2015-12-15,295110,True,2
+2015-03-28,301520,True,2

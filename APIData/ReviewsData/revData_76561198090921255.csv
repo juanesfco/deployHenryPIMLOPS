@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-31,550,True,excelete el juegoo solo el ping caga todo el mundoo
-2015-09-11,730,True,MASSS SERVIDORESS PARA GENTE QUE HABLE ESPANOL Y NO BRASILEROS -.-
-2015-03-23,35450,True,excelente juego recomiendo a los jugadores que aman estrategia militar en primera persona valor 9.8/10
-2014-04-19,243870,False,joder este juego es cabronnn pero no puedo aguantarrrrr de lo que se sale muchoooo oendejoooo juegoo
+posted,item_id,recommend,sentiment_analysis
+2013-12-31,550,True,1
+2015-09-11,730,True,1
+2015-03-23,35450,True,2
+2014-04-19,243870,False,0

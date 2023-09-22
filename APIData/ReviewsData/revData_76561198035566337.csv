@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-09,24740,True,"For those saying that you can't get the dlc unless you spend five bucks on amazon, just use the vanity pack mod instead"
-2014-02-12,208090,True,"A Free-2-Play game done right.No microtansactions on guns, which means its not pay to winvery good movement and balanceand a look that stands out from most fps games."
-2015-06-06,333930,True,Brink but not ♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2014-11-09,24740,True,2
+2014-02-12,208090,True,2
+2015-06-06,333930,True,1

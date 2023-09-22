@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-11,252490,True,"um survival muito bom e vc pode construir casas ,fortes e formar clans"
-2014-12-11,730,True,"Muito bom recomendo,é o classico dos fps"
-2014-12-11,570,True,melhor jogo de todos..
+posted,item_id,recommend,sentiment_analysis
+2014-12-11,252490,True,2
+2014-12-11,730,True,2
+2014-12-11,570,True,2

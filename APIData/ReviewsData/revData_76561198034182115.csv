@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-28,224760,True,10/10 absolute bliss to play
-2014-06-28,209080,True,"Fun game, though it gets somewhat limited in replayability. It's best played with friends/clan, where you can form larger team and work together."
-2014-06-27,550,True,"10/10, best action zombie game to date"
-2014-06-27,249130,True,"Although some of the controls for the mini game can get quite fiddly and annoying, the scale and amount of content packed into this game is breaktaking. I've completed the story and a large amount of the othr content, 27 hours or so through and only up to 30% complteion. You know how people complain about games being released with too little content and too much DLC? Well, this game is how it should be- tonnes of content and tonnes of fun!"
-2014-06-27,239070,True,"Decent game, becomes a little bit monotonous, however, I suspect it becomes more exciting further into the game than I have played. Good co-op action, though I would've liked perhaps teamwork to be more of a requirement rather than a 'everyone charge at the enemies and spam attack buttons'. However, it has nice visuals, smooth gameplay and enjoyable multiplayer. Good if you need a quick multiplayer game to play with friends."
-2014-06-27,224260,True,"Absolutely FANTASTIC zombie survival, especially for a free download. The only problem I've found is that you need a strong ping in order for it to be playable, a somewhat ordinary ping seems to make the zombies are bit weird. Would reccommend, tonnes of fun with friends, low system requirements and it's free so everyone can play! (Good for LAN parties)"
-2014-06-27,265930,True,"Little bit pricey for what is more of an entertainment toy, however it's a bunch of laughs. For what it is and intends to be, it is good."
+posted,item_id,recommend,sentiment_analysis
+2014-06-28,224760,True,2
+2014-06-28,209080,True,2
+2014-06-27,550,True,2
+2014-06-27,249130,True,0
+2014-06-27,239070,True,2
+2014-06-27,224260,True,2
+2014-06-27,265930,True,2

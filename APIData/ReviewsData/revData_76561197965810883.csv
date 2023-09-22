@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-04-25,25980,True,"Graphics not so good, but gameplay is exeptional. I'm stuck on a fiendishly difficult mission, and have been for a few months now, but I keep going back convinced I'll beat it this time... not."
-2012-05-16,203810,True,"Dear Esther is not a game by any means, other than using the 'wasd' keys to move, and the mouse to look, it has no other similarities.It is however a new kind of book, allowing you to take your time looking around the island while the exquisite narration unfolds a story hinted to by the scenery.As with all my books, I'm taking my time, and haven't yet made it to the end. If this sounds interesting to you, I'd recommend taking your time with it.One technical addition, as you're not running around with 30 other users blowing things up, the pull on your resources isn't as much, so assuming your system can handle it, you can crank everything up to max and enjoy the scenery even more."
+posted,item_id,recommend,sentiment_analysis
+2013-04-25,25980,True,1
+2012-05-16,203810,True,2

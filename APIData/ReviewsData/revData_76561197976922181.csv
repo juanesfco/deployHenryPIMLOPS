@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-14,730,False,Was Good now broken with troll community under the age of 13 GG.
-2015-12-08,48700,True,"Hey Guys,I would efinitely recommend this game and all DLC's but the VC Save/permadeath feature is a massive pain in the neck.10/10Rinkerdink'Gaming since infanthood'"
-2015-04-10,22380,True,Awesome
-2015-01-18,214950,True,"Hey guys,This is only my second review so please feel free to comment on any mistakes i have made thank you.Rome 2 emperor edition is a darn sight better than rome 2 pre emperor edition as creative assembly have fixed all of the bugs from launch and have produced a now 9/10 total war game that does not have the players it deserves. The campaign ai is a little odd as they will raise multiple full stack armies and you may find carthage or egypt destroyed by a small  faction of dessert nomads. The battle ai despite suffering issues at launch has redeemed itself and at earlier stages of the game when your armies are small will provide a challenge that is not found in late game. The garrisoning of settlements and towns is crucial as a maximum level town will only have a couple levied units of spearmen in defence of the town. Despite the issues here and there the game experience is solid and there is a large modding community that never ceases to amaze me and has made each new campaign much more interesting.9/10Thank you for reading.Rinkerdink"
-2014-07-04,266840,False,"I would not reccomend this game as the graphical quality portrayed was not evident in my playthrough of both the campain and numerous comp stomp battles. Furthermore the gameplay is great but the graphical quality that was shown- from my high level pc- really made me feel as though i was cheated, whether this is just a bug or not it is annoying that this wasn't fixed. To those who say gaming isn't about graphics I agree but that being said it is a remake released in 2014 so it needs to be fixed."
+posted,item_id,recommend,sentiment_analysis
+2015-12-14,730,False,2
+2015-12-08,48700,True,0
+2015-04-10,22380,True,2
+2015-01-18,214950,True,1
+2014-07-04,266840,False,1

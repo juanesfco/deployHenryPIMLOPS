@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-08,364360,False,"This game is good don't get me wrong. However when you get 181 turns in with your mate and it decides to ♥♥♥♥ you over it's not fun.fix your game total war, we pay good money for these games the least you could do is keep it running well."
-2015-01-27,48700,True,Great game wish they brought in more multiplayer and maybe co op thoughdefinently recommend
+posted,item_id,recommend,sentiment_analysis
+2016-08-08,364360,False,1
+2015-01-27,48700,True,2

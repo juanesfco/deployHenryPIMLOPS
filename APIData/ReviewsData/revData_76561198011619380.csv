@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-08-05,230410,True,Farming Simulator: Interplanetary Edition
-2016-03-28,221680,False,"It's pretty frustrating that there's no option to display the music as sheet music or tabs. It feels like more effort is being put into learning how to read music a la guitar hero than being put into learning the songs themselves, and for what? Sure, if you're a complete beginner and like how easy it is to get into then maybe, but otherwise just buy a book and learn."
-2015-12-25,274940,False,Horrendous performance even with the lowest graphical settings makes aiming a continual frustration.
-2012-11-18,10180,True,pay the man
-2011-12-29,8980,True,"Great art design and setting. The RPG elements hardly hinder the FPS elements. The game can be very drawn out and more like a sandbox if you play it that way. The co-op definately compliments this. It's always better with co-op, ideally with a group of trusted players, all in the same room that have 48 hrs (for the completionist) or less to kill."
+posted,item_id,recommend,sentiment_analysis
+2013-08-05,230410,True,1
+2016-03-28,221680,False,2
+2015-12-25,274940,False,1
+2012-11-18,10180,True,1
+2011-12-29,8980,True,2

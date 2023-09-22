@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-09-29,34330,True,Not buying this game is a SHAMEFURR DISPRAY.10/SHAMEFURR DISPRAY
-2014-08-06,304930,True,DayZ+Rust  11/10 would play
-2016-05-28,364360,True,Hold the door 
-2015-01-01,730,True,Learned russian in a few days of CSGO
-2016-06-28,214950,True,Hodor
-2015-01-05,105600,True,♥♥♥♥ing love this game
-2014-06-06,231430,True,"6/10 nothing else, havent played the first one, but i have played western front coh2"
-2012-11-11,440,True,best game i have played better then call of duty mw3
-2014-07-30,48700,True,12/10All i can say about the game
-2014-07-30,206500,True,"Its been Beta for a long time, but AirMech still is a great game.Its a bit a pay to win type, only if you just started the game playing online."
+posted,item_id,recommend,sentiment_analysis
+2014-09-29,34330,True,0
+2014-08-06,304930,True,1
+2016-05-28,364360,True,1
+2015-01-01,730,True,1
+2016-06-28,214950,True,1
+2015-01-05,105600,True,1
+2014-06-06,231430,True,2
+2012-11-11,440,True,2
+2014-07-30,48700,True,0
+2014-07-30,206500,True,2

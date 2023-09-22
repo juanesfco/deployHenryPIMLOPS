@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-11-30,205100,True,"♥♥♥♥♥♥♥ this game is amaze. Will challenge you at the hardest difficulty levels and has many many ways of playing its combat,"
-2014-08-12,232430,True,Feels.
-2016-01-20,248820,True,If you want something you can jump straight into and blow ♥♥♥♥ up with genuine difficulty this game is for you.9/10
-2015-04-15,238010,True,Amazing.
-2015-03-11,239140,True,Any FPS from now on that doesn't have the freerunning system that Dying Light has just won't feel complete.
-2014-12-31,241930,True,Best LOTR game ever.
-2014-12-11,202485,True,ITS PRETTY HIGH DEF
-2014-09-18,550,True,YES.
-2014-04-04,212680,True,FTW!
+posted,item_id,recommend,sentiment_analysis
+2014-11-30,205100,True,2
+2014-08-12,232430,True,1
+2016-01-20,248820,True,1
+2015-04-15,238010,True,2
+2015-03-11,239140,True,2
+2014-12-31,241930,True,2
+2014-12-11,202485,True,2
+2014-09-18,550,True,1
+2014-04-04,212680,True,1

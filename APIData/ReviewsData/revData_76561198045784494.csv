@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-14,203160,True,Holy ♥♥♥♥ this game is hella amazing
-2016-03-14,250900,True,"This game is like a chemistry experiment, you find out what item goes well with this item. That's why it's so addicting you have like 300+ items to mix with eachother!"
-2015-08-22,8870,True,This game blew my mind!
-2014-02-20,4000,True,Why aren't you buying this yet!??
-2013-12-30,200710,True,Really reallly really addicting game
+posted,item_id,recommend,sentiment_analysis
+2016-03-14,203160,True,2
+2016-03-14,250900,True,0
+2015-08-22,8870,True,0
+2014-02-20,4000,True,1
+2013-12-30,200710,True,1

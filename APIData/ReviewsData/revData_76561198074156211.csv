@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-05,243870,True,AWESOME game
-2014-08-25,315640,False,wont work on my computer and i wasted all that gb
-2015-01-19,206420,True,"awesome game i like how there is continuous things to do even though i only played it for three days before it was gone and wished i had it permanent but yea its really cool, haha i like the dialoge that my character had haha so funny hhah awesome gme not much dis likes dat i had but ovarall awesome game."
-2014-08-24,205100,True,to me best open game iv ever played i wish i had it FOREVER !! but by the way good game =)
+posted,item_id,recommend,sentiment_analysis
+2014-08-05,243870,True,2
+2014-08-25,315640,False,0
+2015-01-19,206420,True,2
+2014-08-24,205100,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-24,296710,False,it sucks.
-2015-12-12,391540,True,best game eversalty little nostalgia cultists can visit the trash-can any time~
-2015-10-03,303210,True,A walking simulator about how making walking simulators makes you look like a nutjob and also that there's no such thing as valid validation.
-2015-06-30,335670,True,"Oh, its funny... you'll laugh...That won't last though."
-2014-03-03,234190,True,"This game is certainly worth the asking price of one dollar.Interesting concept that I'd have love to have seen taken further, I was suprised just how difficult and inefficient guns are to use and operate in real high stress situations... Would love to see something like a horror game with the same mechanics."
+posted,item_id,recommend,sentiment_analysis
+2015-05-24,296710,False,0
+2015-12-12,391540,True,2
+2015-10-03,303210,True,1
+2015-06-30,335670,True,2
+2014-03-03,234190,True,1

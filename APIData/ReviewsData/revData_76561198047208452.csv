@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-26,220240,True,fun fast pasted action... great
-2016-01-22,34900,True,10/10best game ever-IGN
-2014-08-15,113200,True,one of the best games I have ever played extreamly replyable 10/10
+posted,item_id,recommend,sentiment_analysis
+2013-12-26,220240,True,2
+2016-01-22,34900,True,0
+2014-08-15,113200,True,2

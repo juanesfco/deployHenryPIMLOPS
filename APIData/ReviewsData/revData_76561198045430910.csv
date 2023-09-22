@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-23,233130,True,One of the tightest violent and most fun shooters ever looks good runs good and more fun than a barrel of monkeys!
-2013-06-23,6860,True,Absolute gaming masterpiece a STEALTHGASMIC experience with mutiple solutions optional objectives good AI and infinite replayability a true stealth great!BUY IT!!!
-2014-06-15,253710,False,this is stupid
-2013-05-17,200710,True,Daiblo 3 without stupid always online DRM great replayablitity a good modding comunity and great art style BUY IT!
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,233130,True,2
+2013-06-23,6860,True,2
+2014-06-15,253710,False,0
+2013-05-17,200710,True,2

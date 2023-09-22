@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-10-17,570,True,like dota 1 but its 2
-2011-05-17,12830,True,lol
-2014-10-17,221100,True,like call of duty but with zombies
-2014-10-17,113420,True,like every other zombie survival game but free2pley
-2014-12-11,321300,True,yes
-2014-10-17,304930,True,like minecraft but also dayz
-2014-10-17,202090,True,like league of legends but magicka
-2014-10-17,222900,True,like diablo 3 but better
-2014-10-17,49520,True,like the first one but with more things
+posted,item_id,recommend,sentiment_analysis
+2014-10-17,570,True,1
+2011-05-17,12830,True,2
+2014-10-17,221100,True,1
+2014-10-17,113420,True,0
+2014-12-11,321300,True,1
+2014-10-17,304930,True,1
+2014-10-17,202090,True,1
+2014-10-17,222900,True,2
+2014-10-17,49520,True,2

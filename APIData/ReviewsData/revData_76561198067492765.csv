@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-23,226320,True,Rogue's boobs and ♥♥♥ are glorious.100/10
-2014-10-23,241930,True,"Shadow of Mordor is ♥♥♥♥ing awesome so far. The combat is sooooo deliciously epic. Reviewers were right when they said it is a cross between the Batman Arkham games and Assassin's Creed. Executing an enemy is fantastic. The graphics are amazing and beautiful, voice-acting and sound effects are great to listen to, and so far the story is pretty strong as well.I'm so happy I decided to buy this. I'm not even a big LOTR fan, but I'm loving it."
-2014-08-09,270550,True,"While the game is very simple in what it does, it is surprisingly decent. For only 67 cents, I think this was a good buy. Plus the developers have said they will improve it in the future.I know a lot of folks have said that it is ♥♥♥♥, but I think the whole point of this game is just to play something simple to cue your boredom. Something that you can switch your brain off for and just muck around (although there are serious players which I find hilarious).I know the sale won't last much longer, but for such a small amount of money.... Why the ♥♥♥♥ not?"
-2013-09-12,206420,True,"If you want to create total and utter chaos or have a funny story with great writing, voice acting, and music, then this is the game for you."
-2012-09-10,24200,True,Love it.
+posted,item_id,recommend,sentiment_analysis
+2014-12-23,226320,True,1
+2014-10-23,241930,True,2
+2014-08-09,270550,True,1
+2013-09-12,206420,True,2
+2012-09-10,24200,True,2

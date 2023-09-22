@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-24,369070,False,"SsO IF YOU ARE GOING TO GIVE ME A SWORD, ATLEAST LET ME KNOW HOW TO USE IT! and unity 101 put a damn exit button.  here ill do it for you   if (Input.GetKey('escape'))            Application.Quit(); You are welcome."
-2016-01-28,424280,True,SO F**KING ADDICTIVE
-2015-07-22,304050,True,"queue time seem to have been fixed for a few days, but they seem to be back, idk if its because of the recent popularity but it is quite annoying , once you get in the game however it is a ton of fun"
-2014-05-14,265630,True,"Amazing game, if you like westerns and counter strike you will love this, great game for a bit of fun 8/10 cant wait till they add the rest of the game in."
+posted,item_id,recommend,sentiment_analysis
+2016-03-24,369070,False,2
+2016-01-28,424280,True,1
+2015-07-22,304050,True,0
+2014-05-14,265630,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-07,204340,True,gud memes
-2015-06-11,730,True,Russia... Russian People Everywhere
+posted,item_id,recommend,sentiment_analysis
+2016-05-07,204340,True,2
+2015-06-11,730,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-01,8870,True,This is a masterpeice... it is such a joy to play and even just look at. This is a definate buy during the holiday sale
-2014-01-26,210770,True,"pretty fun alone, but this game comes alive with friends!"
-2013-12-31,227300,True,I can't explain why... this game is so simple but you could easily play this game for days on end.
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,8870,True,2
+2014-01-26,210770,True,1
+2013-12-31,227300,True,1

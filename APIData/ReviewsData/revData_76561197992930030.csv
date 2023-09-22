@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-01-24,262280,True,8/10 would live in a dungeon again
-2015-02-27,262060,False,"This game is so ♥♥♥♥en bad, I like hard games, loved dark souls 1 and 2, Rogue Legacy an others to that I cbf mentioning, but there is nothing about this game that makes it good, yes your ment to die an manage your losses such as dead heros, money and stress but this game is more about luck than you learning from your mistakes and getting better. It feels more like a mobile game that they tried to port to computer, please dont buy this game"
-2015-01-27,220660,True,really good game needs better ground based combat and troop optionsneeds more research options needs to stop crashing late gameeverything else is solidsad to see that these things will never be fixed
-2016-01-27,252450,True,This is a really fun X4 game. Could say more but thats hard and no one reads it
-2016-05-23,265300,False,"Graphics: 8/10 Great graphics. Music: 4/10 Dull. Sounds: 4/10 slightly off. Story: who knows I couldn’t bring myself to play long enough/10. Combat: 2/10 suffers from floaty combat and mashing attacks, all weapons feel the same, useless magic / gauntlet, enemy’s move and attack on a pivot, there attacks go through wall and solid objects. Even if this game goes on sale I wouldn’t buy it."
-2016-04-09,227680,False,waste of my time
-2016-01-10,394510,True,"HellDivers is a great game to play with friends or solo. Most sounds matches in well but music is a bit off at times. Graphics may not be the best but it doesn’t hurt the game, animations form gun fire to movement feel right. Controls are solid either with a keyboard and mouse or controller. Community can vary from game to game greatly is most of the time good. Gameplay is addictive and can be intense with a good difficulty curve for beginners on level 3 planets to experts on level 12 planets, there are a few negative thing in the game, running out of things to do is a big issue once you have unlocked all things form the planets there is nothing more to do but grind levels and samples for your character with nothing to spend research points on and no reason to keep playing. I have to say I may not be the greatest gamer but there really needs to be a difficulty above Helldive, as I have soloed and have seen many others solo Helldives this being the hardest difficulty you can get in there planet difficulty rating short of a boss battle (there is only a few of those) it leave you wanting something more. In the end this is a great game at a great price, I hope they bring out more DLC this could be more planets types, higher difficulty levels or unlock rewards in an expiation pack."
-2015-07-02,292030,True,"Epic game graphics 10 (beautiful), music 8 (not in your face all the time, nice background,good immersion feels), combat 7.5 (i know he is a witcher an have to stay true to the lore but it felt like there wasnt enough combat options but good reactive combat better now with no auto switch), Story/quests 8 (nice amount of side quests and endings not like mass of things)"
-2013-04-19,211420,True,♥♥♥♥ing rad 
+posted,item_id,recommend,sentiment_analysis
+2016-01-24,262280,True,2
+2015-02-27,262060,False,1
+2015-01-27,220660,True,2
+2016-01-27,252450,True,1
+2016-05-23,265300,False,1
+2016-04-09,227680,False,0
+2016-01-10,394510,True,2
+2015-07-02,292030,True,2
+2013-04-19,211420,True,1

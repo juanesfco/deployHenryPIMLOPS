@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-19,9420,True,better then supreme commander 2. 10/10
-2014-09-02,251570,True,"fabulous game. its a great combination of other zombie survival games. it throws in base building as seen in Rust and other voxel-based games. it has many gameplay mechanics similiar to DayZ(if not better) and you'll spend hours crafting various guns, melee and tool items as it has the most in-depth crafting I've ever seen. only downside is that random gen can make it a walking sim and no vehicle transport. 8/8"
-2014-03-26,6060,True,"amazing game. 9 years old and still a great game, if you can play with friends you can have a good time. definatly worth buying."
+posted,item_id,recommend,sentiment_analysis
+2014-06-19,9420,True,2
+2014-09-02,251570,True,1
+2014-03-26,6060,True,2

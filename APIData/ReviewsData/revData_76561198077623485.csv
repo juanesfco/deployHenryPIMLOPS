@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-09-05,4000,True,Play this game it Aswsome u Should Try it it Fun and u can make Fun stuff like planes And stuff!
-2014-03-10,550,True,It fun to play!
-2016-09-15,99900,True,Best Game ever u get to meet new friends and players who play it u should download it so amazing!
+posted,item_id,recommend,sentiment_analysis
+2013-09-05,4000,True,1
+2014-03-10,550,True,2
+2016-09-15,99900,True,2

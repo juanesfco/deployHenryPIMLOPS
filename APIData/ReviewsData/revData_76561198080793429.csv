@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-29,291550,True,"Amazing game, fun for hours with friends and all round amazing. It is not payed to play (thank god) and just all round a very good game."
-2015-11-21,377160,True,10/10 would step on a mine and explode again
-2016-07-09,4000,True,"Its ok, i guess"
-2016-02-26,386360,True,"Pfft, everyone is waiting for jesus, i am wating for Satan."
+posted,item_id,recommend,sentiment_analysis
+2016-03-29,291550,True,2
+2015-11-21,377160,True,1
+2016-07-09,4000,True,2
+2016-02-26,386360,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-30,243470,False,"Day 3 of the release here in Australia: Still cannot log into Uplay in order to play the game. Even if I do manage to login the constant frame-rate drop, poor driving controls (like dodge-em cars) and relatively bland side missions makes this game look worse than GTA IV and Saints Row 4.Do not buy this game until Ubisoft addresses a lot of these issues.i7 3770 3.0ghzGTX 67016GB RAMStuttering and framerate drop from 80 to 18."
-2014-02-21,238010,True,Best steath game streamlined. Cool augmentations and excellent story about human augmentations. Epic music as well!!
-2014-01-15,235460,True,Jack the ripper is back! Definately recommended for all action/MGS fans!
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,243470,False,0
+2014-02-21,238010,True,2
+2014-01-15,235460,True,1

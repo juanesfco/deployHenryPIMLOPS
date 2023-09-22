@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-17,48700,True,Lets just say if I wrote a proper review for this it would be 2 pages of the positive aspects of the game 20/10
-2014-07-13,4000,True,"Garrys Mod Genre: Sandbox,,action,adventure,FPS,open world,rpg,survival,survival horror,western,indie,racing,sports"
+posted,item_id,recommend,sentiment_analysis
+2014-10-17,48700,True,1
+2014-07-13,4000,True,2

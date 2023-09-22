@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-03-10,213670,True,"An epic game! Delivers for both South Park fans and Gamers. The combat was suprisingly smooth and the open world is fun. The campaign was a bit short though, hopefully we will get more in the DLCs. 9/10."
-2013-08-03,4000,True,"Where to start, Garry's Mod isn't a game, it's anything you want it to be! FPS, Horror, Simulation, Building, Racing, Rocketing and more. Take your favourite Valve characters and put them all in a blender, the only limits are your imagination and amount of internet data avaliable to download ALL THE ADDONS! Get this game, you will not regret it! 1 simple payment of $10= 1 lifetime of fun!!! So yeh...Garry is watching!!!!"
-2013-06-15,6060,True,"If you're a Star Wars fan, Get this game. If your an FPS/general shooter fan, Get this game, and if you are a PC gamer GET THIS GAME!!!"
-2013-04-28,440,True,"An amazingly fun shooter that involes more strategy than most FPS's. Highly Addictive, A MUST PLAY!!!"
+posted,item_id,recommend,sentiment_analysis
+2014-03-10,213670,True,2
+2013-08-03,4000,True,1
+2013-06-15,6060,True,0
+2013-04-28,440,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-02-20,4000,True,THIS GAME IS COOL LIKE TF2  i fell sorry if you dont have this sandbox game
-2014-07-21,1840,True,Great Animating software! (best i've ever seen)
-2015-10-28,236390,True,Eeeesh Talk about over heat.... seems like a nice game but.....Eeesh
-2014-05-29,265630,True,Iz Good Game!
-2014-02-08,208090,True,COOOL
-2013-12-25,440,True,Great Game Great gameplay Great players 10/10 BUT W+M1 PYROS THOUGH
+posted,item_id,recommend,sentiment_analysis
+2014-02-20,4000,True,0
+2014-07-21,1840,True,2
+2015-10-28,236390,True,1
+2014-05-29,265630,True,1
+2014-02-08,208090,True,1
+2013-12-25,440,True,2

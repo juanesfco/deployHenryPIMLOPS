@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-02-07,221640,True,"When someone asked me, 'What positive things can I get out of playing Super Hexagon!', I replied 'There's only two positive things you get out of this game, One, Learning how persistant you really are and Two, Learning how strong your computer screen really is'"
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,221640,True,2

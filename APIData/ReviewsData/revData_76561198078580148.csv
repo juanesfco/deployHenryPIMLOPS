@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-06-21,261570,True,This game really hurt my feeling ;-;
-2014-08-02,47870,True,This is awesome
-2014-08-02,304930,True,THIS IS THE BEST SURVIVAL + MINECRAFT IN MY LIFE!
-2014-04-19,4000,True,good game
-2014-08-02,107900,False,BADDDDmore bug and noob graphic
-2014-08-02,72850,True,Awesome+ mod for more quility
-2014-08-02,238460,True,LOL ♥♥♥♥♥♥ LOL
-2014-08-02,730,True,Good game but knife is so expensive xD
-2014-08-02,440,True,Nice gameHat simulator 2 xD
+posted,item_id,recommend,sentiment_analysis
+2015-06-21,261570,True,1
+2014-08-02,47870,True,2
+2014-08-02,304930,True,2
+2014-04-19,4000,True,2
+2014-08-02,107900,False,1
+2014-08-02,72850,True,2
+2014-08-02,238460,True,2
+2014-08-02,730,True,1
+2014-08-02,440,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-19,239220,True,Loved The Game! Worth Buying It!
-2014-01-31,208090,True,"Awesome, Just Awesome."
+posted,item_id,recommend,sentiment_analysis
+2013-12-19,239220,True,2
+2014-01-31,208090,True,2

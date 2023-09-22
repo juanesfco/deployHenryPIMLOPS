@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-13,349700,False,Great Game Highly recomend if you want to learn how to make suicide pills
-2016-03-04,371660,True,"I see so many negative reviews for this game, maybe a positive will help :)I'm about 40% the way through the campaign, no issues, no errors, no crashing (cough, cough) Positives - Riding a Sabre Tooth tiger or Cave Bear(Now that's bloody Awesome)- Being able to free roam (What game that doesn't allow that is good.)- Decent difficult levels, i love a bit of a challenge when it comes down to it. - Having really good upgrades on my character. - Taking down a massive enemy with a fatal blow- LOADS of missions to do Negatives - I did crash in the loading screen twice from when i started- The story is a bit weird- It gets REALLY annoying when you don't want to feed your Sabre, when really just want to ride it. Hopefully this game gets more appreciated for what it is getting"
-2014-12-06,1250,False,"Game is very, un-stable, non-structured on how you have to walk ages to a store that only lasts 40 seconds? i don't even know anymore the developers are constantly updating this game, TRYING to make it better i just don't see it, :("
-2014-01-27,440,True,Perfect game for all
+posted,item_id,recommend,sentiment_analysis
+2015-11-13,349700,False,2
+2016-03-04,371660,True,1
+2014-12-06,1250,False,0
+2014-01-27,440,True,2

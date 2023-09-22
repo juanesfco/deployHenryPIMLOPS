@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-04,440,True,"hands down best free to play game on steam, once u pick this up you would not see the sunshine again! welcome to the dark side :P"
-2014-04-04,730,True,"good game to play, except for getting spawn killed lol"
-2013-12-13,238960,True,"Great Game, however should be available on Mac!!!"
-2014-04-18,8870,True,"Awesome game, ate a potato from the toilet lol. and best ending ever wow!!"
-2014-04-04,209270,False,"takes a long time to finish each matches, and anyways im just here for the tf2 items lol"
+posted,item_id,recommend,sentiment_analysis
+2014-04-04,440,True,2
+2014-04-04,730,True,2
+2013-12-13,238960,True,2
+2014-04-18,8870,True,2
+2014-04-04,209270,False,2

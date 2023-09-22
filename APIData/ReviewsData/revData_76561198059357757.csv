@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-18,200210,True,Realm of the mad god is a fun game to play with frends and you team with any you what not die but
-2015-10-28,222880,True,"Insurgency. Without a single doubt in my mind this is one of the best purchases I have ever made on Steam. This game is the definition of a gritty, hardcore, and realistic shooter."
-2014-08-02,304930,True,"Best survival I've played in a whileThe game is full of places to explore, hunt, and scavenge for items to survive. With a variety of weapons and attachments at your disposal, you can hunt down animals, zombies, and other players and get Guns and muitplayer."
-2014-05-30,570,True,Its a Really good game all Heros are Free it fun and you can make Clans Builds
+posted,item_id,recommend,sentiment_analysis
+2014-07-18,200210,True,0
+2015-10-28,222880,True,2
+2014-08-02,304930,True,2
+2014-05-30,570,True,2

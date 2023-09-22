@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-07-29,333930,False,A good game to have a good time on!
-2014-12-12,329110,True,I recommend Gems Of War because it is a well balanced game with great gameplay.
+posted,item_id,recommend,sentiment_analysis
+2015-07-29,333930,False,2
+2014-12-12,329110,True,2

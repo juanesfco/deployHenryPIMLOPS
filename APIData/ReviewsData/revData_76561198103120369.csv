@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-12,8930,True,"Civ V the game where it places me on a taiga tile with another taiga tile and then a mountain surrounded by ocean so really a game that likes to ♥♥♥♥ me more than the economy, and dont get me started about Ghandi's nuclear warfare.The community is great, which is alot less toxic compared to the csgo community 7.8/10 - IGNneeds more nukes"
-2016-05-15,730,True,"Ah Yes, CounterSalt : Go KillyourselfThe game where kicking derankers gets you a banThe game where being kicked by a 4 queue gets you a banThe game where you ♥♥♥♥ off your friends and they get bansThe game where you accidently knife your friend first round of comp ever and get a banThe game where the 7 days never endThe game where drinking bleach is the only way to playThe game where u get mad over the tiniest of thingsThe game is the reason why i contemplate suicide So in other words its perfect game for a person to play and become suicidal after 1 hr of gameplay"
-2016-05-21,270170,False,"Ah yes Depression Quest.  found it kinda boring as i was living these circumstances and still ami want to hang myself atleast 23/24 hours a day. kinda lack luster in how it tells that there is no way to fix depression, but there is its called clorox and it takes away the pain. i rate it 5/10 CS:GO has a better chance of giving me crippling anxiety and depression"
+posted,item_id,recommend,sentiment_analysis
+2016-05-12,8930,True,2
+2016-05-15,730,True,0
+2016-05-21,270170,False,0

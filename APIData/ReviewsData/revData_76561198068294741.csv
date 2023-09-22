@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-12,218620,True,"the drill will jam, every single time, good game though"
-2015-01-09,730,True,"ive spend over $150 on skins, 10/10"
-2015-11-22,377160,True,realistic dog graphics zero / 5
-2014-06-29,252490,True,"it has ♥♥♥♥♥, what else could you want?"
+posted,item_id,recommend,sentiment_analysis
+2014-09-12,218620,True,1
+2015-01-09,730,True,1
+2015-11-22,377160,True,2
+2014-06-29,252490,True,1

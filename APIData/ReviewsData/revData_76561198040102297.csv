@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-05,238960,True,saw a lady with 4 ♥♥♥♥. time to play.
-2014-11-22,57690,True,"this game is quite in depth and delicate. so many factors to consider and this makes the game very interesting. originaly i bought it because i thought it would be like age of empires or dawn of war,  butt it turns out it's sort of like a mega complicated tycoon game. it's pretty cool"
-2014-10-28,204300,True,"This game is enjoyable butt once you get to tier 1 then there's not really anything else to do. this game gets updates often so it does get more and more fun though, :3"
-2013-03-22,49520,True,So many chests to open and look at. My favourite would be Moxxi's
+posted,item_id,recommend,sentiment_analysis
+2015-04-05,238960,True,1
+2014-11-22,57690,True,1
+2014-10-28,204300,True,2
+2013-03-22,49520,True,2

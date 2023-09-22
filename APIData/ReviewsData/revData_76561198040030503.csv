@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-19,227680,False,"Dear Devs,Please finish a game before you stop developing it.Thanks."
-2015-04-26,72850,True,"So, i'll see you all at the Skyrim Nexus?"
-2015-11-21,417860,True,I don't usually play games that give me the feels. But....... wow.
-2015-05-24,347880,False,Doesn't include ALL DLC.
-2015-04-26,307780,False,"EDIT 22/04/16: They aren't fixing this, they are once again neglecting PC players. Shame.  Please don't buy.Sadly, it's hard to take a side with this game. 7.5/10 for Gameplay. 0/10 for Developer Bull ♥♥♥♥.At the point of writing this review 26/4/15, this game shouldn't be purchased. It's riddled with bugs, uses large amounts of memory, should not be played without a gamepad and contains a few shonky business practices.However, i'm going to recommend it because (Remember this my personal opinion) it's my favourite game of the franchise. It has a great story, good characters, longevity with online features and character specialties. I figure when the majority of people read this in the future most of the issues will be fixed. (God I hope so). EDIT: Nevermind, it has no longevity due to the lack of support."
+posted,item_id,recommend,sentiment_analysis
+2015-07-19,227680,False,0
+2015-04-26,72850,True,1
+2015-11-21,417860,True,1
+2015-05-24,347880,False,1
+2015-04-26,307780,False,1

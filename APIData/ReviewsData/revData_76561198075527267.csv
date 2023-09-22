@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-14,550,True,"You'll love this game! I mean who the hell doesn't want to shoot the undead? Or hit the ♥♥♥♥ outta big undead ♥♥♥♥♥es with a pan? This game will teach you how to survive in a zombie appocalypse,How to survive with women when they moan just because they are injured? You're basically gonna live the life of the people in the walking dead but you will use molotovs to burn your friends,use chainsaws to 1 hit every average zombie,run like a baws and make everyone rage.What the ♥♥♥♥ing hell are you waiting for? Buy this game and play ♥♥♥♥♥!"
-2013-12-04,440,True,"Pew pew goes everyone,Everyone misses one person."
+posted,item_id,recommend,sentiment_analysis
+2014-02-14,550,True,0
+2013-12-04,440,True,1

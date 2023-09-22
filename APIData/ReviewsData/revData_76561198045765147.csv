@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-11-30,246620,True,'หลังหักกับเกมนี้ หลังจากซื้อมา -15% มันก็ลดเป็น -33%' - ช่างมันเถ๊อะ!เกมนี้สนุกมากๆ ได้ใช้กลยุทธ์ในการทำให้คนติดโรคทั้งโลก และตายไปซะให้ราบคาบ ตอนแรกเห็นฝรั่งเล่นแล้วคิดว่ามันจะง่ายๆ หมูๆ แต่จริงๆ แล้วมันไม่เป็นไปตามคลิปที่ฝรั่งเล่นเลย เชื่อว่าถ้าไม่ลองเล่นก็ไม่รู้นะครับ 5555จุดเด่นของเกม- กราฟิคสวยกว่ามือถือหลายขุม กราฟิคซูมเข้าไปดูเป็น 3 มิติได้- สามารถสร้างสถานการณ์เอง และก็เล่นของคนทั่วโลกได้จุดด้อย- มันไม่ต่างจากมือถือเลย นอกเหนือในจากเรื่องระบบสถานการณ์และกราฟิคสรุปถ้าคุณเป็นแฟนตัวยง (สลัดผัก) และชอบเกมนี้ --- สอยเถอะครับ จะได้ไม่เป็นภาระของลูกหลาน- rootEnginearปล. อย่าลืมมาเข้าร่วมทีมแปลภาษาไทยกันด้วยนะครัช
-2014-02-16,250600,True,ตอนแรกก็กะว่าจะไม่แนะนำ เพราะเกมอะไรไม่รู้ เปิดมาก็เล่น ไม่มีสอนอะไรเลย แต่ไปๆ มาๆ สิ่งที่ทำให้ผมชอบเกมนี้คือ 'เนื้อเรื่อง' ครับ เกมนี้ลงทุนและทำได้ประทับใจในส่วนของเนื้อเรื่องครับ ผมรู้สึกได้เลยว่า การที่เราเป็นสิ่งหนึ่งเล็กๆ ดูไร้ค่า แต่เขาเองก็ต้องบินให้สูงขึ้นไป ไม่ว่าจะอันตรายหรือน่าเกรงกลัวสักแค่ไหน แต่ถ้าไม่ละความพยายามสุดท้ายเราก็จะถึงฝั่งฝันของเราอย่างงดงาม เป็นเกมที่ให้ข้อคิดดีมากๆ ครับ แนะนำให้เสพย์เสียงและเรื่องราวในเกมนี้ครับผม (8/10); rootEnginear Report!
-2014-07-02,206190,True,'Watch dogs' in 2D
-2014-05-01,550,True,สนุกดี มอนส์โหดมากกกก แต่ก็หนุกนะ บางทีสัญลักษณ์บอกทางมืดไปหน่อยเลยไม่รู้ว่ามันจะมีอะไร ข้อเสียนิดนึงคือมันทำให้ทีมเวิร์คบาดหมางกันมากกว่าช่วยเลือกันอีกครับ เพราะแต่ละคนชอบมีจุดมุ่งหมายเดียวกันคือ 'กูต้องไม่ตาย' และในที่สุดมะรึงก็รอดอยู่คนเดียว (อิสลัด) โดยเฉพาะในมัลติหาคนดีๆ ยากมาก เล่นกับบอทยังรู้สึกดีกว่า (โนวววววว) แต่โดยรวมทำมาดีมาก เหมาะสำหรับเล่นว่างๆ แบบไม่มีอะไรเล่นจริง
-2015-03-19,346120,True,"Boring Man - Man, it's not bored!First tbh. I feel like TF2 noob. I did join to the server and, died. Then I just feel like 'How the heck do people buy this premium?'. So, I jumped into singleplayer (Just host with a lot of bots) and giving a try. Woah man! It's pretty fun. Gaining a lot of levels and lots of guns just heal my feelings. And then I want to say 'It's amazing. Just giving a try' I wish this game could gone more far than this.(I'm not game reviewer expert, I apologize if I've done sth incorrectly.)"
-2015-01-01,214490,True,"[This review base on the user that lower than minimum spec]I have finished to the end and I'll say, IT'S AWESOME! I didn't kill any people and earn the achievement because it was too much laggy. I did set everything to low but, it very beautiful although every options is low. Pretty Awesome Work![Funny Side!]- Hostile NPC shoot too much accurate, 1 out of 100 hit the player- Alien too cute- Sometimes buggy- If you save when alien comes out of the vent, it'll go back into the vent when you load that save.9/10 Awesome!"
-2014-05-01,4000,True,เอาไว้คลายเครียดได้ดีมากรองจากเจ้า Goat Simulator เลย จับโมเดลซั่ม หรือทำเครื่องบินขับเล่นก็มันส์ดีนะเอ้อ 555
+posted,item_id,recommend,sentiment_analysis
+2014-11-30,246620,True,1
+2014-02-16,250600,True,1
+2014-07-02,206190,True,1
+2014-05-01,550,True,1
+2015-03-19,346120,True,1
+2015-01-01,214490,True,2
+2014-05-01,4000,True,2

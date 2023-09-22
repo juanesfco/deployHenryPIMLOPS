@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-10-26,22370,True,Its alright.
-2015-08-29,730,True,shoot.
-2015-11-28,32430,False,"Frustratingly clunky, slow and clumsy mechanics and controls make you feel like you're controlling an autistic child with a toy lightsaber rather than the apprentice of one of the most badass siths in the Star Wars universe. Enemy types usually progress as follows: 1. Run-of-the-mill goon 2. Guy that strengthens run-of-the-mill goons 3. Bigger, more powerful run-of-the-mill goon with different colour scheme 4. A whole group of these bigger, more powerful run-of-the-mill goons that effectively jump on you and take turn ♥♥♥♥ing you in the ♥♥♥ until you die. What makes it worse is that this all-powerful sith apprentice you play as takes 10 minutes to get up after being knocked down, so when swarmed by these big groups of enemies you'll often have no chance to actually fight back. You don't actually feel like you have control of what's going on due to the bad controls and horrible game design.The only things good about this game are the lore, the character design, and some of the locales.Avoid this game if you can, you'll just end up bashing your keyboard or controller into oblivion."
-2016-06-21,480630,False,"'Hey guys! We'll overhype this great new installment in the renowned Fallout franchise, get you excited enough to buy the season pass, turn the game into a boring, derivative pile of ♥♥♥♥ and then release a bunch of garbage throw-away DLC for one of the worst features. That'll justify the price, right??'- Todd 'The Rod' HowardAt least now any reasonable individual knows never to trust Bethesda again."
-2015-06-23,208650,True,"An amazing game bogged down by launch issues for some.Bad reviews are, nonetheless, overly exaggerated by whiny idiots, some complaint discussions are opened by users who don't even own the game.31% positivity is ridiculous.When Rocksteady patches this one up, keep an eye on it."
-2016-08-12,275850,False,♥♥♥♥ my previous review.This game is a monotonous pile of suger-coated dung.Please do not fund le sneaky corporate lying.Buy Fallout 4 instead goy :^)
+posted,item_id,recommend,sentiment_analysis
+2015-10-26,22370,True,1
+2015-08-29,730,True,1
+2015-11-28,32430,False,1
+2016-06-21,480630,False,1
+2015-06-23,208650,True,0
+2016-08-12,275850,False,1

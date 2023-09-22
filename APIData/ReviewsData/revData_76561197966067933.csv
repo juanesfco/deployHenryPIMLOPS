@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-09-02,200510,True,Awesome game.  Not sure why I haven't played this earlier!
-2015-02-27,244160,True,<3
-2015-02-27,39200,False,Managed to get the purchase of this game refunded.  Doesn't run at today's resolutions and therefore looks pretty bad on-screen -- that's if you're lucky to even get it running in the current operating systems.
-2014-02-05,440,True,Addicted!
+posted,item_id,recommend,sentiment_analysis
+2016-09-02,200510,True,1
+2015-02-27,244160,True,2
+2015-02-27,39200,False,0
+2014-02-05,440,True,0

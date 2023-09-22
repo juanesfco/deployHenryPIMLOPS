@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-25,730,True,"Counter Strike,You either live long enough to be called a hacker, or die quicker and be called a noob."
-2015-05-04,80,True,Random enemies popping out of no where will make you ♥♥♥♥ yourself.
-2015-04-25,227940,True,All round great War simulator! Althought the graphics can be readjusted to suit people with low-performing computers.
+posted,item_id,recommend,sentiment_analysis
+2015-04-25,730,True,1
+2015-05-04,80,True,0
+2015-04-25,227940,True,2

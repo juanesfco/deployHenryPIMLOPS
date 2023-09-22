@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-19,258520,True,Just wow. A must play if only for the story.
-2015-12-26,330840,True,Better than the last session of the TV series and last couple of Ice and Fire books
-2015-06-11,206440,True,Touching
+posted,item_id,recommend,sentiment_analysis
+2015-02-19,258520,True,1
+2015-12-26,330840,True,2
+2015-06-11,206440,True,2

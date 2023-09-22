@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-21,570,False,"Each character has a terribly underpowered melee attack that eventually becomes only useful in smashing crates, a “Special Move” that (as far as I can tell) just makes your character glow, and an arsenal of unremarkable ranged weapons."
-2013-10-02,212480,True,♥♥♥♥ing puffer fish
-2013-11-22,241540,True,This game is even better on handheld than on console. Sonic looks amazing.
-2013-01-18,440,True,Yes
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,570,False,1
+2013-10-02,212480,True,1
+2013-11-22,241540,True,2
+2013-01-18,440,True,1

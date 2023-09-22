@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-06,17080,True,um
-2015-03-07,322330,False,this game is glitchy if you paste stuff in chat it lags
-2014-01-28,223710,True,WATCH OUT AT THE START IT WILL GIVE U THE CREEPS       :) BUT ITS STILL FUN
-2013-12-19,49520,True,ya awsome game get it and play with me
+posted,item_id,recommend,sentiment_analysis
+2013-12-06,17080,True,1
+2015-03-07,322330,False,0
+2014-01-28,223710,True,2
+2013-12-19,49520,True,0

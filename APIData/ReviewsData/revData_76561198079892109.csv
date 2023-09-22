@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-30,222900,True,yes it is so fun i like the controlls they are kind like dota 2 but way better and with zombies
-2015-08-26,269350,True,its so scary and its not for easly scared peoples
-2014-12-24,315640,True,a fun third person shooter
-2015-01-28,244850,True,good game if you like space and building things
-2014-09-02,204300,True,cool platformer
-2014-02-13,70000,True,this is the type of action game that you can play as dinosaurs in a war i recomend it cause i love playing this game
+posted,item_id,recommend,sentiment_analysis
+2014-04-30,222900,True,2
+2015-08-26,269350,True,0
+2014-12-24,315640,True,2
+2015-01-28,244850,True,2
+2014-09-02,204300,True,2
+2014-02-13,70000,True,1

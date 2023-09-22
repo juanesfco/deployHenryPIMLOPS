@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-15,209160,False,Luigi's mansion is alot better with some actual ghosts
-2016-08-20,295438,True,"I love theese characters, makes me feel like i don't need to look liek a bush"
+posted,item_id,recommend,sentiment_analysis
+2014-04-15,209160,False,2
+2016-08-20,295438,True,2

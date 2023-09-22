@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-31,218620,True,Rather ♥♥♥♥ in my hands and clap than play this.Spent hardly anytime
-2015-12-28,419070,True,Almir at OVERKILL should follow this route with DLCs
-2015-11-23,333930,False,"Instead of adding more mercs, fix the already OP and broken mercs"
-2015-09-04,287700,True,15hrs in and not even 15% through.Worth every cent IMO
+posted,item_id,recommend,sentiment_analysis
+2015-08-31,218620,True,0
+2015-12-28,419070,True,1
+2015-11-23,333930,False,1
+2015-09-04,287700,True,1

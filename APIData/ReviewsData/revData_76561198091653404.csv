@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-30,240,True,you should totally get this
-2014-01-20,72850,True,The Elder Scrolls V: Skyrim is a great game to play it has a fantastic story to play and it gets you hooked once you start playing
+posted,item_id,recommend,sentiment_analysis
+2014-03-30,240,True,1
+2014-01-20,72850,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-01-15,55230,True,Best Saints Row game in this series. The most fun i have had in a game of this type. This will definitely beat the newest one aswell. I recommend
-2015-04-29,232090,True,"This is one of the best FPS games i have ever played, although it is a good idea to get a beafy pc before you play"
-2015-03-29,4000,True,AN ENDLESS AMOUNT OF EVERYTHING!
-2014-11-23,206420,True,this is one of the most badass games i have ever played... do wish somethings from SR3 was added though
-2014-02-12,224260,True,"a really good game in my oppinion, gets boring quickly though (unless playing with friends)"
-2013-12-26,550,True,its a ♥♥♥♥ing awesome game
+posted,item_id,recommend,sentiment_analysis
+2015-01-15,55230,True,2
+2015-04-29,232090,True,2
+2015-03-29,4000,True,0
+2014-11-23,206420,True,2
+2014-02-12,224260,True,1
+2013-12-26,550,True,2

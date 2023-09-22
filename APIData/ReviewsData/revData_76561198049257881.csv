@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-05,730,True,solid game mate
-2016-07-08,383790,False,Cancerous as ♥♥♥♥
-2015-05-18,274940,True,Would r8 8/8 m8
+posted,item_id,recommend,sentiment_analysis
+2016-06-05,730,True,0
+2016-07-08,383790,False,1
+2015-05-18,274940,True,1

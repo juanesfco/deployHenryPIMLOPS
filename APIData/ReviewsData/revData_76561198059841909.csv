@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-22,271290,False,"me parece aburrido y con una interfaz muy poco intuitiva,la mecanica de juego no me gusto nada"
-2014-02-09,440,True,Juegazo nada mas que decir
-2014-02-09,208090,True,Bueno para divertirse un rato pero no es ninguna maravilla hay que esperar a las actualizaciones
+posted,item_id,recommend,sentiment_analysis
+2014-03-22,271290,False,0
+2014-02-09,440,True,2
+2014-02-09,208090,True,2

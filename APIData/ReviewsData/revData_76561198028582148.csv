@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-18,22450,True,"Don't care what everyone says, this is my favorite third person shooter, they need a second one!"
-2015-12-21,418340,True,"Awesome so far, has a lot of potential, there is sooo much they could add but so far it plays well. Its a simple smooth hack and slash. and I beleive it's just gonna get better and better!"
-2015-06-02,208670,True,so far I love it
-2015-05-20,102500,True,"Brilliant RPG, if a little tedious, still i have spent days on it and didnt really get bored, quite good if you ask me"
+posted,item_id,recommend,sentiment_analysis
+2015-05-18,22450,True,2
+2015-12-21,418340,True,2
+2015-06-02,208670,True,2
+2015-05-20,102500,True,1

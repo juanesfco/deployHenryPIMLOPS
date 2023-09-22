@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-12-16,244770,True,This game is darn near flawless. The game is really polished and has very few noticeable bugs. The galaxies are always different and filled with amazing things to discover. The only thing that could make this game cooler is some way to share ships you made with other players online... Steam Workshop plz...9/10 I want to post my USS Enterprise on the workshop
-2013-11-28,4000,True,THIS IS THE MOST AMAZING GAME EVER MADE IN THE WORLD!
-2015-06-13,306130,True,"I sat down to check out this game, and when I was finished it was 4 days later. This game is a good form of time travel. lel, 5 fold veneration/10, would time travel again."
-2015-10-26,391540,True,Good game.
-2015-11-08,255070,False,This game isnt good. It just doesnt work.
-2015-11-22,417860,True,This is a good:•Friendzone Simulator•Keyboard Destroyer Simulator•Windows 98 Simulator•Highschool Feels Simulator98/10 would regret initial message again
-2015-01-29,324810,True,"This game feels finished and very solid, but is still misssing some maps and maybe some vehicles [I'm not sure]. This is the only good early access game, all others are HOPELESS!360noscope/10 rockets are no longer op (yay!)"
-2015-01-26,247000,True,"The spells in this game are broken, but otherwise it's pretty okay."
+posted,item_id,recommend,sentiment_analysis
+2015-12-16,244770,True,1
+2013-11-28,4000,True,2
+2015-06-13,306130,True,1
+2015-10-26,391540,True,2
+2015-11-08,255070,False,2
+2015-11-22,417860,True,1
+2015-01-29,324810,True,1
+2015-01-26,247000,True,1

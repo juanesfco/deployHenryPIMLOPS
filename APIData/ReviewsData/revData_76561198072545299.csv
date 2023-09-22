@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-26,370240,False,"as chris smoove once said '2k did me dirty there'yep.... servers are down, gameplay is laggy, you dont get your pre order bonus, you cannot configure your keyboard controls, 2k wants you to spread your hand muscle till it hurts to plau this game and maybe you should just stop wasting money on this franchise which gets worse every single yearGOOD ♥♥♥♥ING JOB 2K"
-2015-09-16,730,True,10/10 for learning russian
-2015-10-07,278360,True,"ever felt a game so perfect in every single way that u just want everyone to know about it?this is one of those games, the atmosphere , the voice actors , the story , the art design , the mechanics , the smooth movement, the soundtrack  and last but not least the creativity are all just so on point.the ending makes you question everything in life btw, it just brings the whole game's story to another levelIGN 11/10"
+posted,item_id,recommend,sentiment_analysis
+2015-09-26,370240,False,0
+2015-09-16,730,True,1
+2015-10-07,278360,True,2

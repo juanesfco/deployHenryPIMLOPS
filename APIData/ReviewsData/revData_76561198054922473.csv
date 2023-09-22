@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-07,206500,True,play it and you will love it
-2015-02-25,65980,False,the price is to much for game like this
-2015-02-08,227180,True,best game ever. play it !
-2014-12-16,104700,True,it's free why not
-2014-12-05,440,True,the BEST GAME EVER
+posted,item_id,recommend,sentiment_analysis
+2015-03-07,206500,True,2
+2015-02-25,65980,False,1
+2015-02-08,227180,True,2
+2014-12-16,104700,True,2
+2014-12-05,440,True,2

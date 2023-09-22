@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-31,236390,False,I Do Not! recommend this game because of the needing of Mavricks. This game looked Great! but when i downloaded this game it took 14 hours that is fine but when i opened it i was terrified to see that it needed Mavricks so I dont recommend this game!.
-2014-11-14,105600,True,i do like the game but one thing mac platform support. You will get alot more players/buyers.=)
+posted,item_id,recommend,sentiment_analysis
+2014-08-31,236390,False,1
+2014-11-14,105600,True,2

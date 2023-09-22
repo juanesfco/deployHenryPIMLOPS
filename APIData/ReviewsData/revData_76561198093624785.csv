@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-01-26,570,True,"amazing game, give it a try.although its not good if playing with poor internet connection"
-2014-06-17,440,True,MUST PLAY!!!!!!!
-2014-03-03,620,True,so fun
-2014-01-20,4000,True,funny game and fun
-2014-10-31,204360,True,LOL
-2014-03-07,261030,True,love it
-2014-09-13,49520,True,"awesome game, worth buying, never regret it"
+posted,item_id,recommend,sentiment_analysis
+2015-01-26,570,True,0
+2014-06-17,440,True,1
+2014-03-03,620,True,2
+2014-01-20,4000,True,1
+2014-10-31,204360,True,2
+2014-03-07,261030,True,2
+2014-09-13,49520,True,2

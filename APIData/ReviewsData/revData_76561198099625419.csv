@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-05-08,230410,True,Mt loko
-2014-05-08,200260,True,Um jogo muito loko e com uma história ♥♥♥♥
-2013-12-22,19900,True,Bem legal !!!
-2013-12-20,241540,True,Jogo bem planejago um jogo muito bom
-2013-11-28,220,True,Mt bom da um pouco de adrenalina na maioria das partes  mt bom mesmo !!
+posted,item_id,recommend,sentiment_analysis
+2014-05-08,230410,True,1
+2014-05-08,200260,True,0
+2013-12-22,19900,True,2
+2013-12-20,241540,True,2
+2013-11-28,220,True,2

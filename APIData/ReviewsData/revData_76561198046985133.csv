@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-01,570,True,huge learning curve but once you got the hang of it you'll start to rekt faces. ez game ez life 10/10
-2015-02-01,730,True,coming from battlefield 3 this has to be one of the best fps out there. 10/10
-2015-05-13,209650,False,trash game.
+posted,item_id,recommend,sentiment_analysis
+2015-02-01,570,True,1
+2015-02-01,730,True,2
+2015-05-13,209650,False,0

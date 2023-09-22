@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-17,295110,False,Whoever thought this was a good idea needs to neck themselves. ♥♥♥♥ Daybreak.
-2016-01-28,359550,True,"The gameplay is great, the replayability is great, the maps are great, the FAMAS is great, but ♥♥♥♥ Ubisoft and their ♥♥♥♥ servers."
-2015-05-04,271590,True,How to play GTA V:1. Buy it2. Play it3. Do not stop4. Die alone8/8 wood di alone agayn
+posted,item_id,recommend,sentiment_analysis
+2016-02-17,295110,False,2
+2016-01-28,359550,True,2
+2015-05-04,271590,True,1

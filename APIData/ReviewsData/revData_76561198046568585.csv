@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-17,347560,False,"The gameplay is way too repetitive, and the graphics feel cheap and recycled. I don't mind turn-based game plays; in fact I like them a lot. This game however just feels empty, as nothing stands out - the environment is boring and noninteractive, and the characters also feel the same. The game play just feels too stale.As for graphics, the pixel art is a plus though it really bothers me as the enemies looks very similar, especially at the start with those raccoon creatures. The environment too - they look nice but you can't really interact with them; there's either not a lot of visual queues, or there's too much that they seem to do something but don't. This makes the visuals get repetitive, uninspired, and... odd as there's no visual focus to look at.But to be fair, this game is very cheap and it does get away with things in my rant. Buy it if you will. but I recommend that you save your money and looks for others games; there are better ones that can be had for cheaper."
-2015-09-11,351640,True,"I expected a happy ending, but there were none; all I received was a broken heart and a bucket of feels. Why would you do this to us, HolyPriest!? Why? Why did you betray our feelings? ; - ;Now I'll have spend the next few days letting them feels out. Thanks a lot.11/10 would feel again."
-2015-06-29,105600,True,This game's basically a 2D adventure doll house simulator with shords and guns69/10 Would play with dolls again -IGN
+posted,item_id,recommend,sentiment_analysis
+2016-07-17,347560,False,1
+2015-09-11,351640,True,1
+2015-06-29,105600,True,0

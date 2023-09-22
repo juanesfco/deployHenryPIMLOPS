@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-18,730,True,"This Game has changed my life i met lots of new friends by playing on random commuity servers  also this is the best FPS game i've ever played ,its fun its enjoyable and lots of another things. You should buy this game if you  don't have it 100% BEST GAME EVER"
-2014-12-19,204360,True,Well i really like this game its fun has lots of fun and fun THATS ALL
-2016-01-22,383980,True,Rivals of Aether is a fun remake of Super Smash Bros. I just like spamming one button
+posted,item_id,recommend,sentiment_analysis
+2015-01-18,730,True,1
+2014-12-19,204360,True,2
+2016-01-22,383980,True,2

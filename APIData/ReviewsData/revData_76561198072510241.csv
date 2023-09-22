@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-10,242760,True,Awesome!
-2015-12-04,227940,True,This game is the best WW2 Game on Steam and its FREE!! I definitely recommend this.
-2014-12-22,236390,False,"Not fun at all, no one will be upset if it was removed"
-2015-07-04,230410,False,"It's really cool.. Cool bows and stuff.. If it wasn't pay to win it would be perfectThis goes to the developers...................../´¯/) ....................,/¯../ .................../..../ ............./´¯/'...'/´¯¯`·¸ ........../'/.../..../......./¨¯ ........('(...´...´.... ¯~/'...') ..........................'...../ ..........''............. _.·´ ..........................( ..............................Greedy ♥♥♥♥♥♥♥♥♥♥♥♥s"
-2014-12-12,55230,True,This is an amazing game.. It's definitely worth buying
-2014-11-24,244850,True,Amazing game!
-2014-07-13,216250,True,Awesome game!
+posted,item_id,recommend,sentiment_analysis
+2014-06-10,242760,True,2
+2015-12-04,227940,True,2
+2014-12-22,236390,False,0
+2015-07-04,230410,False,2
+2014-12-12,55230,True,2
+2014-11-24,244850,True,1
+2014-07-13,216250,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-03,236390,True,This game is so cool! I played it for a while with my joystick and that makes it even better
-2014-07-11,263280,False,"This game's graphics is ok but it's really not worth $30. The only thing you get to do is a couple of missions, that's it."
+posted,item_id,recommend,sentiment_analysis
+2014-05-03,236390,True,2
+2014-07-11,263280,False,1

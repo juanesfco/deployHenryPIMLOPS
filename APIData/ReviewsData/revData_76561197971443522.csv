@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-09-11,239820,True,"This might not seem like much of a interesting game, but it really sucked me in. I found myself spending hours trying to make an awesome game... And hating the reviews if they didn't like it after I spent time trying to balance it right."
-2012-07-09,1250,True,"It makes me moist. If for some reason anyone didn't own this game, they need to spend less time watching porn and get it."
+posted,item_id,recommend,sentiment_analysis
+2013-09-11,239820,True,2
+2012-07-09,1250,True,1

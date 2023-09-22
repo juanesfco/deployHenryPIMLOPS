@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-14,570,True,This game is just so addicting .... but its great!
-2014-12-04,293560,False,"This game is horrible. Everything is bad about it, the controls, the fighting and the screen movement ITS ♥♥♥♥ I TELL YA"
-2015-08-19,233250,True,Great game to play just needs more updates and units
-2015-08-20,386070,True,I take back ALL comments I said about this should be free! Its well worth the money and its soooo much more fun now with all the new units and what not!
-2016-04-05,427270,True,Its alright but it could be better. Its still no where near as good as OMD 1 & 2
-2014-07-13,248570,True,10/10 would bang multiple times
+posted,item_id,recommend,sentiment_analysis
+2014-04-14,570,True,2
+2014-12-04,293560,False,0
+2015-08-19,233250,True,2
+2015-08-20,386070,True,2
+2016-04-05,427270,True,2
+2014-07-13,248570,True,1

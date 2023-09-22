@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-05-23,270210,True,"This is a great game. with a single problem that could maby be fixed. the problem is simply because of the way the game seems to generate the levels to match the music is programed to generate levels based on 4:4 timing  (i dont know how to type that the correct way) so if you have something that is in a different time like 3:4 then your may not get a good level, the game does inform you if its not comfident in the timing. granted this may not seem like a major problem but i think if it was fixed it would allow more songs to be played well, and possibly making more people happy with the product. but i give the game 7/10 and if this could be fixed/coded into the game then it would get a 10/10 from me np.PS i know my Grammer is something terribal."
-2016-03-04,386070,True,Great game i find the systerm designer a bit buggy tho however i would recommend this game to any RTS fan or a fan of games in genreal
-2016-08-03,8930,True,Civ 5 is a great game however I think it is best to play with a bunch of freinds in a muiltyplayer match this is because the AI is abit bugged in some ways so I would suggest MP with out a doubtPS:I suck at Spelling
-2016-04-15,330830,True,This is a fantastic game i did not encounter any bugs or glitches and it run extreamly smoothly on my pc and thus i highly recommend this game to anyone that likes a good storyline
-2014-06-27,218230,True,planetside 2 is a great game theres team work masive battles and a veriaty of wepones. the only problem with planetside is that you need good systerm specs to be in thos big battles unless you love lag.PS I RECOMEND YOU HAVE A MICROPHONE
-2014-06-09,104900,True,THIS IS A GREAT GAME with elements of an fps great transport ground and air a mech 3 awesome classes lots of amazing weapons and the augmentations makes it that much better if you like a.Shooting things. b.Dinos or c.defending things this is the game for you. :D
-2014-01-01,440,True,great game must get
-2011-12-30,240,True,this game is a good game for pepole that like first person shooters i give it 5 stars
+posted,item_id,recommend,sentiment_analysis
+2016-05-23,270210,True,1
+2016-03-04,386070,True,1
+2016-08-03,8930,True,2
+2016-04-15,330830,True,2
+2014-06-27,218230,True,2
+2014-06-09,104900,True,2
+2014-01-01,440,True,2
+2011-12-30,240,True,1

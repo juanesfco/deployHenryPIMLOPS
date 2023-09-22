@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-14,226700,True,IT OVER NICE THOUSAND !!!!!!!!!!!! Lol
-2015-02-14,8190,True,Nice Game Forever !!
-2014-05-13,570,True,This Game is So Vary Good and Vary Best
+posted,item_id,recommend,sentiment_analysis
+2015-02-14,226700,True,2
+2015-02-14,8190,True,1
+2014-05-13,570,True,2

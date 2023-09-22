@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-17,230410,True,Pros:Lotus is a hot bebe 10/10Cons:Lotus is not a MiIf :(
-2013-10-14,99900,True,"Spiral Knights is cool. Don't play it unless you are bored. It is full of adventures and the little kids on there always ask for money, just ignore those scum. There's actually some pretty cool old men that play this game too, if you want to hook up with some of them pm me okay?"
+posted,item_id,recommend,sentiment_analysis
+2016-07-17,230410,True,0
+2013-10-14,99900,True,1

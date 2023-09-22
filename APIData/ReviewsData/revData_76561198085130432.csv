@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-14,113400,True,lo recomiendo mucho es un exelente juego :)
-2014-04-12,256410,True,afwg
+posted,item_id,recommend,sentiment_analysis
+2014-09-14,113400,True,2
+2014-04-12,256410,True,1

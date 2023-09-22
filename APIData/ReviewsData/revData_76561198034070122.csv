@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-06,311210,False,"i have a decent rig, the original crysis has a reputation for being a system breaker with its optimization issues, but ♥♥♥♥ i can run that 60+fps all day maxed, this wont even run smoothly for 5 seconds, massive teture loading errors, if i stand in one spot for 10-20 seconds the textures will eventually load, i mean ♥♥♥♥ this is low, it hardly looks like something that would take a lot of grunt to run but somehow theyv managed to make a game that decimates crysis in the system hog department, that in itself is an acheivment i suppose"
-2015-09-02,287700,True,"where do i even begin, this is an amazing game, easily the best ov ever played, bar none, its got it all, great story, amazing characters, awesome open world, huge depth. its amazingly well optimized, runs like a charm. oh and you can kidnap spetznaz officers and goats with fulton skyhooks."
-2015-07-18,252490,True,"its awesome, thats all you need to know, buy this game"
-2015-06-02,346110,True,>spawn to the worlds worst optimised game since dayz>turn everything low>punch a tree to get wood>punching tree halfs health>try to fight 20 tons of prehistoric snitzel >end up running off cliff in botched escape attempt11/10 concept10/10 graphics2/10 optimization
+posted,item_id,recommend,sentiment_analysis
+2015-11-06,311210,False,1
+2015-09-02,287700,True,2
+2015-07-18,252490,True,2
+2015-06-02,346110,True,0

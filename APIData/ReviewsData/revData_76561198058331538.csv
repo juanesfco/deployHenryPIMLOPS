@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-11,252950,True,"Such a chilled game or a competitive one if you want to, rocket league is for everyone."
-2016-01-11,72850,True,"Will forever be in the top 10 games of all-time. Just awesome, and you can take the experiance even further with the workshop, adding custom textures and sounds to enchance the immersive experiance I got with this game."
-2015-06-17,221380,True,Played this game since I was 7 years old and I never dropped it since. Fantastic RTS that is really consistant as shown with it's age. Great to see that it is still worked on and played by a great community.
+posted,item_id,recommend,sentiment_analysis
+2016-01-11,252950,True,0
+2016-01-11,72850,True,2
+2015-06-17,221380,True,2

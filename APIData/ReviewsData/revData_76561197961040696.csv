@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-12-04,377160,True,原子时代的滚5？RPG向FPS or TPS? 身在末世，驰骋纵横于垃圾世界中淘宝，涉及RPG的方方面面太多，可以说制作组对细节的关注是很到位的，但是正是太关注某些琐碎的细节，大的方面，比如引擎的升级优化感觉还大有余地，个别场景的帧数差别太大，感觉不是很正常。同时由于细节太多，目前所知的一些小bug估计B社没有精力去修复。另外，很多人吐槽画面不如昆特3，我个人只是刚刚体验了昆特3，说实话淘垃圾4在画面上是不够惊艳，不会在第一时间抓住人的感观，但这和废土的风格多少也有关系（萧条、衰败、雾霾…）。抛开这些不如意，淘垃圾4的吸引力还是比较足的，虽然我个人认同这游戏不足以夺得年度最佳游戏，但给个年度最佳乐趣奖还是够的。
-2015-05-30,271590,True,绝对的神作！制作人员相当用心，无论是画面、操作还是对白、过场动画都精致得赏心悦目。最重要的是，游戏不仅仅追求好玩，还令人相当的回味。人性、亲情、爱情、友情尽揽其中，温情浓浓的家庭、弱肉强食的江湖、尔虞我诈的官场无所不包，真是一部五味杂陈的社会悲、喜剧。里程碑式的神作！
-2014-02-22,35450,True,地图设计精巧，武器平衡性好，战术编排细致入微，每个兵种都让人有不同的感受。RO2和RS堪称T社的良心之作、二战游戏难得的精品。
-2013-12-21,72850,True,"This is a awesome game, it's worth every buck. Thanks the developing team for creating this wonderful game.To live in a fatanstic world and to be a man/woman as you will. You could enjoy the hero or/and thieve stories or appreciate the beautiful nature scenes. Alright, let start our adventure or rewrite our adventure."
-2013-03-19,730,True,感觉比CSS好玩多了！
-2011-12-09,300,True,真实、震撼，延续了DOD的传统。
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,377160,True,2
+2015-05-30,271590,True,2
+2014-02-22,35450,True,2
+2013-12-21,72850,True,2
+2013-03-19,730,True,2
+2011-12-09,300,True,0

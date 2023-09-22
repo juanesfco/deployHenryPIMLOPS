@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-27,440,True,It's a good game to play when you have a 7 day ban on CS:GO.
-2015-05-13,730,True,Best. Game. Ever...Until I got VAC banned.
-2015-12-27,362890,True,Never played Half-Life before but it's a great game!
-2015-12-21,413850,True,KennyS is France but for Cloud9 he is the American stars.
+posted,item_id,recommend,sentiment_analysis
+2015-12-27,440,True,2
+2015-05-13,730,True,2
+2015-12-27,362890,True,2
+2015-12-21,413850,True,1

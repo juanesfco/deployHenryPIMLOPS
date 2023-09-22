@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-04-13,440,True,Hat/10
-2014-12-19,8930,True,Doesn't take long to get you hooked
-2014-09-12,242920,True,yes
-2014-04-13,206190,True,"A very quirky sense of humour, a simplistic but beautiful art style, and some of the smoothest jazz along side clever mechanics and game design make this game one of my favourites of all time. The biggest problem with it is its length, its very short, even still the few hours (at tops) that you will experience through one playthrough is amazing. I give it a 9/10Edit: With the new workshop compatibility you have NO EXCUSE not to own this game"
-2014-04-13,105600,True,"Every once, or even sometimes twice in a lifetime, you find that special game. A game which you enjoy so much, you just love it even if it isnt the greatest game. For me, that game is terraria, I've spoken to plenty of people who say 'it is fun, but gets quite repetetive' and 'its enjoyable but a lot of missed potential' but to me, its one of my favourite games. Ever since I bought it about 3 years ago, its been near the top of my top 10 games ever. Ive clocked in over 520 hours in it and have enjoyed every single one. This game is certainly worth the $10 dollar price, but I would say its worth a lot moreWhether playing alone or with your friends, this game is sure to suck up hours of your time, my biggest fault with it, is that it's not avalible for macs so i cant play it with all my friends, but other then that, its amazing. I give it a 10/10"
-2014-09-08,221640,True,"Have you ever wanted to do drugs, although you didnt want to suffer from the long term effects?If so, then this is the game for you"
-2014-08-17,304930,True,"This game does something DayZ and really all early access games should be.Cost nothingOther than that it is less buggy than DayZ, easier to run than DayZ, doesnt require as high computer specs as DayZ and immensly smaller than DayZReally this game in almost every way is a better, more viable option than DayZ if you're looking for a zombie survival game"
-2014-06-20,65300,True,"Do you have OCD?If you answered yes to any of these questions, then DustForce is probably the game for you"
+posted,item_id,recommend,sentiment_analysis
+2014-04-13,440,True,1
+2014-12-19,8930,True,1
+2014-09-12,242920,True,1
+2014-04-13,206190,True,1
+2014-04-13,105600,True,2
+2014-09-08,221640,True,0
+2014-08-17,304930,True,1
+2014-06-20,65300,True,0

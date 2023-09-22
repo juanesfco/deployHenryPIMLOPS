@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-21,225600,True,meh
-2014-09-25,104700,False,It's a slow burn to the tf2 items.
+posted,item_id,recommend,sentiment_analysis
+2014-12-21,225600,True,1
+2014-09-25,104700,False,0

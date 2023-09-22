@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-01,269370,True,Played this on my phone and when I found out it was on the pc I just had to buy it.
-2015-01-05,47810,True,You can have sex
+posted,item_id,recommend,sentiment_analysis
+2015-01-01,269370,True,1
+2015-01-05,47810,True,1

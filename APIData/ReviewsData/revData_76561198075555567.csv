@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-25,7670,True,Just play it.....
-2014-04-04,265930,True,This is the best Sandbox Game I have ever played!
+posted,item_id,recommend,sentiment_analysis
+2014-12-25,7670,True,1
+2014-04-04,265930,True,2

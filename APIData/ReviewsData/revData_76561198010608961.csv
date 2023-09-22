@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-07,391540,True,MY HEART
-2012-07-12,72850,True,Defeat dragons just by shouting! You can even have a beard!
-2014-08-28,261030,True,A very strong story that changes depending on your decisions with a heartwrenching ending that brought me to tears. I highly recommend playing the original first and then Season 2.
+posted,item_id,recommend,sentiment_analysis
+2015-12-07,391540,True,1
+2012-07-12,72850,True,1
+2014-08-28,261030,True,2

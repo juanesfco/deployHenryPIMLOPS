@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-08,221380,True,"Age of Empires II was released in 1999 by Microsoft Games and Ensemble Studios. It is a classic RTS (Real Time Strategy) Game that made the favourites list of gamers everywhere. The HD Edition brings HD resolutions to the game, causing the refacing of all buildings, sprites, land features and water. The LAN Feature was removed when the multiplayer interface was made to be handled by Steam, however that is a minor drawback because the multiplayer interface in general has been given a good kick since it was transferred to Steam.For old and new fans of the classic 'Age of Empires' series, this is a must buy game, whether it be on sale or not.10/10"
-2014-07-22,304930,True,"Got a weapon,made a friend,killed hordes of zombies,got betrayed by my friend who killed me and stole my stuff.10/10"
-2014-03-08,730,False,"Good game, but prone to crashes, even on my powerful gaming PC.Excellent shooter but buggy as."
-2013-12-12,221640,True,"Super Hexagon is a mind-bending, challenging, fast paced game. You control a triangle (the one right outside the hexagon in the pics) and you have to dodge the partially formed hexagon shaped 'obstacles'. It was very hard for me to start off with but when I got the hang of it I absolutely loved it (and still minorly sucked at it).For $3 it has very good value, and I would strongly recommend getting it for hours of enjoyable raging."
+posted,item_id,recommend,sentiment_analysis
+2014-01-08,221380,True,1
+2014-07-22,304930,True,0
+2014-03-08,730,False,2
+2013-12-12,221640,True,2

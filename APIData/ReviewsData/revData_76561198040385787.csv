@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-12,402180,True,I couldn't put it down from start to finish.
-2016-09-17,409710,True,"Nearly 5 hours in and no crashes yet. I have experienced very strange graphical glitches though:-Screen flickering, the entire screen, whenever there is a light source in the game that is sparking.-Black squares appearing over pickup items, these pop in and out of the game depending on the camera view.Also I could not use the mouse and keyboard at all if I have my controller plugged in, the first 30 minutes I played with a controller because I didn't think the m/kb was supported, m/kb works fine with the controller unplugged.Apart from that, I agree the options menu if extremely limited, the game doesn't seem to be touched at all for pc, I don't notice any difference.The game still plays fine for me, runs probaly around 190fps average with a 970, I am enjoying it, especially for free."
-2014-06-21,279260,True,"Not too bad, worth the price on special. Generic post apocolyptic story, features a guy and girl exchanging banter while in opposite sells. Follows the womens stories about how she arrived in the cell, what she did to survive in the world. Decent enough ending. I found the music horrible, lack of quick travel as in no double click to enter doors or access a different area without having to slowly walk everywhere. Recommend the game at sale price only."
+posted,item_id,recommend,sentiment_analysis
+2015-09-12,402180,True,0
+2016-09-17,409710,True,1
+2014-06-21,279260,True,1

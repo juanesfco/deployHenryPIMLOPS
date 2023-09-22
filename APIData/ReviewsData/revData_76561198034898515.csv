@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-05,440,True,Dis game is gud :3
-2014-07-23,304930,False,"This game definetly has potential, but some of the aspects are stupid, and somehow ridiculous. I've collected gear, a pistol a bow and a bunch of food and armour. I see some zombies so i pass by and bout 6 zombies are chasing me for a bout 20 minutes. They're extremely fast, they don't have a stop-following radius or distance so i literally died and lost all my stuff. It's just stupid.... I wasted my time playing this, i hope that gets fixed. Make the zombies slower because i don't want them following me around the whole map."
+posted,item_id,recommend,sentiment_analysis
+2014-01-05,440,True,1
+2014-07-23,304930,False,0

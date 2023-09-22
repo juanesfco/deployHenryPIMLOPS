@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-02-08,220,True,"Um clássico! finalmente pude experimentar de perto essa obra prima da Valve, me impressionaram com os gráficos, jogabilidade nova, e a sem falar na história magnífica que a franquia Half life possui. Simplismente uma lenda esse game, recomendadíssimo!"
-2015-01-23,335330,False,So ♥♥♥♥♥♥ Crashed Game
-2015-02-17,302830,False,"Primeira vez o jogo é legal , depois... se torna uma ♥♥♥♥♥, Trava muito, não tem server br e etc.. simplismente o jogo foi cagado."
-2014-06-15,206210,True,Jogo ♥♥♥♥ !
-2016-02-08,400,True,"Ótimo jogo! achava que era chato, mas com a promoção pude experimentar, tem uma história boa, divertido, puzzles, e sentinelas fazendo com que você quebre a cabeça tentando achar a melhor forma de ficar vivo, sem falar na personagem Glados, que acabei de conhecer, e ja gosto dela pakas. Acabei de zerar. #PartiuPortal2"
-2013-09-25,440,True,É o melhor jogo do MUNDOO GRÁTIS!!! ^^
+posted,item_id,recommend,sentiment_analysis
+2016-02-08,220,True,0
+2015-01-23,335330,False,0
+2015-02-17,302830,False,2
+2014-06-15,206210,True,0
+2016-02-08,400,True,2
+2013-09-25,440,True,2

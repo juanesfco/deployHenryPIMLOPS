@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-03-16,261570,True,I have not enjoyed a platformer game in ♥♥♥♥ing years. This game is perfect in every way. I'll nearly have beaten it tonight :3 can't wait!
-2016-03-29,372000,False,"If I start up Tree of Savior, it opens a window and downloads some stuff for lack of a better word. When it does this, it literally breaks my internet while doing so. It shows my steam connection as offline it disconnects me from battle.net if I try to open a webpage it acts as if my internet has gone down. This is a pretty insane bug for a simple window downloading more stuff for the game."
+posted,item_id,recommend,sentiment_analysis
+2015-03-16,261570,True,2
+2016-03-29,372000,False,1

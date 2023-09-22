@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-23,269210,True,"Very fun, casual game. For the price tag it's good value"
-2014-04-25,730,True,"Great game, great value"
-2013-12-17,8190,True,"The missions are dull, but the open world and multiplayer are awesome"
+posted,item_id,recommend,sentiment_analysis
+2014-07-23,269210,True,1
+2014-04-25,730,True,2
+2013-12-17,8190,True,2

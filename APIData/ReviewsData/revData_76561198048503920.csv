@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-11,104900,True,Don't trust the Metacritic score. This game is absolutly amazeballs.
-2014-04-05,440,True,play dis game unless ur a n00b
-2016-06-16,224540,False,Private meeting with the school ped was more fun than this.
+posted,item_id,recommend,sentiment_analysis
+2014-05-11,104900,True,0
+2014-04-05,440,True,0
+2016-06-16,224540,False,2

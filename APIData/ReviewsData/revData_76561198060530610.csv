@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-16,570,True,Bots all day.waste dollarcarry mad at me as support 11/2carry says: 'u dont kill any1 m8 just let me kill'me: i can kill anyone scrub #rekt
-2015-04-24,322170,True,The only game that loses my boredom.
-2015-09-01,730,True,"OKAY THIS IS THE REAL REVIEW OF MINE.I started playing CS:GO somewhere in 2014. It was fun at the start, also competitive with stupid silvers (no offense to those silvers who are new im also silver 1 but with big ♥♥♥ stats). Let me talk about competitive5v5 IS INTENSE! I LOVE IT. YET PEOPLE IN SILVERS DON'T KNOW HOW TO COOPERATE.WHY I'M STILL SILVER 1 FOR 2 MONTHS? OH CMON I KEEP PLAYING THIS GAME ALL DAY."
-2015-05-14,271590,True,This game is full of 'cheats' in online. RIP my gta 4mil money
+posted,item_id,recommend,sentiment_analysis
+2015-05-16,570,True,0
+2015-04-24,322170,True,0
+2015-09-01,730,True,1
+2015-05-14,271590,True,1

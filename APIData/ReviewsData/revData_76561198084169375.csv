@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-06-12,218230,True,you can go in a space ship and go vroooooooooooooooom
-2014-09-11,240,True,0/10 No sauce to be found ♥♥♥♥ing liars
-2014-07-24,10500,True,It's time to kick those tea drinking pomie ♥♥♥♥♥ out of murica m8
-2014-07-24,570,False,Leauge of leggins is bested
-2014-09-11,730,False,0/10 needs more hats
+posted,item_id,recommend,sentiment_analysis
+2013-06-12,218230,True,1
+2014-09-11,240,True,1
+2014-07-24,10500,True,1
+2014-07-24,570,False,1
+2014-09-11,730,False,2

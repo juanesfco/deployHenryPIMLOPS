@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-14,234000,False,"This game is poorly designed, so much so that i finished the first level by literally just holding left, and pressing the lump button twice. no skill is needed for that, but to even attempt the game normally, you need to have the most precise movements to land where you want to, but the problem with that is its almost impossible to move one or two steps to the left, without careening too far off the ledge and having to try and get on the right spot again. Game is simply waaaaay to fast, level design and gameplay looks like my old project from my grade 11 game design course, in other words, so basic, bland and generic that all you have to do is change the sprite of the main character and you can make the game anything you wish, and nobody would care. Absolutely horrifying, and would never recommend buying this game, even for 20 cents."
-2014-10-06,245470,True,"Such a fun game, accidentally removed religion from the country and capitalists became extremists because of the level of social equality. Would recommend this to anyone who enjoys politics, or at the very least, wants to know a slight bit more about it."
-2014-06-23,230050,True,"while not very long, the satirical comedy and nice retro feel makes this indie game worth the buy"
+posted,item_id,recommend,sentiment_analysis
+2014-11-14,234000,False,1
+2014-10-06,245470,True,1
+2014-06-23,230050,True,2

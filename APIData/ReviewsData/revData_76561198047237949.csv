@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-12,8930,True,"Nuked India with a smile on my face1,000,000/10"
-2014-12-08,65980,True,Even though it feels like a mod for Civ 5. its Ai for the Aliens and (beware of the siege worm) the affinity models make for it. The victories in the game are great and are not one task making you interested from start to finish. But you shouldn't get this game at full price.
-2014-09-18,257710,True,For Gentlemen who like hats and booze
-2014-06-20,730,True,Killed a chicken10/10
-2014-06-08,35450,True,Great Game
+posted,item_id,recommend,sentiment_analysis
+2014-09-12,8930,True,2
+2014-12-08,65980,True,2
+2014-09-18,257710,True,1
+2014-06-20,730,True,0
+2014-06-08,35450,True,2

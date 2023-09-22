@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-25,240,True,GOOD GAME
-2014-08-25,730,True,BEST GAME EVER
-2014-08-20,304930,True,THIS GAME IS THE BEST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! THE BEST
-2014-02-21,440,True,THE BEST GAME IN THE WORLD
+posted,item_id,recommend,sentiment_analysis
+2014-08-25,240,True,2
+2014-08-25,730,True,2
+2014-08-20,304930,True,2
+2014-02-21,440,True,2

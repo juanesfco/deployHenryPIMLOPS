@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-08,4000,True,Great Game. Get it!
-2014-01-13,233720,True,Great Rage game :P
-2014-01-02,221640,True,It's a great game. Once you have a go of it you cant seem to stop. Very Addictive. Highly recommend it if you want to rage!
-2014-01-02,221100,True,Great game to play if you have heaps of time. Get it when you can its a really good game.
-2013-12-25,550,True,Great game for shooting zombie up.
+posted,item_id,recommend,sentiment_analysis
+2014-01-08,4000,True,2
+2014-01-13,233720,True,2
+2014-01-02,221640,True,2
+2014-01-02,221100,True,2
+2013-12-25,550,True,2

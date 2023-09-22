@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-01-09,206210,True,"love it, its basically tf2 but batman themed"
-2014-01-01,203140,True,desguising FTW!
-2014-01-01,219890,True,fun challenging puzzler
-2013-12-31,440,True,one of my best games
-2013-12-23,211820,True,EPIC minor glitch/bugs but apart from that it's a addicting game
-2013-12-07,105600,True,"it's a great game! but it does have it's bad moments; crashes, unfair deaths, losing saves ect. but in the end it's worth the cost for this great game!"
+posted,item_id,recommend,sentiment_analysis
+2014-01-09,206210,True,2
+2014-01-01,203140,True,1
+2014-01-01,219890,True,2
+2013-12-31,440,True,2
+2013-12-23,211820,True,0
+2013-12-07,105600,True,1

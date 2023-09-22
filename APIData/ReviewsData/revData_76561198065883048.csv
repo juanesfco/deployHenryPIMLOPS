@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-27,550,True,zombieeeeeeesss!!!
-2014-07-03,49520,True,:)
+posted,item_id,recommend,sentiment_analysis
+2013-12-27,550,True,1
+2014-07-03,49520,True,2

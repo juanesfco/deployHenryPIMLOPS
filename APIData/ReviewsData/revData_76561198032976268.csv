@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-24,207610,True,"Do yourself a favour and play this. An amazing story, and something I'll forever force upon my friends!"
-2015-06-15,239820,True,Accidentally poured 3 hours into this when I just wanted to change one thing... Very fun and addicting!
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,207610,True,2
+2015-06-15,239820,True,2

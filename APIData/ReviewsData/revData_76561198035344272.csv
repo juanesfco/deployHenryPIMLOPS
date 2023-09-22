@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-27,334230,True,"I've been playing this game since it first came out on browser, and i'm still playing it and loving it to this date.If that isn't convincing i don't know what is."
-2015-07-27,322330,True,"This game somehow makes starving to death fun...Don't try this at home kids, or anywhere else for that matter..."
-2015-07-27,304930,True,A poor man's DayZ
+posted,item_id,recommend,sentiment_analysis
+2015-07-27,334230,True,2
+2015-07-27,322330,True,0
+2015-07-27,304930,True,0

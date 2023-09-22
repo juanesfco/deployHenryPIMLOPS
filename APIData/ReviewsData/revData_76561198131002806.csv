@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-01,317360,True,This game is really fun and fast paced
-2015-08-01,253030,True,This game is really fun and a good way to waste time
-2015-07-24,295110,True,Good game.
-2015-04-07,264710,True,"This game is just beautiful and theres so much to explore, everyday I get on I always find something new to explore. Theres also so much life with all the animals and plants."
+posted,item_id,recommend,sentiment_analysis
+2015-08-01,317360,True,1
+2015-08-01,253030,True,1
+2015-07-24,295110,True,2
+2015-04-07,264710,True,2

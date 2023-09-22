@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-16,252490,True,This game is the best game i ever played =D
-2014-08-08,219740,True,so lonely =.=
-2014-08-08,218620,True,bankrupt ? wanna get some money with me ?
-2014-08-08,730,True,shooting the star
-2014-08-08,570,True,this is my life
-2014-08-08,236090,True,nice game
-2012-10-23,440,True,the best game i ever played
+posted,item_id,recommend,sentiment_analysis
+2014-06-16,252490,True,2
+2014-08-08,219740,True,1
+2014-08-08,218620,True,1
+2014-08-08,730,True,1
+2014-08-08,570,True,1
+2014-08-08,236090,True,1
+2012-10-23,440,True,2

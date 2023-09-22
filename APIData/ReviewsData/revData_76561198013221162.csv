@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-03,221020,False,Abondoned by devs
-2015-07-29,359320,False,"Slow and full of grindyness like a FTP MMO, and they are now introducing microtransactions."
-2014-04-26,212680,True,"Excellent, must have sim game"
+posted,item_id,recommend,sentiment_analysis
+2016-05-03,221020,False,1
+2015-07-29,359320,False,1
+2014-04-26,212680,True,2

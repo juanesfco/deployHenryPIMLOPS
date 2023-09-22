@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-05-29,4000,True,"Amazing game... Thats it, why are you still reading this :P"
+posted,item_id,recommend,sentiment_analysis
+2014-05-29,4000,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-15,730,True,"68/421 gr8 inroduction to Gambling, would recommend to anyone under the age of 420."
-2013-01-20,105600,True,i like this game
-2013-05-31,221380,True,BUY THIS GAME PLEASE. */-.-*
+posted,item_id,recommend,sentiment_analysis
+2015-02-15,730,True,1
+2013-01-20,105600,True,0
+2013-05-31,221380,True,0

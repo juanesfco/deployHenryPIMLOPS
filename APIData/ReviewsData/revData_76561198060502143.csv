@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-01,440,True,"Team Fortress 2, A marvel amoung games, Where gamers around the world come together to stab, burn, bludgen and shoot other people for no good reason. TF2 for me is like Christmas every day, it is fun, enjoyable and you get free stuff. It is one of those games that if it wasn't made life would be some much different, It would be like no Christmas, Easter or even your Birthday. So Yeah play it.                                                                      Rating 10/10"
-2013-12-01,4000,True,Garry's mod is possible the best game in history. i have wasted OVER 9000 hours f-ing around in sandbox mode creating contraptions of chaos and some times a scene or two. i would recommend this game to any gamer of any age because your never to old to act like a kid. i would rate it OVER 9000/100
-2013-06-12,240570,True,Pretty fun puzzle game for a demo and when you see guards you have to 'beat the crap out of every single one of em'
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,440,True,2
+2013-12-01,4000,True,1
+2013-06-12,240570,True,0

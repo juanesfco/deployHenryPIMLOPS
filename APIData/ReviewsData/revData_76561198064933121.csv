@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-26,35450,True,"Those who likes Hardcore or Realism mode FPS game, I recommend this game for you guys!"
-2014-05-06,10150,True,This game is old but it still awesome for me... try this ♥♥♥♥ and u will enjoy the shape-shifting game!
-2014-01-09,570,True,"Well...Dota 2 is the best game,it is fun,addictive and more action i guess...this one is a good awesome game I recommend to you guys to download it!"
+posted,item_id,recommend,sentiment_analysis
+2014-04-26,35450,True,0
+2014-05-06,10150,True,2
+2014-01-09,570,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-20,440,True,"El mejor simulador de sombreros, conga, bailes rusos, tradeo, etc..."
-2016-06-27,49520,True,"RPG + Shooter de primera persona + Una barbaridad de humor negro = A la joya de Borderlands 2Este juego tiene diversion escrito en todos lados, puedes lanzarle hachas ardiendo a un sujero con un brazo mas grande que el otro, puedes dispararle con una bazooka que al explotar hace una explosion nuclear, lanzale granadas a la gente que explotan y convierten la zona en un rio de lava/Zona de peligros quimicos/Alta electrocutasion, Disparale en el casco a alguien para que se vuelva loco y termine atacando a sus aliados, eso si, despues preparate para la corrida de toros de tu vida. Borderlands 2 tiene mucho de cierto material que buscas, tu ya me entiendes ¿no?....¿porque me entiendes verdad?...¡PO-¡DIVERSION! ¡ESTOY HABLANDO DE DIVERSION!"
-2016-01-03,730,True,"Antes de que lo empiezes a jugar te digo que necesitas aprender portugues ¿tienes el juego en español? da igual, aprende portugues aun asi.Muy buen juego, mi primera partida tuve un enemigo que usaba aimbot, pero aun asi buen juego"
-2015-10-10,355180,False,"Seria algo bueno...SI TAN SOLO PUDIERA JUGARLO, cumplo y sobrepaso los requisitos del juego, no pesa nada, y aun asi nada mas al darle click a jugar tarda lo suyo en abrir y al abrir (de milagro) se queda pegado un año entero en la pantala de loading del menu principal...."
+posted,item_id,recommend,sentiment_analysis
+2015-12-20,440,True,2
+2016-06-27,49520,True,1
+2016-01-03,730,True,1
+2015-10-10,355180,False,1

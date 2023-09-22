@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-02-19,203770,True,Crusader Kings 2... is a grande strategy game...
-2014-07-29,269030,False,This game was great. Look at my playtime. That is how long it took me to complete the game. Do I need to say anymore?
-2015-03-27,319630,True,"Every once in a while, a game comes around that you simply cannot miss playing. Life Is Strange is undoubtably that one game. You need to play it. You need to experience it. I just hope my life never gets this strange.."
-2014-11-02,218620,True,"Amazing game. Seriously, buy buy buy. I just binge played about 5 hours today with two friends. You will not regret this purchase, also all dlc is worth it, I find."
-2014-09-12,251570,False,"Don't get me wrong. 7 Days to die is fun, however I found it got boring really quickly. Maybe in the future when there are more features it will improve. I'm also not a fan of the graphics."
-2014-08-22,200510,True,"XCOM: Enemy Unknown is a great game, a really great game. I find it fun and challenging and the people who don't like it are not familiar with the complexity this game has to offer. I recommend you get it now on sale and I am sure that you'll enjoy it.Pros------ Decent AI- Fun Maps- Extreme Replayability- Graphics and Sounds are very well doneCons------- $40 is a lot to spend on a steam game- The AI can be annoying at times- It gets very challenging very quickly"
-2014-03-29,2400,True,"The ship is amazing, sure servers are laggy and hard to find and the graphics are outdated (but that makes it awesome) but single player is amazing and the AI is awesome. I definately recommend getting this game. 8.5/10"
-2013-12-25,238430,True,A good solid game. While it is still in Beta it is worth $10.00 and will probably go up in price with new updates. The only had sides I have found are its lack of maps. Most gamemodes have only a single map. Anyway it is a fun game and more content will be added.
+posted,item_id,recommend,sentiment_analysis
+2015-02-19,203770,True,0
+2014-07-29,269030,False,1
+2015-03-27,319630,True,0
+2014-11-02,218620,True,1
+2014-09-12,251570,False,1
+2014-08-22,200510,True,2
+2014-03-29,2400,True,2
+2013-12-25,238430,True,2

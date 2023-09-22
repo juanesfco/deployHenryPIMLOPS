@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-23,211820,True,Best Procedurely Generated Game Ever!Will Definitely Exceed Minecraft With Further Updates.
-2013-11-29,8930,True,"Great Strategy Game,At Its Best When Playing WIth Other Players."
-2012-10-22,440,True,"Intense FPS with great looking characters,weapons,hats and etc."
+posted,item_id,recommend,sentiment_analysis
+2013-12-23,211820,True,2
+2013-11-29,8930,True,2
+2012-10-22,440,True,2

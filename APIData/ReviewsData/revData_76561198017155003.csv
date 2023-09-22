@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-16,249630,True,"A uniqiue perspective on dungeon exploration games, simulating that vintage video game feel with a touch that reminds players of other classic franchises (Zelda). I could only add that maybe progression doesn't always feel rewarding, however the will to push forward already established by players (at the start) should be enough.I thoroughly enjoy playing this game, worth the purchase in my eyes."
-2014-07-16,440,True,"There's no denying that this is an amazing game, it has a replay-ability that little to no other games can offer, it also has a thriving community of fun loving, angry and competitive people.How don't you already have it?"
-2014-07-16,239820,True,"This game is strangely addictive, its oddly fun simulation of a video game developing firm explores a world of technology, human resources and creativity. At times it can be smooth sailing and others, a challange to make a sucessfull game and smart business moves.It's worth every dollar."
-2014-07-16,205910,True,"Words can express how much I enjoyed this game, It was AWESOME. I picked this game up out of the blue in a sale, only to be surprised by its wonderfully entertaining story, fun and challanging gameplay and interesting graphics. I only wish it was longer. A must play in my books."
-2014-07-16,224760,True,"A visually beautiful game, it creates a extremely interesting and dynamic environment by introducing the rotating perspective. It can however, get a little confusion/intimidatin but remains a overall fun game. Personal note: I found it more enjoyable using a controller, gave me a better feel for the game."
+posted,item_id,recommend,sentiment_analysis
+2014-07-16,249630,True,1
+2014-07-16,440,True,1
+2014-07-16,239820,True,1
+2014-07-16,205910,True,2
+2014-07-16,224760,True,2

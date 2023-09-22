@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-30,313160,True,"THe best game a lot more to do im into simulations and so far this is the best, the new feature Woodcutting which i have had experience with in the Forestry mod for 2013 i really like the whole new feature, it does take a long time to make money but thats life."
-2013-12-05,211820,True,This is the next generation of a platformer space travel game with a lot of different monsters and planets.
-2013-11-30,50130,True,"Its awesome, its like a gta based in the 40s-50s/60s after the WWII"
+posted,item_id,recommend,sentiment_analysis
+2014-10-30,313160,True,2
+2013-12-05,211820,True,0
+2013-11-30,50130,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-09,730,True,300 hours played: Still silver10/10 would recommend again
-2014-07-05,265630,True,10/10 i would definently pass the wiskey here
-2014-04-12,6880,True,good
+posted,item_id,recommend,sentiment_analysis
+2015-07-09,730,True,1
+2014-07-05,265630,True,1
+2014-04-12,6880,True,2

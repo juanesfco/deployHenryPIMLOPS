@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-06-16,242860,True,Is preeeeeeeeeee gooooo
-2015-04-12,236510,True,Why in the ♥♥♥♥ did I buy this game. Kill me with a spoon.
-2014-04-02,222880,True,This is a very ewll made game.
-2015-04-19,271590,True,Yeah na not bad
-2015-01-31,244930,True,"This is a pretty chilled game. (No pun intended). I like to play it whilst listening to music and relax. There are a few bugs and glitches, but that is to be expected from a game in BETA. Any way it's all round pretty fun."
-2015-01-20,33930,True,Really great game. Give it a go. It's really underpriced and DLC comes out quite a bit and its always free. Also there is a great worship community.
-2014-06-22,105600,True,Is good no
-2014-03-03,730,True,is guud
-2013-12-29,224260,True,Lots of glitches and a bit fustrating making/ joining a server. But Its okay. 5.5/10
+posted,item_id,recommend,sentiment_analysis
+2015-06-16,242860,True,1
+2015-04-12,236510,True,0
+2014-04-02,222880,True,1
+2015-04-19,271590,True,2
+2015-01-31,244930,True,1
+2015-01-20,33930,True,2
+2014-06-22,105600,True,2
+2014-03-03,730,True,0
+2013-12-29,224260,True,2

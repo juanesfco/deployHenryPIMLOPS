@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-06-15,251570,True,"This game is awesome. Its like minecraft and dayz combined, with the voxly box world this game utilizes, its like a more mature version of minecraft, without the high stakes and risk of losing your gear, unlike dayZ, 7days to die is more forgiving. Playing this game by yourself is good to see what you can build in the time but its even more fun to play with friends. Don't mistake this as minecraft though, i Find it brings a more personal touch to a survival game."
-2015-02-14,221100,True,I would recommend this game as it is good for fans of the old dayz mod for ARMA 2. Although there are many glitches and exploits this game is in early access and has definitely surpassed any early access game to date.
-2015-09-12,316010,True,Whats 1000 - 7? thats what this reminds me of ;P. It is still a decent game and the fact that it is the first free magic the gathering game is amazing :D. The only thing i dislike about Magic Duels are the deck building limitations.
-2015-09-12,218230,True,"Do you want to die alot? Do you want to rely on vehicles? Out of 10 want to get spawned killed? This is the game for you. Highly tactical, intense, massive, great game."
-2015-07-01,333930,True,This is an awesome game. May overtake team fortress 2. This game is an awesome shooter. You play as different classes and like blacklight retribution you need to spend time farming coins to unlock characters for ever or you can wait for monthly trial rotations of the characters. Is great to play with friends and solo.
-2015-07-01,222880,True,this game is a hyper realistic hardcore shooter. Only attempt this game if you are patient enough with dieing in two long range bullets to the body. Great strategical game although map design could be made clearer. Great game and i highly recommend this game.
-2015-06-15,730,True,"This is a great game, an fps tactical game that is more aim and team work than cod, 'run around and spray and pray hoping to god that the server lag is in your favor' Overall counter strike global offensive is a great map with a good community base, exammple the over watch, although the people you play with may be toxic or the best/funniest people to play with. Warning, if you play this game, and you seek short periods of fun, then casual and deathmatch are the way to go, that and arms race, don't play competitive match making if you don't have atleast 45 minutes to 1 hours worth of time for one game. Thats right, you need a lot of time to play competitive match making, let alone get good at the game that way. Otherwise i would recommend this game as it is enjoyable and not too over the top."
+posted,item_id,recommend,sentiment_analysis
+2015-06-15,251570,True,2
+2015-02-14,221100,True,1
+2015-09-12,316010,True,2
+2015-09-12,218230,True,1
+2015-07-01,333930,True,2
+2015-07-01,222880,True,1
+2015-06-15,730,True,1

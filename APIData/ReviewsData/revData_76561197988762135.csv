@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2011-07-03,7670,True,Just like a chocolate milkshake only crunchy!
-2010-12-18,22600,True,"They've done studies, you know. 60% of the time it rocks, every time."
+posted,item_id,recommend,sentiment_analysis
+2011-07-03,7670,True,1
+2010-12-18,22600,True,1

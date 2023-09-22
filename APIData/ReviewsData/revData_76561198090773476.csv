@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-28,107900,False,"Not the worst game. Lots of hackers but the gameplay is fun and good graphics! PAY 2 WIN, not been updated for years and crappy customer service. Do not reccommend"
-2014-11-06,224540,True,Yeah a pretty decent game if you have a decent computer. Can get boring in a couple of hours if you play it on end. I do recommend this game.
-2014-06-26,24240,True,Amazing Game. Great if you love FPS' and that kinda stuff! Highly Reccomend! Get it while its on sale!
+posted,item_id,recommend,sentiment_analysis
+2015-01-28,107900,False,2
+2014-11-06,224540,True,0
+2014-06-26,24240,True,2

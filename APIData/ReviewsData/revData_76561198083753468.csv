@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-07,4000,True,jogo bem loko =P
-2014-06-07,242760,True,"Muito bom esse jogo,a inteligencia dos inimigo é magnifica eles simplesmente ñ te atacam q nem uns doidos,fora os graficos lindos (claro o jogo contem varios bugs pois esta em alpha)mais eu acredito q esse jogo tem um belissimo potencial"
-2014-06-07,12120,True,"O que dizer de um belissimo classico dos games,esse game foi uma revolução nos  games de mundo aberto"
-2014-06-30,222900,True,Muito Showwwwwww
-2014-06-27,440,True,SHOWWW
+posted,item_id,recommend,sentiment_analysis
+2014-06-07,4000,True,0
+2014-06-07,242760,True,2
+2014-06-07,12120,True,0
+2014-06-30,222900,True,2
+2014-06-27,440,True,1

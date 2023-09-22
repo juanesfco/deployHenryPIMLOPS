@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-07,497180,True,"Absolutely adore this game. Very unstable so far, but if that doesn't bother you then it's worth it. Especially given the cheap price. Hopefully one day workshop comes to this game."
-2015-05-29,374570,True,"10/10 would watch Kung Fury beat up all of Nazi Germany and the Kung Fuhrer again.This is a heartfelt story about a man avenging his partners death. Along the way he makes the most unlikely allies.There's romance, action, comedy and thrills to last a lifetime. A masterpiece of its time."
-2015-02-04,313120,True,"Fun game, missing lots of good content. Need more Wilson!!!!"
+posted,item_id,recommend,sentiment_analysis
+2016-08-07,497180,True,1
+2015-05-29,374570,True,1
+2015-02-04,313120,True,2

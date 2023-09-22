@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-10-26,570,True,"Dota 2 is a game that is hard to pick up but very fun and awarding. There are many negative comments about the community being terrible and while they are partially true, they only  occur at a low level. That's why it's hard to pick up but very fun and awarding."
+posted,item_id,recommend,sentiment_analysis
+2013-10-26,570,True,1

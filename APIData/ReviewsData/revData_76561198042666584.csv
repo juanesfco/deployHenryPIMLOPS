@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-11-14,271590,True,"I always wanted to play GTA Online,By the time that happens, Nvidia crashed."
-2016-02-21,630,True,Burned my teammate alive while i was infested.10/10
-2015-11-14,218620,True,"Good Game,Only problem is the community.Because they kick you out, no matter what happens.At any reputation level, KICKReputation Level 100 Infamy 25, KICKDoes something correctly, KICKHave a Weapon skin that does absolutely nothing to affect stats, KICKHave a Weapon skin with stat boost, KICK (this one is obvious since about 90% of the community hates it so much)Asks a question, KICKSets up drill before the host does, KICKGets to escape van before host, KICKSeriously, either play with friends, or put your rooms to private or just leave the community.To be fair though, i still like Payday 2 despite OVERKILL breaking promises (probably because im an idiot). but i dont play payday 2 much since the comminity sucks now"
-2015-12-01,225540,True,"Well, looks like i have a rocket launcher...That destroys things into OBILIVION"
-2015-11-16,550,True,slicing off the leg of a zombie kills them instantly...mostlyi like.
-2015-11-16,730,True,'Unable to maintain a stable connection to the VAC System'omg pls help
-2015-11-14,206420,True,YAYSUPERPOWERS!
-2015-11-14,220240,True,Rocks will distract enemies who have not detected you.No matter what.
-2015-06-17,304930,True,Graphics is so good it distrupted my gameplay.Still a good game :D
+posted,item_id,recommend,sentiment_analysis
+2015-11-14,271590,True,1
+2016-02-21,630,True,1
+2015-11-14,218620,True,1
+2015-12-01,225540,True,1
+2015-11-16,550,True,1
+2015-11-16,730,True,0
+2015-11-14,206420,True,1
+2015-11-14,220240,True,1
+2015-06-17,304930,True,2

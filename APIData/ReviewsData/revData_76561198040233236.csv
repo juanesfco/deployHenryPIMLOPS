@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-04,236390,True,Just casually driving my tank down the street.... suddenly i crashed into a wooden bench and all of my crew died :(
-2015-04-11,355840,True,Good Graphic Easy Control User friendly Very Very Fun
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,236390,True,0
+2015-04-11,355840,True,2

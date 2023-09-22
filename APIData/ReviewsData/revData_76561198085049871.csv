@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-01,34900,True,This game is a truly abstract art which only some people will ever understand when playing it.
-2013-07-13,49600,True,nothing says fun more than earsex while having a seizure!
-2013-11-29,39140,True,Awesome game! Great RPG with a very ineresting story!
+posted,item_id,recommend,sentiment_analysis
+2014-01-01,34900,True,0
+2013-07-13,49600,True,2
+2013-11-29,39140,True,2

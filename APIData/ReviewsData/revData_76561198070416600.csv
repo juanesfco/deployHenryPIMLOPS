@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-26,4000,True,Kind of ruined my life 10/10 would play
-2014-01-09,63380,True,Great game The kill hitler DLC made me angry alot of times buy it
-2014-09-18,306130,True,Super fun game most of the community is nice and when you get stuck on a World Boss/Dungeon/Quest there will be someone to help you. The only bad thing about this game is paying the subscription
-2014-10-16,273110,False,I tried to like it but I couldn't mainly because I dislike p2w games.
-2014-06-28,239200,True,Interactive lamps and chairs10/10 would play
-2014-02-15,250600,False,what is the aim of this game
-2014-01-05,261030,True,Get your feels on
+posted,item_id,recommend,sentiment_analysis
+2014-06-26,4000,True,2
+2014-01-09,63380,True,1
+2014-09-18,306130,True,1
+2014-10-16,273110,False,2
+2014-06-28,239200,True,1
+2014-02-15,250600,False,0
+2014-01-05,261030,True,1

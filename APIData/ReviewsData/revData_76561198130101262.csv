@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-03,218620,True,"Such a great game, its a very unique bank heist type game. Its far better than payday1 and it has lots of levels and guns and modifications you can add to your weapons and body armour and different masks, you won't get bored of this game for a long time."
-2015-11-14,377160,True,"Great game, so many things to do, and so far haven't encountered one bug or glitch so great work Bethesda. Its my first fallout game so I can't really compare it to other fallout games but one thing I can say is that the Graphics are awesome and I don't know why a lot of people are complaining and saying they look bad when they don't"
-2015-09-07,287700,True,"Metal Gear Solid Phantom Pain is the first MGS game I have played and I love it! Awesome stealth game and if you don't want to do stealth you can go in loud and call helicopter support to kill everyone and take over bases, the customization with your Motherbase is amazing and the things you have to develop etc are endless, theres so many weapons and items and gear and you can even have a pet Wolf! Being able to kidnap any enemy or animal is also another unique feature, all you do is put them to sleep then attach the Fulton Parachute Device and it shoots them right up into the sky and then is collected by your helicopter and taken back to your Motherbase. You can also control all of your staff members and recruits plus you can raid other people's motherbases, the possiblities are endless and the game is amazing 10/10"
-2015-12-27,107410,True,"Great game with high replayability especially if you play on the Life servers which was the only reason I bought Arma 3, I've put about 450 hours into this game on my other account and it was well worth it"
-2015-12-05,730,False,"Boring game and very hard to get into, people say its an extremely realistic shooter but in my opinion its far from that, so many times I have tried to get into it but I just can't. I'm a huge FPS shooter fan and used to love Call of duty but quit playing it a few years ago, Battlefield is where its at though and that is a true FPS game"
-2015-08-01,333930,True,Great game and very addictive
-2015-06-06,346110,True,"Bloody awesome game, amazing graphics and it has so much content its crazy that its only in Alpha, I've only played a few hours so far and I love it. People may say its just like Rust but its actually so different to Rust, being able to Tame a gigantic dino and ride it around on a huge map that is probably about 4x the size of Rust is incredible and not only do you have to worry about People raiding your base but the main factor is Dinos being able to raid your base as seen in the trailer. At first I didn't think I would like it from the youtube videos but it is bloody amazing and I highly recommend it to anyone."
+posted,item_id,recommend,sentiment_analysis
+2014-07-03,218620,True,1
+2015-11-14,377160,True,2
+2015-09-07,287700,True,2
+2015-12-27,107410,True,1
+2015-12-05,730,False,1
+2015-08-01,333930,True,2
+2015-06-06,346110,True,1

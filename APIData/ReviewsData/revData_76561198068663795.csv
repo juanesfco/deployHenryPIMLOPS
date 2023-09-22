@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-27,440,True,"Juegazo: Armas, Mapas, Workshop para aportar articulos, Gorros y más.Sinceramente es uno de los mejores F2P FPS.No se necesita una Alienware, yo tengo una PC sin tarjeta grafica y la calidad al máximo es suficiente para disfrutar miles de horas de juego.Lo recomiendo ;)"
-2015-07-08,333930,False,un cancer
-2015-07-09,304050,False,"y mira que puedo decir.... no carga nunca los servidores y aparte hay que registrarse en una pagina en otras palabras, es un cancer"
-2015-08-27,70000,True,"Tiras cabras, puedes explotar como un dinosaurio del tamaño de tu pie, tiene dinosaurios nazis 10/10 volveria a explotar denuevo"
-2014-12-17,4000,True,"Muy divertido, en especial cuando se juega con amigos =DLo recomiendo ;)"
-2014-07-17,291480,False,If you live in Argentina...This is the worst game ever 
+posted,item_id,recommend,sentiment_analysis
+2015-06-27,440,True,2
+2015-07-08,333930,False,1
+2015-07-09,304050,False,0
+2015-08-27,70000,True,1
+2014-12-17,4000,True,2
+2014-07-17,291480,False,0

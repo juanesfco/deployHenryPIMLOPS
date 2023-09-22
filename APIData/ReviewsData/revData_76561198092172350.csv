@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-05-29,261030,True,"This is a really good game, just has one problem for meI recently switched for windows 10 to Ubuntu gnome because I prefer linux and then I realized that none of the walking dead games have linux support, I know its not hard to add linux support and in fact should be easy once you havedeveloped mac support, mac is essentially linux with some locks on the OS, so TellTale could you please add linux support, Thanks =)"
+posted,item_id,recommend,sentiment_analysis
+2015-05-29,261030,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-02-04,208090,True,Its a pretty fun game.. The graphics are nice and awesome! ^_^ And one of the best parts that i love about this game is that we can customize guns and especially the gore!
-2013-04-03,550,True,THIS GAME IS SO AWESOME!!! IM TOTALLY ADDICTED TO THIS!! EVERYONE SHOULD BUY IT! I HIGHLY RECOMMEND IT!!^^
-2013-07-18,218230,True,Its awesome!
-2013-07-18,230410,True,Its Fun! :D
-2013-07-18,620,True,Amazing.. Simply amazing..
-2013-04-03,440,True,Its a fun and very addicting game... everyone should try it!
+posted,item_id,recommend,sentiment_analysis
+2014-02-04,208090,True,2
+2013-04-03,550,True,1
+2013-07-18,218230,True,2
+2013-07-18,230410,True,2
+2013-07-18,620,True,2
+2013-04-03,440,True,1

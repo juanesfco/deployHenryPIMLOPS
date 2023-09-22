@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-12,251630,True,"♥♥♥♥ing cancer, crashes every 30 minutes. heaven can suck my ♥♥♥♥"
-2015-02-06,335240,True,"this gaem wuz 8/8 m80's i hiley rekimand thees gaem so dl it naowIn all seriousness, the game is fantastic, it's great for having a bit of fun with mates, sometimes the troll shamans get annoying, but when you've got a good shaman, you can have a great time and lots of fun. Of course the game still needs a lot of work, but so far, great game.7.4 / 10"
-2015-01-26,265930,True,gg
-2013-11-28,105600,True,Plain awesome.
+posted,item_id,recommend,sentiment_analysis
+2016-05-12,251630,True,1
+2015-02-06,335240,True,2
+2015-01-26,265930,True,1
+2013-11-28,105600,True,2

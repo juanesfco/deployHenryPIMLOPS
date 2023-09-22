@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-21,730,True,Very Competitive and Fun To Play
-2013-03-30,440,True,This game is awsome !!!!!
-2016-03-23,202970,True,Last Good COD Game.
-2015-05-10,248570,True,"From running, punching, kicking, jumping, sliding, freerunning, jousting  you canjsut about anything in this game :D :D"
-2014-12-27,300,False,"It might be realistic, but the community is utter ♥♥♥♥. You got old men who think they know all about the game. And ♥♥♥♥♥♥ admins telling you not to quickswitch, for no reason. While, the gameplay is absolutely amazing, the community just ruins the game's reputation. Do Not Get This Game (Unless you want to belong in a community where WW2 ♥♥♥♥ gather)."
+posted,item_id,recommend,sentiment_analysis
+2014-12-21,730,True,2
+2013-03-30,440,True,0
+2016-03-23,202970,True,1
+2015-05-10,248570,True,2
+2014-12-27,300,False,1

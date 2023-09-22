@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-16,207610,True,"First of all, I had no idea what this game was about or how the gameplay worked. I've never played an interactive story telling game before so at first i was a little unsure. After about a halfway through the first episode I was starting to like it. Never in a game have i been so attatched to a game character and even though there isn't much gameplay, the story well makes up for it.Really like how the game changes on your decisions and there can be multiple outcomes. If you like action games then this isn't for you. I however really liked it. This game is not afraid to show things other games wouldn't. Lots of fun and definitely worth playing."
-2014-01-12,236090,True,"This game is excellent. I hadn't really played a 2d platform combat game, however this one got me hooked. Very responsive controlls, great combat, lovely art style, good story line and the music is just beautiful, very immersive and really complements the location. Nice upgrades and new abilities and decent gameplay lenght. This game is definetly worth playing. 8.5/10"
+posted,item_id,recommend,sentiment_analysis
+2014-03-16,207610,True,1
+2014-01-12,236090,True,2

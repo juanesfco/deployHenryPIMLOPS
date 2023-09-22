@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-06,440,False,"It's quite sad that I've had to come to writing this review. I've invested 600 hours of my life into this game, yet I am still terrible no matter what class I play. Tf2 has been a great ride. I was late to the game, arriving to steam in early 2015. Obviously, as most people do, I picked up TF2 first. Being a console player at the time, I was amazed at the game being free. I played about 6 hours all at once when I first played, and was addicted. I played like that for 1 whole year. Obsessed. Then suddenly, in late 2015 (I think) Gun Mettle happened. This changed up the game alot, with a bunch of up and downsides, although I loved the new map, Suijin. They CS:GO-ified TF2 a little, although I didn't care, and continued playing the game. The next major update was Tough Break, which in my opinion, wrecked the game. Nevertheless, I kept on playing, having fun on pubs. Pubs. Valve servers. In this very recent update Valve removed Valve servers, and replaced them with casual mode. It isn't very casual though, as it's a big hassle trying to get into a game, and it doesnt let you pick your own game. I like to pick a game with low latency and about 20 people playing. I like the new hud, but casual is trying way too hard to be competitive. Recently I have decided to quit TF2. This is an extremely sad thing for me to do, but I no longer find this game enjoyable. I do not recommend this game to my fellow steam users. Thank you for reading my review on the game Team Fortress 2."
-2016-06-23,20,False,It's absolutely dead.
-2016-08-13,275850,True,You get used to 20 fps with constant drops.
+posted,item_id,recommend,sentiment_analysis
+2016-08-06,440,False,0
+2016-06-23,20,False,0
+2016-08-13,275850,True,1

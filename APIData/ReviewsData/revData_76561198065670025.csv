@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-11-29,730,True,So amazing... Must get!10/10
-2013-12-24,220200,True,"Great Game, only just added it to steam but I've played like 100+ hours before that really great game."
+posted,item_id,recommend,sentiment_analysis
+2013-11-29,730,True,2
+2013-12-24,220200,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-12,730,True,Like trying to write an essay without a pencil. Don't open cases 10/10
-2015-08-28,333930,True,"Glitches Everywhere, Elite Cases Cost To Much, Takes To Long To Get Cash, The Class System Is Unbalanced10/10 Would Recommend (Legit This Game Is Fun)"
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,730,True,1
+2015-08-28,333930,True,1

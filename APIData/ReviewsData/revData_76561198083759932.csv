@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-08,227940,False,"deveriam colocar mais opções para diminuir os graficos, achei o jogo em si legal  "
-2014-08-01,301520,True,"Cara esse jogo é fantástico, colocando mais mapas o jogo vai ficar muita mais legal, eu aconselho muito esse jogo.Construir e ir para a batalha com o que você fez é muito divertido, isso exerce muito a imaginação, serve pra qualquer idade.(Menos o chat dos BR isso sim que é coisa pra +18)"
+posted,item_id,recommend,sentiment_analysis
+2015-02-08,227940,False,2
+2014-08-01,301520,True,2

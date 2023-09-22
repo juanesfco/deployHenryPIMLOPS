@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-07-27,251570,True,This Game Amazing
-2016-04-29,333930,True,Love this game nothing to hate about it except when the medic runs right over u and ur down WTF MEDIC!?!?!
-2015-11-17,370100,False,this game is terrible the guns suck and its stupid.
-2015-12-27,346110,True,love the game and how it is how it acts is amazing the way u can craft is awesome and the way u can tame and ride animals thats one of my favoite parts about the game but its kind of upsetting when they arnt able to be ridin but the game is still amazing 10/10 cant wait to see what updates are next.
-2015-12-22,393420,False,I dont like this game and the reason for why 1 health System u can die very easily/fast 2 hard to get items because u keep getting spawned camped and 3 after playing for like 1 hour u start to get board of just getting spawned killed or the game in general
-2015-01-30,313120,True,the lag is insane i have 2 say and i think this game needs co-op with it
-2014-04-01,224260,True,Its got alot of cool stuff that u can do like shoot zombies get guns and sometimes there are unlimted ammo servers and sometimes there are !guns servers ITS FREE FOR ALL SYSTEMS GET ITYAY
-2016-01-03,407510,False,Devilian ruined everything for me all of my friends play it i play it sometimes but there addicted to it and now i cant play with anyone devilian F you this game is pretty much diablo but diablo was a game i liked to play and play it alot u copyed diablo and it makes me mad because i loved diablo and i played it a bunch i look at what my friends are playing almost everyday its devilian devilian ruined my life good job developers.
-2016-01-03,730,False,got VACed
+posted,item_id,recommend,sentiment_analysis
+2014-07-27,251570,True,2
+2016-04-29,333930,True,0
+2015-11-17,370100,False,0
+2015-12-27,346110,True,2
+2015-12-22,393420,False,0
+2015-01-30,313120,True,0
+2014-04-01,224260,True,2
+2016-01-03,407510,False,1
+2016-01-03,730,False,1

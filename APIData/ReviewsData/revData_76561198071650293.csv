@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-10,304930,True,This game is like a mix of day-Z's game play and feel but with a twist of minecraft's looks and at times (not mutch) house bilding simulator
-2013-12-13,218230,True,this game is the best game i have played
+posted,item_id,recommend,sentiment_analysis
+2014-09-10,304930,True,0
+2013-12-13,218230,True,1

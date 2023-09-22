@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-02-02,250180,True,"Exelente juego para revivir bueno momentos en la que no comprabamos lo que nos mandaban, para ir a gastarlo en esta saga de juego que a todos nos gusto y lo mejor es que podes jugar con un amigo que tenga la experiencia en jugarlo10/10 :D"
-2016-06-17,221040,True,Uno de los mejores que ha salido y promete muchas cosas...ademas podes jugar al modo historia u otros modos con un amigo...Para entreterse 10/10 ya que posee 4 campañas de las cuales 3 podes jugar con un amigo..exelente juego exelente historia 10/10
-2015-11-27,217200,True,Hermoso clasico para jugar entre amigos y familia...muy entretenido que no sabes cuantas horas estuviste jugando XD
-2016-02-03,232090,True,"Hermoso juego...un cambio fuerte desde el killing floor 1, no tengo palabras...muy recomendable"
-2014-08-03,440,True,la verdad este juego te entretiene mucho...no puedo parar de jugarlo
-2015-06-20,218620,True,exelente juegaso para jugar coop con amigos..mucha accion y entretenimiento
-2014-08-26,63380,True,bastante bueno y con una excelente historia
+posted,item_id,recommend,sentiment_analysis
+2016-02-02,250180,True,2
+2016-06-17,221040,True,2
+2015-11-27,217200,True,2
+2016-02-03,232090,True,2
+2014-08-03,440,True,0
+2015-06-20,218620,True,2
+2014-08-26,63380,True,2

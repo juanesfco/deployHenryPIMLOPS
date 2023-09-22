@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-12-30,360640,True,On sale you can profit from this cards free drop trading cards. 5/7 would profit.
-2015-09-13,375950,True,I find this game slow to start up considering how simple it is. Once in game I guess it's a nice little relaxing environment with you and your pot plants. +You can choose what your pot looks like-Slow start up-Can't kill snail-You have to pay to get lots of cool plant seeds-Killed my pot plant because I overwatered it. (Pro-tip stop watering once your plant is 'Sated')
-2015-09-12,249130,False,"I may be an idiot, but this game makes it very difficult to know what to do next. I've spent at least 10 minutes one time trying to work out how to get past a fence. It's great if you like the Avengers series, but I think it needs to be more user-friendly."
-2015-09-12,363970,True,"I don't know why I've played this game so long. It's good because you make money and progress without the game being open, but it takes time to progress. I find usually I gain 5-10 levels per day, which requires maybe 15 minutes of actual attention to the game."
-2015-09-12,265930,True,Possibly the best pointless game you will ever play. The gameplay is hilarious and it's a great way to relax and wreak havoc at the same time. (Recommended for short bursts of playing because you realise how much you're wasting your life about 30 minutes into each play.)
-2015-09-12,105600,True,"This game is great to play with friends, but I personally found was difficult to stay engaged with in single player. Either way it's still a solid game though. Great value when it's on special!"
-2015-03-30,730,True,"I'm really enjoying Counter Strike. It's a little hard to begin with, but still really fun!"
+posted,item_id,recommend,sentiment_analysis
+2015-12-30,360640,True,2
+2015-09-13,375950,True,1
+2015-09-12,249130,False,0
+2015-09-12,363970,True,1
+2015-09-12,265930,True,2
+2015-09-12,105600,True,1
+2015-03-30,730,True,1

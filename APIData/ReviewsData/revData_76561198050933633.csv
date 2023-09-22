@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-23,222880,True,"Amazing gunplay and so fun to play, 9.3/10!"
-2014-02-12,252490,True,"Great Game, Still needs updates but worth getting :D"
-2014-02-12,4000,True,"This is most fun i will ever have in a game, with many different game modes and sand box 9.8/10"
-2014-02-12,440,True,Great FPS play it all the time 8/10
-2014-05-10,223390,True,"Really Fun but not many poeple playing, but its worth it to download :3"
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,222880,True,2
+2014-02-12,252490,True,2
+2014-02-12,4000,True,1
+2014-02-12,440,True,2
+2014-05-10,223390,True,2

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-12-29,201810,True,"Surprisingly good story, great gunplay, good graphics, runs well. The writing and characterisation is great, makes you really want to shoot nazis. Also, the implementation of stealth was really well done: simple while still providing a bit of a challenge without becoming frustrating. And of course, you always have the option to just run in blasting your dual-wielded shotguns. Overall 10/10."
-2014-04-20,244710,True,"Sweet little game. Short, interesting, and a really cute visual style. You play as a mummy badger raising baby badgers. It's more fun than that sounds."
-2013-05-08,233270,True,Plays like FC3 but has giant neon dinosaur dragon things that shoot lasers out of their eyes.
-2013-01-25,205910,True,"Neat little platformer. Awesome art style and music, and interesting physics-based gameplay. Sadly it's a little short and very easy. Still A+."
-2012-07-12,8190,True,This game is insane. So much fun
-2011-12-27,57000,True,Really beautiful little platformer. It's quite short but worth it if you can pick it up for $5 or so.
-2011-10-10,63710,True,Twitch platformer with retro art style all set to awesome beats. What's not to love?
-2011-07-04,620,True,Amazing from start to finish
+posted,item_id,recommend,sentiment_analysis
+2014-12-29,201810,True,2
+2014-04-20,244710,True,2
+2013-05-08,233270,True,1
+2013-01-25,205910,True,2
+2012-07-12,8190,True,0
+2011-12-27,57000,True,2
+2011-10-10,63710,True,2
+2011-07-04,620,True,2

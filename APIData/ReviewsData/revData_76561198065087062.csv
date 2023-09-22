@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-14,359550,True,gooooooooooooooooooooooood
-2015-06-11,17410,True,goood game
-2013-12-13,242050,True,Så bra game !!!
+posted,item_id,recommend,sentiment_analysis
+2016-08-14,359550,True,1
+2015-06-11,17410,True,0
+2013-12-13,242050,True,0

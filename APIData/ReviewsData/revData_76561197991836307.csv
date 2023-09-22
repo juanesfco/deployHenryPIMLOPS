@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-07,261570,True,Nice game. Like Guacamelee (Which is probably derived from Metroidvania originally). Really nice graphics.Flaws: Slightly repeditive music; No fast-travel; Some mini-boss levels (Usually ending in a race of some sort) can't be revisited once you're through them (No 100% if you don't get things first-time through).
-2015-06-03,374570,True,I kept waiting for it to suck... It never did... and THEN some!
-2015-01-30,319630,True,Is Good!Has the teenage angst + mystery feel of Twin Peaks and Veronica Mars (Minus the humour of the latter!)... plus a time-travel schtick!With very atmospheric visuals and music.
-2014-02-22,214770,True,This is a tight little platformer with cool style.Highly enjoyable.
+posted,item_id,recommend,sentiment_analysis
+2015-07-07,261570,True,1
+2015-06-03,374570,True,1
+2015-01-30,319630,True,1
+2014-02-22,214770,True,2

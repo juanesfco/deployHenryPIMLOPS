@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-12-18,213850,True,"Was initially not impressed, but found it a great way to learn and it helps with attack practice."
+posted,item_id,recommend,sentiment_analysis
+2013-12-18,213850,True,2

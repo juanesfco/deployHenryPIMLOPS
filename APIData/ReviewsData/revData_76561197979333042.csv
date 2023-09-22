@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-18,222880,False,Optimization this game after few last updates is one big joke. FPS suddenly drops from 110-120 to 20-30 without reason. Low setting didn't changed anything. Waste of time.
-2016-01-07,236850,True,"Ostatnio miałem przyjemność grać w EU 2, dobre kilka lat temu. Pokusiłem się na 'czwórkę' i nie żałuję ani wydanej złotówki ani spędzonego przy niej czasu ;)"
+posted,item_id,recommend,sentiment_analysis
+2016-01-18,222880,False,0
+2016-01-07,236850,True,2

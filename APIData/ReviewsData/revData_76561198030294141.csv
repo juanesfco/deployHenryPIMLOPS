@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-21,325610,True,10/10 for not being rome 2
-2014-03-17,251870,True,washing machines in bathrooms are very convenient
-2013-12-21,31280,True,no pokies
-2013-12-21,214950,False,go buy shogur too
+posted,item_id,recommend,sentiment_analysis
+2015-03-21,325610,True,1
+2014-03-17,251870,True,2
+2013-12-21,31280,True,1
+2013-12-21,214950,False,1

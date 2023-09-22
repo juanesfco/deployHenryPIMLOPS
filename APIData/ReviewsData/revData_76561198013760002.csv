@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-01,234140,True,War Boys actually scream WITNESS ME when trying to explode you.10/10
-2014-04-30,243870,True,"Pretty fun game so far. Only issues are a lack of Australian servers. Not as good as Future Soldier, but it works in it's one way. Hey, at least it's free."
-2014-07-10,49520,True,Too. Many. Icons.
-2014-06-25,260230,True,"This is a truely heartwarming story. One of the best I've had the opportunity to experience.It is a fantastic game, with the unfortunate requirment of having to use uplay."
+posted,item_id,recommend,sentiment_analysis
+2015-09-01,234140,True,1
+2014-04-30,243870,True,2
+2014-07-10,49520,True,2
+2014-06-25,260230,True,2

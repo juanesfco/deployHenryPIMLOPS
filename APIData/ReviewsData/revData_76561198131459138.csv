@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-07,301520,False,gosh i hope the devs flag my review for being abusive tooits a terrible money grabbing unboxing simulator. that's all i have to say
-2016-05-09,570,True,better than LoL
-2016-02-26,322330,True,there goes my life
+posted,item_id,recommend,sentiment_analysis
+2016-07-07,301520,False,0
+2016-05-09,570,True,2
+2016-02-26,322330,True,1

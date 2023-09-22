@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-11,218620,False,Micropenis transactions.Yey jst wht we ndded.
-2015-11-27,417860,True,Le Me (Irl) : I CAN'T TELL HER HOW I FEEL!Le Me (Ig) : I CAN'T TELL HER HOW I FEEL!Le Game : YOU CAN'T TELL HER HOW YOU FEEL!Le Brain : I can't even understand why this wont let me say anything!
-2015-10-21,236390,True,"Lots of putin power.Fails at politics for being russia being the ruler, thats america.i think is gud."
-2016-08-02,211820,True,"I have never experienced a better game in a while, Starbound is a perfect mix of Sandbox and Questing.I will find better games, but this one has taken the lead by a long shot."
-2015-06-27,317400,True,I would reccommend this game for everyone with portal 2. It has the most amazing amount of story and gameplay it fits perfectly. The voices are quite real sounding as well!
+posted,item_id,recommend,sentiment_analysis
+2015-12-11,218620,False,1
+2015-11-27,417860,True,0
+2015-10-21,236390,True,1
+2016-08-02,211820,True,2
+2015-06-27,317400,True,2

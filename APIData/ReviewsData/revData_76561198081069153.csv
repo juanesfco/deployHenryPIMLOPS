@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-06-20,440,True,"This is an amazing game that more than 90,000 people like!Yes this is a fighting game but it is also a mess around game at the same time, like when a whole server does the conga.These are some of the things that you can do... nvm.FIGHT!"
+posted,item_id,recommend,sentiment_analysis
+2014-06-20,440,True,1

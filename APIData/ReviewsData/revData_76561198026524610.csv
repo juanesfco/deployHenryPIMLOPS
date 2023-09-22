@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-10,239140,True,"o jogo é bom, porém não me agradou tanto quanto eu esperava, a tela chacoalha mto, é interessante para imersão porém me deu dor de cabeça com 1hr d jogo."
-2016-04-10,310380,True,"jogo interessantes, porém é nescessário c acostumar com os comandos ligeiramente diferentes de outros jogos"
-2016-04-10,10,True,"otimo jogo, um dos jogos mais famosos."
+posted,item_id,recommend,sentiment_analysis
+2016-04-10,239140,True,2
+2016-04-10,310380,True,1
+2016-04-10,10,True,2

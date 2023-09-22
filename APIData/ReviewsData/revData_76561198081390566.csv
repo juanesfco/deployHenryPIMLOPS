@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-21,252490,True,Really fun but more fun with friends
-2015-12-05,259080,False,Awesome game but it started to crash every ♥♥♥♥ing time i try to join a server
-2015-10-26,303210,True,This game nearly made me cry Havent played a game this good in a while 10/10 Everyone needs to play it.
+posted,item_id,recommend,sentiment_analysis
+2014-10-21,252490,True,2
+2015-12-05,259080,False,2
+2015-10-26,303210,True,1

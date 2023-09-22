@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-01,730,True,Learnt how to speak Russian. Sweet
-2012-07-07,440,True,It's fun. I guess. Too many kids playing... But that's alright... I think... Maybe.. Probably
-2016-02-04,417860,True,Playing this game fills up my empty heart anti social life. This game makes me feel as if I actually have a friend...Kappa
-2013-09-15,204300,True,It's balanced. So it is gewd
-2013-07-27,620,True,Played Co-op and killed my friend over and over again. Never gets old!
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,730,True,2
+2012-07-07,440,True,2
+2016-02-04,417860,True,0
+2013-09-15,204300,True,1
+2013-07-27,620,True,1

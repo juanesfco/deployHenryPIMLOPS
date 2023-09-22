@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-22,235540,True,"Outstanding game, One of the best I have ever played so far. Vermintide really has some potential and I am positive that it will only get better and better from hear on out. It gives a new hope for the Warhammer Fantasy world since the devastating fall of Warhammer Online: Age of Reckoning, which I loved to bits.Warhammer: The End Times - Vermintide will not disappoint YOU!"
-2015-09-17,274350,True,Beautiful just beautiful 10/10. If only everyone thought like Dropsy. <3
-2015-09-17,357480,False,Meh.
-2015-09-17,359050,True,"Simple, yet unusually entertaining!"
-2015-09-17,275610,False,"The idea of the game has potential, The camera is terrible and goes all over the place. Very glitchy and needs some TLC all in all the COULD be a good game but isn't."
+posted,item_id,recommend,sentiment_analysis
+2015-10-22,235540,True,2
+2015-09-17,274350,True,2
+2015-09-17,357480,False,1
+2015-09-17,359050,True,2
+2015-09-17,275610,False,0

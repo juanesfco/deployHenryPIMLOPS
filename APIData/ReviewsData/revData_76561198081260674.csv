@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-24,263280,True,I'll keep this plain and simple. All this game needs to make it better is steam workshop intergration and soon. This game does one thing and on thing only and does it well. It doesnt worry about fancy stuff. Its straight to the point. This is one of the best car simulators that is not a racing game. 7.5/10
-2015-01-21,255220,True,"From the first race i have never felt like this was a bad purchase. compared to the last game, Grid 2, which had an appauling handling engine that made every car serverely hard to control. but in this game they seemed to fix all the issues from the last. There are more event types (not just sprint and race), more tracks, more cars and dlc that is worth the purchase. The only way this title could be better is if it was less of a simulator, but then its not Grid anymore."
+posted,item_id,recommend,sentiment_analysis
+2014-09-24,263280,True,1
+2015-01-21,255220,True,1

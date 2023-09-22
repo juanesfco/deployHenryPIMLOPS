@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-22,440,True,this is a very fun and creative game to play ( clocked up over 1000 hours ) hope you will enjoy it as much as i did
-2013-12-30,250420,False,it was quite laggy
-2013-12-30,241600,True,"this is a good game to get, only problem is that i had to buy twice."
+posted,item_id,recommend,sentiment_analysis
+2014-05-22,440,True,2
+2013-12-30,250420,False,1
+2013-12-30,241600,True,1

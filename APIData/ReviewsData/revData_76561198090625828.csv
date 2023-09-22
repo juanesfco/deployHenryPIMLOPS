@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-02,204300,True,เกมส์ดีเสียตรงมันชอบ แลค
-2014-02-13,208090,True,หนุกแบบฮาๆ ไม่ซีเรียส เล่นฟรี ท่าเต้นฮ่ามากๆ
-2013-07-18,440,True,Goodddd
+posted,item_id,recommend,sentiment_analysis
+2014-03-02,204300,True,2
+2014-02-13,208090,True,2
+2013-07-18,440,True,1

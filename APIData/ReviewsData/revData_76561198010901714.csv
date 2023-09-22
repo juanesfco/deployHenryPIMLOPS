@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-26,261820,True,"Incredible atomosphere, music and gameplay. A must play if u love the half-life series. A cross between the TV show Lost and Half-life i seriously recommend this game for adventure lovers. Cons: a little short even tho it is act 1"
-2012-08-13,207570,True,"Incredibly challenging on the later levels, heaps of fun for such a simple game and an easy to learn. Would recommend it for people who love puzzle solving games."
-2012-07-19,24240,True,"A seriously fun game. Love the concept, this game requires team work and proper communication. Tactics, timing and precision is really necessary. This isnt your ordinary shoot'em up game! Highly recommend buying this with friends and playing with them."
-2012-06-27,94000,True,"Interesting storyline but not really a game more of a movie (20-25mins), buttons do absolutly nothing to progress the story, audio will continue as scripted regardless if u press a button or not.  Game playthrough footage can be found posted online by others, your better off watching it online than buying this as there is only one ending. However if money or value doesn't concern you then by all means purchase and support the developers."
+posted,item_id,recommend,sentiment_analysis
+2014-01-26,261820,True,1
+2012-08-13,207570,True,2
+2012-07-19,24240,True,1
+2012-06-27,94000,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-15,243870,True,"I love this game. Most people are used to FPS, not TPS, so they don't like it. It's a great game when you get down to it. Simple, but not too simple. It's perfect for a casual play."
-2016-07-09,1250,True,Good only if you're playing with friends through Discord or Skype. Alone is suicide.
-2016-04-05,242860,True,"Great game, but be cautious, pretty much all weapons are 1 shots"
-2014-06-27,236390,True,"Great game but if you want everything, it's gonna cost ya."
+posted,item_id,recommend,sentiment_analysis
+2014-11-15,243870,True,2
+2016-07-09,1250,True,2
+2016-04-05,242860,True,2
+2014-06-27,236390,True,2

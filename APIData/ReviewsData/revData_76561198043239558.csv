@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-06,242760,True,The Naked man who took my sons loin cloth glitch out it was a terrible sight ........................................... its like rust all over again.................................... by the way if your wondering .......................................... its small
-2014-04-21,204630,True,ah..............   where can i get some of this cereal.
-2014-04-06,265210,True,some how i enjoyed throwing dead elves around and would of been better if they had a proper ending like santa comes back or something
+posted,item_id,recommend,sentiment_analysis
+2014-06-06,242760,True,0
+2014-04-21,204630,True,1
+2014-04-06,265210,True,2

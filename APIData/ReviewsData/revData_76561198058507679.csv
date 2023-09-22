@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-25,730,True,very sway
-2015-12-19,393380,True,"Squad is a great game silimilar to pr. Yeah sure 40 dollars is alot to ask and pr is in a better state but the graphics on this create a really realistic atmosphere that PR fails to recreate. This is a game you can sit for hours paying and never get bored from the tactics you make and teamwork you use. Just some things to consider before buying, make sure you can run it. Besides that a really great game!"
-2015-12-11,221100,True,"This game has many faults that can be fixed:-Game bugz-Smoother play style (like arma)-Easier to get, guns and gear (because people dont want to spend hrs looking for loot)-A suicide button or command (that can be used even without a gun or weapon)-Regular updataes (this tells us you are still there)If these fualts or problems are fixed this game will be top ♥♥♥♥!!, and easily be the best game that everyone will enjoy playing again."
+posted,item_id,recommend,sentiment_analysis
+2014-10-25,730,True,2
+2015-12-19,393380,True,1
+2015-12-11,221100,True,2

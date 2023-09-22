@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-04-13,730,True,"CS: GO is a first person RPG strategy multiplayer top-down RTS MOBA teabagging simulator. 'Quite possibly the worst game I've ever played, the community is toxic, the graphics are terrible and the gameplay is the worst of any game in this genre. 9/10' - IGN1v1 me IRL on Rust quickscopes only."
-2015-08-22,239030,True,this game is ♥♥♥♥ing sick
+posted,item_id,recommend,sentiment_analysis
+2015-04-13,730,True,0
+2015-08-22,239030,True,0

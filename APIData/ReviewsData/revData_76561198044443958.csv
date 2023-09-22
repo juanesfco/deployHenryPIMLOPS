@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-23,8930,True,"Had a 2,000 year war with Germany just cause they wanted my second city, and when they finally allowed me to negotiate peace everyone else started hating them. skip ahead 2,000 more years the second war with germany has begun, hopefully it will end it all - 10/10 would fight wars again"
-2014-12-15,322920,True,"Spawned in thinking I was top ♥♥♥♥, but quickly got rekt by a T-rex I thought was from Jurassic Park, but was really just coming back from the gym. Like Skyrim with dinosuars - 10/10 IGN"
+posted,item_id,recommend,sentiment_analysis
+2015-01-23,8930,True,2
+2014-12-15,322920,True,2

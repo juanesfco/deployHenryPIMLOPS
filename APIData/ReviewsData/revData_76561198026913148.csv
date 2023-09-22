@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-08,252490,True,"I logged on and started logging, got chased around by some guy and his pantsless friends, fell in a hole broke both my legs then got my head bashed in by a neked with a rock... 10/10"
-2016-07-09,304430,True,"Just finished it. 2 hours in i was like 'I think i get this', the last hour: 'Who am i? where am I? What am I?'10/10 would flop again!"
-2015-10-09,104900,True,it was $0.01 when i bought it now look at it. Inflation at its finest... disgusting
+posted,item_id,recommend,sentiment_analysis
+2016-07-08,252490,True,1
+2016-07-09,304430,True,1
+2015-10-09,104900,True,0

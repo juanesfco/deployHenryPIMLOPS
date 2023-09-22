@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-02-02,72850,True,ERMAHGERD SKYRAM!
-2015-06-11,238320,True,"If you're a fan of steath based survival horror, then get this game. Simple as that."
-2014-02-18,211400,True,Puzzle Platformer; reminded me of Limbo. If you like puzzle platformers then this won't disappoint.
-2013-12-31,214560,True,Awesome game if you like stealth and playformers.
-2013-01-03,57300,True,Simply the best horror game ever.
+posted,item_id,recommend,sentiment_analysis
+2014-02-02,72850,True,1
+2015-06-11,238320,True,0
+2014-02-18,211400,True,1
+2013-12-31,214560,True,2
+2013-01-03,57300,True,2

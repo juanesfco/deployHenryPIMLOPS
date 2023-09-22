@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-28,252490,True,EPIC yep thats all i have to say
-2015-01-22,4000,True,good
-2012-09-29,57300,True,VERY GOOD INDEED its also VERY interactive and even though u have monsters chasing u its LOADS OF FUN!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-01-28,252490,True,1
+2015-01-22,4000,True,2
+2012-09-29,57300,True,2

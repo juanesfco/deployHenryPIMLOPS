@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-03-11,236870,True,10000000/10
-2014-03-18,20920,False,不行了……我受够了……这游戏太无聊了……整个游戏就是一种不明觉厉的状态
-2013-05-26,219640,True,cool
-2013-04-13,96300,True,aaaa
+posted,item_id,recommend,sentiment_analysis
+2016-03-11,236870,True,1
+2014-03-18,20920,False,0
+2013-05-26,219640,True,2
+2013-04-13,96300,True,1

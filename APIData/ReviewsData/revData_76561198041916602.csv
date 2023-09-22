@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-02,221100,True,"Got my clothes taken off, handcuffed and force fed banannas until i diedgame of the year 10/10"
-2014-01-19,218060,False,6/10 not comfy enough
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,221100,True,1
+2014-01-19,218060,False,1

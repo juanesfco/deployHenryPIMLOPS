@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-21,440,True,"10/10 would conga again'10 out of 10, now when do i get paid again?'-IGN"
-2015-01-10,220,True,Half Puzzels. Half Action.All story.
-2015-01-07,130,True,a great game if you love the half life series but is pretty short.- Now hurry there's no time to waste!
-2015-11-06,12110,True,"Have you ever tried bumper cars before? Don't worry, Vice City Polic Department will fix you up!"
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,440,True,1
+2015-01-10,220,True,0
+2015-01-07,130,True,2
+2015-11-06,12110,True,1

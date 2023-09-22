@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-07-20,250420,False,plays game does tutorial grows tumor on the ♥♥♥♥12/7r76856757
-2015-07-31,4000,True,Just started playing it
-2015-10-10,218620,True,i lobe da peydai puzzy
-2015-08-13,570,True,meh pretty fun if you need a pass time while you are on a low p que for league of ledgends.Id recomend it.
-2014-09-29,312990,True,extreamely testostoronely 
-2014-03-01,212070,True,ITS AWSOME GET THIS GOD DAMN MUDA ♥♥♥♥♥ GAME
+posted,item_id,recommend,sentiment_analysis
+2015-07-20,250420,False,0
+2015-07-31,4000,True,1
+2015-10-10,218620,True,1
+2015-08-13,570,True,2
+2014-09-29,312990,True,1
+2014-03-01,212070,True,0

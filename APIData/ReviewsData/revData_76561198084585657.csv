@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-15,304930,True,It's a great game but my only problem is that I was playing on my favourite  server when an admin came on and started killing everyone and banning everyone for no reason.
-2016-01-02,301910,False,"I dont recommend this game to anyone looked at my played time 26 nminutes and i cant stand the game i have all the saints row games and i have to say the best is saints row 2 the creators of the saints row series went the wrong way when they added super powers saints row gat out of hell is not a good game they need to go back to the classic saints row games like 1, 2, & 3."
+posted,item_id,recommend,sentiment_analysis
+2016-04-15,304930,True,2
+2016-01-02,301910,False,1

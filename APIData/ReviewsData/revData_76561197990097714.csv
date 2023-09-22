@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-04,359550,True,The biggest flaw this game has is the fact it is on Ubisoft servers.
-2014-07-26,222900,True,"WASD to move, Q/E/R/F ARE YOUR SKILLS (F being ultimate),  left/right click light/heavy attack and C to change between melee/ranged."
+posted,item_id,recommend,sentiment_analysis
+2016-01-04,359550,True,0
+2014-07-26,222900,True,1

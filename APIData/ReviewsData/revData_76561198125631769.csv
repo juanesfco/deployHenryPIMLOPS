@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-07-22,570,True,*Downloads Dota**Gets in first game**Dies alot**Team rages**Exits**Deletes Dota*10/10 for community.
-2014-11-04,250900,True,Now this I can fap too.
-2014-10-08,730,True,"If you don't have this game, you may be mentally challenged. If you aren't, buy it now."
-2014-10-08,268420,True,Has a really nice feel to it. I'm not really an anime watcher/player but the graphics feel nice and I'm enjoying it so far.
-2014-07-22,304930,True,It's bootyful.Made by a 16 year old and better than alot of games made by big companies.
-2014-12-07,39120,True,It's practically free WoW but with a smaller community.
-2015-01-03,334230,True,"Great strategy game, fun for hours on end, community is great except for when you find scrubs who just lynch with no evidence, even when they are town."
-2014-10-24,305260,True,"Good little time waster, good to play when waiting for a download or something for a short period of time."
+posted,item_id,recommend,sentiment_analysis
+2014-07-22,570,True,2
+2014-11-04,250900,True,1
+2014-10-08,730,True,0
+2014-10-08,268420,True,2
+2014-07-22,304930,True,2
+2014-12-07,39120,True,2
+2015-01-03,334230,True,2
+2014-10-24,305260,True,2

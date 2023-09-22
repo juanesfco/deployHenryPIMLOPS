@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-29,570,True,"Hey, you should get this because its free. Ive put in 100 hours but im still kinda sh**"
-2014-06-28,238460,True,Buy this just to look at the climbing animation. Worth it
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,570,True,2
+2014-06-28,238460,True,2

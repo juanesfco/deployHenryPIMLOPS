@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-29,290770,True,wow this was an interesting short game. dat end twist though
-2014-04-17,270550,True,bloody interesting game this one personally think that running around rather than boxing one's self in is the way to go
+posted,item_id,recommend,sentiment_analysis
+2014-07-29,290770,True,1
+2014-04-17,270550,True,0

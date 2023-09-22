@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-12-30,278080,False,"Welcome to DYNASTY WARRIORS 8: Xtreme Legends Incomplete Edition with last gen port (Xbox 360/PS3). Graphics quite worse. DLCs are overpriced, although most of them are skins and costume. You can't change costumes in Story mode, only in Free/Ambition/Challenge mode."
-2016-01-18,218620,False,*Bane's Voice* I'm a simple man. I see microtransactions i downvote.
-2015-11-25,232090,False,*Bane's Voice* I'm a simple man. I see microtransactions i downvote.
-2016-03-07,388410,False,"To Nordic Games. Thank you for your key so i can write this review. The deathinitive edition still have micro stutter(tested on GTX 770 and GTX 960), crash, missions bug, texture bug.etc...Yes the game is playable (if you lucky enough) but DE seems to be abandoned. I didn't hear any news from them (the last patch was still BETA since Nov 15 2015). If you can just grab the original game. It's a good game but i hope DE can take some time to continue to fix it.Update: for those who asking 'you only play a few hours. Why you you give negative review ?'. I love darksiders franchise and i owned the original game. It's more stable than the deathinitive edition. I try my best to play but it crash 5 - 6 times in 1 hour. Now i know why they highlight 'Death' edition."
-2016-05-14,379720,True,"'Hell, It's about time.'"
-2015-04-14,271590,True,The best pre-order decision i ever made !
-2015-03-30,311730,False,"Continued of the 'success' Dynasty Warriors 8 Incomplete edition. May i present to you DEAD OR ALIVE® 5 Last Gen. After delayed in order to provide players with 'the best experience possible.' there are will be no extra stages, because it port from last gen (PS3) so no soft engine, less graphics. And get ready for tons of overpriced dlcs (right now $462.38 USD)."
+posted,item_id,recommend,sentiment_analysis
+2014-12-30,278080,False,2
+2016-01-18,218620,False,1
+2015-11-25,232090,False,1
+2016-03-07,388410,False,1
+2016-05-14,379720,True,1
+2015-04-14,271590,True,2
+2015-03-30,311730,False,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-10-09,440,True,"Just, play it, and ull feel the magic :D"
-2013-11-21,620,True,"Excelente, Me encanta la psicologia de los personajes y el Juego :D"
+posted,item_id,recommend,sentiment_analysis
+2013-10-09,440,True,2
+2013-11-21,620,True,2

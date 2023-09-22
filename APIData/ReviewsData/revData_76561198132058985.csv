@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-19,248570,True,I enjoyed it.
-2014-06-30,241600,True,ecccccchhhh
+posted,item_id,recommend,sentiment_analysis
+2014-07-19,248570,True,2
+2014-06-30,241600,True,1

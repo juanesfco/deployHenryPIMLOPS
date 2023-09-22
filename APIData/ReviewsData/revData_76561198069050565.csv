@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-29,238960,True,Awesome game so cool like diablo 3
-2014-11-14,246280,False,it will not launchplease fix this
+posted,item_id,recommend,sentiment_analysis
+2014-01-29,238960,True,2
+2014-11-14,246280,False,1

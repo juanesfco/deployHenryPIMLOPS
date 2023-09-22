@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-19,222880,True,Good
-2016-06-12,252490,True,Just like
-2014-12-26,48700,True,Game so good i love this game
+posted,item_id,recommend,sentiment_analysis
+2014-08-19,222880,True,2
+2016-06-12,252490,True,1
+2014-12-26,48700,True,1

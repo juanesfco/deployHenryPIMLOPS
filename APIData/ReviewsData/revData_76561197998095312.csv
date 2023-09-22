@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-15,298630,True,"If breaking out isn't your thing, try punching the guards and outrunning them."
-2016-05-24,730,True,"This game is an exercise in complex strategy and can be used to apply game theory as you attempt to outwit your enemy. It's like chess with guns and high framerates, where your reflexes and skill are the only thing keeping you alive; you need to dedicate your life to it, worship it, play it every day after work to improve your skill and become a champion.Or you could follow the plebs and p90 rush tunnels. That always works.10/10 would spend paycheck on keys again"
+posted,item_id,recommend,sentiment_analysis
+2015-02-15,298630,True,1
+2016-05-24,730,True,0

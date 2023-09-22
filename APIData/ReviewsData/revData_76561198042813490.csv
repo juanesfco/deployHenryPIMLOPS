@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-01,200260,True,Is there even any cons to this game?Do I even need to review this?10 outta ♥♥♥♥ing 10
-2014-12-25,206420,True,Robert Palmer? Whilst killing Aliens with rubber band guns? 10/10 best game ever
-2015-05-29,374570,True,Most 80's thing ever
+posted,item_id,recommend,sentiment_analysis
+2014-10-01,200260,True,1
+2014-12-25,206420,True,2
+2015-05-29,374570,True,2

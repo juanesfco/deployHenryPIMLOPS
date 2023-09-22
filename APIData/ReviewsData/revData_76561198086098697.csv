@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-01-11,220260,True,"Once you understand what to do, there is no stopping."
+posted,item_id,recommend,sentiment_analysis
+2015-01-11,220260,True,1

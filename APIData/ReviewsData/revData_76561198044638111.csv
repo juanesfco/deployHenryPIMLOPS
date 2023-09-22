@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-05,234190,True,"its a fun little game that is rather hard,dont expect to get to the ending."
-2015-11-20,417860,True,"MAN ♥♥♥♥ THIS ♥♥♥♥♥ EMILY,SHE BARELY KNOWS WHAT SHE WANTS HALF THE TIME,I SAY AND DO NICE STUFF FOR HER AND SHE'S MAD,I ACT RUDE TO HER AND SHE'S MAD,ARE THERE ANY GOOD ENDINGS TO THIS GAME WHERE WE GET TO ♥♥♥♥ OR SOMETHIN?"
-2015-08-26,223470,True,"a great education kids game which shows users the joys of being and adult and the responsibillities they must face as one by having to do things such as pick up the milk,get your paycheck and get a new alternator for your car 10/10 must have for any parent with a child hungry for education"
-2014-10-28,218620,True,they got rid of microtransactions
+posted,item_id,recommend,sentiment_analysis
+2015-12-05,234190,True,1
+2015-11-20,417860,True,1
+2015-08-26,223470,True,2
+2014-10-28,218620,True,1

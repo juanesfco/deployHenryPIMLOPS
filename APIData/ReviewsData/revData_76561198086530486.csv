@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-11,49600,True,epilespy
-2015-04-11,730,True,"very fun game, big and developing competetive scene. sometimes people r very toxic doe."
-2014-07-02,221640,True,hexagon
-2014-07-02,238460,True,came here for the hatz
+posted,item_id,recommend,sentiment_analysis
+2015-04-11,49600,True,1
+2015-04-11,730,True,1
+2014-07-02,221640,True,1
+2014-07-02,238460,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-28,570,True,"This game is similar to League of Legends but only have 1 map. You should try this and League of Legends to comare the two,some people say that dota 2 is more fun andother say League of Legends is more fun, but these two are really the same, so you should try both out"
-2015-03-26,218620,True,"THIS IS SPARTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, basically shooting cops in the facedo I recommend this?yes..."
-2015-01-18,206420,True,BECOME SUPERMAN!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-04-28,570,True,2
+2015-03-26,218620,True,1
+2015-01-18,206420,True,1

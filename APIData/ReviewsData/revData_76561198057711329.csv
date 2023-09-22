@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-29,242570,True,EPIC GAME
-2015-04-30,248610,True,"one of the best tatical games out there. getting to name each squad member is fun and each guy kinda gets a personality you make up. this game makes you feel like the comander of the operation ....such a good game just why have you not got it yet ??????PROS.  choice             lots of maps             looks great             simple controls,but you can set up complex plans             when your plan works so good you feel like a boss             music is the bestCONS.            not a lot"
-2015-04-25,9450,True,SPENT ALL MY CHILDHOOD ON THIS GAME
+posted,item_id,recommend,sentiment_analysis
+2014-08-29,242570,True,0
+2015-04-30,248610,True,2
+2015-04-25,9450,True,0

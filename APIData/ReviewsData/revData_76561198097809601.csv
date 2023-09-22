@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-31,201790,True,Very gud game but mi proz so easily beat this game :)
-2015-11-13,332500,False,this game is bad lelz 0.2 hours and there ya go :)
-2015-12-08,41070,True,Difficult game.. or maybe im just bad at video games
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,201790,True,1
+2015-11-13,332500,False,0
+2015-12-08,41070,True,0

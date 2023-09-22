@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-21,499440,True,"Very good puzzles, very short, but very cheap.Just as I thought it was getting hard, it finished, which is a shame, but it was $0.99 and in retrospect I'd happily have paid $2 for it.I have made friends buy it and they loved it too."
-2016-02-09,39500,False,"I can't give much of a review, but the game launched fine and seemed like it would work. The cutscenes were looking pretty standard for a game of its age, and I was getting pumped to enjoy the $2.50 I spent. When it got to actual user input, however, my input wasn't recognised (standard keyboard/mouse), other than WASD, Enter and Esc, and even then I suffered 3-4 seconds of input lag. I tried a number of fixes for this (apparently quite common) issue, and none worked, but I also didn't want to invest hours into a game I had just bought with the expectation that it'd run properly.I've got Win10, i5-6600K, 16GB RAM, a 980, and I installed on my HD, then tried the SSD (apparently one possible fix) to no avail.I've had this refunded quickly and easily, which is good, but it really shouldn't be necessary, and I would've loved to have played it because it gets rave reviews from the people who played it around release.0/10, unfortunately."
-2012-07-17,107100,True,"The combination of an emotional backstory, exquisite soundtrack and the most user-friendly and logical difficulty scale, as well as undeniably beautiful graphics makes Bastion the most beautifully crafted and engaging game that I have ever had the pleasure of experiencing.Five stars.96/100.I never want it to end."
+posted,item_id,recommend,sentiment_analysis
+2016-07-21,499440,True,2
+2016-02-09,39500,False,1
+2012-07-17,107100,True,2

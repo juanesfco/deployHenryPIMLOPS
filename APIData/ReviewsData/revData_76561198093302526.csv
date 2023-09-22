@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-04,416690,True,10/10Your Mother Has Butt Cancer and She is stone Dead.-17 HP
-2013-11-25,440,True,"If you like battle games that are less violennt and more funny (ish), Then this is the Game for you!"
-2016-01-01,730,True,This Game :Gr8 GraficsGr8 f(a)psGr8 funs.would pay and play again needs moar knifes6.9/5 ign
+posted,item_id,recommend,sentiment_analysis
+2016-01-04,416690,True,1
+2013-11-25,440,True,1
+2016-01-01,730,True,0

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-09-13,252490,True,"le voy a dar el comentario positivo,por que el juego me gusta, pero tiene problemas que me causaron no poder jugarlo desde que lo compre, tarda DEAMSIADO EN ENTRAR A LOS SERVERS: esta como 1 hora cargando y ni siquiera me termina de entrar al juego, estoy empezando a pensar que lo compre para nada..."
+posted,item_id,recommend,sentiment_analysis
+2015-09-13,252490,True,1

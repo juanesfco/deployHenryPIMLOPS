@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-02,241560,True,im not a racing fan but a open world racing game the crew ubisoft delivers
-2015-03-12,255710,True,better than simcity 2013. the little features in this that sim sity does not have makes this game outstanding and possible my favorite city building game to date
-2014-09-30,241930,True,"if you like games like skyrim, witcher and batman games then this is the game for you"
+posted,item_id,recommend,sentiment_analysis
+2014-12-02,241560,True,0
+2015-03-12,255710,True,1
+2014-09-30,241930,True,0

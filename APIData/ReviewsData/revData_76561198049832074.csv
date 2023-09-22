@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2011-12-16,570,True,"Is good, is very good!"
+posted,item_id,recommend,sentiment_analysis
+2011-12-16,570,True,2

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-07-27,247000,False,"DO NOT BUY.I just lost my first game of this because the spell Healing didn't have any effect on me when it should've right at the end of the game. I also noticed other spells not actually having their effect trigger occasionally when they should. The spell Random was particularly bad for this, with AI opponents it was used on not even rolling for the effect sometimes (seems to be a problem particularly when someone is on the Crown of Command).The interface in this game needs work (sometimes you don't know what spell you're currently casting, or what type of card it wants you to select from where).It's generally pretty fun, but I simply can't play it while it doesn't abide by its own rules."
-2015-01-04,230700,True,"The best puzzle platformer, other than Braid."
-2015-04-22,282800,False,"Really?The game was originally made in Japan, all of the voices in the game are Japanese, and yet I can't play the game in Japanese?Screw you too."
-2014-06-20,237870,False,"This is probably the game I least wish I had paid for on Steam.I bought it on its wonderful premise and interesting style.I was wrong.It plays like a bad free Korean MMO in basically every way, including the completely janky camera that makes no sense at all.Please don't buy this... at least not yet. I hope it gets better, but it looks like it won't.This game has tons of potential and spoils it."
-2015-05-30,329490,True,"I'm not too far into it yet, but so far, it's been totally worth it for the backgrounds alone!"
-2015-04-22,240970,True,"High speed Mission based format coupled with slower paced exploration make for a game that is fun in bursts, high-risk/reward without feeling too draining or stressful, and downright fun to play.There are only minor things that are handled badly in this game, and easily the worst is global level. If they wanted to do that they should've tied it to how many bosses have been defeated, or titles earned or something. As it stands it's easy to end up too strong for missions, when it feels like they shouldn't be too variable in the first place (have global enemies give gold, but not global experience).Despite this flaw, I can still strongly recommend this."
-2015-04-22,289130,True,"This is like if you decided to make Civilization (or Alpha Centauri), but made it look better, run better, have more interesting gameplay without being overly complex, added an overarching story to give the different factions meaning and purpose, and fixed nearly every single weakpoint or flaw in the Civ formula.Cannot recommend this highly enough. (Now if only I could play it in Japanese...)"
-2015-04-22,239410,False,"It's Broken.Looks like it should be the best of the bunch for tapletop games turned videogames (which are all unfortunately varying degrees of rubbish), but it fails at that because it's broken.I and many others can't even start the game, and many more have various memory leaks and crash to desktop game ending bugs.It's really unfortunate that this is as broken as it is."
-2015-03-28,245170,True,Gorgeous graphics and the most incredible after-market support I've seen
-2014-06-24,212480,True,Surprisingly doesn't suck. It's actually quite awesome. Career mode is fantastic.
+posted,item_id,recommend,sentiment_analysis
+2014-07-27,247000,False,1
+2015-01-04,230700,True,2
+2015-04-22,282800,False,0
+2014-06-20,237870,False,1
+2015-05-30,329490,True,2
+2015-04-22,240970,True,1
+2015-04-22,289130,True,2
+2015-04-22,239410,False,1
+2015-03-28,245170,True,2
+2014-06-24,212480,True,2

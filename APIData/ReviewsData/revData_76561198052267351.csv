@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-21,264140,True,The most awesome time-killing-pirate-slaughtering-pixelated-game! The best part?  ift              when you die it doesn't make you rage for a week!
-2014-01-24,4000,True,"Luke: 'I'm bored of the same games over and over but i dont have enough money to buy any others, what ever shall i do?'Jacob: 'Go play outside.'Garry: 'Dont listen to Jacob, Just play Garry's Mod young Luke, it has many gamemodes in 1 and you can even make your own, all at a small price!'Luke: 'Why thanks Garry! Oh and what game is 'Outside'? It doesn't sound very good.'"
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,264140,True,2
+2014-01-24,4000,True,2

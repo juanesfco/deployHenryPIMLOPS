@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-05,105600,True,Fun and Enjoyable adventure sandbox game :)
-2014-10-24,245550,True,Entertaning movie!!! Plus it has achivnments you can earn :P
-2014-08-18,2990,True,Super Fun Game!!Would recommend to friends :P
-2012-07-17,200210,True,:)
+posted,item_id,recommend,sentiment_analysis
+2014-08-05,105600,True,2
+2014-10-24,245550,True,2
+2014-08-18,2990,True,2
+2012-07-17,200210,True,2

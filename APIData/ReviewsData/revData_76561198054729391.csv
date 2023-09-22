@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-23,252490,True,"As much as getting killed on sight which is annoying, this game is like starting an adventure, having to do whatever you can to survive.I play this game often and I usually play with friends, because playing on a popular server, you are bound to be killed if you play alone when attacking someone when you are alone but they have another three people with them. Even though this game is still in alpha, I believe Facepunch has done a brilliant job in making this game, they keep adding in new features and they listen to the community. I give this game a 8.5/10"
-2013-05-12,222880,True,"Ok, this game is pretty good, it's graphics are amazing and the gameplay is great, one thing that bothers me is that there aren't many Australian servers with people actually playing on them, so it is a bummer trying to play with other players that have better ping. I know this game is still in Alpha, but they need to improve the movement of players, it doesn't seem even and they seem to allmost teleport. Overall, this game is very fun and I can't wait for the full release and future updates, for the moment, I will give this game a 7/10"
-2012-07-12,500,True,"This game is really cool, you can play multiplayer and fight against the horde or play on your own with 3 other bots, although i havent finished it i think you guys should get it. 8/10"
+posted,item_id,recommend,sentiment_analysis
+2013-12-23,252490,True,0
+2013-05-12,222880,True,2
+2012-07-12,500,True,2

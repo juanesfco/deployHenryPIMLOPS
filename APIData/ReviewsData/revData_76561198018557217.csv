@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-19,234390,True,"This game is sick as ♥♥♥♥, 10/10 smoke weed ere day"
-2013-12-04,570,False,game is hard
+posted,item_id,recommend,sentiment_analysis
+2015-05-19,234390,True,0
+2013-12-04,570,False,0

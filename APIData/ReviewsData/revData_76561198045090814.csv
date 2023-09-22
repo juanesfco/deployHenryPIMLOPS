@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-03,264140,True,Its good i just wish it was multiplayer
-2014-04-23,620,True,ITS PORTALING AWESOME!
-2014-01-02,200210,False,dont like it :( it crashes me
+posted,item_id,recommend,sentiment_analysis
+2015-02-03,264140,True,2
+2014-04-23,620,True,2
+2014-01-02,200210,False,0

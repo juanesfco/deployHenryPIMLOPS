@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-28,202170,True,"Don't care what others think, imo better than gta and any shooter games"
-2014-03-28,230410,True,Space Ninjas......nuff said
+posted,item_id,recommend,sentiment_analysis
+2014-03-28,202170,True,2
+2014-03-28,230410,True,1

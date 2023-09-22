@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-25,232090,False,"If microtransactions allowed the developer to continue supporting the game and adding free content then that's great, but giving the option for people to buy cosmetics before you've met your early access obligations is disgusting. I bought KF2 based on TW's reputation - something I now regret."
-2015-12-08,201810,False,"If you have an AMD GPU then don't buy this game, it's still broken...Such a shame."
+posted,item_id,recommend,sentiment_analysis
+2015-11-25,232090,False,1
+2015-12-08,201810,False,0

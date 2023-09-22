@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-16,105600,True,10/10 Would RecommendWelcome To A Game Better Than MinecraftBetter Everything And You Dont Get Bored:D
-2015-03-23,730,True,Very Great Game 10/10 Much Kappa Many Kappa
-2014-10-06,4000,True,fun game recommended +++++ 9/10
+posted,item_id,recommend,sentiment_analysis
+2015-04-16,105600,True,1
+2015-03-23,730,True,2
+2014-10-06,4000,True,1

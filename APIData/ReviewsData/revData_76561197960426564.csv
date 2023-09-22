@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-08-05,730,False,cheaters are rampant in matchmacking.
-2014-10-07,273110,True,"zombie, zombie, zombie ie ie"
-2016-02-11,224060,True,Maximum Effort!
-2015-03-30,239030,True,Glory to Arstotzka
+posted,item_id,recommend,sentiment_analysis
+2014-08-05,730,False,1
+2014-10-07,273110,True,1
+2016-02-11,224060,True,1
+2015-03-30,239030,True,1

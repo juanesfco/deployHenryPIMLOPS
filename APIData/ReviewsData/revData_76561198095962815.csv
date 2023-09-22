@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-11,255710,True,"As EA finally stops ♥♥♥♥♥♥ the bruised, cold corspe of the once glorious Maxis and buries it in the tomb under their evil lair, Cites: Skylines stands atop a frosty mountain, sounding the bugle for others to find him. Go forth, City Builder devotee! Cast off the yoke of always on DRM and crippled gameplay, and follow the true heir of Sim City 4 into the valley of light and expandable city limits!Just like I'm still playing Sim City 4 a decade after it's launch, I imagine I will be coming back to Cities: Skylines in ten years from now."
-2014-02-24,440,True,"come for the gameplay, stay for the hats"
-2016-07-04,282070,True,"Fight off rival thugs, the military and the homeless to become Pogoren's next moonshine tycoon! Can you manage your scarce resources and turn a band of untrained strangers to into a ruthless moonshine producing cartel? Loot, steal, shoot and stab your way to glory in this indie smash hit!(fantasies like this are the only way I can justify the terrible things I make my characters do in this game)"
-2015-10-07,233450,True,Only just found out that you can change how many prisoners you recieve each day. 33/8 would let my prisons get continously overran again
-2015-04-03,260230,True,Kind of like Oddworld: Abe's Exodus set in WW1. But you will cry.
+posted,item_id,recommend,sentiment_analysis
+2015-03-11,255710,True,0
+2014-02-24,440,True,1
+2016-07-04,282070,True,0
+2015-10-07,233450,True,2
+2015-04-03,260230,True,2

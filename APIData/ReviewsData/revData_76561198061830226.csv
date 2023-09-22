@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-22,22320,True,"What a great game, From when I was a kid Till now, It still scares me all the time while still amazing me with new discoveries. I don't care for graphics/eye candy as much as some others might, furthermore it may still be the best in the elder scrolls series! I Highly Recommend this game to anyone who is considering buying it or has enjoyed any number of the elder scrolls series. If you want some 'fancier' graphics than I recommend using the Morrowind OverHaul Mod, it improves the graphics, fixes a bunch of bugs while adding a couple of convenient mechanics and making the animations of walking/running much better than they were before."
-2016-07-16,220,False,"This game is highly over-rated and while it isn't a bad game it's certainly closer to a bad game than good, Im still glad I bought it due to gmod, anyways that's why my negative review is here :)"
+posted,item_id,recommend,sentiment_analysis
+2014-11-22,22320,True,2
+2016-07-16,220,False,1

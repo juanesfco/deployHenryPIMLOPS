@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-29,226700,True,Caused my eyes to bleed.10/10
-2014-11-28,25830,True,"Played as medieval Denmark, Got destroyed by Norway 10/10"
-2016-09-17,570,True,ive only played a little bit so im still getting the hang of it.if your new id recommend starting with meepo
-2015-07-06,15620,True,Good fun game. But the first Dawn of war was way better.Dawn of war 3 2015 PLOX (make it like the first ones)
+posted,item_id,recommend,sentiment_analysis
+2014-06-29,226700,True,1
+2014-11-28,25830,True,1
+2016-09-17,570,True,1
+2015-07-06,15620,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-25,221260,True,"Great little game, absolutely love burning stuff, and getting the reactions. And trying to get combos. Cute ending too. Would recommend :)"
-2015-06-16,224460,True,"Contrast has to be one of my all time favourite games. The puzzles are very unique, making you think outside the box.Working with shadows and lights, makes for a very different atmosphere and way of thinking. I am just absolutely in love with this game.The only downside is the story line isn't as full as it could have been. But I know the developers were low on funds and time and had to cut a MASSIVE part of their plans out. Looking forward to their upcoming game :)"
-2014-06-20,250620,True,This is by far one of my favourite games. Exploring the world of a childs imagination accompanied by his best friend the teddy in search of his mother. The ending shows you the harsh reality that no kid should have to go through.
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,221260,True,2
+2015-06-16,224460,True,2
+2014-06-20,250620,True,2

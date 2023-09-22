@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-20,218620,True,gr8 game 10/10 dlcs buy buy buy
-2014-06-30,252490,True,this game is good fun to play with friends
-2014-06-19,107410,True,Great game it is addictive and there are lots of great community made mods to play with when you and they range from the interesting to the rididulous. HIGHLY RECOMMENDED
-2014-06-19,259080,True,great game to play for entertainment purposes the map is incredibly big and there are lots of cool easter eggs to play with. also pLying with others creates a crazy attmosphere. Also on most servers you have the ability to spawn in what ever hte hell you want just by pressing b.
+posted,item_id,recommend,sentiment_analysis
+2015-02-20,218620,True,0
+2014-06-30,252490,True,2
+2014-06-19,107410,True,2
+2014-06-19,259080,True,2

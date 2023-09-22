@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-05-31,218620,False,It was really boring!!!!!!
-2016-03-08,20500,False,It's very repetitive and it gets boring very quickly.
-2016-06-16,444930,False,"The game has the wrong resolution for my machine, I get a black screen and I can't see anything to fix it."
-2015-08-28,266430,False,"It is stupid, pointless and a waste of time."
-2014-05-09,223470,True,This is my favourite game!
+posted,item_id,recommend,sentiment_analysis
+2014-05-31,218620,False,0
+2016-03-08,20500,False,0
+2016-06-16,444930,False,0
+2015-08-28,266430,False,0
+2014-05-09,223470,True,0

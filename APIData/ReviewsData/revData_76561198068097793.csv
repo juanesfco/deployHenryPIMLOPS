@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-25,221640,True,i'm stupid- -playing very hard
-2013-12-16,218620,True,sorry it funny!
-2014-02-14,570,True,bye dota2 i think it so funny but i'm weak-willed to continue playing. Bye dota2i miss again. ty for game vale
-2014-02-08,250400,True,play with friend very fun + hard
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,221640,True,0
+2013-12-16,218620,True,1
+2014-02-14,570,True,1
+2014-02-08,250400,True,1

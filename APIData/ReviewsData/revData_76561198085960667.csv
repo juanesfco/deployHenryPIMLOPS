@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-04-09,220440,True,Recomendo!
-2014-04-14,237110,True,Um dos melhores jogos de luta da história *---*
-2014-04-03,209000,True,Muito bom! *---*
-2014-01-12,4000,True,Muito divertido!
-2013-12-24,261030,True,Jogo espetacular e muito emocionante! Recomendadíssimo!
-2013-12-07,249870,True,Jogo incrível! Recomendadíssimo!
+posted,item_id,recommend,sentiment_analysis
+2015-04-09,220440,True,1
+2014-04-14,237110,True,2
+2014-04-03,209000,True,2
+2014-01-12,4000,True,2
+2013-12-24,261030,True,2
+2013-12-07,249870,True,2

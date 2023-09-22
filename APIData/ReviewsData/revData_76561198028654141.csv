@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-23,261030,True,"Clem is a total baddass, she aint even fazed yo!"
-2012-08-09,4000,True,You can inflate peoples heads. WHAT MORE COULD YOU WANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2013-12-23,261030,True,1
+2012-08-09,4000,True,2

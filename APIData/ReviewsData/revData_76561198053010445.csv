@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-13,206210,True,"Why isnt it free to play on PS3 but it is on PC. I dont like how thats made and I mainly play PS3 and i love this game, but make it free to play on PS3 plz."
-2015-04-10,212180,True,I remember when i would download Combat Arms on a Website and it is the best game ever. My brothers and I spent a lot of time on this excellent game.:::))):):D;P
-2012-10-24,300,True,"Excellent Game, A must buy for Team Fortress, Half Life And CoD fans!"
+posted,item_id,recommend,sentiment_analysis
+2015-04-13,206210,True,2
+2015-04-10,212180,True,2
+2012-10-24,300,True,2

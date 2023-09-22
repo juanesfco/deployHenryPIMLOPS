@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-01-25,243870,True,Its just good :3
-2016-07-08,48720,False,Not very Good early game bandits have rifles and aibots that kill you in 2 shots that you get robbed and lose all your troops.GG well played you lost in the first 5 minutes.
-2015-10-10,238960,True,cewl and poop news more classes thou
-2015-05-22,51100,True,FUn but realitic as ♥♥♥♥
-2013-12-19,8190,True,EPIC GAME!!!
+posted,item_id,recommend,sentiment_analysis
+2015-01-25,243870,True,2
+2016-07-08,48720,False,1
+2015-10-10,238960,True,2
+2015-05-22,51100,True,2
+2013-12-19,8190,True,0

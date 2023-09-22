@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-29,346110,True,"I have only spent a few hours on this game and it could not be better. The idea of survival is awesome like riding dinos, finding new things to play around with and just doing the hell you want. But there is a downside to this game the fact that you need a pretty good computer that can handle some of the major graphics. Overall good game."
-2014-12-13,730,True,Love this game!
-2015-02-06,211820,True,I recomend this game to all! The updates are doing really well on working on the bug fixes. Another good thing is you have guides and funny quotes on items and you character can say something funny. Over all I think this is a great game and would give it 9.5/10
-2015-02-07,304930,False,will never play it again
-2015-01-17,105600,False,"I found this game similar to minecraft. But Terraria is diffferent, no beds classical pixal sandbox adventure and you dont know what to do after a while. I would recomend Starbound why? You will see"
+posted,item_id,recommend,sentiment_analysis
+2015-11-29,346110,True,2
+2014-12-13,730,True,1
+2015-02-06,211820,True,2
+2015-02-07,304930,False,1
+2015-01-17,105600,False,0

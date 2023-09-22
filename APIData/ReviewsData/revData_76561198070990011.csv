@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-22,105450,True,10/10 would name explorer Pepe again.
-2015-06-22,265930,True,Now I know how to goat in style. :)))
-2015-06-22,238460,True,My voice soon changed to Hatty. Money well spent.
+posted,item_id,recommend,sentiment_analysis
+2015-06-22,105450,True,1
+2015-06-22,265930,True,2
+2015-06-22,238460,True,1

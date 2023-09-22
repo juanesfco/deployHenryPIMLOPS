@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-01-08,440,True,"i love this game, its so fun and crazy"
+posted,item_id,recommend,sentiment_analysis
+2014-01-08,440,True,1

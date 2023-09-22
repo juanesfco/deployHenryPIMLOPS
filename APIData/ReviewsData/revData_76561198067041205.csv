@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-01,620,True,"DO NOT BUY THIS GAME! IT WILL EXPLODE YOUR BRAIN! Apart from that, it is worth your money.Portal and Portal 2 is the one and only 'Perpetual Testing Initiative' game which is a great success by Valve at exploding your brain. To win, you've got to think with Portals and potatoes and Wheatley. This game is humorous and contains a bunch on Eastereggs. What I didn't like about this game was Level 11. Wanna know why? Your gotta find out yourself. Apart from all that mumble-jumbo, I rate it 11 out of 10. Not bad when you have to work with a potato and the dumbest moron who ever lived!"
-2014-06-28,271290,True,"HAWKEN is a really fun game, even though its in Beta (meaning it has a lot of bugs). Its probably my most favourite game even though Team Fortress 2 is my most played game. Its an Airmech game. Now I techinally don't recommend all the Airmech games I play, but to HAWKEN, hell yes. You have to play this game. Its highly addicitive. Overall, just god damn play it!"
+posted,item_id,recommend,sentiment_analysis
+2014-12-01,620,True,1
+2014-06-28,271290,True,1

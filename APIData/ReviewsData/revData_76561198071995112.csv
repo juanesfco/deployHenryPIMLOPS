@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-29,344750,True,"This game gave me deadly profits, if you know what I meanBebz ( ͡~ ͜ʖ ͡°)"
-2015-12-13,368900,True,Thanks for another great game Zonitron!
-2015-09-23,398710,True,"Great game, very simple.It's a shame other developers are now trying to make copy-pastes of this and then those are getting on steam."
-2014-03-24,107410,True,"This game is funAlthough, it is pay-to-win.I bought this game a long time ago, yet I am spammed with advertising whenever I choose to use a gun although someone that bought the game + all dlcs while it was on sale for a fraction of what I payed can get them all with no advertisments, at all times.Come on, I bought the 'digital deluxe' version of this when it was in alpha, and now all I cop is idiots with the new light machine guns, that one hit kill to the chest, and are incredibly accurate.I feel that we should at least be able to use the guns, just with low quality textures (such as what happened in arma 2), as this is an unfair advantage to those who bought the game on sale, and disadvantages those who chose to support the game in early stages."
-2014-01-22,72850,True,"A Nice looking Sandbox Game with lots of mods,I reccomend buying it"
+posted,item_id,recommend,sentiment_analysis
+2015-08-29,344750,True,0
+2015-12-13,368900,True,2
+2015-09-23,398710,True,2
+2014-03-24,107410,True,1
+2014-01-22,72850,True,1

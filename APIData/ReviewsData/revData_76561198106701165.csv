@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-07-19,219150,True,1989/53 Would Jacket again
-2016-05-13,356670,True,Scary as ♥♥♥♥ but still some dank ♥♥♥♥
-2016-06-22,304930,True,♥♥♥♥in skitz mate (this is a good game)
-2016-04-14,730,True,This be sum more dank shet
-2016-04-13,22380,True,This be sum dank shet
-2015-06-13,4000,True,"An excellent game for minecrafters, FPS nuts, and the daily roleplayer! 10/10 "
-2015-06-13,233720,True,Surgeon Simulator is one of the best - and only - surgery simulation games I have EVER played!
-2015-02-13,302830,True,A very good FPS...with addition of Minecraft!
-2013-09-15,440,True,i recommend this for every teen
+posted,item_id,recommend,sentiment_analysis
+2016-07-19,219150,True,1
+2016-05-13,356670,True,0
+2016-06-22,304930,True,2
+2016-04-14,730,True,2
+2016-04-13,22380,True,1
+2015-06-13,4000,True,2
+2015-06-13,233720,True,2
+2015-02-13,302830,True,2
+2013-09-15,440,True,1

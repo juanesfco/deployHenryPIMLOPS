@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-01-09,313740,True,Look behind you simulator.lmao
-2016-06-10,376570,True,"Best F2P MMO out there, fun with friends, fun PvE and PvP.Pros:DungeonsArenasHousingCons:Questing can get boring"
-2015-07-13,252950,True,"mum: dinner is readyme: be there in a sec100 years later.mum are you there, where is the dinner."
-2016-06-30,239140,True,"Pros:- Very satisfying combat- Very fun with friends - 'The Following' DLC is awesome - Drive around in a buggy and feels much more open compared to the main campaign. - Great weapon customization- Parkour- Skill tree (agility, power etc..)- The more you progress the better the game gets- Grappling hook- Arab musicCons:- Voice acting- Start of the game can get boring, (however as you progress missions start to get better)- Minor bugs that can sometimes interrupt gameplay- Be the zombieIf you don't have friends, don't buy the gameIf  you have friends, you should buy and play this game asap.tyoverall: 9/10 with friends, 1/10 without friends <- you are going to have a bad time :((((((((((((((("
-2016-02-13,253710,False,would rather spend $95 preordering overwatch.
-2016-04-22,444640,False,pros;funmonkeycons;pay2wingarbage
+posted,item_id,recommend,sentiment_analysis
+2015-01-09,313740,True,0
+2016-06-10,376570,True,2
+2015-07-13,252950,True,1
+2016-06-30,239140,True,1
+2016-02-13,253710,False,1
+2016-04-22,444640,False,1

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-09-15,72850,True,gud
-2014-11-05,730,True,gunz r gud 2 shot
-2015-01-01,105600,True,its pretty k
-2014-09-15,550,True,itz k
-2015-07-22,369580,True,Far greater than any of Rockstars creations
-2015-02-15,282440,False,no
-2014-05-26,1250,True,i meak luv 2 eet
-2014-05-21,440,True,hatz r gud
-2014-05-02,8400,True,iz gud
+posted,item_id,recommend,sentiment_analysis
+2014-09-15,72850,True,1
+2014-11-05,730,True,1
+2015-01-01,105600,True,2
+2014-09-15,550,True,1
+2015-07-22,369580,True,2
+2015-02-15,282440,False,1
+2014-05-26,1250,True,1
+2014-05-21,440,True,1
+2014-05-02,8400,True,1

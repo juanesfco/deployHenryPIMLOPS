@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-15,252490,True,Fun game that makes you want to keep playing til you have all the good items. 
-2015-02-21,244850,True,Fun
-2014-10-18,730,True,Great game
-2014-09-30,209000,True,"Interesting seeing the origins of some of the villains, but an awesome game to play"
+posted,item_id,recommend,sentiment_analysis
+2014-04-15,252490,True,2
+2015-02-21,244850,True,2
+2014-10-18,730,True,2
+2014-09-30,209000,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2011-07-07,4560,True,"Simply one of the greatest RTS titles ever made to rival that of C&C, Starcraft and Warcraft."
-2011-07-03,440,True,"9 different  classes with their own unique play styles? Various maps with unique modes? A trade and item creation system? The Mann. Co Store? HATS*? Endless hours of fun with teamwork? FREE TO PLAY? What's not to like about this game?! Try it out now or forever hold your peace!*actually, no one cares about hats, just that they pretend to do so"
+posted,item_id,recommend,sentiment_analysis
+2011-07-07,4560,True,2
+2011-07-03,440,True,2

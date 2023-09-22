@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-05-30,243870,True,"Great game but could be better with first person, everything els on the other hand is pretty good with the game."
-2014-05-30,236390,True,Great game just waiting for simulator with Russian and German planes!!!!!!!
-2014-09-30,65790,False,Don't get this game
-2014-05-30,239660,True,It's got a cod like feel to it which is good for a game like this so yer the game is a good first person shooter.
-2014-05-30,51100,False,It's ok but it could be better.
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,243870,True,2
+2014-05-30,236390,True,1
+2014-09-30,65790,False,0
+2014-05-30,239660,True,2
+2014-05-30,51100,False,2

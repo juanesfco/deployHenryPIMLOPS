@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-29,113200,True,"Damn, this game is 2spooky4me"
-2014-01-24,252490,True,Lots of naked men having fights with eachother over wood...watch out fo the pants bandits10/1 would steal pants
-2014-03-14,440,True,Lots of hats... not enough money.... would play every day 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-09-29,113200,True,0
+2014-01-24,252490,True,1
+2014-03-14,440,True,1

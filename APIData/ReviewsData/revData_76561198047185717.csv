@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-10,292030,True,"Best Single player game i have every played, ♥♥♥♥♥ on fallout and possibly even elder scrolls."
-2014-03-02,252490,False,get ♥♥♥♥ after a while
+posted,item_id,recommend,sentiment_analysis
+2016-07-10,292030,True,2
+2014-03-02,252490,False,1

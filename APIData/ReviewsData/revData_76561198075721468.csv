@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-08-03,216150,True,one of the best RPGs on steam!! loved it!!
-2013-12-09,620,True,Avery cool very creative game and a very cool storyline one of the best valve games made definatley recomend it
-2013-11-21,35140,True,very easy to run and a very good game
-2013-10-25,241720,True,awsome game!! a smart concept aswell!!
-2013-08-31,47790,True,such a good game!!could draw comparisons to COD!! awsome FPS
-2013-07-01,4000,True,so much fun!!!! best sandbox game ever!!
+posted,item_id,recommend,sentiment_analysis
+2013-08-03,216150,True,2
+2013-12-09,620,True,2
+2013-11-21,35140,True,2
+2013-10-25,241720,True,0
+2013-08-31,47790,True,2
+2013-07-01,4000,True,2

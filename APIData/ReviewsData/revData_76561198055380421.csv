@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-05-01,49520,True,This game has so many guns that the NRA will be proud
-2016-04-01,22380,True,[Barter 100/100] You will buy this game.
-2016-04-01,8930,True,I was America and I dropped a nuclear bomb on the Japanese cities of Hiroshima and Nagasaki 10/10 will reenact past events
-2016-01-30,8870,True,"Troy Baker goes yet again on another adventure this time, but instead of escorting a teenage girl through a hellish USA ravaged by some deadly fungus stuff  or aiding himself along with a legendary soldier, he goes to a flying steampunk city that any white American supremacist would call paradise. Then on, he has to find a girl and escort her to safety while fighting against the entire city and the inhabitants that want to kill him. 10/10 will fail to write good review."
-2015-10-22,200510,True,The only percentage that matters is how much this game is going on sale for.
-2015-10-22,214770,True,Nacho Libre on Steroids
+posted,item_id,recommend,sentiment_analysis
+2016-05-01,49520,True,2
+2016-04-01,22380,True,0
+2016-04-01,8930,True,0
+2016-01-30,8870,True,2
+2015-10-22,200510,True,1
+2015-10-22,214770,True,1

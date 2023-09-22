@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-11-27,72850,True,Just to be simple..yes
-2014-09-30,1840,True,"Very fun and useful, however it is very difficult to use if you don't know how :)"
-2014-07-14,304930,True,Really fun! Too bad no servers work/are full
+posted,item_id,recommend,sentiment_analysis
+2013-11-27,72850,True,1
+2014-09-30,1840,True,2
+2014-07-14,304930,True,1

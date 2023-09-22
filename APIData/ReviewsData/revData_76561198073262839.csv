@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-10-09,9480,True,Gat is on another level.
-2015-09-18,50650,False,All work and no play makes Jack realize he's playing Darksiders II.
-2014-12-31,63710,True,Rated A for anal.
-2015-10-28,237110,False,When Krap goes digital it looks like this.
-2015-07-03,281220,True,Hack & suck but don't suck.
-2016-02-19,8140,False,Tomb Raider Uninstall.
-2016-07-06,329050,True,New characters:- Golden Lady- Lightning Returns- DAM SON
+posted,item_id,recommend,sentiment_analysis
+2014-10-09,9480,True,1
+2015-09-18,50650,False,1
+2014-12-31,63710,True,1
+2015-10-28,237110,False,1
+2015-07-03,281220,True,1
+2016-02-19,8140,False,1
+2016-07-06,329050,True,2

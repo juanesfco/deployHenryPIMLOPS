@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-05,265930,True,Honestly the best game I have ever played.
-2013-04-25,440,True,Awesome game!
-2016-02-20,433850,True,Classic H1Z1 gameplay as followsFlying CarsSummit's in the pitChina number 110/10.
+posted,item_id,recommend,sentiment_analysis
+2014-04-05,265930,True,2
+2013-04-25,440,True,2
+2016-02-20,433850,True,2

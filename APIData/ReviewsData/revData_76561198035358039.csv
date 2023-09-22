@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-02,10150,True,great game. good cliche story. definitly reccomend it.
-2016-09-17,320040,True,"This game is amazing. Just did one play through and I thoroughly enjoyed it. Me and my friend are forever remembered in the stars and it is always there for me to check. It is lovely to see a game pursue the idea of every play through meaning something, but not have it possibly ruin your gameplay in the future."
-2014-05-03,620,True,Best Game on my games list. Thats 132 games people.
-2014-04-29,24240,True,This game is very enjoyable. Get it i say :)
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,10150,True,2
+2016-09-17,320040,True,2
+2014-05-03,620,True,2
+2014-04-29,24240,True,2

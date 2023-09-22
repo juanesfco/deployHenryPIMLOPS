@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-01,205550,False,"oh god why does this exist.  can i remove this embarassment from my library.  absolute pile of ♥♥♥♥, free is too expensive for it"
-2014-07-19,237930,True,"Absolutely beautiful art, music and narration, a masterpiece.Proof that videogames can be art"
+posted,item_id,recommend,sentiment_analysis
+2014-05-01,205550,False,1
+2014-07-19,237930,True,2

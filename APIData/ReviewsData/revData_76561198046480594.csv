@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-02-17,3320,True,my fish die because i don't feed themmy fish die because an alien eats themmy fish die because i feed them special drugs when they are too young10/10
-2014-06-23,232810,False,peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is the worst person on this planet. peter is a w h o r e
-2013-12-26,221640,False,no
-2015-02-17,220200,True,I never knew I could fly a ♥♥♥♥♥ into space.
-2013-12-26,212680,True,very
-2013-12-26,2700,True,yes
-2015-02-17,240,True,looks like a toilet10
-2015-02-17,41070,True,i had a heart attack and couldn't find the jetpack so the giant spiderman stepped on merip
-2013-12-26,4000,True,dumb
-2013-12-26,105600,True,copy yes
+posted,item_id,recommend,sentiment_analysis
+2015-02-17,3320,True,1
+2014-06-23,232810,False,0
+2013-12-26,221640,False,1
+2015-02-17,220200,True,2
+2013-12-26,212680,True,2
+2013-12-26,2700,True,1
+2015-02-17,240,True,1
+2015-02-17,41070,True,1
+2013-12-26,4000,True,0
+2013-12-26,105600,True,1

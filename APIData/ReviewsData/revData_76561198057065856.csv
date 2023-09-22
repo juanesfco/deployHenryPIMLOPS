@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-05-14,206500,False,"I Tried to Join with a new username and Every time it kept saying: Mismatched username or password. EVERYTIME, I tried different usernames but it still didnt work!"
+posted,item_id,recommend,sentiment_analysis
+2014-05-14,206500,False,1

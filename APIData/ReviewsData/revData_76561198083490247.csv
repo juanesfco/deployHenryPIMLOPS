@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-10-20,4000,True,I would recommend this game.You can do Almost anything you want :D But on some add-ons you would need tf2 or CSS
-2015-07-13,236390,True,"i Recommend this gameAmerican Planes- Boom and Zoom (Damn 12.7 MM Browning MGs)German Planes- Energy fighters, you can do anything lolRussian Planes- Shoot one bullet, Stalin will be proudBritish Planes- Cannons...And great turn rate and Climb RateJapanese Planes- 1 shot from the enemy, you burn lolFor every Tanks - Shoot at the correct spot11/10"
+posted,item_id,recommend,sentiment_analysis
+2013-10-20,4000,True,2
+2015-07-13,236390,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-28,4000,True,"Best Game Ever When You Are Looking For Something Both Random, Funny, And Derpy! The Glitches Are AMAZING, And This Game Overall Is Worth The Money!"
-2016-03-17,225540,True,"Great game, amazing graphics, and some may even say it's better than JC2! Amazing gameplay, and everyone's gotta love the infinate explosions, more tethering for grapples, and of course, the wingsuit. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2014-11-28,4000,True,2
+2016-03-17,225540,True,2

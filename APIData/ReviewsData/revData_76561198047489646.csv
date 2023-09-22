@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-12-17,730,True,Has a Beartooth Music Kit and I can use the assets from this game in Garry's Mod.Worth it.
-2014-10-20,240,True,People will kick your ♥♥♥.
-2015-08-27,374301,True,How did Bain find Sokol?On Grindr. ( ͡° ͜ʖ ͡°)
-2015-12-21,271590,False,Can't go bowling with your cousin. Bad game.0/10
-2015-07-31,333930,True,I started playing because of the Edgy trailer.
-2015-12-05,296470,True,"This game made me bisexual.Just kidding, I was already bisexual, but if you like extreme homosexual grunting, male noises, cosmetics that dress you like a gimp and a rauchy title name this game is for you.Observe dong."
-2015-12-05,331120,False,"3spooky5me.Literally, I'm more scared of dying of cancer or in a plane crash or hair loss, not a fictional pair of hands being pulled over my eyes."
-2016-07-20,377160,False,"I vastly like this game, except now, having mods disables your chances at getting achievements. I can see the fairness in that, but what if we're talking non-gameplay advantage mods like graphical and audio mods? Nope, achievements disabled.You need to have a bland experience if you want to get those achievements.Really Bethesda. You should honestly leave the Fallout Titles to Obsidian, at least they won't screw up the fanchise you've adopted."
+posted,item_id,recommend,sentiment_analysis
+2015-12-17,730,True,0
+2014-10-20,240,True,1
+2015-08-27,374301,True,1
+2015-12-21,271590,False,0
+2015-07-31,333930,True,0
+2015-12-05,296470,True,0
+2015-12-05,331120,False,2
+2016-07-20,377160,False,1

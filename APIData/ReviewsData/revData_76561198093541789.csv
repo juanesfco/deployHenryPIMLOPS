@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-29,31280,False,IT DOES NOT WORK ON MY MAC PLATFORM I DEMAND A REFUND
-2015-08-21,48705,False,Unplayable on mac downloaded mods deleted them still would not work see a problem considering I spent $13 USD on this. Fix it
+posted,item_id,recommend,sentiment_analysis
+2014-08-29,31280,False,1
+2015-08-21,48705,False,0

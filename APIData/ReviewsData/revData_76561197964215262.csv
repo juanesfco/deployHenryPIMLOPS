@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-11-25,215530,True, 
-2016-05-14,379720,True,"Single-Player: A fast paced, fluid nihilistic-carnage m/"
+posted,item_id,recommend,sentiment_analysis
+2013-11-25,215530,True,1
+2016-05-14,379720,True,1

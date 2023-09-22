@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-04,204240,True,Great puzzle game. Recommended for anyone that enjoys a challenge. Love the graphics and the feel.
-2014-08-22,91310,True,This game is awesome... highly recommended
-2014-08-21,55100,True,Great game...lots of fun and i love the mechanics in it :)
-2014-07-20,440,True,"Good fun, fast and very enjoyable... if your looking for a quick game or a night of fun, recommended :)"
-2014-06-20,241540,True,"This game is so much fun, hours can be spent playing it over and over again, highly recommended :)"
+posted,item_id,recommend,sentiment_analysis
+2015-04-04,204240,True,2
+2014-08-22,91310,True,2
+2014-08-21,55100,True,2
+2014-07-20,440,True,2
+2014-06-20,241540,True,1

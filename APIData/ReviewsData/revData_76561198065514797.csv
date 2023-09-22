@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-25,232810,True,Its a really fun god game that i highly recommend
-2014-12-26,246420,True,"Great, fun game. Worth the $10."
-2013-06-08,200210,True,you should all play this. it is free and only takes like a minute to download
+posted,item_id,recommend,sentiment_analysis
+2014-05-25,232810,True,1
+2014-12-26,246420,True,2
+2013-06-08,200210,True,2

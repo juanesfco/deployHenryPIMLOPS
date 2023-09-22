@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-16,224260,True,great game for anyone who likes zombie games
-2014-01-06,440,True,Best game Ever
+posted,item_id,recommend,sentiment_analysis
+2015-01-16,224260,True,2
+2014-01-06,440,True,2

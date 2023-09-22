@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-01,218620,False,the worst AI ever to pretend to be a AI
-2016-09-17,433850,False,updates slower then government policy. has more bugs then a homeless mans crotch. They take your money and go get hookers and blow.
+posted,item_id,recommend,sentiment_analysis
+2016-07-01,218620,False,0
+2016-09-17,433850,False,2

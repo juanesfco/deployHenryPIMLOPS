@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-14,320140,True,"If your into drifting for high scores and testing your skill on a global scoreboard, this game is for you."
-2014-02-12,252490,True,"Amazing game and its just in alpha, 10 out of 10 would recommend to anybody into survival games"
-2015-10-21,405170,True,10/10 would hit 88 mph again
-2015-07-10,252950,True,"Just got this on PC after playong on ps4, brilliant game!"
-2015-07-01,333930,True,"This has great potential, great fun and very arcadie"
+posted,item_id,recommend,sentiment_analysis
+2015-08-14,320140,True,1
+2014-02-12,252490,True,2
+2015-10-21,405170,True,1
+2015-07-10,252950,True,2
+2015-07-01,333930,True,2

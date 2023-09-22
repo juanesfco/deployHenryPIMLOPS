@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-04-11,232090,True,>Spawn>Get pistol>Die>Rage cause no money>Pepole trying to cross the border>Trader with accent>All the memes11/10
-2016-01-10,230290,True,EXPLOSOES ♥♥♥♥♥♥♥MUITAS BOMBASFaça o planeta terra ficar frio pra ♥♥♥♥♥ e depois ♥♥♥♥ com o sol.10/10compraria de novo
-2015-01-31,211820,True,"An awesome game with great potential,i find fun slashing aliens and wandering around space. 10/10"
-2014-01-13,219830,True,"Very good,Just buy and see for yourself"
+posted,item_id,recommend,sentiment_analysis
+2016-04-11,232090,True,1
+2016-01-10,230290,True,0
+2015-01-31,211820,True,2
+2014-01-13,219830,True,2

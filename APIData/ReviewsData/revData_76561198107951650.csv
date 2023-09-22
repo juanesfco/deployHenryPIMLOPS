@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-28,346900,True,♥♥♥♥ game. 10/10 would play again.
-2015-04-03,304930,True,GAME IS YES. FUN TIME. VERY FUN TIME WITH HAMACHI AND FRIENDLIES.
-2015-04-03,265930,True,goat too strong pls nerf
-2015-04-03,730,True,GUDDEST GAEM. HARDEST FPS 2015.
-2014-08-22,200210,False,"Boring, I used to play this 2 years ago back when wildshadow ( something like that ) owned the game. The game then was not milked and droopy like a 4 year old cow after the farmer's just lost a child, and then Kabam ( tm or some ♥♥♥♥ ) came and ruined everything by bringing in these fancy package deals. 10/10 would not play. My friends would waste money on this basic game."
+posted,item_id,recommend,sentiment_analysis
+2015-05-28,346900,True,0
+2015-04-03,304930,True,1
+2015-04-03,265930,True,2
+2015-04-03,730,True,2
+2014-08-22,200210,False,0

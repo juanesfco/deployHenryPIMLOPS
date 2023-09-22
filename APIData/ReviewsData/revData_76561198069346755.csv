@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-17,253710,False,'Free to Walk'
-2015-11-19,218620,False,"People couldn't see OverKill getting greedy a year ago with extreme amounts of dlc... microtransactions came into affect and everybody finally looses their ♥♥♥♥. I stopped playing this a couple of months after I bought it, because within that time, a ♥♥♥♥ load of dlc had been released which mean't that I had to drop another $10 a piece if I wanted to play the full game (though the prices did slowly go down over time)If you want to pay $130 for what should be now considered f2p standard because of the microtransaction paywall. go ahead.Tip: never buy a game that has 27 paid dlc.Seriously, I guarentee that they will make this free to play very soon... and by very soon, I mean within a months time."
+posted,item_id,recommend,sentiment_analysis
+2016-07-17,253710,False,2
+2015-11-19,218620,False,1

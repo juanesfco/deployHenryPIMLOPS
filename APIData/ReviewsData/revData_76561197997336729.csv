@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-09-11,236450,True,Great updated version of the classic.
-2015-06-28,239350,True,Worth a go. Old skool platformer
-2015-06-28,18700,True,Must play.
-2015-06-25,238460,True,A brilliant game with lots of modes. Must play...
-2014-04-21,204630,True,"$1 dollar special, worth it for the jukebox alone."
-2014-01-17,550,True,"Excellent game, especially the versus but unfortunately it is full with team stacking pro's that kill the fun."
-2013-12-23,35720,True,"Nice art style, voice acting and gameplay."
-2011-07-03,440,True,Trade Fortress 2. Now free. Keys not included...
+posted,item_id,recommend,sentiment_analysis
+2015-09-11,236450,True,2
+2015-06-28,239350,True,2
+2015-06-28,18700,True,1
+2015-06-25,238460,True,2
+2014-04-21,204630,True,2
+2014-01-17,550,True,2
+2013-12-23,35720,True,2
+2011-07-03,440,True,2

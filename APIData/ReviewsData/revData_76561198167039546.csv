@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-03-18,49520,True,this is a AWSOME game ! everyone should play it!
-2015-02-25,270550,True,this is really fun an its co-op
-2015-02-19,332800,True,this is a good game
-2015-03-12,354500,True,this is awsome its REAL LIFE PAYDAY 2
-2015-12-26,10180,True,i love this game it is SOOOOOOOOOOOOOO MUCH FUN!!!!!
-2015-02-19,301520,True,it is the best you get to build robots an fight
-2016-01-10,1840,True,ITS HARD
-2015-12-30,440,True,LOL i suck but its really fun to trade an play together for me i hve never traded before but people have sick items so yea i like this game i dont play it much but its still really good
-2015-07-31,265630,True,So Fun!! :D
+posted,item_id,recommend,sentiment_analysis
+2015-03-18,49520,True,0
+2015-02-25,270550,True,2
+2015-02-19,332800,True,2
+2015-03-12,354500,True,2
+2015-12-26,10180,True,2
+2015-02-19,301520,True,2
+2016-01-10,1840,True,0
+2015-12-30,440,True,2
+2015-07-31,265630,True,2

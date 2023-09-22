@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-28,290770,False,"More parts are on their way, but in the current state, it's not worth the full ten dollars. I completed it without tutorials in less than three hours, and I lack the common sense to solve most puzzles without heavy pondering.Here's an actual review for you:In this game, you are A.R.I.D., an AI helping an unconcious piot to safety by controlling his mechanical suit. All this game really boils down to is a point-and-click adventure game with some short combat sequences, from a side-scrolling perspective. The atmosphere is well-made, but I feel a majority of the puzzles are a bit too open-ended (for one, you have to jump underneath a ten-foot-wide elevator where the only control panel for it is on the elevator itself).Again, it's not worth it in its current state. I may change my review when more content is added.There is a Twilight Zone-caliber ending, though."
-2014-06-22,213670,False,"It's alright.It is fun, but repetitive. If you don't collect literally everything in an area, you won't be able to get that stuff ever again. That might not seem bad, but you should consider that about 5 of the achievements involve collecting all of a certain item type. That includes weapons, armor, friends, and combinations of the three.The game has a good 12 hours of playtime, but again, the combat gets repetitive.Also, you shouldn't get the armor set DLCs. They are both level 2 items and you outlevel them surprisingly quickly.Again, my opinion is that this game is good, but gets repetitive very quickly."
-2016-07-03,4000,True,they took my children
-2016-01-18,204360,True,buy the pink knight and kill demons with a lollipop
+posted,item_id,recommend,sentiment_analysis
+2014-12-28,290770,False,1
+2014-06-22,213670,False,2
+2016-07-03,4000,True,1
+2016-01-18,204360,True,1

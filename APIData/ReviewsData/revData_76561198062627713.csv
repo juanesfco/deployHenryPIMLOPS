@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-03-13,233610,True,"Did a front twist, triple right barrel roll, frontflip, double left frisbee 950 wallride and crashed into a building.Best game ever."
-2015-10-25,391540,True,"CHOO CHOO All aboard the Feels Train, next stop: Emotional Trauma10/10 would geeeet dunked on again"
-2014-09-25,211820,True,"While fun for a while, that joy quickly goes away as you realise that there isn't all that much to do. Sure, you can build stuff and explore worlds, but it aint all that fun.You might want to wait until this gets more updates to play it. On the dev blog, they say that they're working on a huge progress update, if it makes the game more fun, I might change my mind.-- EDIT AS OF UPDATE 1.0 --The game has been improved quite a bit, with better optimisation, a proper story, and tons of additions to combat, crafting and the environment. Even though I only played very periodically and didn't feel as if I was enjoying myself too much, in hindsight, I found myself sinking hours into this, hence my over 400 hours of playtime. If you abandoned this game before, now is a good time to jump back in and see if the big release has helped your experience. Certainly has for me!"
-2014-05-12,219740,True,"Great fun, unique art style, suiting music, what's not to like about this? Harsh gameplay, fun nevertheless.I've put many days into this game, never gets old! With a plathora of mods, it gets even better! Go buy it, why are you still reading this? And don't forget, you can grow a MAGNIFICENT BEARD!!!Be right back, need to run away from frogs."
-2016-06-26,364420,False,"Fun but irritating at times.There are many moments in this game that can be very easily classified as '♥♥♥♥♥♥♥t' and 'THAT WASN'T EVEN MY FAULT WHAT THE FU-' For example, burn damage can rack up very easily and obliterate yoUR LEVEL 71 CHARACTER BECAUSE ALL THE ENEMIES IN MOLTEN CRAG GIVE YOU A BAJILLION BURN AND THE DAMAGE INCREASES THE MORE BURN YOU HAVE AND THE ANTI-BURN DOES JACK-ALL BECAUSE IT'S TOO SLOW AAAAAAAAAAAAAAAA-This game also gives you no tutorial. The closest thing to a tutorial is a single NPC who gives you about 5 lines of text. I can't quite recommend this. It's good fun and all, but the balancing is pretty off, the difficulty randomly spikes for no reason and some parts of the game seem unfinished (for example, there aren't any tier 4 weapons.) Still gotta appreciate that this is all by one guy though."
-2015-12-21,242680,True,i beat one of the most annoying bosses in the game then immediately died to a chest with teeth.11/10
-2014-06-27,219890,True,"This game will test your thinking skills and you need to use them to progress.Signs are scattered everywhere with cryptic hints, and they really do help. Use them.Did I mention how much Antichamber ♥♥♥♥s with your mind? You could find a wall, turn around to look back and look at the wall again to see it replaced by another hallway.Because screw logic!"
+posted,item_id,recommend,sentiment_analysis
+2015-03-13,233610,True,1
+2015-10-25,391540,True,1
+2014-09-25,211820,True,2
+2014-05-12,219740,True,2
+2016-06-26,364420,False,1
+2015-12-21,242680,True,0
+2014-06-27,219890,True,1

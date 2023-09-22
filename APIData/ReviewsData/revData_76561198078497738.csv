@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-17,72850,True,캬~ 최고지 그냥
-2013-12-17,238320,True,이게임 만한게 없다
-2013-06-07,400,True,재미짐
+posted,item_id,recommend,sentiment_analysis
+2013-12-17,72850,True,2
+2013-12-17,238320,True,1
+2013-06-07,400,True,2

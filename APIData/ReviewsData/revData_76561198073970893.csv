@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-13,385800,True,Actual cancer.
-2014-11-08,317360,True,Better then sex.
-2014-08-16,263680,True,"this game is truly beautiful, there is not one bug or problem with the game, stunning graphics with magnificent sites to experience, great gameplay filled with fun shooting mechanics and some intense puzzles which will leave you well...puzzled for hours. This by far has to be one of the greatest games I've ever played, the writing and acting are to broadway stage performance quality, it is filled with funny one-liners, true, emotional and down to earth dialogue between the characters, nothing seems stupid or forced in the writing. So all in all, I would say it is almost a perfect game, my only complaint is that I feel the asking price for it is too damn high, maybe somewhere around half the price, and this game would be perfect.9.5/10 - IGN"
-2014-08-10,227480,True,"10/10 Hades is an absolute gun, what a ♥♥♥♥ing legend."
+posted,item_id,recommend,sentiment_analysis
+2015-11-13,385800,True,1
+2014-11-08,317360,True,2
+2014-08-16,263680,True,2
+2014-08-10,227480,True,2

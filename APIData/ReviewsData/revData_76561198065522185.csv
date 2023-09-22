@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-08,219740,True,"Well this is one of the actual survival games out there. The game is very fun to play, there is a lot to explore.8/10"
-2015-04-08,205100,True,"This game is awesome, Nice graphics. It's one of the best stealth action games I have played. You can complete a mission in many different ways, choose different paths to get to your objective.There's also magics like slow time , blink  etc which will help you alot. Great game overall 9/10"
-2014-06-13,63380,True,Its hilarious to see all those slo-mo shots this game is awesome
-2014-06-13,242700,True,I love this game soo much! The combat system is soo good. 1010
+posted,item_id,recommend,sentiment_analysis
+2015-04-08,219740,True,1
+2015-04-08,205100,True,2
+2014-06-13,63380,True,2
+2014-06-13,242700,True,2

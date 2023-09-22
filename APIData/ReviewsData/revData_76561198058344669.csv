@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-28,261570,True,"The presentation, mechanics and storytelling of the game make for a truly unforgettable and engaging experience."
-2015-02-24,346180,True,"'David.' is reasonably priced game for what it is (I finished most of it in about 1.5 hours). While at times it is frustrating, success is very satisfying. I would recommend this game if you are considering it and enjoy the genre. I also found the game quite pleasing to the eye although not necessarily visually impressive.Note: I am not referring to its current price of $5.00USD as of 24/02/15"
+posted,item_id,recommend,sentiment_analysis
+2016-03-28,261570,True,2
+2015-02-24,346180,True,1

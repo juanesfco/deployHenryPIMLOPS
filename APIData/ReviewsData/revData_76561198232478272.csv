@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-22,440,True,"I recommend this game to anyone who enjoys first-person shooters, as it is a very well made first-person shooter game. It's a very enjoyable game to play with friends, and there is heaps to collect. I'd also recommend it to new players on steam as it's a good starting point."
+posted,item_id,recommend,sentiment_analysis
+2016-02-22,440,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-04-21,243870,True,"Great Game. I need more people to team with. Its alot about communication and teamwork. In this you cant just run and gun or move by yourself. It is amazing looking and the Systems, parkour and graphics all combined make a amazing game. although it is pay to win and there are a few hackers on it its still great. 4 out of 5"
-2016-07-29,359550,False,"2.9 hours of WAITING FOR THE GAME TO CREATE A SQUAD!!!!! Ive contacted ubisoft support and NOTHING. does anyone know how to get around the creating squad problem, i cant even get to THE MAIN FRICKEN MENU because it doesnt even get to load to there."
-2014-12-06,227940,True,"Its a great game, needs a couple tweeks as most early access games do. One thing i think it needs it a voice chat, perhaps its proximity chat so everyone around you can hear (including enemies) but definitly needs it. If its already in the game and i just cant figure it out please do tell me XD"
-2016-04-02,427270,True,"Id recommend it greatly its an amazing game, im just having an issue with Sound not comming through when i open the game right now, seems to be stuck in the back tabs that are open (one other window that says when game finishes click here) any fixes for this? it is beta so i get this happens"
-2015-04-28,730,True,"Amazing, tactical, Its a game that takes practise and lots of it to be good. Annoyingly the amount of hackers is quite annoying, ruins the competitive gameplay. Casual games are always fun, community is quite nice. Unless there is someone under the age of 12 playing, then everyone just becomes a community of yelling at 6-12 year olds to go back to CODBut ive found many people, friendly, willing to help and very patient."
-2014-03-07,239220,True,"Great game. need people to play with. well more anyway, invade each other test out our defenses. and mostly kill things!"
+posted,item_id,recommend,sentiment_analysis
+2014-04-21,243870,True,2
+2016-07-29,359550,False,0
+2014-12-06,227940,True,2
+2016-04-02,427270,True,1
+2015-04-28,730,True,1
+2014-03-07,239220,True,2

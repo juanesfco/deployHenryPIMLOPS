@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-12,8930,True,Great game
-2014-11-27,233450,True,"Great game overall, offers great entertainment and realism overall.Graphics and sound are both nicely done, game mechanics work well and there are many things for you to do throughout the game. Fixes and new updates are being added all the time, this game can only get better! :D"
-2014-06-18,8190,True,Great fast paced action game with relatively decent mechanics. Action around every corner to keep you interested with an element of free-roam. All of this is topped off with nice looking graphics.
+posted,item_id,recommend,sentiment_analysis
+2016-05-12,8930,True,2
+2014-11-27,233450,True,2
+2014-06-18,8190,True,2

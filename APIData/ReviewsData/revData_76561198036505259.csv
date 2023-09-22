@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-06-08,281990,False,"Early game is very enjoyable, competing against other alien races individually to expand and collect new resource is very fun, but then you hit mid to late game and all enjoyment drops. Honestly wouldnt recommend this game"
-2016-03-12,427520,True,its good
-2016-01-20,386360,True,Good game. would recommend
-2016-01-12,246090,False,"Tim shaffer is a scamming hack.-This game is broken and abandoned.-The AI is completely broken-the game is boring-abandoned.Do not make the mistake to buy this terrible game. Tim schafer doesnt deserve anymore cheeseburgers, he is a disgusting human being already."
-2015-12-27,220440,True,"good game, worth it"
-2015-02-28,325610,True,"The best total war game as of yet, almost everything is perfect about this game. I do wish that the AI would stop razing every city they pass.(whilst im dealing with internal and local issues and expanding my empire, everywhere else is completely destroyed. Every city razed with only a few stragglers roaming looking for more, then there is no mighty empire for me to fight)"
-2015-01-24,295110,False,"money grab. bad game, dont buy now."
+posted,item_id,recommend,sentiment_analysis
+2016-06-08,281990,False,1
+2016-03-12,427520,True,2
+2016-01-20,386360,True,2
+2016-01-12,246090,False,0
+2015-12-27,220440,True,2
+2015-02-28,325610,True,2
+2015-01-24,295110,False,0

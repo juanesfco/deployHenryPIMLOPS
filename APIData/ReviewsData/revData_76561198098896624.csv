@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2013-12-16,4000,True,BEST GAME FOR SANDBOX PEPS
-2016-01-07,440,False,I hope I pass in my sleep
-2014-09-27,265930,True,iz good
-2016-02-05,236390,True,download takes so long
-2014-07-26,51100,True,ita a good game
-2016-08-27,319510,False,this is dog ♥♥♥♥
-2015-08-18,387860,False,needs more pepe 9/11 ign
-2016-03-25,377160,True,such a good game i would take a gun shoot for this game 10/10
-2015-03-27,218620,True,:walking with gold: :sees bulldozer::♥♥♥♥♥ pants::die blam it on lvl 1:
+posted,item_id,recommend,sentiment_analysis
+2013-12-16,4000,True,2
+2016-01-07,440,False,1
+2014-09-27,265930,True,2
+2016-02-05,236390,True,1
+2014-07-26,51100,True,2
+2016-08-27,319510,False,1
+2015-08-18,387860,False,2
+2016-03-25,377160,True,1
+2015-03-27,218620,True,1

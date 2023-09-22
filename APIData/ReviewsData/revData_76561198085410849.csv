@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-02-13,221640,True,Very addictive
-2014-10-28,200510,True,Awesome Game.....love Strategy Game. Would highly recommend this game! :D
-2014-09-29,304930,True,"Awesome Game, with intersting mc effects. Could be better by having a reset world function."
-2014-09-29,104900,True,"Interesting Game, nice original concept. Brought together with Unreal Engine. Awesome game, would be better if I had a better PC"
-2014-09-29,12830,False,"Mixed. It's an alright game, with interesting ArMA like commands to troops."
-2014-09-02,301520,True,Awesome Game....would highly recommend it.
+posted,item_id,recommend,sentiment_analysis
+2015-02-13,221640,True,1
+2014-10-28,200510,True,2
+2014-09-29,304930,True,2
+2014-09-29,104900,True,2
+2014-09-29,12830,False,1
+2014-09-02,301520,True,2

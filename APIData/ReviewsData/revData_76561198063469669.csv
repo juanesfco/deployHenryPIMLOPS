@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-06-21,440,True,"Pure, unadulterated fun."
-2015-03-02,253710,False,"Free to play is very far from the truth. Free to download is a more fitting description. It looks like a great game, but if you need a membership from the get go, and it's nearly impossible to obtain one quickly, it just makes for an unenjoyable experience."
-2014-06-21,17390,True,"The creatures you are able to create in this game is a selling point in itself, but gameplay is simple, fun and really rewarding!"
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,440,True,2
+2015-03-02,253710,False,2
+2014-06-21,17390,True,2

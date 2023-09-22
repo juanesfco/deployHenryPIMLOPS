@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-12,224260,False,"eu ja joguei, mas n gostei pq n tem zumbi nua"
-2015-10-12,230410,True,Vejam minha foto e se masturbem
-2015-10-12,373330,False,"esse jogo é ruim, n tem bixo nenhum ♥♥♥♥♥"
+posted,item_id,recommend,sentiment_analysis
+2015-10-12,224260,False,1
+2015-10-12,230410,True,1
+2015-10-12,373330,False,0

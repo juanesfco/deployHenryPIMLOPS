@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-03-28,236110,True,This is an amazing game which will keep you playing until you die.
-2014-06-25,440,True,Why did the spy cross the road?Because he was never on your side!
-2014-02-14,230410,True,I dont play this game much but I still love it and its really fun!
-2014-05-17,265630,True,I HATE it when people say hat this game is a rip off of tf2 because of gameplay trailers. I LOVE this game cuz its soo fun to play and its NOTHING lik tf2
+posted,item_id,recommend,sentiment_analysis
+2015-03-28,236110,True,2
+2014-06-25,440,True,1
+2014-02-14,230410,True,2
+2014-05-17,265630,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-21,730,True,The Best game Ever
-2015-05-29,31280,False,This Is Rubbish ive launched my game and it keep on crashing
-2015-05-29,440,True,I LOVE THIS GAME IVE BEEN PLAYING THIS GAME FOR 2 YEARS
+posted,item_id,recommend,sentiment_analysis
+2015-11-21,730,True,2
+2015-05-29,31280,False,0
+2015-05-29,440,True,0

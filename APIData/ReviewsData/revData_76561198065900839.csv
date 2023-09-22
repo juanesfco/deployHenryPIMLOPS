@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-20,402840,True,This game is better than Clicker Hero in every way 10/10
-2015-03-01,9900,True,Best game i have played so far with over 250hrs
-2015-10-31,404410,True,this game is awesome 10/10
-2016-08-26,449980,True,I love this new feature as it helps when you know a deadly disease hits and close the gates and be safe and wait it out. 10/10
-2015-07-24,385770,True,needs some some more guns but other than that nice game
+posted,item_id,recommend,sentiment_analysis
+2015-10-20,402840,True,1
+2015-03-01,9900,True,2
+2015-10-31,404410,True,2
+2016-08-26,449980,True,2
+2015-07-24,385770,True,2

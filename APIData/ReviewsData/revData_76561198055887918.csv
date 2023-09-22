@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-30,252490,False,"J'ai vraiment passé beaucoup de temps sur ce jeu et j'ai adoré les moments passé dessus avec mes amis mais les hackeurs (énormement) ont ruiner notre bons moments et à cause de cela certain de mes amis ont décider d'arrêter d'y jouer... Depuis les développeurs ont décider d'arrêter de travailler sur l'ancien rust et d'en créer un nouveau qui est selon moi , totalement ratée. le nouveau rust n'est pas encore complet et terminé. De plus il est très mal optimiser j'ai énormement du mal à jouer dessus comparé à l'ancien. J'ai l'impression que les choses avancent très lentement sur le nouveau rust à croire qu'ils sont 2 à travailler dessus... Donc pour ce qui souhaite acheter ce jeu , je pense qu'il est trop tard et  je vous le déconseille..."
-2015-03-22,255710,True,Nothing to say except that This Game may be one the best game of 2015
-2014-07-22,304930,True,Excellent.
+posted,item_id,recommend,sentiment_analysis
+2015-03-30,252490,False,2
+2015-03-22,255710,True,1
+2014-07-22,304930,True,2

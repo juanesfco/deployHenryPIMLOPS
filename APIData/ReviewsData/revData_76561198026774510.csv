@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-26,42910,True,"With an Inventive combat sytem and witty humour, filled with game refrences and movies lines this game is brillant."
-2013-01-25,4000,True,Really good for slapstick humour...OR JUST PLAIN WRONG THINGS!Seargent Whoopass:)
+posted,item_id,recommend,sentiment_analysis
+2013-12-26,42910,True,2
+2013-01-25,4000,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-06,226700,False,20 mins for 'revival'? GAYYYYYYYYYYYYYYYYYY
-2014-04-13,218620,True,"This game, this game. Its like holding YOUR newborn child. Its like eating nutella out of the jar. Its like you JUST got the clothes out of the dryer and they are snuggly warm. This game, feels amazing."
+posted,item_id,recommend,sentiment_analysis
+2014-04-06,226700,False,1
+2014-04-13,218620,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-10-02,383120,False,"HORRIBLE GAME, DO NOT PURCHASE IF YOU DO GET A REFUND, poor graphics, bad UI, if you want a space game based on minecraft get space engineers, player models are ... well Cr*p also controls are pretty iffy and sound is horrible DO NOT PURCHASE sorry developer but i did not enjoy those 6 minutes of play time one bit"
-2015-10-23,304930,True,Very Good
+posted,item_id,recommend,sentiment_analysis
+2015-10-02,383120,False,0
+2015-10-23,304930,True,2

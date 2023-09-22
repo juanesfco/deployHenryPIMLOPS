@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-06,32800,True,"An enthralling game about one of the many untold stories set during Frodo's quest to destroy the One Ring. A thorougly enjoyable experience that should definitely be part of any Lord of the Rings fans collection.I had a great time playing this game several times through, agonizing over which pieces of armour I should keep, having friendly chats with several members of the Fellowship, and significant others, while playing the game through each time with a different character, forcing me to rethink my battle strategies every time.The only downside I found in this game is how overpowered the crossbow was. I managed to defeat the final boss (who is supposed to be the hardest in the game) in under a minute on heroic difficulty."
-2014-03-30,8870,True,"An amazing game with an interesting storyline, awesome fights and great theories. I especially loved the 1999 mode challenge. A must have game for anyone interested in movement between parallel worlds and how they can interact with each other."
+posted,item_id,recommend,sentiment_analysis
+2014-07-06,32800,True,1
+2014-03-30,8870,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-16,10150,True,buenisiiimo juego es un vicio ewe
-2016-06-24,4000,True,bueno pa jugar con amigos :v
+posted,item_id,recommend,sentiment_analysis
+2014-02-16,10150,True,2
+2016-06-24,4000,True,2

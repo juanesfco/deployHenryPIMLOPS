@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-10-13,570,False,"It is apparent that Valve is no longer in touch with what makes a game great.They're quickly becoming very good at making games really really frustrating.Where have my compendiums gone? I had all of them, and now without explanation they are gone. That's the bit that I actually paid for, the compendiums.IF YOU GET THIS GAME DO NOT BUY ANYTHING BECAUSE VALVE WILL BREAK IT AND YOU WILL LOSE EVERYTHING.I cannot express how frustrated and disillusioned I am with valve right now.Also they didn't actually get the game working in the new client before they forced everyone to move over to it. The armory doesn't work at all. I can't do anything with any of my items, so it's all a bit useless."
-2014-01-22,244850,True,"Space engineers lets all your childhood space fantasies of building inter-stellar mark 7 cruisers to life, and then lets you fly them through space! Not to mention building stationary bases, inventing things and crashing your ships.The ship building tools are quite sophisticated, allowing large complex ships to be built quickly and with minimal hassle.I definitely recommend this game to anyone who wanted to play minecraft in space, but with physics!"
+posted,item_id,recommend,sentiment_analysis
+2015-10-13,570,False,1
+2014-01-22,244850,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-01-30,230410,True,♥♥♥♥ Awesome
-2014-04-01,211820,True,good game guy play it more fun that you think
-2014-11-12,242760,True,gay gameXD
-2014-06-22,570,True,WOW
-2014-04-17,440,True,RUIN MY LIFE LOL 5STAR
+posted,item_id,recommend,sentiment_analysis
+2014-01-30,230410,True,2
+2014-04-01,211820,True,2
+2014-11-12,242760,True,2
+2014-06-22,570,True,1
+2014-04-17,440,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-09-17,440,True,"i haven't played this game much, but its pretty good, i guessi like scouthe's coolhe's fastpretty weak uhjust go install tf2 nowit's worth itturst mei like pressing ENTERit's funwhy are you still readingjust install the game!k bye"
-2016-03-25,730,True,This game is so fkin amazingnuff said
-2016-07-30,291550,True,"Brawlhalla is a really fun with friends, and it's so rewarding when you smack someone off a cliffe"
+posted,item_id,recommend,sentiment_analysis
+2016-09-17,440,True,2
+2016-03-25,730,True,0
+2016-07-30,291550,True,2

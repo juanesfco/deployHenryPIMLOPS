@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-31,293780,True,This is amazing. I loff it. would play every day 10/10. Only suggestion is adding an online multiplayer. PLZ.
-2015-01-14,223710,True,Best horror game I have ever played. 10/10 +1n for jumpscares
-2015-01-14,630,True,Bob
+posted,item_id,recommend,sentiment_analysis
+2015-07-31,293780,True,2
+2015-01-14,223710,True,2
+2015-01-14,630,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-10-28,570,True,Great game if you're asian!
-2014-10-30,310031,True,'Let them eat cake!' -This could be you
-2014-10-28,236390,True,10/10 would bang
-2013-10-08,1520,True,"Great game, WILL TEAR APART FRIENDSHIPS!"
-2013-08-16,25890,True,"Mixes my political map and ww2 strategy fetish, perfect!"
-2011-09-12,34030,True,Its a great game for military strategists!
+posted,item_id,recommend,sentiment_analysis
+2014-10-28,570,True,2
+2014-10-30,310031,True,1
+2014-10-28,236390,True,1
+2013-10-08,1520,True,2
+2013-08-16,25890,True,2
+2011-09-12,34030,True,1

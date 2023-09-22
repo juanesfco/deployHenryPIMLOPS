@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-03-18,12120,True,"Fajna gierka, szczególnie, że są duże możłiwości zabawy i mozna sobie swobodnie biegać i grać, nie tylko szytwno wykonywane zadania :)"
-2013-11-24,10,True,"Ogólnie fajna gra, trudno nie polecić. Jedyny szkopół - ogromna fala cziterów."
-2013-11-24,570,True,"Jedna z najlepszych gier w jakie grałem. Aż dziwne, że jest darmowa..."
-2015-01-31,238320,True,"Muszę powiedzieć, że gra jest zajebista, grafika tak samo. Na prawde opłacało się kupić tą grę, a ja jeszcze trafiłem na promocję! <3Grafika ekstra, dopracowana w każdym szczególe. Miejsce gry wymagało odpowiedniego stonowania a tutaj jest ono idealne.Mechanika gry bardzo dobra, nie ma problemu ze sterowaniem czy przycinaniem się jak w niektórych grach.Dźwięk ekstra, czasami możnaby dostać zawału ja dopiero byłem na początku lokacji :D#Kotecek"
-2015-01-31,550,True,Fajna gra ktoś chce ponapierdzielać w jakieś dziwne rzeczy... :)
-2016-03-28,1250,True,"Co tu dużo pisać - zajebista gra :PDobra mechanika, dużo fajnych map, fajne bronie, ciekawe DLC. Czego chcieć więcej? :PNajlepiej grać wieczorem z dźwiękiem przy zgaszonym świetle :D"
-2016-04-11,371570,True,"Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click, Click..."
-2016-06-21,320030,False,"Nie ma to jak kupić DLC za 4,99 euro i rok później widzieć to samo i wiele innych DLC po 2,99 euro...Samo DLC takie sobie, w sumie z żadnej z tych rzeczy co tutaj jest nie korzystam, kupione do kolekcji z innymi."
+posted,item_id,recommend,sentiment_analysis
+2014-03-18,12120,True,2
+2013-11-24,10,True,1
+2013-11-24,570,True,2
+2015-01-31,238320,True,2
+2015-01-31,550,True,2
+2016-03-28,1250,True,2
+2016-04-11,371570,True,1
+2016-06-21,320030,False,1

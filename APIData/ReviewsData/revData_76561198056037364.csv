@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-11,1250,True,"Fantastic atmosphere and thoroughly enjoyable gameplay. Despite being an FPS it maintains a level of creepiness and even panic at times, keeping faithful to the genre. Would definetly reccommend you pick this up."
-2014-09-17,219150,True,"I got all the achievements for this game. Super replayable, fun as hell. Pretty much anybody should play this game unless you have a short temper. Mega hype for the sequel. This game will never leave my memory as the first I 100%ed and one of the best games I've ever played. 10/10."
-2014-03-17,105600,True,hype
-2014-03-17,440,True,I never knew i could get ♥♥♥♥ed by hats
+posted,item_id,recommend,sentiment_analysis
+2014-07-11,1250,True,2
+2014-09-17,219150,True,2
+2014-03-17,105600,True,1
+2014-03-17,440,True,1

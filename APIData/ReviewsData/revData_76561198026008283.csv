@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-25,318530,True,yes
-2014-10-05,105600,True,I HAVE PLAYED THIS GAME FOR OVER 1000 HOURS
-2014-04-12,200900,True,THIS IS THE BEST GAME EVER
+posted,item_id,recommend,sentiment_analysis
+2015-12-25,318530,True,1
+2014-10-05,105600,True,0
+2014-04-12,200900,True,2

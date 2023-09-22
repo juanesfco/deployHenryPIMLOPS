@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-01-07,221100,True,Got killed by a wallhacking zombie. 12/10 buckets of apples
-2015-06-05,201810,True,"This game is absolutely phenomenal, I would definitely recommend it."
-2015-02-09,346010,True,"Fantastic game, would recommend."
-2014-10-10,11390,False,Kinda like Burnout but bad.
-2014-07-09,250320,True,This games is pure amazing and very immersive.
-2014-06-24,24780,True,11/10 would IGN again.
-2014-06-21,274190,True,This game is awesome.
-2014-03-28,265930,True,This game is absolutely amazing.
-2014-01-03,203160,True,10/10 -Bannarnnannah
+posted,item_id,recommend,sentiment_analysis
+2014-01-07,221100,True,0
+2015-06-05,201810,True,1
+2015-02-09,346010,True,1
+2014-10-10,11390,False,0
+2014-07-09,250320,True,2
+2014-06-24,24780,True,1
+2014-06-21,274190,True,2
+2014-03-28,265930,True,2
+2014-01-03,203160,True,1

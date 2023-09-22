@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-30,244850,True,10/10
-2014-03-05,730,True,Yes best game
-2014-01-21,49520,True,I love this gmae
+posted,item_id,recommend,sentiment_analysis
+2015-11-30,244850,True,1
+2014-03-05,730,True,2
+2014-01-21,49520,True,2

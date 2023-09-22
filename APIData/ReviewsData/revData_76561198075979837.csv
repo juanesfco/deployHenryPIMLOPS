@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-01,730,True,"Best game I love it, very interactive and strategic while in Competitive but it does have some bugs nad things to improve but those are minor and I don't really mind but really good FPS for anyone."
-2015-11-05,271590,True,"One of the best games I have ever played! It's constant DLC updates make the game better each time, such as the Low Rider update and the Halloween. The game overall is amazing for the price that it is being sold, I am thumbs up all the way for this game! I do addmit that the game is a very large file but it is worth it!"
-2015-08-10,4000,True,"GMOD or Garry's Mod has to be one of my favourite games. One of the best features about GMOD is the addon feature where you can add anything, this can bring in new items, gamemodes, player models, and NPC's. Having the option to host your own private server is a nice feature where if you want to you and your friends can play around with the addons you found and have fun."
-2014-04-09,224260,True,"It is a really good game, I would recomend it for those people that like horror mixed with a first person shooter, and a multiplayer game. It is good for also all the people that like the zombie warfare where you are surviving and try to escape. Though I have not played much it is really fun."
+posted,item_id,recommend,sentiment_analysis
+2014-06-01,730,True,2
+2015-11-05,271590,True,1
+2015-08-10,4000,True,2
+2014-04-09,224260,True,2

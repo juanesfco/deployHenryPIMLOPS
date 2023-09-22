@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-10,8080,True,ok this game has got to be the best games ive ever played why cant more games be like this i cant wait to play the 2nd one i heard they just made things millions times better #Kane&LynchRules
-2015-02-05,28000,True,this game is really underrated it is the funnest game you will play i actually cant stop playing this games. ps. if you thought the shawshank redemption was good story then you will love this masterpiece
-2014-07-17,38210,True,Best game ever
-2014-07-11,12360,True,best game to play with friends
-2014-07-02,730,True,great game
+posted,item_id,recommend,sentiment_analysis
+2015-03-10,8080,True,2
+2015-02-05,28000,True,1
+2014-07-17,38210,True,2
+2014-07-11,12360,True,2
+2014-07-02,730,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-26,298600,True,It's like pure Nintendo games in FPS form. It works strangely well. I strongly recommend to anyone who likes challenging FPS games and can appreciate the subtle humour in the art design.
-2015-09-10,41070,True,The people who made this game can count to 3. 10/10.(Also it's really fun if you like meaty FPS's)
-2014-11-26,620,True,GOTY 2011-current
-2014-11-26,238460,True,Probably the closest thing you'll get to Smash Bros for PC. Pretty good art quality and and very amusing humor.Great game to play with a controller in Big Picture mode.
+posted,item_id,recommend,sentiment_analysis
+2014-11-26,298600,True,2
+2015-09-10,41070,True,1
+2014-11-26,620,True,1
+2014-11-26,238460,True,2

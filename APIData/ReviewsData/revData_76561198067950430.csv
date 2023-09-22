@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-07-22,24240,True,Amazing game really fun and requires team skill rather than just being lone wolfs. Just love the game!
-2013-01-11,22380,True,I love this game. Its really good and easy to play 11/10
-2012-10-31,49520,True,One of the best games ever made!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2013-07-22,24240,True,1
+2013-01-11,22380,True,2
+2012-10-31,49520,True,2

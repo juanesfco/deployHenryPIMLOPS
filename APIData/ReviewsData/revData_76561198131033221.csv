@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-25,264710,True,"I'm in love with this game, if I could play this game with my friends and there were more objective based activities I would most surely play this game to much!So far this game is beautiful, minimal graphical glitches other than the ground going mental now and then. I would say most poloshed Alpha game thus far!"
-2015-03-25,334070,True,"Does anyone know where I can get some Anti-Goosebumps cream? Also, maybe a place where I can get Adult Dipers for my next play of this game!10/10 would make my Girlfriend play it and enjoy it!"
-2015-09-04,391720,True,"I felt like I was a little child playing this game, I was scared to even turn a corner ^_^. You know those times where you're told not to do something so your mind automatically wants to do it? yeah not a good idea in this game unless you wanna go to the bathroom after!"
+posted,item_id,recommend,sentiment_analysis
+2015-03-25,264710,True,1
+2015-03-25,334070,True,2
+2015-09-04,391720,True,0

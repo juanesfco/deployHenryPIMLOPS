@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-02-11,252950,True,Suck in real life welcome to mlg driver simulator dont for get the blaze it when you hit da ball in a 420.
-2015-07-01,213650,True,good game
-2015-05-24,204360,True,its a great game i would pay $30 but i payed 15
-2015-04-26,91800,True,pretty clever
-2015-04-24,104700,True,i pretty much enjoyed it no bugs its been  long time since played though hf and gl
-2014-06-30,65800,True,ITS AWSOME
-2014-06-20,440,True,its great
+posted,item_id,recommend,sentiment_analysis
+2016-02-11,252950,True,2
+2015-07-01,213650,True,2
+2015-05-24,204360,True,2
+2015-04-26,91800,True,2
+2015-04-24,104700,True,2
+2014-06-30,65800,True,1
+2014-06-20,440,True,2

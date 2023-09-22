@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-01-13,391540,True,This game...It will make you laughIt will make you cryAnd it will mess with your head
-2014-02-08,57900,True,I played this so that if i ever go back in time and meet my teenaged self I can say 'I played Duke Nukem Forever'
-2013-08-27,245170,True,15860 backers on Indiegogo can't be wrong!
-2013-06-20,204300,True,A nice MOBA for beginners with a very colourful cast of characters.
-2013-06-12,221260,True,"This game is weird! However, the ending was quite nice."
-2013-04-06,225140,True,I forgot how much this game used to scare me...
-2013-02-28,440,True,[insert hat joke here]
-2013-02-28,4000,True,I attached rockets to a train and made it fly! What more could you want?
+posted,item_id,recommend,sentiment_analysis
+2016-01-13,391540,True,0
+2014-02-08,57900,True,1
+2013-08-27,245170,True,0
+2013-06-20,204300,True,2
+2013-06-12,221260,True,0
+2013-04-06,225140,True,1
+2013-02-28,440,True,1
+2013-02-28,4000,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-10,377160,True,"I had failed my final exams and was sad about it... so my boyfriend gifted me this gameNow I don't have social life, job, boyfriend and will probably fail in exams next year10/10 would fail exams again"
-2016-03-08,413150,True,I think I liked it.... a little
-2014-06-26,260230,True,"Jogo lindo, trama fantástica, arte e música sensacionais. Se você gosta de história então, vai se apaixonar. nota 9/10 unica coisa negativa nele é o UPlay, espero que a Ubisoft não vire uma EAgames da vida com aquele maldito Origin ¬¬"
-2014-05-16,256290,True,"Esse jogo é muito lindo! O jogo é uma aquarela e a música então, é fantástica! 10/10 se você gosta de contos de fada esse jogo é perfeito *-*"
+posted,item_id,recommend,sentiment_analysis
+2015-11-10,377160,True,0
+2016-03-08,413150,True,2
+2014-06-26,260230,True,2
+2014-05-16,256290,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-05-08,333980,True,"This is a game where you got to strip your enemies' clothes off before they can strip yours. Despite the crappy PC port with rather difficult to learn controls and extreme framerate issues I'd experienced from this game, overall its an enjoyable quirky game with a decent story and multiple endings/routes you can achieve. I wouldn't recommend you to buy this game due to the 30 bucks price tag, however definitely test out the demo first to see if your PC is capable of running this game with a decent framerate. If you enjoy the demo version, then I highly recommend buying the full version of this game when steam sales are on.I rate this game a 6.9/10.( ͡° ͜ʖ ͡°)"
-2016-08-05,346330,False,"Brainbread 2 is a fast pace zombie shooter game still currently being developed as of this stage. I started playing this game a few days ago and it was alright, despite some FPS issues and buggy animations in some official servers. I was planning to give this game a thumbs up, however after the 1.0.1.1 patch its literally impossible for me to join an official server due to the fact that all servers are in the US. Thus, everytime I join I get kicked for high ping (+200) since I play from Oceania region. Thereby, I cannot recommend this game as of now.Here are some improvement suggestions to devs:*Add official servers in Oceania region for South East Asian, New zealand and Australian players*Fix FPS issues on maps like Rooftop and Colosseum due to excessive spawning of zombies and bandits*Enable achievements for single player mode"
-2015-08-30,355840,False,"I watched the gameplays on YouTube, seems pretty awesome. However, when I tried playing this game from Australia, cannot even connect on a server.Sorry, but thumbs down for this one."
-2015-11-28,383080,True,( ͡° ͜ʖ ͡°)/( ͡° ͜ʖ ͡°) would ( ͡° ͜ʖ ͡°) again.
-2015-10-30,264380,True,"Goddmnit, who the hell is cutting onions!?"
-2015-08-30,304930,True,Unturned is a F2P survival game with the option to pay an extra 5 bucks for forever premium upgrade. No micro-transactions and a rather nice community. The devs also give out constant updates in a steady time period to add new features to the game. Definitely a plus on my list.
-2015-08-29,224260,True,"You got realistic gameplay, challenging obstacles and up to 7 other players that can cooperate with you in your survival of the undead. Heaps better zombie apocalypse experience than L4D2 IMO."
+posted,item_id,recommend,sentiment_analysis
+2016-05-08,333980,True,1
+2016-08-05,346330,False,0
+2015-08-30,355840,False,2
+2015-11-28,383080,True,1
+2015-10-30,264380,True,0
+2015-08-30,304930,True,1
+2015-08-29,224260,True,2

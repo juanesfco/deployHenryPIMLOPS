@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-26,222900,True,Muito Show
-2014-04-16,230410,True,muito ♥♥♥♥
-2014-03-29,206210,True,Esse jogo e muito ♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2014-07-26,222900,True,2
+2014-04-16,230410,True,2
+2014-03-29,206210,True,1

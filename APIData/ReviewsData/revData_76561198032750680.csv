@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-29,332800,True,"Died so many times on night 7, golden freddy mode especially from golden freddy10/10 best dying simulator ever"
-2015-10-19,337320,True,"There is not alot of levels, but they definetly have a replay value."
+posted,item_id,recommend,sentiment_analysis
+2014-11-29,332800,True,2
+2015-10-19,337320,True,1

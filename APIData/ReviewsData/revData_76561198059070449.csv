@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-12-29,421700,True,yeah the story ain't so great but who are we kidding.
-2015-09-06,221100,False,"There isn't even zombies this patch. ?!???/??!!??!?!??! Kind of funny though, a zombie survival game with no zombies..."
-2015-11-22,333600,True,Just buy it.
-2016-04-19,420110,True,"nekopara volume 2, rhymes with kill me."
-2014-12-26,7670,True,Bioshock invites to an interesting enviroment with very detailed characters and events. Even though its currently 7 years old its still a must buy.
-2015-10-02,220440,True,Good game very good.
+posted,item_id,recommend,sentiment_analysis
+2015-12-29,421700,True,2
+2015-09-06,221100,False,2
+2015-11-22,333600,True,1
+2016-04-19,420110,True,1
+2014-12-26,7670,True,2
+2015-10-02,220440,True,2

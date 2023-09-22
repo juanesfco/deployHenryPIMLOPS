@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-12,730,True,"Pretty good game, especially if you don't really need money or are easily addicted to gambling. tec-9 sandstorm/10 would throw away money again."
-2014-05-07,41100,False,Its a stupid ♥♥♥♥ingshit of a game
-2014-11-12,250900,True,"I cried on poop, 666/69 would kill my mother and miscellaneous fetuses again."
+posted,item_id,recommend,sentiment_analysis
+2014-11-12,730,True,1
+2014-05-07,41100,False,0
+2014-11-12,250900,True,1

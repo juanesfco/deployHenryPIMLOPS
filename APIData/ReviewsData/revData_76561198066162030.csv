@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-25,212180,False,"good from what ive herd cant play it, crashes"
-2014-12-05,282470,True,'whoo just got the dlc cant wai-' over heated'got ice and ready to roll' died fron exposure'murded every thing i am god!' killed by no fire or lightget this
-2014-10-02,214560,True,this is the firs game that nails ninjitsu I love the 2d action
+posted,item_id,recommend,sentiment_analysis
+2014-02-25,212180,False,2
+2014-12-05,282470,True,1
+2014-10-02,214560,True,1

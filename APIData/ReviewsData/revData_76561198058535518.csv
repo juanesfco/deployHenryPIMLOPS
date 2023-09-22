@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-03,115320,False,"This is not a review so much as a warning, i was compleatly unable to play the game as mouse inputs left click, right click or movement where all broken and there is no support for the game so there not likely to ever be fixed.I looked for a manual fix for my problem but all i found where more people with the same error that no one seamed to resolve as well as a tone of other bugs. If any person who buys a game has to look for a FIX for it before they can play something is seriouslly wrong and while people are haveing no problems 10$ on sale is still a gamble for something that might not work"
-2015-10-23,319630,True,An amazeing story and a very well crafted game.Best i have played in a long while 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-11-03,115320,False,0
+2015-10-23,319630,True,1

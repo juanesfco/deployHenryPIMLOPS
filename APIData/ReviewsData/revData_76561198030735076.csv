@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-10-20,570,True,"Join the other 8 Million people in world who have no lifes and play the russian simulator that will steal your soul, Dota 2"
-2015-04-09,339610,False,"Please dont play this game, but if you do please dont put money on this. Please dont download and slam."
+posted,item_id,recommend,sentiment_analysis
+2013-10-20,570,True,1
+2015-04-09,339610,False,0

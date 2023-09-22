@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-01,225140,True,"Duke Nukem 3D: Megaton Edition really is the definitive package for any fan of the Duke Nukem series, or early FPS games of the 1990s. With now added multiplayer support; the classic 4-chapter 'Atomic Edition', as well as each of the 'rare'  expansions in one bundle, completely remastered and compatible with modern PCs (at least Windows 7 by my experience) is something definitely not to miss."
+posted,item_id,recommend,sentiment_analysis
+2014-03-01,225140,True,1

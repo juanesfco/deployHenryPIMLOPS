@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-09,215670,True,This game was tence from start to finish with reasonable gameplay and pixelart but it is the story that really make it something special! 8.5/10
-2015-06-12,730,True,good
-2015-01-20,49520,True,GR8 Game Would R8 8/8 Thanks M8s at Gearbox
+posted,item_id,recommend,sentiment_analysis
+2015-07-09,215670,True,2
+2015-06-12,730,True,2
+2015-01-20,49520,True,1

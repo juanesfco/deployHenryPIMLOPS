@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-24,337660,False,"love the heist, but a couple of dollars to expensive! the heist itself is beautiful, especially on stealth but still to short.... comon overkill do some heists with at least 3 or 4 days ;)"
-2014-04-29,218620,True,amazing game!
-2016-03-01,268050,False,"Played for maybe 30 min and deleted it. Reasons are, i died around 15 times in 10 minutes. the camera is F+++++ stupid. cant see this big fella at the beginning who is casing you, because your egos head, body or what so ever is in the way, i always try to sneak, but he has ♥♥♥♥ing eagles eyes.... it should be a little bit easier right at the beginning!....controls are pretty bad too.played a lot of horror games, but this one leaves me icecold...no recommend!"
-2016-08-30,275850,False,"How i was rdy for it. waited 3 years, watched all trailers and game play, watched Sean telling  me and us about it. my god what these fellar wanted to implement and what he promised us. The game is not ready yet. May i wait an other 3 years until its finished wiht updates/dlc etc etc, then i may return.After 60 hours of gameplay i just discovered to start all over again, in an other galaxie, spending an other 60 hours again??? nooo thx u!I do not recommend this game!"
+posted,item_id,recommend,sentiment_analysis
+2014-12-24,337660,False,1
+2014-04-29,218620,True,1
+2016-03-01,268050,False,0
+2016-08-30,275850,False,0

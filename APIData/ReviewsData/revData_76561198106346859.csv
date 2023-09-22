@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-21,107410,True,gg
-2013-12-15,4000,True,"I personally think that this game is amazing and yet still has even better potential(I hope I spelt that right). th one thing that bothers me about this game though is the fact that you have to buy counter strike source to get textures, other than that this is a game that I recommend to everyone"
-2014-02-06,221100,True,This game is beutiful BUY IT NOW!
+posted,item_id,recommend,sentiment_analysis
+2014-03-21,107410,True,1
+2013-12-15,4000,True,1
+2014-02-06,221100,True,0

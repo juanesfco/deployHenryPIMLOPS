@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-17,255710,True,"FIRST CITY EXPERIENCE:>Loaded into game>Developed basic housing, commercial, and industrial areas. Everything seems okay.>Forgot about electricity.>Everyone's housing starting to have sh*t come back up their toilets.>Everyone left my city.>I felt lonely and depressed.11/10 - More emotions than walking dead."
-2015-01-30,218620,True,"PAYDAY 2 is a very fun experience to play with people online, friends or even by yourself. With personal preferences on ways to play the game through difficulty (Going from really easy to ball-busting hard), PAYDAY 2 provides a variety and puts a new playstyle on gaming that is rarely seen. With not just bank heists, but also drug busts, art pieces to steal and MANY more, the game is fun for almost anyone. One of my favourites. If I would rate out of 10, I'd say...8.5/10!"
-2014-12-12,730,True,"Pew pew, shooty shooty!"
-2016-04-14,374320,False,"Don't get me wrong. I am the biggest Dark Souls fan you will arguably meet. It is my favourite game series of all time and I was undescribably hyped for this game. As of now, I cannot recommend it. Although my PC isn't the best, I get a decent amount of frames which do make the game playable but that would make it a positive review, right? The game is bugged. It is in a bad, unstable state and needs to be patched. Currently, I cannot attack enemies and they cannot attack me. I can walk through them as if they were not there. I really hoped this wouldn't continue, but I cannot progress through the game. Many of my friends with good PC's also complained about the extremely long start-up times and FPS issues. However, from my point of view I cannot play the game. This review warns people of the bug and I hope this issue is fixed as I am desperate to play this game.EDIT: Discovered the only way I can be attacked or enemies can be attacked is if you strike their initial spawn location. Still makes the game unplayable."
-2015-05-23,440,True,"Ever wanted to feel like a business man, rolling in dosh? TF2 does just that!More trading than slaves in Ancient Egypt 21/10 - Ign"
+posted,item_id,recommend,sentiment_analysis
+2015-05-17,255710,True,1
+2015-01-30,218620,True,2
+2014-12-12,730,True,1
+2016-04-14,374320,False,1
+2015-05-23,440,True,1

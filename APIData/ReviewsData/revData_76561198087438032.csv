@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-20,248570,True,"Very nice animation fighting game, Hard to learn but fun to learn it along the way."
-2014-05-21,8870,True,"I love this game.Good story some twists in it, the gameplay is amazing."
+posted,item_id,recommend,sentiment_analysis
+2014-11-20,248570,True,1
+2014-05-21,8870,True,2

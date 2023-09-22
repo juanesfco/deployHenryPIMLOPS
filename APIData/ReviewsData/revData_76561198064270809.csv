@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-19,35450,True,realistic WWII game
-2015-08-30,236390,False,this game become pay 2 win
-2016-07-12,227300,True,Chill Simulator 2016
-2014-01-29,1250,True,Fun that L4D2
-2013-08-23,440,True,Best Game forever
+posted,item_id,recommend,sentiment_analysis
+2014-11-19,35450,True,0
+2015-08-30,236390,False,2
+2016-07-12,227300,True,1
+2014-01-29,1250,True,2
+2013-08-23,440,True,2

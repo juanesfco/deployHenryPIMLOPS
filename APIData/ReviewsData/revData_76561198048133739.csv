@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-11-29,34870,True,only 5hr campaign for 30USd?
-2013-11-05,209160,True,"Pro Tip: before u purchase this game please ensure your computer has enough space to store it, the campaign is 28.4 GB and the multiplayer is 24.2 GB."
-2013-10-08,202970,True,"BEST Call of Duty yet! Ghosts is on the way and i hope will be better!GREAT STORY,past and present+ a lot of advanced tech from the future if u want fps games, also this game is totally worth your money"
-2013-09-09,220240,True,Just get this game if you like FPS free roaming games
-2013-06-26,42680,True,good game if u don't mind getting owned at first
-2013-06-15,55230,True,"FREAKIN AWESOME u can control satelite missle, air strike and fly attack chopper at any time and theres a ZOMBIE mission. better than GTA definitely  :)"
-2013-04-14,440,True,AWESOME especially Mann vs Machine( Co-op)!!!!!
+posted,item_id,recommend,sentiment_analysis
+2013-11-29,34870,True,1
+2013-11-05,209160,True,0
+2013-10-08,202970,True,2
+2013-09-09,220240,True,1
+2013-06-26,42680,True,2
+2013-06-15,55230,True,2
+2013-04-14,440,True,2

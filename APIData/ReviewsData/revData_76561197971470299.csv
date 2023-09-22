@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-25,480631,False,RIP Fallout.
-2015-06-01,271590,True,"It's pretty good man.Enough said, because if you don't own it already it's almost certainly because you find the series offensive."
-2014-01-15,440,True,Best classic game.I have put more hours into this game than I have into thought.
+posted,item_id,recommend,sentiment_analysis
+2016-07-25,480631,False,1
+2015-06-01,271590,True,2
+2014-01-15,440,True,2

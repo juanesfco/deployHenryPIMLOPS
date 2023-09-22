@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-07-25,223470,True,"Really enjoyable single player, but now that gamespy is gone, there is no multiplayer servers up :("
-2012-07-17,42680,True,Pretty good multiplayer.
-2012-06-01,31280,True,"Its living off of the tf2 items, but its a fun game in its own right."
-2012-05-09,620,True,The second best co-op game (behind L4D) around. Funny and thought engaging.
-2012-05-09,72850,True,"IMO one of the best RPG's ever, a must play."
-2011-12-27,400,True,"I really like this game, but I couldn't find the stupid cake."
-2011-07-28,630,True,"For a free game, It could be much worse"
-2011-07-28,550,True,"Apart from it being censored here in Australia, there is nothing bad I can say about this game"
-2011-07-28,4000,True,great for people willing to put time into mastering its tools.
-2011-06-06,440,True,Just simply the most fun you can have online.
+posted,item_id,recommend,sentiment_analysis
+2016-07-25,223470,True,0
+2012-07-17,42680,True,2
+2012-06-01,31280,True,2
+2012-05-09,620,True,2
+2012-05-09,72850,True,2
+2011-12-27,400,True,0
+2011-07-28,630,True,0
+2011-07-28,550,True,0
+2011-07-28,4000,True,2
+2011-06-06,440,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-11-18,332540,True,"Early in game, but I'd say for it's price, it's definately worth it. Interesting combat mechanics as well as, it seeming to be pretty replayable thus far.For it's price, if you like roguelikes or dungeon crawlers, I'd pick it up, I'd pay more for it, probably."
-2015-05-05,271590,False,"This is simply in protest of Rockstar's modding policies. Even banning people for modding in single player only get banned and that's too far. For a popular PC game, especially GTA, you should of expecting modding from the start."
-2014-08-06,293740,True,I made a Demonic Rabbit that eats everything and poops gold.
-2015-07-17,369060,True,"I played this game more often when it was in beta, but now that it's released I do see some definate improvements! It's a very simple game, a good little time waster. The only gripes I have with it is the non-variable jump height and no native controller support. But the game itself is pretty fun and I would recommend it."
+posted,item_id,recommend,sentiment_analysis
+2014-11-18,332540,True,2
+2015-05-05,271590,False,1
+2014-08-06,293740,True,1
+2015-07-17,369060,True,1

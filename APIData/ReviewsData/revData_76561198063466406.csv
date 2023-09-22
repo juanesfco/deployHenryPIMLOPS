@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-29,244850,True,i love dis game
-2014-02-16,34330,True,hell yea love this game takes agers to downloed but worth it
-2012-06-11,48700,True,frieken fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuun!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-04-29,244850,True,1
+2014-02-16,34330,True,2
+2012-06-11,48700,True,1

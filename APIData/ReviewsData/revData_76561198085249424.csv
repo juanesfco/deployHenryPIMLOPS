@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-03-15,440,True,"F*ck the world, I'm going to PyroLand!"
+posted,item_id,recommend,sentiment_analysis
+2013-03-15,440,True,1

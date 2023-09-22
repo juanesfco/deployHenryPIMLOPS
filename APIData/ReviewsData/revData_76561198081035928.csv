@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-26,4000,True,I recommend this game it is my favorite game ever on steam. It has Workshop items custom gamemodes Etc. You should get this game if you have'ent already. This was also what started my steam account! Epic game!
-2013-12-08,200210,False,"Meh, It's okay I just don't like it. Not really alot to do and basicly YOLO in this game."
-2013-12-07,8190,True,"Great Game, Lots of side missions and regular missions. The graphics are insane, but if your not sure you want to buy it, try the demo! It's a 30 Min trial of the game in Freeroam mode. This game is only $14.99 so I would get it!"
-2013-11-27,72850,True,Amazing game! Second favorite game on steam!
+posted,item_id,recommend,sentiment_analysis
+2013-11-26,4000,True,0
+2013-12-08,200210,False,1
+2013-12-07,8190,True,0
+2013-11-27,72850,True,1

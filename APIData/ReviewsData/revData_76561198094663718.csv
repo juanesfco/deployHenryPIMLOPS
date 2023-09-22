@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2013-11-12,219740,True,Don't Starve...seriously....It sucks....No one likes starving....so play this game and get food...
-2014-11-23,242860,True,Nothing like the smell of blood and mud in the morning.
-2014-03-15,4000,True,Wanna fly a bathtub? Well now you can with one of the best sandboxes of all time!
-2014-11-23,245620,True,Nothing like seeing your president walking down the street in a pink astronaut suit.
-2014-11-23,252490,True,Our friend killed us all....What a traitor.....#BlameKaya
-2014-11-23,200510,True,Sent an entire squadron of rookies against aliens.....Everyone died.....92030/10
-2014-11-23,227940,True,BIKE SQUADRON 8.....ROLL OUT!!@!121111!!!!2121@@!@1!1!!!!!!1
-2014-11-23,10500,True,Invaded England as India.....Now all of Britain belongs to me.... 11/10
-2013-11-20,209080,True,Fly ships...Shoot at other ships...like ships...play this game...Oh btw....I said FLY!...Yes...Aiships..Not land ships or sea ships...Airships...That is all...I like full stops..............
-2013-06-21,440,True,Good Game...Very intence...-Sir Knightlyship of the Tree
+posted,item_id,recommend,sentiment_analysis
+2013-11-12,219740,True,0
+2014-11-23,242860,True,1
+2014-03-15,4000,True,2
+2014-11-23,245620,True,0
+2014-11-23,252490,True,0
+2014-11-23,200510,True,1
+2014-11-23,227940,True,1
+2014-11-23,10500,True,1
+2013-11-20,209080,True,2
+2013-06-21,440,True,2

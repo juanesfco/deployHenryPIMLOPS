@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-27,239140,True,Parkour + Zombies? Who wouldn't love to play this game.Although you'll need a pretty decenty up-to-date to play this game without lag
-2014-06-04,63380,True,"Died 11 times in the first 30 minutes of gameplay.If you want a challenge, play this on the hardest difficulty and you'll definitely have loads of fun."
+posted,item_id,recommend,sentiment_analysis
+2015-01-27,239140,True,2
+2014-06-04,63380,True,2

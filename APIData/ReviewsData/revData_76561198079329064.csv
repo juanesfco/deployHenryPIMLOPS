@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-04,70,True,This is the reason I am waking up in the morning and going to bed in the morning. '10/10 IGN. Like Skyrim but too much Crowbar.'
-2015-01-04,220,True,The reason Half-Life 3 is needed like drugs in a rehab centre.
-2014-01-14,230410,True,Ermaguerd!!! So fast paced and intense. I played with my friends for a whole day/night IRL cycle. This is the most fun and addictive game I have ever played. Slightly bugged but for a free to play game the ninja moves are worth it.
+posted,item_id,recommend,sentiment_analysis
+2015-01-04,70,True,2
+2015-01-04,220,True,1
+2014-01-14,230410,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-30,400,True,"Portal 1 was a good game until the third playthrough i did: The most creepy and freaky things started happening, it was as scary stuff. It's fun but don't play it three times unless you want a scare"
-2014-11-30,244850,True,"Space Engineers was a good game except for the lag, but apart from that it's a good game based in spaceeeeeeeeeeee!with mining, defence and possibly spaceeeeee pirates."
-2014-07-05,620,True,i quite liked this game and was not at all suprized to see the massive quantity of good reviews this game has had. Valve could even possibly make a third portal game! good work Valve!
+posted,item_id,recommend,sentiment_analysis
+2014-11-30,400,True,1
+2014-11-30,244850,True,2
+2014-07-05,620,True,1

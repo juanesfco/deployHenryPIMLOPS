@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-15,620,True,you should try it out it's a puzzle game also funny
-2013-05-21,105600,True,It is awesome!
+posted,item_id,recommend,sentiment_analysis
+2014-03-15,620,True,1
+2013-05-21,105600,True,2

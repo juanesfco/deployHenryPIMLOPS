@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-15,218230,True,es muy bueno el juego lo recomiendo mucho 
-2014-08-09,236390,True,muy bueno el juego
-2014-08-06,203290,True,es muy bueno este juego tiene buenas armas llo recomiendo mucho
+posted,item_id,recommend,sentiment_analysis
+2014-07-15,218230,True,2
+2014-08-09,236390,True,2
+2014-08-06,203290,True,2

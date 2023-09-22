@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-31,238320,True,Cheio de monstros perseguindo você e querendo te matar a unica coisa que você tem é uma camera... 10/10
-2015-06-19,332800,False,achei legal...mesmo sendo dificil...pra ♥♥♥♥♥♥♥...passar da...quarta noite...demorei um ano mas...                                                                                                                                              termino o                                                                                                                                                                                                                                          comentario agora
-2015-01-01,4000,True,"BOM PRA KCT!! nessa budega vc faz qualquer coisa!!!! vc pode matar,joar,detonar,exlorar,explodir,bricar,fazer imagems,fazer videos ah e tambem tem os MILHOES de mods pa vc baixa assim esse jogo fica muito melhor"
-2014-09-24,550,True,adorei esse game no pc e muito melhor que xbox 360 no pc vc tem ate as CAMPANHAS DO LEFT 4 DEAD 1! E VC NEM PRECISA COMPRAR O 1 PARA PODER JOGA-LAS NO 2 E UM ECELENTE GAME O MEU FAVORITO VO JOGA ELE NOS PROXIMO 40 ANOS TALVES E E MUITO DIFICIL ACHAR UM GAME PARA SUBSTITUIR ESTE IMPOSSIVEL PRA MIM
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,238320,True,2
+2015-06-19,332800,False,1
+2015-01-01,4000,True,2
+2014-09-24,550,True,0

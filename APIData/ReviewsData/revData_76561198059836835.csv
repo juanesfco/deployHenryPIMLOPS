@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-31,730,True,Bet regret. :)-Thankyou gaben
-2015-01-06,302830,False,"Joined 3 seperate games, on 3 different servers, full of hackers and there are no Oceanic servers, so you are extremely laggy, if the developers could work and servers for more regions and a better cheat detection system, then this game wouldn't be so bad."
-2013-12-05,240,True,"Good game, not a fan of normal game but surfing is really fun, if buying this game defintaly find a surf server and learn."
+posted,item_id,recommend,sentiment_analysis
+2014-12-31,730,True,2
+2015-01-06,302830,False,1
+2013-12-05,240,True,1

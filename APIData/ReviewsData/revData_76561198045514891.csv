@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-02,218230,True,why would you not like this game??
-2016-03-22,311210,False,"I'm to disabled to play this fast paced game, people flying everywhere with them ♥♥♥♥♥♥♥ jetpacks..."
-2015-06-13,730,True,"CSGO is that friend that everyone hates, but still gets invited to all the parties."
+posted,item_id,recommend,sentiment_analysis
+2013-12-02,218230,True,0
+2016-03-22,311210,False,0
+2015-06-13,730,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-25,42960,True,"I really recommend Victoria series if you like the 19th century, and the Victorian age. Personally I think this is the hardest game made by Paradox so far. But if you learn how to play, it will be really fun."
-2014-02-16,239030,True,fantastic
-2014-02-05,236850,True,My no.1 game all the time.
+posted,item_id,recommend,sentiment_analysis
+2014-03-25,42960,True,1
+2014-02-16,239030,True,2
+2014-02-05,236850,True,0

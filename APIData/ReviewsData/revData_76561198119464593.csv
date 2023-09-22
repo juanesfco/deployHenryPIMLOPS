@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-04-14,431500,False,"The controls for this game are so bad. It took me forever to figure them out and when I did, my experience with this game was still horrible. This game is absolutely terrible. I just wasted 10 minutes of my life."
-2015-12-15,378370,True,"Nomad is a very decent survival game. It is worth buying although, there aren't too many players at the moment. I hope more people purchase the game in the future."
-2016-03-06,570,True,Pretty decent game.
-2016-02-06,244590,True,Fun but no one plays it anymore :(
-2015-10-03,248570,True,"Toribash is very addictive. If you are bored and need a 'Free to Play' game to keep you busy, you should get this game! At first, you would probably find the game confusing but after randomly causing your ragdoll to do multiple backflips and 360's, you'll eventually understand the game. I used to really enjoy playing this 2D ragdoll game called 'Ragdoll Masters' and this game brings back memories from back then. Toribash still has a few minor bugs but otherwise, it is a very enjoyable game."
-2015-08-25,105600,True,"This game is no doubt, the greatest 2D Sandbox game of all time. This was my very first game on steam and it was definitely worth getting it.There are 21 bosses in the game from what I remember and tons of weapons you could get. You can fight monsters, build anything, and explore! You can join in your friends' worlds and team up together to defeat the bosses.In my opinion, I would recommend this game for people from ages 8 and above.The game is also available on iOS, Android and Console (XBOX, PS3).10/10"
-2016-04-14,270450,True,Great game. Awesome graphics and soundtracks.10/10
-2016-03-23,218620,True,Never felt so good about capturing a bag mid-air.10/10
+posted,item_id,recommend,sentiment_analysis
+2016-04-14,431500,False,0
+2015-12-15,378370,True,2
+2016-03-06,570,True,1
+2016-02-06,244590,True,0
+2015-10-03,248570,True,0
+2015-08-25,105600,True,1
+2016-04-14,270450,True,2
+2016-03-23,218620,True,2

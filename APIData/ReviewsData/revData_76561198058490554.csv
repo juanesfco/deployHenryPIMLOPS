@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-13,240,True,best game ever! A+++++++
-2015-07-29,730,False,I GOT VAC'D BECAUSE MY BROTHER WAS ON HERE HACKING FOR ♥♥♥♥ SAKE
-2014-09-24,4000,True,derpaherp m8
+posted,item_id,recommend,sentiment_analysis
+2015-06-13,240,True,2
+2015-07-29,730,False,1
+2014-09-24,4000,True,1

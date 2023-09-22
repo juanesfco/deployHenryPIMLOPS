@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-24,40100,True,"Great game, but needs more players"
-2016-01-03,440,True,"Pretty fun, but needs comp"
-2015-09-24,730,True,csgo is love csgo life 10/10
+posted,item_id,recommend,sentiment_analysis
+2016-03-24,40100,True,2
+2016-01-03,440,True,2
+2015-09-24,730,True,2

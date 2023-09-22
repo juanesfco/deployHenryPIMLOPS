@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-05,388490,False,"This game has literally no logic, intresting concept, but overall it is incredibly short, stupid, not fun, and a waste of time.2/10 - Needs serious ImprovementSorry mate, the concept you had was interesting, if not polished. Make the game longer, and make sure there is a way to win by actaully remembering which one is good; not by complete random guesses. My advice, look at what you are trying to make, and put yourself in the eyes on the user. Hope that helps you out on your next game."
-2014-06-24,1840,True,"2 (by the power of 3) /10 (8/10) its a fun software, definetly useful for animators. (MUST SEE TUTORIALS)"
-2014-05-29,248570,True,"This game has a lot of creativity. I enjoy this game because it never is the same. the oppenents are different, the skills needed in fighting them maybe a noob or to a pro. a real challenge thats still fun, yet get you to work with different moves. Wonderful. 9.5/10 "
+posted,item_id,recommend,sentiment_analysis
+2015-09-05,388490,False,1
+2014-06-24,1840,True,2
+2014-05-29,248570,True,2

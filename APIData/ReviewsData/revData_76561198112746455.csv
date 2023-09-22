@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-08,440,True,10/10 made the voices in my head louder.
-2016-02-24,730,True,so adictive i forgot to feed my kids and they died :(( 1 liek = 1 mcnuggets
-2016-01-11,250320,True,"An amazing game with an interesting story, packed with great remade and modernised classic fable characters. A must for fans of the Telltale Games series. Definitely my favourite game of the genre and I reccomend anyone to try it."
+posted,item_id,recommend,sentiment_analysis
+2014-03-08,440,True,1
+2016-02-24,730,True,0
+2016-01-11,250320,True,2

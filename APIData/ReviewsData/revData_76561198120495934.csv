@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-05-11,465020,True,"Honestly I believe this game is one of the best i've ever played.I've never really been into 2D games much, but hell.. this is fun!I'd like to also thank Zuurix for giving me a free key since I was too poor to afford it.And overall, this game is just incredible!10/10"
-2016-07-30,224260,True,By far one of my most favourite Zombie games.This game has lots of different servers and gamemodes which can keep you occupied for HOURS!10/10 - IGN
-2016-05-07,620,True,"I like to shoot guns. Doesn't matter what they shoot, as long as it's a damn gun."
-2016-04-29,440,True,I love to burn other people with flamethrowers.And I get to do it again in TF2.
-2016-01-09,113400,True,Meh. Ok
-2016-01-03,10090,True,"This game is so much fun!I only had this game for 2 days so far and I have had the most fun ever!I love the custom maps and I am suprised how smooth it runs on my (Pretty OK but still bad) Laptop!I found on Cheese Cube Unlimited, is the most smooth. I run at 60fps on that map and I cant even run minecraft at that!(Not that I still have it, i played it a loooooong time ago on this laptop)"
-2015-12-24,4000,True,This game is honestly my most favourite game of all.There are endless possibilities as well as endless fun.So why not buy it while on sale for christmas!Only 3 dollars (I got it for 16$)
-2016-09-02,242860,False,"Seems like a pretty nice game.But it's just really dead.I've already refunded this game as the only game was with 2 people on a co-op defense thing.Not worth the buy really, but it looks like it would have been fun when it was alive."
-2016-07-30,394690,False,I have a great PC....I got 10 FPS.....I refunded the game and got something else.
+posted,item_id,recommend,sentiment_analysis
+2016-05-11,465020,True,1
+2016-07-30,224260,True,1
+2016-05-07,620,True,1
+2016-04-29,440,True,2
+2016-01-09,113400,True,2
+2016-01-03,10090,True,2
+2015-12-24,4000,True,0
+2016-09-02,242860,False,2
+2016-07-30,394690,False,2

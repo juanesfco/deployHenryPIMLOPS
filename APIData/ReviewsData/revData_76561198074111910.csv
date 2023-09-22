@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-09-17,268420,True,I like this game and it's abit like sao(sword art online).
-2014-07-14,550,True,Cool game with lots of fun addons.
-2014-06-25,239660,True,Awesome game with cool guns and game mods.
-2014-09-04,207230,True,Good anime fighting game.
-2014-01-10,99900,True,Awesome game
-2014-05-02,212800,True,Looks simple but its really challenging.
-2014-02-03,223710,True,THIS GAME IS KINDA SCARY BUT COOL.
-2013-12-04,209870,True,its AWESOME
-2013-11-15,440,True,ITS EPIC
+posted,item_id,recommend,sentiment_analysis
+2014-09-17,268420,True,0
+2014-07-14,550,True,1
+2014-06-25,239660,True,2
+2014-09-04,207230,True,2
+2014-01-10,99900,True,2
+2014-05-02,212800,True,2
+2014-02-03,223710,True,0
+2013-12-04,209870,True,2
+2013-11-15,440,True,1

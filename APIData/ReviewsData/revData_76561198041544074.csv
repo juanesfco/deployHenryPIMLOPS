@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-02-11,218230,True,Enjoy the freeness
-2014-02-05,8930,True,Give this game a good ol rub
-2014-05-30,203140,True,This game has so many ways to play! Heaps of replayability! Such fun
-2014-04-01,213670,True,"This was my favourite gmae so far this year! Can't wait for dlc, beats titanfall in my books!"
-2014-06-26,218620,True,Get Monay Get ♥♥♥♥♥es
-2014-06-20,220240,True,Bangs will cry if you don't play this game...
-2013-11-27,550,True,Quite an enjoyable game... Just don't play it in the dark!
-2013-11-27,207610,True,"This game was my favourite telltale game so far, brilliant writing."
+posted,item_id,recommend,sentiment_analysis
+2014-02-11,218230,True,2
+2014-02-05,8930,True,2
+2014-05-30,203140,True,2
+2014-04-01,213670,True,2
+2014-06-26,218620,True,1
+2014-06-20,220240,True,0
+2013-11-27,550,True,1
+2013-11-27,207610,True,1

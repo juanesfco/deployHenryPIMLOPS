@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-27,109600,True,"it's really fun, even if you prefer to run solo it's still doable, plus even though there are micro transactions you can still get that gear for free"
-2015-12-04,250320,True,"I have played through the whole game and i can honestly say, if you're starting out on point and click adventure games, this is a great game to start on. Pros.The story is cool. the characters are interesting . the choices you make matter in the end. a lot of the characters are hot as ♥♥♥♥ (men and women)Con. lots of Quick Time Eventseven though the QTEs happen often it helps you pay attention to the story, it's just something to warn people about if they don't like QTEs 100% reccomend ths game"
-2015-10-26,204360,True,"extremely fun, and like Behemoth's policy that Dlc money goes to charity"
-2015-06-10,250760,True,"Very fun, mildly frustrating, but only cuz i made a mistake not cuz the game has faults. Story holds my attention and the replay value is significantly high. All in all perfect game in my book"
-2013-12-12,49520,True,Really funny it's the only game my brother and I had to pause the game because we were laughing so hard.
+posted,item_id,recommend,sentiment_analysis
+2015-10-27,109600,True,2
+2015-12-04,250320,True,2
+2015-10-26,204360,True,2
+2015-06-10,250760,True,1
+2013-12-12,49520,True,0

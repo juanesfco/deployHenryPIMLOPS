@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-05,730,True,Top game for top fraggers
-2014-09-01,10,True,First online shooter I played
-2015-12-24,222880,False,This game should be free
-2014-09-01,240,True,My childhood <3
+posted,item_id,recommend,sentiment_analysis
+2014-05-05,730,True,2
+2014-09-01,10,True,2
+2015-12-24,222880,False,1
+2014-09-01,240,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-17,620,True,ZEREI EM APENAS 9 HORAS ! (E VC EM QUANTAS HORAS ZERARIA!)
-2013-12-15,440,True,Kra é fodha
+posted,item_id,recommend,sentiment_analysis
+2013-12-17,620,True,2
+2013-12-15,440,True,1

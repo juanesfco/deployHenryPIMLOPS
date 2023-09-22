@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-08-28,48700,True,epic
-2013-07-02,218230,True,"This, son is a game.If you dont get it, youll die. This is no joke... its reality.we will all diedeaht death death death death embrace it our lord shall deliver us from all evil so embrace your sacrifice with open arms"
+posted,item_id,recommend,sentiment_analysis
+2015-08-28,48700,True,1
+2013-07-02,218230,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-28,730,True,i beti made cashgot a knifesold knife for real moneynow $400 richer
-2014-12-29,107410,True,I Strongly recommend getting this game to anyone that has a good PC and enjoys the likes of battlefield and maybe Call of Duty and anyone that has previously owned a AmrA Game 
-2012-07-31,8980,True,THIS IS AWESOMNE
+posted,item_id,recommend,sentiment_analysis
+2015-01-28,730,True,2
+2014-12-29,107410,True,1
+2012-07-31,8980,True,1

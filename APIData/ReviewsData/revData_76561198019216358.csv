@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-23,247000,True,Fantastic Game true to the board game !!
-2016-04-19,330840,True,"Awesome Series! Closest thing to GoT fix off season, story and characters are great and ties in well with the show. only problem is i found it too short... just like the Tv series. highly recommend a play through though!"
-2014-06-23,4580,True,"Best DoW Game Ever, Worthy of a spot in any collection!!"
-2014-06-23,223830,True,"Fantastic Game based on xcom, just the right amount of awesome in every way. !!"
-2014-06-23,245620,True,"'Amazing Game, buy it or i will have your family fed to the Llamas' - El Presidente."
-2014-06-23,34330,True,Possibly the best EVER Total war game !!
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,247000,True,1
+2016-04-19,330840,True,2
+2014-06-23,4580,True,2
+2014-06-23,223830,True,2
+2014-06-23,245620,True,2
+2014-06-23,34330,True,1

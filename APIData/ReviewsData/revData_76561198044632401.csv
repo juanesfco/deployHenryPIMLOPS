@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-05-30,218230,True,BEST GAME EVER
-2015-04-18,344760,True,"loving this game, there are still loads of bugs but the actual game is brilliant its a must buy for people who like rust or games like it"
-2014-02-20,40950,True,great game no lag at all
-2013-06-28,223710,True,SCARED THE SH*T OUT OF ME
+posted,item_id,recommend,sentiment_analysis
+2013-05-30,218230,True,2
+2015-04-18,344760,True,2
+2014-02-20,40950,True,2
+2013-06-28,223710,True,1

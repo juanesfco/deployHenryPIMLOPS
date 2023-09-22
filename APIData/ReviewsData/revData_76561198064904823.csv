@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-27,620,True,Best Puzzle game Ever made :D(In my opinion)
-2014-08-25,17390,True,Imagine that you can build everything
-2014-08-25,302970,True,"Best Tower Defense game i ever played, and Very Colorful"
-2016-03-16,289760,True,"Such a Nice arcade game, an amazing creation.If you love indie, arcade and action game you should try this game :D."
-2015-05-11,322170,True,The Game worth more than the cost. Trust me
+posted,item_id,recommend,sentiment_analysis
+2015-04-27,620,True,2
+2014-08-25,17390,True,1
+2014-08-25,302970,True,2
+2016-03-16,289760,True,1
+2015-05-11,322170,True,2

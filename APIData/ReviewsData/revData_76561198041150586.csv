@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-08,28000,True,Coop is dead fun
-2014-02-28,440,True,its good
-2013-07-18,226700,False,Cancer
+posted,item_id,recommend,sentiment_analysis
+2014-08-08,28000,True,1
+2014-02-28,440,True,2
+2013-07-18,226700,False,1

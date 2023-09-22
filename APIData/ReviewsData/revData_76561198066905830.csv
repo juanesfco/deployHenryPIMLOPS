@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-31,427730,True,*I drank bleach and died10/10 IGN
-2015-11-01,4000,True,Have no idea whats going on but every 20 minutes gmod crashes and im on a mac.Btw really good game this is just the flaw
+posted,item_id,recommend,sentiment_analysis
+2016-03-31,427730,True,1
+2015-11-01,4000,True,2

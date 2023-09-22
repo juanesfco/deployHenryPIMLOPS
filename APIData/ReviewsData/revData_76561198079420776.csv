@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-02,105600,True,awesome
-2014-11-04,300991,True,good
-2015-12-18,391540,True,I'm speechless. This game is so perfect. Its like an amazing bedtime story a mother would tell before sleeping.
-2014-01-31,570,True,Its.....F**king Amazing!
-2015-04-27,72850,True,KFC's should drop their slogan and let skyrim have it.
+posted,item_id,recommend,sentiment_analysis
+2015-12-02,105600,True,2
+2014-11-04,300991,True,2
+2015-12-18,391540,True,2
+2014-01-31,570,True,2
+2015-04-27,72850,True,1

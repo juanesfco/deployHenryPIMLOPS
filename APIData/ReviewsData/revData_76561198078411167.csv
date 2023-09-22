@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-02,218620,True,the best ♥♥♥♥ing game ever
-2016-03-03,436150,True,LINK REMOVED
-2015-03-28,346120,True,a very good fps shooting game
-2014-12-18,246280,True,the game is great as hell
+posted,item_id,recommend,sentiment_analysis
+2015-10-02,218620,True,2
+2016-03-03,436150,True,1
+2015-03-28,346120,True,2
+2014-12-18,246280,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-27,202170,True,"Sleeping dogs may not be the most impressive open world game ever made. Comparing it to the slapstick humour of saints row 3 and 4 or the gritty GTA 4 but what this game does is nothing short of amazing. The story is well written and is full of twists and curveballs. The ending is satisfying and Wei Shen is a man with his own problems which is told beautifully through is interactions with other characters and himself. Though some reviewers may not like this game for what it is not but for what it is simply put, it is “Enter the Dragon The videogame”. A true Square Enix master piece and throughly enjoyed it. 4.5/5"
-2015-09-01,287700,True,A Hideo Kojima game
-2011-10-15,440,True,get it
-2012-03-01,72850,True,Why don't you just get it!
-2015-04-18,248310,False,I have no idea why prople like this.
-2013-12-02,200710,True,"One of the best loot driven action rpgs. Beautiful in every way and undiniably fun. In short, this is the sequel diablo needs not the one it wants."
+posted,item_id,recommend,sentiment_analysis
+2013-12-27,202170,True,2
+2015-09-01,287700,True,0
+2011-10-15,440,True,1
+2012-03-01,72850,True,1
+2015-04-18,248310,False,1
+2013-12-02,200710,True,2

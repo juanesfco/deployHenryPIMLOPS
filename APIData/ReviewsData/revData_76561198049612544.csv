@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-20,570,True,"Yes, it is a MOBA. Yes, it is Highly competitive. Yes it is addictively fun. Valve takes Warcraft 3's famous mod to a new level with this multiplayer only game. The servers are not the best, and the game doesn't like >300,000 people online at any given time, but the community is diverse and everyone aspires to be the best."
-2013-12-20,107410,True,"One of the most beautiful games I've EVER played, and one of the most challenging. Arma III is an essential game for any would-be FPS player as it exclusively immerses the player and requires co ordination and immense teamwork. I recommend it simply because it is a beautiful game."
+posted,item_id,recommend,sentiment_analysis
+2013-12-20,570,True,2
+2013-12-20,107410,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-17,440,True,sin duda el mejor juego es este :D
-2016-05-06,730,False,"La Verdad Es Que Si No Te Gusta El Castigo Este Juego No Es Para Ti... Te Castigan Por Respirar, Por Mirar Por Habllar, Me Refiero A Que Te Castigan Por Puras Weas, Y por Una Semana Sin Jugar Competitivo Pero Lo Peor Es Que Este Juego No Perdona, Ya Que A Mi Hace Algunos Minutos Me Castigaron Por 'ABANDONAR' Pero No Fue Asi Ya Que Mientras Cargaba Para Entrar A La Partida Se Me Callo El Internet & Se Me Quedo Pegado El Juego Cuando EL internet volvio (30 segundos despues) & Cerre El Juego Para Iniciarlo & Poder Reconectarme Pero No Alcanze Y Me Bannean Por Una Semana??????? Que Penca Wn!!!"
-2015-03-16,208090,False,"Lo Que Me Disgusta De Este Juego Es Que Solo Puedan Jugarlo Personas Mayores De 18 Años, Siendo Que Es Muy Obvio Que La Mayoría De Niños o Preadolescentes (menores de 18 años), Ponen Que Son Mayores De 18 Años... Cuando Realmente No Lo Son, Entonces Encuentro Injusto  Que Esto Sea De Tal Manera, Ya Que Si Una Persona Mayor De 18 Años Pudiese Equivocarse Al Introducir La Fecha, Desde Ese Mismo Instante No Podra Jugarlo Nunca, Ya Que El Juego No Da Otra Posibilidad De Volver a Introducir La Fecha.PD: Ojalá Resuelvan Este Problema Lo Antes Posible, Gracias."
-2016-02-15,204300,False,"Con el ultimo parche reciente dejaron la embarrada en el Awesomenauts deberian haber nerfeado a ksenia y nibbs, pero no lo hicieron incluso nerfearon a quienes no debian como a froggy. Si siguen asi mucha jente dejara de jugar Awesomenauts, Gracias..."
-2016-08-20,381210,False,"Actualisan el juego cada 2 minutos y cada actualisacion hace que el juego quede peor, si siguen asi muchos dejaran de jugarlo..."
+posted,item_id,recommend,sentiment_analysis
+2014-07-17,440,True,2
+2016-05-06,730,False,0
+2015-03-16,208090,False,1
+2016-02-15,204300,False,1
+2016-08-20,381210,False,0

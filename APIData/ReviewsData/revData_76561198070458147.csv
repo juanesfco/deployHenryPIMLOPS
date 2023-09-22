@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-16,730,True,"Jogo bem competitivo e bem feito,atualizado constantemente.Muito bom =D sdds 1.6"
-2015-12-28,8870,True,Best game
+posted,item_id,recommend,sentiment_analysis
+2015-09-16,730,True,2
+2015-12-28,8870,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-02,285920,True,the games duplacating  after the new update but the games great
-2015-03-19,345580,False,this is a bad game
-2015-04-05,291480,True,i love this game
-2014-12-19,301520,True,i foundddddd a bug
+posted,item_id,recommend,sentiment_analysis
+2015-04-02,285920,True,2
+2015-03-19,345580,False,0
+2015-04-05,291480,True,1
+2014-12-19,301520,True,1

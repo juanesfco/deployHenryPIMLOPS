@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-23,32500,True,"I think this game gets a 9.5/10. The combat system was fluent and reliable, my only problem is the game would only reach 90 FPS on my computer! but the game overall was amazing!"
-2014-08-23,440,True,"The Best Free Game Around, Maybe You Should Get It?"
-2014-05-04,4000,True,"A very fun game, without any addons, IT SUCKS, with addons, ITS AMAZINNNN =)"
+posted,item_id,recommend,sentiment_analysis
+2014-08-23,32500,True,1
+2014-08-23,440,True,2
+2014-05-04,4000,True,1

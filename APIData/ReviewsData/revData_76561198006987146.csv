@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-27,345390,True,"Charming, funny, solid story and interesting characters.On my second play-through I was surprised at how flexible to game was to solving puzzles in different orders. It opens up different concequences and dialogue. Though, not being able to skip dialogue made the second play-through for achievements a bit too time consuming. I also find Christopher Lloyd a bit off-putting as a voice actor."
-2016-01-20,290890,False,"tough, but im going to have to say no to a recommendation.- inconsistant difficulty, mainly due to random nature.- not all concepts translate well to non-touch screens.- music is too damn catchy!- have stopped having fun, but want to press forward just to finish it.Lots of box types, vast majority are useless when facing an obstacle. So many boxes are broken and wasted in between obstacles. Some sections took me 15mins to clear, others took me over 2 hours of gameplay because of the difficulty and slim chances of the planets aligning to make the objective possible to complete."
-2015-05-20,316790,True,"Great game. Funny and well told story.Im not one for puzzle games, so found some puzzles to be illogical and convoluted.had 4 game-breaking bugs during my playthrough. Had to resort to old saves. Interface and movement is very clunky."
-2015-05-07,331670,True,"good fun with 4 people, everyone is pretty over all the games after about 2 hours. Drawful is heaps of fun and awesome for big groups.Tethering to smart phones and devices is super easy."
-2015-03-26,43110,False,did not enjoy.just not my cup of tea.
+posted,item_id,recommend,sentiment_analysis
+2016-03-27,345390,True,2
+2016-01-20,290890,False,1
+2015-05-20,316790,True,2
+2015-05-07,331670,True,2
+2015-03-26,43110,False,1

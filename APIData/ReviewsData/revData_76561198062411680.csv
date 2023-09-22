@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-10,49520,True,fun amazing and life ruining 10/10
-2016-09-11,427520,True,QUITE A SPICY ME ME
-2015-12-10,440,True,Fun Fabulous and Hatastic
-2015-04-13,301520,True,EPIC
+posted,item_id,recommend,sentiment_analysis
+2016-07-10,49520,True,2
+2016-09-11,427520,True,1
+2015-12-10,440,True,2
+2015-04-13,301520,True,1

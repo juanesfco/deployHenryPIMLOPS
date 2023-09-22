@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-11,243870,True,"Even though the game does not have the best graphics the game plays like it's meant to, the defult controls are easy to addapt but the sound when the gun fires may need a bit of tweaking. 8/10"
-2014-02-20,250600,True,This game shows why you should take risks and not waste your life.
-2014-09-13,35450,True,This is a close to war as your going to get in a game. Even though it is still far off. The multiple roles you can play in this game is enough for a lifetime but there will only be on role for you or there could be more.
+posted,item_id,recommend,sentiment_analysis
+2014-04-11,243870,True,2
+2014-02-20,250600,True,0
+2014-09-13,35450,True,1

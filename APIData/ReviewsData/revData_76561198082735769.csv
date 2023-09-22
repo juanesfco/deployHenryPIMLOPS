@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-01-01,440,True,"Awesome game, You dont need to have to best computer in the world to play it at decent fps."
+posted,item_id,recommend,sentiment_analysis
+2016-01-01,440,True,2

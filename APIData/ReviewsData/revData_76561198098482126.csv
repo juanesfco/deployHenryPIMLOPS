@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-15,550,True,เป็นเกมที่มันมือโคตรๆ
-2015-06-19,570,True,เกมในดวงใจของผม
-2014-08-15,4000,True,เป็นเกมที่ดีเยี่ยมมาก
-2014-07-19,304930,True,good!!
+posted,item_id,recommend,sentiment_analysis
+2015-08-15,550,True,1
+2015-06-19,570,True,1
+2014-08-15,4000,True,2
+2014-07-19,304930,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-21,252910,True,"I like this game, its a chilled back game where you can build a skyscraper. It is fun too play when talking too friends so you dont get bored or play on your ipad while waiting (I suggest hearthstone :P), I like this game, its a bit confusing at first but after a while you start too understand how to build stuiff correctly, there isnt really anything with replayability though, its pretty much the same each time."
-2015-01-22,310370,True,"The Way of life. Focusing on 3 stages of life, Child, Adult and Senior. The levels I find are hard but the child is hardest. This game shows you that kids want to have fun and play, adults have to work to do stuff and cant do anything else, seniors are old and weak. This game has a small playtime but it is good."
+posted,item_id,recommend,sentiment_analysis
+2015-11-21,252910,True,1
+2015-01-22,310370,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-16,250110,True,"great game, very fast paced and addictive gameplay. chanracter models might not be your thing but then again it's refreshing to have a female cast that isn't over sexualised like crazy. definately recommend if you enjoy fast pased, shoot em' up style games"
-2016-02-27,219990,True,if you liked titain quest you'll love this!!
-2016-07-09,304430,True,if you liked limbo you'll love this! same mechanics with a much more ominous theme. would definately reccommed
-2014-05-25,211420,False,"hands down the most broken port i've ever played. the reason steam strongly recomends a controler is because none of the icons have been changed for pc and the keyboard layout is terriable. i had to download a mod to get it to play at the right resoloution and it doesn't screen tear to ♥♥♥♥. also on windows 8 it still runs of games for windows, i need another mod to fix that. almost nothing has been optimised for pc. wish i'd spent the  extra cash and got dark souls 2 instead"
+posted,item_id,recommend,sentiment_analysis
+2015-09-16,250110,True,2
+2016-02-27,219990,True,2
+2016-07-09,304430,True,2
+2014-05-25,211420,False,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-01,104700,True,"I just came here for the hats. Go on, judge me."
-2013-12-01,4000,True,"Interesting game. Unlike other titles, Gmod lets you play many different fun games within a game."
-2012-07-06,440,True,Really awesome FPS!
+posted,item_id,recommend,sentiment_analysis
+2013-12-01,104700,True,1
+2013-12-01,4000,True,1
+2012-07-06,440,True,2

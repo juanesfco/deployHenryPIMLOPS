@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-04-01,218620,False,To Many ♥♥♥♥ing updates its everyday
-2015-02-27,4000,True,:) :) :) :) :) 9/10 would mod again
-2015-01-03,222880,True,Love this game has a good online commity get for an fps
-2015-02-06,440,True,Its good has a good com
-2015-05-21,220,False,i got the disk to the game and steam being the crap that it's become wants a key i don't have
-2015-05-10,247020,True,I liked this because of the fast action and tenseness of the game
-2015-03-02,8080,True,Great would recommend buying this great story a little short but still great
-2014-11-10,252490,True,This is an epic game you should buy it now.
-2014-10-11,244850,True,Realy good game you should buy i know i will
-2014-02-27,104900,True,Good game good for online not much for single but still good when you don't have internet.
+posted,item_id,recommend,sentiment_analysis
+2016-04-01,218620,False,2
+2015-02-27,4000,True,2
+2015-01-03,222880,True,2
+2015-02-06,440,True,2
+2015-05-21,220,False,0
+2015-05-10,247020,True,2
+2015-03-02,8080,True,2
+2014-11-10,252490,True,0
+2014-10-11,244850,True,2
+2014-02-27,104900,True,2

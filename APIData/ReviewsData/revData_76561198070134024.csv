@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-06-24,99900,True,"This game stole my soul for a month straight. I must of been drunk or something but I only have good memories of this game. They have ruined this game for me with the recent updates but hey, what do I know. From experience I say this game is worth the $0.00 dollars you pay and you should try it, you just might like it!"
-2016-06-24,417860,True,"I have finnished this game 7 times, Its stale for me now but by jesus, the first playthrouh had me in tears. Not many games can do that to me. So I can highly recommened it but youll only be putting an hour or two before your bored, but dudes those few hours will have you on edge the whole time. Emily is away is a emotional rollercoaster with heaps of unpredictable endings.(p.s) emily is a right b i t c h"
-2016-04-29,204300,True,"Awesomenauts is the best game that i own, i dont have many hours because i find it hard to play full matches and do work. This game is amazing. I have never disliked anything about it. Awesomenauts is a 2D 3 vs 3 battle for domination. I love being Penny Fox, she is easily the best naut. She has soooo much variety in her playstyle. You can be fast as f$#k, go all guns blazing or be a stealth ninja .Every naut has their own unique playstyles which is one of the reasons this game is so good. I could go on more about awesomenauts but i dont want to waste your time. Have a nice day"
-2016-08-08,4000,True,Open GameInstalls 397 Modsloads WorldMakes Giant ♥♥♥♥Game Crashes14/10Get This Game
-2016-02-05,440,True,"Team Fortress 2.I was very confused the first time i played, I chose sniper, which was at the time the only class i understood. I got a few kills and was starting to enjoy this game but suddenly this pyro that had a pink jacket and a plunger on his/her head poped out of nowhere and killed me with his alien looking flamethrower. I at the time freaked the hell out and was like this game is insane. That was a long time ago and now I find myself playing much more team fortress 2 than i should and I now realise this game is not a first person shooter it is an all out war between a bunch of psycopaths wearing the weirdest crap they can find on the steam market.This game will take a while to get used to but there is never a dull moment of gameplay and has new content coming out every few months. so if you are reasonable at shooting things, have enough money to keep up with the fashion trends and have lots of hours spare there is no game i would recomend more than team fortress 2!!!"
-2016-08-30,424280,True,Your a pig that slaughters wolves. Enough said
-2016-06-19,224540,True,"This game gets alot of s*#t, I dont know why I love this game. Sure its not what we were promised but that doesnt make it terrible. I think if you give this game time you will see the game how I see it, as a fun new way to play shooters with endless hours of entertainment."
-2016-06-24,255710,False,"This game is a great concept, but I personally think it needs a better introduction teaching newbies how to play, I have attempted so many times to make a workng city but it never works. I really want to like this game but because of the reason I just stated I cant. Devs, please fix this.Thanks"
+posted,item_id,recommend,sentiment_analysis
+2016-06-24,99900,True,1
+2016-06-24,417860,True,1
+2016-04-29,204300,True,2
+2016-08-08,4000,True,0
+2016-02-05,440,True,1
+2016-08-30,424280,True,1
+2016-06-19,224540,True,0
+2016-06-24,255710,False,2

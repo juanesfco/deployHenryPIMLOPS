@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-02-23,113420,True,It's terrible just go play Fallout..... Fallout 3! NOT NEW VEGAS!
-2011-10-26,12750,True,Before you buy you must know its great game because its by Codemasters Duh! but the multplayer servers have been shutdown.
-2011-08-19,105400,True,This Game is GREAT! not a so called ♥♥♥♥♥♥ console port at all i really like the PC controlls over the console controlls
-2011-03-10,50130,True,THIS GAME NEEDS A ♥♥♥♥♥♥♥ $5 DOLLOR UPGRADE TO DIGITAL DELUXE VERSION!
+posted,item_id,recommend,sentiment_analysis
+2012-02-23,113420,True,0
+2011-10-26,12750,True,1
+2011-08-19,105400,True,2
+2011-03-10,50130,True,2

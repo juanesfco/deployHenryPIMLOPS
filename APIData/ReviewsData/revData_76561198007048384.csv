@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-01-18,261820,True,"This brilliant mod is just phenomenal, I played it when it was still in alpha/beta and it was amazing now it is beyond words, they kept with the layout they first used on the beta levels and just bought it to life and the graphics is just supurb even my Nvidia Geforce GTX675M graphics card had a little trouble handling it at max settings which shows what people can do with Valve's Source Engine."
-2013-11-25,70,True,"This was one of the first PC FPS games I've ever played and it was just brilliant, the story, the gameplay and the music was something that no other FPS shooter can bring."
-2014-02-25,104900,True,"Really fun dinosaur shooting fps, the characters say funny **** when they shoot dinos XD, definitely worth buying and playing with friends."
-2013-07-05,10,True,The OG to CS:GO.
-2014-10-08,273110,True,"Played the non-steam version back in 2012, pwned all the pay-to-win scrubs with 'free' guns, 10/10 would humiliate again."
-2015-08-28,393410,True,"Best soccer simulator I've ever played, and it's free. The game has simple gameplay but complex tactics are involved in a fast-paced arcade table-top package.Not a game for the casual, difficult but lots of fun."
-2013-12-16,250420,True,most fun MMO I've played in a while and the design and overall flow of the game I really enjoy. The devs have done a great job and I think this will be a really big hit when it is final.
+posted,item_id,recommend,sentiment_analysis
+2014-01-18,261820,True,2
+2013-11-25,70,True,2
+2014-02-25,104900,True,2
+2013-07-05,10,True,1
+2014-10-08,273110,True,2
+2015-08-28,393410,True,1
+2013-12-16,250420,True,2

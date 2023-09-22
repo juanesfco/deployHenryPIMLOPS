@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-03,730,True,BEST
-2015-08-20,323370,True,"Great Game, better than WoW but not for all players.(i reccomend watching gameplay before downloading) [8/10] could be better but still greatWAS A [7/10] Now that i played more of it [8/10]"
-2015-12-31,207140,True,Great game
-2014-07-13,304930,True,"1 Of The Best Games I've Played, i Rate It A 9/10 but it could be better with more slots in the chests for storage, but is still good."
+posted,item_id,recommend,sentiment_analysis
+2015-12-03,730,True,2
+2015-08-20,323370,True,2
+2015-12-31,207140,True,2
+2014-07-13,304930,True,2

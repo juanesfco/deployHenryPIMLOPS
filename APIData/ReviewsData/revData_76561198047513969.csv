@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-28,91700,True,My Legs are OkThis Game is Ok
-2014-06-26,8930,True,Dis be dope as hell yo
-2013-11-28,241600,True,Great Game! Enjoyed It Alot. Nice and Challenging and it feels fresh every run!
+posted,item_id,recommend,sentiment_analysis
+2016-06-28,91700,True,1
+2014-06-26,8930,True,1
+2013-11-28,241600,True,2

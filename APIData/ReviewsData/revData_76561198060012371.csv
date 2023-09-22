@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-05,22380,True,AWWW YEAH EXPLOSIONS!!!!!1
-2014-03-09,550,True,"You dont have this yet???!!! What a pity, you're missing out :D"
-2014-01-02,8190,True,Just AWESOME
-2014-05-15,209080,True,"If you love steampunk, guns and flying ships, GET THIS GAME!!ITS AWESOME"
-2013-04-19,4000,True,Pretty Freakin AWESOME!!!
+posted,item_id,recommend,sentiment_analysis
+2013-12-05,22380,True,2
+2014-03-09,550,True,2
+2014-01-02,8190,True,2
+2014-05-15,209080,True,2
+2013-04-19,4000,True,2

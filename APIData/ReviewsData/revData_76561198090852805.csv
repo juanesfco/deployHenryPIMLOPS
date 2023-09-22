@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-09,35450,True,"Looking for a nice dose of PTSD? Well, this game is definitely for you. 1945/1945 would watch soviets bleed to death helplessly again."
-2015-03-24,304930,True,10/10 For Apple Juice and chocolate bars
-2015-03-24,730,True,10/10 Defused Bomb :D
-2014-08-15,440,True,Great Game.. simple yet fun
-2015-03-24,295110,True,10/10
+posted,item_id,recommend,sentiment_analysis
+2015-12-09,35450,True,1
+2015-03-24,304930,True,1
+2015-03-24,730,True,2
+2014-08-15,440,True,2
+2015-03-24,295110,True,1

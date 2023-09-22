@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-15,207230,True,NOT P2W? SKILL-BASED? ♥♥♥♥♥♥S? What more can you ask from a game.
-2016-04-12,239820,True,"Made a game with a legit name and age rating, 'Ninja's Blade' rated M, got 3 million dollars profit. Made a game for young kids named 'FIST ME DADDY!' Got 500 million dollars profit and 10/10 reviews.10/10 Game, Would shout and confuse my dad again"
-2013-12-30,206480,True,"Great Game, Very Fun and challenging, Even funner with friends, but this game Requires A Lot Of Space."
-2014-04-15,238240,False,"This game is not as cool as it looks. Get Starbound instead, this game is still early access and is a lot harder than starbound and terraria, I won't recomend this until it has improved, better world generating is needed and it is not r than terraria or starbound until it has improved, I really Regret buying this game. (wasted $20)"
-2016-07-22,211820,True,Rice Farming Simulator 1873
-2015-02-21,570,False,Reborn absolutely ♥♥♥♥ed this game for the low-mid end pc users. Guess I'll just play League.
+posted,item_id,recommend,sentiment_analysis
+2016-08-15,207230,True,1
+2016-04-12,239820,True,0
+2013-12-30,206480,True,2
+2014-04-15,238240,False,1
+2016-07-22,211820,True,1
+2015-02-21,570,False,1

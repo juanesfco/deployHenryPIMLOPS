@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-18,242800,False,I got this game for free and yet I still feel ripped off... If you buy this game you're gonna have a bad time.
-2015-06-15,334230,False,"Too many racists playing this, seriously, I don't GAF if they're trying to be funny, or if the dev is doing what they can to stamp those idiots out, but I'm done and asking for a refund."
-2015-12-16,423120,True,"Like most of the choose your own adventure games, this one is fantastic, I've only recently gotten into the choicescript games and while some are better than others they are all good.Community College Hero is one of the better ones, great writing and it makes me feel for my character and what happens to them."
+posted,item_id,recommend,sentiment_analysis
+2014-02-18,242800,False,0
+2015-06-15,334230,False,1
+2015-12-16,423120,True,2

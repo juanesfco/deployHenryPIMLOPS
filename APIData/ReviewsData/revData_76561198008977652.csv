@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-03-08,41010,True,Thought demo was the full game.0 / -10
-2013-03-22,219640,True,One of the best sci-fi games out there.
-2014-09-21,202200,True,Bought on Hanukkah praised be Yahweh.Never played because it was released in 66 A.D.10/10 would anti-play again.
-2014-06-08,3800,True,Bought the game because Cr1TiKaL said it was good.Actually not that bad.8/10p.s. It is actually not that bad.
-2014-06-08,42990,False,More like Sword of the ♥♥♥♥ II: Wishes It Never Happened Edition0/10- Quality of game on release- Byzantinely complex ingame wiki with ♥♥♥♥♥♥♥♥ links going nowhere and places they shouldn't- Game is barely playable and a chore to actually play- Lack of meaningful progress with updates
-2014-12-30,287450,True,After hearing that menu music which I hadn't heard in so long.[RoN intensifies]
-2014-12-30,8930,True,"Resembled the fall of the western roman empire when it came out.the ♥♥♥♥, Jon.However later on it became so reverse ♥♥♥♥ it is now amazing due to G&K and BNW.Don't buy this without buying the expansions, or else you'll be in for a surprise. (not the good kind)"
-2014-12-30,221910,True,Would rather play Willem Dafoe Basketball
+posted,item_id,recommend,sentiment_analysis
+2014-03-08,41010,True,2
+2013-03-22,219640,True,2
+2014-09-21,202200,True,1
+2014-06-08,3800,True,0
+2014-06-08,42990,False,1
+2014-12-30,287450,True,1
+2014-12-30,8930,True,2
+2014-12-30,221910,True,1

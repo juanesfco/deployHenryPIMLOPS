@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-22,204300,True,"a lovely break from the usual intimidation of a 'moba'-style game with this slick saturday-morning-cartoon-style platforming beauty, the characters are balanced and all great to play and the platforming elements add to the arsenal of this charming, jam-packed funfest"
-2014-12-22,250900,True,"imagine the old pixelated top-down Zelda games, plus all the themes of metal and rock ever then add the parts in the bible about fire and brimstone and the horsemen, as well as copious amounts of things that can only be described in the word 'oochze'"
-2014-12-22,238280,True,"a nice semi-3d-2d dungeon crawler with randomly generated terrain and enemies, with a charming artstyle, enjoyable gameplay and a quirky sense of humor it's worth your time"
-2014-12-22,440,True,"a solid shooter with an unending amount of fun to be had, variating gameplay and slick mechanics as well as a very nice free to play model; gotta love them hats."
-2014-12-22,282470,True,"it adds more content to don't starve, more variety (not that there wasn't a plethora of it previously), new things to account for and plan out as well as a few relatively more challenging systems. worth the money, definitely reccomended"
+posted,item_id,recommend,sentiment_analysis
+2014-12-22,204300,True,2
+2014-12-22,250900,True,1
+2014-12-22,238280,True,2
+2014-12-22,440,True,2
+2014-12-22,282470,True,2

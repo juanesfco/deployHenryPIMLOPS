@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-03,440,True,wow wow wow
-2015-08-06,230410,True,OMG =w= it very very very very vry funnnnnnnnnnnnnnn
-2014-07-21,242720,True,นุกดี
-2014-03-02,203290,True,FUN
+posted,item_id,recommend,sentiment_analysis
+2014-04-03,440,True,2
+2015-08-06,230410,True,2
+2014-07-21,242720,True,2
+2014-03-02,203290,True,2

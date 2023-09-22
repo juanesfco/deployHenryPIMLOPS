@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-14,222900,True,Não nada haver irmão
-2014-06-28,570,False,"Jogo muito bom recomendo a todos jogarem, ei wallas vou jogar com voce"
+posted,item_id,recommend,sentiment_analysis
+2014-04-14,222900,True,1
+2014-06-28,570,False,2

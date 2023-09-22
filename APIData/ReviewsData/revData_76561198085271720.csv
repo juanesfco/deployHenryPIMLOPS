@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-09-10,730,False,"This game is full of derankers, hackers, ♥♥♥♥♥♥♥♥s, trolls and griefers so theres literally no point in playing if you cant get out of silver becasue of these ♥♥♥♥ers"
-2015-04-21,263540,False,The game is just plain boring and slow but then to easy to deafet monsters crafting is alright but not very rewardinggraphics and animations are absolute ♥♥♥♥  for competative gamers don`t even download it for casuals its okay in generaloveral 2/10 game do not recomend it
-2014-11-08,315640,False,it`s a terible 3rd person shooter where you rent or can only use for a certain amount of time and the maps are tiny
-2014-11-06,440,True,AWSOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2016-09-10,730,False,1
+2015-04-21,263540,False,0
+2014-11-08,315640,False,1
+2014-11-06,440,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-28,22000,True,Amazing game.If only I was good at puzzle solving...
-2014-10-28,304670,True,"Great game, amazing music and sfx. Easy (but time consuming) achieves."
-2014-10-28,34900,False,"Good game, but not one I'd personally recommend.Still, it's worth the 24cents I spent on it"
+posted,item_id,recommend,sentiment_analysis
+2014-10-28,22000,True,2
+2014-10-28,304670,True,2
+2014-10-28,34900,False,1

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-12-27,319450,True,"First time I saw this game was on one of Rooster Teeth's show called 'PlayPals' with Michael and Gavinhttps://www.youtube.com/watch?v=OzDyIjLtQO8The whole gameplay and design really caught my attention. Infact, the gameplay really reminds me of Journey (which is another game I love heaps).So as soon as Frima Studios announced that the game was released on Steam I knew I would be buying it straight away. But, I saw that steam recommend that you play this game with a controller...unfortunately, I don't own one. Eventually, I brought the game and decided to try playing the game using the keyboard. At first it can be quite difficult to but I say within 30-45 mins you'll get the hang of it and will be fine with it. I have been playing as a single player which is still fine and great but I do recommend playing this game with a friend, buddy, pal etc. You'll have tons of fun as there seems to be alot of levels."
-2015-07-07,224540,False,Simply terrible....
-2015-01-08,220160,False,The fact that you have to download some Uplay crap makes me just literally uninstall the game immediately.The framerate was utterly terrible and it seems the key control response seems way off.After 0.5 hours of this game I did a 'Rage Quit' and uninstalled it.
-2015-08-01,244730,True,> Installs game> I dived> I kicked>Uninstalls game10/10
-2015-08-01,221380,False,"Friends: 'Hey, wanna play Ages of Empires II?!'Me: 'Ah, don't you mean you want to play Chop Wood Simulator?'"
-2015-08-01,285820,True,I decided to buy this game cause of the sole purpose that it reminds me of an old SNES game I used to play called 'Uniracers' https://www.youtube.com/watch?v=8CCmt8Q_ASI
-2015-08-01,263760,True,This game is sponsored by VOLVO...Cause we all know VOLVO drivers are bad drivers...
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,319450,True,1
+2015-07-07,224540,False,0
+2015-01-08,220160,False,0
+2015-08-01,244730,True,1
+2015-08-01,221380,False,0
+2015-08-01,285820,True,0
+2015-08-01,263760,True,0

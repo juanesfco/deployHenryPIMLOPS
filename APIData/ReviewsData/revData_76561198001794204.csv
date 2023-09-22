@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-23,102500,True,"suits a casual RPG but don't expect it anything fantastic. The combat is definetly highlight to this game, was the only reason why i put so many hours into it.The rest of the game mechanics are pretty average.If you are after a casual RPG that isn't very difficult and is quite basic then check this out. Don't bother with the DLC though especially the Weapon and Armor Bundle...."
-2012-07-31,8980,True,has a fantastic loot system and plenty of challenging enemies. one of a kind
-2012-01-01,440,True,"great game, easy to learn"
+posted,item_id,recommend,sentiment_analysis
+2014-07-23,102500,True,0
+2012-07-31,8980,True,2
+2012-01-01,440,True,2

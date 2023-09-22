@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-05,204360,True,Esse jogo me conhece parabens!!
-2015-01-04,236390,True,"Best jogo BR, selo maikão de aprovação, livre de roubos e assaltos..."
+posted,item_id,recommend,sentiment_analysis
+2015-01-05,204360,True,0
+2015-01-04,236390,True,2

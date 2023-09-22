@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-07-29,221100,False,"If you want to waste your money on a doomed game that will never be complete, go ahead."
-2016-08-21,275850,False,Do not buy. Wait for Dual universe or Star citizen.
-2014-08-01,242760,True,Lots of great ideas and are implemented very well!
-2014-04-19,261030,True,"Buy it, it's a good game."
-2014-04-02,220200,True,Aweome fun game if you're into building space craft!
-2016-01-12,319630,True,Rich story that's full of twists and a great soundtrack that really takes you into the game. Must buy!
+posted,item_id,recommend,sentiment_analysis
+2015-07-29,221100,False,0
+2016-08-21,275850,False,1
+2014-08-01,242760,True,2
+2014-04-19,261030,True,2
+2014-04-02,220200,True,1
+2016-01-12,319630,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-07-04,213610,True,"This isn't that great of a game... but I still recommend you play it. Despite it's failings, it brought features and ideas to Sonic games which made it stand out. Some of them are still used in the latest games.To me, this game represents the beginnings of a great series of games that never happened. The plot is simple enough for a child to follow, yet deep enough for an adult to appreciate. The gameplay, while flawed, has some small qualities to it which impress me even now... or perhaps especially now, as modern Sonic games are far too forgiving. The music, as with most Sonic games, is incredible.Probably the biggest failing of this game is the level design. You will die to glitchy collision detection and wonky camera angles.Please experience this game, and when you do, consider the games that came after it, and what they could have been."
-2012-09-15,206440,True,"This is one of the most tear jerking games I have ever played. The amount of games I would describe as 'tear jerking' can be counted on one hand, so that's saying something. This is a masterpiece of storytelling. Don't expect much from the gameplay though."
+posted,item_id,recommend,sentiment_analysis
+2013-07-04,213610,True,1
+2012-09-15,206440,True,2

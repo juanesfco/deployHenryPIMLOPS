@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-16,218620,False,"Pay2Win, Overkill greed company dont buy this game !"
-2015-06-16,295270,False,"This game is far away from my expectation, not worth it to buy, the random injured system is ridiculous 3/10"
-2013-12-12,440,True,"Best F2P Game ever, no cash needed, but you will pay for the greatest gaming experiece ! 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-10-16,218620,False,0
+2015-06-16,295270,False,0
+2013-12-12,440,True,2

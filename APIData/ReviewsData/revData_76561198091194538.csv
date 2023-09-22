@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-29,224820,True,"Excelente juego retro, mucha acción y sangre, un juego que no le vas a dedicar 1000 horas, pero pequeñas dosis de un par de horas en repetidas ocasiones. Recomendado y no me arrepiento de haberlo comprado C:"
-2014-01-29,221640,True,"Muy adictivo.  BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER. BEGIN! GAME OVER.  jajajaj me encanta la musica y los graficos retro. Supporteo mucho los juegos de Terry Cavanagh, estilo retro y muy bien hechos. Definitivamente una compra bien hecha"
-2013-05-11,440,True,Que bueno que el TF2 es gratis :D
+posted,item_id,recommend,sentiment_analysis
+2014-01-29,224820,True,1
+2014-01-29,221640,True,0
+2013-05-11,440,True,2

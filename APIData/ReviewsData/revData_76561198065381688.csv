@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-13,730,True,This game makes me want to commit suicide10/11 would play again!
-2015-11-27,377160,True,"I played 9 hours straight in 1 day... and i got through 2 ♥♥♥♥ing missions, this is bloody mint!"
-2015-01-08,252490,True,This is an awesome game! highly recommend it! lots of playable hours!
-2012-12-25,440,True,The best free to play game i have seen in a long time
+posted,item_id,recommend,sentiment_analysis
+2016-01-13,730,True,0
+2015-11-27,377160,True,0
+2015-01-08,252490,True,2
+2012-12-25,440,True,2

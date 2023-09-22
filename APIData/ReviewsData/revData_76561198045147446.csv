@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-02-16,1250,True,"Ever want to know what a satisfying game weapon is like?Buy this game, start it up and pick a weapon. You'll have your answer."
-2012-01-08,91900,True,"A very nice arcade-style vehicle combat game, a genre most thought was dead. Whilst it has its flaws, it is still worth a look at.Maybe not at full price, though."
-2011-12-27,55150,True,"Nice and meaty game with visceral combat and, within reason, compliant with the established lore of the WH40K series."
+posted,item_id,recommend,sentiment_analysis
+2012-02-16,1250,True,0
+2012-01-08,91900,True,2
+2011-12-27,55150,True,1

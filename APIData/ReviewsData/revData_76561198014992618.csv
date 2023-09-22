@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-06-24,1250,True,Dosh grab it while its hot!
-2013-06-14,24980,True,sequel to one of the best rpg game ever made and exceeds the original . This is a must play if ur into rpg games
-2011-12-04,72850,True,"if u want to slay dragons,raid dungeons or just just see the pretty sights of mountain ranges skyrim has it all. With a new engine and unique npcs this game is simply a must for rpg players and it will amaze you!"
-2013-03-31,570,True,great game with lots of depth if you can get past the steep learning curve
-2013-01-09,200710,True,If diablo 3 dissapointed u then try this it exceeds diablo 3 in almost everyway.Only thing is the cartonney graphics if u dont mind
-2012-07-08,550,True,hours and hours of zombie killing fun!
-2011-08-23,240,True,a extremely balanced and fun game with a great community and replay value
-2011-07-06,440,True,"a fun,balanced and funny first person shooter"
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,1250,True,2
+2013-06-14,24980,True,2
+2011-12-04,72850,True,1
+2013-03-31,570,True,1
+2013-01-09,200710,True,1
+2012-07-08,550,True,2
+2011-08-23,240,True,2
+2011-07-06,440,True,2

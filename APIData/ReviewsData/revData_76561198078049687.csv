@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-22,45770,False,"An unnecessary reboot of Dead Rising 2. There isn't much difference. This is overpriced. Want a dead rising game? Buy DR2, not OTR."
-2015-05-17,278080,True,Needs online co-op because consoles have it. Thanks. But is fun at least.
+posted,item_id,recommend,sentiment_analysis
+2014-09-22,45770,False,0
+2015-05-17,278080,True,1

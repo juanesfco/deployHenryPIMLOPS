@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-25,249130,True,"This game is a great start, for any new Marvel fans. It combines the funny humour of a LEGO game, with Marvel's superheroes and villains. These two things together creates a masterpiece, that every Marvel fan should give a shot.8/10"
-2015-06-28,317400,True,"This was a really edgy mod. It adds to the lore of Portal and gives it's own spicy story. Though I did noclip like half of the game because was extremely hard (in my opinion). I wouldn't call that a complaint though, as it was made to be hard. Besides that I still enjoyed the majority of the game. The voice acting in this is impressive too.If you enjoyed Portal 2 then you should definitely get this as it is FREE."
+posted,item_id,recommend,sentiment_analysis
+2014-04-25,249130,True,1
+2015-06-28,317400,True,1

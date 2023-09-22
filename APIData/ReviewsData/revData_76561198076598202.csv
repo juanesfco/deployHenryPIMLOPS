@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-03-28,10,True,A good fps but i would get Source or GO first
-2015-03-28,240,True,Still Popular today. Must have if you want to have some fun with your friends
-2015-03-28,730,True,Fun FPS (one of the better ones out there). Competitive added a whole new aspect to the game.
-2015-03-28,220,True,Revoluionary at release. Graphics still acceptable today.100% Recommended. Must Have
-2015-02-14,334660,True,So good!!! Waifu Desu. Demo needs to be longer though
+posted,item_id,recommend,sentiment_analysis
+2015-03-28,10,True,2
+2015-03-28,240,True,2
+2015-03-28,730,True,2
+2015-03-28,220,True,1
+2015-02-14,334660,True,2

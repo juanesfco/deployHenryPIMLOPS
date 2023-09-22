@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-09-11,391460,False,"When aiming, still shooting like hip fire??"
-2016-09-10,51100,True,So fun
-2014-02-23,208090,True,must get pretty cool
+posted,item_id,recommend,sentiment_analysis
+2016-09-11,391460,False,1
+2016-09-10,51100,True,2
+2014-02-23,208090,True,2

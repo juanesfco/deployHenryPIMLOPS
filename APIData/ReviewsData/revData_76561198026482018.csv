@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-29,56400,True,"'IN THE GRIM DARKNESS OF THE FAR FUTURE THERE IS ONLY WAR.'An Awesome game, made by amazing people! Dawn Of War 2 - Retribution!Including: BANEBLADESSS, AND SPESS MARRRINES. Also, lots of WARRRRGGGHHHH. You're prayers, to the Emperor have been heard! Or Dark Gods, Gork or Mork... (Heretic) (Xenos Scum)It is your duty to join the war! The neverending Grim Darkness, of WARHAMMER 40k!"
-2014-07-29,2600,True,"Jesus Christ were do i start? Oh, yeah this game. Is awesome has everything i like in it. Metal! Vampires!, Kinky hot vampire babe, crazy ♥♥♥♥ is bound to happen this game is something of beautiful nightmares, and dreams! Get it! Shapeshifting, seduction need i say more? Also, Lecher ♥♥♥♥♥!! Good song.Sweet, sweet. Blood is all yours to feed upon, fledgling!"
-2014-07-03,440,True,Hat Simulator! :) :) With Guns!
-2014-06-29,7670,True,Would you kindly buy this game?
-2014-06-12,104900,False,"♥♥♥♥in' Horrible.... Call me whatever you want, but it's freakin' horrible. -Controls suck big time.-Design of the whole thing is horrible, guess it looked better in the dev's head.-Get's boring real, real, easy. Shoot 'N' Shoot and shoot some more... Get the picture?- Glitchy. Seriously the T-rex, i swear. it went into space. Funny tho.Worth the 99 cent promotion price? ♥♥♥♥ no. Don't spend anything on this..."
-2013-09-11,245170,True,Waifu Battle Simulator!
-2012-11-17,15700,True,"Oddworld, was my fravorite childhood game. It was also my firstGame ever played and its cutscenes are very good for its age. If you love platformers and puzzles and comedy, then dish out some cashand buy the stinkin game! We got to eat to you know!"
+posted,item_id,recommend,sentiment_analysis
+2014-07-29,56400,True,1
+2014-07-29,2600,True,2
+2014-07-03,440,True,2
+2014-06-29,7670,True,1
+2014-06-12,104900,False,0
+2013-09-11,245170,True,1
+2012-11-17,15700,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-07,108600,True,"It's a bit boring, but then again so is this review so who am i to judge."
-2014-07-07,8930,True,"Just like in real life people in this game seem to instantly dislike me and want nothing to do with me.Anyway this game is still enjoyable, unlike real life."
-2014-06-29,219150,True,Be some random and beat the ♥♥♥♥ out of everybody. Who wouldn't love it?
-2014-06-29,200260,True,I'M BATMAN!!!!!!!!!
-2014-06-29,1840,True,It takes 1 hour to make 2 seconds. Nuff said
+posted,item_id,recommend,sentiment_analysis
+2014-07-07,108600,True,0
+2014-07-07,8930,True,1
+2014-06-29,219150,True,1
+2014-06-29,200260,True,1
+2014-06-29,1840,True,1

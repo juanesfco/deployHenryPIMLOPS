@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-31,383080,True,Fappable/10-IGN
-2015-01-19,109400,True,great game very kawaiiiiii
-2014-12-17,304930,False,"lack of updates, game is dead"
+posted,item_id,recommend,sentiment_analysis
+2015-07-31,383080,True,1
+2015-01-19,109400,True,2
+2014-12-17,304930,False,0

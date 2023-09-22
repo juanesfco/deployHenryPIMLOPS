@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-03,43110,True,Only an hour into the game and a quite intense post apocalyptic experience. Quite the good purchase. Definitely better when bought in the metro franchise pack though.
-2013-12-01,22380,True,Just like a normal fallout game ONLY COWBOY
-2014-06-24,221100,True,"Seriously I loved playing as an octopus disguised as a father, definitely enhanced the experience by 2. Nobody suspected a thing."
-2013-12-25,49520,True,EVERYBODY HAVE FUN TONIGHT! Seriously though great game can last for ever if you play it right
+posted,item_id,recommend,sentiment_analysis
+2013-12-03,43110,True,2
+2013-12-01,22380,True,1
+2014-06-24,221100,True,2
+2013-12-25,49520,True,2

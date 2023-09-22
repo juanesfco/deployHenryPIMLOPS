@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-13,220090,True,GET THIS GAME AND CHAPTER TWO!!!!!!!!!!!!!!!!!!!! DAAAAAAAAAAAAAAAAAAMNNNNNNNNNNNN!!!!!!!!!!!!!! This Story! WOOOOOOOOOOW
-2016-08-13,262850,True,THIS GAME!!!!!!!!!!!!!!!!!! WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW!!!!!!!!!!! THAT STORY
-2016-07-27,265630,False,DON'T INSTALL THIS GAME!!!!!!!!!!!!!!!!!!!!!!! IT'S THE GGGGGGGGGRRRRRRRRRRRRRRRR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! YOU DON'T WANT TO PLAY THIS GAME!!!!!!!!!!!!!!!!!!!!!!! Alt+F4 IS YOUR BEST FRIEND!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2016-08-13,220090,True,0
+2016-08-13,262850,True,0
+2016-07-27,265630,False,0

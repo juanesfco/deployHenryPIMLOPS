@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-04,304930,True,love it
-2012-04-15,32800,True,best game ever
+posted,item_id,recommend,sentiment_analysis
+2014-09-04,304930,True,2
+2012-04-15,32800,True,2

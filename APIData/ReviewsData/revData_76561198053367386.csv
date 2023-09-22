@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-13,261640,True,iz perty gud
-2014-05-13,244850,True,THIS GAME IS BADASS!!!! BUY IT!!!
-2012-10-29,72850,True,This game is soooooooo epic you gota get it
+posted,item_id,recommend,sentiment_analysis
+2015-10-13,261640,True,2
+2014-05-13,244850,True,0
+2012-10-29,72850,True,0

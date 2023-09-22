@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-12-09,105600,True,"This game is Awesome, I recomend it to anybodyAlso I got the unlucky yarn on the LAST day of halloween"
+posted,item_id,recommend,sentiment_analysis
+2014-12-09,105600,True,2

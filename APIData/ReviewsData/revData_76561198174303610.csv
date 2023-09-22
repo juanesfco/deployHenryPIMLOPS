@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-10,304050,False,DONT GET IT I GOT IT BUT WHEN ERROR 1026 SHOWS UP YOUR NEVER PLAYIN IT AGAIN
-2015-05-08,227940,True,hey if your ever play and think that the german tanks suck just try to be sneaky and shoot russian and american tanks from side or the gun or just wait for an update for german tanks
-2015-04-10,346010,True,AHH SO COOL BUT I HAVE SUGGESTION HOW ABOUT A MODE WHERE U TAKE ONE OF UR OWN CREATION AND BATTLE ANOTHER PLAYERS CREATION ANYONE WITH MEH ANYONE?!
-2015-04-04,440,True,"This game is just a blast, even though its gory and other stuff, the taunts and the cartoony graphics just make it look less mature"
+posted,item_id,recommend,sentiment_analysis
+2015-07-10,304050,False,1
+2015-05-08,227940,True,1
+2015-04-10,346010,True,2
+2015-04-04,440,True,0

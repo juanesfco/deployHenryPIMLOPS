@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-29,265930,True,I unlocked the tall goat and it was a giraffe.12/10.
-2015-11-18,377160,True,I've got exams coming and assessments duebut this is my new life.
+posted,item_id,recommend,sentiment_analysis
+2014-03-29,265930,True,1
+2015-11-18,377160,True,2

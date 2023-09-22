@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-03,99900,True,i think everyone should give it a try
-2014-01-06,49520,True,"borderlands 2 is a great game to play alone but its better to play with friends to help you fight,find or just to have fun. i recommend you give it a go"
+posted,item_id,recommend,sentiment_analysis
+2014-02-03,99900,True,1
+2014-01-06,49520,True,2

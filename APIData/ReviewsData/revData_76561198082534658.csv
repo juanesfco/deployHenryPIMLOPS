@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-05,17410,True,Pretty sick game
-2015-05-14,440,True,loollllolololoollololololololololoooololololololololololololololooloolololol
-2014-02-16,271290,True,hell yeah this game is awsome
-2015-10-10,262410,True,pretty sheet gamebut gonna rate good cause i wanna be cool
+posted,item_id,recommend,sentiment_analysis
+2016-01-05,17410,True,0
+2015-05-14,440,True,1
+2014-02-16,271290,True,0
+2015-10-10,262410,True,2

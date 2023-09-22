@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-02-09,49520,False,can i please still have this game
-2015-07-27,24200,True,"ITSSSSSSSSSSSSSS AWSOMEEMEMEMEMEMEMEMKERMEMEKL23EKHGLRTEW][;ATS,HARTERe'an"
-2015-02-06,42700,True,great game love it i played for ages on my pc it is great finished the game 5 time still not boring love the zoimbies greate game.
-2014-02-25,104900,True,this game is fun I WOULD REAL SAY REALLY FUN
-2014-01-26,109600,True,this game is so awsome
+posted,item_id,recommend,sentiment_analysis
+2014-02-09,49520,False,0
+2015-07-27,24200,True,1
+2015-02-06,42700,True,2
+2014-02-25,104900,True,1
+2014-01-26,109600,True,0

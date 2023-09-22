@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-04-21,327890,True,I am Bread
-2016-02-15,271590,True,"Nice game, almost as many features as GTA IV."
-2016-02-15,257750,True,The best game I really enjoy playing this game with Alex.Unrelated fact: Alex does not enjoy playing this game with me.Also Andy is there and we have fun with Alex.PS: Having to open ports sucks. Good game bye.
+posted,item_id,recommend,sentiment_analysis
+2016-04-21,327890,True,1
+2016-02-15,271590,True,2
+2016-02-15,257750,True,1

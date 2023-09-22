@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-11-16,21090,True,"Хороша, страшна, загадочна, безумно кровава..."
+posted,item_id,recommend,sentiment_analysis
+2014-11-16,21090,True,0

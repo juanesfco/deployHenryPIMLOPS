@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-17,218620,False,microtransactions?...
-2016-07-02,208650,True,Great
-2014-01-04,231140,True,หนุกแต่คนเรื่องมากชิพหายเลย
-2016-08-27,232090,True,Is so ♥♥♥♥ing fun
-2016-08-12,275850,False,มั่วดี555 สัส เบื่อชิปหาย ควยขอคืนเงินก็ไม่ได้เสือกซื้อแบบ Gift เกี่ยวไร555
+posted,item_id,recommend,sentiment_analysis
+2015-10-17,218620,False,1
+2016-07-02,208650,True,2
+2014-01-04,231140,True,2
+2016-08-27,232090,True,2
+2016-08-12,275850,False,1

@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2013-05-13,4000,True,aprovado :)
-2016-01-09,389570,True,jogo bem gostoso de comer os outros
-2015-06-04,105600,True,simplesmente um dos melhores jogos q eu já joguei
-2014-01-03,204340,True,"recomendo pq o jogo é uma prova q n precisa de ter gráficos bons pra ser legal ,um jogo frenético com muita emoção recomendo"
-2015-06-16,252490,True,Um jogo bem loco q da vontade de virar terrorista e mata td mundo dai pegar a arma mais forte do jogo e matar lobo e galinha inofensiva
-2014-10-14,319510,True,eu n consegui jogar ainda pq to com medo mas qnd puder eu jogo
-2015-10-21,218620,True,"realmente achei muito bom, se vc jogar tomando suco de laranja fica ainda mais relaxante"
-2015-07-16,226700,True,"um dos melhores jogos de sobrevivência, infelizmente tem muitos hacks mas o jogo é muito bom, váaaarias armas e na minha opnião 10000 vezes melhor q dayz"
-2015-06-16,238280,True,é bom de jogar com os amigo principalmente usando controle pq daí fica bem massa e loko
+posted,item_id,recommend,sentiment_analysis
+2013-05-13,4000,True,2
+2016-01-09,389570,True,1
+2015-06-04,105600,True,2
+2014-01-03,204340,True,2
+2015-06-16,252490,True,0
+2014-10-14,319510,True,2
+2015-10-21,218620,True,2
+2015-07-16,226700,True,2
+2015-06-16,238280,True,2

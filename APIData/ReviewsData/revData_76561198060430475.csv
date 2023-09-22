@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-07-25,4580,True,For the GodEmperor!
-2015-08-08,227940,True,"Send the Fascists to their Graves, Comrades! - 21/10 IGN"
-2014-12-06,730,True,I may be the worst CS:GO Player but i still come back for more10/10
-2014-11-05,218230,True,"Too good, Just to good."
-2014-09-09,39120,True,First MMO that i've ever thoroughly enjoyed.
-2014-08-27,203770,True,"Murdered all but one of my prodigy, turned out that son that survived hated me and assassinated me. Gave all most of my land to a noble who for some reason also hated me and rebelled with most of my land.100000/10"
-2014-04-26,48720,True,Repeative until you get a decent sized army
+posted,item_id,recommend,sentiment_analysis
+2014-07-25,4580,True,1
+2015-08-08,227940,True,1
+2014-12-06,730,True,0
+2014-11-05,218230,True,2
+2014-09-09,39120,True,2
+2014-08-27,203770,True,1
+2014-04-26,48720,True,2

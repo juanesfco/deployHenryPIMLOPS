@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-10,273350,True,"Needs a bit of work and is overpriced but is still a hell of lot of fun, get it while its on sale and bring friends"
-2016-05-18,17080,True,if fast paced action is what you want look no further
-2016-04-15,228300,True,great game dont know why its so unpopular but im only half way through.
-2015-02-10,8850,True,Good follow up to the first game. Hoping for a 4th bioshock game thats closer to the first 2.
-2014-09-05,209080,True,great game. need more people to play and Austrailan severs. but great game
-2013-10-13,104900,True,"guns, dino and Jetpacks what more do you want?"
+posted,item_id,recommend,sentiment_analysis
+2015-06-10,273350,True,2
+2016-05-18,17080,True,2
+2016-04-15,228300,True,1
+2015-02-10,8850,True,1
+2014-09-05,209080,True,2
+2013-10-13,104900,True,2

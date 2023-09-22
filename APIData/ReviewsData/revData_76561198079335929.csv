@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2013-05-27,440,True,no yes no yes the end
+posted,item_id,recommend,sentiment_analysis
+2013-05-27,440,True,1

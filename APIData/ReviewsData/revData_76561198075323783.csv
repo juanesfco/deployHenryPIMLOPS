@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2012-11-15,440,True,"hi,"
+posted,item_id,recommend,sentiment_analysis
+2012-11-15,440,True,1

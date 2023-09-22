@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-03-28,70,True,I dont think you can run steam if you dont meet the minimum requirements for this game.
-2016-03-02,220,True,its like half life but with a 2 at the end
-2016-01-14,346010,True,tried to make a car that shot cannonballsmade cannon shoot cars11/10
-2015-10-18,304930,True,potatos
-2015-09-23,218230,True,My grandpa runs faster than this game
-2015-08-12,620,True,"'Say apple, aaapple'*jumps*'Ok, you just jumped, thats a start'"
-2015-08-07,221910,True,Stanley was shown 2 doors and entered on the leftHe broke a hole in the wall and broke the game.(dont take this seriously)
-2015-06-12,72200,False,That momentWhen you realiseYou have to give him more money to get Universe Sandbox 2
-2014-10-24,233250,False,"bullfkin s**t, i have to pay MORE MONEY FOR UPDATES?"
+posted,item_id,recommend,sentiment_analysis
+2016-03-28,70,True,0
+2016-03-02,220,True,0
+2016-01-14,346010,True,1
+2015-10-18,304930,True,1
+2015-09-23,218230,True,0
+2015-08-12,620,True,2
+2015-08-07,221910,True,0
+2015-06-12,72200,False,2
+2014-10-24,233250,False,2

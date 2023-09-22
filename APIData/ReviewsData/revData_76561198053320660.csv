@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-09-05,730,True,Learnt the words '♥♥♥♥ ♥♥♥♥♥' and was yelled at by a clan of 10 year olds who pretend they are KennyS.10/10 would spent several hours in bed crying at the red i almost got again
-2016-01-16,202170,True,"I've played this way too many times, but the story is simply amazing and the graphical appearances are simply beautiful. Even with lower settings, the vivid environment of Hong Kong is brought to life through neon lights and the overall atmosphere.by the way you can kill people with a fish and buy $30 energy drinks"
-2016-03-17,437220,True,"Took me 8 hours to download the game. Went in-game for a few minutes to test out fps. So far so good.Next day, go on Steam to find 2.7 GB update that took another 8 hours.either way can barely throw spears even if i've barely played this, i'm loving it already 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-09-05,730,True,1
+2016-01-16,202170,True,2
+2016-03-17,437220,True,1

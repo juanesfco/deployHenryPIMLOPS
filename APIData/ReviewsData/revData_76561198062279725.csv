@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-09-11,570,False,"La verdad me gustsa el juego pero despues de la ultima actualizacion la cagaron mucho, me estan desilucionando... saludos."
+posted,item_id,recommend,sentiment_analysis
+2015-09-11,570,False,0

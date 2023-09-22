@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-15,440,True,BEST GAME ANYONE COULD EVERY PLAY
-2014-06-09,730,True,"Amazing gameplay, good graphics, awesome game mechanics, and most of all, BETTER THAN COD :>"
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,440,True,2
+2014-06-09,730,True,2

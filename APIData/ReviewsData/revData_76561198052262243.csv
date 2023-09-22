@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-23,95400,True,this is a mental challenging game that breaks all the laws of physics and ♥♥♥♥♥s up your brain whabrain?
-2016-07-17,431240,True,"Apart from the repeating soundtrack that you will kill yourself with everytime you click play, the mechanics of this game are really well done and can show how such a simple game can look that professional.1/hole in 1    This is the most satisfying game to hit trickshots in."
-2016-01-02,225080,True,10/10Better than first 10 mins of Up
-2014-12-29,71230,True,its the best game out there
+posted,item_id,recommend,sentiment_analysis
+2015-12-23,95400,True,1
+2016-07-17,431240,True,1
+2016-01-02,225080,True,2
+2014-12-29,71230,True,2

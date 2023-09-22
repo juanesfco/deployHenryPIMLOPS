@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-16,730,True,1337/666 I joined the terriost team they gave me a bomb...
-2016-02-01,377160,True,Baaaaaaaaaaaaa.
-2016-05-10,35450,True,Kill the cykiesMy opinoin the gun mechanics are balanced
+posted,item_id,recommend,sentiment_analysis
+2015-07-16,730,True,1
+2016-02-01,377160,True,1
+2016-05-10,35450,True,1

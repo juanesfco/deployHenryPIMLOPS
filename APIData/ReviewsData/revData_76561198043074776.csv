@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-06-23,265630,True,"An awesome, farily easy to start first person shooter for the source engine."
-2014-04-14,239220,True,A Mightily fun game where you Quest for Epic Loot
-2014-08-11,242880,True,"An adrenaline-fueling yet funny game, where you are being hunted by an army of Gentlebots. You have to get machine pieces and bring them back to where you start to repair a teleporter as your butler, Mr Walters, talks to you. As you get more pieces, more and new, tougher robots come. You have a hunger meter, so you have to scavenge for food in the houses that lay around. At first, your only tools of dealing with the robots are bottles that you can throw to distract them (they don't hurt them) and alarm clocks that you can set to go off - up to 60 seconds of delay. Although, you might find some weapons that will be of use - the hatchet, the pistol, the shotgun, the rifle and even a blunderbuss! All the time, you will have to deal with a Tetris-like inventory. It runs on the Unity Engine, so it is not that intensive: but don't expect great graphics.The game is still in development, so new robots, biomes and items are being added.A definite recommendation.Oh, and may I add: Sir, You are being Hunted."
-2014-01-28,200260,True,"I had already finished Batman Arkham City on the Xbox 360 but I saw this was $7 on sale so I bought it. I've finished the main story on new game and new game plus, collected all the riddler trophies, done all the riddles, and it's still fun! I'm about half way to go.."
-2013-12-10,63700,True,It's fun but you have to pay attention and you need good reflexes. The music is also pretty good.
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,265630,True,2
+2014-04-14,239220,True,1
+2014-08-11,242880,True,2
+2014-01-28,200260,True,1
+2013-12-10,63700,True,2

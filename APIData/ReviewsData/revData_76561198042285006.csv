@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-07-13,440,True,DA bomb and it free!
-2011-12-23,8190,True,SO MUCH FUN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-2011-06-15,105600,True,ITS AN AWESOME GAME!!!!!!
+posted,item_id,recommend,sentiment_analysis
+2012-07-13,440,True,2
+2011-12-23,8190,True,2
+2011-06-15,105600,True,1

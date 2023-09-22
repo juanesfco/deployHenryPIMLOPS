@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-08-06,384190,True,"I'd probably only recommend it if it is on sale for most people. I really, really enjoyed this game and had a few moments where I was profoundly touched and moved by the experience. It can be completed in 3 hours if you really rush the story, which is mostly linear but each area is very beautiful and teeming with plants and aquatic life to explore. There's no dialogue and the story is vague/open to interpretation, which I feel makes it more of an indie title that a lot of people will feel is pretentious and style over substance. That being said, I personally feel this title is genuine and I loved all aspects of it. A very relaxing and gorgeous experience -- dim your lights, calm your mind and get lost beneath the waves."
-2014-09-08,200710,True,Bretty gud
-2016-08-18,275850,False,"This game is and unfinished joke and the devs straight up lied to players. Sean has showed nothing but contempt for his playerbase. At the core, if this game spent another YEAR in development it might be finished -- but now they are saying paid DLC for bases and other features? DO NOT GET THIS GAME."
-2016-07-05,403190,True,"Imagine you are trying to spin ten plates. Whilst riding a unicycle. And there's also random, unpredictable gusts of wind that threaten to throw your balance. That's basically what it's like to play Planetbase.10/10 would recommend. satisfying as ♥♥♥♥"
-2016-03-29,730,False,"The worst community I've ever encountered, bar League of Legends, which of course takes the title for toxicity.If you enjoy playing competitively, then get ready to see some ♥♥♥♥."
-2016-03-29,305620,True,"Minimalistic visual theme but atmospheric as ♥♥♥♥. Very immersive survivalist elements that really prompt you to play smart and conversatively. Difficult, but a rewarding experience."
-2016-03-28,264710,True,"If you're a fan of hard sci-fi like I am, chances are you'll love Subnautica. The survival skills and crafting are almost fully realised, and the vehicles (The Cyclops -- a hulking submarine, and the Seamoth, a small one-man shuttle) are really fun to navigate the oceans with.Be warned though, there are some things in the water that are less than friendly -- and impossibly big. Don't go too deep unless you're ready for it!"
-2016-03-28,413150,True,"This game is an absolute treat and I wholeheartedly recommend it. ConcernedApe (the sole creator) has spent 10 hours a day -- every day -- for the last FOUR YEARS making this beautiful little game, and it is INCREDIBLE. Captivatingly wholesome, cosy and intricate, Stardew Valley offers a solid 50 hours of play with a plethora of fun activities and developed characters. I am absolutely in love with the valley and people of Pelican Town, and have never wanted to be a farmer so much in my entire life."
-2014-12-01,233290,True,"6/10. I would grab this game on sale, as it is very short and a bit repetitive. However, had a really cool mood and atmosphere and was fun for the few hours of play it offered."
+posted,item_id,recommend,sentiment_analysis
+2016-08-06,384190,True,2
+2014-09-08,200710,True,1
+2016-08-18,275850,False,0
+2016-07-05,403190,True,1
+2016-03-29,730,False,0
+2016-03-29,305620,True,1
+2016-03-28,264710,True,1
+2016-03-28,413150,True,2
+2014-12-01,233290,True,1

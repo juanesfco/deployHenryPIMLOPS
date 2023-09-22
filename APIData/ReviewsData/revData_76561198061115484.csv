@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-01-28,391540,True,mmmmmmmmmmmmmm......sobway
-2012-04-01,440,True,bye wallet
-2015-08-29,730,True,CS:GO buy a better gamenaw but it's actually really good
-2015-09-14,338170,True,0/10 no actual gibs
-2014-10-08,261180,True,music is gr8
-2014-07-13,113200,True,get rebirth
-2015-09-06,304930,False,just like gmodfun to play until admins and kids are onso it's never fun
-2014-10-08,4000,False,0/10 like kindergarden with guns
+posted,item_id,recommend,sentiment_analysis
+2016-01-28,391540,True,1
+2012-04-01,440,True,1
+2015-08-29,730,True,2
+2015-09-14,338170,True,1
+2014-10-08,261180,True,1
+2014-07-13,113200,True,1
+2015-09-06,304930,False,0
+2014-10-08,4000,False,1

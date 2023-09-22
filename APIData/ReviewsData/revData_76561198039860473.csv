@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-03-13,386360,True,good 
-2016-05-05,32500,True,Would rather eat my ♥♥♥♥
-2015-11-18,4000,True,Heard it was a good gamenow i am the gamehelpi am at -33.856............
-2015-07-14,212630,True,d
-2013-12-11,730,True,This game is better then any shooter (apart from Battlefield)
+posted,item_id,recommend,sentiment_analysis
+2016-03-13,386360,True,2
+2016-05-05,32500,True,1
+2015-11-18,4000,True,2
+2015-07-14,212630,True,1
+2013-12-11,730,True,1

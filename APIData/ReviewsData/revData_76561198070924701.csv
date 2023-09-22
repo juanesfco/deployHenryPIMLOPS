@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-20,570,True,Best game. Don't be a LoLbabby and play dota2 instead.
-2015-09-16,386360,True,"LOVE IT !!!!!!!!!!!!! AMAZING GAMEPLAY LONGTIME PLAYERbut I hate the installing process, super annoying!"
-2015-07-07,235460,True,Saw awesome love the boss fights
-2014-05-07,49600,True,Awesome game
+posted,item_id,recommend,sentiment_analysis
+2013-12-20,570,True,2
+2015-09-16,386360,True,1
+2015-07-07,235460,True,2
+2014-05-07,49600,True,2

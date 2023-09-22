@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-02,12200,True,I had this game on ps2 i loved it alot i give it 10/10
-2014-06-21,730,True,This game is Beast
-2016-02-12,370240,True,To me personally i like the game even though 2K15 is better is spent money on it so why shouldnt i play it?
+posted,item_id,recommend,sentiment_analysis
+2014-07-02,12200,True,2
+2014-06-21,730,True,0
+2016-02-12,370240,True,1

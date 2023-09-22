@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-04-02,218620,True,I find this game the most underated game of all time. Yes its amazing and i love it. But you have to be great at the game to be able to play it
-2016-05-20,417860,True,how many times do i remeber being on the same startup screen
-2016-01-23,4000,True,um i love this game
-2014-11-12,440,True,the only fps that can beat this game is goldeneye007. tons of hours of gameplay.its a force o nature
+posted,item_id,recommend,sentiment_analysis
+2016-04-02,218620,True,2
+2016-05-20,417860,True,2
+2016-01-23,4000,True,1
+2014-11-12,440,True,0

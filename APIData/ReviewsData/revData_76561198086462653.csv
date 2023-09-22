@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-07-05,298240,True,its nice
-2016-02-24,227940,False,"first comers dont get to to be in a war,LAME."
-2016-03-27,391460,True,people who say this copied counter strike are idiots.so every game with a gun is a copy? lol!
-2016-02-12,730,False,WTF STEAM GUARD? NOW I CANT EVEN SELL THINGS!!! STUPID STEAM REMOVE THE STEAM GUARD!! ARE YOU TRYING TO MAKE US NOT SELL THINGS?
+posted,item_id,recommend,sentiment_analysis
+2015-07-05,298240,True,2
+2016-02-24,227940,False,2
+2016-03-27,391460,True,2
+2016-02-12,730,False,0

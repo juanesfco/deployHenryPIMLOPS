@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-15,34900,True,♥♥♥♥ the haters 11/9
-2016-01-12,397690,True,"Brought this on 90% off, 100% worth it! Really fun and enjoyable game. Very Fluid Controls And Amazing Soundtrack and gameplay! Gets crazy at times which is absolutely fun!"
-2015-08-13,22300,True,10/10 you already know how good this game is so ♥♥♥♥ing buy it already if you havent.
-2015-05-28,297020,True,"Amazing game, loads of fun"
+posted,item_id,recommend,sentiment_analysis
+2015-12-15,34900,True,1
+2016-01-12,397690,True,2
+2015-08-13,22300,True,2
+2015-05-28,297020,True,2

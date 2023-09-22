@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-11-30,250900,True,"Awesome game! Highly recommended, addictive, fun, enjoyable. You cannot get bored of this game as there's many different items to be picked up and combined!"
+posted,item_id,recommend,sentiment_analysis
+2015-11-30,250900,True,2

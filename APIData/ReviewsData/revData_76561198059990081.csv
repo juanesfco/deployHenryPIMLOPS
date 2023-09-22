@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-09-27,248860,False,"Massive potential, awesome story, great fun and highly addictive but just when you think you're starting to win, you open the game to find your save file has evaporated.  This happens once, you think oh well try again.  After the tenth time you finally get jack of the game and move on.If developers are going to create a game with Perma-death, the golden rule is the only person who can kill the character is the player and their choices. Not glitches and bugs.Sorry but I'm moving on."
-2014-08-15,250400,True,"Good idea, poorly executed. Worth a look if you're bored."
-2014-11-18,282070,True,"Brilliant, haunting and addictive. This could be the basic concept for an epic big budget game, but would it lose some of its charm...?Highly recommended!"
-2014-10-12,312210,True,"This is a very cool concept, can't wait to see how it pans out!A little bit clunky with menus and controls and a bit buggy but worth a look."
-2014-08-15,22380,True,In my opinion Fallout 3 is one of the best games ever made. New Vegas continued the concept. What's not to like.Instant classic!
-2014-08-15,274310,True,"One of the most frustrating games I have ever played. So much promise but I cannot stress highly enough, do not start playing this game.  If you do, many hours later you will finish it and be as irritated as i was."
-2014-02-17,241540,True,"For what it is, this is a while lot of fun! If one of the big developers gets hold of this concept they could make a truly brilliant game to rival the Fallout series.  Great to see new imagination in the zombie genre!"
-2013-05-28,440,True,Just bloody good fun!
+posted,item_id,recommend,sentiment_analysis
+2015-09-27,248860,False,2
+2014-08-15,250400,True,1
+2014-11-18,282070,True,1
+2014-10-12,312210,True,2
+2014-08-15,22380,True,2
+2014-08-15,274310,True,1
+2014-02-17,241540,True,2
+2013-05-28,440,True,1

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-11-20,231140,True,"♥♥♥♥♥ all over SimCity 2013. Cheaper. Plus (you might want to sit down for this), it works!Amazeballs."
-2015-01-01,214560,True,"Much better than Rocketbirds: Hardboiled Chicken, buy/play this instead."
-2014-10-10,211440,True,Fun. Challenging but not difficult. Just one more...
-2015-01-22,224420,False,"Would you like some gameplay with your cutscenes....Movie, then you run through a corridor, then another movie where everything interesting happens, then you run along another corridor & open a door to, another movie where all the action happens, then, well, rinse & repeat.Yawn.A graphic novel with some connect-the-dots 'player interaction'."
-2014-11-09,243450,True,"Fun. Replayable. Worth it.You may think you need to know more than that, but you don't really.There's plenty of tracks, they're well made, they're both challenging AND fun, there's plenty to achieve & find, and you will keep coming back to it time after time. Even when you're done with it you're still likely to want to have a play once in a while.There's wheel, chassis, engine upgrades, which obviously make the bike lighter, faster etc; but also change the handling of the bike. The controls are simple enough to jump straight into yet the maps & physics require mastery.If you beat your friends at any challenge your pic goes up on the in-game billboards so they all see it as they ride-by & fail. ;)I can't say whether it is better or worse than others in the series, but on it's own I can't find anything to complain about.It's worth the price & if on sale it's a no-brainer."
-2014-09-06,215510,False,"It's enjoyable enough, easy, not much/any challenge. You just kind of roll through it & the end is nigh.A kiddies' version of Mark of the Ninja, except the gushing blood, & adult themes of cut-scenes preclude children from playing it.Get Mark of the Ninja instead."
-2014-10-15,267130,True,Pretty good.Remember to disable AA for big fps gain.
+posted,item_id,recommend,sentiment_analysis
+2013-11-20,231140,True,0
+2015-01-01,214560,True,1
+2014-10-10,211440,True,2
+2015-01-22,224420,False,2
+2014-11-09,243450,True,2
+2014-09-06,215510,False,2
+2014-10-15,267130,True,2

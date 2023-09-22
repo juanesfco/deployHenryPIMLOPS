@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-27,400,True,"Oh... where do I begin? It would take too long to write what I'm thinking here, so, it should have been GOTY"
-2013-05-15,105600,True,"like Minecraft, exepet 5 times better!"
-2016-02-28,413410,True,"This game is absolutley awesome. If, like me, you love the Ace Attorney games, you should buy this game. Like, NOW.Also, don't get too attached to a majority of the characters. Most of them die.What's that? An actual review? Pfft... no!"
-2013-11-26,11610,False,This game DOESN'T WORK!
-2015-11-25,377160,True,Play this game already. Enough said.
-2015-11-06,204360,True,"If you don't have this game, there is something definetly wrong with you. What are you waiting for? The 'Add to Cart' button is right there!"
+posted,item_id,recommend,sentiment_analysis
+2013-12-27,400,True,1
+2013-05-15,105600,True,2
+2016-02-28,413410,True,2
+2013-11-26,11610,False,0
+2015-11-25,377160,True,0
+2015-11-06,204360,True,0

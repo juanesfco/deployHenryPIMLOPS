@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-02,200510,True,So ♥♥♥♥ing Amazing
-2013-12-23,730,True,ermergerd counterstrike
-2013-12-28,241540,False,Bad Port
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,200510,True,2
+2013-12-23,730,True,1
+2013-12-28,241540,False,0

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-07-28,440,True,It's TF2. It's 2015.You don't need to be reading this.
-2015-07-21,250900,True,"I was enamoured by the original Isaac, the quirky artstyle, glorious dark humor, unique and complex gameplay and a level of content that was absolutely ruinous to my productivity. But it had its downsides, it was buggy, locked at 30 FPS and somtimes left you cheated or wanting more.Rebirth is Isaac, polished, fixed, and multiplied. It's an addiction.I've lost most of my friends, my job, dropped out of uni and forgot to eat and shower for who knows how long, but it was all worth it.10/10 would thoroughly recommend.Even though the upcoming expansion may actually kill me."
-2015-07-04,257510,True,"Croteam's 'Easter Egg Hunting With Some Puzzles As Well' is a great game about pretending to do some puzzles and then investigating every nook and cranny of every level to find the various tasty easter eggs hidden within.Graphics (lighting especially) is great as usual from Croteam, fluid movement and simple puzzles that can sometimes be fairly challenging are also par for the course.A decent storyline with a fairly hefty amount of lore in the form of various terminal based text logs is intriguing enough to make you lust for more.20/10 ♥♥♥♥ game"
-2014-12-15,4500,True,"Get out of here, Stalker!... I needed to write something so I could make a positive recommendation of one of the best FPSs I've played, and certainly the best survival-horror FPS."
-2014-11-30,34900,True,"Buy it for you!Buy it for your friends!Buy it for your enemies!Buy it for your mother!Buy it for your mother's friends!Buy it for your dog and/or fish!Buy it for the president!Buy it twice!Buy it for everyone!Whatever you do, buy as many copies as possible and distribute like the plague. This is possibly humanity's greatest achievement, and the love needs to spread."
-2014-11-30,20920,True,"Tremendous and branching, intricately detailed story,Excellent combat, enemies and monsters,Fantastic graphics and exceptional optimisation,Great characters and at least 40 solid hours of gameplay.Highly recommended."
-2014-11-04,113200,True,"Isaac is fantastic, but if you havn't played it yet, you've missed the boat.Thus, I implore you to purchase Rebirth, you will not be disappointed."
+posted,item_id,recommend,sentiment_analysis
+2015-07-28,440,True,1
+2015-07-21,250900,True,2
+2015-07-04,257510,True,2
+2014-12-15,4500,True,2
+2014-11-30,34900,True,2
+2014-11-30,20920,True,2
+2014-11-04,113200,True,0

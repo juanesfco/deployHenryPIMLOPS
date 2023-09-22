@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-28,362890,True,"An awesome remake of the classic first person shooter. I would recommed this game to any FPS fan.10/10 would play again, and again, and again. "
-2016-01-04,730,True,Got competitive cooldown for a week for kicking an AFK player and I didn't even call the vote. 10/10 5 star thumbs up cooldown simulator
-2015-04-16,280,False,"The only reason that I got this is because I'm a diehard Half-Life fan. There is practically no reason to get this if you already have the original game. The only difference is the ragdoll and water effects, nothing more. Also, there is an enormous amount of bugs and glitches in this game. And there is no modding support either. If you want to get a FAR better remake of the classic game, get Black Mesa. "
+posted,item_id,recommend,sentiment_analysis
+2015-07-28,362890,True,2
+2016-01-04,730,True,1
+2015-04-16,280,False,1

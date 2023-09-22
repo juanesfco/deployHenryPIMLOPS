@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-25,325610,True,"Great game, graphics are more demanding in ATTILA than Rome Total War II"
-2015-01-02,50130,True,great game nice story line and its easy to did in the game. very fun game 9/10
-2013-12-02,236390,True,Awesome and addictive
+posted,item_id,recommend,sentiment_analysis
+2015-06-25,325610,True,2
+2015-01-02,50130,True,2
+2013-12-02,236390,True,2

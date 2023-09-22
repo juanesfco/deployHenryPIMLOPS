@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-30,417990,True,I bought this game for the trading cards only. I swear.
-2016-09-14,396750,True,"How do I have this many hours already!?Anyway... This was a Kickstarter game that is run by a team of 12-people who made the Galaxy on Fire series, and it easily does all the following...Beats Elite: Dangerous in finding things to shoot.Was announced after Star Citizen, but is now releasing before Star Citizen is.Better enviroments and scenery than EVE Online.Higher replay value than FTL.TL;DRIt's a spiritual successor to Freelancer, the Dark Souls of space games, and a better use of your money than No Man's Sky vaporware."
-2016-05-23,475490,True,Major/Minor - Definitive Edition: Prepare to Rebuy EditionI rebought this game for the trading cards only. I swear.
+posted,item_id,recommend,sentiment_analysis
+2015-12-30,417990,True,0
+2016-09-14,396750,True,1
+2016-05-23,475490,True,0

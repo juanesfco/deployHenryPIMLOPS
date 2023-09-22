@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-02,251570,True,"I'm completely addicted to this game!  After 35 hrs single player play I haven't had one crash so yes it does run stable on my system.  Find a solid building and make it a fortress, pillage as many resources as you can, there are plenty.  Great game, thanks for making it, the final version should be great!"
-2015-11-06,311210,True,"Read a few reviews crying about oh it doesn't work, wah bad FPS, not in my case, the game runs perfectly on my 4770K @ 3.9Ghz, 16GB 2400Mhz memory, GTX780 @ 1052 gpu/6300mem, 90 frames per second  on high settings 110 field of view  1080p.  Zombies looks magnificent, multi player is great, no stuttering, no problem.  I really like it and need to say thankyou Treyarch for building this awesome game, well done guys! Love it.  Buy it"
-2014-12-26,220,True,"One word, Classic!  Great story spanning across a number of episodes, way back to the original Half Life.  If you like a good story and some good action this game is a must for any noob who doesn't know what half life is.This is THE game that got me into PC shooters almost 10 years ago.  I've played the hell out of it and now that I've found this co-op mod I'll be trying my hardest to convince my gamer GF to do a play through with me as she's never played it...  yeah, I'm shocked and appalled about that too.  Buy it NOW!"
-2014-04-04,237110,True,"Great game, all re-done! Buy it"
+posted,item_id,recommend,sentiment_analysis
+2016-07-02,251570,True,2
+2015-11-06,311210,True,2
+2014-12-26,220,True,1
+2014-04-04,237110,True,2

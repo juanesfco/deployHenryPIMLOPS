@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-02-03,730,True,"A Great follow up to an awesome series. Ez money, Ez lyfe"
-2015-02-03,212160,True,"In my opinion, this is the most indepth and most graphicly intense f2p rpg that ive me. WIth tons of content and a multitude of characters and skill trees to choose from. 9/10"
-2015-02-03,550,True,Name of the game.
-2015-02-03,4000,True,"Playing this with 30 friends in one server is insanely fun. Would play again, if we had a server :)"
-2015-02-03,240,True,Play wc3 mod (y)
-2015-02-03,440,True,"The start of my steam collection. Ez money, Ez lyfe"
+posted,item_id,recommend,sentiment_analysis
+2015-02-03,730,True,2
+2015-02-03,212160,True,2
+2015-02-03,550,True,0
+2015-02-03,4000,True,2
+2015-02-03,240,True,2
+2015-02-03,440,True,1

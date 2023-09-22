@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-22,570,True,Ignore the pinoys bobo
-2015-11-22,730,True,"difficult, challenging, full of russians, once you start this game ♥♥♥♥ ♥♥♥♥♥"
-2015-11-22,440,True,amazing game that has kept me intrigued for wayyyyy too long
+posted,item_id,recommend,sentiment_analysis
+2015-11-22,570,True,0
+2015-11-22,730,True,1
+2015-11-22,440,True,1

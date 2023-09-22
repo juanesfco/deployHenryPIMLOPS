@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-06,730,True,"Amazin game, anyone that doesnt have it defs needs to get it!!!"
-2014-11-19,218230,True,"Planetside 2 is awesome however is a little difficult to get into, for a free PvP FPS it is a game i would recommend people to have some fun in as it gives the basic classes to suit everyones interest."
-2014-11-19,286690,True,"loving the storyline of Metro 2033 followed by the insanely realistic gameplay, definitely worth buying if you love a good thriller."
-2014-11-19,208200,True,"Truely one of the best games of its time, release of the BFG edition was the perfect way to get people back into the classic game. definitely more could of been done but all round it is sure worth a 8/10."
+posted,item_id,recommend,sentiment_analysis
+2014-09-06,730,True,0
+2014-11-19,218230,True,1
+2014-11-19,286690,True,2
+2014-11-19,208200,True,2

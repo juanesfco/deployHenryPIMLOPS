@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-12,730,True,3 words if youre new to cs and bought this game; welcome to hell
-2014-04-01,222880,True,teabagging and camping have never been so intense
-2015-07-10,333930,True,"great game, regardless the fact that its still beta (with forgivable glitches). the best thing about this is it is one of those few games that arent pay 2 win, and you dont need a tryhard computer to actually enjoy it. its a concoction of the teamwork of tf2 with the gunplay of cod, although i would recommend the devs to add more guns for one merc and a customization option"
+posted,item_id,recommend,sentiment_analysis
+2014-01-12,730,True,2
+2014-04-01,222880,True,2
+2015-07-10,333930,True,2

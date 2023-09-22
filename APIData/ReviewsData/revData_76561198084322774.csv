@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-03-31,220,True,"l4d3 and source 2 were spotted on a valve employes computer. take letters out of L4D3 you get, 43. whats 4-3? 1. whats opposite of subtraction? addition. whats 1+2? 3. Half-life 3 confirmed"
-2015-03-02,286080,False,they could of made a un-offical version of portal 3? anyone with me?
-2015-11-13,362620,True,Dont like these sort of games? Buy this game anyways and you will be simply pleased
-2015-10-17,252950,True,Buy. This. ♥♥♥♥ing. Game. Now
-2015-03-28,440,False,Get Good.Get CS:GO.
-2015-03-01,104900,True,mostly unlrealistic weapons + 50% cartoonish gameplay + no blood = great for kids who want a shooter game 8/10 10/10
-2014-05-09,233450,True,1st prison: what am i doing. 2nd prison: getting the hang of it. 3rd prison: this is addictive
-2014-04-15,4000,True,"play prop hunt and murder, then your good11/10 Potatos -IGN"
-2014-04-14,204300,False,♥♥♥♥ing horrible
+posted,item_id,recommend,sentiment_analysis
+2015-03-31,220,True,2
+2015-03-02,286080,False,1
+2015-11-13,362620,True,1
+2015-10-17,252950,True,0
+2015-03-28,440,False,1
+2015-03-01,104900,True,2
+2014-05-09,233450,True,1
+2014-04-15,4000,True,1
+2014-04-14,204300,False,0

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-10-10,206500,True,lumayan lah
-2014-05-21,258090,True,Game belajar noun !! Wajib punya bagi yang mau nambah nambah vocab :P
-2014-05-22,9940,True,"mayan udah update trading card nya,"
-2014-03-05,262150,True,<3 !!!!
-2014-11-14,242860,True,EZ MONEY EZ LIFE!!
-2014-05-07,244870,True,"Nice soundtrack, main sambil joget joget jatuh mulu :3"
+posted,item_id,recommend,sentiment_analysis
+2014-10-10,206500,True,2
+2014-05-21,258090,True,1
+2014-05-22,9940,True,1
+2014-03-05,262150,True,2
+2014-11-14,242860,True,1
+2014-05-07,244870,True,2

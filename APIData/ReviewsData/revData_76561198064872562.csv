@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-01,105600,True,10/10 Got me into yoyo-ing.
-2015-12-01,248820,True,10/10 Best rogue-like i have played so far.
-2014-05-03,730,True,Got bored of it but still a great game.
+posted,item_id,recommend,sentiment_analysis
+2015-12-01,105600,True,1
+2015-12-01,248820,True,2
+2014-05-03,730,True,1

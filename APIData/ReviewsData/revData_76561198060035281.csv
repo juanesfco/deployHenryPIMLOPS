@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2012-11-18,4000,True,"Guys You Have GOT TO Get This Game Its Amazing, Its Really Worth Your Money. Yes It Takes A While To Learn How To Use It But Once You Get The Hang Of It You Will LOVE It."
-2013-12-12,730,False,"Amazing game, but when ever it changes maps it crashes. very upset that i wasted my money and i cant fix it. help me fix it if you can"
-2014-06-29,620,True,"10/10 Love Portal 1+2 So Much. The storyline is amazing and it's good to have harder to solve puzzles once and a while. It tests the brain :) But altogether I love the story, the setting and the characters. All Hale GLaDOS!"
-2014-06-29,206420,True,"10/10 Where do I start, This game is just so funny. The story line, the characters. Everything. I'm addicted to Saints Row, I have played the game over and over. Warning, This game is Highly Addictive. I really do hope they make another Saints row game, This game is defently worth the $$"
-2014-06-29,209000,True,"9/10 Love The Arkham Series. It's just got so many twists and turns and A interesting story line. It brings all the favourite bad guys and puts them all in a game. I see it more as a movie than a game but it is very enjoyable. The Third Person view suits the game well, I can't wait for the next game to come out. I'm a big harley Quinn fan :P"
-2014-06-29,265930,True,10/10 One of the most funniest games I have played. Very enjoyable. Would pay full price (got it on sale)
-2013-12-22,220,True,"10/10 AMAZING! The story. the charicters, the idea, the settings. IT IS AMAZING!!!! MUST HAVE"
-2013-12-22,105600,True,"9/10 Amazing game, if anyone tells you its like minecraft there lieing. It is completly diffrent, its alot better actully. Fun game to play with friends."
-2013-12-19,8870,True,"I love this game, it is amazing 10/10"
+posted,item_id,recommend,sentiment_analysis
+2012-11-18,4000,True,2
+2013-12-12,730,False,1
+2014-06-29,620,True,2
+2014-06-29,206420,True,0
+2014-06-29,209000,True,1
+2014-06-29,265930,True,2
+2013-12-22,220,True,2
+2013-12-22,105600,True,2
+2013-12-19,8870,True,2

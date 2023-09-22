@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-25,211820,False,"don't buy or play unless you are really keen for the game, all your progress gets deleted on a weekly basis making it impossible to play through. i recommend to all not to buy or play until at least a year when it is fully released unless you enjoy being disapointed and upset at the constant loss of data and many bugs and game inbalances!"
-2016-01-08,330830,True,10/10 would reccomend to everyone. if you loved the borderlands game you will definately cry during this. CATCH-A-RIIIIIIIIIDDDDDDEEEEEE!!!!!!
-2015-08-23,233250,False,1. DONT WASTE YOUR MONEY2. having failed step 1 ask valve for a refund3. having failed step 2 write an angery review4. having failed step 3 cry about how you wasted your money on this flop of a game while you profusely apologise to the thousands of good games you could have bought of the Steam.
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,211820,False,1
+2016-01-08,330830,True,0
+2015-08-23,233250,False,0

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-22,433340,True,You farm slime poo and sell it for profit 10/10
-2016-08-19,442080,False,"Poorly optimised, Hard to use interface, Really stuffy ui and for a game centered around mounts the mounts seem to be the least fun thing in the game..."
-2016-02-11,252490,True,"A dude knocked me down i told him i was his long lost brother, we're best friends irl now 10/10"
-2013-12-16,259080,True,sometimes i like to bury myself in the garden and pretend that im a carrot
-2014-11-11,260410,False,Bad game microtransactions and its boring as all $hit
-2016-08-13,230410,True,"Space ninjas are pretty cool i geuss, textures are kinda eh in places but whatever i can jump around and cut ♥♥♥♥ in half so im happy"
+posted,item_id,recommend,sentiment_analysis
+2016-01-22,433340,True,1
+2016-08-19,442080,False,0
+2016-02-11,252490,True,2
+2013-12-16,259080,True,1
+2014-11-11,260410,False,0
+2016-08-13,230410,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-26,231430,True,I dont own this game but I can write a review about it. 10/10
-2012-07-13,39000,True,Relaxing game to kill time
-2011-12-27,55040,True,Best zombie game ever made
-2011-12-13,99700,True,Good game if you like to play with balls
-2011-11-27,25010,True,"Captivating and compelling storyline on par with the best such as the Metal Gear, Final Fantasy  and Zelda series. Gorgeous and alluring graphics and visual effects that truly puts the CryEngine 3 and Unreal Engine 3 to shame, and audio fidelity that makes Battlelfield 3 sound like an 8 bit classic. BEST GAME EVER."
-2011-11-27,26500,True,Cogs will somehow magically get you laid. Definately recommended
-2010-12-26,29180,True,VERY AWESOME BUBBLE GAME D:
+posted,item_id,recommend,sentiment_analysis
+2014-06-26,231430,True,1
+2012-07-13,39000,True,0
+2011-12-27,55040,True,2
+2011-12-13,99700,True,2
+2011-11-27,25010,True,2
+2011-11-27,26500,True,2
+2010-12-26,29180,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-09-09,57690,True,Got it from Humble Bundle deal. Great game
-2016-02-02,203770,True,Took over the weekend and pillaged every last holding as the Mongols. 10/10 would commit literal genocide again.
-2015-12-15,218230,True,"Do not play the steam version, get it from the website. The steam version is hell to work with."
-2015-05-25,323370,True,Extremely Entertaining combat.
+posted,item_id,recommend,sentiment_analysis
+2016-09-09,57690,True,1
+2016-02-02,203770,True,1
+2015-12-15,218230,True,1
+2015-05-25,323370,True,2

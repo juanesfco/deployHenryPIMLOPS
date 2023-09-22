@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-07-16,294100,True,"Bought this game a couple of years ago now.Steadily played through every update enjoying every new feature implemented and every bug eradicated.Really great developers who have provided a supremely quality product. Ludeon set the benchmark for what a game should be.Congrats on your addition to Steam, this is one of the few indie games on the market here that truly deserve to be here.10/10"
-2014-03-11,8930,True,"Great game for excercising your brain and micromanaging skills. However the AI leaves a little to be desired with their extremely one-sided trade offers and tendancy to denounce you whenever you lift a finger against another civ, including civs that they are also currently fighting or even to defend your own empire."
+posted,item_id,recommend,sentiment_analysis
+2016-07-16,294100,True,1
+2014-03-11,8930,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-08-28,346110,False,"If I could play this game without it crashing whenever I open it, that would be great. Unfortunatly that doesn't look like its happening soon. the game creators should probubly put this on a more stable platform (so to speak). but right now I can't say its looking very good seeing I can't get into the game without it crashing on the loasing screen. I'm sorry but it's my honest opinion and thats all they ask for. This game is  worth less than a defacation, your not getting game of the year award any time soon I can tell you that. I'm sorry if this was a bit brutal but its my honest oppinion. ET the game runs better than this. and thats the worst game in history. Sorry but its true."
-2015-12-07,409160,True,"great game but you can't actualy play the game, but it definitly has very good voice acting and humoris humor. it definitly made me laugh like a human who just heard a good joke. very good. 6/10 would laugh again.(at least im honest about my reviews)"
-2015-12-06,304050,True,"got into game, built house, slayed golden scarab then died. I was inrtigued knowing this was more than just another minecraft copy then i decided to destroy everything in site. the graphics are good and the gameplay is better.10/10 would slay again"
+posted,item_id,recommend,sentiment_analysis
+2015-08-28,346110,False,1
+2015-12-07,409160,True,2
+2015-12-06,304050,True,2

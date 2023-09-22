@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-06-10,17520,True,Multiplayer Hl2 :D
-2014-05-02,340,False,:P Do I Gotta Tell You...
-2014-05-02,240,True,Best CS Ever!!
-2014-05-02,420,True,I Love Episode 2 But I NEED HL3 TO LIVE!!!!!!!!
-2014-05-02,620,True,Awesome Sequel!!!
-2014-05-02,286080,True,Fun Cloning Portal 2
-2014-04-16,280,True,EpicNess!! :)
-2014-01-14,400,True,AMAZING!!
-2014-01-10,220,True,I Love It Better Then Doctor Who And All
-2013-12-06,4000,True,"YES,Its A All Sandbox Game But With HL2 Graphics Also You CAN DO WHATEVER+Amazing Love The Gmod Community"
+posted,item_id,recommend,sentiment_analysis
+2014-06-10,17520,True,2
+2014-05-02,340,False,2
+2014-05-02,240,True,2
+2014-05-02,420,True,2
+2014-05-02,620,True,2
+2014-05-02,286080,True,2
+2014-04-16,280,True,2
+2014-01-14,400,True,2
+2014-01-10,220,True,2
+2013-12-06,4000,True,1

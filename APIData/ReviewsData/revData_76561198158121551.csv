@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-16,377160,True,Perfectly made.
-2016-01-12,107410,True,great
+posted,item_id,recommend,sentiment_analysis
+2016-04-16,377160,True,2
+2016-01-12,107410,True,2

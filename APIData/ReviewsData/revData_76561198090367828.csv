@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-04-01,227940,True,"All the bad reviews are pathetic , They probably suck at this game so they hate it , This game is outstanding , People should welcome WW2 games with whide open arms."
-2014-02-19,440,True,"The most chaotic , fun and popular deathmatch E VA"
+posted,item_id,recommend,sentiment_analysis
+2015-04-01,227940,True,0
+2014-02-19,440,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-13,105600,True,best game ever heck yeah
-2014-01-02,200710,True,it is awesome as an outlander but i can bearly beat general grell
-2014-01-12,440,True,a bit boring
-2014-02-14,204300,True,not worth the time for people more tf2
+posted,item_id,recommend,sentiment_analysis
+2014-01-13,105600,True,2
+2014-01-02,200710,True,2
+2014-01-12,440,True,0
+2014-02-14,204300,True,2

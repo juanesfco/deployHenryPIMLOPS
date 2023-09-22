@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-03,315430,True,Very interesting puzzle game The gameplay is quite basic at the start with the game walking you through the handful of different mechanics. The base 'storyline' puzzles were quite simple however the bonus puzzles are where the challenge shines. The bonus levels really bring out the unique mechanics and gameplay that gives this game it's positive reputation.Overall this game is one of the rare games that's worth it's full price. It's slow to start but has enough conent and end-game challenges to make it a worth while purchase.
-2015-02-20,200230,False,Was Really Looking For A More Calm Exploration Base Game As Opposed To The Timed Races And Panic Enduncing Races This Game Consists Of. If Only There Was A Free Roam Mode...
-2013-12-29,225080,True,"Excellent Puzzles, Outsatnding Story And Beautiful Graphics. An Overall Delight Of A Game"
-2013-12-24,221640,True,This Game Is ridiculously Hard
-2013-12-20,730,True,Easily The best FPS On PC!
+posted,item_id,recommend,sentiment_analysis
+2015-07-03,315430,True,1
+2015-02-20,200230,False,1
+2013-12-29,225080,True,2
+2013-12-24,221640,True,0
+2013-12-20,730,True,2

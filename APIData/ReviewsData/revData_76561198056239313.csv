@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-14,205100,True,Awesome game with violence and it also requires skill!It also has an AMAZING storyline9/10
-2014-02-14,220240,True,This game has everything10/10But beaware it has a lot of motion blur
+posted,item_id,recommend,sentiment_analysis
+2014-02-14,205100,True,2
+2014-02-14,220240,True,0

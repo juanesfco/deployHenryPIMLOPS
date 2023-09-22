@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-11-15,13520,True,Just started Playing and it looks amazing for an old game. I Feel like im Playing half Life
-2015-05-29,10090,True,Unlimited zombies and great online. GG
-2014-02-13,105600,True,Terraria/minecraft is gg
-2014-01-19,17080,True,GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGgg
-2014-03-19,37400,True,IZ ZA BEZT
+posted,item_id,recommend,sentiment_analysis
+2014-11-15,13520,True,1
+2015-05-29,10090,True,2
+2014-02-13,105600,True,1
+2014-01-19,17080,True,1
+2014-03-19,37400,True,1

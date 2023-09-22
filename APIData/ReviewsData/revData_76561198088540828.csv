@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-08-11,375510,False,"Amazing walking simulator, I like that you can choose between two characters but unfortunately they're mostly the same with the exact same walking animations. The game is in Early Access so it only has one map, a magical fairy-looking land that is filled with giant strawberries. This is a very interesting game in the Walking Simulator genre and it tries to do very innovative things.-2/5"
-2015-07-20,327860,True,"One of the best early access games I've played. Its an amazing feeling to navigate the seas searching for resources and loot to upgrade your ship. The game is really fun, even though it suffer from a lot of technical issues such as poor optimisation, poor hitboxes and terrible enemy AI.7/10. I bought this game with a 66% coupon. If you can get a sale then it is a definite buy. Once the game is complete i feel that it will be closer to an 8.5/10."
-2016-01-07,320300,True,"Relaxing and casual, while at the same time making you feel as if you are progressing. Car Mechanic Simulator 2015 is a real Simulator game and not some POS meme-filled ripoff."
-2015-08-03,227300,True,"If this game even slightly interests you, BUY IT. This game is hard to describe. Why is it good?. Why is it fun? Why do I continue to play it? Maybe I don't know exactly why, but I don't care. Get this game or wait for American Truck Simulator."
-2016-01-07,17460,True,When you finish a game and think 'WOW! Time for two new playthroughs!!' then you know it's a good game. In that aspect Mass Effect is an amazing game.
-2016-01-07,72850,True,"Best game in the Elder Scrolls franchise. One of the greatest Open World RPGs available and mods mean that this game can still stay up to date and continue to challenge the new generation of computer hardware, while also keeping it fresh for veteran players."
-2014-02-02,208090,True,"I really like the game, and i dont mind playing for a while to unlock all the different cutomizable additions."
-2016-01-07,241600,True,Rogue Legacy is a nice breath of fresh air in the Rogue-Like genre. The gameplay and the graphics make the game feel more fresh and the family tree and various upgrade systems give the game depth and make it possible for anyone to get addicted to this game.
+posted,item_id,recommend,sentiment_analysis
+2015-08-11,375510,False,2
+2015-07-20,327860,True,1
+2016-01-07,320300,True,0
+2015-08-03,227300,True,1
+2016-01-07,17460,True,1
+2016-01-07,72850,True,2
+2014-02-02,208090,True,1
+2016-01-07,241600,True,1

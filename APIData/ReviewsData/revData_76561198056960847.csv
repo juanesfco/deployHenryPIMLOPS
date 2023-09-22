@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-01,230410,True,luv it
-2014-06-22,243870,True,"this game is a great game but it has its faults, i cant seem to log into the game server so i havent been able to play this game. althrough the graphics for this game our amazing"
+posted,item_id,recommend,sentiment_analysis
+2014-09-01,230410,True,1
+2014-06-22,243870,True,1

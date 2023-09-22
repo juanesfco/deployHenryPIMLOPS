@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-25,243200,True,"Memoria is a truly great experience,A unique adventure game with a compelling story Memoria is one of those games that after finally completing gives you the same satisfying feeling as finishing one of your favourite book series. Intelligent storytelling, character depth, emotional moments and a great finish make this title an absolute must play if you're someone looking for something a little different        88/100"
-2014-10-01,240,True,"Counter Strike Source is a great shooter, with solid team mechanics and fun gunplay... It has aged marvolously well9/10 Olier Fen"
+posted,item_id,recommend,sentiment_analysis
+2016-04-25,243200,True,2
+2014-10-01,240,True,2

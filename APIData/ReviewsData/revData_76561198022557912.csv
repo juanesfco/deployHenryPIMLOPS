@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-06-30,35450,True,"Red Orchestra 2 / RIsing Storm is currently the best WW2 simulation shooter on pc. It features large amounts of maps, lots of content including being able to play on community made maps. This game has a steep learning curve however, and lacks a competent tutorial that explains the game other than the basic controls. 90% of servers available are playing on realism mode which is IMO the best mode but to newer players might be extremely fustrating. Overall a fantastic game with great features as long as you get past the learning curve.TL:DR- Best WW2 simulator- Lots of maps + content- Community maps- Steep learning curve, extremely basic tutorial- Most servers are on 'realism' or essentially hardcore mode"
-2014-06-30,221100,True,"The core ideas behind this game is great, a realistic zombie survival simulator. However, there are many bugs within the current alpha builds. Many of the core content available on the mod is also not available in this standalone version. Buying an early access game has risks and if you want to support the development of the game, I strongly recomment just keep in mind that it isn't the developers problem if you encounter glitches. The game also lacks an end game and thus once most people found decent loot, the game turns into a deathmatch or a hunt for new spawns. Overall a decent title that is worth your money as long as you dont mind investing money into an alpha and encountering a few glitches.TL:DR- Good game- Very addictive- Buggy and glitchy- Not much of an end game- CURRENTLY IN ALPHA"
-2014-01-05,22380,True,"Im usually not much of an RPG guy, but fallout new vegas really has hooked me."
-2014-01-05,224540,False,"Not worth the money, the gameplay is average."
-2014-01-05,204300,True,"Great game, new take on the already saturated MOBA genre. Recommended!"
-2013-12-31,8930,True,"Best turn based strategy game ever! :D, Recommended to all!"
-2014-01-05,17300,False,"I know how well some think of this title, but I really don't think the Crysis series as more than just a graphics benchmark."
-2014-01-05,730,True,"Good old CS, nothing much needed to say about that :D"
-2014-01-05,9480,True,IMO better gameplay and story wise than Saints Row The Third. Would definitely recommend those who want a taste of Saints Row to pick up this title first.
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,35450,True,2
+2014-06-30,221100,True,1
+2014-01-05,22380,True,1
+2014-01-05,224540,False,0
+2014-01-05,204300,True,2
+2013-12-31,8930,True,2
+2014-01-05,17300,False,2
+2014-01-05,730,True,2
+2014-01-05,9480,True,2

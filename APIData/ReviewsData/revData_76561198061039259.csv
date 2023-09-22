@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-15,550,True,It Would Be Better With violence in it but still great game
-2014-02-05,208090,True,♥♥♥♥ing Amazing
-2013-12-29,34830,False,very bad
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,550,True,2
+2014-02-05,208090,True,2
+2013-12-29,34830,False,0

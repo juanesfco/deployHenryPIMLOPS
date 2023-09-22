@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-31,28000,False,Had to stop playing.I don't normally get motion sickness but this game made me feel physically sickWouldn't buy
-2015-03-15,25000,True,Alot of fun! Highly recommend! :D
+posted,item_id,recommend,sentiment_analysis
+2016-01-31,28000,False,1
+2015-03-15,25000,True,2

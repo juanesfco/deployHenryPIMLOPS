@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-27,227680,False,Just do not buy this game
-2015-09-07,359050,True,Brought back the nostalgia
-2013-05-16,210770,False,"terrible, coudn't have been a worse sequel to the first, never buy this piece of midget poop"
-2012-01-02,105600,True,Get this game
+posted,item_id,recommend,sentiment_analysis
+2015-02-27,227680,False,0
+2015-09-07,359050,True,1
+2013-05-16,210770,False,0
+2012-01-02,105600,True,0

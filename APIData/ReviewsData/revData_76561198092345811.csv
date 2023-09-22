@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-12,250900,True,Step 1 Unlock AzazelStep 2 Git gudStep 3 Die 7575239 timesStep 4 NEVER PLAY DUH LOST
-2014-10-15,4000,True,Best game... EVER!!!
-2015-03-01,93200,True,Amazing 10/10 would rate up again
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,250900,True,0
+2014-10-15,4000,True,2
+2015-03-01,93200,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-26,239160,True,help cant get it the 1st lvl started
-2015-03-11,302830,False,♥♥♥♥♥♥♥ and ♥♥♥♥♥♥♥ only play this game want to play a game that is fun try somthing else
-2015-02-15,236370,True,GET IT NOOOOOOW
+posted,item_id,recommend,sentiment_analysis
+2014-02-26,239160,True,1
+2015-03-11,302830,False,0
+2015-02-15,236370,True,1

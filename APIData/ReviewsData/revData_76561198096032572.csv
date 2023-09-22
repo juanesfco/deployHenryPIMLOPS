@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-14,440,True,Wat You Need Dis Game Its Better Than COD trust me :P
-2014-10-13,304930,False,"I recommend no if you use Mac Notebook, the game only supports Mac Desktop. Overall the gameplay is simple and fun, if I could actually see what im doing. (I use Macbook)"
+posted,item_id,recommend,sentiment_analysis
+2014-02-14,440,True,2
+2014-10-13,304930,False,1

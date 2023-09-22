@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-08,92800,True,This game has -good music-story (for a puzzle games like this usually do not)i bought it for like less than 1 dollar on sale. woot woot very great a game 10/10
-2015-12-29,440,True,Goode.
-2015-12-20,216150,True,Pretty Neat for casual playing.
+posted,item_id,recommend,sentiment_analysis
+2016-01-08,92800,True,1
+2015-12-29,440,True,1
+2015-12-20,216150,True,0

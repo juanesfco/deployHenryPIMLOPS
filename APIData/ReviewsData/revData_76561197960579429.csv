@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-03-06,224500,False,"I want to recommend the game, but there are a heap of bugs and crashes still present that still exist 6+ months later."
+posted,item_id,recommend,sentiment_analysis
+2016-03-06,224500,False,0

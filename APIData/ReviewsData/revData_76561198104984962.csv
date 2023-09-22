@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-30,222880,True,"Just bought the game few days ago and I'm already regretting.......regretting the fact that I didn't get it a year or two earlier.Great game!If you're an old skool fps player like me, who enjoys cod 4, cs, arma. This GAME IS FOR YOU!It's almost like a combination of cod 4+cs+arma.Personal score: 9.5/10Comment: The FPS game I've been waiting for ages."
-2016-03-19,236870,True,"Graphics: 8Audio: 8Gameplay: 8Story: 7Decide for yourself.Highly recommend this to hardcore Hitman fans. It brings a lot of asepcts from Blood Money.There are downsides however, DX12 in this game is just broken, it crashes during the first mission so play on DX11. Performance is okay, but there needs to be a lot of work done, I get around 50fps on my R9 390 i5 6600k Ultra DX11 but there are dips here and there. The content needs a lot of work too, there's just not enough content in the game. If you buy it now, you might find yourself just replaying the same mission over and over again.Then again, it's a good game, the sandbox nature of this game is just beautiful.Hope IO will release more content and performance patches in the future!"
+posted,item_id,recommend,sentiment_analysis
+2016-05-30,222880,True,0
+2016-03-19,236870,True,1

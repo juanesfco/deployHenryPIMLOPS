@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-06,238460,True,my friend rekt me 2 hard
-2015-12-19,292030,True,"No game has come close to the insanely well-crafted story, characters, enemies, combat, and huge variety of things to do in the Witcher 3. Its simply on a whole different level. If you haven't got this game, get it now!"
+posted,item_id,recommend,sentiment_analysis
+2014-12-06,238460,True,0
+2015-12-19,292030,True,0

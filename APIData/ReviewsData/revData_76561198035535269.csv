@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-04,265930,True,Best Game Ever
-2014-03-14,3830,True,One of the Most Original and Wierd Game I have Ever PlayedGG-10/10
-2014-11-15,313690,True,"JUst Finished the Story this game for me (even though I rather marvel) blew my expectations the levels were varied, the quality was astounding, Each character in there 150 character roster is diffrent(so far) ,dont get me started on traveling to diffrent planets (so gooood) and the story is the most interesting story if ever played in a lego game. this is truly the 'Legolustion' the developers were hoping for.GG-8.510"
-2014-11-15,1250,True,KIlling Floor.... Money Sim 2014 and Gun Exloding Zed Heads in Slow Mo SimGG-9/10
+posted,item_id,recommend,sentiment_analysis
+2014-04-04,265930,True,2
+2014-03-14,3830,True,2
+2014-11-15,313690,True,2
+2014-11-15,1250,True,0

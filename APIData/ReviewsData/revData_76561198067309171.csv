@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-08-22,383080,True,I can now deadlift 300kg with only my right arm.
-2015-03-22,730,True,How to play CSGO:Step 1. Buy $2.49 key. Step 2. Use it on a case. Step 3. Receive $0.10 skin. Step 4. Repeat till broke Half-Life 3/Gaben
-2016-08-22,370240,False,"The only way to make this game good is to make your character look absolutley ♥♥♥♥ed up. It's not worth $70 for a 5 minute giggle to yourself all because your guy looks like a mutant from Fallout 4, that has black parents, a twin sister, and his names 'Freq' (Freak).Would rate 2/16, such trash."
-2015-02-02,313120,True,"Rode a whale into the middle of the ocean, chased a shark, broke my arm by falling from a small tree, got stuck in a ship wreck, found a bucket of fresh water in the ocean. 11/potato. Very realistic. Would do all again"
-2015-01-24,242760,True,I put a head on a stick and lit it on fire10/10
-2015-10-29,370100,True,Only thought about suicide 6 times while playing this game
-2014-07-03,218620,True,A lot of bag throwing
-2015-07-14,304050,False,"'Trove: Adventure, Explore, Create, Dream BIG'So I can do all this after waiting 40 minutes in queue?"
-2016-08-17,506140,False,i like the part where you pay 2 win but dont even win because there is always someone out there with more money than you.6 diks outta 10defs would never maybe sometimes play again
-2016-08-22,262060,True,The following is my experience with Darkest Dungeon:MISS. MISS. DODGE. MISS. RESIST. MISS. DODGE. DODGE. RESIST. MISS. DODGE. SQUAD WIPED. BREAK KEYBOARD. CONSIDER SUICIDE.
+posted,item_id,recommend,sentiment_analysis
+2016-08-22,383080,True,2
+2015-03-22,730,True,1
+2016-08-22,370240,False,1
+2015-02-02,313120,True,1
+2015-01-24,242760,True,1
+2015-10-29,370100,True,0
+2014-07-03,218620,True,1
+2015-07-14,304050,False,1
+2016-08-17,506140,False,2
+2016-08-22,262060,True,1

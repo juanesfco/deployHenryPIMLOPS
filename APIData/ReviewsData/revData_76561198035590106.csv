@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-04,200210,True,SO enraging
-2014-12-22,17450,True,"Best RPG 2nd to Skyrim a must have game, its amazing!"
-2015-01-15,247000,True,Great fun with friends if you cant be bothered to get the actuall board game
-2015-08-12,375510,True,"Had the best time of my life playing this game. I could never get over the joy of finding a new portion of the expansive map. I would reccommend this game to anyone, it's absolotely brilliant.All jokes aside the sound track is actually pretty good, keep it up."
+posted,item_id,recommend,sentiment_analysis
+2014-04-04,200210,True,1
+2014-12-22,17450,True,2
+2015-01-15,247000,True,2
+2015-08-12,375510,True,2

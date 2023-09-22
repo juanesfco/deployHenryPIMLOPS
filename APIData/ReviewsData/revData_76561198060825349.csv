@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-13,257730,True,weird everytime i log in it always says logging in but i waited for 20 min for nothing 
-2014-03-22,211820,True,love this game
+posted,item_id,recommend,sentiment_analysis
+2014-03-13,257730,True,0
+2014-03-22,211820,True,1

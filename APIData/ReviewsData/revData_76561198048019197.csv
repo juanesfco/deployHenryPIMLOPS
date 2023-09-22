@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-07-12,4000,True,"A very fun and addictive game. I recommend you to buy it.That is, if you're into sandbox games that has no objectives other than to screw around."
-2015-07-27,304050,True,"When you first start up the game, it's going to be amazing.From level 1-10 the farming and grinding is fun & easy and the sense of achievement is definitely there.But after level 10, it's where the farming starts to get real.so yeah it's fun for the first 10-15 hours or so but after that you need to put your time into it like other mmorpgs."
+posted,item_id,recommend,sentiment_analysis
+2013-07-12,4000,True,1
+2015-07-27,304050,True,2

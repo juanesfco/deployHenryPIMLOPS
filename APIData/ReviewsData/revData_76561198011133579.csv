@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-24,275850,False,"Game is not as what the devs advertised it, this is merely 10% of what was promised"
-2015-01-23,304240,True,"They changed it :(Wanted to see the dog jumpscare at front door, but NO... the dog jumps in now and killed meh :("
-2014-02-01,208090,False,"Game is currently 'plagued' with bugs, *cant find any games*friends list doesnt work*steam intergation, joining friends games doesnt work*Server location keeps changing to other servers.*kept getting error 300..its currently a pain in the as to play,"
-2016-04-18,435880,True,"Good DLC for the price , unless your a poor ♥♥♥ that gets dissappointed for $5 content,"
-2016-05-18,377160,True,"Hands down one of the best game of 2015, lots of negative reviews here that doesnt make sense, most of them are stuck in the past kind of ♥♥♥♥♥♥♥♥s for morrowind and Fallout 3."
-2016-03-13,365590,False,"Game is a hot mess of disaster, April 12 Update was a promise of fix and new content, but its just a piece of sh*t update, made everything have high requirements and everything difficult, even the free DLC was impossible to make, even with 4 players above the required armor gear. game is garbage after april 12th"
+posted,item_id,recommend,sentiment_analysis
+2016-08-24,275850,False,0
+2015-01-23,304240,True,0
+2014-02-01,208090,False,0
+2016-04-18,435880,True,2
+2016-05-18,377160,True,2
+2016-03-13,365590,False,0

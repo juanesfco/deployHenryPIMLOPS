@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-05-21,730,True,Simple Soloution To Not Complain About Russians:1. Don't Live In Europe2. Kys
-2016-02-23,429570,True,Pretty Dank
-2014-11-25,20900,True,it says i dont ahve the right version of computer
+posted,item_id,recommend,sentiment_analysis
+2016-05-21,730,True,1
+2016-02-23,429570,True,2
+2014-11-25,20900,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-17,10150,True,"Great game, even though the story is quite short"
-2014-01-15,17470,True,"Great game.  I never got around to playing this until recently, but I'm glad I did."
-2016-08-29,211420,True,"10/10 IGN, praise the sun and all that"
+posted,item_id,recommend,sentiment_analysis
+2013-12-17,10150,True,2
+2014-01-15,17470,True,2
+2016-08-29,211420,True,1

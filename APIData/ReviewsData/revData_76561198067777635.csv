@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-20,262060,True,Depression simulator at its finest
-2015-09-03,232090,True,IM TRYING TO HEAL YOU NOT SHANK YOU
-2016-08-13,205100,True,the game is so goodits like... having a good wankwith the help of some stolen lubricant from the hospital
-2015-05-25,730,True,The best game you could ever get
+posted,item_id,recommend,sentiment_analysis
+2015-08-20,262060,True,1
+2015-09-03,232090,True,1
+2016-08-13,205100,True,2
+2015-05-25,730,True,2

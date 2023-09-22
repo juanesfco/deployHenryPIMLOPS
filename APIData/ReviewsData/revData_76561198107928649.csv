@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-08,202970,True,its awesome
-2014-04-05,730,True,♥♥♥♥ING AWESOME GAME EVR
-2015-12-19,4000,False,♥♥♥♥ all ♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2014-02-08,202970,True,2
+2014-04-05,730,True,2
+2015-12-19,4000,False,1

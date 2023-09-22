@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-08-03,227940,True,"Game is pretty good, it is  very, very much a pay to win game.Worst thing for me is the tech support is ♥♥♥♥ing useless."
-2016-07-18,273350,True,besides planet scanner its not too bad imo
-2016-07-11,730,False,Didn't learn fluid Russian0/10 IGN
-2016-02-04,291480,False,FASTEST UNINSTALL OF 2016!
-2014-08-28,440,True,HATS HATS HATS HATS HATS HATS!
+posted,item_id,recommend,sentiment_analysis
+2015-08-03,227940,True,2
+2016-07-18,273350,True,0
+2016-07-11,730,False,1
+2016-02-04,291480,False,1
+2014-08-28,440,True,1

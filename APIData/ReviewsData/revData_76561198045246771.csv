@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-21,22370,True,"If there is any game I could recommend, it would be this one. The things that got me were the: - Epic Storyline where you define the world around you - Awesome FPS gameplay combined with RPG elements, creating a diverse and interactive world - Make your own war, do what you want when you want - The end is never... even at the end, you can continue with the epic world!So trust me, this is a game you will never regret buying"
-2014-01-02,220780,True,"Easily one of the best games I have ever played. Amazing story, beautiful but simple world, characters with personality, amazing music and exciting but puzzling platforming. I would recommend this to anyone, especially players of Portal and The Stanley Parable"
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,22370,True,2
+2014-01-02,220780,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-03,299360,False,"So this game goes F2P, we all saw that coming a mile away. But the sad fact that players who bought this game, those who supported their work, have been left like every other player. They gave us only the heros we have been playing with for a year. When TF2 went F2P they did it write, there was no need to grind, and no classes were released, the players who had paid before were given valuble items that today has paid but more money than they paid for. This game is now like LOL where you have a huge roaster of Heros - for a price -which are unbalaced and creates a hostile enviroment. In all honesty i really don't care though, i'm just sad that i wasted $40."
-2016-06-29,346110,False,Not good for and users CPU OR GPU
-2015-11-15,346010,True,This game is amazing -1) load up the game and spin the earth around 12 times before you get board 2) Click on the boat3) Go to the sandbox - ignore the campaign 4) try to kill a chicken - You get rekt by a random bomb
-2015-10-31,248820,True,"Great game, lots of fun to be have. But very Buggy. I love this game and you will to, but really the game devs have been dead silent of 6 months and somehow I don't think they'll be back at Christmas. In its buggy state right now you should honestly wait and see. 9.7/10 for game play 2.4/10 for dev Communication."
-2015-08-20,218230,True,i like tanks
+posted,item_id,recommend,sentiment_analysis
+2015-10-03,299360,False,1
+2016-06-29,346110,False,0
+2015-11-15,346010,True,0
+2015-10-31,248820,True,1
+2015-08-20,218230,True,1

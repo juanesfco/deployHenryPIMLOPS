@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-06-30,105600,True,"I've had this game for quite some time, and every hour spent was worth it. Unlike Minecraft (and others of the sort), Terraria involves you with not so much a story line, but a kind of 'bucket list'. Defeat one boss, get loot and prepare for the next one, or just scour the world for chests and hope you get something great. You can use the endless community knowledge to help you get started or go in blind and try to prepare yourself. Great game, fun for everyone and even better when playing with friends. 10/10 - its replayable, great fun and a new adventure each time round with new loot and new experiences."
-2015-01-21,247730,True,"I have only played for a short while, but with a group of friends to start off with, it has been a lot of fun. Free roaming and the situation of 'once you are dead, you really lose everything' adds a nice aspect. Sadly, i see that nether is a dying game, i have seen 2 servers shut down now over about a week, and with no recent updates in sight, im worried everyome will back out of this amazing creation."
+posted,item_id,recommend,sentiment_analysis
+2015-06-30,105600,True,2
+2015-01-21,247730,True,1

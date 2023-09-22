@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-11,244850,True,LOVE IT
-2014-04-07,252490,True,wow great game just buy it allready
-2014-03-07,730,True,great game but need to improve the ranking system
+posted,item_id,recommend,sentiment_analysis
+2014-05-11,244850,True,2
+2014-04-07,252490,True,2
+2014-03-07,730,True,2

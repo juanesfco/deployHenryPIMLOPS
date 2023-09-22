@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-08,335840,True,Accidentally stepped on a stone and diedBest Game 12/10 Would play again!!
-2016-03-22,413150,True,You guys reading the reviews? BUY the game already stop wasting time reading this
-2012-11-10,570,True,"KILLED MY WALLET , 5 STARS"
+posted,item_id,recommend,sentiment_analysis
+2015-02-08,335840,True,0
+2016-03-22,413150,True,0
+2012-11-10,570,True,0

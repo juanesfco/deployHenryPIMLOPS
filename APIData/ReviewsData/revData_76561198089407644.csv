@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-11-26,105600,True,"Terraria is amazing.This game is realy better than others games 2D in Steam, Sandbox , Randon Worlds and free updates.I buy this game in september , now i completed the quests and I won in the gameSo , this game is very short , may be i am wrong.Thank you very much"
-2015-03-26,252490,True,Cada vez mais divertido
-2013-11-26,730,True,The best of FPS
+posted,item_id,recommend,sentiment_analysis
+2013-11-26,105600,True,1
+2015-03-26,252490,True,2
+2013-11-26,730,True,2

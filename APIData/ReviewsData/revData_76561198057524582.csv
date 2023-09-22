@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-01-22,248820,True,PUUUUUUUUUUUUUUUTA QUE PARIL QUE JOGO BOM CARA
-2014-02-18,440,True,Comecei a jogar esse jogo no começo de 2012 e até hoje não enjoei :D
-2015-10-27,251470,True,Melhor jogo coop local da história.
-2015-09-24,382490,True,Jogar esse jogo com amigos em split screen é a melhor coisa do mundo :v
-2014-06-15,265810,True,"Muito bom,antigamente era ruim,mas agora você pode criar de um simples mundo até um jogo de plataforma de um jeito bem fácil"
+posted,item_id,recommend,sentiment_analysis
+2016-01-22,248820,True,2
+2014-02-18,440,True,2
+2015-10-27,251470,True,2
+2015-09-24,382490,True,2
+2014-06-15,265810,True,1

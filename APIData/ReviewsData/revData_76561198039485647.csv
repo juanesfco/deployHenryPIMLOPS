@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-01,271290,True,"Great game. Lots of fun and variety of mechs and upgrades. Only played it for a few hours but already think it's great1 It's free, so there isn't any reason not to get it!"
-2014-04-08,620,True,CAAAAAAAAAAAAAAAAAKE!!!!!!!!!
-2014-04-08,265930,True,BAAAAAAAAAAAAAAAAAAAA
-2014-04-06,244850,True,Great game. Very realistic and fun with the new multiplayer mode!
-2014-04-06,224260,True,Brainzzzzzzzzzz
-2014-02-15,230410,True,"Great game, but they need to make a Mac version!"
+posted,item_id,recommend,sentiment_analysis
+2014-06-01,271290,True,2
+2014-04-08,620,True,1
+2014-04-08,265930,True,1
+2014-04-06,244850,True,2
+2014-04-06,224260,True,1
+2014-02-15,230410,True,2

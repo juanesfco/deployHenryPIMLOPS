@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-30,221910,True,"Funny and addictive, play with your preferred beverage and indulge."
-2012-12-11,208200,True,"What a fantastic retro ride!  I really enjoyed this and highly recommend this to all Doom fans.  The entire package is worth the purchase.  I even enjoyed playing Doom, amazing how far things have come and still these games are addictive as they were back in the day."
+posted,item_id,recommend,sentiment_analysis
+2014-05-30,221910,True,2
+2012-12-11,208200,True,2

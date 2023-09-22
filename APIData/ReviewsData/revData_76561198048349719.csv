@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-09-25,282440,True,Get this game or else I will air-rocket you.
-2014-09-24,223470,True,Get this game if you dare.
-2014-12-29,730,False,its ok
-2013-04-13,440,False,no
-2014-12-26,72850,True,Never gets boring no matter how many times you play it.
-2014-10-31,105600,True,Ez Pz Lmn Sqzy.
-2013-04-13,4000,True,gr8 game m8 8/8 no deb8
+posted,item_id,recommend,sentiment_analysis
+2014-09-25,282440,True,0
+2014-09-24,223470,True,0
+2014-12-29,730,False,2
+2013-04-13,440,False,1
+2014-12-26,72850,True,0
+2014-10-31,105600,True,1
+2013-04-13,4000,True,0

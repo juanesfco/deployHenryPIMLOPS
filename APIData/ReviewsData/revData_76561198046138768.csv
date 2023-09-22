@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-27,272890,True,I'm having way more fun than I should.10/10 Vertiginous Golf is the best game on steam
-2016-06-01,359870,True,"It's fun to try and get every achievement, except for dodging 200 lightning bolts. My laptop lags a bit from the fog and makes it almost impossible to get any higher than 30, but other than that I'm very much enjoying the port.Oh, and I haven't tried FFX-2 yet, but I assume it's as okay as it always was."
-2015-06-21,3590,True,Plants vs. Zombies is the only game in which zombies try to fool you into thinking that they are your mother.10/10 would break vases again.
+posted,item_id,recommend,sentiment_analysis
+2015-10-27,272890,True,2
+2016-06-01,359870,True,2
+2015-06-21,3590,True,0

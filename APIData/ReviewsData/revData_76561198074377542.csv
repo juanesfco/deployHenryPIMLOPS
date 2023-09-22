@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-08-19,264710,False,I was really looking forward to getting this game but every time it loads a game i get a notification saying my graphics card stopped working wtf.Not recommended if you have a lower end graphics card.
-2016-08-18,243870,False,"When it first came out i really enjoyed it, but thats before it went pay2win. Now you have to buy infinite to even unlock new equipment. fuqen piece o' s.hit"
-2015-12-22,417860,True,wish it had more chapters
-2015-12-18,72850,True,its a great game i just wish it didnt crash all the time
-2015-11-01,51100,True,"Its alright i suppose, its good if you want to have a little fun every now and then but it gets anoying and boring if you play it for long periods of time."
-2015-03-27,214420,False,it sucks
+posted,item_id,recommend,sentiment_analysis
+2016-08-19,264710,False,0
+2016-08-18,243870,False,2
+2015-12-22,417860,True,2
+2015-12-18,72850,True,2
+2015-11-01,51100,True,1
+2015-03-27,214420,False,0

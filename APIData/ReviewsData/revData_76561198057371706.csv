@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-24,236450,True,Pac-Man is back and better than ever... I didn't know it was possible but Pac-Man got an update in aesthetic and gameplay. Who thought that they could add more and alter Pac-Man in such a way that makes it feel new and fresh. I highly recommend this Arcade Classic.
-2014-03-11,219680,False,"It is less a video game and more art, that said it shows how beautiful a game could be with both picture and sound. No guidance to guide you and nothing to do just walk around and enjoy the sights and sounds. Worth it if bought in a bundle and not bought on its own."
+posted,item_id,recommend,sentiment_analysis
+2014-09-24,236450,True,2
+2014-03-11,219680,False,2

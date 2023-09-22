@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-13,570,True,tis gud gam :))
-2015-12-13,730,True,9/11. money-wasting simulator.
-2014-04-30,440,True,spend much on tis gam no afford buy cunterstrik knif :(
+posted,item_id,recommend,sentiment_analysis
+2014-02-13,570,True,2
+2015-12-13,730,True,1
+2014-04-30,440,True,0

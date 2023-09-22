@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-15,220,True,Finished my 18th playthrough.Its OK
-2015-06-20,252490,True,"Naked men Stabbing eachother, asking for wood and loosing everything."
+posted,item_id,recommend,sentiment_analysis
+2016-06-15,220,True,2
+2015-06-20,252490,True,0

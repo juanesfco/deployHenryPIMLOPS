@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-06,271590,True,I rate 9 out of 11 because I crashed a plane into some important looking building. 10/10.
-2016-03-18,346110,False,The FPS is the problemo here.
-2016-06-07,203160,True,If you dont have this game buy it.M8 buy it.You wont regret it.Have you bought it yet?Buy it.Dude.Get it.Right now.Go.Buy it.
-2015-02-13,8190,True,The Fun... its over 9000!!!
+posted,item_id,recommend,sentiment_analysis
+2016-05-06,271590,True,2
+2016-03-18,346110,False,1
+2016-06-07,203160,True,0
+2015-02-13,8190,True,2

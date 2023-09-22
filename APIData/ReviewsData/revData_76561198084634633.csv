@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-09,550,True,10/10 friendly fire op pls nerf
-2016-09-02,218620,True,9/10 not enought microtransaction and DLCs
-2014-12-23,400,True,"Fery awesome,but 2 short just only 6 bounus maps so sad"
-2014-11-22,1840,True,GOOD
+posted,item_id,recommend,sentiment_analysis
+2014-12-09,550,True,2
+2016-09-02,218620,True,1
+2014-12-23,400,True,0
+2014-11-22,1840,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-10-17,218620,False,"Well instead of fix the games various issues such as lattancy problems, no we'll chuck in microtransaction and make assault rifles uselless. OH AND BY THE WAY WAIT A WEEK BEFORE BUYING THIS GAME BECAUSE IT'S MOST LIKLY GOING FREE TO PLAY. WHICH MAKE ME AND OTHERS ANGRY BECAUSE WE'VE WASTED OUR MONEY ON THIS GAME, WHICH WAS ONCE GREAT AND NOW IS UTTER ♥♥♥♥."
-2016-09-11,346110,False,"Broken, Frame rate is terrible, poor optimization , repetitive gameplay and got bord"
+posted,item_id,recommend,sentiment_analysis
+2015-10-17,218620,False,1
+2016-09-11,346110,False,0

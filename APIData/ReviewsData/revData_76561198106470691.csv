@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-05-30,730,True,Csgo is so fun i really enjoy it!
-2015-05-03,230410,False,"This game is so fun but now with the new ♥♥♥♥♥♥ update 90% of the people are stuck on the 'Checking For Update...' screen and can't play at all and when i close warframe steam still says i'm playing warframe when i CLEARLY CLOSED IT! Look i really love this game but i can't play it now not because of a virus, troll or glitch but because of teh loading screen! Liek if u cri efy tim ;( 1 liek =  1 les peeple cri!"
-2015-09-12,304930,False,BRING BACK THE OLD UPDATE:For some reason i can't see the 'Host' or 'Host Server' button anymore i really want to host a server for my friends and have done the methods correctly but i can't host it cause there's no button :|This game is super fun but i just want to make my own server!
-2015-04-04,248570,True,"This game like wow i love with game more then i am with the coco! I got this for the low low, IT'S FREE!"
-2014-10-10,4000,True,LOVE IT i have been whating for this game for 9 whole YEARS! And IT WAS WORTH IT ^.^
-2013-09-08,440,True,"This game is super fun ur mainly playing as 9 classes and each on has there special gameplay you prett y much have to master each class for each oppertunities! if ur a true fan then read the comic books there amazing, buy hats for ur fancy characters and buy souveniers from tf2 like posters, mugs and a toy sandvich (sandwitch)! THIS GAME IS SO SICK I'M SO ADDICTED!"
+posted,item_id,recommend,sentiment_analysis
+2015-05-30,730,True,2
+2015-05-03,230410,False,1
+2015-09-12,304930,False,2
+2015-04-04,248570,True,2
+2014-10-10,4000,True,2
+2013-09-08,440,True,1

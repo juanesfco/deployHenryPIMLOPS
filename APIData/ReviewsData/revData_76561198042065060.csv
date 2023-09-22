@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-10,570,True,Dont play it lol's better
-2014-05-03,212160,False,The game wont open it keeps crashing on me what a peace of crap
-2012-08-12,440,True,its a realy good game you should get it
+posted,item_id,recommend,sentiment_analysis
+2014-09-10,570,True,2
+2014-05-03,212160,False,0
+2012-08-12,440,True,2

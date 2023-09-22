@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-17,47400,False,"never get it, its a trap"
-2014-10-08,251570,False,"even after many updates, doesnt work. i expect a few crashes but its un playable. cant go full screen on a mac and get more than 5 min of game time."
+posted,item_id,recommend,sentiment_analysis
+2014-09-17,47400,False,1
+2014-10-08,251570,False,2

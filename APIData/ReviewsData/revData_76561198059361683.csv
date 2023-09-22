@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-02-28,227700,True,"fun and worth it. Its a well done free to play game, been playen since befor it arrived on steam"
-2014-06-22,244850,True,"Come play space engineers to build giant Space ships, bases and satelights, but most of all to smash ♥♥♥♥ up."
+posted,item_id,recommend,sentiment_analysis
+2015-02-28,227700,True,2
+2014-06-22,244850,True,2

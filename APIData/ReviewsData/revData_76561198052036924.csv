@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-09,109600,False,I rather play ESO
-2014-03-10,261820,False,Um what even is this game? I got locked into a shack and could not get out... Apart from that it looked interesting but I deleted it.
-2014-01-12,39120,False,"I dont like it... I rather play SWTOR, or ESO"
-2015-05-08,6060,False,"Use to play this game on PSP, it looks so different and I didn't enjoy it that much compared to on a console. Also requires you to get Game Ranger or something alike it because multiplayer runs through GameSpy which is now closed."
-2016-06-25,233450,True,"WARNING: BEWARE THIS GAME IS EXTREMELEY ADDICTIVE.I have had many nights where I would start playing this at like 5pm and the next time I look at my clock it is 1pm on a worknight. What can I say? It is fun! A great concept and there is plenty to do. So if you do get this game I suggest putting a timer on, but who knows if you will stop playing then either."
+posted,item_id,recommend,sentiment_analysis
+2015-05-09,109600,False,1
+2014-03-10,261820,False,1
+2014-01-12,39120,False,1
+2015-05-08,6060,False,1
+2016-06-25,233450,True,2

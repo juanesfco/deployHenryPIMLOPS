@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-04-17,271590,True,Absolutely an amazing piece of work.
-2016-09-03,32420,True,"Ever since C.W.A (for those who were STAR WARS: The Clone Wars fanatics would know) got shut down, this is basically somewhat of a second resort so yeah. :/ Beats the flash games on the Star Wars Official Website."
-2014-08-02,304930,True,"Mix or Roblox,DayZ,Minecraft and Rust"
+posted,item_id,recommend,sentiment_analysis
+2015-04-17,271590,True,2
+2016-09-03,32420,True,0
+2014-08-02,304930,True,1

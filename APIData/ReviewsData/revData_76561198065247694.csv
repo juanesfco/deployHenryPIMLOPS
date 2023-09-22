@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-04-17,286160,True,A small loan of a million dollars couldnt save me from this game
-2014-10-20,253710,False,"Its not free you only get to hunt elk, We need to take this off of steam or list it as a buy-to-play game."
-2016-06-12,253430,True,"Like minecraft, but with guns and dragons"
-2016-03-29,387440,False,Fix your ♥♥♥♥♥♥ Steam service Hi-Rez
-2016-03-21,218620,True,Best game.
-2016-02-24,433340,True,"Even though it seems the game is basic for now, I cannot wait for more and more to be updated, Highly reccomended if you want a first person tycoon where you collect ♥♥♥♥, and not just any ♥♥♥♥. Pros:-Amazingly beautiful visuals-Slimes are the best!-Many upgrades to keep the fun going!Cons:-The game doesnt have many developers, so it will take time to update the game, unfortunatly-Tarr are everywhere, no matter what-Its hard to get going, because some players will give up!Even with the pro's and cons, I still HIGHLY reccomend this game!"
-2015-10-04,339800,True,Have you wanted fanservice? Then this is for you.
-2015-04-13,24240,True,"A great first game to the franchise, though some of the parts are rough, the game expirience is amazing. You and friends have to struggle your way to the objective with overwhelming odds, and if you make it, it feels like you just won something amazing"
-2015-03-08,1250,True,One of the best Zombie horror survival games ive ever played!
-2014-10-30,206210,True,This game is really fun!
+posted,item_id,recommend,sentiment_analysis
+2016-04-17,286160,True,0
+2014-10-20,253710,False,0
+2016-06-12,253430,True,1
+2016-03-29,387440,False,1
+2016-03-21,218620,True,2
+2016-02-24,433340,True,1
+2015-10-04,339800,True,1
+2015-04-13,24240,True,2
+2015-03-08,1250,True,2
+2014-10-30,206210,True,1

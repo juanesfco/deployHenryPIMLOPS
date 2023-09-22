@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-18,8870,False,Sucks lol
-2016-02-18,39150,True,Where even is Cloud? wtf lol
-2016-02-18,298110,True,"Just about to play, but it pr oabbly sucks tbh fam"
+posted,item_id,recommend,sentiment_analysis
+2016-02-18,8870,False,2
+2016-02-18,39150,True,2
+2016-02-18,298110,True,0

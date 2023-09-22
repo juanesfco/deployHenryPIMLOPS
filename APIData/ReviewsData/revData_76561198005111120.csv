@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-09-25,270150,True,"I was pretty suprised about the game, its epicness is something experience. As you run down a street you soldiers bleeding out, dying a horrible death or a constant flux of soldiers from both faction it gives you a sense of how insignificant you actually are. Best $10 spent so far.Cannon fodder and execution simulator 2014 10/10."
-2013-12-22,220240,False,"The main character ruined my experience, the story was not that good as well. I suggest Blood Dragon instead."
-2015-05-29,231430,True,"Shrek Blobs,  I approve"
-2014-07-19,35450,True,PTSD 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-09-25,270150,True,1
+2013-12-22,220240,False,2
+2015-05-29,231430,True,1
+2014-07-19,35450,True,1

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-04-29,321040,True,Braaaaaap Braaaap *chisk* Braaaaap *chisk* *chisk* Braaaaaap Braaaaaaaaaaaaaap
-2015-08-07,238090,True,Bye Bye nazi testicles
-2015-03-30,346010,True,if you want to join ISIS this is a great test simulator
-2016-04-29,311210,True,"Zombies man, Zombies"
-2014-10-16,104900,False,basically a poor mans evolve
-2016-04-29,242640,True,Sneaky stab stab
+posted,item_id,recommend,sentiment_analysis
+2016-04-29,321040,True,1
+2015-08-07,238090,True,1
+2015-03-30,346010,True,2
+2016-04-29,311210,True,1
+2014-10-16,104900,False,0
+2016-04-29,242640,True,1

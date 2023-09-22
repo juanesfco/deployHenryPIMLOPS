@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-03-18,13500,True,"eventhough this game was made in 2004 it still has its charm, i recommend people play this great game."
-2015-04-07,319630,True,I love this game not only do you have to really think about the crucial desicions but even you think that you picked the wrong answer it is good how you can rewind and choose again.
-2014-02-14,570,True,I recommend this game to anyone who likes to play strategy games. Also tbh its like League of Legends but better.
+posted,item_id,recommend,sentiment_analysis
+2016-03-18,13500,True,1
+2015-04-07,319630,True,1
+2014-02-14,570,True,1

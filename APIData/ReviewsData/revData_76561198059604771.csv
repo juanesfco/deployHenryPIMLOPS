@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-09-16,275850,False,It is fun at first but gets extremly repetitive and is NOT worth $60.
-2015-09-28,239220,True,Diablo + Dungeon Keeper!!!
-2016-01-17,403690,False,It is not very good there are few servers ♥♥♥♥ gameplay and constant Lag.
+posted,item_id,recommend,sentiment_analysis
+2016-09-16,275850,False,1
+2015-09-28,239220,True,1
+2016-01-17,403690,False,0

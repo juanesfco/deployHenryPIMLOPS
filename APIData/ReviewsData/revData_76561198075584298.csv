@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-02,730,True,"Amazing game of you want a competitive fun shooter. Only one flaw, but the flaw is huge. Hackers. I am gold nova 1, not the highest rank but about 7/10 rounds I play, I lose against hackers. In comp you can't leave without receiving a ban, and with hackers it's a real problem. Thinking about giving up but if you want to, try it.Rated 6/10"
-2014-09-10,440,False,"Used to like it but now it's terrible. A bomb lands like 5 metres away then it kills you! WTF! Gameplay is alright, pretty basic but I've played much better games. Computer is cheat since in offline all the bots know I'm the spy no matter what I do. Trading has made the game a mess. As you get better you receive random item drops, (this includes one item BTW), and people sometimes want to trade for it. People can make trades that go their way or are a rip off to you, and now no-one plays TF2 anymore. It's just receive item then trade it. Now everyone wants Australiums and everything it's just messed up. Used to be a good game, turned out crap."
-2014-09-10,243870,False,Most terrible game I've ever played. The newbies get smashed and never get a chance while they watch their team lose. Why make a game with potential so crap!
+posted,item_id,recommend,sentiment_analysis
+2016-08-02,730,True,1
+2014-09-10,440,False,0
+2014-09-10,243870,False,0

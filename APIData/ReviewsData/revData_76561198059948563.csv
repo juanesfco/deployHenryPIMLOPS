@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-24,212680,True,"Incredibly fun, in a category of its own."
-2013-02-27,22380,True,Simply an amazing game :)
-2013-12-29,211820,True,"A sci-fi Terraria with many innovative and unique features. Though still in an early stage, the game is incredibly fun and complex in a way that challenges the player without pushing them away. We can only imagine just how amazing the final product will be."
+posted,item_id,recommend,sentiment_analysis
+2013-12-24,212680,True,2
+2013-02-27,22380,True,2
+2013-12-29,211820,True,2

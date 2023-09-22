@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-09-09,399520,True,I told a Dad jokeTENOUTTATEN
-2016-01-15,233720,True,I will never get surgery again.
-2015-09-25,22320,True,"Without this, no Oblivion.I love this game for that"
-2015-09-14,327890,True,"Game: YesControls:....................../´¯/) ....................,/¯../ .................../..../ ............./´¯/'...'/´¯¯`·¸ ........../'/.../..../......./¨¯ ........('(...´...´.... ¯~/'...') ..........................'...../ ..........''............. _.·´ ..........................( .............................."
-2015-09-07,346900,True,"Friend: What is this?Me: You play as a millionare on the rise. You focus on your company. You have the money to stop cancer, cure plauges and even friend enemy countries, but you spend all of it on lemonade stands and managers like Milly Bays.Friend: But all you are doing is clicking constantly.Me: I know.... I just can't stop"
-2015-07-09,34900,True,"This game is broken. It brags a very realistic physics system. I think this was coded by a ♥♥♥♥ing monkey.But... if you can put up with the ♥♥♥♥♥♥♥t this game throws at you, its just a game you can laugh at with your friends."
-2015-07-09,304930,True,This was made by a 16 year old.Enough said
-2014-11-22,206420,True,I made a superpowered Terminator/Arnold Schwarzenegger that killed an alien in a rip off iron man suit after freeing my crew from thier virtual hell.10/10100/100100%best gameBEST GAME
+posted,item_id,recommend,sentiment_analysis
+2015-09-09,399520,True,1
+2016-01-15,233720,True,1
+2015-09-25,22320,True,1
+2015-09-14,327890,True,0
+2015-09-07,346900,True,1
+2015-07-09,34900,True,0
+2015-07-09,304930,True,1
+2014-11-22,206420,True,0

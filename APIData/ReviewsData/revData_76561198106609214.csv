@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-19,262410,True,"Very good game, I learnt about the parts in guns, worth buying the DLC !Overall: Like it? I don't like it! I love it!  10/10                                                                              - Me"
-2015-03-15,354140,True,"10/10 Wonderful!   Not scared of jumpscares anymore!BUY.THIS.GAME. Probably last in the FNAF franchise but if it is not, Scott, please release more!"
-2014-07-28,233720,True,This game is super awesome even though some stuff in it like the large intestine in the double kidney transplant is super GROSS!
-2013-10-26,440,True,This game is totally AWESOME!!!!!!111!!!!one!!!!!111!!
+posted,item_id,recommend,sentiment_analysis
+2015-02-19,262410,True,2
+2015-03-15,354140,True,2
+2014-07-28,233720,True,2
+2013-10-26,440,True,0

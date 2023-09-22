@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-02-02,4850,True,"This game is the best! Up to 7000 troops/ships, many countries to choose from, lots of upgrades and so much fun with friends :D. MUST HAVE."
-2015-12-20,344760,True,"Lots of negative reviews for the full release, at least they are still releasing patches for it, no game breaking bugs. Very fun to play with friends, fun combat and building. Definitely give it a try!"
+posted,item_id,recommend,sentiment_analysis
+2013-02-02,4850,True,2
+2015-12-20,344760,True,1

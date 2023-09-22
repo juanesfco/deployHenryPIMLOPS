@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-04,311140,False,Game is very often black screen and killed my PC.
-2014-06-11,7830,True,Men of War is a good game history
+posted,item_id,recommend,sentiment_analysis
+2014-12-04,311140,False,0
+2014-06-11,7830,True,2

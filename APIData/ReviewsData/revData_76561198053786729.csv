@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-03-23,220050,False,"fan of zombie games? do not buyfan of the walking dead? do not buylike good games? do not buylike crap games? do not buylike poking fun at bad games? do not buyu getting the idea? its a S   H   I   T game, DO   NOT   BUY even if its on sale!"
-2014-03-30,55230,True,This game is one of my all time favorite games! its definitly worth buying! dont think twicegood storyfunnycoop everythingtotal freedomecheapaddictiveeverthing!!!!!
-2014-01-28,1250,True,just get it.... its to epic to pass down!
-2015-05-05,271590,True,"played the full game though on ps3, was happy. buys pc run max settings. is most excited about trevors balding hair and lumpy ♥♥♥ xD 11/10 would look at trevor again"
-2015-09-20,34870,True,"A good game overall 7.5/10. The story is alright(a bit short). gameplay is great although playing on the hardest difficulty was a little easy(personaly), but also has good replayability. annnnd the multiplayer is dead with no dedicated servers anymore, but finding the odd game with a few people is still fun for a few hours."
-2015-03-30,313120,True,"rowing to a new island in search of supplies to take back, out of nowhere.... in the water with 3 sharks. well ♥♥♥♥ xD 10/10 would row again"
-2014-03-14,239820,True,why you should buy this game:1. Its very very addictive.2. You can make any kind of game you want from an action zombie game to a simulation game about farms (god help us).3. Its very easy to understand: make games.4. Massive re-playability.5. Its cheap.6. Cuz i say you buy it.7. I rate 9/10
+posted,item_id,recommend,sentiment_analysis
+2014-03-23,220050,False,0
+2014-03-30,55230,True,2
+2014-01-28,1250,True,1
+2015-05-05,271590,True,2
+2015-09-20,34870,True,1
+2015-03-30,313120,True,1
+2014-03-14,239820,True,1

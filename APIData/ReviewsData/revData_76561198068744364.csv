@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-03-16,344760,True,I became Smiggle.
-2014-07-08,221100,True,"Its ok, just need to erase all of the hackers"
-2014-08-02,570,True,Best Game Ever
-2014-12-16,107410,True,"I was a newbie, now still a newbie."
-2015-02-10,344860,True,Awesome RPG
-2015-04-24,232090,True,Be careful of the 'invisible walls'.
+posted,item_id,recommend,sentiment_analysis
+2015-03-16,344760,True,1
+2014-07-08,221100,True,2
+2014-08-02,570,True,2
+2014-12-16,107410,True,1
+2015-02-10,344860,True,2
+2015-04-24,232090,True,1

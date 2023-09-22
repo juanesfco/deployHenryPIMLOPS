@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-04-03,730,True,10/10 awesome
-2015-04-03,346900,True,10/10 it's awesome
-2015-01-19,440,True,Pretty good game but mostly the trading system is the best. 10/10
-2014-10-24,200210,True,This is a ♥♥♥♥en awesome game 10/10.
+posted,item_id,recommend,sentiment_analysis
+2015-04-03,730,True,2
+2015-04-03,346900,True,2
+2015-01-19,440,True,2
+2014-10-24,200210,True,2

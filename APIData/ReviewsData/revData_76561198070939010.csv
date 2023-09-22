@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-18,226700,True,ir=t is a ♥♥♥♥ game but get it cuz its a dollar fifty
-2014-03-03,247910,True,I approve - Darren 2014
-2014-03-21,218620,True,its heaps good
+posted,item_id,recommend,sentiment_analysis
+2014-03-18,226700,True,0
+2014-03-03,247910,True,1
+2014-03-21,218620,True,2

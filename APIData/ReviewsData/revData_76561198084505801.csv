@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-12-21,113400,True,This game is ♥♥♥♥ing horribad
-2016-06-30,381210,True,What an outstanding game! 8/10PROS:+Good Graphics/Optimization+Spooky Atmosphere+Decent MatchmakingCONS:-Loss of Objectivity-Clunky Animations
-2016-04-20,337950,False,total uninstall
-2015-06-22,346110,False,Is this real life?
-2015-04-16,230410,False,its pretty lame when you play it for a full 2 months straight.
-2015-01-11,243870,False,Worst game in history
-2014-06-28,34900,True,its ok
-2015-11-15,377160,True,its ok
+posted,item_id,recommend,sentiment_analysis
+2013-12-21,113400,True,0
+2016-06-30,381210,True,1
+2016-04-20,337950,False,1
+2015-06-22,346110,False,2
+2015-04-16,230410,False,1
+2015-01-11,243870,False,0
+2014-06-28,34900,True,2
+2015-11-15,377160,True,2

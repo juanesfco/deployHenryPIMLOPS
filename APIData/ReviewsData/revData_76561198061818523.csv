@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-15,730,True,is gud
-2016-06-20,260230,False,"Game is stuck at one point in the first ChapterJust can't run further even though playthroughs go straight pastGoes to reinstall the gameMajor pranks, your not actually allowed to play it anymore according to UPlayNiceI WOULD RECOMMEND"
-2015-01-27,440,True,Great fun just for a muck around
+posted,item_id,recommend,sentiment_analysis
+2015-03-15,730,True,2
+2016-06-20,260230,False,1
+2015-01-27,440,True,2

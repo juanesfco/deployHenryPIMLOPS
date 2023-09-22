@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-18,550,True,"this is a best game for shoot zombies  have 7 powerful zombies :'jokey , hunter , witch, tank , boomer and more"
-2013-11-27,440,True,"this is a good game has spy ,heavry ,pyro ,medic ........"
+posted,item_id,recommend,sentiment_analysis
+2014-01-18,550,True,2
+2013-11-27,440,True,2

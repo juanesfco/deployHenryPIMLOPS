@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-04,221100,True,Spawned near a group of 50 zombies and died.11/10
-2014-01-09,57300,True,"It's really not scary until the prison, where you will just cry and try to get past as soon as you can while being constantly ♥♥♥♥♥ by mr flappy mouth mercilessly and hearing some guy scream very loudly while moaning, sexy ♥♥♥♥ son.11/10 you'll ♥♥♥♥ yourself."
-2013-12-17,230410,True,It is an O.K game.
+posted,item_id,recommend,sentiment_analysis
+2014-01-04,221100,True,1
+2014-01-09,57300,True,1
+2013-12-17,230410,True,0

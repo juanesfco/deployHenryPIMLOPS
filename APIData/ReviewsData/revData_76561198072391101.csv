@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-02,274920,True,"Really good application, but it needs to allow people to add models from the internet. Make sure your camera is decent and has a high FPS before you get this."
-2014-10-02,105600,True,Terraria is a game loaded with content and is very fun to play by yourself or with your friends. 44/50
-2014-10-02,4000,True,"Good sandbox game, that can be modified easily via the workshop to have more content. 48/50"
-2013-11-03,440,True,TF2 is a really great game!!! You must try it - its FREE ($$$)! It has some great gamemodes like ctf and vsh and cp. I would give it a 44/50 = REALLY GOOD!
+posted,item_id,recommend,sentiment_analysis
+2014-10-02,274920,True,2
+2014-10-02,105600,True,1
+2014-10-02,4000,True,2
+2013-11-03,440,True,2

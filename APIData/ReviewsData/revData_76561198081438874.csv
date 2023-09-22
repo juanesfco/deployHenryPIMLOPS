@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-24,207140,True,Relationship died.
-2014-06-02,31280,False,I can't run this game with my Mac.I don't know why but I'm always crashed after the tutorial of this game
+posted,item_id,recommend,sentiment_analysis
+2016-06-24,207140,True,1
+2014-06-02,31280,False,0

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-05-06,295110,True,Great survival game .
-2016-05-26,334230,True,It's a great game but I don't think it worth that money. Need to be more cheap
-2016-03-21,407250,False,You can play that game without GK
-2016-03-21,730,True,it's so perfect game... you should buy without any doubt.
-2016-03-21,204450,True,"Although I've played that game so less, I can only say it's excellent. You won't waste your money if you buy it."
-2015-06-01,48700,True,great game
+posted,item_id,recommend,sentiment_analysis
+2015-05-06,295110,True,2
+2016-05-26,334230,True,2
+2016-03-21,407250,False,0
+2016-03-21,730,True,2
+2016-03-21,204450,True,1
+2015-06-01,48700,True,2

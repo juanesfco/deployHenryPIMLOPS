@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-22,40700,True,"difficult, beautiful and thought provoking game with one of the best soundtracks going, for the love of god play it!"
-2012-09-30,212680,True,this game is the best $10 i have ever spent
+posted,item_id,recommend,sentiment_analysis
+2013-12-22,40700,True,2
+2012-09-30,212680,True,2

@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2012-11-06,570,True,"100% the best Moba for anyone who is sick of the casual games that seem to be the craze at the moment. The learning curve is really steep, but once you're over it, it's the most fun you'll have in a Moba. Bring friends."
-2012-12-06,107800,True,A good bit of fun for anyone looking for something new and unique.
-2011-10-20,105600,True,"Really actually a genuinely good game. A lot of depth, fun combat, great world to explore, clever monster mechanics and a continually expanding endgame makes this seemingly basic concept incredibly deep and will give you hours of fun with your friends (if you can figure out how to set up a stable server). The building mechanics are also a lot of fun but pretty consistant and kind of mundane. I would definately recommend this game 8/10."
-2011-10-20,4000,True,"Never had so much fun just messing around, this is THE most fun game I or any of you have or will ever play. Promise! This is absolutely essential."
-2011-10-20,1250,True,"Best zombie killer I have played in a long while. Get this and you will not regret it. Hours of fun ensured, with a brilliant mechanic and the best multiplayer coop ever."
-2011-10-03,42910,True,"Most 2-4 player fun you'll ever have! Make sure to play with friends, preferably me :) Pretty good on it's own too!"
+posted,item_id,recommend,sentiment_analysis
+2012-11-06,570,True,2
+2012-12-06,107800,True,2
+2011-10-20,105600,True,2
+2011-10-20,4000,True,2
+2011-10-20,1250,True,2
+2011-10-03,42910,True,2

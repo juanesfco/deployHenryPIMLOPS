@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-31,353270,True,NEP NEP
-2015-10-15,218620,True,The game is fine...for now.
-2013-06-03,24240,True,"NOW THIS...is a real heisting game, that you get to play with your FRIENDS.NOT THAT CSGO CRATE KEY ♥♥♥♥♥♥♥T IN 2."
-2015-07-30,383080,True,Beat waifus to recruit waifus so you can beat more waifusSUGOI/10
-2015-06-29,237310,True,gg
-2014-07-05,70000,True,It has dinosaurs. Nuff' said.
-2014-05-08,280910,True,THIS IS THE HYPEST GAME!
+posted,item_id,recommend,sentiment_analysis
+2015-10-31,353270,True,1
+2015-10-15,218620,True,0
+2013-06-03,24240,True,1
+2015-07-30,383080,True,2
+2015-06-29,237310,True,1
+2014-07-05,70000,True,1
+2014-05-08,280910,True,0

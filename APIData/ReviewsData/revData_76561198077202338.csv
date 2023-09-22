@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-11-22,301520,False,"Can't play the game because I keep getting an error during loading. The bug report has been sent 'supposedly', but nothing is changing"
+posted,item_id,recommend,sentiment_analysis
+2014-11-22,301520,False,0

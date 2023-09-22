@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-07-18,209870,True,would recommend only played during peak times. That way at least 3 dozen people will be online
-2013-07-18,440,True,slowly waste away days of your life with TF2 but its all worth it cause you get hats
+posted,item_id,recommend,sentiment_analysis
+2013-07-18,209870,True,0
+2013-07-18,440,True,1

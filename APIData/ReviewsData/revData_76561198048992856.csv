@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-11-14,319510,True,i had a panic attack when i got killed by chika and freddy
-2015-02-07,319630,True,i watered a plant and it says 'this action will have consequences' what. any way. This is a really detailed game so if you have 5 bucks go buy it and if you liked it get season pass ep 2-5 for 16 bucks thats what i did. 10/10
-2016-04-28,730,True,"If you want to play this game, play with friends. I've soloqued about 3 times in the past week and i've won 2/3 of them and the one i lost i was qued with tollers. If you play with friends (i would recommend a full lobby) it makes it a lot easier to win if your teammates are good.Over all i would give this game a 8/10."
-2016-02-16,322170,True,can i go outside plz
-2016-02-11,440,True,its good
-2015-01-16,243870,False,when i get out of the game it says i am still in it
+posted,item_id,recommend,sentiment_analysis
+2014-11-14,319510,True,0
+2015-02-07,319630,True,2
+2016-04-28,730,True,1
+2016-02-16,322170,True,1
+2016-02-11,440,True,2
+2015-01-16,243870,False,0

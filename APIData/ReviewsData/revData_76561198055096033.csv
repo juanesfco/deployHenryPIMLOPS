@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-26,221100,True,It is good you must get it some glichs otherwise It is a must own
-2015-01-23,227180,True,its a great game
-2014-07-07,214950,True,it is A good game but it is now not working for me can any one tell my why
+posted,item_id,recommend,sentiment_analysis
+2014-07-26,221100,True,2
+2015-01-23,227180,True,2
+2014-07-07,214950,True,2

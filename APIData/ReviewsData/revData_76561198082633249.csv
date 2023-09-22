@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-25,240,True,This is a classic game and by far my fav.
-2013-12-25,212180,True,"This game sucks the end, THANK YOU."
-2013-12-25,440,True,"I'm not really big on this game, but I will say If your new to PC gaming. Please have fun and not try to be a ♥♥♥♥ master when you pwn my a$$ okay =D THANK YOU."
-2013-12-25,255520,True,"Okay starting off with Viscera cleanup, You start by cleaning up the mess that you started and it's not really that fun."
-2013-12-25,233130,True,"It's a very funny, video game and I really don't think children, really need to be playing this. Because of the * Nude - Blood and Gore -and Adult humor. but over all it's has a great storyline and I really ♥♥♥♥ing love this game to death, I rate it an (*10 out of 10*) In my book it's a must have. it's just like Duke nukem, but with his Asian cousin instead."
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,240,True,1
+2013-12-25,212180,True,0
+2013-12-25,440,True,2
+2013-12-25,255520,True,2
+2013-12-25,233130,True,2

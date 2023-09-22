@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2016-02-06,244930,True,"This is one of the best games I've ever played, the only thing that is wrong with it is this stupid crashing bug in the multiplayer where you crash/die randomly on nothing, but its still and amazing game even with the bug 11/10 - IGN :P"
+posted,item_id,recommend,sentiment_analysis
+2016-02-06,244930,True,1

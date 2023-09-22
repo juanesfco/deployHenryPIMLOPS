@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2012-10-21,550,True,this game is fckn EPIC!!!
-2014-01-06,218620,True,Beautiful
-2013-12-17,55140,True,Beautiful
+posted,item_id,recommend,sentiment_analysis
+2012-10-21,550,True,0
+2014-01-06,218620,True,2
+2013-12-17,55140,True,2

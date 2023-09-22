@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-12,99900,True,Best game.
-2014-08-07,241540,True,8/8 m8 gr8 game.
-2015-06-16,211420,True,"Good game, ♥♥♥♥ port."
+posted,item_id,recommend,sentiment_analysis
+2014-08-12,99900,True,2
+2014-08-07,241540,True,0
+2015-06-16,211420,True,2

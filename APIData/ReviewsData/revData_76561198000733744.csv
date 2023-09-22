@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-22,285580,True,"this is a great game even against bots, but the loading screen will crash when you play human opponents. When this problem gets fixed, then this game will be great"
-2014-04-16,231670,True,"If you have any interest in football or soccer then I highly recommend this game, becoming more realistic with each version, corner kicks are much better also"
-2016-04-25,252950,True,"This is a great game but the problem is matchmaking, you may go up against a party of players in unranked and you will lose. Unless you have friends in a party in unranked games you wont enjoy yourself that much. Finding ranked games is semi hard but at least you dont have to play against a party of players, you can play in solo matchmaking games in ranked"
+posted,item_id,recommend,sentiment_analysis
+2014-08-22,285580,True,2
+2014-04-16,231670,True,2
+2016-04-25,252950,True,1

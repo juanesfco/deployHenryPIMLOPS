@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-06-06,253710,True,"Good Hunting game, better then those things at the pub!"
-2014-11-06,221100,True,"Amazing game but suffers from lack of support, not taking more onboard from the community.This game will be alot better once support for Mods is added, and the community can make the additions they have been waiting for."
-2015-06-06,236390,False,"Good concept air combat, never played the groud combat, 6/10"
-2015-03-19,251170,True,"Amazing horror multiplayer game, great UI, Or Lack Of ;),Plays Very Well, Could Use More Servers, And More Maps+Players/Monsters On The Map"
-2015-03-18,17410,True,A Must Have Until They Give Us The New Mirrors Edge!
-2015-03-16,235600,True,YUCK UPLAY Y U RUIN DIS!
-2015-03-13,20500,True,"Good Old Fun, Finding A Walker, Smashing Your Way Out, Its Just Cause On Mars!Brings Make So Many Good Feels!ONLY $3.99! FOR 2 MORE DAYS!"
-2015-03-08,317360,True,Can I Have My 5 Minutes Back
-2015-03-07,218230,True,"Welcome To PlanetSide 2, Your Going To Die, Often, Your Going To Die, Alot.But Once You Get Past Your First Lot Of Deaths, Start Leveling Up, And Have Your First 1000+ Player Firefight For A Outpost, You'll Fall In Love With This Game."
-2014-11-01,107410,True,"Finally, ive found something worth playing on Arma 3, check out Altis Life if your into Roleplaying as it is by far one of the best Mods out there and requires no downloading what-so-ever, if your looking for all out war, Wasteland is where its at and also requires no downloading of Mods and can be accessed simply by Filtering in the Server Browser for Wasteland Servers.10/10!!!"
+posted,item_id,recommend,sentiment_analysis
+2015-06-06,253710,True,2
+2014-11-06,221100,True,1
+2015-06-06,236390,False,2
+2015-03-19,251170,True,2
+2015-03-18,17410,True,2
+2015-03-16,235600,True,1
+2015-03-13,20500,True,2
+2015-03-08,317360,True,1
+2015-03-07,218230,True,2
+2014-11-01,107410,True,2

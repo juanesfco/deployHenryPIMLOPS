@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-07-04,238320,True,I get scared of the music in the main menu. It's really ♥♥♥♥ing spooky.
-2012-11-12,400,True,A game that tests your brain must get.       9.5/10
-2012-10-21,207610,True,♥♥♥♥ING AWESOME GAME ♥♥♥♥♥!
-2012-09-26,206210,True,AWESOME
+posted,item_id,recommend,sentiment_analysis
+2014-07-04,238320,True,2
+2012-11-12,400,True,0
+2012-10-21,207610,True,2
+2012-09-26,206210,True,2

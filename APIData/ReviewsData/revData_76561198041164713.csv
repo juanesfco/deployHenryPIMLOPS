@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-08,214950,True,yeah it's alright ay
-2011-07-05,440,True,"A fun, team deathmatch game with a very bright and friendly community, would recommend for people ages 10+"
+posted,item_id,recommend,sentiment_analysis
+2014-05-08,214950,True,1
+2011-07-05,440,True,2

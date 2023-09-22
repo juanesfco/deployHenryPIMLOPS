@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-09,230410,True,Best game if you want to die from grinding the wheels of a car.
-2014-12-09,222900,True,"10/10, got late for school because of this."
-2014-11-01,70000,False,"Don't get this game, there are better ones out there that are the same, that are more polished and have better controls and stuff to do."
+posted,item_id,recommend,sentiment_analysis
+2014-12-09,230410,True,2
+2014-12-09,222900,True,0
+2014-11-01,70000,False,2

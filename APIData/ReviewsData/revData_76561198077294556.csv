@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-30,330840,True,Very interesting take on how the war between the kings has effected other smaller houses.Very succulent as well!
-2015-06-30,570,True,Ok as you can see im clearly addicted!
-2015-06-30,203160,True,I LOVE LARA LIKE ITS LARA! LARA BLOODY CROFTWELL BUY IT  THEN ADMIRE HER FEATURS CAUSE ITS LAAAAARA
-2015-06-21,319630,True,Fun and Interesting!!!Much like 'The Booterflay Effect'
+posted,item_id,recommend,sentiment_analysis
+2015-06-30,330840,True,2
+2015-06-30,570,True,1
+2015-06-30,203160,True,1
+2015-06-21,319630,True,2

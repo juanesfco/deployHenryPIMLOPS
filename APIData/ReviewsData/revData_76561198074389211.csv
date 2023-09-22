@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-12-04,422400,True,The kids in africa could have eaten that money
-2015-10-17,218620,False,Crimefest/sputnik drills does not jam 0/10 too unrealistic
-2015-12-09,730,True,Rip deagle 1999-2015
-2015-05-29,236390,True,"Best hyper realist game physics,gameplay.get hit by the tracks>Explosionget hit by a rock>Explosionget hit by LAG(internet)>Motha fuuuuucking Explosions10/10 best game ever,still better than rambo the video game"
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,422400,True,1
+2015-10-17,218620,False,0
+2015-12-09,730,True,1
+2015-05-29,236390,True,2

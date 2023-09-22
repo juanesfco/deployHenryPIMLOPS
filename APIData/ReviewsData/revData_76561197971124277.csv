@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-08,217140,False,"This is quite possibly one of the best FPS's around, even now.Just Kidding.Why the ♥♥♥♥ do I even own this/10"
-2014-10-31,265300,False,More like 'Lords of the it freezes on the intro videos'
+posted,item_id,recommend,sentiment_analysis
+2014-06-08,217140,False,2
+2014-10-31,265300,False,2

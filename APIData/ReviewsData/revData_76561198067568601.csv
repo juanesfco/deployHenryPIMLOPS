@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-12-14,369200,False,Ridiculous I have an amd 390 series and this game is the only game i own that just plays at like 2 fps ♥♥♥♥♥♥♥t crap
-2015-05-28,288470,True,Fart.
-2016-05-07,298110,False,"Seems nvidia gets priority once again, I have an amd card that maxes out all games that nvidia has no involvement with. I'm sick of the ♥♥♥♥♥♥♥t these money hungry ♥♥♥♥ heads do to get you to buy their product. Are you scared AMD is cable of surpassing you, you sound like you are. I will no longer be buying any games where nvidia has prime say in what goes! >>>Game only works with nvidia cards <<<"
-2016-07-18,730,True,"It's only popular because it plays on crap pc's, still recommend it tho."
-2016-07-03,282140,True,"Installed..................OK..............????...................'Oh hello little gu-, WHAT THE HELL IS THAT'? CRAZY GAME!!!!!!"
-2016-03-04,323370,True,If you love Lag you will love Tera.
-2015-09-29,209870,True,Highly recommend this game it was one of the first i downloaded on pc and still i play and love it today.
-2015-05-30,216250,True,Well first i will start by say.....blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-2015-03-20,50300,True,played 5 mins and looking forward to more love this game!!!
+posted,item_id,recommend,sentiment_analysis
+2015-12-14,369200,False,0
+2015-05-28,288470,True,1
+2016-05-07,298110,False,1
+2016-07-18,730,True,1
+2016-07-03,282140,True,0
+2016-03-04,323370,True,2
+2015-09-29,209870,True,2
+2015-05-30,216250,True,2
+2015-03-20,50300,True,1

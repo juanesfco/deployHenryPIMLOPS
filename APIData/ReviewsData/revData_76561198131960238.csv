@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-03-20,24010,False,"THis game is bad, compared to other simulators like ets2 and ats this looks like a squished cockroach"
-2016-02-28,270880,True,"American Truck sim is like ets2 modded but runs better than with modded ets2 but if u liked ets2 alot u would like this, doing for steam things lel"
+posted,item_id,recommend,sentiment_analysis
+2016-03-20,24010,False,0
+2016-02-28,270880,True,2

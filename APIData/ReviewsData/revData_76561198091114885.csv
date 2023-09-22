@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-19,356670,True,Jogo Com Enredo Bom Traço OTIMO e ainda tenho muitas expectativas sobre o jogo !
-2015-12-25,440,True,'CALL OF DUTY DE POBRE'
-2016-01-05,105600,True,é bom
-2015-12-24,307070,True,é bom
+posted,item_id,recommend,sentiment_analysis
+2015-05-19,356670,True,2
+2015-12-25,440,True,0
+2016-01-05,105600,True,2
+2015-12-24,307070,True,2

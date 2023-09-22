@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-10-14,4000,True,Good investment of your money and your life
-2014-07-31,730,True,Another one of Valve's classic Pay4Swag shooters.
-2014-10-14,212680,True,Incase you're wondering i'm sitting in class and playing this game
-2014-10-14,304930,True,For a free game that took 1 minute to download on my Jewish internet I would highly recommend it :)
-2014-10-14,570,True,Dota 2 has consumed my soul and my friends along with it...
+posted,item_id,recommend,sentiment_analysis
+2014-10-14,4000,True,2
+2014-07-31,730,True,2
+2014-10-14,212680,True,0
+2014-10-14,304930,True,2
+2014-10-14,570,True,1

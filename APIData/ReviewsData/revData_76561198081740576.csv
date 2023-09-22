@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-10-23,47780,True,"De por si asusta no tanto como el primero y el tercero pero ,esta muy bueno"
-2015-01-13,304930,True,Pues para mi el juego en si esta bastante bien exepto por unas cosas q podrian cambiar porq cada vez q vas agarrando cosas y te equipas hasta no poder mas el juego ya se te hace mas sensillo y pierde la gracia estaria bien q lo pusieran un poco mas dificilTambien estaria genial q abrieran asi como una especie de servidor es una idea q podria funcionar :B
-2014-03-17,226700,True,Una ♥♥♥♥♥♥ no lo compren da un asco no me deja entrar a los sv mas encima q te como todo el ram D:
-2013-12-04,17410,True,Genial
+posted,item_id,recommend,sentiment_analysis
+2014-10-23,47780,True,2
+2015-01-13,304930,True,2
+2014-03-17,226700,True,0
+2013-12-04,17410,True,1

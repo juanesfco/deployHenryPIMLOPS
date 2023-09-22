@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2015-08-07,332800,True,Thank this game if you are my freind because IT MADE ME
-2015-07-14,440,True,This is a Valve favourite and defeintly a player favourite aswell! Love this game and my favorite classes are:Scout Sniper PyroBest shooter ever
-2014-04-22,4000,True,My most favourite game GET IT
-2015-08-29,730,True,best shooter ever!
-2014-07-11,265930,True,Very Funny And Cool
-2015-09-09,304930,False,It sucks thats all
-2016-03-05,550,True,Wait you can kill people with boomer vomit?OH HELL YEAH
-2015-11-28,413850,True,Really cool set of vids. I hope they do more for other players
-2015-07-14,346900,True,This is so addicting and i feel like im A LEMON STAND ADDICT
-2015-06-07,400,True,This is the best stratigy/puzzle game out there! I have littelry betean the game 6 times LolPortal = Awesome
+posted,item_id,recommend,sentiment_analysis
+2015-08-07,332800,True,0
+2015-07-14,440,True,2
+2014-04-22,4000,True,1
+2015-08-29,730,True,2
+2014-07-11,265930,True,2
+2015-09-09,304930,False,0
+2016-03-05,550,True,1
+2015-11-28,413850,True,2
+2015-07-14,346900,True,1
+2015-06-07,400,True,2

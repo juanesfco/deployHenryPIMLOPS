@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-03-08,226700,False,"This game is rubbish, a samurai sword takes just as long to kill them as punching them, I have been riped off by this stupid fn game and the creators should be lined up and shot"
-2015-06-10,244850,True,"WOW! Just look at my hrs played, I didn't even know I have spent that much time on this game!!! Time well spent! If you have heard it's good that's because it is, If you've heard its bad it is only lacking improvement in those area's, this is an Early Access Game = not finished! If you find something the needs work TELL THE TEAM!!!! They are more than happy to include everyone's ideas. If your still not sold by recommendation from a friend just try it out during the many free to play weekends."
+posted,item_id,recommend,sentiment_analysis
+2014-03-08,226700,False,0
+2015-06-10,244850,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-05,224260,True,*sees zombie childrenMe: 'Huh not that scary'*zombie children runs after me*♥♥♥♥♥ brix
-2014-06-05,440,True,"Best 1000+ hours of my lifePros:+its okCons:-f2p kiddiesSuggestion:*This game needs an IQ test, and facial recognision so then there cant be any kids playing."
-2016-01-01,242760,True,Mutilation Simulator 201511/10 - IGN
-2015-11-15,304930,True,"This is one of my favorite games ever, the content is great and the the ambience makes is very cool. Though, connecting to servers is difficulft and confusing but anyways I still really love the game."
+posted,item_id,recommend,sentiment_analysis
+2016-05-05,224260,True,0
+2014-06-05,440,True,2
+2016-01-01,242760,True,1
+2015-11-15,304930,True,2

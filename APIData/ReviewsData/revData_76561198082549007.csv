@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-02-28,49520,True,"This game is AWESOME. Nothing else to say. From the graphics to the loot to the weapons to the enemies, this game shines in everything. Voice acting is spot on and characters are well-animated. My only gripe though is that the vehicles are only meant to get you from place A to B, but it still is fun. I recommend this game to anyone who likes first-person shooters."
+posted,item_id,recommend,sentiment_analysis
+2015-02-28,49520,True,1

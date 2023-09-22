@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-07-16,67370,True,"This game was Just like my love life, short but explosive and alittle bit dark and bloody XD 9/10"
-2013-07-16,200510,True,Hey Ryan what do you think of x:com? Oh sorry what was that I was playing x:com 8.5/10
-2013-07-16,202170,False,Could of been a lot better then what it was. I got this at release and with all the ♥♥♥♥ that went on with it the giving of DLCS the taking away of DLCS the every update used to currupt your game file so you couldnt use it after update. Man massive let down donno how it is now though? If fixed most things would be awesome but after re starting the game 4 full times i say no no. 4/10
-2013-07-16,108710,True,"Damn this was a very gg. Story line wise was great characters, controlls, gameplay backgrounds and sounds all awesome, its just so weird that they didnt put much effort in teh faces to much? Very dark and super scary game cant wait for part 2 which I damn hope there is!   8.5/10"
-2013-01-07,212410,True,This game...wow... As far as CO OP FPS games go with a very solid story line/game play goes this has it all. The big corperations give it a 4/10???? You have got to be joking!!! I give it a solid 8/10 !!!
-2011-07-05,1250,True,Its awesomeness maximus 10/10
+posted,item_id,recommend,sentiment_analysis
+2013-07-16,67370,True,0
+2013-07-16,200510,True,0
+2013-07-16,202170,False,2
+2013-07-16,108710,True,2
+2013-01-07,212410,True,1
+2011-07-05,1250,True,1

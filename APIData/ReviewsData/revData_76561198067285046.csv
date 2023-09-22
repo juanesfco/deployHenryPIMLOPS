@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-12-04,423880,True,"I thought this would be some kind of 'Plastic Memories' ending but nope, it's far from it and what the hell. WHY CAN'T I WIN ANYTHING IN MY LIFE"
-2015-07-03,440,True,LIKE A ♥♥♥♥ING GLOVE
-2016-02-09,730,True,♥♥♥♥ ♥♥♥♥♥ putang ina mo xaxaxaxarush b p90 smoke ready
-2015-11-21,417860,True,"Short gameplay, yet you will have a very high interest on replaying it over and over and over again."
-2015-06-30,218620,True,Give this game a thumbsup mon. Coz this is good.Still have a validating problem tho.
+posted,item_id,recommend,sentiment_analysis
+2015-12-04,423880,True,2
+2015-07-03,440,True,1
+2016-02-09,730,True,2
+2015-11-21,417860,True,2
+2015-06-30,218620,True,0

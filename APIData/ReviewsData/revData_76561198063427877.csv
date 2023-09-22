@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-19,730,True,I'd rate this game about 10/10. I know it could have done better but y'know.
-2014-01-18,221100,True,"This game is good ♥♥♥♥ if you play it in 20 hour bursts at intervals of about 20 weeks. Much potential but lacking in a lot of things. Fun with friends and can be alright playing alone but a posse is recommended. Needs better ♥♥♥♥♥ loot spawns though, jesus."
+posted,item_id,recommend,sentiment_analysis
+2014-09-19,730,True,1
+2014-01-18,221100,True,2

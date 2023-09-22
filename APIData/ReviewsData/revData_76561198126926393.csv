@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-26,49520,True,good game very awesome
-2014-08-25,227700,True,fun only for a while it starts to get boring jk ITS FUN
-2014-08-25,4000,True,LUV DIS GAME VERY GOOD  worth the money [O.o]/)__)-'--'-
-2014-08-16,210770,True,really good i only started 1 hour ago its very fun its kinda like orcs must die 2 its very good though
-2014-08-01,104900,True,awesome game so addictive
+posted,item_id,recommend,sentiment_analysis
+2014-08-26,49520,True,2
+2014-08-25,227700,True,1
+2014-08-25,4000,True,2
+2014-08-16,210770,True,2
+2014-08-01,104900,True,2

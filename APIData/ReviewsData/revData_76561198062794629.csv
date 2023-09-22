@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-20,49520,True,Great game with tons of content that can be played both in single player and co-op! Definitely worth the price!
-2015-12-08,730,False,"Fix your ♥♥♥♥ing game. It is just getting more and more buggy. For example I was playing a competitive game and the VOIP just randomly stops working. So I relog CSGO and then it wont let me reconnect to the match as it comes up with the error, 'Matchmaking Failed: Failed to connect to match'.Please Gaben fix your ♥♥♥♥ing game I dont want to deal with this ♥♥♥♥ anymore."
-2015-10-25,395910,True,Accurate interpretation of my friend's life in 5 years.
-2015-03-06,270090,False,The developers should really consider upgrading to Game Maker Pro.
-2013-12-13,259080,True,One of the best mods out there!
-2012-10-19,440,True,Great Game
+posted,item_id,recommend,sentiment_analysis
+2013-12-20,49520,True,2
+2015-12-08,730,False,0
+2015-10-25,395910,True,2
+2015-03-06,270090,False,1
+2013-12-13,259080,True,2
+2012-10-19,440,True,2

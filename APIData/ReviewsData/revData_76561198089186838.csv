@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-30,211820,True,Starbound is an amazing game and it would be good for mulitplayer because everyone can play together and it is a mixture of minecraft and spaceships and it only costs 14.99
-2014-06-27,209080,True,LOLOLOLOLOL
-2014-06-06,242860,True,great first person shooter to play by yourself our with friends
+posted,item_id,recommend,sentiment_analysis
+2014-01-30,211820,True,2
+2014-06-27,209080,True,1
+2014-06-06,242860,True,2

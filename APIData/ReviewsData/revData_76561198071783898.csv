@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-03,4000,True,"Garrys Mod is a really fun game to learn about physics and mechanics so if you buy it, its worth the money! i also love prop hunt and TTT"
-2014-05-21,224580,True,"Dayz Mod Is A Really Fun Game, Especially Epoch Mod. I Love Making Houses Like Hershals Farm And I LOVE Sniping With Ghillie Suits On, It Makes Me Feel That Im Accually In A Zombie Apocolypse.."
-2014-08-01,221100,True,Lollloltfhgfedgfu7tytgrfdhyeeeeeeeeeeeeewsssssssssssssssssssbbbbbbbbbbbqqqqqqqfqwertyuioppppppppppppplkjgresaASSSSSSSSSSSSSSSSSSS
-2015-09-20,570,True,The starts pretty boring but with friends a must play!
-2014-12-30,440,True,its a funny online game thats unable to get rid of its so fun everyone should play it atleast 1 time!!
+posted,item_id,recommend,sentiment_analysis
+2014-07-03,4000,True,2
+2014-05-21,224580,True,2
+2014-08-01,221100,True,1
+2015-09-20,570,True,0
+2014-12-30,440,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-22,99900,False,why is it not working
-2015-12-09,207230,True,dis is gud gaem :3 XD
-2015-10-04,206210,False,DEAD GAME NO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111111111111111
+posted,item_id,recommend,sentiment_analysis
+2014-11-22,99900,False,1
+2015-12-09,207230,True,2
+2015-10-04,206210,False,0

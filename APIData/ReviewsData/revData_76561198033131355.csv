@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-12-27,294860,True,"Excellent game.  The art style is great, voice acting is great and the gameplay is really fun.  The port is great also.Definitely a great buy!Thank you SEGA for bring this to the PC.  The rest of the series would be good, oh, and Yakuza. Thanks."
-2014-07-11,107100,True,"Bought this mainly for the soundtrack, which, is excellent.The game? Yeah it's pretty good too.Buy it."
-2014-07-11,220,True,"Haven't played the first Half Life but the story in this is pretty good.Also, the visuals surprised me.  The water looks amazing.  Also, little things such as facial gestures really puts a nice touch on this.  No stupid blank stares, it felt as if the characters meant what they were saying, etc.Really good job on that.Great game so far, buy it, give Valve more money."
-2014-07-11,102500,True,"I have this on my Playstation Plus account, but never got around to playing it.  Recently bought it and from the get go, I was impressed.  It looks quite nice, handles quite well and gameplay is very solid.I must say this, the voice acting so far has been very well done, a few iffy bits but they have done a superb job with that.I've played more hours than listed as I play offline sometimes.For $20, it's a great game.  For $10 or less, it's a MUST."
-2014-06-26,204300,True,"Bought it on the off chance that I would like it.  I don't.  I love it.  It's such a fun game.  Good art style, nice music and the best selling point for me, matches don't last too long.  Say, 10-15 minutes at max.  Though probably more if you get a well balanced team with pros. Pick it up, especially if it's on sale!"
-2014-04-13,42680,False,Nope.Couldn't choose your own server.If the game matchmacking was similar to Black Ops (choose your own server from a list) then I would have played this so much more.I believe CoD is slowly dying.
-2014-01-01,202170,True,"The game is great.  Definitely pick it up, especially on sale.  Best $5 I ever spent.Runs smoothly and works great on the PC.  Doesn't feel out of place playing this with a keyboard and mouse.I wish the main story was longer and paced more slowly.  The start was fantastic but I think it rushed towards the end.I finished this in about 15 hours, but had heaps more side missons and stuff to find.  Could easily get another 5-10 hours out of it.I look forward to another installment of Sleeping Dogs and I know i'm not the only one!"
+posted,item_id,recommend,sentiment_analysis
+2014-12-27,294860,True,2
+2014-07-11,107100,True,2
+2014-07-11,220,True,2
+2014-07-11,102500,True,2
+2014-06-26,204300,True,2
+2014-04-13,42680,False,1
+2014-01-01,202170,True,2

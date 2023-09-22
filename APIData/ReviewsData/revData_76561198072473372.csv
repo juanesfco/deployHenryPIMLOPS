@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-24,4000,True,"Best game I've ever played. 10/10 IGN. So many gamemodes to play, so many addons to see."
-2015-12-25,620,True,Epic Game best ever problem solving put in an awesome format for everyone to play with joy in their faces. Story line great as mysterious as Fnaf and super cool as they delve into the past of Aperture Science.Best game (other than Garrys Mod).
-2015-08-21,730,True,This game is the best game on steam and there are so many possibilitys to play with.
-2014-09-12,8930,True,THIS GAME IS AWESOME
+posted,item_id,recommend,sentiment_analysis
+2016-07-24,4000,True,2
+2015-12-25,620,True,2
+2015-08-21,730,True,2
+2014-09-12,8930,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-23,346900,True,♥♥♥♥ JOGO OBM DO ♥♥♥♥♥♥♥ PENA QUE O PREÇO É SUA ALMA
-2014-09-28,200210,True,Good game to pass time if you want something  quick play this
-2014-01-22,212800,True,Its a very funny game great to pass the time.
+posted,item_id,recommend,sentiment_analysis
+2015-10-23,346900,True,0
+2014-09-28,200210,True,2
+2014-01-22,212800,True,2

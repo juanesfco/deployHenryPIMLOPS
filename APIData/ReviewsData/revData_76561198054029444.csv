@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-01,243470,False,"Ever wanted to be part of anonamoose but can't because you dont have l33t hacking skills, now you can with watch_dogs. A game specially designed for people who use reddit, fap to ponies, and wear fedoras, cargo shorts and trench coats.5/10"
-2014-05-17,221100,True,Walking Simulator 2014 walking/10
+posted,item_id,recommend,sentiment_analysis
+2014-06-01,243470,False,1
+2014-05-17,221100,True,1

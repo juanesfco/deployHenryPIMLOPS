@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-07-08,274190,True,awesome game to play with friends
-2015-09-19,287700,True,good
-2014-12-23,241930,True,Best game of 2014 in my opinion
-2014-07-30,235600,True,One of the best stealth game in history
+posted,item_id,recommend,sentiment_analysis
+2016-07-08,274190,True,2
+2015-09-19,287700,True,2
+2014-12-23,241930,True,2
+2014-07-30,235600,True,2

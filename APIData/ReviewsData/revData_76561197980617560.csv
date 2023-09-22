@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-03-15,4000,True,"I highly recommend this game! It will provide hours (357 hours so far for me) of fun and you will love it. It is heavily modable and if you can think of it, it probably already exist. Once again I highly recommend this game."
+posted,item_id,recommend,sentiment_analysis
+2014-03-15,4000,True,1

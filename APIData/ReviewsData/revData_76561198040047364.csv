@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-04-25,72850,False,Paid Mods. What has happened to you Valve and Bethesda?
-2015-10-27,215280,True,"Amazing Atmosphere. Extremely Immersive, The best story in any MMO, periodThe cutscene and voice acting is top notch, and each and every quest is accompanied by cutscenes. Combat is fun and mobile, actually requires you to think rather than mash same old 2 buttons.Best of all, It's one of the most immersive games you will ever play."
-2015-06-14,333930,True,"Great Game, Nice variety. Great successor to Wolfenstein ET"
-2016-04-11,234140,True,Great Game!
-2012-02-23,113420,True,Good Game if you like Fallout style games. Although its very complicated and its recommended you play with someone/ or your friends....
-2011-12-28,200910,True,"Absolutely LOVE THIS GAME!! I am not a big DDR style games fan, *cough cough, nor am i good at them* But I ABSOLUTELY LOVE THIS GAME!!!Great Sense of Humour, Story and Dialogues are fantastic... 5/5!! This game is worth paying more than its worth... much much more...."
+posted,item_id,recommend,sentiment_analysis
+2015-04-25,72850,False,1
+2015-10-27,215280,True,2
+2015-06-14,333930,True,2
+2016-04-11,234140,True,2
+2012-02-23,113420,True,0
+2011-12-28,200910,True,2

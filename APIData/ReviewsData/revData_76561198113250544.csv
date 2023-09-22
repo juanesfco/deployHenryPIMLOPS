@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-15,730,True,Beast <3
-2015-08-27,400,True,Self EXPLANTORY!
-2015-08-27,4000,True,This game is so funny with friends :D Do reccomend!
-2015-07-03,221640,True,I swear its not like your tripping LSD or anything...
-2013-12-28,440,True,Best F2P in my thoughts.
+posted,item_id,recommend,sentiment_analysis
+2014-12-15,730,True,2
+2015-08-27,400,True,1
+2015-08-27,4000,True,2
+2015-07-03,221640,True,1
+2013-12-28,440,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2013-12-08,230410,True,"Warframe is yet another solid free to play shooter with a twist.Well worth the download, not much else can be said without spoiling the game's twists and turns."
-2013-12-08,55230,True,"An /interesting/ game to say the least, essentially is Grand Theft Auto on crack.Worth purchasing when on sale, not really worth the asking price for the amount of story you receive out of it."
-2013-12-08,49520,True,"Similiar to it's predecessor, Borderlands - Borderlands 2 continues the story of the tireless vault hunters who are in search of unimaginable riches.Worth the asking price if you were a fan of the original game, however if you haven't played the first it may be worth picking that up first."
-2013-12-08,8980,True,"Totally nuts - well worth the buy.Borderlands has a riveting story with solid gunplay and graphics that rival the latest Triple A shooters, with their own creative flair thrown in.This game goes on sale once every two weeks, it's well worth the $10 that it usually is whilst on sale."
-2013-12-08,440,True,"what a game! Whilst being free to download and play, Team Fortress 2 is a fully fleshed out shooter; and with the community being able to create more content for the game, it's  options conimually expand.Well worth the download and your time."
+posted,item_id,recommend,sentiment_analysis
+2013-12-08,230410,True,1
+2013-12-08,55230,True,1
+2013-12-08,49520,True,2
+2013-12-08,8980,True,2
+2013-12-08,440,True,2

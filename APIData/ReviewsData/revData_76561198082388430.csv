@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-22,244850,True,"Great game, but those damn jetpacks."
-2014-12-22,2400,True,"Get to kill world leaders, who doesnt want to do that."
-2014-12-22,15120,True,"Great game, cant wait for Rainbow Six: Siege"
-2014-12-22,336100,True,Amazing
-2014-12-22,263020,True,Narwhal's that fight to the death with their horns. 10/10
+posted,item_id,recommend,sentiment_analysis
+2014-12-22,244850,True,2
+2014-12-22,2400,True,1
+2014-12-22,15120,True,2
+2014-12-22,336100,True,2
+2014-12-22,263020,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-06,230230,True,Killed a main boss by throwing it in a fireball trap and didn't end my turn and went afk as it slowly died. Came back 20 mins later: Quest done. 10/10 would exploit again.
-2014-06-19,440,False,Probably wont get my life back...
-2015-03-15,730,True,"If it aint the smurfs, its the hackers!"
+posted,item_id,recommend,sentiment_analysis
+2015-02-06,230230,True,1
+2014-06-19,440,False,1
+2015-03-15,730,True,1

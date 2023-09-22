@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-29,250900,True,tis is very great game
-2014-11-05,304930,True,superrrrrrrrr
-2014-03-17,99900,True,this is a best game
+posted,item_id,recommend,sentiment_analysis
+2014-12-29,250900,True,2
+2014-11-05,304930,True,1
+2014-03-17,99900,True,2

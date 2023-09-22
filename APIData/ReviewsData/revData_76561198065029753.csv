@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-17,730,True,Awesome Game!Buy Buy Buy Buy!!!
-2014-03-20,4000,True,Awesome Game with tones on different games modes
+posted,item_id,recommend,sentiment_analysis
+2014-09-17,730,True,2
+2014-03-20,4000,True,2

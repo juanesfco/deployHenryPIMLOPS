@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-04-15,219640,True,BEST 1ST PERSON GAME EVER
-2015-06-03,440,True,exellent jeu de tir au FPS les personnage sont sympa les dialogue marrant et les items que l'ont peu récupérer sont WTF je lui donne un 8/10
+posted,item_id,recommend,sentiment_analysis
+2016-04-15,219640,True,2
+2015-06-03,440,True,0

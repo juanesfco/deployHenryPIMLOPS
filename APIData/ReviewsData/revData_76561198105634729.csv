@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-20,440,True,สนุกมาก
-2014-11-19,51100,True,มันมากจนตาย
-2013-11-02,1250,True,มันส์มาก
+posted,item_id,recommend,sentiment_analysis
+2015-03-20,440,True,2
+2014-11-19,51100,True,2
+2013-11-02,1250,True,2

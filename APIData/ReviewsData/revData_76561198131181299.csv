@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-02,440,True,this game is rlly nice becasue its a very nice shotting game!
-2015-06-30,99900,True,Really Goo game. Just some really annoying Idiots in the game. :P
-2014-09-06,39120,True,This game is there best and will never re-think b4 downloading it.
+posted,item_id,recommend,sentiment_analysis
+2014-05-02,440,True,2
+2015-06-30,99900,True,0
+2014-09-06,39120,True,2

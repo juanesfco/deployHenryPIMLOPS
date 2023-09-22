@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-06-27,222900,True,"This game is actually really good, I played it quite a few months back and although there was issues and bugs and such. It was very playable and had a moderate community.Only downside now is I don't know where that community went."
+posted,item_id,recommend,sentiment_analysis
+2015-06-27,222900,True,1

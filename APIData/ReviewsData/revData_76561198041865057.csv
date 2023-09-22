@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-17,218620,False,"Is a fun game, and used to recommend it. I was a late adopter but really did love this game. Crimefest ruined it, don't need ♥♥♥♥♥♥♥t microtransactions.This is just a money grab and writing this review to make sure Overkill knows this ♥♥♥♥ is not on."
-2015-06-08,290890,True,"Solid game and only for a couple of bucks. I am only two hours in, but can't wait to keep playing when I have more time. Easy to pick up and play, the game is simple enough but is pretty addicting. Only annoyance is sometimes clicking out the window but it pauses automatically when you do. Others say it seems more like a mobile game, but the fast paced nature of the game lends it self more to the mouse where it makes it easier not to screw up"
-2013-12-23,113200,True,"heaps of fun, super addictive, randomly generated dungeon rooms (you end up seeing similarites everntually), tons of weapons and pickups/powerups, and a whole bunch of charactersif you like roguelike and challengingalso lots of replayability and lots to learn about in the gamealso the dlc is top but recommend it after you beat the game if you are an achievement ♥♥♥♥♥"
+posted,item_id,recommend,sentiment_analysis
+2015-10-17,218620,False,1
+2015-06-08,290890,True,1
+2013-12-23,113200,True,1

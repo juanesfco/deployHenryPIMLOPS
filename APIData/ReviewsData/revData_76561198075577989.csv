@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-03-23,208090,True,Esse jogo é otimo MUITO BOM MESMO mais por demora muito eu ainda gosto mais demora muito para acha um server
-2014-02-09,218740,True,Legal o jogo recomendo tem muitos puzzles nesse jogo RECOMENDADO!
-2014-01-20,440,True,FODHA
+posted,item_id,recommend,sentiment_analysis
+2014-03-23,208090,True,2
+2014-02-09,218740,True,2
+2014-01-20,440,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-04,17500,True,Es un juego muy bueno quizas no tenga los mejores graficos o armas pero es divertido
-2015-02-20,730,True,Este juego es recomendable para los que son fanaticos de shooters y otros counters
+posted,item_id,recommend,sentiment_analysis
+2016-05-04,17500,True,2
+2015-02-20,730,True,0

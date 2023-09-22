@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-09-29,730,True,hell yeh
-2014-06-25,4000,True,yes no words can describe how good this game is
-2014-02-26,241540,False,bad
-2014-02-14,250400,True,hi
+posted,item_id,recommend,sentiment_analysis
+2015-09-29,730,True,1
+2014-06-25,4000,True,2
+2014-02-26,241540,False,0
+2014-02-14,250400,True,1

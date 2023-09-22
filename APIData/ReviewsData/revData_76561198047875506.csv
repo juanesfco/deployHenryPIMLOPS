@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-11-22,214830,True,"Good fun for short sittings, anything more would just be too much. worth a look for a few $$ when it is on special."
-2014-08-15,266210,True,Dis game is cheap and really addictive and fun :)
+posted,item_id,recommend,sentiment_analysis
+2014-11-22,214830,True,2
+2014-08-15,266210,True,2

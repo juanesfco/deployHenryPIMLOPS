@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-02-25,72850,True,"Theres a reason ive almost sunk 1000 hours into this bad boy, its the best Elderscrolls game yet."
-2014-09-18,214950,True,"If you had asked me if this game was worth the $100 price i paid for it on day one release, i would have laughed heartily in your face.However,15 patches later and Total War: Rome II - Emperor Edition is well worth the money CA is asking for this true sequal to Rome: Total War. And the game in its current state gives justice to the legacy of Rome: Total War. Beautifully optimised, added features, fleshed out gameplay; its hard not to reccomend this game after the several months of transofmation it endured.This Regular Smokey Joe rates it about 9/10"
-2016-07-04,282070,True,"An organic story telling experience, this survival sim not only explores a side to war that we ourselves could one day find ourselves in, but puts a realistic twist and setting on the survival genre. Polished gameplay and style is accoplanied by an emotionallly charged orchertral score which work to fully enthrall the player in the struggle of day to day existance. Get ready for the feels. 8/10"
-2014-09-09,48700,True,"ehh, not a bad game really... The community is rubbish though"
+posted,item_id,recommend,sentiment_analysis
+2014-02-25,72850,True,1
+2014-09-18,214950,True,1
+2016-07-04,282070,True,2
+2014-09-09,48700,True,1

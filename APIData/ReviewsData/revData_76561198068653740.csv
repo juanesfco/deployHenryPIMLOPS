@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-06,242760,True,I played just over an hr i think i ♥♥♥♥ myself just under 10 times. 10/10
-2014-02-28,570,False,Game still needs balancing
+posted,item_id,recommend,sentiment_analysis
+2014-12-06,242760,True,1
+2014-02-28,570,False,0

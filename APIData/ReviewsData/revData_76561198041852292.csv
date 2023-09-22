@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-11-29,22380,True,Great game!
-2014-07-07,440,True,GGNORE
-2014-12-31,34900,True,♥♥♥♥IN LOVE IT!!!!
-2013-11-30,209160,True,"Great FPS game. It's like you're in a world of life, Next thing you know it is that You got missles fiering down on you."
-2016-04-03,10090,True,ppsh1
-2013-12-25,233720,True,Great game....
+posted,item_id,recommend,sentiment_analysis
+2014-11-29,22380,True,2
+2014-07-07,440,True,1
+2014-12-31,34900,True,2
+2013-11-30,209160,True,1
+2016-04-03,10090,True,1
+2013-12-25,233720,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-11-13,373080,False,Needs finishing. Probably shouldn't have been released this early in development
-2014-10-06,207610,True,"Does what it needs and wants to do, great game!"
-2013-11-29,105600,True,"Awesome game, ever lasting fun, strong multiplayer, lots to do, sand box...It ticks all the boxes."
-2014-03-01,60800,True,It's good but the price should be 4.99 not 9.99 I bought it at .99 but that was a sale otherwise quite enjoyable
-2015-11-13,344040,True,NOOOOOOO Whatever you do don't buy this game. Minecraft still exists don't play this terrible wannabe. It isn't worth money. It wouldn't be worth downloading if it was free.
-2015-08-07,244930,False,"Challenges don't work, events also don't work. Don't even get me started on multiplayer. Freeroam is just bad in general and the game is badly optimized. Not worth money not even worth the time of downloading it. This is the most broken game I have ever played and even quitting it caused it to not respond. I feel sorry for anyone who put money into this piece of broken crap. Don't buy it for the love of god."
-2014-01-13,38600,True,Amazing!
+posted,item_id,recommend,sentiment_analysis
+2015-11-13,373080,False,1
+2014-10-06,207610,True,2
+2013-11-29,105600,True,2
+2014-03-01,60800,True,2
+2015-11-13,344040,True,1
+2015-08-07,244930,False,0
+2014-01-13,38600,True,2

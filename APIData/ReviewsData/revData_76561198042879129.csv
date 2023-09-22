@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-05-13,55475,True,Have you ever wanted to look like the terminator?Always complaining about your own weak flesh?Well this is for you sadistic fellas out there who enjoy destroying every sense of humanity left in your genetically modified body and selling it away for mechanical augmentations.Note: This review does not support mutilation of limbs and replacement of funtional organs.
-2014-04-04,730,True,This cant run on windows 3.1
-2015-11-15,377160,True,Its fallout.
-2015-09-12,233250,True,IS GUD
-2015-06-26,231430,True,"Roses are red,Violets are blue,Im stuck on the eastern front,BUT SO ARE ♥♥♥♥ING YOU"
+posted,item_id,recommend,sentiment_analysis
+2015-05-13,55475,True,1
+2014-04-04,730,True,1
+2015-11-15,377160,True,1
+2015-09-12,233250,True,1
+2015-06-26,231430,True,1

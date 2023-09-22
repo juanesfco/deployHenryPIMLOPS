@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-06,65930,True,"This game is fun and addicting, very recommended for XCOM lovers .. 10/10 !!"
-2014-08-06,266010,True,This is a very simple yet fun puzzle game. A very highly recommended game to puzzle solvers and lovers !! 9/10
-2014-07-11,570,True,A very recommended MOBA game. Try it and you will like it ...
+posted,item_id,recommend,sentiment_analysis
+2014-08-06,65930,True,1
+2014-08-06,266010,True,0
+2014-07-11,570,True,1

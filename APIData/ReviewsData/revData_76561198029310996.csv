@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-25,32470,True,This by far the best star wars rts to date and the space battles are out of this world
-2014-01-28,15620,True,This game is beyond awesome and a little bit hardcore with GORE!
+posted,item_id,recommend,sentiment_analysis
+2014-01-25,32470,True,2
+2014-01-28,15620,True,2

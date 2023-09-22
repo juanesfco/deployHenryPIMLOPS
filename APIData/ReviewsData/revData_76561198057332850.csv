@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-12-23,304930,True,No esta mal te hace pasar un buen rato de diversion con amigos.
-2015-02-17,4000,True,"Muy buen juego para jugar con amigos, no te lo recomiendo jugar solo por que te vas a aburrir con un **** ** ****, tiene mucha variacion muchos modos de juego y mucha originalidad."
-2015-02-17,35140,True,"Excelente juego, muy buena historia y buena jugabilidad 100% recomendable."
-2016-06-26,439995,True,"2,49 USD cosas que en el juego te salen aproximadamente 50 dolares si queres comprarlas por separado, aparte de que salio junto con la pelicula de Civil War es decir hace un mes. Excelente pack."
-2016-05-05,72850,True,"Uno de mis juegos favoritos, te asegura muchisimas horas de entretenimiento."
-2015-03-30,218230,True,"Muy divertido, 100% recomendado."
+posted,item_id,recommend,sentiment_analysis
+2014-12-23,304930,True,2
+2015-02-17,4000,True,1
+2015-02-17,35140,True,2
+2016-06-26,439995,True,1
+2016-05-05,72850,True,2
+2015-03-30,218230,True,2

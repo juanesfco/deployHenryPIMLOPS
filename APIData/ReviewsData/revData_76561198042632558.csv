@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-30,203770,True,gud
-2015-11-30,281690,True,You feel like you are the Avatar. Great game - loved every minute.
-2015-07-30,230230,True,good
+posted,item_id,recommend,sentiment_analysis
+2015-11-30,203770,True,1
+2015-11-30,281690,True,2
+2015-07-30,230230,True,2

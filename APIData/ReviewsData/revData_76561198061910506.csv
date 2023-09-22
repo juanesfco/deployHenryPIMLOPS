@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-02-16,440,True,"This video game is violent but awesome, although its big as 10+ GB."
+posted,item_id,recommend,sentiment_analysis
+2014-02-16,440,True,1

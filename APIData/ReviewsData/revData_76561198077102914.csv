@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-05-21,230410,True,"It's like destiny, but it has content :)"
-2015-01-19,570,True,"it fun, go play"
-2016-08-24,275850,False,♥♥♥♥ dis ♥♥♥♥ im out
-2015-03-13,261570,True,"looks nice, sounds nice, is fun. highly recommend."
+posted,item_id,recommend,sentiment_analysis
+2016-05-21,230410,True,2
+2015-01-19,570,True,2
+2016-08-24,275850,False,1
+2015-03-13,261570,True,2

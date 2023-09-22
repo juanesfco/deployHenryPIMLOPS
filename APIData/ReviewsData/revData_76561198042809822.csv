@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-07-20,105600,True,its awesome
-2014-08-05,49520,True,soooooo much loot 15/10
+posted,item_id,recommend,sentiment_analysis
+2013-07-20,105600,True,2
+2014-08-05,49520,True,2

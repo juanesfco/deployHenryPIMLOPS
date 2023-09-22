@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-01-26,221040,True,"This game is considered to be the worst main story of the franchise, it is true that it is not at all as scary as the older games were, but that doesn't mean it is a bad game. Graphics are decent, characters are interesting, Ada's campaign is just great and if you do this multiplayer it is just awesome. I would recommend this to people that just want to have fun smashing in zombie heads, and if you have a friend then go ahead and smash them together, but don't compare it to the other games as it really doesn't fit in with the style, it's a blast in its own way."
-2014-02-01,72850,True,"10/10 Great game the DLC is actually worth the money and the modding possibilities are endless, needs more dragons though. Oh wait..."
-2015-09-07,319510,False,OmG JUmp SCARes So sPOoKY wow YOU SURe dID GEt ME freDDY lOl THIS GAme is SO so SOOO ScaRY CHecK OuT MY FOXY x CHIKA fAN FIC HAHAHAHA thANKS gUYs <3 :3 ~~~~
-2015-09-07,220050,False,Oh god please kill me now this is worse than the show is right now help
+posted,item_id,recommend,sentiment_analysis
+2015-01-26,221040,True,1
+2014-02-01,72850,True,2
+2015-09-07,319510,False,2
+2015-09-07,220050,False,1

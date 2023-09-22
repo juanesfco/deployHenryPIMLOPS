@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-04-14,243870,True,"Great game! more fun that i have expectedCan play first and third person which is coolmechanics and movements are really smooth in this gameI have played this game since beta can it has improved and the devlopers have added alot of cool new things such as maps, weapons etc.Good job UBISOFT!"
-2014-04-16,222880,True,Great game! Do not buy this if you do not enjoy FPS relisim and hardcore shooters. Very fun and enjoyable. Incredibly addictive!
-2014-04-14,247910,False,Needs mutiplayer
-2015-06-28,107410,True,GOOD ♥♥♥♥
-2016-02-14,244930,True,"great game for chills, once they add snowboards it will be ten times as lit! 10/10"
-2014-03-01,221100,True,Great game and very addictive. Get this if you have tons of spare time...
-2013-12-13,440,True,cool game
-2013-12-09,730,True,Great game for competitive gamers.
+posted,item_id,recommend,sentiment_analysis
+2014-04-14,243870,True,2
+2014-04-16,222880,True,2
+2014-04-14,247910,False,1
+2015-06-28,107410,True,2
+2016-02-14,244930,True,2
+2014-03-01,221100,True,2
+2013-12-13,440,True,1
+2013-12-09,730,True,2

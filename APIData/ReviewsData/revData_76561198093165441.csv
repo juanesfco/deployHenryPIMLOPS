@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-07-19,9930,True,It Is A Pretty Good Game With The Right Pc But It Says There Is DLC For Certain Cars But When I Check there Isint
-2015-06-05,104900,True,THE GAME IS JUST TO GOOD
-2015-06-02,374570,True,SWEG LVL 99999999999999999999999
-2014-10-08,304930,True,very cool hardcore minecraft-like survival game and the best bit is that its FREE
-2014-08-13,4000,True,ok.. this game is fun and cool but... there are some issues. when i boot the game up it loads but when i try to click anything it crashes (freezes) please fix this ive tried deleting it and re-installing it re-booting it everything! please fix thisthanks-ats01
-2014-06-22,49520,True,omg what a fun game!
-2014-06-06,63380,True,very good sniping game good for sniper skill testing
+posted,item_id,recommend,sentiment_analysis
+2015-07-19,9930,True,2
+2015-06-05,104900,True,2
+2015-06-02,374570,True,1
+2014-10-08,304930,True,2
+2014-08-13,4000,True,1
+2014-06-22,49520,True,1
+2014-06-06,63380,True,2

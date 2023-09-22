@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-08-17,275510,True,"The Bitmap brothers bring us the sequel to 1996's real-time strategy 'Z,' jumping into 3D yet sticking with the same quirky sense of 'robot' humor and style of game that made the original game a success."
-2014-02-16,207730,True,"For every ten or so big releases which disappoint, there’s a relatively small-scale title that comes along and surprises everybody by being pretty good. Arena Wars 2 fits nicely into this category. Fast paced RTS that puts you straight into the action, no mineral collecting to slow the game down. It really is a joy to play a game that hasn't been done what can seem like hundreds of times. "
-2014-10-05,275530,True,"'For God's sake, do something!' At least when that happens, when your own robots yell at you cause they are being beaten up by the enemy, you understand that this is not the normal kind of strategy game you are playing. Graphics, humor, AI and simply fun is perfectly combined in this awesome game. That was nearly 20 years ago..."
-2013-08-15,216910,True,"Of Orcs And Men is not a game for everyone, but you should absolutely give it a look if you're interested in ambitious design or interesting worlds."
-2014-10-09,270550,True,"For a game coming in at only $2.00 (0.99c if you got it on sale) -You have a Simple, Funny, and Addictive Game. It's challenging while being a game that is enjoyable with anyone. Recommended to everyone."
-2013-09-03,227480,True,"God Mode is a humorous co-op third person shooter with non-linear gameplay, fast and frantic shooting, hordes of on-screen enemies, and stunning visuals. Fun and very entertaining."
-2012-09-06,32800,True,Definitely the license's best looking action- RPG yet :-)
+posted,item_id,recommend,sentiment_analysis
+2015-08-17,275510,True,1
+2014-02-16,207730,True,2
+2014-10-05,275530,True,2
+2013-08-15,216910,True,2
+2014-10-09,270550,True,1
+2013-09-03,227480,True,2
+2012-09-06,32800,True,2

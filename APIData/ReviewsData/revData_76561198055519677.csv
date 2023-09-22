@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-04-11,277430,True,This is a really fun game if you enjoyed the other halos you will enjoy this one. Just a side note it is a top down twinstick shooter.
-2014-02-22,239820,True,THIS GAME IS AWESOME i have been playing it for 3 hours now (according to steam but feels a lot longer than that) and it is really cool i made a bunch of games on it that recieved great reviews and made a bunch of engines in short it is a game u could spend hours on granted it doesn't have a lot of things on there but who cares its fun to play and u shoudl buy it especially since it is 10 dollars on steam
-2012-09-24,17410,True,"summary: free running, vibrant colours and an fps platformer"
+posted,item_id,recommend,sentiment_analysis
+2014-04-11,277430,True,2
+2014-02-22,239820,True,2
+2012-09-24,17410,True,2

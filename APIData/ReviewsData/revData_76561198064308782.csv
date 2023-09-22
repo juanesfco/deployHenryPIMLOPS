@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-10,391540,True,"I don't feel like writing a review, but I do just wanna say that this is a great little game. Everything just fits together. Definitely worth the behind-the-couch price tag."
-2015-06-06,240,True,"A balls-to-the-wall, white knuckle FPS. Letting your guard down for even a second can mean certain death. This game is the purest form of the FPS genre.Don't expect to do well at first."
+posted,item_id,recommend,sentiment_analysis
+2016-05-10,391540,True,2
+2015-06-06,240,True,1

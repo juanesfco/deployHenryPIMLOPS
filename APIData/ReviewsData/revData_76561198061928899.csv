@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-07-13,273350,True,It's good. It's free. People were not playing before. Now they are.
-2016-08-01,404012,True,"COntrary to prior Total War DLC's this one provides an entirely new race. The couple of units that are resued for this release recieved new skins, fitting the bestial natureof the race. Furthermore The new units look amazing, are a blast to use, and have a unique feeling to them. I would wholley recomend this to anyone who enjoys horde gameplay, or who wants to experiance Total War in a new way. On the matter of price, The extra cost is worth it, especially when a trip to the movies for myself and my GF would cost at least twice as much for a much shorther experiance."
-2016-05-24,364360,True,"This game is brilliant!It runs much better than Attila, and the graphics are gorgeous.Units and factions are fun and varried and there are currently manny different builds being used in multiplayer!"
+posted,item_id,recommend,sentiment_analysis
+2016-07-13,273350,True,2
+2016-08-01,404012,True,2
+2016-05-24,364360,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-06-26,40700,True,Great game but short. Buy on sale or somewhere not for full price. I paid $5 for it and was satisfied.
-2016-01-12,245620,False,Tropico 4 is better.
-2013-12-07,56400,False,Pretty much dead multiplayer. The campaign is fun the first time around but the achievement system is broken.
-2013-12-04,57690,True,Heaps of fun. Like Simcity but with a grander purpose.
+posted,item_id,recommend,sentiment_analysis
+2016-06-26,40700,True,2
+2016-01-12,245620,False,2
+2013-12-07,56400,False,1
+2013-12-04,57690,True,2

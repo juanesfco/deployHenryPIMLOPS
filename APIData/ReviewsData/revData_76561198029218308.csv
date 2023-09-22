@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-31,49520,True,"another great 1st person shooter by 2k, with a fun story and a great, naturly funny script. a bit grindy at times, but Co op game play and love of shooting, blowing up and having a challange makes the grinding more forgivable. lots of dlc tho for thos with lots of time or a real love of the world in the game.+ you can custom you're own look and find better looking stuff+ find and use what ever gun you love+ very open world with lots to look at and easter eggs to find.- can get lonely if playing solo, best to bring a buddy."
-2014-08-31,219740,True,"A fun 'little' game. it will tacka while to larn how to live (depends on how you go with it) but its a great game to past time and play with. like minecraft, there is a end gole but most of the game you will make you're own fun"
-2014-08-31,239220,False,"It begins as a fun and intressting 3rd person game, with fun powers and intresstign classes. bu as you play you find out that rage (I.E: the mage/archer) is best, the higher the lv you get (round about lv 16) you find the game to be real grindy and you start to see that this cool and intressting idea of evryone making a fun build to storme turns into getting bored with the same build of ' all monsters in one room' and 'spring trap landing onto a cluster of mines'. in the end this game lacks any real Co op or feel of commuinty and you will find you self grinding for better gear, the next level and trying to ignore the next bs build. mostly sticking to the stock builds."
-2014-09-10,293540,False,4/10 the game looks good and plays well but crafting to build a robot and over clutter menu make the game to grindy.its really just another VS shooter that wants me to spend houres playing matchs for gear grinding or fork out some cash to be a pay to win
-2014-08-31,8850,True,"A great follow up to the 1st bioshock. i found it best to remove the helm hud in single player. the dlc and main game story is great and done in the classic bishock way. the online was great when 1st released but now its wont hold up as well, laggy gameplay and higher level players will keep you from truely injoying it."
-2014-08-31,7670,True,"A true classic, possable one of the first person shooters with a story i will ever play. Now whould you kindly stop reading this and play it. its awesome."
+posted,item_id,recommend,sentiment_analysis
+2014-08-31,49520,True,2
+2014-08-31,219740,True,1
+2014-08-31,239220,False,2
+2014-09-10,293540,False,2
+2014-08-31,8850,True,2
+2014-08-31,7670,True,2

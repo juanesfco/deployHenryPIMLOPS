@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-09-18,444090,False,♥♥♥♥♥ game. Don't bother.
-2014-04-20,57300,True,"You want a scary game?Well this game sets the bar for horror games, you never know whats going to be around the corner it could a safe haven a another dark corrider or even a monster.But seriously if you want a good scare get this game you will NOT be disappointed.Have fun!"
+posted,item_id,recommend,sentiment_analysis
+2016-09-18,444090,False,0
+2014-04-20,57300,True,1

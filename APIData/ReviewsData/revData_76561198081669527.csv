@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-08-17,730,True,สมัน ชอบ คับ
-2013-12-13,4000,True,สนุกมาก สร้างสรรค์ ดี ชอบๆ รีบหาซื้อมา ซะ 555
-2014-06-05,63380,True,I like Bullet
-2014-04-26,400,True,It Funny use brain to find solution xDbut.... it Short Story I love Portal gun :D
-2014-03-27,550,True,Nice Game Survival form Zombie Have a Special ZombieI like this :3
+posted,item_id,recommend,sentiment_analysis
+2014-08-17,730,True,1
+2013-12-13,4000,True,2
+2014-06-05,63380,True,1
+2014-04-26,400,True,2
+2014-03-27,550,True,2

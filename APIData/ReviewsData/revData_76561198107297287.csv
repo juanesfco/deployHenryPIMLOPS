@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-27,570,True,This game is make me fun! Best game ever
-2014-01-29,252490,True,This game is best ever and fun with players and kills! Love own build!
-2015-01-17,331120,True,Not bad game but very scay at someone behind me! :O
+posted,item_id,recommend,sentiment_analysis
+2014-02-27,570,True,2
+2014-01-29,252490,True,2
+2015-01-17,331120,True,1

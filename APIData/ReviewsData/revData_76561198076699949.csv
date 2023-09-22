@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-05,4000,True,Perfeito
-2015-01-12,620,True,"O que falar de Portal 2? Fantástico, inovador, divertido... tudo isso você encontra nessa verdadeira obra prima. Mas uma coisa na qual eu gostaria de focar é o carisma imenso de cada um dos personagens: o locutor (que não sei bem se pode ser considerado um personagem) com os seu supostos elogios, Wheatley com os pássaros, Cave Jonhson e os limões, mas principalmente ela: GLaDOS. Depois dos eventos de Portal, que a deixaram profundamente magoada, ela simplesmente consegue se superar a cada câmara de teste. Cada frase, cada provocação constitui uma personalidade singular e extremamente carismática da antagonista. Gostaria ainda de ressaltar o excelente trabalho de dublagem (que inclusive rendeu um easter-egg no trailer do filme 'Cìrculo de Fogo'). Todo esse carisma dos personagens, aliado a uma jogabilidade admirável e muito bem desenvolvida pela equipe da Valve e uma ambientação espetacular (sem falar nas referências a Half-Life), fazem de Portal 2 um dos principais destaques da sua geração e com certeza, uma das horas mais bem-aproveitadas que uma pessoa pode ter. 11/10 "
+posted,item_id,recommend,sentiment_analysis
+2013-12-05,4000,True,2
+2015-01-12,620,True,1

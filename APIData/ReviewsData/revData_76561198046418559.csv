@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-06-15,381210,False,"Buggy as hell. I thought BETA tests were for removing bugs pre-release?To list a few: crashes, disconnections from steam servers, neverending loading screens. They are frequently happening in my game. I have a high end computer and good internet so it can't be an issue on my side."
-2015-08-06,316010,True,"Good game overall. Finally can customize my deck how I like it rather than being constricted to the sets of cards like in previous MTG games on steam. It's also free to play, with a fair f2p model. Will continue playing this one."
+posted,item_id,recommend,sentiment_analysis
+2016-06-15,381210,False,1
+2015-08-06,316010,True,2

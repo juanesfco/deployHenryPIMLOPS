@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-09-25,113200,True,"In my top list of best games. This game is life changing, it literally made me think back to when I was a little boy running through the basement fighting monsters, ahh the times. 10/10 would Isaac again."
-2015-01-19,250900,True, How to. The Binding of Isaac: Rebirth  A step by step guide on how to play Rebirth! 1. Reset untill you get a good item2. Spend more then a hour on a breaking run3. Breakfast4. More Breakfast5. Die from everything playing as The Lost1824791298. 100% the game10/10
-2015-06-12,363970,True,"Facebook games meet Steam, do not play, You will lose everything! jks play till death Kappa"
-2015-02-10,286100,True," Steam Users in a nut shell Install the game to make you look like you have more games in your library93.0% of players have died at least once, the other 7% just install the game to have it in there library. Seriously just walk into the next room and die.10/10 free, retro, platformer game"
-2015-12-17,208090,False,"WAS a good game, then rip developers. Do not download you will not be able to play :("
+posted,item_id,recommend,sentiment_analysis
+2014-09-25,113200,True,2
+2015-01-19,250900,True,2
+2015-06-12,363970,True,1
+2015-02-10,286100,True,0
+2015-12-17,208090,False,1

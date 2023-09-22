@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-20,22370,True,Excelente juego
-2013-12-17,570,True,:D
+posted,item_id,recommend,sentiment_analysis
+2016-01-20,22370,True,2
+2013-12-17,570,True,2

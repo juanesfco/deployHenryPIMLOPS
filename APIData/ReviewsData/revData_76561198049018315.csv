@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-12-20,207610,True,"I may have accidentally stuffed up a few times, but its great! Try not to die!"
-2013-12-15,47890,True,Its fun to play around with creating sims! Its always fun to play with (and torture) your sims!
-2013-03-20,226740,True,So cute! ^.^
-2013-10-04,63710,True,"Though it often gets a bit irritating, its a great game! Itf fun as it develops your reaction time, and the soundtrack is just amazing!"
-2013-04-16,38900,True,"Its a basic Music game like Tap Tap, but the visuals in this are amazing, AND you can import your own songs!"
-2011-10-07,105600,True,"Terraria is an awesome Mineraft like game, But 2D. But in 2 words: ITS AWESOME"
+posted,item_id,recommend,sentiment_analysis
+2013-12-20,207610,True,2
+2013-12-15,47890,True,2
+2013-03-20,226740,True,2
+2013-10-04,63710,True,2
+2013-04-16,38900,True,2
+2011-10-07,105600,True,2

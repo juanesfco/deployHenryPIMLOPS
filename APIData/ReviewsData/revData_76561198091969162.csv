@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-09-10,339600,False,P2W P2W P2W P2W
-2014-02-22,570,True,Great game it's the greatest MOBA game I've ever played!!
-2013-09-07,17500,True,This is a fun zombie game!!!
+posted,item_id,recommend,sentiment_analysis
+2016-09-10,339600,False,1
+2014-02-22,570,True,2
+2013-09-07,17500,True,0

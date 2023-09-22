@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-03-07,6060,True,"This is an epic game, loved it as a kid though ive always though the original was better."
+posted,item_id,recommend,sentiment_analysis
+2015-03-07,6060,True,2

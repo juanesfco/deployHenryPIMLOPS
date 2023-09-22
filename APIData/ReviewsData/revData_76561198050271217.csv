@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-05-28,201810,False,No multiplayer/online multiplayer
-2015-04-11,209650,False,Love the game but always a pain to join in sick and tired of trying to login
-2014-05-28,233450,True,Good game has come a long way since i started playing
+posted,item_id,recommend,sentiment_analysis
+2014-05-28,201810,False,1
+2015-04-11,209650,False,0
+2014-05-28,233450,True,1

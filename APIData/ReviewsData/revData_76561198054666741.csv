@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-21,280010,True,"Good game, but is laggy gameplay"
-2013-12-06,550,True,"Meu primeiro jogo da Steam, é um excelente coop e obrigatório a todos os usuarios da steam. para jogar com os amigos é o melhor jogo e jogando o single os mods ampliam as opções de jogo"
+posted,item_id,recommend,sentiment_analysis
+2015-09-21,280010,True,2
+2013-12-06,550,True,1

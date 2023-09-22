@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-08,91310,True,10/10 i was scares
-2014-04-01,224480,True,i made octodad fly using a chair. 12/10 GOTY
-2014-03-31,240,True,"I found this one more enjoyable then CS:GO. plus, bots have voices. 11/10."
-2014-04-26,243780,True,i have no idea.
+posted,item_id,recommend,sentiment_analysis
+2014-05-08,91310,True,1
+2014-04-01,224480,True,2
+2014-03-31,240,True,2
+2014-04-26,243780,True,1

@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-07-23,730,True,This game is amazing-Tom
-2014-12-27,268750,True,"ja ja, ja ja ja aj? jajaja :) , Ja !"
-2016-09-06,230410,True,Meh
-2015-07-23,208650,False,"ok, lets begin with the legit stuffThis game is crap, doesnt run on pc and WB should be ashamed, if your going to release a game that doesnt work, then we buy it, give us some respect by saying sorry and give us a free game instead of waiting for this ♥♥♥♥♥♥♥t to get fixed, i didnt waste all my money to pre order this game to find out it doesnt work. Give us a different batman game instead of making us stare at the game case wishing we could play this gameYou guys suck over at WB, you guys are lazy"
-2015-07-23,22370,True,"Love this game, it may say i have very little hours, its because Fallout is Love, Fallout Is Life"
-2016-04-15,200210,True,Mint
-2015-09-25,386360,True,"Whats not to say about this game, its amazing, better than LOL and DOTA, its fun, no one puts pressure on you, and the use of 3D arena/battle makes it even fun, Would suggest this game to LOL and DOTA fans. Once you go smite, theres no going back"
-2015-07-23,49520,True,10/10 would kill again-Tom
+posted,item_id,recommend,sentiment_analysis
+2015-07-23,730,True,0
+2014-12-27,268750,True,2
+2016-09-06,230410,True,1
+2015-07-23,208650,False,0
+2015-07-23,22370,True,1
+2016-04-15,200210,True,1
+2015-09-25,386360,True,2
+2015-07-23,49520,True,1

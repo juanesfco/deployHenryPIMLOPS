@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-05-08,315430,True,"It's a cute little game, I finished and collected all the data fragments of the single player campaign and bonus levels in just over an hour. Apart from the length it is a good game but some harder levels would be appreciated. I don't have a game pad play with other people so I haven't looked at the co-op side of it. P.S. What is this second story teaser for? Is it DLC, second game or later patch?"
-2015-01-19,260230,True,"I loved this game from start to finish. I have not cried in a very long time but I got so attached to the people that I could not help myself on the last walk. Of course I recommend that you go on this adventure for yourself and find out more about the horrors, but also the little pleasures, of war."
+posted,item_id,recommend,sentiment_analysis
+2015-05-08,315430,True,1
+2015-01-19,260230,True,1

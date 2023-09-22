@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-22,17080,True,Hell. ♥♥♥♥ing. Yes
-2014-04-17,8870,True,Possibly the best game of all time
+posted,item_id,recommend,sentiment_analysis
+2014-08-22,17080,True,1
+2014-04-17,8870,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-28,354240,True,"Good soundtrack, charming style and it makes me feel really, really stupid. 10/10i touched something sorry don't hate me"
-2014-11-07,263420,True,♥♥♥♥ this game10/10
-2014-10-08,242680,True,♥♥♥♥ this game10/10
+posted,item_id,recommend,sentiment_analysis
+2015-03-28,354240,True,0
+2014-11-07,263420,True,1
+2014-10-08,242680,True,1

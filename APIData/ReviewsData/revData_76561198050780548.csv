@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-02-27,224580,True,HOLY SHIZ BALLS THIS IS SO FREAKING AWESOME
-2014-06-29,218620,False,its s h i t
-2015-11-14,322330,True,Noice.
-2014-03-03,109600,True,awesome game and a great mmorpg alround
-2014-01-09,238320,True,this game is amzing with a great storyline and awesome graphics its easilly the best horror game iv played but holy crap it'll make you ♥♥♥♥ yourself. But it is an awesome game and i highly recommend it 8/10
-2013-12-06,49520,True,"it is a awesome game i love the cartoony art style and the co-op is one of the best ive ever seen, and there is a little bit of comedy and some of the enemys are hilarious."
+posted,item_id,recommend,sentiment_analysis
+2014-02-27,224580,True,2
+2014-06-29,218620,False,1
+2015-11-14,322330,True,1
+2014-03-03,109600,True,2
+2014-01-09,238320,True,2
+2013-12-06,49520,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-29,218060,True,Gotta Go Fast
-2015-01-07,265630,True,Pass Teh Whiskey
-2013-12-27,440,True,"In a world of Ragequits, hats , conga and men sitting in chairs drinking beer and army men getting dressed up a Super heros comes...... Team Fortress 123345 ( only on X-Box only)"
+posted,item_id,recommend,sentiment_analysis
+2014-12-29,218060,True,2
+2015-01-07,265630,True,1
+2013-12-27,440,True,2

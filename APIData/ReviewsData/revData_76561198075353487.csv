@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-10,265930,True,10/10U get to be a goat i never saw that coming!
-2015-09-09,266430,False,I Really Just Think This Game Is Plain ♥♥♥♥♥♥ It Is A ♥♥♥♥ing Desktop Sim ♥♥♥♥ That!
-2015-05-01,346900,False,WARNING GAVE ME A VIRUS!!!!!!!
-2015-04-09,200210,True,Pay-To-Win And When You Die You Lose Everything! Challagaing
-2015-02-04,273110,False,Sorry But I Just Don't Like It! it Is A Sorry Excuse For The Counter Strike Series And The Blood Graphics No...J..Just No! I Don't Recommend This Game It Is Pretty Bad!
-2015-04-21,219740,False,Can be a little hard at some points i give it 4.5/10
-2016-07-09,296470,True,I Swear! Im not gay
+posted,item_id,recommend,sentiment_analysis
+2015-10-10,265930,True,1
+2015-09-09,266430,False,0
+2015-05-01,346900,False,1
+2015-04-09,200210,True,1
+2015-02-04,273110,False,0
+2015-04-21,219740,False,0
+2016-07-09,296470,True,0

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-11-25,206210,True,THis is a great game to be played. the weapons are well made and its not a pay to win kinda game. the after death quotes are very funny but the only bad thing is that there isnt alot of people playing this. a great FPS for everyone to enjoy.
-2014-03-31,245550,True,"Great emotional movie, probably the best movie on games . One can easily connect to the professional players life and feel sympathy towards them. One could feel the anticipation of every move in the game. Each of the players sacrifice so much for what they loved most... DOTA I rate this movie 10/10Last of all...'One does not simply beat Dendi solo mid'"
+posted,item_id,recommend,sentiment_analysis
+2013-11-25,206210,True,2
+2014-03-31,245550,True,2

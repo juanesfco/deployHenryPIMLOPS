@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-12,347160,True,"I recieved this game as part of the Humble Monthly June Bundle (so essentially for free) and I definitely recommend it, if you like the genre that is. If you enjoy Shoot'em up games and/or bullet hell games then you will enjoy this game. If you don't enjoy the shoot'em up and/or bullet hell genre than the $12 price tag may seem very off putting, but I would not recommend passing this game up and instead waiting for a sale. This game looks great, sounds great and plays very well, it is a very fun game to play if you are short on time, or even if you just need something to play. Worth a buy"
-2016-02-24,247080,True,There is nothing more that I need to say other than this game is simply incredibleI would also recommend buying both the Extended soundtrack and the DannyB OST
-2015-10-19,391540,True,"I don't care what anyone else says, Undertale is by far my game of the year. It has funny characters, a story I genuinely adored playing through, and you can date a skeleton. 10/10It also has amazing music so if you have the few extra bucks I definetely recommend it"
+posted,item_id,recommend,sentiment_analysis
+2016-06-12,347160,True,2
+2016-02-24,247080,True,1
+2015-10-19,391540,True,2

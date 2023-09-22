@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-10-17,218620,False,"with over 700hours I have some fond memories. Uortunately overkill is starting to go the way of EA by ignoring earlier statements they have made. They have come around to their latest free give away and decedid to go with the ability to make microtransactions freely avaliable for all, despite statements in the earliest days that itwould never happen."
-2015-09-30,210770,False,"Sanctum 2 the game I almost bought.Interesting looking game that I had heard was very good so decided to try it out while it was free. What I found was solid enjoyable gameplay and co-op style playing that I rather enjoy.... and then I discovered it is nigh impossible to join a game. It took around 2 hours for me to  give up trying to join people via invite, custom and quick searches. The result turns this into a single player game which with some of the bigger harder enemies and turret option restrictions makes it into a no buy for me. Which is a pity as I did want to buy it but couldn't bring myself to buy a broken game."
-2015-10-31,360170,False,Crashed three times in under half an hour. The co-op relies on steam invites and laks any actual matchmaking/finding system. So either game is not ready to be on store currently or is going to be poorly done either way. Oh and currently lacks a decent tutorial to inform you as to what keys to press and when it does tell you which keys it does so for a controller not keyboard and mouse.
-2015-09-28,222900,False,Decent enough game with some potential if they had expanded on what they had. However they have caned it and part of me is sorry to see it go.
-2015-06-05,333930,True,Fun fast action with a mild MOBA feel to it.+Fast Pacing+Interesting characters to play+Fluid-some bugs (BSoD if I leave and try join another game without exiting to desktop..)-slow credit grind if not cash shoping.-Expensive to unlock characters
+posted,item_id,recommend,sentiment_analysis
+2015-10-17,218620,False,2
+2015-09-30,210770,False,1
+2015-10-31,360170,False,0
+2015-09-28,222900,False,0
+2015-06-05,333930,True,2

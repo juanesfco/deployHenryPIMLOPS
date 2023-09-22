@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-22,219150,True,"SO MUCH MURDER, SO MUCH RAGE!"
-2014-02-25,259080,True,I have no words to say but BOOST!!!!!
+posted,item_id,recommend,sentiment_analysis
+2014-06-22,219150,True,2
+2014-02-25,259080,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-21,227240,False,cant make more than 100 events wothout paying wich is nealy nothing if you want to make a good game
-2015-11-20,209870,True,"Guns and character customization, awesome graphics, a lot of different maps and gamemodes, interesting game mechanics, a lot of different kinds of guns and gear, free to play and a lot of fun. WHAT ELSE CAN YOU ASK FOR!!!"
-2015-10-13,262410,True,"this is a really good game for those who wanna learn about real weapons, the graphics are not the best but everything else is very well done, it has a lot of weapon models. If you have a gun you can learn how to disassemble and assemble it even their functions before trying it with yours, if you dont wanna ruin it XD"
-2015-01-02,243870,False,HOW TO PLAY TOM CLANCY´S GHOST RECON PHANTOMSstep 1: download gamestep 2: create an accountstep 3: wait for a matchstep 4: keep waitingstep 5: wait a few more hoursstep 6: get tired for waitingstep 7: close the gamestep 8: uninstall itstep 9: write a negative analysis
-2014-03-06,239220,True,"its a really god game, its like clash of clans but you have your own hero and you can change his equipment to make it powerful"
+posted,item_id,recommend,sentiment_analysis
+2015-11-21,227240,False,2
+2015-11-20,209870,True,2
+2015-10-13,262410,True,2
+2015-01-02,243870,False,1
+2014-03-06,239220,True,2

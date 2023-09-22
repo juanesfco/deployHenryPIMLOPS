@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-04,730,True,sxy game
-2014-04-30,220,False,r00d/10 h9 tis g4m3
+posted,item_id,recommend,sentiment_analysis
+2014-01-04,730,True,0
+2014-04-30,220,False,1

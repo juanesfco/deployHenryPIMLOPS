@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-02-07,730,True,would not reccomend if money is important to you
-2013-11-07,4000,True,If you have that kind of imagination that never ends... GET THIS GAME FOR THE SAKE OF ALL THAT IS GOOD.
-2015-12-21,304930,True,"Absolutely incredible and interesting new approach on zombie survival, and to top it off it was all done by one young individual! Great fun, well worth the 5 dollar upgrade as well."
-2015-02-07,252490,True,"If you like naked men baring rocks chasing you across a landscape full of kos players who live in scrap metal houses, then I can highly reccomend this game."
+posted,item_id,recommend,sentiment_analysis
+2015-02-07,730,True,2
+2013-11-07,4000,True,2
+2015-12-21,304930,True,2
+2015-02-07,252490,True,1

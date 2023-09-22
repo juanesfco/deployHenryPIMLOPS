@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2012-12-23,49520,True,this is the best game in the world
-2014-05-05,293010,True,"I LOVE THIS GAME, This game is practically warband and fire and sword but on the sea, the ship menu is pretty hard to learn but fun to learn at the same time, the naval combat could use a bit of work with the cannon system and boarding with some of the troops spawning in the ocean but over all if it had multiplay naval combat where you can board the other play it we awesome"
-2015-02-28,730,True,"CS:GO, The the skill required, the stratagie, the smooth movements, these are only some of the great things about this game, the game is fun to play with friends or to play competativly, it might be a pain in the ♥♥♥ sometimes but once you get through that and start getting good, it isn't such a pain"
-2014-08-03,304930,True,It is like DAYZ but it is blockyish and can run on a not very good pc so it is DAYZ for people without good pc'a
-2014-01-31,48700,True,"Fricken Great game it has a great modding community as well as a exelent map and troop tree can be complicated your first time around though, get used to it after a few times of and experimenting and you will be pretty good"
-2013-09-14,218620,True,Great game guys
-2012-03-24,7520,True,well this game has really good classes on network and good modes to
-2014-04-30,233450,True,I LOVE IT!!!!!!!!!!!!!!!!!!!11
-2015-08-11,346900,True,GREAT BANTER
-2012-11-17,212680,True,it's a really fun stratigy based game
+posted,item_id,recommend,sentiment_analysis
+2012-12-23,49520,True,2
+2014-05-05,293010,True,1
+2015-02-28,730,True,2
+2014-08-03,304930,True,2
+2014-01-31,48700,True,2
+2013-09-14,218620,True,2
+2012-03-24,7520,True,2
+2014-04-30,233450,True,2
+2015-08-11,346900,True,2
+2012-11-17,212680,True,1

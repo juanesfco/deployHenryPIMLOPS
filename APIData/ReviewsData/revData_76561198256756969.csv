@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-04,302510,True,"Awesome, one of the best games i have ever bought!10/10"
-2016-01-03,33930,True,Fun game
-2015-12-27,274940,True,Awesome game 10/10
-2015-12-15,243870,False,"Would not recommend this game at all, as a lot of people have said you have to pay to get good and basically play, and the game is basically dead.3/10"
-2015-12-11,413850,True,Nice
-2015-11-25,730,True,Better then Call of Duty
+posted,item_id,recommend,sentiment_analysis
+2016-01-04,302510,True,2
+2016-01-03,33930,True,1
+2015-12-27,274940,True,2
+2015-12-15,243870,False,1
+2015-12-11,413850,True,2
+2015-11-25,730,True,2

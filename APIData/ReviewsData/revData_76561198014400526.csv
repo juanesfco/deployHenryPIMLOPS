@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-08,258200,True,"It's a great way to learn how to play Talisman whilst the 1-4 player Digital Edition is being finished, the only problem I have is it's single player"
-2015-12-30,224060,True,You know you want it!!!
-2015-01-25,48240,True,"There is only one problem with this game, the 3 machine limit and randomly de registering of my pc.There are people complaing about UPlay being the cause of the 3 activation limit, it's not. This game has 3 count it 3 levels of DRM1. TAGES (3 machine activation limit)2. UPlay (Ubisoft trying to be Steam)3. Steam (unless you get it on disk or through UPlay)"
-2014-10-08,241930,True,"There is one problem with it, if you don't have a TITAN or TITAN Black it will lag the ♥♥♥♥ out"
+posted,item_id,recommend,sentiment_analysis
+2013-12-08,258200,True,2
+2015-12-30,224060,True,1
+2015-01-25,48240,True,0
+2014-10-08,241930,True,0

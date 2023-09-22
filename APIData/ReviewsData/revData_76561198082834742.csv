@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-28,13510,False,dont buy it. it is not whort 20$$
-2015-08-13,218620,True,i like this game a lot but now it whont let me play because the engine stop working!!!!
-2014-12-17,24960,True,i love this game but i wont to do multplayer but no work
+posted,item_id,recommend,sentiment_analysis
+2014-09-28,13510,False,1
+2015-08-13,218620,True,0
+2014-12-17,24960,True,1

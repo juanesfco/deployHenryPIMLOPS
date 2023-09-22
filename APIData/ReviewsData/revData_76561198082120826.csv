@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-06-28,218620,True,Uau
-2016-05-29,304930,True,Muito Bom!
-2016-05-28,295110,True,Muito Bom!
-2016-05-28,265930,True,Muito Bom!
-2016-05-28,4000,True,Muito Bom!
-2016-05-28,730,True,Muito Bom!
-2016-05-28,204360,True,Muito Bom!
-2016-05-28,291550,True,Muito Bom
+posted,item_id,recommend,sentiment_analysis
+2016-06-28,218620,True,1
+2016-05-29,304930,True,2
+2016-05-28,295110,True,2
+2016-05-28,265930,True,2
+2016-05-28,4000,True,2
+2016-05-28,730,True,2
+2016-05-28,204360,True,2
+2016-05-28,291550,True,2

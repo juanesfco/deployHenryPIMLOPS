@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-02-07,314230,True,"Alright. Welp, i've owned rodina long enough, i guess it's time to give my review on it.1. babies2.  that are robots3.   are in the game4.    good graphics5.     good graphics5.      good graphics6.       babies6A.      babies7.         you get to fly a lump of ♥♥♥♥ that controls like a lump of ♥♥♥♥Eurogamer 5/7 - great IGN 7/9 - sample textThe Onion 9/11 - its ♥♥♥♥ Boston Dynamics 11/9 - :["
-2016-08-15,275850,True,"I like space games, and i like playing a game that doesnt end in 6 hours for $80."
-2016-06-17,99900,True,im being asked to write a review for this game like i've played it before
-2016-04-30,220,True,"'HAlF liFE 2 Is a aRAREVLLOTUNFIRy game in teh DELVOEPEN era of video ga,e'shut up okaycool cooli mean, i know half life 2 was like really cool for it's time, but that's not 99/100% what HL2's known for jesusi really like the part where barney sends his regards through dog's direct xbox 2002 live 12kbit microphone and you have to travel back in time to rescue alec mason from mars and traverse hyrule in an attempt to find the gameboy 2: the awekekning sequal teaser trailer reaction [SO INSAME!!!$$$] - Danny Devito Reacts episode #3467"
-2016-04-30,377160,True,this game is great because you can experience traumatizing cronic depression and suicidal thoughts in both real life and the gamei really want to kill myself now thanks to that black ♥♥♥♥er telling me some ♥♥♥♥♥♥ african village i have to take care of is being raided by 2 homeless bums and a group of bad hulk cosplayers
-2015-10-16,6060,True,"Sick game, you can kill your teammates wether or not they want itsadly multiplayer on gameSpy servers don`t work without third-party programs"
+posted,item_id,recommend,sentiment_analysis
+2016-02-07,314230,True,2
+2016-08-15,275850,True,0
+2016-06-17,99900,True,0
+2016-04-30,220,True,1
+2016-04-30,377160,True,1
+2015-10-16,6060,True,0

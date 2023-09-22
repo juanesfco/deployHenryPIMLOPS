@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-04-20,219740,True,게임이 매우 좋습니다.하지만 갈수록 어려워 지네요.
-2014-10-03,301520,True,"Okay, you had really good job on balance."
-2014-05-28,105600,True,굉장한 게임이네요! 브라보!
-2014-02-24,7670,True,This game is fu*king amazing!I loved it!
-2014-02-20,4000,True,정말 최고에요!
+posted,item_id,recommend,sentiment_analysis
+2014-04-20,219740,True,2
+2014-10-03,301520,True,2
+2014-05-28,105600,True,0
+2014-02-24,7670,True,2
+2014-02-20,4000,True,2

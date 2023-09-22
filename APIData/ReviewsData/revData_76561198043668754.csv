@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-09-03,304930,True,"Muy Bueno, necesita algunas mejoras pero muy pocas realmente es casi perfecto 8/10"
+posted,item_id,recommend,sentiment_analysis
+2014-09-03,304930,True,2

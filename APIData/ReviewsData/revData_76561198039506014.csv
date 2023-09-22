@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-26,233250,False,No.
-2014-12-19,311340,True,They snuck a snuke up her snizz!11/10 it's okay
-2015-12-01,225540,False,"Updated drivers, all settings on low, lowest resolution possible...Buttery smooth 1fps.I got a more stable framerate from Arkham Knight for crying out loud and that game was a disaster.0/10 do not pass go do not collect $200"
-2014-06-29,244850,False,>Can't put machine guns on rotors to make them shoot/spin faster
+posted,item_id,recommend,sentiment_analysis
+2014-12-26,233250,False,1
+2014-12-19,311340,True,2
+2015-12-01,225540,False,1
+2014-06-29,244850,False,1

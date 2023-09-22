@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-02-15,1840,True,"Source Filmmaker is a great animation program for everything. Not only is it a easy program to use, it is based of Team Fortress 2. so you can simply play normally, and create movies. The Source Filmmaker allows much more than other animation program in my opinion. It is very fun to use with camera detection, and to make anything you want. Based on anything, anywhere."
-2014-08-08,105600,True,It's a very nice game! I recommend it for all of your 2D Gamers!t- 9/10
-2014-11-20,332800,True,"Five nights at Freddy's 2 is an amazing concept, with much more questions. But also, this game is more mind blowing than anything you have ever played. It's not just a horror game, it's a story!"
-2014-08-22,319510,True,One of the best horror games yet. Possibly made better with multiplayer or even more secret settingsGuys... My body is Freddy. Literally
-2015-03-17,354140,True,"'The most scariest game, I've ever played' - MarkiplierGuys, this game has such a great backstory behind it! It is to bad it has to end so soon, but as always.#MyBodyIsFreddy...Literally"
+posted,item_id,recommend,sentiment_analysis
+2015-02-15,1840,True,2
+2014-08-08,105600,True,2
+2014-11-20,332800,True,2
+2014-08-22,319510,True,2
+2015-03-17,354140,True,1

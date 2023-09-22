@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-06-23,50300,True,"I bought this game specifically because it wasn't the usual shooter like COD or Battlefield, it's gameplay is sufficient for it's task and is as enjoyable as 'realistic' shooters can be. The story is phenomenal and really makes the case for it's accolades, Yahtzee was right, it's one for the history books and it's a game I will remember for a long time. You feel guilty and bad for the things you do, you get involved emotionally and it's the most realistic portrayal of the horrors of war. This game is excellent."
-2013-11-26,236850,True,"Amazing game, very complex but excellent and unintrusive help and tips make playing much easier. Great music, visuals are nice, but graphics isn't what you're after. Excellent replayability and great variation between nations. 5 stars."
-2014-08-29,222750,True,Very tough game with steep learning curve but addictive.
-2014-06-27,242860,True,"Great shooter, lots of fun and has improved massively since I got it."
-2014-05-23,245470,True,Turned America into a Socialist Atheist utopia. 10/10
-2013-11-26,212680,True,"Excellent game, have spend more hours than I thought possible on it. Great replayability and nice feel and music, very addicitive. 5 stars."
+posted,item_id,recommend,sentiment_analysis
+2014-06-23,50300,True,1
+2013-11-26,236850,True,2
+2014-08-29,222750,True,0
+2014-06-27,242860,True,2
+2014-05-23,245470,True,1
+2013-11-26,212680,True,2

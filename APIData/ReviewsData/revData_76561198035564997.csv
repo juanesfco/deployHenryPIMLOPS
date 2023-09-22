@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-09-11,346110,False,Great game. Developers have no morals.Buy it but feel guilty.
-2016-05-28,227860,True,"Overall a decent game. There are a lot of things to love about this game. I love the feeling of building up my defenses just waiting for the enemies to attack. The physicals are fun and entertaining and they make building an interesting task. The lighting really shines and provides a smooth gloss over the landscape that make it glow. This game isn't without issues, my beast pc struggles to get a decent framerate and the AI certainly takes its time to get things done. Due to the delay it becomes a chore to micromanage your workers. Definately a fun game to pass some time.  "
-2015-11-25,303390,True,Worth $1. A good laugh. Take it lightly.
-2015-11-25,239820,False, A well designed game but the game mechanics get old very very quickly.
+posted,item_id,recommend,sentiment_analysis
+2016-09-11,346110,False,1
+2016-05-28,227860,True,2
+2015-11-25,303390,True,2
+2015-11-25,239820,False,1

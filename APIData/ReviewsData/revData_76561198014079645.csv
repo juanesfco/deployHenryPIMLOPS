@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-03-30,48700,True,"Lots of fun! Find yourself a regiment and sign on up with them and this game will change the way you think about teamwork, friendship and tactical warfare, good memories."
-2015-03-30,252490,False,Needs a hell of a lot of work.
-2015-03-30,110800,True,Excellent is all I have.
-2015-03-30,218620,True,"Great fun if you have a crew to roll with, the public games aren't worth the effort if you want to have a high degree of success or play competitively against the onslaughts of A.I on the harder modes, other wise a worthwhile buy if you'd just like something to pass the time and don't care too much what happens, it's just a game after all bro, loaded with Pay to win DLC."
-2015-03-30,107410,False,"Disappointing compared to Arma 2, yet to blossom."
-2015-03-30,203140,True,"A good game that unfortunately over complicates the Hitman series with Hollywood like storylines and empty, meaningless characters, took  a lot out of what made hitman, hitman. A good play if you ignore the cheesy crap that is injected into it to appease the masses."
-2015-03-30,6860,True,"The best Hitman game ever made, as of Q1 2015."
-2015-03-30,220200,True,Fun and innovative!
-2015-03-30,219640,True,"Highly recommended, unlike any other game out there, expect maybe mount and blade but this game is fast paced, addictive and has a flavour and humour that is all its own, not for the novice or impatient.Highly competitve but also relaxed, changes server to server."
+posted,item_id,recommend,sentiment_analysis
+2015-03-30,48700,True,2
+2015-03-30,252490,False,1
+2015-03-30,110800,True,2
+2015-03-30,218620,True,2
+2015-03-30,107410,False,0
+2015-03-30,203140,True,0
+2015-03-30,6860,True,2
+2015-03-30,220200,True,2
+2015-03-30,219640,True,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-19,42910,True,"Simplesmente desafiador no single-player e divertido no coop, magicka junta estrategia e uma enorme quantidade de combinações de 8 elementos que podem fazer qualquer tipo de magia se tornando um dos melhores jogos para se divertir ou para se irritar, ele força você a jogar coop... por causa de seu AUTO INDICE de dificuldade e tambem não ha como modificar a dificuldade do jogo se tornando um jogo complicado por isso. exeto pela dificuldade extrema no single player (que so adiciona não retira nada do jogo) eu dou a nota 9/10 .RECOMENDO!"
-2015-07-23,363970,True,Esse jogo foi criado para as empresas que produzem mauses faturarem!
-2015-06-21,301520,True,"Esse jogo é simplesmente incrivel, onde sua criativade é a sua maior arma onde você pode criar um robo de batalha como quiser e ir ao campo de batalha."
+posted,item_id,recommend,sentiment_analysis
+2015-06-19,42910,True,1
+2015-07-23,363970,True,0
+2015-06-21,301520,True,2

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2014-09-03,200210,True,10/10 - ign0/10 - everyone else
-2014-08-19,620,True,its like minecraft with portals 10/10 - ign
-2014-08-16,211820,True,"Honestly, i don't see why everyone hates this game. It's great, has tons of content, and the only thing i really think it lacks right now is 'classes', like what terraria has. Sure, it may not of been updated for a while. But nightlies are kind of like updates, so there's honestly no reason to hate this. Starbound has a few things it could improve on, like monster generation and terrain generation, but other than that it's near perfect. I'd rate starbound 8.5/10"
-2014-05-09,570,False,"Back when i used to play this, it pulled me in. It was hard, and i hated it. But i thought to myself 'One day i'm going to get good at this.'30ish hours in, with 48 hours of research and homework on how to be good, and i still sucked.Horrible game, russians everywhere, don't bother."
-2014-05-09,42910,False,Typical 8 hour singleplayer.
-2015-05-30,219640,False,"Chances are, if you're reading this, Chivalry is not the game for you. It's your typical first person swordfighting game, but it has a massive, MASSIVE learning curve.I'd never recommend this game until it becomes an actual fighting game instead of a blocking simulation."
-2014-07-06,550,False,killing floor is betternuff said
-2014-05-09,99900,False,"Play game, get TF2 hat, craft TF2 hat into another TF2 hat.Delete game afterwards."
-2014-05-09,240,True,"It was good for it's time, nowadays it's just hard and has bad graphics."
-2014-09-26,218620,True,Overkill removed microtransactions.
+posted,item_id,recommend,sentiment_analysis
+2014-09-03,200210,True,1
+2014-08-19,620,True,1
+2014-08-16,211820,True,2
+2014-05-09,570,False,1
+2014-05-09,42910,False,0
+2015-05-30,219640,False,0
+2014-07-06,550,False,1
+2014-05-09,99900,False,0
+2014-05-09,240,True,1
+2014-09-26,218620,True,1

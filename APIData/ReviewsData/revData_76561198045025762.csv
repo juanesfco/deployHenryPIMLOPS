@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-07-08,730,True,"Game's good, but it has a cancerous community tbh."
-2016-01-25,4000,True,"This game is good, but there's too much DarkRP to be honest."
-2016-07-04,271590,True,"The top notch game i always play!, when i have spare time. :P"
-2016-01-23,387990,True,"It's like Garry's Mod, But more creative."
-2016-01-29,440,True,Best F2P Ever!!!
-2016-01-25,433340,True,Everything's so cute! :3
+posted,item_id,recommend,sentiment_analysis
+2016-07-08,730,True,2
+2016-01-25,4000,True,2
+2016-07-04,271590,True,2
+2016-01-23,387990,True,2
+2016-01-29,440,True,2
+2016-01-25,433340,True,2

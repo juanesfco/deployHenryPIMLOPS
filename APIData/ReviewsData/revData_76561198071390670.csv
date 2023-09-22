@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-08-23,71390,True,Unfortunately this is the only tennis game on steam but its pretty good. The world tour is fun but can get a bit repetitive at times.
-2014-08-23,8930,True,As a person who normally doesn't like strategy games this game was fantastic! Simple to play but really hard to master. Everything looks and feels very nice but the multiplayer could be better with the freezing but is fun with friends if it run smoothly
-2013-12-05,8190,True,Awesome game! A must-buy as it is really cheap now. It's like Malaysian GTA with the great grapple hook and parachute combo and the whole point of this game is to blow everything up! It's like a interactive action movie!
-2013-05-11,227300,True,Good!
-2014-08-23,210990,True,The managing aspect of the game is boring and doesn't make sense. The 3D races are enjoyable but I wish we could get something like the console version of the game ported to the PC.
-2013-12-05,218620,True,Really fun multiplayer game! Well optimized and takes the best parts from the first game with now RPG elements. Only get this game if you have friends to play with because the bots are awfully useless. The game feels rushed with the levels (e.g. no 7 day heist) and the lack of safehouse customization. The game is great though!
+posted,item_id,recommend,sentiment_analysis
+2014-08-23,71390,True,1
+2014-08-23,8930,True,2
+2013-12-05,8190,True,2
+2013-05-11,227300,True,2
+2014-08-23,210990,True,0
+2013-12-05,218620,True,1

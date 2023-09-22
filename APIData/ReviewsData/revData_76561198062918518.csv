@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-01,204300,True,"Great game, fun to play, simple yet complex. Casual yet very competitive would definitely recommend to all"
-2013-12-29,233720,True,This game is difficult to control but that just makes for so many hilarious moments
+posted,item_id,recommend,sentiment_analysis
+2014-08-01,204300,True,1
+2013-12-29,233720,True,1

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-04-05,291480,True,"Almost like CoD but you don't have to listen to speakers saying how they ♥♥♥♥ed your mom, plus it's not, NOT, a Pay To Win. 9.5/10"
-2016-02-09,271590,True,"Of all the things needed in life, this is a need."
-2015-06-13,220240,True,One of those games where I like single player more than multiplyer. 10/10
-2015-06-13,113400,False,"I used to recomend this game, but after 6+ years of playing it there has been so little change that i can longer recomend it. Maybe after the fabled engine update comes out (whenver the hell that'll be) that might change. But with the ownership of the game currently under the money milking copany G1, nothing will happen. There hasn't been any change in 6+ years, the haker problem is getting worse, half the weapons are unbalanced, and there are many more issues that make this game hard to enjoy, even with all of the potential it had"
+posted,item_id,recommend,sentiment_analysis
+2016-04-05,291480,True,2
+2016-02-09,271590,True,1
+2015-06-13,220240,True,2
+2015-06-13,113400,False,1

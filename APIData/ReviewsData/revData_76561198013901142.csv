@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-11-13,331900,True,AMERICA! FU(K YEAH! COMIN' AFIELD TO SAVE THE MOTHERFU(KIN DAY YEAH!
-2015-04-04,291480,False,I would rather shoot myself in the foot and poke the hole with a red hot poker while searing my scrotum in a frypan than ever play this game again. I would reccomend drinking bleach before playing so it ends quickly.
-2015-04-03,242720,False,"seems like it could be fun, but its dead: 56 players online GLOBALLY"
-2015-04-02,265630,True,"the peacemaker is op guys, use it"
-2015-03-14,203140,True,"hold y simulator 2012in all seriousness, it was fun and i got it on humble bundle for $1 so i really cant complain."
-2015-02-03,17410,True,"Very good, but quite short"
+posted,item_id,recommend,sentiment_analysis
+2014-11-13,331900,True,1
+2015-04-04,291480,False,1
+2015-04-03,242720,False,1
+2015-04-02,265630,True,1
+2015-03-14,203140,True,1
+2015-02-03,17410,True,2

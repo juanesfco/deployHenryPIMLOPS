@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-04-24,236150,True,"This game is coming along great!! Really can'rt wait to see how it goes!The only issue I have with it is the controls, too many different modes to switch through while trying to do something, becomes confusing.The way freelancer had it setup was perfect, don't try to re-invent the wheel. :)"
-2015-09-02,234140,True,Aussie bloke simulator 2015
-2014-04-14,6910,True,"By far the best game of its time.Completely changed the way I view games even today and has given me such high expectations of them.That's right, this game makes all others feel so rushed, play this and game like Call of Duty (any of the 300+ titles), Battle Field, Gears of War, ect ect; They just feel like rushed crap.After you've played it you just expect more depth, more intelligence, more substance for all the new AAA games, you'll soon realize that all you're getting is polished graffiks, amazing lighting effects and fish with AI..."
-2014-04-14,270850,True,"This is farrrrrr from a 'Simulator', it's more of a puzzle game.Find the fault based on a what the game tells you.Is it bad? No, just don't expect to be doing any actual work on cars, it's all 'remove and replace'.My advice would be to wait for a discount before buying it."
+posted,item_id,recommend,sentiment_analysis
+2014-04-24,236150,True,2
+2015-09-02,234140,True,1
+2014-04-14,6910,True,2
+2014-04-14,270850,True,0

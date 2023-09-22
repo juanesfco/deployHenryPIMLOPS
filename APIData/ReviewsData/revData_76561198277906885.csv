@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2016-07-04,248610,True,"Door Kickers is one of those pleasant surprises that comes every now and then.This is essentially a Top Down SWAT Team Simulator that is extremely Tactical.How would I describe Door Kickers ?This game reminds me of  releases such as Rainbow Six, SWAT or Takedown Red Sabre.This is a slow and methodical game as it will brutally punish you if you make a mistake. Thought and precise movements must be taken into account if you wish for all of your squad mates to survive the incursion."
-2016-07-02,369200,True,Like a poor mans COD.    :)11/10 Is better than COD.
-2016-06-04,55230,True,Very enjoyable and crude humor. I like taking it suriously like a GTA game.
-2016-05-15,238090,True,i would highly recommend this game.
-2016-01-31,236510,False,"I think it had a lot of potential, however the devs didnt quite make it. Instead the tried to make a rainbow six siege/SWAT game. Not to mention its a dead game, no servers, no players and no support. If its on sale for $1.00 i would pick it up, if not stay away."
+posted,item_id,recommend,sentiment_analysis
+2016-07-04,248610,True,1
+2016-07-02,369200,True,2
+2016-06-04,55230,True,0
+2016-05-15,238090,True,0
+2016-01-31,236510,False,0

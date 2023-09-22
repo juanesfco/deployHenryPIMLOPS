@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-01-23,4000,True,estaba gabe newell y despues esto <3
-2014-03-14,730,True,"quiza no tenga dinero para comprarlo, pero cuando lo dieron gratis por unos dias lo probe y tengo que decir que me impresiono :D"
-2016-04-22,252950,False,"Decepcionado con la ultima actualizacion, si bien el modo de juego nuevo es muy divertido, el sistema de cajas tan famoso y que tanto temia llego..."
-2015-11-01,304050,True,la wa rica
-2015-11-01,253710,True,ezta wa ta nitida elmanito 10000/10-IGN
-2014-02-26,208090,True,no por que me gusto muchisimo asique no me gusto porque es re bueno
-2014-01-05,550,True,ES WPEFJONWEF'+F Q'oif3w´0fjwf03wjg0wjfew´0frjwe0cvkje0vnw 0jfw 0fjw'fjwaw'djw' fjw'fjw'jfsejgnaw0ejfs0efjs0ejfses0fjsfn0n IS GOOD :DDDDDDD
+posted,item_id,recommend,sentiment_analysis
+2016-01-23,4000,True,2
+2014-03-14,730,True,2
+2016-04-22,252950,False,1
+2015-11-01,304050,True,2
+2015-11-01,253710,True,1
+2014-02-26,208090,True,2
+2014-01-05,550,True,2

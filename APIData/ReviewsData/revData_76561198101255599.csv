@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-10-10,243870,True,this is a pay to win agme but can still be fun even if you dont pay it just can get boring quick without those horrible purchases but i recommend this to anyone who has money spare and wants a different third person shooter experience to the others out there
-2014-08-02,218620,True,you know what it is you should get it dont critisise its awesome
-2013-12-13,51100,True,fun free fps shooter with a mode where u can drive in cars in car chaseits pretty damn coolyeahfartfbdfk
-2014-06-21,238460,True,"HILARIOUS comedy FANTASTIC gameplay its one of the FUNNIEST,  FUN AND FRIENDLY (sarcastic) games ive played in a long time definetly recommend it to everyone who wants a GOOD LAUGH and some real FUN WITH FRIENDS"
-2014-08-20,315640,False,this game is terrible full of hackers bad graphics and not worth your time DO NOT DOWNLOAD
-2015-10-30,401920,True,10/10 theres nothing ther spent 6 bucks for nothing would play again
+posted,item_id,recommend,sentiment_analysis
+2014-10-10,243870,True,1
+2014-08-02,218620,True,2
+2013-12-13,51100,True,2
+2014-06-21,238460,True,2
+2014-08-20,315640,False,0
+2015-10-30,401920,True,1

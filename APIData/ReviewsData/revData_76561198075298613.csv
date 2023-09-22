@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-20,550,True,Excelente Jogo !
-2014-02-10,12210,True,Good Game !
-2013-12-27,730,True,"Excelente , Recomendado !!"
-2013-10-19,208480,True,Game  Excelente !!
-2013-09-01,570,True,Best Game !
+posted,item_id,recommend,sentiment_analysis
+2015-11-20,550,True,2
+2014-02-10,12210,True,1
+2013-12-27,730,True,2
+2013-10-19,208480,True,0
+2013-09-01,570,True,2

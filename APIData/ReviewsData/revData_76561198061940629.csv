@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-03-21,214950,True,"Amazing game, with amazing battlefield graphics. Its the turn based game you would dream off. Though there is quite alot of DLC that should of been made originaly in the base game."
-2014-06-30,231430,True,Great Fast Past Strat game.8/10Needs more base units in the game I believe.Should get atleast 1 item per Multiplayer game!
-2014-05-01,236390,True,"Great MMO, get this game if you love war, because it is what you'll get!"
-2015-06-12,10500,True,"A truly amazing game. I would rate it around 7/10 with no mods. If you include whole game conversion mods like Darthmod it is 9/10 rating. You could go hours on end of playing this, just going through Europe, America or India."
-2014-03-21,105600,True,Great 2D game. Alot like minecraft and games like that!
-2014-03-21,4000,True,"Great Game, alot of weird and kooky machines and gamemodes. But one of the most fun and exciting games ever."
-2014-03-21,440,True,"Its an amazing step forward in free MMO gaming. There are plenty of different game modes to keep you occupied also there are many different mods that can be installed, Tf2 also has a lucrative trading based system were profits are farely good. If i could give it a rating it would by 8/10"
+posted,item_id,recommend,sentiment_analysis
+2014-03-21,214950,True,0
+2014-06-30,231430,True,1
+2014-05-01,236390,True,2
+2015-06-12,10500,True,1
+2014-03-21,105600,True,2
+2014-03-21,4000,True,2
+2014-03-21,440,True,2

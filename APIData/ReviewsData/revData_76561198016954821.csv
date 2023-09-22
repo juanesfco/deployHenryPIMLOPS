@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-07,265550,False,"unplayable lagging~~~ I really want to play, but it can't play at all"
-2015-10-21,306670,False,A big disappointment
+posted,item_id,recommend,sentiment_analysis
+2014-09-07,265550,False,1
+2015-10-21,306670,False,0

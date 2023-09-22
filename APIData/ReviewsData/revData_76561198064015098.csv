@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-12-29,232810,False,"When I got this game, it looked as though it would be very fun, but as I started playing it, I found that it was quite boring, and the gameplay consisted of clicking people so they didn't die. At $20.00 I thought that this was a riduculous price for the game, which in all honesty, should really be a tablet game, the way you play it is just not good for a PC."
-2015-06-13,280220,True,"'Nearing the end of a mission, I look at the way I have networked my collectors across the map, and how I have inched my way from one edge to the other, covering everything in my wake, destroying the creeper in my way, and I realise, the creeper and I, we aren't so different' - An00bisThis statement bares true for both the flash games and the new paid game, the core gameplay hasn't changed, it didn't need to, yet more features have been added to enhance the overall experience. I strongly reccomend it, if you're unsure, you should try one the initial flash games before deciding."
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,232810,False,0
+2015-06-13,280220,True,1

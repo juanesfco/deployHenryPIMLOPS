@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-08-05,304930,True,"O jogo te guia e te força a sobreviver de diversas maneiras, o jogo tem diversos recursos para um 'Beta', esse game tem bastante potencial e pode se tornar um sucesso ainda maior.A gameplay com os amigos é dinâmica e divertida, muito recomendavel para co-op."
-2014-03-06,208090,True,♥♥♥♥ BAGARAI tudo que um game precisa = SANGUE MORTE E DESTRUIÇAO
-2014-02-12,200210,True,Um otimo game para quem quer apenas se divertir !
+posted,item_id,recommend,sentiment_analysis
+2014-08-05,304930,True,0
+2014-03-06,208090,True,0
+2014-02-12,200210,True,0

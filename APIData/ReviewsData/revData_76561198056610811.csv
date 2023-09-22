@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-18,218620,False,Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame Shame
-2016-07-03,8870,True,"Fun gameplay, great story, stunning visuals; All the signs of a great Bioshock game, and a much more worthy sequal to the original than 2 will ever be. On the topic of Rapture, the DLCs feel fleshed out and fun enough to warrent paying, and depending on your taste Clash in the Clouds, a wave based survival add-on, may not be for you."
-2012-03-10,440,True,Don't hate me buutt... I like the new update. We have all these items but no way to look at their sexyness? Inspect button.The stattraks are mainly a physical representation of some strange counters.The deteriation differneces? Oh. ♥♥♥♥ this.
+posted,item_id,recommend,sentiment_analysis
+2015-10-18,218620,False,1
+2016-07-03,8870,True,2
+2012-03-10,440,True,0

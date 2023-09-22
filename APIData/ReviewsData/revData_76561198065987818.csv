@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-07-01,218230,True,Too high computer requirements.My computer caught fire a total of 2 times from this.1 of those was from spilt coffee which just breaks the laws of physics.Coffee is wet. Computer is not on fire.Coffee + Computer = Computer is on fire.What kind of game melts your pc while maintaining a constant 5 fps during large scale battles (the whole time)Planetside 2 is the kind of game.8/10 would play on Thanksgiving and Passover.
-2013-12-30,4000,True,Its fun and made of Gelatin.
-2014-03-15,730,True,I recommend this game to all puzzle enthusiasts outthere. It is one of the most complex yet simple puzzle games out there today. Its completely revitalises the core mechanics of the bejewelled franchise. The genius of this game is unrivalled by other companys. I thank you EA for bringing us another classic.I give this game a 6/9 gems.
-2014-12-23,318530,True,This game gave me a reason to not go outside and see the sun 10/10.
-2014-01-01,230410,True,It was fun but hard to run.
+posted,item_id,recommend,sentiment_analysis
+2014-07-01,218230,True,2
+2013-12-30,4000,True,2
+2014-03-15,730,True,0
+2014-12-23,318530,True,0
+2014-01-01,230410,True,1

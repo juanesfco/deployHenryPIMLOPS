@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-06-24,243870,True,"Great game, although there are limited Australian servers meaning the game laggs alot. "
-2014-04-16,209870,True,I have troubles playing the game. it says patching and when it is done nothing happens. 
-2014-02-08,208090,True,This is a AWESOME game! Everyone MUST try it !
-2013-11-27,440,True,this is a great game for teens 
+posted,item_id,recommend,sentiment_analysis
+2014-06-24,243870,True,1
+2014-04-16,209870,True,0
+2014-02-08,208090,True,2
+2013-11-27,440,True,2

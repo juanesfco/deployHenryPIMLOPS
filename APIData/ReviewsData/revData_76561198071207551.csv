@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-10,440,True,It is awsome but i wish they would cut down the prices
-2015-07-17,105600,True,"better than minecraft any day of the week, higly addictive and lots of fun! 10/10.....oh and also the boss fights are sick!"
-2015-10-03,264200,True,"A fun an colourful arcade game which u can play anytime, very challenging and made me try and get all the achievements 8/10"
-2015-09-28,42680,True,"One of the classics, with thrilling multiplayer, an exciting and interseting story with unique characters. Gameplay feels and plays great and looks great too 8.5/10    WHY SOOOOOOAP!!!!!!!!! WHY!!!!!!!!!!!!"
-2015-05-28,354140,True,"From the first game to the last. The Fnaf series has been an amazing horror, story driven indie games. Fnaf3 is packed full of challenges and hidden secretes, but this does not take away from the story or corrupt it. i like the feature of the devices failing and the hallucinations are awesome! People think these games are a one scare game you buy and leave, but it isn't because of fascinating story about the children murders and the fun and unique game devices. i rate the new installment 9,5/10. I only wish that sometimes your deaths are cheated.      CANT WAIT FOR FNAF4!"
-2014-06-28,4000,True,RTHG
-2013-12-21,218230,True,"i love it, it as action science fiction and aliens.  :)"
+posted,item_id,recommend,sentiment_analysis
+2013-12-10,440,True,0
+2015-07-17,105600,True,1
+2015-10-03,264200,True,2
+2015-09-28,42680,True,2
+2015-05-28,354140,True,2
+2014-06-28,4000,True,1
+2013-12-21,218230,True,2

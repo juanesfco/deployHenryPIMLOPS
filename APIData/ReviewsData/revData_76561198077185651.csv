@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-12-25,248820,True,excellent! got 50 hours out this mother f*cker9/10 slightly buggy
-2016-01-22,270270,False,When i saw this i thought it looked really damn awesome and i was reallly looking forward to it. i patiently waiting for it to download and install. and then when it was finally finished i launched the game. it sat on a white screen for about half an hour and it is still on that white screen whenever i launch the game. please help me. i want to play but i cant.
-2016-01-10,263360,True,When i saw this game i thought it would be very fun but i was pleasantly surprised and now i cant really seem to get enough of it. i really do enjoy it. i am very happy with this reasonably cheap purchase.
-2014-12-25,289130,True,the ♥♥♥♥er doesnt work11/10
-2014-01-17,261820,True,its extremely intense for a begining horror fan like me but all in all a good game 3.5/5
-2013-04-14,440,True,EPIC GAME FANTASY
+posted,item_id,recommend,sentiment_analysis
+2014-12-25,248820,True,2
+2016-01-22,270270,False,1
+2016-01-10,263360,True,2
+2014-12-25,289130,True,1
+2014-01-17,261820,True,2
+2013-04-14,440,True,0

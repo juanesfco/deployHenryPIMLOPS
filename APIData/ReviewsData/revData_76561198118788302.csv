@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-11-01,221100,False,'Friendly in Che..... 'Session lost'
-2015-05-09,730,True,I killed a chicken in deathmatch and got a point for it 10/10
-2016-03-10,437220,True,-Extremely fun-Looks great-Hilarious commentator - Fast rounds you can just jump into whenever you want-Team games-Intense combat-Pretty well balanced-You can throw ♥♥♥♥ING CHAINSAWS at people- Only had one bug so far- 10/10 Best battle royale game ever would cull again
-2015-11-01,252490,True,Express your inner homosexuality
-2015-11-01,107410,True,'The instruction at 0x010a7e1b referenced memory at 0x00000004. The memory could not be written.'
+posted,item_id,recommend,sentiment_analysis
+2015-11-01,221100,False,2
+2015-05-09,730,True,0
+2016-03-10,437220,True,2
+2015-11-01,252490,True,1
+2015-11-01,107410,True,1

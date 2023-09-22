@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-05-19,730,True,It was competitive on inferno and i defused and noscoped a chicken 10/10
-2015-08-23,267940,False,It's ♥♥♥♥ don't buy it ever you'll die of AIDS when you install it.
-2016-01-02,72850,True,"After beating the game many many many times I finally decided to buy it and it was still exciting. There were always new places I discovered. This is a game of wonder and exploration. The main quest line is kind of boring but the side-quests make up for it completely. I cannot recommend it enough. Buy the DLCs, download the mods and enjoy as you get sucked in this immersive world. The game has some glitches here and there but nothing unmanageable. I would rate this game a solid 8.5/10. I love it."
-2014-07-16,440,True,this game ruined me. 11/9
+posted,item_id,recommend,sentiment_analysis
+2015-05-19,730,True,0
+2015-08-23,267940,False,1
+2016-01-02,72850,True,1
+2014-07-16,440,True,0

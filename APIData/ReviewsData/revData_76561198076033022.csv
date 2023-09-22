@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-05-29,218230,True,"Awesome game, great life waster. Best one so far"
-2014-06-21,220240,True,"Still amazing graphically in 2014, recommend getting"
-2014-05-29,271290,True,"Well... This game needs virtually like a 30 second tutorial for everything. Not a series of them. Kind of good, still try out just in case you like it. Although I wouldn't bet on it"
-2014-05-29,224260,False,"Seems like it will be fun to start off with, and then you start playing and realise all the lies you were told. Graphics are basic, movement animations are basic, only thing not basic is the menu which looks better than game."
-2014-05-29,440,True,"Good game until you get any other kind of game. To sum up, good if it's all you have."
+posted,item_id,recommend,sentiment_analysis
+2014-05-29,218230,True,2
+2014-06-21,220240,True,2
+2014-05-29,271290,True,2
+2014-05-29,224260,False,1
+2014-05-29,440,True,2

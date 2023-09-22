@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-01-21,322330,True,"I joined a server as Willow without knowing it was some weird, gay Wilson orgy. They kicked me for being the only woman there.I burnt down their base.10/10 would fight for feminism again."
-2015-02-19,242920,True,Banished is the only game that has managed to make me shout at the top of my lungs 'WHY AREN'T THEY ♥♥♥♥ING??????'10/10 Would make my family concerned for my well being again.
-2015-01-19,214931,True,Elizabeth's boob size is bigger then in Bioshock Infinite10/10 would measure Elizabeth's boobs again
-2015-01-19,220,True,"I killed a zombie, then picked up the dead zombie and threw him at his zombies friends.10/10 would traumatise zombie friends again"
-2015-10-02,8870,True,"BOOKER, _____!If you filled in the blank with the right answer then this game is for you."
-2015-06-19,730,True,"Whenever I win the round for my team I get nothing, not even a well done, but the moment I make a one bad call, miss a shot or get killed from behind I'm showered in waves and waves of hate from other players and my team threatens to kick me.10/10 great community"
-2015-08-23,380,True,"Probably the weakest Half Life Episode, but still a fun game. It picks up right after the ending to Half Life 2, and that's all I'll say without spoiling too much. The story is definately the main thing that keeps you going in this. The gameplay is very repetitive with not much variety. It was pretty much like 'Go into a new area. Clear out area. Repeat.' The game is very short, but I consider that to be a good thing considering that if the game was longer than 5 hours most people would became extremely bored with it quickly with all the repeated gameplay. However, if you loved Half Life 2 you will most likely love this next episode despite all the cons."
+posted,item_id,recommend,sentiment_analysis
+2015-01-21,322330,True,1
+2015-02-19,242920,True,1
+2015-01-19,214931,True,1
+2015-01-19,220,True,0
+2015-10-02,8870,True,1
+2015-06-19,730,True,0
+2015-08-23,380,True,1

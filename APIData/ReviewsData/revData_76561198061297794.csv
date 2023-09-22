@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-12-10,730,False,"CS:GO has the potential to be a great game. But that potential is squandered by developers that introduce changes based on their whims and iterate on those aimless changes based on statistics from the least skillful players. The core gameplay mechanics have been trending in the wrong direction for some time, and the most recent update is the proverbial straw that broke the camel's back. It's remarkable and disappointing that the current stewards of this franchise don't understand/appreciate/care what makes it special in the first place."
+posted,item_id,recommend,sentiment_analysis
+2015-12-10,730,False,1

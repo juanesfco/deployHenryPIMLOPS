@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-01-20,252950,True,Really fun on multiplayer!Make it even more fun by playing with friends!
-2015-12-06,4000,True,"One of the most fun games of all time! If you ever get bored in this game you can go to the workshop and easily download a weapon, a horror map , etc to play. If dont have this game already, buy it, you will have a lot of fun :)"
-2015-04-13,209160,True,"i love COD Ghosts. Buy it, its worth it"
-2015-11-13,730,False,Stop looking for bad reviews and buy it already!
+posted,item_id,recommend,sentiment_analysis
+2016-01-20,252950,True,2
+2015-12-06,4000,True,2
+2015-04-13,209160,True,2
+2015-11-13,730,False,0

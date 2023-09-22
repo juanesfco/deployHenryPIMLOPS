@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2015-06-03,333930,True,"Awesome game with a mix of different games like tf2 ,CoD,BF3.Airstrike are OP"
-2015-05-24,35720,True,Fun.
-2015-02-01,4000,True,"A game design with many different game mod,like TTT and Prophut very fun and interesting"
-2015-02-01,44350,True,"Good Graphics,many different cars and fun when your able to perform a perfect drift"
-2015-02-01,219150,True,A fast and intense game that requires quick reactions and accuracy
-2015-02-01,1250,True,"Intense co-op zombie horror game with different class,the Boss is Scary.........."
-2015-02-01,440,True,"Balance game with 9 classes to choose,each with different weapons and different playstyle.Scout,sniper and spy are the more fun classes in my opinion"
-2015-01-31,230410,True,A good game for people who likes to grind for resoures in order to get endgame weapons
-2015-01-31,730,True,"Intense game which require teamwork and skills,awesome community but the skin for the knife are SO EXPENSIVE!!!!!!!!!!!!!!!!!!!!"
+posted,item_id,recommend,sentiment_analysis
+2015-06-03,333930,True,2
+2015-05-24,35720,True,2
+2015-02-01,4000,True,1
+2015-02-01,44350,True,2
+2015-02-01,219150,True,1
+2015-02-01,1250,True,0
+2015-02-01,440,True,1
+2015-01-31,230410,True,2
+2015-01-31,730,True,0

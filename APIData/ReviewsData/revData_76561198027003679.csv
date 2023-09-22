@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-08-05,550,True,Good co-op shooter. Competent. Legendary Status. I r8 8/8
-2015-07-21,4570,True,BLOOD FOR THE BLOOD GOD!!! SKULLS FOR THE SKULL THRONE!!! MILK FOR THE KHORNE FLAKES!!!Ayy Lmao/10
-2015-07-06,265630,True,Passed Whiskey.Then I began playing Fistful of Frags.
-2014-09-29,220,True,Really good game. I suggest getting both this and the episodes. Really deep and engaging story. #StillWaiting4Episode3
-2014-09-12,271290,True,Italian Spiderman Approves!
-2014-07-25,304930,True,"Fun, open world zombie survival game. Good multiplayer. Interesting Mechanics."
-2014-04-21,244850,False,"Used to be a good game. Now it runs like ♥♥♥♥ and has a bunch of 'content' (i use that word Loosely). I would not recommend buying this until they optimize the ♥♥♥♥ out of this.Pros:- Creative sandbox with space- Functional physicsCons:- ♥♥♥♥♥♥ excuse of a survival mode- Remove the Dogs, they're a lame excuse for AI and are annoying rather than a challenge- Runs like ♥♥♥♥Summary: Used to be Good, Dev's got lazy, poorly optimized - Don't buy yet."
-2014-02-02,252490,True,"I believe this game has some great potential and is generally going in the right direction. I will be interested in the way they will implement the 'Thirst' system as currently water is pretty hard to find. I think one of the biggest problems with this game is hackers and 'Naked' hunters. But this can be solved by good administration and some fair rules. Personally speaking, i would recommend this game to anyone looking for a good, realistic survival game with great multiplayer and interesting features."
+posted,item_id,recommend,sentiment_analysis
+2015-08-05,550,True,2
+2015-07-21,4570,True,1
+2015-07-06,265630,True,1
+2014-09-29,220,True,2
+2014-09-12,271290,True,1
+2014-07-25,304930,True,2
+2014-04-21,244850,False,1
+2014-02-02,252490,True,2

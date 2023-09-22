@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-11-14,218620,False,"'No microtransations....'Gives Microtransations with terrible skins copied from CSGO,GGWP Overkill."
-2015-04-11,730,False,"Here is the kind of people you will meet in this game:15% of'omg i dun liek u so i dun do anything' This kind of people is terrible to play with,and when you try to kick him,his friends will vote no.35% Normal PlayersThis kind of people are kind and will help you throughout the match.5% Rich PlayersThe guy that have crap load of good items and inventory full of skins10% ScurbsThe guy that only use rekt9(tec-9)/P90/AUG/SG553/Gay Gun(Auto Snipers)5% Mic SpammerThe guy who use his mic all the time to spam music/squeak.Some have terrible mic quality that will make your ears bleed too!20% Smurfsaka the guy who can't play on his rank and need to use another account to 'rekt' newbies and have 'fun'9% Cheaters/HackersThe guy who use hacks such as spinbot,triggerbot,wallhacks...1% Other players that is not on the list.Before you say I got ~100 hours on the game,the reason is that the matchmaking cooldown SUCKS.You will sometimes meet cancerous team who do worse than a unranked player."
+posted,item_id,recommend,sentiment_analysis
+2015-11-14,218620,False,0
+2015-04-11,730,False,1

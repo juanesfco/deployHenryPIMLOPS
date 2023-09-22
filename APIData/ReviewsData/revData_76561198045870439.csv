@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-11-13,570,True,Much moba many game wow
-2014-10-31,113200,True,Isaac is an inspiration and his game simply delivers. Gameplay is amazing and fast. The difficult is unforgiving however which makes the game a fun challenge to spend your time.
-2014-08-26,63380,True,Best game ever 10/10 you get to kill Hitler
-2014-08-23,312990,True,Bro Simulator
-2016-09-09,313740,True,Idk how to close this game please help
-2013-12-25,550,True,Great game! Best Zombie shooter ever made. Masterpiece. Get it for free for a limited time or purchase it the choice is yours
+posted,item_id,recommend,sentiment_analysis
+2014-11-13,570,True,1
+2014-10-31,113200,True,1
+2014-08-26,63380,True,2
+2014-08-23,312990,True,1
+2016-09-09,313740,True,0
+2013-12-25,550,True,2

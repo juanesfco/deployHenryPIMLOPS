@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-03-26,221100,True,"love the game, just needs to work more on bug fixes!"
-2016-07-08,299740,False,this game is a waste dont buy......
+posted,item_id,recommend,sentiment_analysis
+2015-03-26,221100,True,2
+2016-07-08,299740,False,0

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2016-08-27,373110,False,The houes blew up within 10 seconds of me opening this game....don't bue it unless you like being homeless
-2015-01-17,295550,True,anyone who hates this game is a FREAK! This is a great game and lots of texured detail and the music is great. My favourite things are the vast array of enemies and deadly weapons.
-2014-12-29,317470,False,Horrible
-2016-07-08,105600,True,"Ever wanted a game that is fun, has decent graphics and you can kill as many bunnies and birds as you want? Well this game is for you, in terraria you fight against giant eyes, mutated worms and cthulhu's brother. And, Yoyo's are the best end game weapons (trust me). I give this game 9.99 for all of it! Just watch out, or the zombie bunnies will come and get you while you trade......"
-2015-04-14,24720,True,"better than spore, 20/10, makeany adventure, it adds a good flow and more excitment to the space stage"
-2014-12-30,17390,True,Best game ever in my life
-2014-06-20,72850,True,best game ever! I spent hours a day playing this so i recomend it to all those fighting and crafting types!
+posted,item_id,recommend,sentiment_analysis
+2016-08-27,373110,False,1
+2015-01-17,295550,True,1
+2014-12-29,317470,False,0
+2016-07-08,105600,True,1
+2015-04-14,24720,True,2
+2014-12-30,17390,True,2
+2014-06-20,72850,True,2

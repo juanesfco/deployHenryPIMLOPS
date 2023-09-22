@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-01-05,20500,True,The only game I've ever played where you can kill some enemies inside a building by killing the god-damn building.
-2015-01-01,201870,False,Ezio isn't hot anymore.1/10.
-2014-12-28,113200,True,"A fun little arcade-y room shooter, with a cute art style, a kickass soundtrack, and a story that wil make you cry into your pillow late at night.And I thought I was the only one who kept hundreds of mutant fetuses in my basement."
-2014-12-27,223470,True,"After I peed in a priest's face, he pulled out a gun and tried to shoot me, so I had to beat him to death with a shovel.Then I peed on his corpse."
-2014-12-26,8870,True,"In this game, you use an arm-mounted buzzsaw and hand-lightning to kill sky-racists in 1912, while your sidekick opens portals to other universes and has a giant robot bird for a best friend.Holy ♥♥♥♥, this is fantastic. 9/10."
-2014-12-26,220,True,"In the time you took to read this review of Half-Life 2, you could be playing Half-Life 2. I am so, so sorry for the time I have taken from you that you should be putting in to this game.All jokes aside, this is actually, legitimately, no-♥♥♥♥♥♥♥ttingly my favourite game of all time. It honestly astounds me that Valve aren't selling it for a whole lot more."
-2014-12-19,261030,True,"Jesus, this is a tough one to review.I have extremely polarised opinions abut this game, because the best parts are fantastic, which makes the worst parts even more terrible. The story, writing and gameplay from the original game are back, with some new cast members to either be eaten or saved. That's about as good as it gets, however, because (especially in the second half of the game) the developers seem to have forgotten what made the first one so good.The game is as brutal as the first, but without purpose. In the first one, characters died as a result of your failure to protect them. In this one, people die because the developers said so, and because they want to show how 'dramatic' they can be, forgetting that the key point of drama is audience involvement.The game allows you to brood for ages about whether to reconnect with your old friends, or what to do when your plans fail, and then it'll pull out of nowhere a choice that you can't possibly be prepared for. I remember one particular section in which you have to help one of two endangered allies, but both choices led to the same outcome!I don't want to say that it's all bad. The point-and-click+ style of gameplay is still charming as ever, and there were a few moment of genuine gut-wrench.Just play your cards well when you think about buying this game, and be prepared to slog through some really hard crap to get to the good bits.7/10."
-2014-10-12,233270,True,"A hilarious add-on for Far Cry 3, Blood Dragon places you in the shoes of your standard mid-80s action movie hero. He's got cybernetic limbs and is on a mission for America, but he's letting his gun do the talking, and his gun doesn't speak English.The game itself, while being little more than a texture update for FC3, does very well at evoking the style of an Ahnold or Stallone movie. Everything, from the quotes spouted by enemies, to the intentionally cliche dialogue, makes you feel as if you got into a bad acid trip and woke up on the set of Predator. What I especially love is the weapons; each is, in itself, a reference to a pulp action or sci-fi classic.It's weird, it's wacky, it's totally wonderful, it's Far Cry 3: Blood Dragon, and god damn is it awesome."
+posted,item_id,recommend,sentiment_analysis
+2015-01-05,20500,True,0
+2015-01-01,201870,False,2
+2014-12-28,113200,True,1
+2014-12-27,223470,True,1
+2014-12-26,8870,True,2
+2014-12-26,220,True,1
+2014-12-19,261030,True,1
+2014-10-12,233270,True,2

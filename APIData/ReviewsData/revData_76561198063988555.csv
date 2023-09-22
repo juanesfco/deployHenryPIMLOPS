@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-01,440,True,F2P- CS GO: Hat Simulator.
-2016-01-01,570,True,♥♥♥♥ ♥♥♥♥♥! ♥♥♥♥ ♥♥♥♥♥! ♥♥♥♥ ♥♥♥♥♥! ♥♥♥♥ ♥♥♥♥♥! Noob! Noob! Noob! Noob! Rush Mid! Need Support! Support! Please Support!? Buy Courier? COURIER!!!!! What's not to love?!
+posted,item_id,recommend,sentiment_analysis
+2016-01-01,440,True,1
+2016-01-01,570,True,2

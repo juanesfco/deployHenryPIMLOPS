@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-27,329490,True,0/10 No Kurisu trading card.
-2015-03-19,304410,True,"Hexcells Infinite, along with it's predecessors are some of my favourite puzzle games. Infinite builds upon the previous games, amping up the difficulty as well as fixing some flaws of the previous games.I wrote a lengthy review that you can read  here. "
-2013-12-12,50300,True,"Spec Ops: The Line is one of those games that everyone should play. The cover-based combat is smooth and better than any other cover system I have ever seen in the game. But the combat isn't what's good about this game. Technically, the combat is what's bad about this game and what's bad, is what makes it so good. I won't go into too much detail, but the choices in this game, they are hard. No the sort of, 'Do I want bacon or ham on my sandwich?' kind of hard, the, 'Do I use this weapon to clear my path through the enemies even though I know what this stuff does and I know that it kills you by eating away at your skin and there may be hundreds of innocent civilians nearby caught in the cross fire?' kind of hard. This game is morally taxing. It questions everything you believe in, it questions everything you've learnt in other games. There is no easy way in Spec Ops. It's either bad or worse, but you don't know which is which until it's too late. This game will break you and leaving yourself just sitting there, staring blankly at the screen, crying and yelling at yourself, 'Why did it have to happen like this?!'. Spec Ops: The Line. Is it a brilliant game? Absolutely. Is it one of my favourite games? Without a doubt. Is it a fun game? No way in hell."
+posted,item_id,recommend,sentiment_analysis
+2015-05-27,329490,True,1
+2015-03-19,304410,True,0
+2013-12-12,50300,True,1

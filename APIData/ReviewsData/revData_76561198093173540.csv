@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-09,730,True,good jobe guiys
-2015-06-07,346110,True,killed by dinofound bodyretrieved itemsate myself10/10 would play again
-2014-12-21,332800,True,Creates tense moments with friends and always fun alone. 9/10
-2016-01-18,295110,True,"There's your average and overrated survivor games on Steam: ARK, Rust, Don't Starve, etc. Then there is H1Z1.H1Z1 takes place in a post-zombie-apocalyptict world. In the normal game mode, you spawn in with some bandages, a flare, a few other fairly handy tools and one objective: Survive. Buildings and cars around are deserted and you feel very alone. First thing you do: Look for items. This can range from weapons and tools to food and drinks. The game offers many different challenges and allows you to craft much needed items with the right ingredients. This game is much more fun to play with multiple people (and a microphone) because communication is the key to survive."
-2015-09-08,252490,True,first time i playedhit a tree with a rockgot killed by scrubs9/11 best community
-2015-08-23,389570,False,Would be good if it wasn't ♥♥♥♥ But I still play it
+posted,item_id,recommend,sentiment_analysis
+2015-06-09,730,True,2
+2015-06-07,346110,True,0
+2014-12-21,332800,True,1
+2016-01-18,295110,True,1
+2015-09-08,252490,True,2
+2015-08-23,389570,False,2

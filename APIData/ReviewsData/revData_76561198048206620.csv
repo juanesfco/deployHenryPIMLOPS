@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-28,252950,True,great game recommend a controler and a mate to play the game with
-2015-06-04,200210,True,Many hours wasted on dead characters
-2014-11-26,221100,True,"Getting updates more often now lots of progress being made, still expect many bugs and glitchs still"
-2014-11-24,730,True,Headshot simulator
+posted,item_id,recommend,sentiment_analysis
+2015-08-28,252950,True,1
+2015-06-04,200210,True,1
+2014-11-26,221100,True,2
+2014-11-24,730,True,1

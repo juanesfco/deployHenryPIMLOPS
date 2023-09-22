@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-12,265770,False,the game was... well... wasn't what i was expecting. and umm yeah... you tryed... a-at least thats a good thing that you tryed but it was pretty bad so yeah... it took me an hour to think of this sentence... and that was 100% liesbut i think you would win my award for the worst video game of 2015 but i think you need to work on this game a lot more because... yeah... but again you tryed
-2014-09-25,236450,True,this game is awesome.if you like playing the classic 'PAC-MAN'then you will like or love this gamethis game is a challengeing game then the classic one.BIG thumbs up for this game.
-2013-12-02,206500,True,this game is awesome!
+posted,item_id,recommend,sentiment_analysis
+2015-10-12,265770,False,1
+2014-09-25,236450,True,0
+2013-12-02,206500,True,2

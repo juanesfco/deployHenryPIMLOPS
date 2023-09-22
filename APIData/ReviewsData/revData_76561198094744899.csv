@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-08-28,40100,True,Very fun game but not like the first. But if you are in to quick battles i would recommend this one for it is still a heap of fun.
-2015-01-27,4000,True,fun game
+posted,item_id,recommend,sentiment_analysis
+2016-08-28,40100,True,2
+2015-01-27,4000,True,1

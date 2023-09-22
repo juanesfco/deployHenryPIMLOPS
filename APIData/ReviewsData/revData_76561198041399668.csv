@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-07-01,201810,True,"Awesome game, story was top notch. 10/10"
-2013-12-26,239820,True,"One of the best games i've ever played, gameplay is so smooth."
+posted,item_id,recommend,sentiment_analysis
+2014-07-01,201810,True,2
+2013-12-26,239820,True,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-09-20,375950,True,"Snail is my friend, snail is life, snail is timeless, snail is a concept, snail is a three-dimensional representation of time. Also you can sing to plants"
-2014-01-11,221100,True,"3.8 hours of play and many yet to come, It's been a very rapey experience with an essence of charm. I was kidnapped by a group of people in my first hour, they stripped me and took my stuff I was down to underwear. They said 'we'll let you live if you can find every necessary item of clothing to clothe yourself within an hour'. I didn't battlelog like a wimp and kept my promise, when i was fully clothed their ring leader walked up to me and gave me all his gear, guns and all. i thanked them and left in a better state than when they found me and was thankfull they had found me. I was killed 30 mins later and all my gear stolen 11/10 will play again."
+posted,item_id,recommend,sentiment_analysis
+2015-09-20,375950,True,1
+2014-01-11,221100,True,2

@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2011-11-26,62000,True,"BEST $1.24 I ever spent! really fun, easier to play than on the phone."
-2011-11-25,12500,True,"ALL puzzle quest games are great Puzzle Quest II is better, but for the price you can't beat this one."
-2011-11-25,63900,True,Fun cheap OLD SKOOL strategy RPG. Turn based good graphics. Actually fun and has multy player.
-2011-09-19,22100,True,"Mount&Blade is an open-ended game in the same vein as Darklands or Elite. Theplayer takes the role of the leader of a wandering band of soldiers andwarriors. The player then sets his or her own goals, whether they be of amercantile, heroic, or tyrannical nature. To accomplish these goals, theplayer will engage in dynamic and deep combat using everything from throwingdaggers to military picks to ♥♥♥♥♥♥♥ swords. Basically it is a snad box game that can be very realistic. You can LOSE battles. It is not just a button masher as far as combat goes, there is strategy and skill involved in the fighting. Graphics are ok as of version 1.011. I like that you can do whatever you want. Roam the land killing bandits, solo if oyu like. You can amass a huge force of soldiers. If a kingdom you are friends with is under siege, you cancome to the resque. Or you can take over villages, towns, kindoms castles. You units know what to do and do thier best to carry out your orders."
-2011-09-06,107100,True,"Great little Action RPG. Some people find the narrator annoying, but I actually enjoy it. Worth $15 easy, if you see it for less buy it now!"
-2011-07-31,38600,True,"Very fun little card game. Yeah it's solitaire, but with several twists. I got it on a sale, but it is still worth the normal $5 asking price."
-2011-07-17,107310,True,"Old school late 80-early 90s type RPG. Some modern twists. Funny and engaging storyline. Slightly modified and updated to breath of death 7, CHEAP!"
-2011-07-17,107300,True,Old school late 80-early 90s type RPG. Some modern twists. Funny and engaging storyline. CHEAP!
-2011-07-14,42910,True,"You should try this game out, Bryce and I played it co-op, it is quite fun."
-2011-07-13,105600,True,This is a great little game.
+posted,item_id,recommend,sentiment_analysis
+2011-11-26,62000,True,2
+2011-11-25,12500,True,2
+2011-11-25,63900,True,2
+2011-09-19,22100,True,2
+2011-09-06,107100,True,2
+2011-07-31,38600,True,1
+2011-07-17,107310,True,2
+2011-07-17,107300,True,2
+2011-07-14,42910,True,1
+2011-07-13,105600,True,1

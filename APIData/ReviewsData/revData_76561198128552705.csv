@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2016-06-21,227940,False,"no matches, lovely..."
-2016-01-17,308270,True,"Challenging, very relentless gameplay. Trust me when I say it isn't for the weak hearted or the easy-goers.... This is what I like to call a really f#$%ing hard game. But give it a shot, you may find you like it..."
-2016-06-19,333930,True,GOT BANNED FOR NAY REASON
-2015-08-28,730,False,"It's straight up ♥♥♥♥♥♥♥t, too many scrubs using the same ♥♥♥♥ing weapons."
-2016-03-11,236870,False,Won't run :(
-2016-04-30,285920,True,You've turned my frown upside down!
-2015-08-22,239820,True,"You know, whilst it could be oh so much better, (it has next to no ideas put in,) it is fun! Would not recommed it to CS:GO players."
-2014-06-29,236390,False,"Crap, just... crap. Good models though..."
-2014-06-06,244850,True,WHOLEE GUACA MOLEE...No words can describe what I just bought.IHAZHAXFTW
+posted,item_id,recommend,sentiment_analysis
+2016-06-21,227940,False,2
+2016-01-17,308270,True,1
+2016-06-19,333930,True,1
+2015-08-28,730,False,2
+2016-03-11,236870,False,0
+2016-04-30,285920,True,0
+2015-08-22,239820,True,2
+2014-06-29,236390,False,0
+2014-06-06,244850,True,1

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-07-06,346110,False,"This here is a game that looks extremely positive and looks like it can turn out to be a fantastic game on release. However, right now performance for this game is quite bad as I can run GTA online, full of people on mixed settings and get absolutely no lag at all but for this game I have everything in the settings set on low and I am constantly lagging and rubberbanding (This is me playing on a server with just one friend btw). Until they update the game and improve the performance I would avoid this game."
-2015-07-03,213670,True,Really great game that doesn't actually require Uplay. Tons of replayability. You should certainly buy this game and remember... never fart on a man's balls . 10/10
-2014-09-24,252330,True,Constantly keeps you on edge. Never lets up until you quit the game
-2014-08-29,266840,True,"I remember growing up with the original game and that wasn't too long ago but when I finally saw this on steam I realised that now I don't need to use my friends copy of the game to install it. I can just pay for a game that is well worth the money with all these new features and never have to worry about asking my friend for his copy. I personally think everyone should pick up this game but thats just me. It can provide a great challenge when you need/ want it and if thats not good enough for you, there is editor/sandbox mode which is pretty self explanitory. They have done a great job of recreating Age of Mythology."
-2014-08-14,233720,True,"Whenever I play this game, it is impossible for me to frown or be disappointed with this game because of how much fun it is."
+posted,item_id,recommend,sentiment_analysis
+2015-07-06,346110,False,0
+2015-07-03,213670,True,1
+2014-09-24,252330,True,0
+2014-08-29,266840,True,1
+2014-08-14,233720,True,0

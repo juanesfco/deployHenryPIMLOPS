@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-06-15,338163,False,"Wait until they fix coring costs. For now, I suggest going back to Europa Universalis 3."
-2014-12-08,218620,True,"EDIT: Changed it to be more positive. I'll do so for now. Thank you for your change of mind, but the old review will be left here for posterity.Has microtransactions. Kindly ♥♥♥♥ off from Steam, and the game industry in general.Spend your money on blood diamonds, instead. It's more morally sound."
-2013-01-13,203770,True,"Conquer Europe while assassinating children, marrying to spouses half your age, and turning the map into your colour."
+posted,item_id,recommend,sentiment_analysis
+2015-06-15,338163,False,1
+2014-12-08,218620,True,2
+2013-01-13,203770,True,0

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-07-26,236790,False,♥♥♥♥ING TERRIBLE
-2014-01-18,440,True,good
-2014-09-24,251570,True,Great Just Great
+posted,item_id,recommend,sentiment_analysis
+2014-07-26,236790,False,0
+2014-01-18,440,True,2
+2014-09-24,251570,True,2

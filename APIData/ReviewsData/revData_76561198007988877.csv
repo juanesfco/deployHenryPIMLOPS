@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2014-03-02,252490,True,Stupidly addictive!!
-2013-12-03,230410,False,To repetative for me!!
-2016-04-20,412450,True,"So you buy the game, install it, then run around aimlessly not knowing what to do, where to go or how to do anything. I love the idea, I'm sure this will get better as time progresses but right now I'm a bit perplexed as to why I just bought this."
-2016-06-14,381210,True,Fantastic game. Scary as ♥♥♥♥. Lots of fun. My only gripe with it is that you cannot send your friends invites to join you.
-2016-04-24,437220,True,Very entertaining. Its the hunger games straight up. Very entertaining. Long wait for games avg 4 mins but worth it.
-2016-04-20,242860,True,"Great WW1 shooter, a bit 'clunky' at times with controlling but its in the same vain as ROH2 and Rising Storm. Great fun."
-2016-04-20,274940,True,"Gonna need a bigger boat.........Great fun, scary as ♥♥♥♥ if your a diver and so so good as a shark. Buy it people's!!!!!"
-2014-02-06,218620,True,Fun........lots of fun............
+posted,item_id,recommend,sentiment_analysis
+2014-03-02,252490,True,1
+2013-12-03,230410,False,1
+2016-04-20,412450,True,2
+2016-06-14,381210,True,1
+2016-04-24,437220,True,2
+2016-04-20,242860,True,2
+2016-04-20,274940,True,2
+2014-02-06,218620,True,2

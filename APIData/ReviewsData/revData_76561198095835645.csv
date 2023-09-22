@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-06-24,218620,True,Salute to all people who bought drill.
-2016-01-24,252490,True,Naked man shot me simulator
-2014-08-02,230410,True,best game ever!awesome!
+posted,item_id,recommend,sentiment_analysis
+2016-06-24,218620,True,1
+2016-01-24,252490,True,1
+2014-08-02,230410,True,2

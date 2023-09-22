@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-01-02,72850,True,"Great game, awards and reviews speak for themselves. Even better on PC than console due to mods and the command console :-)"
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,72850,True,2

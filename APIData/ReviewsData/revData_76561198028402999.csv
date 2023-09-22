@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-02-07,8870,True,"One of the best games of 2013, interesting and thought provoking conclusion and fun gameplay. You don't have to play the first two Bioshock games to enjoy this, although knowing what happens in the first ten minutes of the first game will help you understand the ending of Infinite. The game improves many features as well as a button that will relay the objective and point you in the right direction like a compass, preventing the player from ever getting lost or frustrated."
-2015-05-31,360960,True,"'Darling sweetie, sweetie darling, how are you pumpkin?'Has triggering sexist remarks ~ 2.5/10 - PolygonIf you're not Arthur Gies (or any other white knight/feminist for that matter), then play this amazing Game/DLC/Expansion."
+posted,item_id,recommend,sentiment_analysis
+2014-02-07,8870,True,2
+2015-05-31,360960,True,2

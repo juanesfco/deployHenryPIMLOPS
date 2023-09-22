@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-08-10,4000,True,"Hey guy!!! This is the game I wanna recommend you guys so much, because this game has creativity, action, guns and more!!! Buy this game and you will get addicted!!!"
-2014-01-14,440,True,This game is kinda awesome I guess though enjoy playing it.
+posted,item_id,recommend,sentiment_analysis
+2014-08-10,4000,True,0
+2014-01-14,440,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-16,301520,True,"Great and fun, You don't need to pay to win its just so that you get higher tier stuff faster"
-2016-02-04,730,True,I don't need sex because I get ♥♥♥♥ed by Matchmaking all the time 11/10 IGN
-2016-02-04,440,True,"Still no matchmaking, 11/10 -IGN"
+posted,item_id,recommend,sentiment_analysis
+2015-05-16,301520,True,2
+2016-02-04,730,True,1
+2016-02-04,440,True,1

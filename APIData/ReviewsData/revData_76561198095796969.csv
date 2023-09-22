@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-11-13,630,True,ESTE ES UN JUEGO SOLO PARA PROS EN ESTRATEGIA O PARA ALGUIEN Y 3 AMIGOS MAS QUE QUERIAN CAJARESE DE RISA DE SUS ERROR Y LOS ERRORES DEL OTRO
-2013-12-15,440,True,"Si te aburris te del cs1.6 el tf2 es la mejor opcion para remplasarlo pero te abiso ni se parecen en este tenes 9 personajes para elegir pero ninguno tiene la misma hp, funcion, armas y daño"
-2014-12-08,230410,True,pnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnpnp
-2014-08-03,570,True,"siempre me justo warcraft 3 y DitA all stard y dota 2 sigue la tradicion de su antecesor ahunque todabia le falten 5 heroes (pit lord, techies, nerif el oracle, winter wyver y art zet) sigue siendo un juego muy bueno original y divertido :D.lo unico malo que veo es la cruda y dificil linea de aprendizaje de juego ( el tutorial) pero bue la practica hace al maetro"
+posted,item_id,recommend,sentiment_analysis
+2013-11-13,630,True,1
+2013-12-15,440,True,2
+2014-12-08,230410,True,1
+2014-08-03,570,True,2

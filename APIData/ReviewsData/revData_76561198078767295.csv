@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-03-23,730,True,"Grabbed some friends in a lobby, found a game, did well get called a hacker, get kicked get a 7 day ban.10/10 would do good again."
-2016-06-11,489700,True,"I bought this game, it was enjoyable. Smashing scrubs with my fists brought tears to my eyes.This game is pretty good.8/10Would fist again."
-2016-06-29,206190,True,"Fantastic game, I suggest picking this game up especially now that its on sale. Even thought its a very short game I say its worth it, the game has humor, murder, back stabbing and best of all. the ability to kick down doors."
+posted,item_id,recommend,sentiment_analysis
+2015-03-23,730,True,2
+2016-06-11,489700,True,1
+2016-06-29,206190,True,1

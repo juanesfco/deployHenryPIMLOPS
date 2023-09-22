@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-10,230410,True,Picked up game with friendsEventually friends stop playingHaven't played with friends in agesLotus is my only friend now11/10
-2016-05-23,311690,True,is that a jammed dragunthats a jammed dragunrip
-2013-11-30,248820,True,"very very hard, but still very fun in single player or co op. I recommend this game"
+posted,item_id,recommend,sentiment_analysis
+2014-12-10,230410,True,0
+2016-05-23,311690,True,1
+2013-11-30,248820,True,0

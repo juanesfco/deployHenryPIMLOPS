@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-11-26,550,True,Definitely recommend for versus...but don't get the low violence version (get a friend from overseas to Gift you a copy so you) get uncut.  Also the game is getting a bit old now...really need Left 4 Dead 3 (and preferably removal of all those nasty DLR mods which have turned the game into a ridiculous parody hybrid of Left 4 Dead and Super Mario.
-2015-06-29,292030,True,"Absolutely EPIC game with an engagement story, good graphics and challenging battles.  Could not recommend it more.  Few minor bugs but generally very well polished."
+posted,item_id,recommend,sentiment_analysis
+2013-11-26,550,True,0
+2015-06-29,292030,True,2

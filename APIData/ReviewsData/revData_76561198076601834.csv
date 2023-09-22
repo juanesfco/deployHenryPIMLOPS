@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-03-15,440,True,Amazing game
-2015-05-08,730,True,"Dear, Gaben  I gave CS:GO a 10/10 For that, I request a knife in the next case I openthx <3#allhomoLove,         Kiwiw"
+posted,item_id,recommend,sentiment_analysis
+2013-03-15,440,True,2
+2015-05-08,730,True,1

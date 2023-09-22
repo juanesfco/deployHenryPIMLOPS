@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-04-30,243870,True,"This game actually does a really good job of employing the team-work and cover-to-cover aspect of shooters we don't see much nowadays. Making sure you have an (at least) decently balanced team is cruical to suceeding and you can't just run pell-mell blasting at everything and everyone.The interface for cover and the crouch, prone toggles are a little iffy (although that's probably just me), and everyone seems to like to play Recon (probably because of the smg/sniper rifle primary choice), but this game still is really good.On a side note.... how the hell can you put suppressors on pump-action shotguns...?"
-2015-09-05,333930,False,"'You 'earn' money. You spend money. Is ironic paradox, yadda yadda.'"
+posted,item_id,recommend,sentiment_analysis
+2014-04-30,243870,True,1
+2015-09-05,333930,False,2

@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-04-14,271590,False,"Really Rockstar? 2 years and 3 delays seemed to have added up to nothing. The game is unplayable for me as as the launcher crashes and I get a message saying 'GTA V Launcher has stopped working'. It then checks for a solutio to the problem and closes. And it also seems about 25% of ALL people who bought GTA V are experiencing game destroying problems.I have tried reinstalling both the game and Social Club, verifying my cache files, restarting Steam and my computer, and fidddling with my GPU. Nothing worked even the slightest.Rockstar - FIX. THIS. NOW."
+posted,item_id,recommend,sentiment_analysis
+2015-04-14,271590,False,0

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-27,233720,True,"Great game lots of fun, It is difficult at first but once you et the hang of it you're all set"
-2015-09-29,208650,True,"Although a lot of people have had issues with this game, on my PC I had little to no bugs or crashes. The story and visuals are amazing and I highly recomend this game to a fan of the Arkham Games and even to people who have never played any of them. Overall I highly recomend this game as the storytelling is amazing and the gameplay and visuals are even better"
-2015-02-13,200260,True,"Batman Arkam City, where do I begin this game has so much to offer. This game contains tons of collectables and things to explore. The story is emmersive and amazing I thourgholy enjoyed this game and recommend it to all."
-2014-06-29,239820,True,This game is very fun and will keep you entertained for a long while as you figure out how to make the perfect games
-2014-02-22,620,True,Great game it is much better and entertain than the first Portal
-2013-12-20,209000,True,"A great game, apart from the very obvious ending if you have played the other two before the other games"
-2013-12-16,4000,True,Great game to use your imagination and let it run wild
+posted,item_id,recommend,sentiment_analysis
+2014-06-27,233720,True,1
+2015-09-29,208650,True,1
+2015-02-13,200260,True,1
+2014-06-29,239820,True,2
+2014-02-22,620,True,2
+2013-12-20,209000,True,1
+2013-12-16,4000,True,2

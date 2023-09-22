@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-04,252950,True,"Mom : Hey boy , dinner is ready !Me : Wait mum , Thormato just gonna play ONE more round , 5 minutes mum .( Thormato died of hunger )"
-2015-12-01,417860,False,'This game remind me of my ex-girlfriend !' -0/10 I cried*
-2014-12-28,218620,True,"Didnt even make sense , except the store you are robbing is fill with peoples , the rest of the map is empty .10/10 !"
-2014-06-07,63380,True,"Yes , yes this game may be boring and hard when u just started to play this game for the first time , but after some time , u will change ur mind and enjoy the gameplay especially when u kill an enemy with ur tripwire trap or land mine . I highly recommended this game to all steam user , give this game a try , its amazing ! 10 out of 10 ! Inferno map is the map I enjoy the most , try this out :D !"
-2014-03-12,271290,True,"This game is awesome and its gameplay is pretty balance . Plus , this game is greatly optimized , i can play on ultra setting with 30+ fps , great job :D 9/10 !"
-2014-01-26,730,True,"180 well spent on this awesome game , I met alot of good players in this game :D !!! Unlike any other modern fps , this game really focus on teamwork , sometime you can twist a losing badly match ( eg. 3-13 )  to a winning game , its because of the spirit of teamwork ! No regret any penny that I spent on this game ! GOOD JOB Valve , you win our gamer's heart !"
+posted,item_id,recommend,sentiment_analysis
+2016-01-04,252950,True,2
+2015-12-01,417860,False,0
+2014-12-28,218620,True,0
+2014-06-07,63380,True,1
+2014-03-12,271290,True,2
+2014-01-26,730,True,2

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-11-27,440,True,Got really bored in a hour. ( ͡° ͜ʖ ͡°)
-2015-03-14,211820,True,You can get rekt by Penguins..... That's all that can be really said.10/10.'Like skyrim with penguins' ~IGNLast boss is harder than Titanium.
-2015-03-14,550,True,To make this game a million times better all you have to do is add two words.Use mods.Can change zombies into teletubbies 10/10.
+posted,item_id,recommend,sentiment_analysis
+2014-11-27,440,True,0
+2015-03-14,211820,True,1
+2015-03-14,550,True,1

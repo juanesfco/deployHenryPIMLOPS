@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2014-09-30,440,True,"Thi is a really good game, i recommend it to anyone looking for a great game to play non-stop!"
+posted,item_id,recommend,sentiment_analysis
+2014-09-30,440,True,2

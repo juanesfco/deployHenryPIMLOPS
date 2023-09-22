@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-04-07,358150,True,"you can play mr foster from killing floor, jokes asideamazing DLC for 5 bucks, AA-12 is the main reason i got it and i love the weps 11/10 would commit cannibalism again"
-2014-11-02,219150,True,amazing game that makes you  feel as if ur on cocain and killing people
-2014-04-05,209160,False,sucks so ♥♥♥♥ing much i hate everything about it i wasted $60 on this ♥♥♥♥♥♥ game i hope you do not
-2014-03-29,203140,True,"a good stealth game, its like being a 'suit' spy insted of a sam fisher type,still you can find some funny ways to kill someone and listen to a ♥♥♥♥♥♥♥♥ guard saying some funny lines when he finds a body,"
-2014-02-17,235600,True,"if you want a good stealth game then look no further, this game has all that a stealther wants(cool supressed  guns,parkour,customize suits from your boots to your tri-focal goggles,and a cool ninja knife).Also it has a multi-player option where you play as a heavy suited 1st person viewing merc or a stealthy 3rd person viewing spy that one-hit kill melee attacks.i hope to see you with my sonar goggles right before i slit your thoat from behind :D"
+posted,item_id,recommend,sentiment_analysis
+2015-04-07,358150,True,2
+2014-11-02,219150,True,2
+2014-04-05,209160,False,0
+2014-03-29,203140,True,2
+2014-02-17,235600,True,1

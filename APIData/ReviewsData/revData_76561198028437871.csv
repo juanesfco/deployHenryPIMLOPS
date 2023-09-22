@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2014-06-30,12120,True,"CJ es amor, CJ es VIDA.Historia                  10/10Gráficos                 10/10Personajes             10/10Guión                     10/10Personaje principal   ∞/10Jugabilidad             10/10Mapa                     10/1011/10"
-2015-08-13,550,True,"KEVIN CTM COMPRATE EL ♥♥♥♥ JUEGO, 7/10 NADA LE GANA A CJ, CJ IS LOVE CJ IS LIFE."
-2016-01-23,225840,False,"Vale ♥♥♥♥♥ no puedo jugar con mis amigos, si alguien sabe dígame."
-2015-12-30,48190,False,"An addictive game, don't care about graphics, care about having fun and that's it, the whole story is based on Assassin's Creed 2, so you know, it's kinda boring, I do prefer AC2 :DMultiplayer mode is almost dead, no one plays it, it's hard to find matches, I haven't... yet.8.5/10"
-2015-12-17,70,True,"7/10 Muy buenos gráficos, historia muy larga e interesante, pero aún así CJ está delante de todos, CJ es amor, CJ es vida."
-2015-08-24,440,True,"Mmmmffff mmmff, mmmfff mff 8/10"
-2015-08-24,12110,True,"EspectacularGráficos 10/10Coches 10/10Historia 10/10Personaje 9.9/10Todo de putamadre. Tommy solo necesita unas clases de natación y listo. Si quieres ser traicionado por un negrata, juégalo."
+posted,item_id,recommend,sentiment_analysis
+2014-06-30,12120,True,2
+2015-08-13,550,True,2
+2016-01-23,225840,False,2
+2015-12-30,48190,False,0
+2015-12-17,70,True,2
+2015-08-24,440,True,1
+2015-08-24,12110,True,1

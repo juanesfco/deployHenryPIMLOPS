@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2015-11-02,314300,False,"Come on imaek,now you're just being silly."
-2016-05-17,48700,True,Nord Warrior/10
-2015-12-22,409590,True,"O jogo não está muito bom no estado atual,mas está recebendo vários updates e melhorando aos poucos.Não recomendo comprar no estado atual a não ser que queira ajudar o desenvoldedor,de qualquer forma,"
-2015-05-13,360960,True,"'Donate,damn it' - Dude,Postal 2015"
-2016-01-04,329950,True,The developers trapped me in a cage and are making me write this positive review or they will cut my fingers off.Please help me.
-2016-01-03,409160,True,Eu consegue matar um guarda com uma caneca - 10/10
-2015-11-14,263360,True,É divertidinho.
-2015-11-14,252630,True,Simulador de se matar com pedras - 10/10
+posted,item_id,recommend,sentiment_analysis
+2015-11-02,314300,False,0
+2016-05-17,48700,True,1
+2015-12-22,409590,True,0
+2015-05-13,360960,True,1
+2016-01-04,329950,True,1
+2016-01-03,409160,True,1
+2015-11-14,263360,True,2
+2015-11-14,252630,True,1

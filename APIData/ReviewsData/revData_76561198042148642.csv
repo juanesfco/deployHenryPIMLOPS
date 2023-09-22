@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-02-28,323470,True,This game is overall just really fun and you should go buy it now.
-2014-12-25,244210,False,I think i am a mediocre to decent player at racing games but when you can't even beat the first race against AI in career mode something is seriously wrong. Other than that the game just simply offers little content with tracks that could have been more interesting.
-2014-02-21,242920,False,Best AI 2014
+posted,item_id,recommend,sentiment_analysis
+2015-02-28,323470,True,1
+2014-12-25,244210,False,1
+2014-02-21,242920,False,2

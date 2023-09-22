@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-08-25,234140,True,Worth every dime spend on it...woooow what a graphics... Mesmerising...!!  No need to say anymore.. Game got everything to expect and performed more than expectations..!!!
-2016-08-25,473580,False,Awesome entertainment to kill sometime..!!!
-2016-02-18,287700,True,Awesome game ...tons of options ...
-2016-08-25,252950,False,"Worth for money spend but recent updates made the games go bat ♥♥♥♥.. Lag,network problem everything. Please do make good server with a decent ping rate..."
-2016-08-25,407230,True,Awesome entertainment to kill sometime..!!!
-2016-08-25,96100,False,Awesome entertainment to kill sometime..!!!
-2016-08-25,489220,False,Awesome entertainment to kill sometime..!!!
-2016-08-25,504490,True,Awesome entertainment to kill sometime..!!!
+posted,item_id,recommend,sentiment_analysis
+2016-08-25,234140,True,2
+2016-08-25,473580,False,2
+2016-02-18,287700,True,2
+2016-08-25,252950,False,2
+2016-08-25,407230,True,2
+2016-08-25,96100,False,2
+2016-08-25,489220,False,2
+2016-08-25,504490,True,2

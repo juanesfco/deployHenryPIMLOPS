@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-04,225833,True,good
-2014-04-16,8870,True,RICH STORYLINE!!!
+posted,item_id,recommend,sentiment_analysis
+2014-10-04,225833,True,2
+2014-04-16,8870,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-11-21,391540,True,I cri
-2015-10-06,440,True,Duh.
-2015-10-04,242680,True,K.
-2014-09-26,238460,True,love it
+posted,item_id,recommend,sentiment_analysis
+2015-11-21,391540,True,1
+2015-10-06,440,True,0
+2015-10-04,242680,True,1
+2014-09-26,238460,True,2

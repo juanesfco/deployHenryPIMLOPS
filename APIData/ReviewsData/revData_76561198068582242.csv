@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-10-27,391540,True,*insert a crying emoticon here**insert a bad skeleton joke here**insert a well-cooked spaghetti here**insert an awesome princess helding big sword here**insert a determination here*
-2014-01-13,8930,True,"This game is all about strategies so you need to know or should I say, smart at playing this game. Other than that this game is totally awesome; Gameplay, Graphics, Controls, Fun, You don't need to ask no more cause all of that stuff ar bundled into the game. 100% Sure you'll not get bored. Making your own Civilization is fun!"
+posted,item_id,recommend,sentiment_analysis
+2015-10-27,391540,True,1
+2014-01-13,8930,True,1

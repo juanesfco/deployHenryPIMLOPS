@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-06-12,314660,True,'Hello''Hello''Follow Me''Okay'*chants*
-2016-04-02,374300,True,"Probably one of the better dlcs out there, not worth the $7 price tag, I would price it at $5. Adds a very fun heist and the tazer, would buy this for friends"
-2015-01-11,15700,True,"This game is one of the greatest platformers of its time. After playing the original PS version, i decided to buy the sequal and this one on my pc. No regrets"
-2016-05-23,440,True,"Pretty good game, lost all my money because of it, rip."
-2014-09-17,319510,True,"Have $5 spare on steam? Well buy this for a quick thrill, nice and easy to play. That's right, for only $5, you can crap your pants! Warning, not for the smaller child"
-2016-03-21,218620,True,"I honestly think payday is a great game. I picked this up for Christmas last year and I was immediately hooked. Yes there are micro transactions and dlc. But they are both optional. You don't need to buy it. The dlcs add a little more zest to the game. Payday being the steak of the meal and the dlcs being salad and chips, you don't need it but you want it. If you can pick the dlcs up at a time like right now, go for it. Just don't act dumb and buy $50 worth before a sale, I know I did."
+posted,item_id,recommend,sentiment_analysis
+2015-06-12,314660,True,2
+2016-04-02,374300,True,2
+2015-01-11,15700,True,2
+2016-05-23,440,True,2
+2014-09-17,319510,True,1
+2016-03-21,218620,True,2

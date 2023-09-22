@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-29,550,True,"This game is awesome, Finally got 3 Trading cards."
-2013-12-29,440,True,"This game looks awesome, But I can trade as an F2P, More fun with friends, Fighting Robots in MvM(Mann vs Machine), Having an Craftable Promotional Weapons."
-2016-01-25,51100,True,an autistic version of point blank and crossfiregame diary since 2014- tacoswilleatus(myturtleateyou) bought me there- laggish experience- gets few kills and more deaths- plays more until i became noob- never play again10/10 will never play again due to lagisim
-2014-04-15,200210,True,"Easy Game! 10/10, Sucked my bones into heaven."
+posted,item_id,recommend,sentiment_analysis
+2013-12-29,550,True,2
+2013-12-29,440,True,2
+2016-01-25,51100,True,1
+2014-04-15,200210,True,1

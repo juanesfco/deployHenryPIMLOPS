@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-23,220,True,GabenWHERE'S HALF LIFE 3
-2016-01-23,42680,True,Made me work at Mcdonalds to fulfill my dream of being Spongebob9 quickscopes out of 10.Would still rather buy hats and csgo skins...Pls buy my Krabby Patties
+posted,item_id,recommend,sentiment_analysis
+2016-01-23,220,True,0
+2016-01-23,42680,True,1

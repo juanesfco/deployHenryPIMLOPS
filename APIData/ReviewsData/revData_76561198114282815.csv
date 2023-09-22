@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-10-24,219740,True,Died by a tall ♥♥♥♥ bird10 outta 10
-2014-08-16,242760,True,"Build a shack near a beach, cannibals attack, i flee into my lil shack, they run away after the 5th time i went to my shack.                                                                                           10/10                                                                                         would flee again."
-2014-11-26,40800,True,"Broke my computer, now i am on my ipad in the ♥♥♥♥♥♥♥ writing this 12/10                   I don't break computers, so i didnt break this one :P"
-2014-09-18,113200,True,"You play a naked boy collecting underpants while shooting atrocities, 10/10"
-2016-06-23,391540,True,Don't question why this game exists.Question why you aren't buying it.
-2016-04-09,389570,True,"After playing Mitos.is for a little bit, I can safely say this is a good game. It offers fast gameplay like Agar.io would, but, unlike Agar.io, it eliminated one of the things that made me say that Agar.io was bad. The lag. Other than that, Mitos.is gives more gameplay aspecs then Agar.io, these come in as Zombies Vs Humans, Free For All, Team Fortress, and a variety of others.Humans VS. ZombiesThis gamemode is where you play as either a blue human, or a red zombie, you infect others by shooting yourself at them (Using the W key.) Once a team has reached over 5000 points, a countdown timer will begin. Once the timer has finished, the winning team will  be crowned winner, and a new match will form.Free For AllFree for all is what you would expect, you play as a ball eating random things to become bigger, so you can eat bigger balls to become the biggest on the server.All In all, this is a good game, and I'd recommend it to anyone who wants to kill some time."
-2014-01-29,440,True,One word: SANDVICH!
+posted,item_id,recommend,sentiment_analysis
+2015-10-24,219740,True,1
+2014-08-16,242760,True,1
+2014-11-26,40800,True,2
+2014-09-18,113200,True,1
+2016-06-23,391540,True,0
+2016-04-09,389570,True,1
+2014-01-29,440,True,1

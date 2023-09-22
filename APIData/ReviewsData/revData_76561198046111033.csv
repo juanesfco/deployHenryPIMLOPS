@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2012-09-21,730,True,"I love this game, great mmo, great community, all good, worth the money !"
-2016-07-01,240,True,Hey... THATS PREETY GOOD
-2016-07-01,238430,True,"Everyone seems to be so bithcy about this game sure the graphics are dated but if you were to grab a couple of friends and you all join a FFA Hunted you'll have a blast. P.S. Stop comparing this to L4D, if you like L4D so much go play it."
-2015-10-10,4000,True,I dont know what to put here so... heres a recipe for some pancakes insted:- 1 3/4 cup milk- 2 eggs- 1 teaspoon vanilla essence- 2 cups self-raising flour- 1/3 cup caster sugarEnjoy :D
+posted,item_id,recommend,sentiment_analysis
+2012-09-21,730,True,2
+2016-07-01,240,True,2
+2016-07-01,238430,True,1
+2015-10-10,4000,True,2

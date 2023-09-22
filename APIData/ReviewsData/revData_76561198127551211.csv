@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-09-03,383870,True,"This is a beautiful walking simulator. It has a story, suspense, and scenes where you might just be spamming F12."
-2016-03-26,221910,True,Worth it.
-2016-03-25,219150,True,10/10 will die again
-2015-10-25,374570,True,This is majestic
+posted,item_id,recommend,sentiment_analysis
+2016-09-03,383870,True,2
+2016-03-26,221910,True,2
+2016-03-25,219150,True,1
+2015-10-25,374570,True,1

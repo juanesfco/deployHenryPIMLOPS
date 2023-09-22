@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-24,550,True,"Its pretty cool, if you love killing zombies, buy this! you wont regret it!I also think this game is Amphabulous!"
-2014-12-13,335330,False,"The game itself looked... good i guess..But every single time i play it, the game crashes after i load whatever stuff..well most of the timeIll give it a 6.4/10So yeah, i don't really recommend this..."
-2015-06-07,4000,True,Got Pikachu wearing a sombrero in a pink van with 'free rare candy' written on it with a machinegun installed on the wheels while a cat was driving it into the sun.10/9 Would play it again.
-2015-05-15,440,True,"The game is PERFECT.The only flaw with it would be the community....and its trading....and the squeakers....and those P2P players that call F2P players idiots for no reason at all....and those CoD players that shoot every window trying to break it..But as a free FPS, the game is absolutely good, with a very VERY minor flaws on its gameplay.But i can't really explain stuff, you just gotta play the game."
+posted,item_id,recommend,sentiment_analysis
+2014-01-24,550,True,2
+2014-12-13,335330,False,1
+2015-06-07,4000,True,2
+2015-05-15,440,True,1

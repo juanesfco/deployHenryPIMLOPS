@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-21,72850,True,What can't you do on the PC skyrim? 11/10 would bang
-2014-06-25,440,True,fun game!
-2014-05-16,730,True,"Such a fun game, so much fun collecting items and trading them etc. Overall i love competitive! I really recommend this game!"
+posted,item_id,recommend,sentiment_analysis
+2014-12-21,72850,True,1
+2014-06-25,440,True,1
+2014-05-16,730,True,1

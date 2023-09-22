@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-02-28,203160,True,UNCHARTED FOR PC
-2014-11-07,209080,True,"Guns of icarus Online is a multiplayer which is fully hectic. There are guns and flying and a variety of large maps. The one thing I like most is that you can play with friends (duh). I highly recommend this game to people who like flying, shooting, multiplayer and playing with friends."
-2015-02-19,4000,True,DOES NOT WORK ON MAC?
-2014-02-19,263680,True,"Unearthed is a game about an explorer who goes to places where Ibn Battuta was. This game has an action-adventure genre with some puzzles. I think this game is pretty much like Uncharted. It has puzzles, action and adventure. This is a computer version of Uncharted. I recommend this game for people who love action and solving puzzles. I would give this game a rating of 8/10. Hopefully episode 2 will come out soon."
-2016-07-09,730,False,"If you want to lose all of your money and sanity, buy this game."
-2015-12-14,304930,True,DayZ in alpha
-2015-02-28,50300,True,Too good. That is just it. Too good.
+posted,item_id,recommend,sentiment_analysis
+2015-02-28,203160,True,1
+2014-11-07,209080,True,1
+2015-02-19,4000,True,1
+2014-02-19,263680,True,1
+2016-07-09,730,False,0
+2015-12-14,304930,True,1
+2015-02-28,50300,True,2

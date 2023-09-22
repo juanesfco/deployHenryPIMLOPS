@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-09-02,9900,True,"This is really the only mmorpg i would play, it is really worth the time I put into it :) Check it out even if you aren't a star trek fan its still one of the best mmos out there imo."
-2015-10-27,226860,True,"Great space, turn based stratagy game plenty of mods to make it more interesting aswell soo plenty of reasons to get this game if your are looking for a good way to pass the time."
-2012-03-22,48700,True,This game is better then fire and sword in many ways
+posted,item_id,recommend,sentiment_analysis
+2013-09-02,9900,True,2
+2015-10-27,226860,True,2
+2012-03-22,48700,True,2

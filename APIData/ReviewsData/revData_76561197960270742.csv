@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-12,730,True,"Fast, action paced skill game which requires tactical knowledge to seperate skill levels. The more you play the more you understand what's necessary to be the best. Highly addictive and very competitive. Get started by playing some deathmatch, rank up in match making and get together some friends to build a team of 5 to untap the games true potential as the greatest Electronic Team Sports games ever made."
-2016-05-20,438680,False,"haha i can understand why its free, i didn't enjoy it :)"
+posted,item_id,recommend,sentiment_analysis
+2014-12-12,730,True,2
+2016-05-20,438680,False,2

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-12-31,274170,True,It's like Mortal Kombat had a kid with the top-down MGS while Chuck Palahniuk is the midwife while raising the kid in a chicken coop and give the kid a dose of LSD everdayThis game will make you hate windows and fat guys more than ever
-2013-12-20,570,True,Additional requirements that Steam didn't list:-Know Russian language-Know Tagalog language-Have an extraordinary amount of patience-Know what a mute button is
+posted,item_id,recommend,sentiment_analysis
+2015-12-31,274170,True,0
+2013-12-20,570,True,2

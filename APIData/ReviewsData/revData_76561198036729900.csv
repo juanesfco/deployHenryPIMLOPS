@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2013-03-18,208670,True,Brilliant and fantastic and then brilliant some more.If you can get over the heroine's accent.
-2014-06-20,249680,True,Do yourself a favour and buy this game immediately
-2014-03-03,98400,True,"It's a First Person Cyberpunk Shooter with robots, what's not to love?The story is a little predictable, but the game is solid and has excellent flow."
-2014-02-09,108710,True,"Third person, story-based, thrilling and completely enthralling. A fantatic work of art that clearly defined a tone and stuck to it for the duration. The core mechanics did not become tedious as I'd originally assumed. The game is paced expertly and culminates in a fantastic ending that kept me thinking."
-2013-12-24,261030,True,"Thrilling, Intense and gripping beyond belief. TWD:S2 creates an atmosphere I never would have believed capable of a video game. Get it now and eagerly await the release of future episodes!"
-2013-12-04,38720,True,A quirky and fun puzzler that's sure to entertain! Perfect for a rainy afternoon when you don't know what to play.
-2013-10-28,50300,True,"I absolutely adore this game.Not just a generic, brown shooter - SO much more.Just trust me on this one."
-2013-07-16,207610,True,"It's surprisingly well done in the style of the comic series with genuine emotion, fantasic writing and a main character I didn't hate, because it was me."
-2013-06-07,220780,True,Fictional characters more believable than real people and a story that drags on just the right amount.
+posted,item_id,recommend,sentiment_analysis
+2013-03-18,208670,True,2
+2014-06-20,249680,True,0
+2014-03-03,98400,True,1
+2014-02-09,108710,True,1
+2013-12-24,261030,True,2
+2013-12-04,38720,True,2
+2013-10-28,50300,True,2
+2013-07-16,207610,True,2
+2013-06-07,220780,True,2

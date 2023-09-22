@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-01-17,104700,False,This game is one of the only game i ever played where there is more hours in download time then actuall gameplay.it takes 20 minutes to get all 5 players in a team then another 10 minutes just to find a game.it takes about 30 seconds gameplay is BORING as ♥♥♥♥.the only good thing about this game is the uninstall button
-2014-11-28,206420,True,"This game feels like a cross-over between gta and infamous, 10/10is it bad if i know all the old songs played on the radio"
-2014-11-21,550,True,"As a person who isn't usualy a fan of zombie games, this game was freaking awesome. The Single player is fun, The multi player  is so funny when your a jockey (#ridingzoey4life)  and now that the uncencored version has finally come out i get to play the real expierence"
+posted,item_id,recommend,sentiment_analysis
+2015-01-17,104700,False,0
+2014-11-28,206420,True,0
+2014-11-21,550,True,2

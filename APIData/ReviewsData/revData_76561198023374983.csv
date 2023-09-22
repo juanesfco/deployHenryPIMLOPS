@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2014-07-03,266390,True,There's quite a few directions you can go while playing/farming and that allows you to learn and play again with a better plan.
-2014-05-14,440,True,Best game that came through 7 years
-2014-06-23,630,True,"Such a small game, but HUGE in it's story and atmosphere. Best 'free to play' game I've ever encountered."
-2014-06-02,3320,True,It's a game that is based on feeding fish and killing monster that enter the fish tank.
-2014-06-02,236090,True,not bad for a single player game that is hards to complete
-2014-05-10,31280,True,A great game to play when bord
+posted,item_id,recommend,sentiment_analysis
+2014-07-03,266390,True,2
+2014-05-14,440,True,2
+2014-06-23,630,True,2
+2014-06-02,3320,True,0
+2014-06-02,236090,True,1
+2014-05-10,31280,True,2

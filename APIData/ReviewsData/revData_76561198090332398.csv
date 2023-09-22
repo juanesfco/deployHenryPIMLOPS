@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-05,228760,False,this game sucks i payed for it about a year ago and now for some resone its a demo
-2014-09-09,7200,True,its awesome
+posted,item_id,recommend,sentiment_analysis
+2014-12-05,228760,False,0
+2014-09-09,7200,True,2

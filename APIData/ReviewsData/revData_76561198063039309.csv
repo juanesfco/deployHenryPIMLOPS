@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-11-27,417860,True,1. goodbye2. goodbye3. goodbye*Shoots self*
-2016-06-12,362620,True,This game is EXTREMELY underated. In my oppinion this needs more attention. The game is well thought out with a good idea. I personally run into minor bugs but that is good considering this was made by one guy. Don't let the 'Early Access Game' title scare you as the game is almost bug free. It is constantly updated with good support and nothing will go unheard.
-2014-09-25,104700,False,"BOOOOOOOOO!I don't see how anyone likes this game, this game was easilly rushed and to me, the trailers look nothing like the real game. If the trailers did look like the game, I would intend in playing for longer than 5 minutes. Good work Uber Entertainment, you make a game with a good and funny voice acting bad..."
-2016-09-12,730,True,if it has less russians and more weed i would like it more
-2014-11-04,8930,False,"  My First Hours  Hour 1: First game started, learned controls and set off on a journey. I send my scouts back to my home land and my city had lost in war to the russians? How in the world did that happen? Hour 2: Started up a new game, made as many warriors as I could and declared war against russia, boy was that a bad idea. It took 8 turns to find out that my city had lost, WTF! Hour 3:  5:00 AM Parents aren't awake yet, may aswell boot up my computer. Loaded up Civ 5, started a new city, and made as many warriors as I possibly could. Then I declared war with Russia. 10 turns later: I WON DA WAR! OMFG! Oh crap, parents are awake, better stop now. Hour 5000000: Almost won the war, turn off computer since it is overheating, turn it back on and the gpu is fried. The only thing I did on my week old pc was play Civ V, and it broke it. WTF! Its an okay game, but only play it if you have a room sized super computer!"
-2014-09-25,620,True,"The best of its kind!Portal 2 is easily the best puzzle game I have ever played, you may think that im kidding because i've only played 2.6 hrs of the game but that's due to the switch of my computers. This game includes knowledge, and you need to have fairly good knowledge of angles, reflexes and puzzling. I am not a very good puzzler myself but this game is still, the best. Hopfully this helped you in the process of thinking to buy the game during the quick sale that is going on right now."
+posted,item_id,recommend,sentiment_analysis
+2015-11-27,417860,True,1
+2016-06-12,362620,True,1
+2014-09-25,104700,False,0
+2016-09-12,730,True,2
+2014-11-04,8930,False,1
+2014-09-25,620,True,2

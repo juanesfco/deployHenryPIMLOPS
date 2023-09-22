@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-19,22330,True,patrick stewart said he had a dream about me11/10
-2014-11-12,44350,False,"This review is focused on the singleplayer aspect of this game.Pros:- Fairly nice to look at- Good sound design- Bathurst- Decent length careerCons:- Handling inferior to the original GRID- I have seen better AI in N64 racing games- AI vehicles are also far stronger than player vehicle, which causes trouble with the high likelihood of AI colliding with player- Rubbing against a wall while turning a corner may result in a sudden outbreak of the Flips- No longer has the 'build your own racing team' style of the original, which I feel makes the game less appealing- Have to pay extra for Bathurst (and on that note, there is quite a catalogue of DLC which indicates that a decent amount of content was cut from the game for DLC, the same problem was had with DiRT 3.)This is not really a bad game. However, it is inferior to its predecessor- your money would be much better spent on that.Still could be worth picking up on sale if you are a fan of the series though."
+posted,item_id,recommend,sentiment_analysis
+2014-09-19,22330,True,1
+2014-11-12,44350,False,2

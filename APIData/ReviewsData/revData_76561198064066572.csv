@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2013-09-13,440,True,Best free game I've ever played.
-2015-05-25,237110,True,"REALLY fun with mates, but only if you've got a controller.7/10 because although it IS fun, it lacks the content to keep you entertained for many hours of gameplay."
-2015-06-05,282440,True,"'HUAH, HUAH. HUAH HUAH HUAH. HUAH... HUAH. HUAH, HUAH HUAH HUAH HUAH. HUAH HU- AGHH!'10/10, it's free."
-2015-06-23,232090,True,"If you enjoy gore, this game is for you."
-2015-05-26,200210,True,Simple & fun.
-2014-06-07,730,True,"A very rewarding game, if you know how to use teamwork. Unlike any other FPS out there."
+posted,item_id,recommend,sentiment_analysis
+2013-09-13,440,True,2
+2015-05-25,237110,True,2
+2015-06-05,282440,True,2
+2015-06-23,232090,True,1
+2015-05-26,200210,True,2
+2014-06-07,730,True,1

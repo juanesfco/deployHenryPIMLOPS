@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-24,301520,False,The game was fun until it was updated so you have to sell your stuff because I am a high level So I have a ♥♥♥♥ robot so I can't do anything at all!
-2016-05-12,269210,True,This is a good game and it is fun to Record it check out my channel right herehttps://www.youtube.com/channel/UCmYiVnFNcnNEloAq2m97FQA
-2016-09-05,230410,True,This game is amazing and I Recommend it to anybody!
-2016-08-22,47780,True,I miss it I got rid of it! :(
+posted,item_id,recommend,sentiment_analysis
+2016-08-24,301520,False,1
+2016-05-12,269210,True,2
+2016-09-05,230410,True,2
+2016-08-22,47780,True,0

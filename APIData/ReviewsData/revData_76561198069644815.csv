@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-10-16,218620,False,"Just adding my voice to the choir about the skins.A utterly stupid idea made worse by the fact that Overkill is double-dipping with both Paid DLC, and now microtransactions.Having one is annoying, but understandable, having both is an unconciable moneygrab.If you thought this game wouldn't join the 'money comes first' club after the hype train, shame on you for thinking otherwise"
-2015-02-19,351570,False,"It seems too serious to really be Killing Floor. No '♥♥♥♥♥♥', no 'dosh', no over the top british accents, no hyper gore, no silly weapons. It would have been alright as a standalone movie, but not as something with Killing Floor's name attached to it"
-2016-03-11,365590,True,"It's like Borderlands, except intsead of Mutants and Skags, you shoot Blacks and Hispanics. 10/10"
+posted,item_id,recommend,sentiment_analysis
+2015-10-16,218620,False,0
+2015-02-19,351570,False,2
+2016-03-11,365590,True,1

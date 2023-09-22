@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-06-22,48000,True,"The art is fantastic, the atmosphere is disturbing and the puzzles are, lets say, 'difficultly' easy. I would recomend this game to the people that are looking for something.. different from most other games. The controlls are a bit dodgy but aside from that everything is great.Also phobia warning: DO YOU LOVE SPIDERS? DO YOU HAVE SOME UNCONTROLABLE FETISH OVER THEM? YES? WELL THEN THE FIRST 40 OR SO MINUITES OF THIS GAME ARE FOR YOU! BUT! If you do have arachnaphobia, R.I.P In Peace."
-2016-08-13,211420,True,https://www.youtube.com/watch?v=Gg_C234ago8I rest my case...
-2014-11-29,8930,True,I've played my fair share of stratagy games these past few years but no stratagy I've played gets as good as this (exept maybe starcraft) and when I mean good I mean GOOD.
-2014-11-29,57300,True,"If you like good stories, if you like ambience, if you like puzzles then this game is for you."
+posted,item_id,recommend,sentiment_analysis
+2016-06-22,48000,True,1
+2016-08-13,211420,True,1
+2014-11-29,8930,True,2
+2014-11-29,57300,True,2

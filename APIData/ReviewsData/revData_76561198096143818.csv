@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-05-19,570,False,"This game sucks, ♥♥♥♥in ♥♥♥♥"
-2015-01-05,231430,True,By far my favourite World War II RTS
-2015-01-05,730,True,Good ♥♥♥♥
-2013-07-21,550,True,Awesome Co-Op Game.
+posted,item_id,recommend,sentiment_analysis
+2014-05-19,570,False,0
+2015-01-05,231430,True,1
+2015-01-05,730,True,2
+2013-07-21,550,True,2

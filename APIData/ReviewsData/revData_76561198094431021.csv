@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-12-12,550,True,DAT GAME DO!
-2016-03-12,386360,True,This game is literally one of the funiest games iv eever played if you want refferl rewards use HolyBlade98
-2013-12-01,236390,True,OK now just stop reading and get this game.  No explanation needed!
+posted,item_id,recommend,sentiment_analysis
+2013-12-12,550,True,0
+2016-03-12,386360,True,0
+2013-12-01,236390,True,1

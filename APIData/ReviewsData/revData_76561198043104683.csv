@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-06-13,209080,True,Screaming for 20 mins while we have little to no hp and almost everything broken during 1 match. Intense as hell. 10/10
-2015-06-13,339800,True,10/10 play with patch
-2015-06-13,245170,True,Would probably be fun if not for the fact that the tutorial makes no sense.
-2014-11-29,206440,True,Such an emotional game. Really brought me to tears. 10/10
-2013-11-26,440,True,"Wasted a portion of my life collecting scrap metal for hats and weapons, and paying for in-game items. Still playing the game a year later."
+posted,item_id,recommend,sentiment_analysis
+2015-06-13,209080,True,0
+2015-06-13,339800,True,1
+2015-06-13,245170,True,2
+2014-11-29,206440,True,1
+2013-11-26,440,True,0

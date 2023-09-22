@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-07-16,440,True,Everyone play's this! and its free.
-2013-07-16,206500,True,Amazing indie game. You guys must try it.
-2013-07-16,113200,True,Cheap game very unique gameplay. Enjoy it alot.
-2013-07-16,107410,True,If you havn't already played any ArmA Titles you're missing out so why not start now?
-2013-06-28,570,True,"Like League of Legands but a bit diffrent, None the less still a great game. worth getting unless you're like the %90 of the population that already has it ;)"
-2013-06-28,4000,True,Do I even have to tell you! Why the ♥♥♥♥ don't you already own this???
-2013-03-02,17080,True,Good all round FPS with jetpacks :D +1
+posted,item_id,recommend,sentiment_analysis
+2013-07-16,440,True,2
+2013-07-16,206500,True,1
+2013-07-16,113200,True,2
+2013-07-16,107410,True,0
+2013-06-28,570,True,2
+2013-06-28,4000,True,2
+2013-03-02,17080,True,2

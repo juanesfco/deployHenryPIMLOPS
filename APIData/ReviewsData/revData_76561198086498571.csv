@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-01-23,42960,True,The only one of their games I have a clue to what it is I'm am doing
-2015-01-06,8930,False,Not even that good most units look the same. How da ♥♥♥ can japan in 300bc have the same looking ppl as me GG WP
-2015-01-03,206420,True,If you into DubStep as much as I am than you're gonna love this game... It's why I recommend Drugs and DubStep
-2014-12-31,234670,True,This game is like driving to the cow paddock and picking some cow ♥♥♥♥ concealed mushrooms and then eating them... After a bit like is like this game
-2014-07-25,730,False,I had a life... Had...
-2014-02-22,233270,True,"If this game was longer, I'd give a 11/10 but its not too long, so it gets a 8/10. IGA"
-2014-02-19,252490,False,Not gonna lie runs like ♥♥♥ on the fastest
+posted,item_id,recommend,sentiment_analysis
+2015-01-23,42960,True,1
+2015-01-06,8930,False,2
+2015-01-03,206420,True,1
+2014-12-31,234670,True,0
+2014-07-25,730,False,1
+2014-02-22,233270,True,0
+2014-02-19,252490,False,1

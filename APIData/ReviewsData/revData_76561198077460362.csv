@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-07,252490,True,Good...
-2015-04-16,730,True,Good until TPG Kicks you in the balls
-2014-09-25,550,True,A GAME FULL OF ♥♥♥♥.
+posted,item_id,recommend,sentiment_analysis
+2014-01-07,252490,True,2
+2015-04-16,730,True,2
+2014-09-25,550,True,1

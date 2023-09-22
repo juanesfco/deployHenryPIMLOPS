@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-09-01,275850,False,"No, If you any self respect... Dont buy this game."
-2016-06-16,292030,True,"Amazing game, Best RPG on the market without a doubt.- Looks amazing- Amazing Story- Perfectly Developed Characters- So So So Much to do its insane- Also you dont need to play the older games if you don't want to.Buy this game Plz"
-2014-06-11,570,True,If sex was a game.... you would have dota.
-2014-08-20,313340,True,Tis game is 10/10 dem feels stike the heart like a weedkiller on meth. careful for you may waste your life away on this amaze game dat will tug your hert strungs and meek you sud inseed :'( .
-2016-07-19,431240,False,"THis game is ♥♥♥♥ing awful, do not buy it. go and buy a fattiest burger and eat it, it would do better things to your health than this game will..."
-2016-03-13,437220,True,- Every crate i open in the centre of the island explodes..10/10
-2015-09-13,391720,True,Door Opening Simulator 2015...
-2015-05-16,264710,True,Game froze after 4 hours of gameplay without saving 11/10.
-2014-10-15,214490,True,Its the ♥♥♥♥ tbh.
-2014-06-11,242760,True,Sex
+posted,item_id,recommend,sentiment_analysis
+2016-09-01,275850,False,0
+2016-06-16,292030,True,2
+2014-06-11,570,True,0
+2014-08-20,313340,True,0
+2016-07-19,431240,False,0
+2016-03-13,437220,True,1
+2015-09-13,391720,True,1
+2015-05-16,264710,True,0
+2014-10-15,214490,True,1
+2014-06-11,242760,True,1

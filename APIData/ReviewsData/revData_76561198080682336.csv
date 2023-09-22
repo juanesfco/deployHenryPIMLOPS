@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-01-12,57300,True,Awesome Game the Graphics are really good and with The Custom Stories is it better and funnier i really really REALLY recomment to buy this as u love horror games!
-2013-12-21,225140,True,Really good FPS it looks really Old but it isn't i Prefer to buy this really!
-2013-11-27,630,True,pretty cool third person game
+posted,item_id,recommend,sentiment_analysis
+2014-01-12,57300,True,2
+2013-12-21,225140,True,2
+2013-11-27,630,True,1

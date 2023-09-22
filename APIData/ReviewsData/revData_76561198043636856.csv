@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-02-15,245170,True,"An Amazing 2D fighter Teeming with personality, Charm and some really impresive animation."
-2014-02-13,263300,True,"Kinda hard to recommend, it's a very bare bones port. There no online play for one. But if your a fan of blazblue like i am then the missing features won't matter. Its Blazblue, It's on pc and i love it."
-2015-02-27,323470,True,"You get to make your own DBZ Character! And you can become Vegeta's Apprentice! He acts all indifferent about it but he likes youBut on a more serious note, Xenoverse has pretty cheap combat. its more or less just button mashing. and the servers are constantly down. The boss fights can be really unfair too. but i would still recomend it.7/10"
-2014-02-19,202750,True,"While it's not the sequel we all wanted, Alan Wake's American Nightmare is a fun follow up to one of the best games of recent years. a new survival mode add replay value, Something that the previous game lacked. However the story does invovle alot of back tracking. Be prepared to explore the same Hotel/Obseratory/Drive-in movie theatre over and over as the story progresses. Overal Its a fun little distraction while we wait for Alan Wake 2.8.5/10."
-2014-02-12,72850,True,An open world fantasy RPG for the ages. An absolute 'Must buy'
+posted,item_id,recommend,sentiment_analysis
+2014-02-15,245170,True,2
+2014-02-13,263300,True,1
+2015-02-27,323470,True,2
+2014-02-19,202750,True,1
+2014-02-12,72850,True,1

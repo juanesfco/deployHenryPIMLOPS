@@ -1,11 +1,11 @@
-posted,item_id,recommend,review
-2016-08-18,275850,False,"Fun for the first 25 hrs then its just repetitive. same ai, almost exactly the same planets, and same minerals across all star systems."
-2016-04-12,374320,True,as of first day it = crash souls
-2016-05-24,333950,False,no
-2013-12-21,218620,True,k
-2016-05-22,438680,False,buggy af
-2016-09-07,17390,True,make a carnivorious phalic being
-2016-06-29,233130,True,"Great Game, bit confusing but nonetheless a 20+ hour slaughter-fest. 8/10"
-2015-11-28,417860,True,solid
-2014-06-24,105800,True,10.122sadEWTRE#WaWQeR -IGN
-2014-02-12,12140,True,"Got scared by a door that turned red then started spazzing out, then the game proceeded to shake and i cried then quit the game.10/10would recommend"
+posted,item_id,recommend,sentiment_analysis
+2016-08-18,275850,False,1
+2016-04-12,374320,True,2
+2016-05-24,333950,False,1
+2013-12-21,218620,True,1
+2016-05-22,438680,False,1
+2016-09-07,17390,True,1
+2016-06-29,233130,True,1
+2015-11-28,417860,True,1
+2014-06-24,105800,True,1
+2014-02-12,12140,True,0

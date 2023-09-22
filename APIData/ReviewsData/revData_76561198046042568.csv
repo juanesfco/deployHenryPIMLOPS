@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-06,335300,True,its alright
-2016-02-06,211420,True,pretty good
-2016-02-06,730,True,its ok
+posted,item_id,recommend,sentiment_analysis
+2016-02-06,335300,True,1
+2016-02-06,211420,True,2
+2016-02-06,730,True,2

@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2013-12-30,630,True,"Great game, fun to play with friends. Easy and hard levels which makes the gameplay great"
-2014-09-05,218620,False,♥♥♥♥ this game its ♥♥♥♥ing ♥♥♥♥ now. Micro-transactions are ♥♥♥♥ed in the head. ♥♥♥♥ off Almir you Jewish ♥♥♥♥ ♥♥♥♥
-2014-03-06,208090,False,"'One of the best F2P games I have played. Even if you pay money you dont get better weapons to kill your opponents with which makes it even better' - Me 2014So, that was my old review for this 'game'. It was true at the time but since then the game has been abandoned by the developers, traded in for the PS4 version instead. They ceased development on the PC version and have since closed down the Australian servers, making it unplayable for anyone in the area (including myself). The matchmaking for other servers is garbage as well, taking decades to find a lobby.This game is trash now and I'm glad to be not installing it again after reading the reviews for the game, and now giving my own. A big poop"
-2014-04-13,230410,True,"If you try to run this game on Windows 8, go to the settings on the launcher and change it from DirectX 11 and make it Windowed"
-2014-12-16,322330,True,all g
-2016-02-08,241930,True,Good game but needs more Not worth $65
-2014-07-03,1250,True,great game
+posted,item_id,recommend,sentiment_analysis
+2013-12-30,630,True,2
+2014-09-05,218620,False,0
+2014-03-06,208090,False,1
+2014-04-13,230410,True,0
+2014-12-16,322330,True,1
+2016-02-08,241930,True,2
+2014-07-03,1250,True,2

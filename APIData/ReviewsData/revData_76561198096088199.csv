@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-29,550,True,é massa esse jogo!!!!
-2013-12-08,440,True,Massaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa pa ♥♥♥♥♥
+posted,item_id,recommend,sentiment_analysis
+2014-01-29,550,True,2
+2013-12-08,440,True,1

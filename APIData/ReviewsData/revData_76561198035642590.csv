@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-05-28,292030,True,EXELLENT STORY AND GAMEPLAY! A MUST BUY!
-2013-12-09,109600,True,A very good time killing game!
-2012-03-26,34330,True,Best Rated Strategy game there is on Earth... if you love moving your brain... or reduce Body weight by using some of your brain cells.... TRY SHOGUN 2! :P
+posted,item_id,recommend,sentiment_analysis
+2015-05-28,292030,True,1
+2013-12-09,109600,True,2
+2012-03-26,34330,True,2

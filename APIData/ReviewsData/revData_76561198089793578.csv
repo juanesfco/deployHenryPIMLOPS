@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2016-08-29,462930,True,now we just need adventure facist
-2016-08-29,346900,True,gud game
-2015-11-19,230410,False,loki exsists
-2015-07-08,354140,True,cool game but siting in the office gets boring no offence
+posted,item_id,recommend,sentiment_analysis
+2016-08-29,462930,True,1
+2016-08-29,346900,True,0
+2015-11-19,230410,False,1
+2015-07-08,354140,True,0

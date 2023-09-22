@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-02-22,221100,True,I fully stand by MY product
-2015-07-18,286570,True,"Everyone is complaining how ♥♥♥♥ this game is. Its really not that bad, in fact it is really good. you guys are all saying that it crashes and it has a million glitches, it has not crashed for me, i play this game on ultra high settings, i get 60fps. dont listen to these other ♥♥♥♥♥♥♥♥s writing these reviews. all i can say about this game is, have a more then capable computer, i have a intel i5 4460 processor, windows 8.1 and a gtx 960, this game IS good, just need to fix a few glitches and optimize the game alittle better"
-2014-10-24,263440,False,its gay
+posted,item_id,recommend,sentiment_analysis
+2014-02-22,221100,True,1
+2015-07-18,286570,True,1
+2014-10-24,263440,False,2

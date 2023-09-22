@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-01-02,232910,False,"I found this terrible because i bought Trackmania Canyon, Valley and Stadium, all of which i downloaded but once trying to play the game, it claims i have to repurchase them since i didn't buy them in the first place according to ManiaPlanet, Which means i wasted money on games that won't work, if someone knows how to fix this, i will much appretiate it.. but for now, i am quite irritated"
-2014-07-12,242880,True,"I did enjoy this game, but i fear that it has one fatal flaw: The difficulty.I found myself running from everything that either moved or made a sound because once you are found, it is terribly hard to escape the clutches of the robots, it is damn near impossible!But by saying this i did enjoy the game, much entertainment to be had, just try to remain unnoticed if you are to play because it is quite difficult, but i would recommend playing it at least once!6-8/10It has its moments"
-2013-05-17,208090,True,"Such an amazing game, kinda like Team Fortress 2 except third-person and you get to create weapons and characters! Loads of fun! :)"
-2013-02-16,206500,True,"If you are looking for a fun game whether just for competition or even for time wasting, this is a great choice... Much fun had 9/10"
+posted,item_id,recommend,sentiment_analysis
+2014-01-02,232910,False,0
+2014-07-12,242880,True,1
+2013-05-17,208090,True,2
+2013-02-16,206500,True,2

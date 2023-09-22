@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-09-23,215080,True,"Beautiful, fun free-to-play game."
-2014-07-10,730,True,Great game :)))
-2014-07-10,113020,True,Awesome game ^_^
+posted,item_id,recommend,sentiment_analysis
+2014-09-23,215080,True,2
+2014-07-10,730,True,2
+2014-07-10,113020,True,2

@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-25,570,True,"I'm a 2 years old league of legends player and i have to admit that dota 2 is have something better than lol. It is a great game without imbalanced, no heroes are too strong or too weak, and it is fun too play, even though the open chest keys is kind of frustrating sometime."
-2013-12-25,550,False,Australia have allowed Rated R and this game still Rated M for kids with low violence and consored stuffs. Not recommended.
-2014-01-07,730,True,The realistic of this masterpiece is considerably huge. Love it.
-2014-01-06,201790,True,Great TD games. Recommended.
+posted,item_id,recommend,sentiment_analysis
+2013-12-25,570,True,2
+2013-12-25,550,False,0
+2014-01-07,730,True,2
+2014-01-06,201790,True,2

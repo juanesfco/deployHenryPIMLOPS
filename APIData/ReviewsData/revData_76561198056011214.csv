@@ -1,8 +1,8 @@
-posted,item_id,recommend,review
-2015-01-02,298110,False,keeps crashing
-2015-06-25,208650,True,apart from the FPS cap its been a good game
-2015-01-02,337070,True,The program is good and works but requires you to have tonnes of ram and is super buggy at times and crashes
-2015-04-14,271590,False,game crashes constantly please fix
-2014-10-06,241930,True,great game but it has a few annoying things about it like how you always spawn into the game from the same tower why not let me spawn to where i left off?
-2014-06-25,203160,True,Had a metal pole impale my head10/10
-2013-12-21,8870,True,This Game is Amazing enough said.
+posted,item_id,recommend,sentiment_analysis
+2015-01-02,298110,False,1
+2015-06-25,208650,True,2
+2015-01-02,337070,True,2
+2015-04-14,271590,False,0
+2014-10-06,241930,True,0
+2014-06-25,203160,True,1
+2013-12-21,8870,True,1

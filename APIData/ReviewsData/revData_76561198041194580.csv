@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2013-01-23,400,True,"Good game. Almost completely made of puzzles that will make you think, and occasionally question the laws of physics."
-2014-05-31,202090,True,It's all fun and games 'till someone casts 'Meteor Shower'
+posted,item_id,recommend,sentiment_analysis
+2013-01-23,400,True,1
+2014-05-31,202090,True,2

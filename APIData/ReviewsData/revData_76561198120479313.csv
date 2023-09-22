@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-10-31,319510,True,payed about 5min of this game never again.
-2014-09-17,251570,True,Day 1:Pick up a hoe think im op   -_-    idk
-2014-09-13,730,True,BE careful at b
+posted,item_id,recommend,sentiment_analysis
+2014-10-31,319510,True,0
+2014-09-17,251570,True,1
+2014-09-13,730,True,1

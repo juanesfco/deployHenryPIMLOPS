@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-09-21,105450,True,Yeah. Good. You should get it
-2014-07-09,250320,True,"Absolutely wonderful game that challenges your moral fibre as you must decide what's right and wrong, I highly recommend this game especially if you enjoyed the walking dead game."
+posted,item_id,recommend,sentiment_analysis
+2014-09-21,105450,True,2
+2014-07-09,250320,True,1

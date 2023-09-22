@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2014-12-22,304930,True,Played with friends. 10/10 Jesse kept driving cars into the sea tho.
-2015-10-03,382490,True,Well it is for free.
-2015-01-22,39000,True,John Madden.
-2015-01-22,440,True,I don't like this game.It's Paid 2 Play.And it can cause you to have a addiction of hat collecting.I love this game.
+posted,item_id,recommend,sentiment_analysis
+2014-12-22,304930,True,1
+2015-10-03,382490,True,2
+2015-01-22,39000,True,1
+2015-01-22,440,True,1

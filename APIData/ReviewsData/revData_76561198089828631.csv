@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-29,252490,True,"I bet if you did a study, where a group of people were to play Rust for a prolonged amount time, all of those people would become pyschopathic killers, Great Game"
-2015-08-19,211820,False,♥♥♥♥ game 0/10
+posted,item_id,recommend,sentiment_analysis
+2016-01-29,252490,True,2
+2015-08-19,211820,False,0

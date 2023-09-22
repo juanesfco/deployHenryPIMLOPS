@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2014-12-02,238460,True,muito bom finalizei 21 horas mais porem triste  no final ai n Gostei
-2014-10-04,4000,True,Muito bom
-2014-03-12,104900,True,é jogo muito bom  n sei mais oq eu falo kkkk
+posted,item_id,recommend,sentiment_analysis
+2014-12-02,238460,True,2
+2014-10-04,4000,True,2
+2014-03-12,104900,True,2

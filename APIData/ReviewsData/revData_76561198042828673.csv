@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2013-12-20,730,True,"10/10 Very nice game, brings back the old one games, even though it doesn't have much new content, it's still that really fun game to play. The new buyable and tradeable weapons skin are fantastic, adding more fun."
-2014-07-11,236370,True,its awesome
-2014-05-01,236510,False,Just dont even.
-2013-11-30,51100,False,"The Game is really bad. Almost P2W and the game is highly glitchy. When shot you flinch crazyily it's almost hard to shoot them after that. Weapons spread is so high its amost impossible to hit the enemy. Spawns are also crazed as i spawn on roofs, near groups of enemies. 2/10"
-2015-11-08,291480,False,"I really want to enjoy this but i can't. I signed up for the beta ages ago within the very early stages of this game. When i finally was able to play i coulnd't, too many bugs and all. One major problem i had was mouse acceleration. Still not fixed to this day."
-2014-06-25,266130,True,This game is amazing. Totaly worth your money. It has so much manuverability and so much to do. I highly recommened this game to anyone who wants a game thats tactical and modern military.10/10
-2013-12-21,244870,True,10/10 Fanstastic and Superb. I recommend this for randomness and it's complete fun.
-2014-04-14,248860,True,Great Game. Much Fun. Many Things
+posted,item_id,recommend,sentiment_analysis
+2013-12-20,730,True,2
+2014-07-11,236370,True,2
+2014-05-01,236510,False,1
+2013-11-30,51100,False,0
+2015-11-08,291480,False,2
+2014-06-25,266130,True,1
+2013-12-21,244870,True,2
+2014-04-14,248860,True,2

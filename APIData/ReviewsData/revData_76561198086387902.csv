@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2015-10-16,218620,False,Payday 2 well its more or less CSGO without the CS or the GO now thanks to the new weapon skins
-2015-04-06,8930,True,"played this for abit and worked up to nukes, was playing with a friend and we dicided to no kill each other with nukes little did he know i was stocking up on nukes getting ready to attack him, after soe time after i had more nukes then north korea i attacked turns out he planed for me to do that and had nukes ready as well and that is how fallout 4 started10/10 would nuke again"
-2015-01-15,295110,True,"well today was the day after long a long wait the great loading sim of our time has come out and at a mere $20 bucks you can own this!!!  what you get full 60fps on the loading screen, does my GTX 770 handle this game, it must a full 60fps on the loading screen and nor frame drops my god but in truth i have no idea what this game is like will update once i get in and play it*edit the game is good needs more work but will get there give it time and it will work out"
-2013-12-15,223470,True,Good  game but gets borng after sometime
-2014-04-17,221100,True,"this is a good game but the kids that play this have made it unplayable. now if the kos people would leave the game alone and go play a fps like cod or something this could be one hell of a game, and the ones that kill fresh spawns come on the no challenge in that, its a survial game not kill the bambie and take his pants. now the game is great, love it dont get me wrong, it's you the players that kos and take the fun out of it for others thats the issue."
-2013-12-04,219640,True,"This game is really fun, Team killing Sim 2013 of the year, I kid its kinda hard sometimes but when you get into it you will have a blast."
+posted,item_id,recommend,sentiment_analysis
+2015-10-16,218620,False,2
+2015-04-06,8930,True,2
+2015-01-15,295110,True,2
+2013-12-15,223470,True,2
+2014-04-17,221100,True,1
+2013-12-04,219640,True,0

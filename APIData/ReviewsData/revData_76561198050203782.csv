@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2014-12-07,301520,True,A game where imagination is crucial for building an efficient land or air unit design. Combat is fun and very rewarding.
-2014-12-09,227300,True,Very addictive. You can have fun by using keyboard+mouse or a 360 controller but a steering wheel is recommended for the best simulation experience. The game is moddable. Worth every $ spent.
-2014-12-09,221100,False,"It's been almost a year now since it has been released and the game is not yet optimized. Still there are FPS lags but it can be tolerated. It's quite fun when you're playing with friends, but that's about it. What's really annoying is when you need to find another server to play and right when you join, your character resets to a fresh spawn. Zombies can walk through walls with holes smaller than them. At the moment, I would not recommend this game due to many bugs and glitches."
-2014-11-13,218620,True,Good game to play with friends
-2014-10-29,105600,True,The game is enjoyable especially when you're with friends. Trippy music and lighting. 9/10
+posted,item_id,recommend,sentiment_analysis
+2014-12-07,301520,True,2
+2014-12-09,227300,True,2
+2014-12-09,221100,False,1
+2014-11-13,218620,True,2
+2014-10-29,105600,True,1

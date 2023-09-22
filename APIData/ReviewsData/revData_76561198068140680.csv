@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-08-19,8500,True,My eye's hurt.
-2015-12-27,405010,True,The Gaben = 10/10
-2015-01-15,206420,True,AWESOMEEEE
+posted,item_id,recommend,sentiment_analysis
+2016-08-19,8500,True,1
+2015-12-27,405010,True,1
+2015-01-15,206420,True,1

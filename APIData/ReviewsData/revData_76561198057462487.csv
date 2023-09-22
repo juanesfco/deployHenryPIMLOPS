@@ -1,9 +1,9 @@
-posted,item_id,recommend,review
-2016-05-16,200510,True,"I've had a love-hate relationship with this gameYou name your soldiers after your friends.Get hyped as you level them up, upgrade them, slaughter aliens and such. Until one of your friends die, then the game becomes a 'Do you want to restart level commander?' simulator.9/10"
-2013-11-28,550,True,It's like Airmech except you kill zombies with 3 other strangers!
-2015-06-21,218620,True,HOXTON COME TO ME!HOXTON COME HERE!HOXTON!HOXTON TO ME!HEY HOXTON!HOXTON COME HERE!HOXTON ON ME!HOXTON COME OVER!'Shut the ♥♥♥♥ up'DALLAS! YO DALLAS COME HERE!DALLAS TO ME!COME HERE DALLAS!DALLAS FOLLOW ME!HEY DALLAS!DALLAS ON ME!*kicked from game*
-2015-12-26,200170,True,Helped me discover my water fetish.
-2015-05-29,374570,True,"You don't need a sequel to this because if you actually watch it from beginning to end, you can put it into a timeless loop over and over..."
-2015-03-25,51100,True,OMG BEST GAME OF 20**AMAZING GRAPHICZONE OF THE BEST MULTIPLAYER EXPERIENCES OF ALL TIMEIT'S LIKE COUNTERSTRIKE BUT MORE REALISTICNOT EVEN LoL CAN COMPARE TO ITNOT EVEN MINECRAFT CAN COMPARE TO ITYOU CAN'T BEAT THIS GAME10/10 MUST DOWNLOAD
-2014-09-06,265630,True,"A good fresh way to relax and isolate yourself from the mindless, bullet-after-bullet shooters.Fistful of Frags is a calm FPS that requires patience and skill to land the perfect shots on an unsuspecting enemy.I LIKE IT9.5/10Only downside: That freakin laggy train..."
-2014-07-06,730,True,"'He's around the corner, WATCH OUT!' - Helpful Team 2015*turns corner and proceeds to shoot the wall until gets headshot*'he's a ♥♥♥♥ing hacker i swear' - Sparklenuts 2015"
+posted,item_id,recommend,sentiment_analysis
+2016-05-16,200510,True,0
+2013-11-28,550,True,0
+2015-06-21,218620,True,0
+2015-12-26,200170,True,1
+2015-05-29,374570,True,1
+2015-03-25,51100,True,2
+2014-09-06,265630,True,2
+2014-07-06,730,True,1

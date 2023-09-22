@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-08-03,730,True,"overwatch bans are the best. yes i admit to hacking but lost anyway. im so ♥♥♥♥ing stupid for throwing the game away just for 1 game that i decided to hack in. stupid me, the game is actually pretty dam good! so get it!!"
-2014-09-08,12210,True,tis goodz but i get bad fps
-2014-03-15,570,False,hate it
-2014-06-20,440,True,tf2 for life mate
+posted,item_id,recommend,sentiment_analysis
+2015-08-03,730,True,1
+2014-09-08,12210,True,0
+2014-03-15,570,False,0
+2014-06-20,440,True,1

@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-05-13,109400,False,antes este juego era la raja... hasta que llego el P2W
-2015-08-08,391270,True,"Its a really good game, make you think things...."
+posted,item_id,recommend,sentiment_analysis
+2016-05-13,109400,False,0
+2015-08-08,391270,True,2

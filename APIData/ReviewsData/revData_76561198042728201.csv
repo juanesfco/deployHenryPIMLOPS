@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-05-16,221100,True,"Dayz running simulator 2014,My favourite game out now!besides whats more fun than handcuffing your friends and making thm chug bleach"
-2014-10-01,202970,True,ok.
+posted,item_id,recommend,sentiment_analysis
+2014-05-16,221100,True,2
+2014-10-01,202970,True,2

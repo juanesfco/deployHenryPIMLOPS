@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2016-01-14,440,True,"I only started playing around the end of 2013, if that doesn't say something i don't know what does"
-2014-04-25,620,True,such an awesome game doesn't matter what console i play it on i always laugh and is quite puzzling at times and one of my top 3
+posted,item_id,recommend,sentiment_analysis
+2016-01-14,440,True,1
+2014-04-25,620,True,2

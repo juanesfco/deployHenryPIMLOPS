@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-11-14,404410,True,it needs bit more options like DISPLAYING FREAKING CONTROLS in case you forgget later on it would be nice to also bind them to your own style of conrols
-2015-04-08,252490,True,i am Having trouble with rust the EasyAntiCheat_Setup is not working for me so i can't play it :(
-2014-03-18,440,True,i love it though you have to get good computer to play
+posted,item_id,recommend,sentiment_analysis
+2015-11-14,404410,True,2
+2015-04-08,252490,True,0
+2014-03-18,440,True,2

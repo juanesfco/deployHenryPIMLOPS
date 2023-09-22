@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2015-01-04,263280,True,very very good game if you like driving simulation game likeeurotruck simulation and so on i would recomend this if you like those sorts of games.
-2015-10-04,284160,True,this is a really great and i do recomend it but one thing i think it needs is steam workshop support.
+posted,item_id,recommend,sentiment_analysis
+2015-01-04,263280,True,1
+2015-10-04,284160,True,2

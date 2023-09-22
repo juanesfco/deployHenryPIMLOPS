@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-04,49520,True,"É um jogo que realmente te prende, quando vê já está a 4 horas seguidas jogando, o jogo é frenético e com inimigos diversificados o que não te faz enjoar do game. Muito bom! Recomendo jogar :D"
-2013-05-08,570,True,Totalmente ♥♥♥♥A!!! =]
-2013-03-04,204300,True,Muito legal.... da pra se divertir bem e passar o tempo com os amigos se divertindo =]
+posted,item_id,recommend,sentiment_analysis
+2016-01-04,49520,True,2
+2013-05-08,570,True,2
+2013-03-04,204300,True,2

@@ -1,6 +1,6 @@
-posted,item_id,recommend,review
-2015-09-22,209870,True,"Rest in Peace OCE serversI'll miss being called a C-unt on a daily basis ;(Blacklight is a Cyberpunk-ish themed FPS, In this game you can do many things such as:Smack people with a hammer!Smack people with a Crowbar! (if they even sell them anymore...)Play Titanfall!Become the most hated player with the constructive use of Mines!Use wallhacks to find other people using wallhacks!Buy the Barricade and block yourself in a corner!And Much, much more! Its all good, untill you want a new gun... Have fun grinding!"
-2014-09-23,313740,True,Fox girlsSlime girls And chocolate covered guards...Pretty much sums this up...
-2015-03-27,730,False,"When I bought this game I thought I was going to play some good ol' fashion CS, Not Call of Duty..."
-2014-11-26,209080,True,"Join a merry crew and take to the skies, destroy anyone who opposes you or go down fighting! Best served with friends"
-2014-01-23,221100,True,"DayZ can be a fun game if your going solo, but the real fun is when you invite a few friends and go on merry adventures. The game may still be in alpha, but its still heaps of fun."
+posted,item_id,recommend,sentiment_analysis
+2015-09-22,209870,True,2
+2014-09-23,313740,True,2
+2015-03-27,730,False,2
+2014-11-26,209080,True,2
+2014-01-23,221100,True,1

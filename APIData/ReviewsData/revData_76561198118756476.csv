@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-12-22,620,True,"WARNING!YOU WILL WANT TO PULL HAIR OUT OF YOUR HEAD IN SOME LEVELSOverall, great game. If you don't like it, then go eat a potato, and try again."
-2014-07-26,221910,True,"If you have money, buy this game.If you don't have money, ask for some.If you get the money, buy this game.If you are awesome, buy this game.10/10.Very humourous to explore around in this game"
+posted,item_id,recommend,sentiment_analysis
+2014-12-22,620,True,2
+2014-07-26,221910,True,2

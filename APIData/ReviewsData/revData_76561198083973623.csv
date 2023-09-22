@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2013-12-07,211820,True,Better than Terraria
-2013-12-23,203160,True,สนุกมาก เนื้อเรื่องเข้มข้น
-2013-12-26,550,False,อย่าแจกฟรีสิครับ
-2013-12-16,209540,True,SSZ หนุกดี ใครจะซื้อก็รีบซื้อนะ แต่การควบคุมยากให้ 7/10 งับ
+posted,item_id,recommend,sentiment_analysis
+2013-12-07,211820,True,2
+2013-12-23,203160,True,2
+2013-12-26,550,False,2
+2013-12-16,209540,True,1

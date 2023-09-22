@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-10-18,348470,True,"The last time i played it was using my ps2 consolle.I missed this game so muchThe game is intresting, cool, and challengingThe graphic and the story story line are also great I enjoy this game so much"
-2015-10-18,570,True,A very chalenging game where team work is the most important factor beside your individual skillA single mistake can cost the team to lose the gameStrategy is always needed when plaing with friends or stragers
-2014-09-04,264380,True,Love the story
-2014-03-21,730,True,"GREAT GAME, MANY CHALLENGES, FUN GAME!!!"
+posted,item_id,recommend,sentiment_analysis
+2015-10-18,348470,True,1
+2015-10-18,570,True,2
+2014-09-04,264380,True,2
+2014-03-21,730,True,1

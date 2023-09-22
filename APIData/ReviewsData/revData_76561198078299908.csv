@@ -1,2 +1,2 @@
-posted,item_id,recommend,review
-2015-12-09,299740,False,"This game lacks any fun. Only a handful of servers show up and they all seem to lag you out. It has good intentions but there need to be more models as there are only 3 house models on the game and it gets boring running through the same house all the time. When you get a gun, yeah sweet you've got a gun now time to spend forever finding ammo for it and spend even longer looking for a back pack to carry a decent amount of ammo... Overall rating 1/10. Terrible game."
+posted,item_id,recommend,sentiment_analysis
+2015-12-09,299740,False,1

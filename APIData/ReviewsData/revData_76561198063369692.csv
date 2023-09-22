@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-06-21,107410,True,fun
-2014-03-14,211820,True,i just dont like the start of the game where everything is sos slow
+posted,item_id,recommend,sentiment_analysis
+2014-06-21,107410,True,2
+2014-03-14,211820,True,0

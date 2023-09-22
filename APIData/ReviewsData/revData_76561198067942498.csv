@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-02-21,418340,True,"I can play as Weiss, best game of all time."
-2015-06-29,11610,True,I love this game
-2014-08-01,245170,True,just buy it
+posted,item_id,recommend,sentiment_analysis
+2016-02-21,418340,True,2
+2015-06-29,11610,True,1
+2014-08-01,245170,True,1

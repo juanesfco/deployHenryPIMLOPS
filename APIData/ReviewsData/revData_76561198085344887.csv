@@ -1,5 +1,5 @@
-posted,item_id,recommend,review
-2015-06-25,208090,False,"I played it a few years ago, since then the Australian server has been shut down. While I played it, it was fun, but got repetitive."
-2015-06-16,244730,False,"Too many controls.Repetitive game. Gameplay: 6/10Story: 3/10Overall: 5/10I recommend you try it if you can, don't purchase it at the full retail price though."
-2015-12-02,400,True,"It's a decent game. But it's very short for its full price. Not worth its full retail price, get it on a steam sale."
-2015-06-14,26800,True,"If you're going to play this game, set the FPS to Auto or 30FPS instead of 60FPS. Otherwise your game will be 2x slower. I didn't realise this, and played the entire game at this speed. I didn't realise until I watched the true ending on YouTube, and Tim was running 2x faster than my Tim. My game time would have been cut in half had I known.It's a good game, good platformer. However, I didn't enjoy the story. I don't like how they left the ending open to interpretation. It's like spending 3 to 4 hours reading a book, only to have the author rip you off at the end with a dissatisfactory ending.Puzzles: 9/10 - Requires lateral thinkingGameplay: 8/10Story - 4/10Visuals - 8/10Overall 7.5/10"
+posted,item_id,recommend,sentiment_analysis
+2015-06-25,208090,False,1
+2015-06-16,244730,False,2
+2015-12-02,400,True,1
+2015-06-14,26800,True,1

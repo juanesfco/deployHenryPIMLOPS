@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2016-01-25,331500,True,"This game is balls to wall amassing ive seen some game and this has to be one of a fav indie game, they guy who made this game you sir are a genus"
-2015-06-16,105600,True,A Good game that was well thought and is a good choice but there can be moments of hilarity
-2013-04-18,4000,True,try it u will blow ur mind into balls of death
+posted,item_id,recommend,sentiment_analysis
+2016-01-25,331500,True,0
+2015-06-16,105600,True,2
+2013-04-18,4000,True,1

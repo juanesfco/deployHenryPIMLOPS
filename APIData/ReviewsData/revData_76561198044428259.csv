@@ -1,7 +1,7 @@
-posted,item_id,recommend,review
-2016-01-16,10090,True,"Very good game 10/10 probaly the best ww2 game i have ever played, very intense on mp would reccomend to anymore."
-2014-01-10,440,True,its a nice game
-2015-06-09,298240,True,"So fun and funny! Still in DEV But its fun to play with friends.Need to add maps, I understand its in beta but maybe at more maps (Only 2 atm Autobahn if fav map)Rating 8.9/10"
-2015-02-13,227940,True,yup pretty dank 8/10
-2014-12-28,10180,True,"Good game, downside was NAT type was strict. Other than that. 7/10 Good Game"
-2014-05-20,55370,True,Haha nice
+posted,item_id,recommend,sentiment_analysis
+2016-01-16,10090,True,2
+2014-01-10,440,True,1
+2015-06-09,298240,True,2
+2015-02-13,227940,True,2
+2014-12-28,10180,True,1
+2014-05-20,55370,True,2

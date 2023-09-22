@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-10-28,45730,False,DRM Prevents activation. Don't buy.
-2014-03-29,99400,False,Charmingly terrible with ok graphics and nice visual designs (except for Garshasps face) mixed with horribly implemented hack and slash game mechanics and bad levels. Only really good thing about this is it's length (short).
+posted,item_id,recommend,sentiment_analysis
+2014-10-28,45730,False,1
+2014-03-29,99400,False,0

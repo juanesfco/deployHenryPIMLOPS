@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-12-23,410210,False,"Hey, that's pretty good"
-2014-08-03,304930,True,"Me and a couple friends got this game and went into it looking to make fun of it since it was made by a 16 year old. Once we played the game we realised that it is a great game (especially since it is free). Obviously the graphics are lacking and it is still only small but it has a lot of potential to grow into something amazing. More maps, better multiplayer, and a few other tweaks would improve it tons but other than that the gameplay is great."
-2014-05-21,209080,True,Amazing team strategy game.
+posted,item_id,recommend,sentiment_analysis
+2015-12-23,410210,False,2
+2014-08-03,304930,True,2
+2014-05-21,209080,True,2

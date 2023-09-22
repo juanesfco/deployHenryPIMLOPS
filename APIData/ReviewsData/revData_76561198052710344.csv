@@ -1,3 +1,3 @@
-posted,item_id,recommend,review
-2014-01-11,207610,True,"The Walking Dead is about a world devastated by an undead apocalypse and the horrifying choices you're forced to make to survive. Assume the role of Lee Everett, a convicted criminal."
-2014-01-11,211400,True,Great platforming game for those who have played and loved Limbo.
+posted,item_id,recommend,sentiment_analysis
+2014-01-11,207610,True,0
+2014-01-11,211400,True,2

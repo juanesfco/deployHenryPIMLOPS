@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2015-07-25,2280,True,"Wolfenstein 3D set the stage, D00M made the show come alive. "
-2014-02-11,2990,True,Remember to wear your seat belt.
-2014-07-10,224540,False,"I didn't enjoy this game, I do not recommend it."
+posted,item_id,recommend,sentiment_analysis
+2015-07-25,2280,True,1
+2014-02-11,2990,True,1
+2014-07-10,224540,False,1

@@ -1,4 +1,4 @@
-posted,item_id,recommend,review
-2013-10-29,440,True,i like it make a new items i love u valve
-2013-08-07,209870,True,cool
-2013-07-02,17080,True,oh my go this is game are SO AWESOME
+posted,item_id,recommend,sentiment_analysis
+2013-10-29,440,True,2
+2013-08-07,209870,True,2
+2013-07-02,17080,True,2

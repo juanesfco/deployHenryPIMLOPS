@@ -1,10 +1,10 @@
-posted,item_id,recommend,review
-2014-11-28,42160,True,It is ok.
-2014-11-28,1930,True,Actually not a bad game at all!
-2014-11-28,12220,True,Great game all GTA games rule!
-2014-11-28,8930,True,Good game but nothing beats civilization 3 and 4!
-2014-11-28,9900,False,IT is ok just hate it that you have to pay to upgrade inventory space and it is what lets this game down if you have money to waste then its a good game but for me it is not justified!
-2014-11-28,220240,False,What ruined this game is where it was based in asia far cry 2 was much better set in africa loved how you could burn fields and realistic environment what is say is far cry 4 looks like it is set in asia as well
-2014-11-28,24740,True,Easy to get into and quite fun!
-2014-11-28,238960,False,diablo 3 clone only with more skills only big let down is xp loss on death should either be equipment damage or gold coin loss for me this kills the game and prefer diablo 3
-2014-02-14,47410,False,piece of crap game
+posted,item_id,recommend,sentiment_analysis
+2014-11-28,42160,True,2
+2014-11-28,1930,True,1
+2014-11-28,12220,True,2
+2014-11-28,8930,True,1
+2014-11-28,9900,False,0
+2014-11-28,220240,False,2
+2014-11-28,24740,True,2
+2014-11-28,238960,False,1
+2014-02-14,47410,False,0
