@@ -73,7 +73,7 @@ async def userdata(user_id: str):
         except:
             r=0
     
-    return {"cantidad":cantidad,"items":cantidadItems,"recper":r}
+    return {"cantidad":cantidad.item(),"items":cantidadItems.item(),"recper":r}
 
 @app.get("/countreviews/")
 async def countreviews(date1: str, date2: str):
@@ -101,20 +101,22 @@ async def countreviews(date1: str, date2: str):
             pass
     if rt == 0:
         rt = 1
+    p = rr/rt*100
 
-    return {"UserCount":userCount,"RecPercentage":rr/rt*100}
+    return {"UserCount":userCount,"RecPercentage":p} 
 
 @app.get("/genre/{genre_i}")
-async def genre(genre_i: str):
+async def genre(genre: str):
     path = 'APIData/'
     fn_genresRank = path + 'genresRank.csv'
     df_genresRank = pd.read_csv(fn_genresRank)
 
-    genreRow = df_genresRank[df_genresRank['genre'] == genre_i]
+    genreRow = df_genresRank[df_genresRank['genre'] == genre]
     if len(genreRow) == 0:
         return('Not a genre (case sensitive)')
     else:
-        return {"rank": genreRow.index[0] + 1}
+        rank = genreRow.index[0] + 1
+        return {"rank": rank.item()}
 
 @app.get("/userforgenre/{genre}")
 async def userforgenre(genre: str):
@@ -145,11 +147,11 @@ async def developer(dev:str):
         return('No games found of this developer')
     else:
         df_steamGames_dev.loc[:,'release_date'] = pd.to_datetime(df_steamGames_dev['release_date']).dt.year
-        year = df_steamGames_dev.groupby('release_date').count().index.values
+        year = list(df_steamGames_dev.groupby('release_date').count().index.values)
         count  = df_steamGames_dev.groupby('release_date').count()['price'].values
         df_steamGames_dev.loc[:,'price'] = (df_steamGames_dev['price'] == 0)
-        free = df_steamGames_dev.groupby('release_date').sum()['price'].values
-        per = (free/count*100).astype(str)
+        free = list(df_steamGames_dev.groupby('release_date').sum()['price'].values)
+        per = list((free/count*100).astype(str))
         df_ret = pd.DataFrame({'year':year,'count':count,'free_content':per})
         df_ret['free_content']= df_ret['free_content'].str.slice(0,4)
         df_ret['free_content'] = df_ret['free_content'].values + '%'
@@ -174,7 +176,7 @@ async def sentiment_analysis(year:int):
         pass
     rdic = {'Negative':0,'Neutral':0,'Positive':0}
     for i in range(len(sa_index)):
-        rdic[sa_index[i]] = sa_count[i]
+        rdic[sa_index[i]] = sa_count[i].item()
     
     return rdic
 
