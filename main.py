@@ -152,7 +152,7 @@ async def developer(dev:str):
         df_steamGames_dev.loc[:,'price'] = (df_steamGames_dev['price'] == 0)
         free = df_steamGames_dev.groupby('release_date').sum()['price'].values
         per = (free/count*100).astype(str)
-        df_ret = pd.DataFrame({'year':list(year),'count':list(count),'free_content':list(per)})
+        df_ret = pd.DataFrame({'year':year.tolist(),'count':count.tolist(),'free_content':per.tolist()})
         df_ret['free_content']= df_ret['free_content'].str.slice(0,4)
         df_ret['free_content'] = df_ret['free_content'].values + '%'
         return {dev:df_ret}
