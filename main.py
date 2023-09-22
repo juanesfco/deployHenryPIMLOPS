@@ -9,7 +9,7 @@ app = FastAPI()
 @app.get("/")
 async def root():
     f = open("APIData/welcome.txt", "r")
-    return print(f.read())
+    return f.read()
 
 @app.get("/userdata/")
 async def userdata(user_id: str):
