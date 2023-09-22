@@ -2,14 +2,14 @@ from typing import Optional
 import pandas as pd
 import numpy as np
 from fastapi import FastAPI
+from starlette.responses import FileResponse 
 
 app = FastAPI()
 
 
 @app.get("/")
 async def root():
-    f = open("APIData/welcome.txt", "r")
-    return f.read()
+    return FileResponse('APIData/index.html')
 
 @app.get("/userdata/")
 async def userdata(user_id: str):
