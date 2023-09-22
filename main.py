@@ -10,7 +10,7 @@ app = FastAPI()
 async def root():
     return {"message": "Hello World"}
 
-@app.get("/userdata/{user_id}")
+@app.get("/userdata/")
 async def userdata(user_id: str):
 
     ## Step 1. Import General User Items dataframe and filter using user id input
@@ -80,32 +80,23 @@ async def countreviews(date1: str, date2: str):
     date1 = pd.to_datetime(date1)
     date2 = pd.to_datetime(date2)
 
-    fn_reviews = 'APIData/df_reviews.csv'
-    df_reviews = pd.read_csv(fn_reviews)
-    SIDs = df_reviews['steam_id'].values
+    fn_reviews_r = 'APIData/df_reviews_r.csv'
+    df_reviews_r = pd.read_csv(fn_reviews_r)
 
-    userCount = 0
-    rr = 0
-    rt = 0
-    for s in SIDs:
-        fn_reviews_i = 'APIData/ReviewsData/revData_' + str(s) + '.csv'
-        try:
-            df_reviews_i = pd.read_csv(fn_reviews_i)
-            df_reviews_i_betweenDates = df_reviews_i[pd.to_datetime(df_reviews_i['posted']).between(date1,date2)]
-            n = len(df_reviews_i_betweenDates)
-            if n > 0:
-                userCount += 1
-                rt += n
-                rr += sum(df_reviews_i_betweenDates['recommend'])
-        except:
-            pass
-    if rt == 0:
-        rt = 1
-    p = rr/rt*100
+    df_reviews_r_betweenDates = df_reviews_r[pd.to_datetime(df_reviews_r['posted']).between(date1,date2)]
+    n = len(df_reviews_r_betweenDates)
 
-    return {"UserCount":userCount,"RecPercentage":p} 
+    users = len(df_reviews_r_betweenDates.groupby('steam_id').count())
 
-@app.get("/genre/{genre_i}")
+    if n > 0:
+        r = sum(df_reviews_r_betweenDates['recommend'])
+        p = r/n*100
+    else:
+        p=0
+
+    return {"UserCount":users,"RecPercentage":p} 
+
+@app.get("/genre/")
 async def genre(genre: str):
     path = 'APIData/'
     fn_genresRank = path + 'genresRank.csv'
@@ -118,7 +109,7 @@ async def genre(genre: str):
         rank = genreRow.index[0] + 1
         return {"rank": rank.item()}
 
-@app.get("/userforgenre/{genre}")
+@app.get("/userforgenre/")
 async def userforgenre(genre: str):
     path = 'APIData/GenresData/'
     fn_genreRank = path + 'genreData_' + genre + '.csv'
@@ -137,7 +128,7 @@ async def userforgenre(genre: str):
     except:
         return('Not a genre (case sensitive)')
 
-@app.get("/developer/{dev}")
+@app.get("/developer/")
 async def developer(dev:str):
     fn_steamGames = 'APIData/df_steamGames.csv'
     df_steamGames = pd.read_csv(fn_steamGames)
@@ -155,9 +146,9 @@ async def developer(dev:str):
         df_ret = pd.DataFrame({'year':year.tolist(),'count':count.tolist(),'free_content':per})
         df_ret['free_content']= df_ret['free_content'].str.slice(0,4)
         df_ret['free_content'] = (df_ret['free_content'].values + '%').tolist()
-        return {dev:df_ret}
+        return {dev:df_ret.to_dict()}
 
-@app.get('/sentiment_analysis/{year}')
+@app.get('/sentiment_analysis/')
 async def sentiment_analysis(year:int):
     fn_steamGames = 'APIData/df_steamGames.csv'
     df_steamGames = pd.read_csv(fn_steamGames)
@@ -180,7 +171,7 @@ async def sentiment_analysis(year:int):
     
     return rdic
 
-@app.get('/recomendacion_juego/{item_id}')
+@app.get('/recomendacion_juego/')
 async def recomendacion_juego(item_id:int):
     fn_steamGames = 'APIData/df_steamGames.csv'
     df_steamGames = pd.read_csv(fn_steamGames)
